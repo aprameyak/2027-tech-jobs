@@ -20,58 +20,11 @@ Use this repo to share and keep track of software engineering internships and ne
  - 🇺🇸 - Requires U.S. Citizenship
  - 🔒 - Application is closed
 
-| Season | Link | Description |
-| ------ | ---- | ----------- |
-| ☀️ Summer 2027 | [internships/summer-2027.md](internships/summer-2027.md) | Software engineering internships for Summer 2027 |
-| 🍂 Fall 2027 | [internships/fall-2027.md](internships/fall-2027.md) | Fall 2027 co-ops and internships |
-| ❄️ Winter 2027 | [internships/winter-2027.md](internships/winter-2027.md) | Winter 2027 co-ops and internships |
+| Category | Link | Description |
+| -------- | ---- | ----------- |
+| ☀️ Summer 2027 Internships | [internships/summer-2027.md](internships/summer-2027.md) | Summer 2027 SWE internships |
+| 🔄 Off-Cycle / Co-ops | [offcycle/2027.md](offcycle/2027.md) | Fall, Winter, Spring, and Year-Round co-ops |
 | 🎓 New Grad 2027 | [new-grad/2027.md](new-grad/2027.md) | Full-time new grad roles for the class of 2027 |
-
----
-
-## FAQ
-
-<details>
-<summary><strong>How often is this updated?</strong></summary>
-
-This list is updated manually as new job postings are found. Community contributions via pull requests are the primary driver of updates. Star the repo and watch for notifications.
-
-</details>
-
-<details>
-<summary><strong>How do I know if an application is still open?</strong></summary>
-
-If a listing shows 🔒 in the Application/Link column, the application window has passed. If a link appears broken, please [open an issue](https://github.com/aprameyak/2027-swe-jobs/issues) or submit a fix via PR.
-
-</details>
-
-<details>
-<summary><strong>What counts as a "software engineering" role?</strong></summary>
-
-This list focuses on roles with titles like Software Engineer (SWE), Software Development Engineer (SDE), Software Developer, and closely related technical roles (e.g., Platform, Infrastructure, Backend, Frontend, Full-Stack). PM, Data Science, and DevOps roles are generally out of scope.
-
-</details>
-
-<details>
-<summary><strong>Does this list include non-US roles?</strong></summary>
-
-This repository is exclusively for internships/co-ops in the **United States, Canada, or Remote** positions.
-
-</details>
-
-<details>
-<summary><strong>Can I submit a role at a small company?</strong></summary>
-
-Absolutely. All company sizes are welcome as long as the posting is legitimate and publicly accessible.
-
-</details>
-
-<details>
-<summary><strong>I found a duplicate listing — what should I do?</strong></summary>
-
-Please open a pull request removing the duplicate, keeping the more complete/accurate entry.
-
-</details>
 
 ---
 

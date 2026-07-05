@@ -17,24 +17,24 @@ Use this page to share and keep track of software engineering internships for **
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-| Company | Role | Location | Application/Link | Date Posted |
-| ------- | ---- | -------- | ---------------- | ----------- |
-| Anduril | Software Engineer Intern | <details><summary>**6 locations**</summary>Atlanta, GA</br>Boston, MA</br>Costa Mesa, CA</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details> | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
-| Apple | Software Engineer Intern, Undergrad | United States | <a href="https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
-| ↳ | Software Engineering Intern, Masters | United States | <a href="https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
-| Aquatic | Software Engineer Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
-| DE Shaw | Software Developer Intern | New York, NY | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
-| Google | Software Engineering Intern, BS | Mountain View, CA | <a href="https://careers.google.com/jobs/results/?category=INTERN"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
-| IMC | Software Engineer Intern | Chicago, IL | <a href="https://www.imc.com/us/careers/jobs/4823924101"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
-| Meta | Software Engineer Intern | Menlo Park, CA | <a href="https://www.metacareers.com/careersearch/?q=intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
-| Microsoft | Software Engineering Intern | Redmond, WA | <a href="https://careers.microsoft.com/students/us/en/search-results?keywords=intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
-| Optiver | Software Engineer Intern | Chicago, IL | <a href="https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
-| ↳ | Software Engineer Intern | Austin, TX | <a href="https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
-| Stripe | Software Engineer Intern 🛂 | San Francisco, CA | <a href="https://stripe.com/jobs/search?q=intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
-| Susquehanna International Group | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| Company | Role | Location | Education | Application/Link | Date Posted |
+| ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Anduril | Software Engineer Intern | <details><summary>**6 locations**</summary>Atlanta, GA</br>Boston, MA</br>Costa Mesa, CA</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details> | Undergrad | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| Apple | Software Engineer Intern | United States | Undergrad | <a href="https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| ↳ | Software Engineer Intern | United States | Masters | <a href="https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| Aquatic | Software Engineer Intern | Chicago, IL | Undergrad | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| DE Shaw | Software Developer Intern | New York, NY | Undergrad | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| Google | Software Engineering Intern | Mountain View, CA | Undergrad | <a href="https://careers.google.com/jobs/results/?category=INTERN"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| IMC | Software Engineer Intern | Chicago, IL | Undergrad | <a href="https://www.imc.com/us/careers/jobs/4823924101"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| Meta | Software Engineer Intern | Menlo Park, CA | Undergrad | <a href="https://www.metacareers.com/careersearch/?q=intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| Microsoft | Software Engineering Intern | Redmond, WA | Undergrad | <a href="https://careers.microsoft.com/students/us/en/search-results?keywords=intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| Optiver | Software Engineer Intern | Chicago, IL | Undergrad | <a href="https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| ↳ | Software Engineer Intern | Austin, TX | Undergrad | <a href="https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| Stripe | Software Engineer Intern 🛂 | San Francisco, CA | Undergrad | <a href="https://stripe.com/jobs/search?q=intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| Susquehanna International Group | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | Undergrad | <a href="https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 
 ---
 
-[← Back to Main List](../README.md) | [Fall 2027 →](fall-2027.md) | [Winter 2027 →](winter-2027.md)
+[← Back to Main List](../README.md) | [Off-Cycle / Co-ops →](../offcycle/2027.md) | [New Grad →](../new-grad/2027.md)
