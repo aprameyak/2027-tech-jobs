@@ -1,0 +1,103 @@
+# Companies to monitor for intern/new grad postings
+# board: greenhouse | lever | ashby
+# slug: the company's identifier on that board
+
+greenhouse:
+  - name: Airbnb
+    slug: airbnb
+  - name: Amplitude
+    slug: amplitude
+  - name: Anduril
+    slug: andurilindustries
+  - name: Aquatic
+    slug: aquaticcapitalmanagement
+  - name: Asana
+    slug: asana
+  - name: Brex
+    slug: brex
+  - name: Citadel
+    slug: citadelsecurities
+  - name: Coinbase
+    slug: coinbase
+  - name: Databricks
+    slug: databricks
+  - name: Datadog
+    slug: datadoghq
+  - name: Discord
+    slug: discord
+  - name: DoorDash
+    slug: doordash
+  - name: Duolingo
+    slug: duolingo
+  - name: Etsy
+    slug: etsy
+  - name: Figma
+    slug: figma
+  - name: HubSpot
+    slug: hubspot
+  - name: IMC Trading
+    slug: imctradingbv
+  - name: Lyft
+    slug: lyft
+  - name: MongoDB
+    slug: mongodb
+  - name: Notion
+    slug: notion
+  - name: Okta
+    slug: okta
+  - name: Palantir
+    slug: palantir
+  - name: Pinterest
+    slug: pinterest
+  - name: Plaid
+    slug: plaid
+  - name: Rippling
+    slug: rippling
+  - name: Robinhood
+    slug: robinhood
+  - name: Snowflake
+    slug: snowflake
+  - name: Squarespace
+    slug: squarespace
+  - name: Stripe
+    slug: stripe
+  - name: Tower Research Capital
+    slug: towerresearchcapital
+  - name: Twilio
+    slug: twilio
+  - name: Webflow
+    slug: webflow
+
+lever:
+  - name: Affirm
+    slug: affirm
+  - name: Carta
+    slug: carta
+  - name: Checkr
+    slug: checkr
+  - name: Flexport
+    slug: flexport
+  - name: Gusto
+    slug: gusto
+  - name: Netflix
+    slug: netflix
+  - name: Reddit
+    slug: reddit
+
+ashby:
+  - name: Anthropic
+    slug: anthropic
+  - name: Cursor
+    slug: anysphere
+  - name: Linear
+    slug: linear
+  - name: Perplexity
+    slug: perplexityai
+  - name: Ramp
+    slug: ramp
+  - name: Retool
+    slug: retool
+  - name: Scale AI
+    slug: scaleai
+  - name: Vercel
+    slug: vercel
