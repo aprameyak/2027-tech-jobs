@@ -270,6 +270,139 @@ def scrape_smartrecruiters(company, identifier):
     return jobs
 
 
+def scrape_workable(company, slug):
+    url = f'https://apply.workable.com/api/v1/widget/accounts/{slug}'
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=10)
+        if resp.status_code != 200:
+            print(f'  [{company}] Workable HTTP {resp.status_code}')
+            return []
+        jobs = []
+        for job in resp.json().get('jobs', []):
+            title = job.get('title', '')
+            loc = job.get('location', {})
+            country = loc.get('countryCode', '').lower()
+            remote = loc.get('remote', False)
+            city = loc.get('city', '')
+            region = loc.get('region', '')
+
+            if not (country in ('us', 'ca') or remote):
+                continue
+
+            if remote:
+                location = 'Remote'
+            elif city and region:
+                location = f'{city}, {region}'
+            elif city:
+                location = city
+            else:
+                location = country.upper() if country else ''
+
+            if is_relevant_title(title):
+                job_id = job.get('shortcode', job.get('id', ''))
+                jobs.append({
+                    'id': f'workable_{slug}_{job_id}',
+                    'company': company,
+                    'title': title,
+                    'location': location,
+                    'url': f'https://apply.workable.com/{slug}/j/{job_id}/',
+                    'board': 'Workable',
+                })
+        return jobs
+    except Exception as e:
+        print(f'  [{company}] Workable error: {e}')
+        return []
+
+
+def scrape_recruitee(company, slug):
+    url = f'https://{slug}.recruitee.com/api/offers/'
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=10)
+        if resp.status_code != 200:
+            print(f'  [{company}] Recruitee HTTP {resp.status_code}')
+            return []
+        jobs = []
+        for job in resp.json().get('offers', []):
+            title = job.get('title', '')
+            country = (job.get('country') or '').lower()
+            remote = job.get('remote', False) or 'remote' in (job.get('location') or '').lower()
+            city = job.get('city', '') or ''
+            region = job.get('province', '') or ''
+
+            if not (country in ('us', 'ca', 'united states', 'canada') or remote):
+                continue
+
+            if remote:
+                location = 'Remote'
+            elif city and region:
+                location = f'{city}, {region}'
+            elif city:
+                location = city
+            else:
+                location = country.title() if country else ''
+
+            if is_relevant_title(title):
+                job_id = str(job.get('id', ''))
+                careers_url = job.get('careers_url', f'https://{slug}.recruitee.com/o/{job.get("slug", job_id)}')
+                jobs.append({
+                    'id': f'recruitee_{slug}_{job_id}',
+                    'company': company,
+                    'title': title,
+                    'location': location,
+                    'url': careers_url,
+                    'board': 'Recruitee',
+                })
+        return jobs
+    except Exception as e:
+        print(f'  [{company}] Recruitee error: {e}')
+        return []
+
+
+def scrape_pinpoint(company, slug):
+    url = f'https://{slug}.pinpointhq.com/postings.json'
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=10)
+        if resp.status_code != 200:
+            print(f'  [{company}] Pinpoint HTTP {resp.status_code}')
+            return []
+        jobs = []
+        for job in resp.json().get('data', []):
+            attrs = job.get('attributes', {})
+            title = attrs.get('job-title', '')
+            workplace = attrs.get('workplace-type', '').lower()
+            remote = workplace == 'remote'
+            city = attrs.get('city', '') or ''
+            region = attrs.get('state-province', '') or ''
+            country = (attrs.get('country', '') or '').lower()
+
+            if not (country in ('united states', 'us', 'canada', 'ca') or remote):
+                continue
+
+            if remote:
+                location = 'Remote'
+            elif city and region:
+                location = f'{city}, {region}'
+            elif city:
+                location = city
+            else:
+                location = ''
+
+            if is_relevant_title(title):
+                job_id = job.get('id', '')
+                jobs.append({
+                    'id': f'pinpoint_{slug}_{job_id}',
+                    'company': company,
+                    'title': title,
+                    'location': location,
+                    'url': f'https://{slug}.pinpointhq.com/postings/{job_id}',
+                    'board': 'Pinpoint',
+                })
+        return jobs
+    except Exception as e:
+        print(f'  [{company}] Pinpoint error: {e}')
+        return []
+
+
 def scrape_workday(company, tenant, instance, board):
     if board:
         api_url = f'https://{tenant}.{instance}.myworkdayjobs.com/wday/cxs/{tenant}/{board}/jobs'
@@ -422,17 +555,23 @@ def main():
                     seen.add(job['id'])
             time.sleep(0.4)
 
-    for entry in config.get('smartrecruiters', []):
-        company = entry['name']
-        identifier = entry['identifier']
-        print(f'Checking {company} (smartrecruiters/{identifier})...')
-        jobs = scrape_smartrecruiters(company, identifier)
-        for job in jobs:
-            if job['id'] not in seen:
-                print(f'  NEW: {job["title"]} @ {job["location"]}')
-                new_jobs.append(job)
-                seen.add(job['id'])
-        time.sleep(0.4)
+    for board_key, scraper, slug_field in [
+        ('smartrecruiters', scrape_smartrecruiters, 'identifier'),
+        ('workable', scrape_workable, 'slug'),
+        ('recruitee', scrape_recruitee, 'slug'),
+        ('pinpoint', scrape_pinpoint, 'slug'),
+    ]:
+        for entry in config.get(board_key, []):
+            company = entry['name']
+            slug = entry[slug_field]
+            print(f'Checking {company} ({board_key}/{slug})...')
+            jobs = scraper(company, slug)
+            for job in jobs:
+                if job['id'] not in seen:
+                    print(f'  NEW: {job["title"]} @ {job["location"]}')
+                    new_jobs.append(job)
+                    seen.add(job['id'])
+            time.sleep(0.4)
 
     for entry in config.get('workday', []):
         company = entry['name']

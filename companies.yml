@@ -113,6 +113,34 @@ smartrecruiters:
   - name: Klarna
     identifier: Klarna
 
+workable:
+  - name: Browserbase
+    slug: browserbase
+  - name: Codeium
+    slug: codeium
+  - name: Descript
+    slug: descript
+  - name: Glean
+    slug: glean
+  - name: Notion Calendar
+    slug: notioncalendar
+  - name: Weights & Biases
+    slug: wandb
+
+recruitee:
+  - name: Intercom
+    slug: intercom
+  - name: Miro
+    slug: miro
+  - name: Typeform
+    slug: typeform
+
+pinpoint:
+  - name: Aiven
+    slug: aiven
+  - name: Hasura
+    slug: hasura
+
 workday:
   - name: Adobe
     tenant: adobe
