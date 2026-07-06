@@ -105,6 +105,14 @@ lever:
   - name: Spotify
     slug: spotify
 
+smartrecruiters:
+  - name: Algolia
+    identifier: Algolia
+  - name: Criteo
+    identifier: Criteo
+  - name: Klarna
+    identifier: Klarna
+
 workday:
   - name: Adobe
     tenant: adobe

@@ -211,6 +211,65 @@ def scrape_ashby(company, slug):
         return []
 
 
+def scrape_smartrecruiters(company, identifier):
+    url = f'https://api.smartrecruiters.com/v1/companies/{identifier}/postings'
+    params = {'status': 'PUBLIC', 'limit': 100, 'offset': 0}
+    jobs = []
+
+    while True:
+        try:
+            resp = requests.get(url, params=params, headers=HEADERS, timeout=10)
+            if resp.status_code != 200:
+                print(f'  [{company}] SmartRecruiters HTTP {resp.status_code}')
+                break
+            data = resp.json()
+            content = data.get('content', [])
+            if not content:
+                break
+            for job in content:
+                title = job.get('name', '')
+                loc = job.get('location', {})
+                country = loc.get('country', '').lower()
+                remote = loc.get('remote', False)
+                city = loc.get('city', '')
+                region = loc.get('region', '')
+
+                # Only North America or remote
+                if not (country in ('us', 'ca') or remote):
+                    continue
+
+                if remote:
+                    location = 'Remote'
+                elif city and region:
+                    location = f'{city}, {region}'
+                elif city:
+                    location = city
+                else:
+                    location = country.upper() if country else ''
+
+                if is_relevant_title(title):
+                    job_id = job.get('id', '')
+                    ref = job.get('ref', f'https://jobs.smartrecruiters.com/{identifier}/{job_id}')
+                    jobs.append({
+                        'id': f'smartrecruiters_{identifier}_{job_id}',
+                        'company': company,
+                        'title': title,
+                        'location': location,
+                        'url': ref,
+                        'board': 'SmartRecruiters',
+                    })
+
+            total = data.get('totalFound', 0)
+            params['offset'] += len(content)
+            if params['offset'] >= total:
+                break
+        except Exception as e:
+            print(f'  [{company}] SmartRecruiters error: {e}')
+            break
+
+    return jobs
+
+
 def scrape_workday(company, tenant, instance, board):
     if board:
         api_url = f'https://{tenant}.{instance}.myworkdayjobs.com/wday/cxs/{tenant}/{board}/jobs'
@@ -362,6 +421,18 @@ def main():
                     new_jobs.append(job)
                     seen.add(job['id'])
             time.sleep(0.4)
+
+    for entry in config.get('smartrecruiters', []):
+        company = entry['name']
+        identifier = entry['identifier']
+        print(f'Checking {company} (smartrecruiters/{identifier})...')
+        jobs = scrape_smartrecruiters(company, identifier)
+        for job in jobs:
+            if job['id'] not in seen:
+                print(f'  NEW: {job["title"]} @ {job["location"]}')
+                new_jobs.append(job)
+                seen.add(job['id'])
+        time.sleep(0.4)
 
     for entry in config.get('workday', []):
         company = entry['name']
