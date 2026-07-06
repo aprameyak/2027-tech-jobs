@@ -6,6 +6,7 @@ Opens GitHub issues for new matches that haven't been seen before.
 
 import json
 import os
+import re
 import time
 import requests
 import yaml
@@ -13,19 +14,46 @@ from pathlib import Path
 
 SEEN_JOBS_FILE = Path('.github/data/seen_jobs.json')
 
-INTERN_KEYWORDS = [
-    'intern', 'internship', 'co-op', 'coop',
-    'new grad', 'new-grad', 'entry level', 'entry-level',
-    'early career', '2027', 'associate'
+# Keywords matched with word boundaries (avoids "internal", "international", "internals")
+BOUNDARY_KEYWORDS = [r'\bintern\b', r'\binternship\b', r'\bco-op\b', r'\bcoop\b']
+
+# Keywords safe for substring matching
+SUBSTRING_KEYWORDS = [
+    'new grad', 'new-grad', 'entry level', 'entry-level', 'early career', '2027',
 ]
 
-# US location signals — broad enough to catch most postings
+# Location must match at least one of these to be considered US
 US_SIGNALS = [
-    'united states', 'usa', 'u.s.', 'remote', 'new york', 'san francisco',
-    'seattle', 'boston', 'austin', 'chicago', 'los angeles', 'denver',
-    'atlanta', 'miami', 'dallas', 'raleigh', 'washington', ', ny', ', ca',
-    ', wa', ', ma', ', tx', ', il', ', pa', ', co', ', ga', ', fl', ', nc',
-    ', va', ', dc', ', nj', ', oh', ', mn', ', az', 'hybrid'
+    'united states', 'usa', 'u.s.a', ', al', ', ak', ', az', ', ar',
+    ', ca', ', co', ', ct', ', de', ', fl', ', ga', ', hi', ', id',
+    ', il', ', in', ', ia', ', ks', ', ky', ', la', ', me', ', md',
+    ', ma', ', mi', ', mn', ', ms', ', mo', ', mt', ', ne', ', nv',
+    ', nh', ', nj', ', nm', ', ny', ', nc', ', nd', ', oh', ', ok',
+    ', or', ', pa', ', ri', ', sc', ', sd', ', tn', ', tx', ', ut',
+    ', vt', ', va', ', wa', ', wv', ', wi', ', wy', ', dc',
+    'new york', 'san francisco', 'los angeles', 'seattle', 'boston',
+    'chicago', 'austin', 'denver', 'atlanta', 'miami', 'dallas',
+    'raleigh', 'washington d', 'menlo park', 'palo alto', 'mountain view',
+    'san jose', 'redwood city', 'bellevue', 'portland',
+]
+
+# If any of these appear, it's definitely not US — skip even if US signal present
+NON_US_SIGNALS = [
+    'london', 'united kingdom', ', uk', '(uk)', 'u.k.',
+    'toronto', 'vancouver', 'montreal', 'ottawa', ', canada',
+    'berlin', 'munich', 'frankfurt', 'germany',
+    'paris', 'france',
+    'amsterdam', 'netherlands',
+    'dublin', 'ireland',
+    'sydney', 'melbourne', 'australia',
+    'singapore',
+    'bangalore', 'india',
+    'tokyo', 'japan',
+    'beijing', 'shanghai', 'china',
+    'tel aviv', 'israel',
+    'mexico city', 'mexico',
+    'brazil', 'sao paulo',
+    'worldwide', 'global (non-us)',
 ]
 
 HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; job-scraper/1.0)'}
@@ -46,24 +74,34 @@ def save_seen_jobs(seen):
 
 def is_relevant_title(title):
     t = title.lower()
-    return any(kw in t for kw in INTERN_KEYWORDS)
+    if any(re.search(kw, t) for kw in BOUNDARY_KEYWORDS):
+        return True
+    return any(kw in t for kw in SUBSTRING_KEYWORDS)
 
 
 def is_us_location(location):
-    if not location:
-        return True  # no location = assume open/US
+    """Return True only if we can confirm the location is US or Remote (no country = US assumed remote)."""
+    if not location or location.strip() == '':
+        return False  # Skip unknown locations to avoid non-US noise
+
     loc = location.lower()
-    if any(s in loc for s in US_SIGNALS):
+
+    # Immediately reject known non-US locations
+    if any(s in loc for s in NON_US_SIGNALS):
+        return False
+
+    # Accept if clearly Remote with no country qualifier
+    if loc.strip() in ('remote', 'remote (us)', 'us remote', 'remote - us',
+                       'remote, us', 'remote, usa', 'work from home'):
         return True
-    # Reject obviously non-US
-    non_us = ['london', 'toronto', 'berlin', 'paris', 'sydney', 'singapore',
-              'dublin', 'amsterdam', 'india', 'canada', 'uk ', 'u.k.']
-    return not any(s in loc for s in non_us)
+
+    # Accept if it contains a US signal
+    return any(s in loc for s in US_SIGNALS)
 
 
 def infer_listing_type(title):
     t = title.lower()
-    if any(kw in t for kw in ['new grad', 'new-grad', 'entry level', 'entry-level', 'early career', 'associate']):
+    if any(kw in t for kw in ['new grad', 'new-grad', 'entry level', 'entry-level', 'early career']):
         return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
     return 'Internship', 'Summer 2027'
 
@@ -84,7 +122,7 @@ def scrape_greenhouse(company, slug):
                     'id': f'greenhouse_{slug}_{job["id"]}',
                     'company': company,
                     'title': title,
-                    'location': location or 'United States',
+                    'location': location,
                     'url': job.get('absolute_url', ''),
                     'board': 'Greenhouse',
                 })
@@ -110,7 +148,7 @@ def scrape_lever(company, slug):
                     'id': f'lever_{slug}_{job["id"]}',
                     'company': company,
                     'title': title,
-                    'location': location or 'United States',
+                    'location': location,
                     'url': job.get('hostedUrl', ''),
                     'board': 'Lever',
                 })
@@ -141,7 +179,7 @@ def scrape_ashby(company, slug):
                     'id': f'ashby_{slug}_{job["id"]}',
                     'company': company,
                     'title': title,
-                    'location': location or 'United States',
+                    'location': location,
                     'url': apply_url,
                     'board': 'Ashby',
                 })
@@ -209,21 +247,20 @@ Auto-discovered via {job['board']} API.
         'Authorization': f'token {token}',
         'Accept': 'application/vnd.github.v3+json',
     }
-    payload = {
-        'title': title,
-        'body': body,
-        'labels': ['new listing', 'needs review', 'auto-discovered'],
-    }
     resp = requests.post(
         f'https://api.github.com/repos/{repo}/issues',
-        json=payload,
+        json={
+            'title': title,
+            'body': body,
+            'labels': ['new listing', 'needs review', 'auto-discovered'],
+        },
         headers=headers,
         timeout=10,
     )
     if resp.status_code == 201:
         print(f'  Created issue: {title}')
     else:
-        print(f'  Failed to create issue ({resp.status_code}): {resp.text[:200]}')
+        print(f'  Failed ({resp.status_code}): {resp.text[:200]}')
 
 
 def main():
@@ -260,7 +297,7 @@ def main():
         if not token or not repo:
             print('ERROR: GITHUB_TOKEN or GITHUB_REPOSITORY not set')
             for job in new_jobs:
-                print(f'  - {job["company"]}: {job["title"]} ({job["url"]})')
+                print(f'  - {job["company"]}: {job["title"]} | {job["location"]} | {job["url"]}')
         else:
             for job in new_jobs:
                 create_github_issue(job, token, repo)
