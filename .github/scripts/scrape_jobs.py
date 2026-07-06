@@ -22,7 +22,19 @@ SUBSTRING_KEYWORDS = [
     'new grad', 'new-grad', 'entry level', 'entry-level', 'early career', '2027',
 ]
 
-# Location must match at least one of these to be considered US
+# Title must contain at least one of these to be considered a tech role
+TECH_KEYWORDS = [
+    'software', 'engineer', 'engineering', 'developer', 'data', 'machine learning',
+    'ml', 'ai ', ' ai', 'artificial intelligence', 'research', 'researcher',
+    'quantitative', 'quant', 'infrastructure', 'devops', 'platform', 'backend',
+    'frontend', 'front-end', 'back-end', 'fullstack', 'full-stack', 'mobile',
+    'ios', 'android', 'cloud', 'security', 'cybersecurity', 'network', 'systems',
+    'database', 'analytics', 'product', 'sre', 'reliability', 'embedded',
+    'firmware', 'robotics', 'computer', 'computational', 'algorithm', 'applied',
+    'technical', 'scientist', 'physics', 'math', 'statistics', 'fintech',
+]
+
+# Location must match at least one of these to be considered North America (US or Canada)
 US_SIGNALS = [
     'united states', 'usa', 'u.s.a', ', al', ', ak', ', az', ', ar',
     ', ca', ', co', ', ct', ', de', ', fl', ', ga', ', hi', ', id',
@@ -35,12 +47,14 @@ US_SIGNALS = [
     'chicago', 'austin', 'denver', 'atlanta', 'miami', 'dallas',
     'raleigh', 'washington d', 'menlo park', 'palo alto', 'mountain view',
     'san jose', 'redwood city', 'bellevue', 'portland',
+    # Canada
+    'toronto', 'vancouver', 'montreal', 'ottawa', 'calgary', 'canada',
+    ', on', ', bc', ', qc', ', ab',
 ]
 
-# If any of these appear, it's definitely not US — skip even if US signal present
+# If any of these appear, it's definitely not North America — skip even if US signal present
 NON_US_SIGNALS = [
     'london', 'united kingdom', ', uk', '(uk)', 'u.k.',
-    'toronto', 'vancouver', 'montreal', 'ottawa', ', canada',
     'berlin', 'munich', 'frankfurt', 'germany',
     'paris', 'france',
     'amsterdam', 'netherlands',
@@ -72,15 +86,22 @@ def save_seen_jobs(seen):
         json.dump(sorted(list(seen)), f, indent=2)
 
 
+def is_tech_title(title):
+    t = title.lower()
+    return any(kw in t for kw in TECH_KEYWORDS)
+
+
 def is_relevant_title(title):
     t = title.lower()
+    if not is_tech_title(title):
+        return False
     if any(re.search(kw, t) for kw in BOUNDARY_KEYWORDS):
         return True
     return any(kw in t for kw in SUBSTRING_KEYWORDS)
 
 
 def is_us_location(location):
-    """Return True only if we can confirm the location is US or Remote (no country = US assumed remote)."""
+    """Return True if location is in the US, Canada, or unqualified Remote."""
     if not location or location.strip() == '':
         return False  # Skip unknown locations to avoid non-US noise
 
@@ -92,7 +113,8 @@ def is_us_location(location):
 
     # Accept if clearly Remote with no country qualifier
     if loc.strip() in ('remote', 'remote (us)', 'us remote', 'remote - us',
-                       'remote, us', 'remote, usa', 'work from home'):
+                       'remote, us', 'remote, usa', 'work from home',
+                       'remote (canada)', 'canada remote', 'remote, canada'):
         return True
 
     # Accept if it contains a US signal
@@ -238,7 +260,7 @@ Auto-discovered via {job['board']} API.
 
 ### Checklist
 
-- [x] The role is in the United States, Canada, or is Remote.
+- [x] The role is in the United States, Canada, or is Remote (North America).
 - [x] The application link is publicly accessible (no login required to view the posting).
 - [x] I checked that this listing does not already exist in the repository.
 - [x] The information I provided is accurate to the best of my knowledge.
