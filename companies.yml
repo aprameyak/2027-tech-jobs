@@ -13,10 +13,20 @@ greenhouse:
     slug: aquaticcapitalmanagement
   - name: Asana
     slug: asana
+  - name: Benchling
+    slug: benchling
   - name: Brex
     slug: brex
-  - name: Citadel
-    slug: citadelsecurities
+  - name: Canva
+    slug: canva
+  - name: Checkly
+    slug: checkly
+  - name: ClickHouse
+    slug: clickhouse
+  - name: Cloudflare
+    slug: cloudflare
+  - name: Cockroach Labs
+    slug: cockroachlabs
   - name: Coinbase
     slug: coinbase
   - name: Databricks
@@ -33,71 +43,153 @@ greenhouse:
     slug: etsy
   - name: Figma
     slug: figma
+  - name: Fly.io
+    slug: fly
+  - name: Grafana Labs
+    slug: grafanalabs
   - name: HubSpot
     slug: hubspot
+  - name: Hugging Face
+    slug: huggingface
   - name: IMC Trading
     slug: imctradingbv
+  - name: Instacart
+    slug: instacart
+  - name: LaunchDarkly
+    slug: launchdarkly
   - name: Lyft
     slug: lyft
+  - name: Mercury
+    slug: mercury
+  - name: Modern Treasury
+    slug: moderntreasury
   - name: MongoDB
     slug: mongodb
+  - name: Neon
+    slug: neon
+  - name: Netlify
+    slug: netlify
   - name: Notion
     slug: notion
+  - name: Nuro
+    slug: nuro
   - name: Okta
     slug: okta
+  - name: OpenAI
+    slug: openai
   - name: Palantir
     slug: palantir
-  - name: Pinterest
-    slug: pinterest
+  - name: Pinecone
+    slug: pinecone
+  - name: PlanetScale
+    slug: planetscale
   - name: Plaid
     slug: plaid
+  - name: PostHog
+    slug: posthog
+  - name: Replit
+    slug: replit
   - name: Rippling
     slug: rippling
   - name: Robinhood
     slug: robinhood
+  - name: Samsara
+    slug: samsara
+  - name: Sentry
+    slug: sentry
   - name: Snowflake
     slug: snowflake
   - name: Squarespace
     slug: squarespace
   - name: Stripe
     slug: stripe
+  - name: Temporal
+    slug: temporal
   - name: Tower Research Capital
     slug: towerresearchcapital
   - name: Twilio
     slug: twilio
+  - name: Vanta
+    slug: vanta
+  - name: Verkada
+    slug: verkada
   - name: Webflow
     slug: webflow
+  - name: Zipline
+    slug: zipline
 
 lever:
   - name: Affirm
     slug: affirm
+  - name: Box
+    slug: box
   - name: Carta
     slug: carta
   - name: Checkr
     slug: checkr
+  - name: Eventbrite
+    slug: eventbrite
   - name: Flexport
     slug: flexport
   - name: Gusto
     slug: gusto
+  - name: KAYAK
+    slug: kayak
+  - name: Mixpanel
+    slug: mixpanel
+  - name: Motive
+    slug: motive
   - name: Netflix
     slug: netflix
+  - name: Quora
+    slug: quora
   - name: Reddit
     slug: reddit
+  - name: Spotify
+    slug: spotify
+  - name: Zapier
+    slug: zapier
 
 ashby:
+  - name: Abridge
+    slug: abridge
   - name: Anthropic
     slug: anthropic
+  - name: Clay
+    slug: clay
+  - name: Cognition AI
+    slug: cognitionlabs
   - name: Cursor
     slug: anysphere
+  - name: Decagon
+    slug: decagon
+  - name: Harvey
+    slug: harvey
+  - name: Hebbia
+    slug: hebbia
   - name: Linear
     slug: linear
+  - name: Modal
+    slug: modal
   - name: Perplexity
     slug: perplexityai
+  - name: Physical Intelligence
+    slug: physicalintelligence
   - name: Ramp
     slug: ramp
   - name: Retool
     slug: retool
+  - name: Runway
+    slug: runwayml
   - name: Scale AI
     slug: scaleai
+  - name: Sierra
+    slug: sierra
+  - name: Tecton
+    slug: tecton
+  - name: Together AI
+    slug: togetherai
   - name: Vercel
     slug: vercel
+  - name: Weights & Biases
+    slug: wandb
