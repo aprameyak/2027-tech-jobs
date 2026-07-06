@@ -211,6 +211,58 @@ def scrape_ashby(company, slug):
         return []
 
 
+def scrape_workday(company, tenant, instance, board):
+    if board:
+        api_url = f'https://{tenant}.{instance}.myworkdayjobs.com/wday/cxs/{tenant}/{board}/jobs'
+    else:
+        api_url = f'https://{tenant}.{instance}.myworkdayjobs.com/wday/cxs/{tenant}/jobs'
+    base_url = f'https://{tenant}.{instance}.myworkdayjobs.com'
+
+    payload = {'appliedFacets': {}, 'limit': 20, 'offset': 0, 'searchText': ''}
+    headers = {
+        **HEADERS,
+        'Content-Type': 'application/json',
+        'Accept': 'application/json',
+    }
+
+    jobs = []
+    offset = 0
+
+    while True:
+        payload['offset'] = offset
+        try:
+            resp = requests.post(api_url, json=payload, headers=headers, timeout=10)
+            if resp.status_code != 200:
+                print(f'  [{company}] Workday HTTP {resp.status_code}')
+                break
+            data = resp.json()
+            postings = data.get('jobPostings', [])
+            if not postings:
+                break
+            for job in postings:
+                title = job.get('title', '')
+                location = job.get('locationsText', '')
+                external_path = job.get('externalPath', '')
+                if is_relevant_title(title) and is_us_location(location):
+                    jobs.append({
+                        'id': f'workday_{tenant}_{external_path}',
+                        'company': company,
+                        'title': title,
+                        'location': location,
+                        'url': f'{base_url}{external_path}',
+                        'board': 'Workday',
+                    })
+            total = data.get('total', 0)
+            offset += len(postings)
+            if offset >= total:
+                break
+        except Exception as e:
+            print(f'  [{company}] Workday error: {e}')
+            break
+
+    return jobs
+
+
 def create_github_issue(job, token, repo):
     listing_type, season = infer_listing_type(job['title'])
     title = f'[JOB] {job["company"]} — {job["title"]}'
@@ -310,6 +362,20 @@ def main():
                     new_jobs.append(job)
                     seen.add(job['id'])
             time.sleep(0.4)
+
+    for entry in config.get('workday', []):
+        company = entry['name']
+        tenant = entry['tenant']
+        instance = entry['instance']
+        board = entry.get('board', '')
+        print(f'Checking {company} (workday/{tenant})...')
+        jobs = scrape_workday(company, tenant, instance, board)
+        for job in jobs:
+            if job['id'] not in seen:
+                print(f'  NEW: {job["title"]} @ {job["location"]}')
+                new_jobs.append(job)
+                seen.add(job['id'])
+        time.sleep(0.4)
 
     print(f'\nFound {len(new_jobs)} new job(s)')
 

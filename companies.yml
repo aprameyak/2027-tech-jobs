@@ -102,10 +102,98 @@ greenhouse:
     slug: flyzipline
 
 lever:
-  - name: Netflix
-    slug: netflix
   - name: Spotify
     slug: spotify
+
+workday:
+  - name: Adobe
+    tenant: adobe
+    instance: wd5
+    board: external_experienced
+  - name: Autodesk
+    tenant: autodesk
+    instance: wd1
+    board: Ext
+  - name: Cisco
+    tenant: cisco
+    instance: wd5
+    board: Cisco_Careers
+  - name: Citi
+    tenant: citi
+    instance: wd5
+    board: en-US/2
+  - name: Cloudera
+    tenant: cloudera
+    instance: wd5
+    board: External_Career
+  - name: CVS Health
+    tenant: cvshealth
+    instance: wd1
+    board: CVS_Health_Careers
+  - name: Disney
+    tenant: disney
+    instance: wd5
+    board: disneycareer
+  - name: JLL
+    tenant: jll
+    instance: wd1
+    board: jllcareers
+  - name: Netflix
+    tenant: netflix
+    instance: wd108
+    board: Netflix
+  - name: NVIDIA
+    tenant: nvidia
+    instance: wd5
+    board: NVIDIAExternalCareerSite
+  - name: PayPal
+    tenant: paypal
+    instance: wd1
+    board: jobs
+  - name: PVH
+    tenant: pvh
+    instance: wd1
+    board: PVH_Careers
+  - name: Qualcomm
+    tenant: qualcomm
+    instance: wd5
+    board: External
+  - name: Sabre
+    tenant: sabre
+    instance: wd1
+    board: SabreJobs
+  - name: Salesforce
+    tenant: salesforce
+    instance: wd12
+    board: External_Career_Site
+  - name: Samsung
+    tenant: sec
+    instance: wd3
+    board: Samsung_Careers
+  - name: Silicon Labs
+    tenant: silabs
+    instance: wd1
+    board: SiliconlabsCareers
+  - name: Sprinklr
+    tenant: sprinklr
+    instance: wd1
+    board: careers
+  - name: Symantec
+    tenant: symantec
+    instance: wd1
+    board: careers
+  - name: Target
+    tenant: target
+    instance: wd5
+    board: targetcareers
+  - name: Walmart
+    tenant: walmart
+    instance: wd5
+    board: WalmartExternal
+  - name: Workday
+    tenant: workday
+    instance: wd5
+    board: ""
 
 ashby:
   - name: Abridge
