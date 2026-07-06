@@ -8,8 +8,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 [![Stars](https://img.shields.io/github/stars/aprameyak/2027-swe-jobs?style=flat-square&logo=github&color=f9d71c)](https://github.com/aprameyak/2027-swe-jobs/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/aprameyak/2027-swe-jobs?style=flat-square&logo=git&color=orange)](https://github.com/aprameyak/2027-swe-jobs/commits/main)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 ---
 
