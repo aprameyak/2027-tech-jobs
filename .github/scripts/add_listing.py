@@ -4,10 +4,14 @@ Parses a GitHub issue form submission and inserts a formatted row
 into the correct table in README.md.
 """
 
+import json
 import os
 import re
 import sys
 from datetime import datetime
+from pathlib import Path
+
+LISTINGS_FILE = Path('listings.json')
 
 
 def parse_issue_body(body):
@@ -135,7 +139,27 @@ def main():
     with open('README.md', 'w') as f:
         f.write(new_content)
 
-    print('Successfully updated README.md')
+    # Update listings.json
+    listings = []
+    if LISTINGS_FILE.exists():
+        with open(LISTINGS_FILE) as f:
+            listings = json.load(f)
+    listings.append({
+        'company': fields.get('Company Name', '').strip(),
+        'role': fields.get('Role / Job Title', '').strip(),
+        'location': fields.get('Location', '').strip(),
+        'type': table_type,
+        'season': fields.get('Season / Term', '').strip(),
+        'education': fields.get('Education Level', 'Undergrad').strip(),
+        'url': apply_link,
+        'sponsorship': fields.get('Visa Sponsorship?', '').strip(),
+        'citizenship': fields.get('U.S. Citizenship Required?', '').strip(),
+        'date_added': datetime.now().strftime('%Y-%m-%d'),
+    })
+    with open(LISTINGS_FILE, 'w') as f:
+        json.dump(listings, f, indent=2)
+
+    print('Successfully updated README.md and listings.json')
 
 
 if __name__ == '__main__':
