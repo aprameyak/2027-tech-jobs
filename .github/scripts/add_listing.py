@@ -125,6 +125,11 @@ def main():
     with open('README.md', 'r') as f:
         content = f.read()
 
+    apply_link = fields.get('Direct Application Link', '').strip()
+    if apply_link and apply_link in content:
+        print(f'SKIP: listing already exists in README (link found: {apply_link})')
+        sys.exit(0)
+
     new_content = insert_row(content, table_type, row)
 
     with open('README.md', 'w') as f:
