@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Posted |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| IMC Trading | Quantitative Research Intern (PhD) - Summer 2027 | Chicago, United States | Undergrad | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4907400101"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Jane Street | Machine Learning Researcher Intern | New York, NY | Undergrad / PhD | <a href="https://www.janestreet.com/join-jane-street/position/8384490002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 6 |
 | ↳ | Quantitative Researcher Intern | New York, NY | Undergrad / PhD | <a href="https://www.janestreet.com/join-jane-street/position/8498547002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 6 |
 | ↳ | Quantitative Trader Intern | New York, NY | Undergrad | <a href="https://www.janestreet.com/join-jane-street/position/8617344002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 6 |
