@@ -34,6 +34,22 @@ TECH_KEYWORDS = [
     'technical', 'scientist', 'physics', 'math', 'statistics', 'fintech',
 ]
 
+# Roles that match TECH_KEYWORDS but are NOT software/data/CS — checked before TECH_KEYWORDS
+NON_TECH_ROLE_SIGNALS = [
+    # Non-software engineering disciplines (hardware, fab, manufacturing)
+    'manufacturing engineer', 'process engineer', 'chemical engineer',
+    'mechanical engineer', 'materials engineer', 'materials scientist',
+    'quality engineer', 'equipment engineer', 'industrial engineer',
+    'environmental engineer', 'civil engineer', 'structural engineer',
+    'electrical engineer', 'process integration', 'photolithography',
+    'metrology', 'failure analysis', 'yield engineer', 'etch engineer',
+    # Non-tech business/support roles
+    'sales', 'marketing', 'human resources', 'recruiter',
+    'supply chain', 'procurement', 'financial analyst',
+    'customer success', 'customer support', 'account manager',
+    'legal intern', 'paralegal', 'accounting intern', 'finance intern',
+]
+
 # Location must match at least one of these to be considered North America (US or Canada)
 US_SIGNALS = [
     'united states', 'usa', 'u.s.a', ', al', ', ak', ', az', ', ar',
@@ -88,6 +104,8 @@ def save_seen_jobs(seen):
 
 def is_tech_title(title):
     t = title.lower()
+    if any(s in t for s in NON_TECH_ROLE_SIGNALS):
+        return False
     return any(kw in t for kw in TECH_KEYWORDS)
 
 
