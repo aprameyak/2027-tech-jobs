@@ -8,11 +8,21 @@ import json
 import os
 import re
 import time
+from datetime import datetime
 import requests
 import yaml
 from pathlib import Path
 
 SEEN_JOBS_FILE = Path('.github/data/seen_jobs.json')
+TITLE_CACHE_FILE = Path('.github/data/title_classifications.json')
+GEMINI_USAGE_FILE = Path('.github/data/gemini_usage.json')
+
+GEMINI_DAILY_LIMIT = 1400   # Hard cap — 100 below the free tier limit of 1500/day
+GEMINI_RPM_DELAY = 4.2      # Seconds between calls — keeps rate under 15/min
+
+_title_cache = None
+_gemini_calls_today = 0
+_gemini_usage_date = None
 
 # Keywords matched with word boundaries (avoids "internal", "international", "internals")
 BOUNDARY_KEYWORDS = [r'\bintern\b', r'\binternship\b', r'\bco-op\b', r'\bcoop\b']
@@ -89,6 +99,158 @@ NON_US_SIGNALS = [
 HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; job-scraper/1.0)'}
 
 
+def load_title_cache():
+    global _title_cache
+    if _title_cache is None:
+        try:
+            if TITLE_CACHE_FILE.exists():
+                with open(TITLE_CACHE_FILE) as f:
+                    data = json.load(f)
+                # Validate: must be a dict of str -> bool
+                if isinstance(data, dict):
+                    _title_cache = {k: bool(v) for k, v in data.items() if isinstance(k, str)}
+                else:
+                    print('  [Cache] Corrupt title cache — resetting')
+                    _title_cache = {}
+            else:
+                _title_cache = {}
+        except Exception as e:
+            print(f'  [Cache] Failed to load title cache: {e} — resetting')
+            _title_cache = {}
+    return _title_cache
+
+
+def save_title_cache():
+    if _title_cache is not None:
+        try:
+            TITLE_CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
+            with open(TITLE_CACHE_FILE, 'w') as f:
+                json.dump(_title_cache, f, indent=2)
+        except Exception as e:
+            print(f'  [Cache] Failed to save title cache: {e}')
+
+
+def load_gemini_usage():
+    global _gemini_calls_today, _gemini_usage_date
+    today = datetime.now().strftime('%Y-%m-%d')
+    try:
+        if GEMINI_USAGE_FILE.exists():
+            with open(GEMINI_USAGE_FILE) as f:
+                data = json.load(f)
+            if isinstance(data, dict) and data.get('date') == today:
+                _gemini_calls_today = int(data.get('calls', 0))
+                _gemini_usage_date = today
+                return
+    except Exception as e:
+        print(f'  [Gemini] Failed to load usage file: {e} — starting fresh')
+    _gemini_calls_today = 0
+    _gemini_usage_date = today
+
+
+def save_gemini_usage():
+    try:
+        GEMINI_USAGE_FILE.parent.mkdir(parents=True, exist_ok=True)
+        with open(GEMINI_USAGE_FILE, 'w') as f:
+            json.dump({'date': _gemini_usage_date, 'calls': _gemini_calls_today}, f)
+    except Exception as e:
+        print(f'  [Gemini] Failed to save usage file: {e}')
+
+
+def classify_with_gemini(title):
+    global _gemini_calls_today
+
+    api_key = os.environ.get('GEMINI_API_KEY')
+    if not api_key:
+        return None
+
+    if _gemini_calls_today >= GEMINI_DAILY_LIMIT:
+        print(f'  [Gemini] Daily limit reached ({GEMINI_DAILY_LIMIT}), using keyword fallback')
+        return None
+
+    prompt = (
+        'You are a strict classifier. Decide if this job title is a tech role suitable for '
+        'CS/software/data/quant students applying to internships or new grad positions.\n\n'
+        'Answer YES for: software engineering, data science/engineering/analytics, '
+        'machine learning/AI, quantitative research/trading, product management, '
+        'cybersecurity, DevOps/SRE, embedded/firmware engineering, computer science research, '
+        'technical program management, mobile/iOS/Android, cloud/infrastructure, '
+        'hardware/VLSI design (chip-level), computer vision, NLP.\n\n'
+        'Answer NO for: manufacturing/process/chemical/mechanical/electrical engineering (non-chip), '
+        'sales, marketing, HR, supply chain, clinical/life science research, '
+        'non-quant finance/accounting, legal, customer support, operations (non-technical).\n\n'
+        f'Job title: "{title}"\n\n'
+        'Reply with exactly one word — yes or no. No punctuation, no explanation.'
+    )
+
+    try:
+        resp = requests.post(
+            f'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}',
+            json={
+                'contents': [{'parts': [{'text': prompt}]}],
+                'generationConfig': {
+                    'temperature': 0.0,
+                    'maxOutputTokens': 3,
+                    'topK': 1,
+                    'topP': 1.0,
+                },
+            },
+            headers={'Content-Type': 'application/json'},
+            timeout=15,
+        )
+        _gemini_calls_today += 1
+        time.sleep(GEMINI_RPM_DELAY)
+
+        if resp.status_code != 200:
+            print(f'  [Gemini] HTTP {resp.status_code}')
+            return None
+
+        if resp.status_code == 429:
+            print('  [Gemini] Rate limited (429) — using keyword fallback for remainder of run')
+            _gemini_calls_today = GEMINI_DAILY_LIMIT  # Stop further calls this run
+            return None
+
+        try:
+            body = resp.json()
+        except Exception:
+            print('  [Gemini] Non-JSON response — using keyword fallback')
+            return None
+
+        try:
+            text = (
+                body.get('candidates', [{}])[0]
+                .get('content', {})
+                .get('parts', [{}])[0]
+                .get('text', '')
+                .strip()
+                .lower()
+            )
+        except (IndexError, AttributeError, TypeError):
+            print('  [Gemini] Unexpected response shape — using keyword fallback')
+            return None
+
+        if not text:
+            print('  [Gemini] Empty response text — using keyword fallback')
+            return None
+        if text.startswith('y'):
+            return True
+        if text.startswith('n'):
+            return False
+        # Sometimes the model returns "yes." or "yes," — strip punctuation and retry
+        clean = text.strip('.,!? ')
+        if clean == 'yes':
+            return True
+        if clean == 'no':
+            return False
+        print(f'  [Gemini] Unexpected response: {text!r} — using keyword fallback')
+        return None
+    except requests.exceptions.Timeout:
+        print('  [Gemini] Request timed out — using keyword fallback')
+        return None
+    except Exception as e:
+        print(f'  [Gemini] Error: {e} — using keyword fallback')
+        return None
+
+
 def load_seen_jobs():
     if SEEN_JOBS_FILE.exists():
         with open(SEEN_JOBS_FILE) as f:
@@ -102,11 +264,36 @@ def save_seen_jobs(seen):
         json.dump(sorted(list(seen)), f, indent=2)
 
 
-def is_tech_title(title):
+def is_tech_title_keywords(title):
+    """Keyword-based fallback classifier."""
     t = title.lower()
     if any(s in t for s in NON_TECH_ROLE_SIGNALS):
         return False
     return any(kw in t for kw in TECH_KEYWORDS)
+
+
+def is_tech_title(title):
+    t = title.lower()
+
+    # Fast reject — clearly non-tech, no API call needed
+    if any(s in t for s in NON_TECH_ROLE_SIGNALS):
+        return False
+
+    # Check cache
+    cache = load_title_cache()
+    if t in cache:
+        return cache[t]
+
+    # Try Gemini
+    result = classify_with_gemini(title)
+    if result is not None:
+        cache[t] = result
+        return result
+
+    # Keyword fallback
+    result = is_tech_title_keywords(title)
+    cache[t] = result
+    return result
 
 
 def is_relevant_title(title):
@@ -548,6 +735,8 @@ Auto-discovered via {job['board']} API.
 
 
 def main():
+    load_gemini_usage()
+
     with open('companies.yml') as f:
         config = yaml.safe_load(f)
 
@@ -620,6 +809,9 @@ def main():
                 time.sleep(1)
 
     save_seen_jobs(seen)
+    save_title_cache()
+    save_gemini_usage()
+    print(f'Gemini calls today: {_gemini_calls_today}')
     print('Done')
 
 
