@@ -28,7 +28,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 <!-- TABLE_START summer -->
 
-| Company | Role | Location | Education | Application/Link | Date Posted |
+| Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | IMC Trading | Quantitative Research Intern (PhD) - Summer 2027 | Chicago, United States | Undergrad | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4907400101"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Jane Street | Machine Learning Researcher Intern | New York, NY | Undergrad / PhD | <a href="https://www.janestreet.com/join-jane-street/position/8384490002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 6 |
@@ -58,7 +58,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 <!-- TABLE_START offcycle -->
 
-| Company | Role | Location | Term | Education | Application/Link | Date Posted |
+| Company | Role | Location | Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ---- | --------- | ---------------- | ----------- |
 | IBM 🛂 | Data Scientist – Advanced Analytics – Financial Services | University Park, PA | Co-op 2026 | Undergrad | <a href="https://careers.ibm.com/en_US/careers/JobDetail?jobId=96261&source=WEB_Search_NA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
 | IBM 🛂 | Associate Application Developer – Adobe Experience | Pennsylvania | Co-op 2026 | Undergrad | <a href="https://careers.ibm.com/en_US/careers/JobDetail?jobId=67554&source=WEB_Search_NA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
@@ -71,7 +71,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 <!-- TABLE_START newgrad -->
 
-| Company | Role | Location | Education | Application/Link | Date Posted |
+| Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | Jane Street | Quantitative Researcher | New York, NY | Undergrad / PhD | <a href="https://www.janestreet.com/join-jane-street/position/8573726002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 6 |
 | Jane Street | Quantitative Trader | New York, NY | Undergrad | <a href="https://www.janestreet.com/join-jane-street/position/8573523002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 6 |
