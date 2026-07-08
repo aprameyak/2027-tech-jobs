@@ -42,6 +42,10 @@ TECH_KEYWORDS = [
     'database', 'analytics', 'product', 'sre', 'reliability', 'embedded',
     'firmware', 'robotics', 'computer', 'computational', 'algorithm', 'applied',
     'technical', 'scientist', 'physics', 'math', 'statistics', 'fintech',
+    # PM / consulting / digital tech roles
+    'product manager', 'program manager', 'consultant', 'consulting',
+    'digital', 'technology associate', 'technology analyst',
+    'information technology', 'business analyst', 'business technology',
 ]
 
 # Roles that match TECH_KEYWORDS but are NOT software/data/CS — checked before TECH_KEYWORDS
@@ -58,6 +62,11 @@ NON_TECH_ROLE_SIGNALS = [
     'supply chain', 'procurement', 'financial analyst',
     'customer success', 'customer support', 'account manager',
     'legal intern', 'paralegal', 'accounting intern', 'finance intern',
+    # Operations / logistics / facilities / non-tech functions
+    'logistics', 'warehouse', 'shipping', 'receiving', 'inventory',
+    'facilities manager', 'operations associate',
+    'internal audit', 'compliance', 'tax director', 'tax manager',
+    'legal counsel', 'general counsel', 'legal operations',
 ]
 
 # Location must match at least one of these to be considered North America (US or Canada)
@@ -168,16 +177,19 @@ def classify_with_gemini(title):
         return None
 
     prompt = (
-        'You are a strict classifier. Decide if this job title is a tech role suitable for '
-        'CS/software/data/quant students applying to internships or new grad positions.\n\n'
+        'You are a strict classifier. Decide if this job title is a tech/digital role suitable for '
+        'CS/software/data/quant/PM students applying to internships or new grad positions.\n\n'
         'Answer YES for: software engineering, data science/engineering/analytics, '
         'machine learning/AI, quantitative research/trading, product management, '
-        'cybersecurity, DevOps/SRE, embedded/firmware engineering, computer science research, '
-        'technical program management, mobile/iOS/Android, cloud/infrastructure, '
-        'hardware/VLSI design (chip-level), computer vision, NLP.\n\n'
+        'product development, cybersecurity, DevOps/SRE, embedded/firmware engineering, '
+        'computer science research, technical program management, mobile/iOS/Android, '
+        'cloud/infrastructure, hardware/VLSI design (chip-level), computer vision, NLP, '
+        'technology consulting, digital technology, IT, business analyst (data/tech-focused), '
+        'technology analyst.\n\n'
         'Answer NO for: manufacturing/process/chemical/mechanical/electrical engineering (non-chip), '
         'sales, marketing, HR, supply chain, clinical/life science research, '
-        'non-quant finance/accounting, legal, customer support, operations (non-technical).\n\n'
+        'non-quant finance/accounting, legal, customer support, operations (non-technical), '
+        'audit, compliance, tax, logistics, warehouse, facilities, shipping/receiving.\n\n'
         f'Job title: "{title}"\n\n'
         'Reply with exactly one word — yes or no. No punctuation, no explanation.'
     )
@@ -330,6 +342,20 @@ def infer_listing_type(title):
     t = title.lower()
     if any(kw in t for kw in ['new grad', 'new-grad', 'entry level', 'entry-level', 'early career']):
         return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
+    if any(kw in t for kw in ['co-op', 'coop', 'co op']):
+        return 'Internship', 'Co-op'
+    if any(kw in t for kw in ['fall 2027', 'autumn 2027']):
+        return 'Internship', 'Fall 2027'
+    if 'spring 2027' in t:
+        return 'Internship', 'Spring 2027'
+    if 'winter 2027' in t:
+        return 'Internship', 'Winter 2027'
+    if any(kw in t for kw in ['fall 2026', 'autumn 2026']):
+        return 'Internship', 'Fall 2026'
+    if 'spring 2026' in t:
+        return 'Internship', 'Spring 2026'
+    if 'winter 2026' in t:
+        return 'Internship', 'Winter 2026'
     return 'Internship', 'Summer 2027'
 
 

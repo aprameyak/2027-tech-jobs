@@ -93,10 +93,18 @@ def format_row(fields, table_type):
         return f'| {company} | {role} | {location} | {education} | {apply_btn} | {date} |'
 
 
+def _company_sort_key(name):
+    """Normalize company name for alphabetical comparison (strip flags, lowercase)."""
+    name = re.sub(r'[\U0001F000-\U0001FFFF\u2600-\u26FF\u2700-\u27BF]', '', name)
+    return name.strip().lower()
+
+
 def insert_row(content, table_marker, row):
-    """Insert row at the top of the correct table (after header + separator)."""
+    """Insert row into the correct table in alphabetical order by company name."""
     start_marker = f'<!-- TABLE_START {table_marker} -->'
+    end_marker = f'<!-- TABLE_END {table_marker} -->'
     start_idx = content.find(start_marker)
+    end_idx = content.find(end_marker)
     if start_idx == -1:
         print(f'ERROR: Could not find table marker: {start_marker}')
         sys.exit(1)
@@ -107,8 +115,30 @@ def insert_row(content, table_marker, row):
         print('ERROR: Could not find table separator row')
         sys.exit(1)
 
-    insert_pos = start_idx + sep_match.end()
-    return content[:insert_pos] + row + '\n' + content[insert_pos:]
+    header_end = start_idx + sep_match.end()
+    table_body = content[header_end:end_idx]
+
+    new_company_raw = row.split('|')[1].strip() if '|' in row else ''
+    new_key = _company_sort_key(new_company_raw)
+
+    lines = table_body.splitlines(keepends=True)
+    insert_line = len(lines)
+
+    for i, line in enumerate(lines):
+        if not line.strip() or not line.startswith('|'):
+            continue
+        cols = line.split('|')
+        if len(cols) < 2:
+            continue
+        col1 = cols[1].strip()
+        if col1 == '↳':
+            continue
+        if _company_sort_key(col1) > new_key:
+            insert_line = i
+            break
+
+    lines.insert(insert_line, row + '\n')
+    return content[:header_end] + ''.join(lines) + content[end_idx:]
 
 
 def main():
