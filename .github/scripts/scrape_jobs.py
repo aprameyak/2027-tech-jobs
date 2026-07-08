@@ -286,37 +286,46 @@ def is_tech_title_keywords(title):
     return any(kw in t for kw in TECH_KEYWORDS)
 
 
-def is_tech_title(title):
+def classify_title(title):
+    """
+    Returns (is_tech: bool, confident: bool).
+    confident=True when Gemini classified it or it was a fast-reject.
+    confident=False when keyword fallback was used (Gemini unavailable/limit hit).
+    """
     t = title.lower()
 
     # Fast reject — clearly non-tech, no API call needed
     if any(s in t for s in NON_TECH_ROLE_SIGNALS):
-        return False
+        return False, True  # confident rejection
 
     # Check cache
     cache = load_title_cache()
     if t in cache:
-        return cache[t]
+        return cache[t], True  # cached results are treated as confident
 
     # Try Gemini
     result = classify_with_gemini(title)
     if result is not None:
         cache[t] = result
-        return result
+        return result, True  # Gemini classification = confident
 
-    # Keyword fallback
+    # Keyword fallback — uncertain, flag for manual review
     result = is_tech_title_keywords(title)
     cache[t] = result
-    return result
+    return result, False  # keyword fallback = not confident
 
 
 def is_relevant_title(title):
+    """Returns (is_relevant: bool, confident: bool)."""
+    is_tech, confident = classify_title(title)
+    if not is_tech:
+        return False, confident
     t = title.lower()
-    if not is_tech_title(title):
-        return False
     if any(re.search(kw, t) for kw in BOUNDARY_KEYWORDS):
-        return True
-    return any(kw in t for kw in SUBSTRING_KEYWORDS)
+        return True, confident
+    if any(kw in t for kw in SUBSTRING_KEYWORDS):
+        return True, confident
+    return False, confident
 
 
 def is_us_location(location):
@@ -372,7 +381,8 @@ def scrape_greenhouse(company, slug):
         for job in resp.json().get('jobs', []):
             title = job.get('title', '')
             location = job.get('location', {}).get('name', '')
-            if is_relevant_title(title) and is_us_location(location):
+            relevant, confident = is_relevant_title(title)
+            if relevant and is_us_location(location):
                 jobs.append({
                     'id': f'greenhouse_{slug}_{job["id"]}',
                     'company': company,
@@ -380,6 +390,7 @@ def scrape_greenhouse(company, slug):
                     'location': location,
                     'url': job.get('absolute_url', ''),
                     'board': 'Greenhouse',
+                    'confident': confident,
                 })
         return jobs
     except Exception as e:
@@ -398,7 +409,8 @@ def scrape_lever(company, slug):
         for job in resp.json():
             title = job.get('text', '')
             location = job.get('categories', {}).get('location', '')
-            if is_relevant_title(title) and is_us_location(location):
+            relevant, confident = is_relevant_title(title)
+            if relevant and is_us_location(location):
                 jobs.append({
                     'id': f'lever_{slug}_{job["id"]}',
                     'company': company,
@@ -406,6 +418,7 @@ def scrape_lever(company, slug):
                     'location': location,
                     'url': job.get('hostedUrl', ''),
                     'board': 'Lever',
+                    'confident': confident,
                 })
         return jobs
     except Exception as e:
@@ -424,7 +437,8 @@ def scrape_ashby(company, slug):
         for job in resp.json().get('jobPostings', []):
             title = job.get('title', '')
             location = job.get('locationName', '') or job.get('location', '')
-            if is_relevant_title(title) and is_us_location(location):
+            relevant, confident = is_relevant_title(title)
+            if relevant and is_us_location(location):
                 apply_url = (
                     job.get('jobPostingUrls', {}).get('Full', '')
                     or job.get('applyUrl', '')
@@ -437,6 +451,7 @@ def scrape_ashby(company, slug):
                     'location': location,
                     'url': apply_url,
                     'board': 'Ashby',
+                    'confident': confident,
                 })
         return jobs
     except Exception as e:
@@ -480,7 +495,8 @@ def scrape_smartrecruiters(company, identifier):
                 else:
                     location = country.upper() if country else ''
 
-                if is_relevant_title(title):
+                relevant, confident = is_relevant_title(title)
+                if relevant:
                     job_id = job.get('id', '')
                     ref = job.get('ref', f'https://jobs.smartrecruiters.com/{identifier}/{job_id}')
                     jobs.append({
@@ -490,6 +506,7 @@ def scrape_smartrecruiters(company, identifier):
                         'location': location,
                         'url': ref,
                         'board': 'SmartRecruiters',
+                        'confident': confident,
                     })
 
             total = data.get('totalFound', 0)
@@ -531,7 +548,8 @@ def scrape_workable(company, slug):
             else:
                 location = country.upper() if country else ''
 
-            if is_relevant_title(title):
+            relevant, confident = is_relevant_title(title)
+            if relevant:
                 job_id = job.get('shortcode', job.get('id', ''))
                 jobs.append({
                     'id': f'workable_{slug}_{job_id}',
@@ -540,6 +558,7 @@ def scrape_workable(company, slug):
                     'location': location,
                     'url': f'https://apply.workable.com/{slug}/j/{job_id}/',
                     'board': 'Workable',
+                    'confident': confident,
                 })
         return jobs
     except Exception as e:
@@ -574,7 +593,8 @@ def scrape_recruitee(company, slug):
             else:
                 location = country.title() if country else ''
 
-            if is_relevant_title(title):
+            relevant, confident = is_relevant_title(title)
+            if relevant:
                 job_id = str(job.get('id', ''))
                 careers_url = job.get('careers_url', f'https://{slug}.recruitee.com/o/{job.get("slug", job_id)}')
                 jobs.append({
@@ -584,6 +604,7 @@ def scrape_recruitee(company, slug):
                     'location': location,
                     'url': careers_url,
                     'board': 'Recruitee',
+                    'confident': confident,
                 })
         return jobs
     except Exception as e:
@@ -620,7 +641,8 @@ def scrape_pinpoint(company, slug):
             else:
                 location = ''
 
-            if is_relevant_title(title):
+            relevant, confident = is_relevant_title(title)
+            if relevant:
                 job_id = job.get('id', '')
                 jobs.append({
                     'id': f'pinpoint_{slug}_{job_id}',
@@ -629,6 +651,7 @@ def scrape_pinpoint(company, slug):
                     'location': location,
                     'url': f'https://{slug}.pinpointhq.com/postings/{job_id}',
                     'board': 'Pinpoint',
+                    'confident': confident,
                 })
         return jobs
     except Exception as e:
@@ -668,7 +691,8 @@ def scrape_workday(company, tenant, instance, board):
                 title = job.get('title', '')
                 location = job.get('locationsText', '')
                 external_path = job.get('externalPath', '')
-                if is_relevant_title(title) and is_us_location(location):
+                relevant, confident = is_relevant_title(title)
+                if relevant and is_us_location(location):
                     jobs.append({
                         'id': f'workday_{tenant}_{external_path}',
                         'company': company,
@@ -676,6 +700,7 @@ def scrape_workday(company, tenant, instance, board):
                         'location': location,
                         'url': f'{base_url}{external_path}',
                         'board': 'Workday',
+                        'confident': confident,
                     })
             total = data.get('total', 0)
             offset += len(postings)
@@ -690,7 +715,22 @@ def scrape_workday(company, tenant, instance, board):
 
 def create_github_issue(job, token, repo):
     listing_type, season = infer_listing_type(job['title'])
-    title = f'[JOB] {job["company"]} — {job["title"]}'
+    confident = job.get('confident', True)
+    issue_title = f'[JOB] {job["company"]} — {job["title"]}'
+
+    if confident:
+        # Gemini-classified: auto-approve pipeline picks this up
+        labels = ['new listing', 'auto-discovered']
+        notes = f'Auto-discovered via {job["board"]} API.'
+    else:
+        # Keyword fallback only: needs human review before adding
+        labels = ['new listing', 'needs-review']
+        notes = (
+            f'Auto-discovered via {job["board"]} API. '
+            f'**Needs manual review** — Gemini was unavailable so this was classified by keyword matching only. '
+            f'Please verify this is a legitimate tech role before approving.'
+        )
+
     body = f"""### Company Name
 
 {job['company']}
@@ -733,7 +773,7 @@ _No response_
 
 ### Additional Notes (Optional)
 
-Auto-discovered via {job['board']} API.
+{notes}
 
 ### Checklist
 
@@ -749,15 +789,16 @@ Auto-discovered via {job['board']} API.
     resp = requests.post(
         f'https://api.github.com/repos/{repo}/issues',
         json={
-            'title': title,
+            'title': issue_title,
             'body': body,
-            'labels': ['new listing', 'needs review', 'auto-discovered'],
+            'labels': labels,
         },
         headers=headers,
         timeout=10,
     )
     if resp.status_code == 201:
-        print(f'  Created issue: {title}')
+        review_flag = '' if confident else ' [NEEDS REVIEW]'
+        print(f'  Created issue{review_flag}: {issue_title}')
     else:
         print(f'  Failed ({resp.status_code}): {resp.text[:200]}')
 

@@ -129,8 +129,27 @@ def _company_sort_key(name):
     return name.strip().lower()
 
 
+def _parse_date(date_str):
+    """Parse 'Jul 8' format to a datetime for comparison. Returns None on failure."""
+    date_str = date_str.strip()
+    current_year = datetime.now().year
+    for year in [current_year, current_year - 1]:
+        try:
+            return datetime.strptime(f'{date_str} {year}', '%b %d %Y')
+        except ValueError:
+            pass
+    return None
+
+
+def _get_row_date(row):
+    """Extract the date from the last non-empty column of a markdown table row."""
+    cols = [c.strip() for c in row.split('|')]
+    cols = [c for c in cols if c]
+    return _parse_date(cols[-1]) if cols else None
+
+
 def insert_row(content, table_marker, row):
-    """Insert row into the correct table in alphabetical order by company name."""
+    """Insert row sorted by date (newest first), then alphabetical within same date."""
     start_marker = f'<!-- TABLE_START {table_marker} -->'
     end_marker = f'<!-- TABLE_END {table_marker} -->'
     start_idx = content.find(start_marker)
@@ -150,6 +169,7 @@ def insert_row(content, table_marker, row):
 
     new_company_raw = row.split('|')[1].strip() if '|' in row else ''
     new_key = _company_sort_key(new_company_raw)
+    new_date = _get_row_date(row)
 
     lines = table_body.splitlines(keepends=True)
     insert_line = len(lines)
@@ -162,10 +182,26 @@ def insert_row(content, table_marker, row):
             continue
         col1 = cols[1].strip()
         if col1 == '↳':
-            continue
-        if _company_sort_key(col1) > new_key:
-            insert_line = i
-            break
+            continue  # skip continuation rows — they move with their parent
+
+        row_date = _get_row_date(line.rstrip())
+
+        if new_date and row_date:
+            if new_date > row_date:
+                # New row is newer — insert before this group
+                insert_line = i
+                break
+            elif new_date == row_date:
+                # Same date — sort alphabetically by company
+                if _company_sort_key(col1) > new_key:
+                    insert_line = i
+                    break
+            # existing row is newer — keep looking
+        else:
+            # No date available — fall back to alphabetical
+            if _company_sort_key(col1) > new_key:
+                insert_line = i
+                break
 
     lines.insert(insert_line, row + '\n')
     return content[:header_end] + ''.join(lines) + content[end_idx:]
