@@ -80,10 +80,14 @@ greenhouse:
     slug: planetscale
   - name: Reddit
     slug: reddit
+  - name: Pinterest
+    slug: pinterest
   - name: Robinhood
     slug: robinhood
   - name: Samsara
     slug: samsara
+  - name: Snap
+    slug: snap
   - name: Scale AI
     slug: scaleai
   - name: Squarespace
@@ -94,6 +98,8 @@ greenhouse:
     slug: towerresearchcapital
   - name: Twilio
     slug: twilio
+  - name: Uber
+    slug: uber
   - name: Verkada
     slug: verkada
   - name: Webflow
@@ -102,6 +108,8 @@ greenhouse:
     slug: flyzipline
 
 lever:
+  - name: Palantir
+    slug: palantir
   - name: Spotify
     slug: spotify
 
@@ -162,18 +170,6 @@ workday:
     tenant: cloudera
     instance: wd5
     board: External_Career
-  - name: CVS Health
-    tenant: cvshealth
-    instance: wd1
-    board: CVS_Health_Careers
-  - name: Disney
-    tenant: disney
-    instance: wd5
-    board: disneycareer
-  - name: JLL
-    tenant: jll
-    instance: wd1
-    board: jllcareers
   - name: Netflix
     tenant: netflix
     instance: wd108
@@ -186,111 +182,27 @@ workday:
     tenant: paypal
     instance: wd1
     board: jobs
-  - name: PVH
-    tenant: pvh
-    instance: wd1
-    board: PVH_Careers
   - name: Qualcomm
     tenant: qualcomm
     instance: wd5
     board: External
-  - name: Sabre
-    tenant: sabre
-    instance: wd1
-    board: SabreJobs
   - name: Salesforce
     tenant: salesforce
     instance: wd12
     board: External_Career_Site
-  - name: Samsung
-    tenant: sec
-    instance: wd3
-    board: Samsung_Careers
   - name: Silicon Labs
     tenant: silabs
     instance: wd1
     board: SiliconlabsCareers
-  - name: Sprinklr
-    tenant: sprinklr
-    instance: wd1
-    board: careers
-  - name: Symantec
-    tenant: symantec
-    instance: wd1
-    board: careers
-  - name: Target
-    tenant: target
-    instance: wd5
-    board: targetcareers
-  - name: Walmart
-    tenant: walmart
-    instance: wd5
-    board: WalmartExternal
   - name: Workday
     tenant: workday
     instance: wd5
     board: ""
   # Batch 2
-  - name: Applied Materials
-    tenant: amat
-    instance: wd1
-    board: en-US/External
-  - name: ASM Global
-    tenant: asmglobal
-    instance: wd1
-    board: careers
-  - name: AstraZeneca
-    tenant: astrazeneca
-    instance: wd3
-    board: Careers
   - name: AVEVA
     tenant: aveva
     instance: wd3
     board: AVEVA_careers
-  - name: Ciena
-    tenant: ciena
-    instance: wd5
-    board: Careers
-  - name: Danaher
-    tenant: danaher
-    instance: wd1
-    board: DanaherJobs
-  - name: Deutsche Bank
-    tenant: db
-    instance: wd3
-    board: DBWebsite
-  - name: GDIT
-    tenant: gdit
-    instance: wd5
-    board: External_Career_Site
-  - name: Humana
-    tenant: humana
-    instance: wd5
-    board: Humana_External_Career_Site
-  - name: KBR
-    tenant: kbr
-    instance: wd5
-    board: KBR_Careers
-  - name: Live Nation
-    tenant: livenation
-    instance: wd1
-    board: LNExternalSite
-  - name: Mars
-    tenant: mars
-    instance: wd3
-    board: External
-  - name: Medtronic
-    tenant: medtronic
-    instance: wd1
-    board: MedtronicCareers
-  - name: Micron
-    tenant: micron
-    instance: wd1
-    board: External
-  - name: Philips
-    tenant: philips
-    instance: wd3
-    board: en-US/jobs-and-careers
   - name: Priceline
     tenant: priceline
     instance: wd1
@@ -299,10 +211,6 @@ workday:
     tenant: pwc
     instance: wd3
     board: en-US/Global_Experienced_Careers
-  - name: Reed
-    tenant: reed
-    instance: wd3
-    board: reed_specialist_recruitment_careers
   - name: Rocket Companies
     tenant: rocket
     instance: wd5
@@ -311,14 +219,6 @@ workday:
     tenant: sailpoint
     instance: wd1
     board: SailPoint
-  - name: VCA
-    tenant: vca
-    instance: wd1
-    board: BFCareers
-  - name: WME IMG
-    tenant: wmeimg
-    instance: wd1
-    board: WME
 
 ashby:
   - name: Abridge

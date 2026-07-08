@@ -25,11 +25,13 @@ _gemini_calls_today = 0
 _gemini_usage_date = None
 
 # Keywords matched with word boundaries (avoids "internal", "international", "internals")
-BOUNDARY_KEYWORDS = [r'\bintern\b', r'\binternship\b', r'\bco-op\b', r'\bcoop\b']
+BOUNDARY_KEYWORDS = [r'\bintern\b', r'\binternship\b', r'\bco-op\b', r'\bcoop\b', r'\bjunior\b']
 
 # Keywords safe for substring matching
 SUBSTRING_KEYWORDS = [
     'new grad', 'new-grad', 'entry level', 'entry-level', 'early career', '2027',
+    'university graduate', 'university grad', 'campus hire', 'college hire',
+    'new hire', 'associate engineer', 'associate software', 'associate data',
 ]
 
 # Title must contain at least one of these to be considered a tech role
