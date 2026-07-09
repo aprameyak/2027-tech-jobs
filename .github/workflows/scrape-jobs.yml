@@ -38,8 +38,8 @@ jobs:
 
       - name: Commit updated files
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Aprameya Kannan"
+          git config user.email "aprameyakannan@gmail.com"
           git add .github/data/seen_jobs.json .github/data/title_classifications.json .github/data/gemini_usage.json README.md listings.json
-          git diff --staged --quiet || git commit -m "update listings" -m "Co-Authored-By: Aprameya Kannan <aprameyakannan@gmail.com>"
+          git diff --staged --quiet || git commit -m "update listings"
           git pull --rebase && git push
