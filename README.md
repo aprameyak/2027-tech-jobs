@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Pinterest | PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems) | <details><summary>**4 locations**</summary>San Francisco, CA, US</br>Palo Alto, CA, US</br>Seattle, WA, US</br>New York, NY, US</details> | Undergrad | <a href="https://www.pinterestcareers.com/jobs/?gh_jid=7255640"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 9 |
 | Palantir | Software Engineer, Internship - Production Infrastructure | New York, NY | Undergrad | <a href="https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 8 |
 | Palantir | Software Engineer, Internship - Infrastructure | Palo Alto, CA | Undergrad | <a href="https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 8 |
 | Palantir | Software Engineer, Internship - Defense Tech | Palo Alto, CA | Undergrad | <a href="https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 8 |
