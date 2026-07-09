@@ -713,6 +713,129 @@ def scrape_workday(company, tenant, instance, board):
     return jobs
 
 
+def scrape_amazon():
+    """Scrapes Amazon's public jobs JSON API for intern/new grad roles in the US."""
+    base_url = 'https://www.amazon.jobs/en/search.json'
+    params = {
+        'base_query': 'intern OR "new grad" OR "university hire"',
+        'loc_query': 'united states',
+        'result_limit': 100,
+        'offset': 0,
+        'job_type': 'Full-Time,Part-Time,Temporary,Internship',
+    }
+    jobs = []
+
+    while True:
+        try:
+            resp = requests.get(base_url, params=params, headers=HEADERS, timeout=15)
+            if resp.status_code != 200:
+                print(f'  [Amazon] HTTP {resp.status_code}')
+                break
+            data = resp.json()
+            postings = data.get('jobs', [])
+            if not postings:
+                break
+            for job in postings:
+                title = job.get('title', '')
+                location = job.get('location', '')
+                job_id = str(job.get('id_icims', job.get('id', '')))
+                job_path = job.get('job_path', '')
+                url = f'https://www.amazon.jobs{job_path}' if job_path else f'https://www.amazon.jobs/en/jobs/{job_id}'
+
+                relevant, confident = is_relevant_title(title)
+                if relevant and is_us_location(location):
+                    jobs.append({
+                        'id': f'amazon_{job_id}',
+                        'company': 'Amazon',
+                        'title': title,
+                        'location': location,
+                        'url': url,
+                        'board': 'Amazon Jobs',
+                        'confident': confident,
+                    })
+
+            total = data.get('hits', 0)
+            params['offset'] += len(postings)
+            if params['offset'] >= total or len(postings) < params['result_limit']:
+                break
+            time.sleep(0.5)
+        except Exception as e:
+            print(f'  [Amazon] Error: {e}')
+            break
+
+    return jobs
+
+
+def scrape_apple():
+    """Scrapes Apple's public jobs API for intern/new grad roles in the US."""
+    url = 'https://jobs.apple.com/api/role/search'
+    headers = {
+        **HEADERS,
+        'Content-Type': 'application/json',
+        'Accept': 'application/json',
+        'Referer': 'https://jobs.apple.com/',
+    }
+
+    queries = ['intern', 'new grad', 'university']
+    seen_ids = set()
+    jobs = []
+
+    for query in queries:
+        page = 1
+        while True:
+            payload = {
+                'filters': {
+                    'postingpostLocation': ['postLocation-USA'],
+                },
+                'page': page,
+                'locale': 'en-us',
+                'query': query,
+            }
+            try:
+                resp = requests.post(url, json=payload, headers=headers, timeout=15)
+                if resp.status_code != 200:
+                    print(f'  [Apple] HTTP {resp.status_code} for query "{query}"')
+                    break
+                data = resp.json()
+                results = data.get('searchResults', [])
+                if not results:
+                    break
+                for job in results:
+                    job_id = str(job.get('positionId', job.get('id', '')))
+                    if job_id in seen_ids:
+                        continue
+                    seen_ids.add(job_id)
+
+                    title = job.get('postingTitle', '')
+                    external_path = job.get('externalPath', '')
+                    loc_list = job.get('locations', [])
+                    location = loc_list[0].get('name', '') if loc_list else ''
+                    apply_url = f'https://jobs.apple.com/en-us/details/{job_id}{external_path}' if job_id else ''
+
+                    relevant, confident = is_relevant_title(title)
+                    if relevant:
+                        jobs.append({
+                            'id': f'apple_{job_id}',
+                            'company': 'Apple',
+                            'title': title,
+                            'location': location,
+                            'url': apply_url,
+                            'board': 'Apple Jobs',
+                            'confident': confident,
+                        })
+
+                total_pages = data.get('totalPages', 1)
+                if page >= total_pages:
+                    break
+                page += 1
+                time.sleep(0.5)
+            except Exception as e:
+                print(f'  [Apple] Error for query "{query}": {e}')
+                break
+
+    return jobs
+
+
 def create_github_issue(job, token, repo):
     listing_type, season = infer_listing_type(job['title'])
     confident = job.get('confident', True)
@@ -862,6 +985,23 @@ def main():
                 new_jobs.append(job)
                 seen.add(job['id'])
         time.sleep(0.4)
+
+    # Amazon (custom JSON API)
+    print('Checking Amazon (amazon.jobs)...')
+    for job in scrape_amazon():
+        if job['id'] not in seen:
+            print(f'  NEW: {job["title"]} @ {job["location"]}')
+            new_jobs.append(job)
+            seen.add(job['id'])
+    time.sleep(0.4)
+
+    # Apple (custom JSON API)
+    print('Checking Apple (jobs.apple.com)...')
+    for job in scrape_apple():
+        if job['id'] not in seen:
+            print(f'  NEW: {job["title"]} @ {job["location"]}')
+            new_jobs.append(job)
+            seen.add(job['id'])
 
     print(f'\nFound {len(new_jobs)} new job(s)')
 

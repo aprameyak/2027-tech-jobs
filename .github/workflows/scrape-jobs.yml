@@ -5,6 +5,10 @@ on:
     - cron: '0 8 * * *'  # Daily at 8am UTC
   workflow_dispatch:      # Allow manual trigger from Actions tab
 
+concurrency:
+  group: readme-updates
+  cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -44,4 +48,4 @@ jobs:
           git config user.email "aprameyakannan@gmail.com"
           git add .github/data/seen_jobs.json .github/data/title_classifications.json .github/data/gemini_usage.json README.md listings.json
           git diff --staged --quiet || git commit -m "update listings"
-          git pull --rebase && git push
+          git pull --rebase -X ours && git push
