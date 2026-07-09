@@ -4,6 +4,10 @@ on:
   issues:
     types: [labeled]
 
+concurrency:
+  group: readme-updates
+  cancel-in-progress: false
+
 jobs:
   add-listing:
     if: github.event.label.name == 'approved'
@@ -40,7 +44,7 @@ jobs:
           git config user.email "aprameyakannan@gmail.com"
           git add README.md listings.json
           git diff --staged --quiet || git commit -m "add listing from issue #${{ github.event.issue.number }}"
-          git pull --rebase && git push
+          git pull --rebase -X ours && git push
 
       - name: Comment and close issue
         uses: actions/github-script@v7

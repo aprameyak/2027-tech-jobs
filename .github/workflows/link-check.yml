@@ -5,6 +5,10 @@ on:
     - cron: '0 0 * * *'  # Daily at midnight UTC
   workflow_dispatch:      # Allow manual trigger from Actions tab
 
+concurrency:
+  group: readme-updates
+  cancel-in-progress: false
+
 jobs:
   check-links:
     runs-on: ubuntu-latest
@@ -33,4 +37,4 @@ jobs:
           git config user.email "aprameyakannan@gmail.com"
           git add README.md
           git diff --staged --quiet || git commit -m "mark closed positions"
-          git push
+          git pull --rebase -X ours && git push
