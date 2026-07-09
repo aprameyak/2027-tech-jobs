@@ -37,7 +37,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md listings.json
-          git diff --staged --quiet || git commit -m "add listing from issue #${{ github.event.issue.number }}"
+          git diff --staged --quiet || git commit -m "add listing from issue #${{ github.event.issue.number }}" -m "Co-Authored-By: Aprameya Kannan <aprameyakannan@gmail.com>"
           git pull --rebase && git push
 
       - name: Comment and close issue
