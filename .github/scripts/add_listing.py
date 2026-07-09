@@ -134,6 +134,12 @@ def _get_row_date(row):
     return _parse_date(cols[-1]) if cols else None
 
 
+def _get_row_date_str(row):
+    cols = [c.strip() for c in row.split('|')]
+    cols = [c for c in cols if c]
+    return cols[-1].strip() if cols else ''
+
+
 def insert_row(content, table_marker, row):
     start_marker = f'<!-- TABLE_START {table_marker} -->'
     end_marker = f'<!-- TABLE_END {table_marker} -->'
@@ -155,10 +161,33 @@ def insert_row(content, table_marker, row):
     new_company_raw = row.split('|')[1].strip() if '|' in row else ''
     new_key = _company_sort_key(new_company_raw)
     new_date = _get_row_date(row)
+    new_date_str = _get_row_date_str(row)
 
     lines = table_body.splitlines(keepends=True)
-    insert_line = len(lines)
 
+    last_group_idx = -1
+    in_group = False
+    for i, line in enumerate(lines):
+        if not line.strip() or not line.startswith('|'):
+            continue
+        cols = line.split('|')
+        if len(cols) < 2:
+            continue
+        col1 = cols[1].strip()
+        if col1 != '↳' and _company_sort_key(col1) == new_key and _get_row_date_str(line.rstrip()) == new_date_str:
+            in_group = True
+            last_group_idx = i
+        elif col1 == '↳' and in_group:
+            last_group_idx = i
+        elif col1 != '↳':
+            in_group = False
+
+    if last_group_idx != -1:
+        continuation = re.sub(r'^\| [^|]+ \|', '| ↳ |', row, count=1)
+        lines.insert(last_group_idx + 1, continuation + '\n')
+        return content[:header_end] + ''.join(lines) + content[end_idx:]
+
+    insert_line = len(lines)
     for i, line in enumerate(lines):
         if not line.strip() or not line.startswith('|'):
             continue
@@ -168,9 +197,7 @@ def insert_row(content, table_marker, row):
         col1 = cols[1].strip()
         if col1 == '↳':
             continue
-
         row_date = _get_row_date(line.rstrip())
-
         if new_date and row_date:
             if new_date > row_date:
                 insert_line = i
