@@ -31,6 +31,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | Palantir | Forward Deployed Software Engineer, Internship - Commercial | New York, NY | Undergrad | <a href="https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 9 |
+| Verkada | Technical Support Engineer - University Graduate 2026 | San Mateo, CA United States | Undergrad | <a href="https://job-boards.greenhouse.io/verkada/jobs/4715534007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 9 |
 | Palantir | Software Engineer, Internship - Production Infrastructure | New York, NY | Undergrad | <a href="https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 8 |
 | ↳ | Software Engineer, Internship - Infrastructure | Palo Alto, CA | Undergrad | <a href="https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 8 |
 | ↳ | Software Engineer, Internship - Defense Tech | Palo Alto, CA | Undergrad | <a href="https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 8 |
