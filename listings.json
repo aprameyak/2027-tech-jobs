@@ -3514,5 +3514,101 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-09"
+  },
+  {
+    "company": "Amazon",
+    "role": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
+    "location": "US, CA, San Francisco",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-09"
+  },
+  {
+    "company": "Amazon",
+    "role": "2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics",
+    "location": "US, CA, San Francisco",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://www.amazon.jobs/en/jobs/3131315/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-09"
+  },
+  {
+    "company": "Amazon",
+    "role": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+    "location": "EG, Cairo",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://www.amazon.jobs/en/jobs/10385882/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-09"
+  },
+  {
+    "company": "SpaceX",
+    "role": "New Graduate Engineer, Software (Starlink)",
+    "location": "Sunnyvale, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-09"
+  },
+  {
+    "company": "SpaceX",
+    "role": "New Graduate Engineer, Mechanical (Starlink)",
+    "location": "Bastrop, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8578053002?gh_jid=8578053002",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-09"
+  },
+  {
+    "company": "Roblox",
+    "role": "[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career",
+    "location": "San Mateo, CA, United States",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.roblox.com/jobs/8027588?gh_jid=8027588",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-09"
+  },
+  {
+    "company": "Palantir",
+    "role": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+    "location": "New York, NY",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-09"
+  },
+  {
+    "company": "Palantir",
+    "role": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+    "location": "New York, NY",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-09"
   }
 ]
