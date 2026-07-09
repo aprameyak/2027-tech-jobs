@@ -2,8 +2,8 @@ name: Scrape Job Boards
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Daily at 8am UTC
-  workflow_dispatch:      # Allow manual trigger from Actions tab
+    - cron: '0 8 * * *'
+  workflow_dispatch:
 
 concurrency:
   group: readme-updates

@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-"""
-Validates a job listing issue submission and comments with any missing fields.
-"""
 
 import os
 import re

@@ -1,6 +1,3 @@
-# Companies to monitor for intern/new grad postings
-# All slugs verified against live APIs
-
 greenhouse:
   - name: Affirm
     slug: affirm
@@ -16,14 +13,20 @@ greenhouse:
     slug: aquaticcapitalmanagement
   - name: Asana
     slug: asana
+  - name: Block
+    slug: block-2
   - name: Box
     slug: boxinc
   - name: Brex
     slug: brex
+  - name: ByteDance
+    slug: bytedance
   - name: Carta
     slug: carta
   - name: Checkr
     slug: checkr
+  - name: Citadel
+    slug: citadel
   - name: ClickHouse
     slug: clickhouse
   - name: Cloudflare
@@ -40,6 +43,8 @@ greenhouse:
     slug: discord
   - name: DoorDash
     slug: doordashusa
+  - name: Dropbox
+    slug: dropbox
   - name: Duolingo
     slug: duolingo
   - name: Figma
@@ -52,6 +57,8 @@ greenhouse:
     slug: gusto
   - name: HubSpot
     slug: hubspot
+  - name: Hudson River Trading
+    slug: hudsonrivertrading
   - name: IMC Trading
     slug: imc
   - name: Instacart
@@ -76,20 +83,28 @@ greenhouse:
     slug: nuro
   - name: Okta
     slug: okta
+  - name: Optiver
+    slug: optiver
   - name: PlanetScale
     slug: planetscale
   - name: Reddit
     slug: reddit
   - name: Pinterest
     slug: pinterest
+  - name: Riot Games
+    slug: riotgames
   - name: Robinhood
     slug: robinhood
+  - name: Roblox
+    slug: roblox
   - name: Samsara
     slug: samsara
   - name: Snap
     slug: snap
   - name: Scale AI
     slug: scaleai
+  - name: SpaceX
+    slug: spacex
   - name: Squarespace
     slug: squarespace
   - name: Stripe
@@ -98,10 +113,14 @@ greenhouse:
     slug: towerresearchcapital
   - name: Twilio
     slug: twilio
+  - name: Twitch
+    slug: twitch
   - name: Uber
     slug: uber
   - name: Verkada
     slug: verkada
+  - name: Waymo
+    slug: waymo
   - name: Webflow
     slug: webflow
   - name: Zipline
@@ -198,7 +217,6 @@ workday:
     tenant: workday
     instance: wd5
     board: ""
-  # Batch 2
   - name: AVEVA
     tenant: aveva
     instance: wd3

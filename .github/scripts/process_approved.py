@@ -13,7 +13,7 @@ import requests
 LISTINGS_FILE = Path('listings.json')
 
 
-def get_auto_discovered_issues(token, repo):
+def get_approved_issues(token, repo):
     headers = {
         'Authorization': f'token {token}',
         'Accept': 'application/vnd.github.v3+json',
@@ -24,7 +24,7 @@ def get_auto_discovered_issues(token, repo):
         resp = requests.get(
             f'https://api.github.com/repos/{repo}/issues',
             headers=headers,
-            params={'state': 'open', 'labels': 'auto-discovered', 'per_page': 100, 'page': page},
+            params={'state': 'open', 'labels': 'approved', 'per_page': 100, 'page': page},
             timeout=10,
         )
         if resp.status_code != 200:
@@ -33,16 +33,25 @@ def get_auto_discovered_issues(token, repo):
         batch = resp.json()
         if not batch:
             break
-        issues.extend(batch)
+        label_names = lambda issue: [l['name'] for l in issue.get('labels', [])]
+        for issue in batch:
+            if 'auto-discovered' not in label_names(issue):
+                issues.append(issue)
         page += 1
     return issues
 
 
-def close_issue(token, repo, issue_number):
+def comment_and_close(token, repo, issue_number):
     headers = {
         'Authorization': f'token {token}',
         'Accept': 'application/vnd.github.v3+json',
     }
+    requests.post(
+        f'https://api.github.com/repos/{repo}/issues/{issue_number}/comments',
+        headers=headers,
+        json={'body': '✅ Listing added to the repo! Thanks for contributing.'},
+        timeout=10,
+    )
     requests.patch(
         f'https://api.github.com/repos/{repo}/issues/{issue_number}',
         headers=headers,
@@ -226,11 +235,11 @@ def main():
     token = os.environ.get('GITHUB_TOKEN')
     repo = os.environ.get('GITHUB_REPOSITORY')
     if not token or not repo:
-        print('GITHUB_TOKEN or GITHUB_REPOSITORY not set — skipping auto-approve')
+        print('GITHUB_TOKEN or GITHUB_REPOSITORY not set — skipping')
         sys.exit(0)
 
-    issues = get_auto_discovered_issues(token, repo)
-    print(f'Found {len(issues)} auto-discovered issue(s) to process')
+    issues = get_approved_issues(token, repo)
+    print(f'Found {len(issues)} approved issue(s) to process')
 
     if not issues:
         return
@@ -254,7 +263,7 @@ def main():
 
         if apply_link in content or apply_link in existing_urls:
             print(f'  Issue #{number}: already in repo, closing')
-            close_issue(token, repo, number)
+            comment_and_close(token, repo, number)
             time.sleep(0.5)
             continue
 
@@ -268,7 +277,7 @@ def main():
         content = new_content
         listings.append(listing_to_json(fields, table_type))
         existing_urls.add(apply_link)
-        close_issue(token, repo, number)
+        comment_and_close(token, repo, number)
         print(f'  Issue #{number}: added "{fields.get("Role / Job Title", "")}" at {fields.get("Company Name", "")}')
         added += 1
         time.sleep(0.5)

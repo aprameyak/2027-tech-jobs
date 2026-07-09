@@ -26,39 +26,19 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Write issue body to file
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const fs = require('fs');
-            fs.writeFileSync('issue_body.txt', context.payload.issue.body || '');
+      - name: Install dependencies
+        run: pip install requests
 
-      - name: Add listing to README
+      - name: Process all approved issues
         env:
-          ISSUE_BODY_FILE: issue_body.txt
-        run: python .github/scripts/add_listing.py
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python .github/scripts/process_approved.py
 
       - name: Commit changes
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
           git add README.md listings.json
-          git diff --staged --quiet || git commit -m "add listing from issue #${{ github.event.issue.number }}"
+          git diff --staged --quiet || git commit -m "add approved listings"
           git pull --rebase -X ours && git push
-
-      - name: Comment and close issue
-        uses: actions/github-script@v7
-        with:
-          script: |
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body: '✅ Listing added to the repo! Thanks for contributing.'
-            });
-            await github.rest.issues.update({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              state: 'closed'
-            });

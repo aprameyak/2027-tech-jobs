@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-Parses a GitHub issue form submission and inserts a formatted row
-into the correct table in README.md.
-"""
 
 import json
 import os
@@ -15,7 +11,6 @@ LISTINGS_FILE = Path('listings.json')
 
 
 def parse_issue_body(body):
-    """Parse GitHub issue form body into a field dict."""
     fields = {}
     sections = re.split(r'^### ', body, flags=re.MULTILINE)
     for section in sections:
@@ -40,7 +35,6 @@ def format_company(company, sponsorship, citizenship):
 
 
 def format_location(location):
-    """Handle single location or multiple locations separated by semicolons."""
     location = location.strip()
     if ';' in location:
         parts = [p.strip() for p in location.split(';') if p.strip()]
@@ -94,13 +88,11 @@ def format_row(fields, table_type):
 
 
 def _company_sort_key(name):
-    """Normalize company name for alphabetical comparison (strip flags, lowercase)."""
     name = re.sub(r'[\U0001F000-\U0001FFFF\u2600-\u26FF\u2700-\u27BF]', '', name)
     return name.strip().lower()
 
 
 def _parse_date(date_str):
-    """Parse 'Jul 8' format to a datetime for comparison. Returns None on failure."""
     date_str = date_str.strip()
     current_year = datetime.now().year
     for year in [current_year, current_year - 1]:
@@ -112,14 +104,12 @@ def _parse_date(date_str):
 
 
 def _get_row_date(row):
-    """Extract the date from the last non-empty column of a markdown table row."""
     cols = [c.strip() for c in row.split('|')]
     cols = [c for c in cols if c]
     return _parse_date(cols[-1]) if cols else None
 
 
 def insert_row(content, table_marker, row):
-    """Insert row sorted by date (newest first), then alphabetical within same date."""
     start_marker = f'<!-- TABLE_START {table_marker} -->'
     end_marker = f'<!-- TABLE_END {table_marker} -->'
     start_idx = content.find(start_marker)
@@ -152,23 +142,19 @@ def insert_row(content, table_marker, row):
             continue
         col1 = cols[1].strip()
         if col1 == '↳':
-            continue  # skip continuation rows — they move with their parent
+            continue
 
         row_date = _get_row_date(line.rstrip())
 
         if new_date and row_date:
             if new_date > row_date:
-                # New row is newer — insert before this group
                 insert_line = i
                 break
             elif new_date == row_date:
-                # Same date — sort alphabetically by company
                 if _company_sort_key(col1) > new_key:
                     insert_line = i
                     break
-            # existing row is newer — keep looking
         else:
-            # No date available — fall back to alphabetical
             if _company_sort_key(col1) > new_key:
                 insert_line = i
                 break
@@ -210,7 +196,6 @@ def main():
     with open('README.md', 'w') as f:
         f.write(new_content)
 
-    # Update listings.json
     listings = []
     if LISTINGS_FILE.exists():
         with open(LISTINGS_FILE) as f:

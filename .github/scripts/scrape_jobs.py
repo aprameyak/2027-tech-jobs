@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-Scrapes Greenhouse, Lever, and Ashby job boards for intern/new grad positions.
-Opens GitHub issues for new matches that haven't been seen before.
-"""
 
 import json
 import os
@@ -17,24 +13,21 @@ SEEN_JOBS_FILE = Path('.github/data/seen_jobs.json')
 TITLE_CACHE_FILE = Path('.github/data/title_classifications.json')
 GEMINI_USAGE_FILE = Path('.github/data/gemini_usage.json')
 
-GEMINI_DAILY_LIMIT = 1400   # Hard cap — 100 below the free tier limit of 1500/day
-GEMINI_RPM_DELAY = 4.2      # Seconds between calls — keeps rate under 15/min
+GEMINI_DAILY_LIMIT = 1400
+GEMINI_RPM_DELAY = 4.2
 
 _title_cache = None
 _gemini_calls_today = 0
 _gemini_usage_date = None
 
-# Keywords matched with word boundaries (avoids "internal", "international", "internals")
 BOUNDARY_KEYWORDS = [r'\bintern\b', r'\binternship\b', r'\bco-op\b', r'\bcoop\b', r'\bjunior\b']
 
-# Keywords safe for substring matching
 SUBSTRING_KEYWORDS = [
     'new grad', 'new-grad', 'entry level', 'entry-level', 'early career', '2027',
     'university graduate', 'university grad', 'campus hire', 'college hire',
     'new hire', 'associate engineer', 'associate software', 'associate data',
 ]
 
-# Title must contain at least one of these to be considered a tech role
 TECH_KEYWORDS = [
     'software', 'engineer', 'engineering', 'developer', 'data', 'machine learning',
     'ml', 'ai ', ' ai', 'artificial intelligence', 'research', 'researcher',
@@ -44,34 +37,28 @@ TECH_KEYWORDS = [
     'database', 'analytics', 'product', 'sre', 'reliability', 'embedded',
     'firmware', 'robotics', 'computer', 'computational', 'algorithm', 'applied',
     'technical', 'scientist', 'physics', 'math', 'statistics', 'fintech',
-    # PM / consulting / digital tech roles
     'product manager', 'program manager', 'consultant', 'consulting',
     'digital', 'technology associate', 'technology analyst',
     'information technology', 'business analyst', 'business technology',
 ]
 
-# Roles that match TECH_KEYWORDS but are NOT software/data/CS — checked before TECH_KEYWORDS
 NON_TECH_ROLE_SIGNALS = [
-    # Non-software engineering disciplines (hardware, fab, manufacturing)
     'manufacturing engineer', 'process engineer', 'chemical engineer',
     'mechanical engineer', 'materials engineer', 'materials scientist',
     'quality engineer', 'equipment engineer', 'industrial engineer',
     'environmental engineer', 'civil engineer', 'structural engineer',
     'electrical engineer', 'process integration', 'photolithography',
     'metrology', 'failure analysis', 'yield engineer', 'etch engineer',
-    # Non-tech business/support roles
     'sales', 'marketing', 'human resources', 'recruiter',
     'supply chain', 'procurement', 'financial analyst',
     'customer success', 'customer support', 'account manager',
     'legal intern', 'paralegal', 'accounting intern', 'finance intern',
-    # Operations / logistics / facilities / non-tech functions
     'logistics', 'warehouse', 'shipping', 'receiving', 'inventory',
     'facilities manager', 'operations associate',
     'internal audit', 'compliance', 'tax director', 'tax manager',
     'legal counsel', 'general counsel', 'legal operations',
 ]
 
-# Location must match at least one of these to be considered North America (US or Canada)
 US_SIGNALS = [
     'united states', 'usa', 'u.s.a', ', al', ', ak', ', az', ', ar',
     ', ca', ', co', ', ct', ', de', ', fl', ', ga', ', hi', ', id',
@@ -84,12 +71,10 @@ US_SIGNALS = [
     'chicago', 'austin', 'denver', 'atlanta', 'miami', 'dallas',
     'raleigh', 'washington d', 'menlo park', 'palo alto', 'mountain view',
     'san jose', 'redwood city', 'bellevue', 'portland',
-    # Canada
     'toronto', 'vancouver', 'montreal', 'ottawa', 'calgary', 'canada',
     ', on', ', bc', ', qc', ', ab',
 ]
 
-# If any of these appear, it's definitely not North America — skip even if US signal present
 NON_US_SIGNALS = [
     'london', 'united kingdom', ', uk', '(uk)', 'u.k.',
     'berlin', 'munich', 'frankfurt', 'germany',
@@ -117,7 +102,6 @@ def load_title_cache():
             if TITLE_CACHE_FILE.exists():
                 with open(TITLE_CACHE_FILE) as f:
                     data = json.load(f)
-                # Validate: must be a dict of str -> bool
                 if isinstance(data, dict):
                     _title_cache = {k: bool(v) for k, v in data.items() if isinstance(k, str)}
                 else:
@@ -220,7 +204,7 @@ def classify_with_gemini(title):
 
         if resp.status_code == 429:
             print('  [Gemini] Rate limited (429) — using keyword fallback for remainder of run')
-            _gemini_calls_today = GEMINI_DAILY_LIMIT  # Stop further calls this run
+            _gemini_calls_today = GEMINI_DAILY_LIMIT
             return None
 
         try:
@@ -249,7 +233,6 @@ def classify_with_gemini(title):
             return True
         if text.startswith('n'):
             return False
-        # Sometimes the model returns "yes." or "yes," — strip punctuation and retry
         clean = text.strip('.,!? ')
         if clean == 'yes':
             return True
@@ -279,7 +262,6 @@ def save_seen_jobs(seen):
 
 
 def is_tech_title_keywords(title):
-    """Keyword-based fallback classifier."""
     t = title.lower()
     if any(s in t for s in NON_TECH_ROLE_SIGNALS):
         return False
@@ -287,36 +269,26 @@ def is_tech_title_keywords(title):
 
 
 def classify_title(title):
-    """
-    Returns (is_tech: bool, confident: bool).
-    confident=True when Gemini classified it or it was a fast-reject.
-    confident=False when keyword fallback was used (Gemini unavailable/limit hit).
-    """
     t = title.lower()
 
-    # Fast reject — clearly non-tech, no API call needed
     if any(s in t for s in NON_TECH_ROLE_SIGNALS):
-        return False, True  # confident rejection
+        return False, True
 
-    # Check cache
     cache = load_title_cache()
     if t in cache:
-        return cache[t], True  # cached results are treated as confident
+        return cache[t], True
 
-    # Try Gemini
     result = classify_with_gemini(title)
     if result is not None:
         cache[t] = result
-        return result, True  # Gemini classification = confident
+        return result, True
 
-    # Keyword fallback — uncertain, flag for manual review
     result = is_tech_title_keywords(title)
     cache[t] = result
-    return result, False  # keyword fallback = not confident
+    return result, False
 
 
 def is_relevant_title(title):
-    """Returns (is_relevant: bool, confident: bool)."""
     is_tech, confident = classify_title(title)
     if not is_tech:
         return False, confident
@@ -329,23 +301,19 @@ def is_relevant_title(title):
 
 
 def is_us_location(location):
-    """Return True if location is in the US, Canada, or unqualified Remote."""
     if not location or location.strip() == '':
-        return False  # Skip unknown locations to avoid non-US noise
+        return False
 
     loc = location.lower()
 
-    # Immediately reject known non-US locations
     if any(s in loc for s in NON_US_SIGNALS):
         return False
 
-    # Accept if clearly Remote with no country qualifier
     if loc.strip() in ('remote', 'remote (us)', 'us remote', 'remote - us',
                        'remote, us', 'remote, usa', 'work from home',
                        'remote (canada)', 'canada remote', 'remote, canada'):
         return True
 
-    # Accept if it contains a US signal
     return any(s in loc for s in US_SIGNALS)
 
 
@@ -482,7 +450,6 @@ def scrape_smartrecruiters(company, identifier):
                 city = loc.get('city', '')
                 region = loc.get('region', '')
 
-                # Only North America or remote
                 if not (country in ('us', 'ca') or remote):
                     continue
 
@@ -714,7 +681,6 @@ def scrape_workday(company, tenant, instance, board):
 
 
 def scrape_amazon():
-    """Scrapes Amazon's public jobs JSON API for intern/new grad roles in the US."""
     base_url = 'https://www.amazon.jobs/en/search.json'
     params = {
         'base_query': 'intern OR "new grad" OR "university hire"',
@@ -767,7 +733,6 @@ def scrape_amazon():
 
 
 def scrape_apple():
-    """Scrapes Apple's public jobs API for intern/new grad roles in the US."""
     url = 'https://jobs.apple.com/api/role/search'
     headers = {
         **HEADERS,
@@ -842,11 +807,9 @@ def create_github_issue(job, token, repo):
     issue_title = f'[JOB] {job["company"]} — {job["title"]}'
 
     if confident:
-        # Gemini-classified: auto-approve pipeline picks this up
         labels = ['new listing', 'auto-discovered']
         notes = f'Auto-discovered via {job["board"]} API.'
     else:
-        # Keyword fallback only: needs human review before adding
         labels = ['new listing', 'needs-review']
         notes = (
             f'Auto-discovered via {job["board"]} API. '
@@ -986,7 +949,6 @@ def main():
                 seen.add(job['id'])
         time.sleep(0.4)
 
-    # Amazon (custom JSON API)
     print('Checking Amazon (amazon.jobs)...')
     for job in scrape_amazon():
         if job['id'] not in seen:
@@ -995,7 +957,6 @@ def main():
             seen.add(job['id'])
     time.sleep(0.4)
 
-    # Apple (custom JSON API)
     print('Checking Apple (jobs.apple.com)...')
     for job in scrape_apple():
         if job['id'] not in seen:

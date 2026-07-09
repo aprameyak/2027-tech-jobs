@@ -1,14 +1,9 @@
 #!/usr/bin/env python3
-"""
-Checks all apply links in README.md and marks dead ones with 🔒.
-Skips domains known to block bots (IBM, Tesla, etc.) to avoid false positives.
-"""
 
 import re
 import time
 import requests
 
-# Domains that actively block crawlers — skip to avoid false positives
 SKIP_DOMAINS = [
     'careers.ibm.com',
     'www.tesla.com',
@@ -42,7 +37,7 @@ def is_link_alive(url):
         return resp.status_code < 404
     except Exception as e:
         print(f'  Request error: {e}')
-        return True  # Default to alive on errors to avoid false positives
+        return True
 
 
 def main():
