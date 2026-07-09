@@ -6,6 +6,31 @@ import re
 import sys
 from datetime import datetime
 from pathlib import Path
+from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
+
+STRIP_PARAMS = {
+    'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'utm_id',
+    'source', 'src', 'ref', 'referer',
+    'lever-source', 'lever-origin',
+    'gh_src',
+}
+
+README_URL_RE = re.compile(r'<a href="([^"]+)">')
+
+
+def normalize_url(url):
+    try:
+        p = urlparse(url.strip())
+        params = {k: v for k, v in parse_qs(p.query, keep_blank_values=True).items()
+                  if k.lower() not in STRIP_PARAMS}
+        return urlunparse(p._replace(
+            scheme=p.scheme.lower(),
+            netloc=p.netloc.lower(),
+            query=urlencode(sorted(params.items()), doseq=True),
+            fragment='',
+        ))
+    except Exception:
+        return url
 
 LISTINGS_FILE = Path('listings.json')
 
@@ -187,7 +212,8 @@ def main():
         content = f.read()
 
     apply_link = fields.get('Direct Application Link', '').strip()
-    if apply_link and apply_link in content:
+    existing = {normalize_url(u) for u in README_URL_RE.findall(content)}
+    if apply_link and normalize_url(apply_link) in existing:
         print(f'SKIP: listing already exists in README (link found: {apply_link})')
         sys.exit(0)
 

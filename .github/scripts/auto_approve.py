@@ -7,10 +7,41 @@ import sys
 import time
 from datetime import datetime
 from pathlib import Path
+from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 
 import requests
 
 LISTINGS_FILE = Path('listings.json')
+
+STRIP_PARAMS = {
+    'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'utm_id',
+    'source', 'src', 'ref', 'referer',
+    'lever-source', 'lever-origin',
+    'gh_src',
+}
+
+README_URL_RE = re.compile(r'<a href="([^"]+)">')
+
+
+def normalize_url(url):
+    try:
+        p = urlparse(url.strip())
+        params = {k: v for k, v in parse_qs(p.query, keep_blank_values=True).items()
+                  if k.lower() not in STRIP_PARAMS}
+        return urlunparse(p._replace(
+            scheme=p.scheme.lower(),
+            netloc=p.netloc.lower(),
+            query=urlencode(sorted(params.items()), doseq=True),
+            fragment='',
+        ))
+    except Exception:
+        return url
+
+
+def existing_normalized_urls(content, listings):
+    readme = {normalize_url(u) for u in README_URL_RE.findall(content)}
+    stored = {normalize_url(l.get('url', '')) for l in listings}
+    return readme | stored
 
 
 def get_auto_discovered_issues(token, repo):
@@ -239,7 +270,7 @@ def main():
         content = f.read()
 
     listings = load_listings()
-    existing_urls = {l.get('url') for l in listings}
+    seen_normalized = existing_normalized_urls(content, listings)
     added = 0
 
     for issue in issues:
@@ -252,7 +283,7 @@ def main():
             print(f'  Issue #{number}: no apply link, skipping')
             continue
 
-        if apply_link in content or apply_link in existing_urls:
+        if normalize_url(apply_link) in seen_normalized:
             print(f'  Issue #{number}: already in repo, closing')
             close_issue(token, repo, number)
             time.sleep(0.5)
@@ -267,7 +298,7 @@ def main():
 
         content = new_content
         listings.append(listing_to_json(fields, table_type))
-        existing_urls.add(apply_link)
+        seen_normalized.add(normalize_url(apply_link))
         close_issue(token, repo, number)
         print(f'  Issue #{number}: added "{fields.get("Role / Job Title", "")}" at {fields.get("Company Name", "")}')
         added += 1
