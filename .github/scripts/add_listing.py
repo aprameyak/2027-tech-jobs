@@ -178,9 +178,14 @@ def insert_row(content, table_marker, row):
 
 
 def main():
-    issue_body = os.environ.get('ISSUE_BODY', '')
+    body_file = os.environ.get('ISSUE_BODY_FILE', '')
+    if body_file and os.path.exists(body_file):
+        with open(body_file) as f:
+            issue_body = f.read()
+    else:
+        issue_body = os.environ.get('ISSUE_BODY', '')
     if not issue_body:
-        print('ERROR: ISSUE_BODY environment variable is empty')
+        print('ERROR: No issue body found (checked ISSUE_BODY_FILE and ISSUE_BODY)')
         sys.exit(1)
 
     fields = parse_issue_body(issue_body)
