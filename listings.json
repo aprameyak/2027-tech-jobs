@@ -253,18 +253,6 @@
   },
   {
     "company": "Verkada",
-    "role": "Solutions Engineering Director, Associate Program",
-    "location": "San Mateo, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5124829007",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-07"
-  },
-  {
-    "company": "Verkada",
     "role": "Hardware Engineer (Fall Co-op)",
     "location": "San Mateo, CA",
     "type": "offcycle",
@@ -348,18 +336,6 @@
     "date_added": "2026-07-07"
   },
   {
-    "company": "Samsara",
-    "role": "Sales Engineer 4 - Associate Specialist",
-    "location": "Remote (US)",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://www.samsara.com/company/careers/roles/7717258?gh_jid=7717258",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-07"
-  },
-  {
     "company": "PlanetScale",
     "role": "Software Engineer -  Postgres Internals",
     "location": "San Francisco, CA (Remote OK)",
@@ -433,18 +409,6 @@
   },
   {
     "company": "MongoDB",
-    "role": "Staff Product Manager - Internal AI",
-    "location": "Palo Alto, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7781724",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-07"
-  },
-  {
-    "company": "MongoDB",
     "role": "Product Manager, Internal Financial Data",
     "location": "Austin, TX; New York, NY; Palo Alto, CA; San Francisco, CA",
     "type": "summer",
@@ -493,54 +457,6 @@
   },
   {
     "company": "Databricks",
-    "role": "Staff Software Engineer - Database Engine Internals",
-    "location": "San Francisco, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-07"
-  },
-  {
-    "company": "Databricks",
-    "role": "Staff Software Engineer - Database Engine Internals",
-    "location": "Mountain View, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544386002",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-07"
-  },
-  {
-    "company": "Databricks",
-    "role": "Senior Software Engineer - Database Engine Internals",
-    "location": "Mountain View, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-07"
-  },
-  {
-    "company": "Databricks",
-    "role": "Senior Software Engineer - Database Engine Internals",
-    "location": "San Francisco, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-07"
-  },
-  {
-    "company": "Databricks",
     "role": "PhD GenAI Research Scientist Intern",
     "location": "San Francisco, CA",
     "type": "summer",
@@ -571,18 +487,6 @@
     "season": "Fall 2026",
     "education": "Undergrad",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-07"
-  },
-  {
-    "company": "Cloudflare",
-    "role": "Solutions Engineer Manager, Associate Programs",
-    "location": "Remote",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7826916?gh_jid=7826916",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-07"
@@ -691,30 +595,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-07"
-  },
-  {
-    "company": "Anduril",
-    "role": "Senior Product Manager, Internal Tools",
-    "location": "Costa Mesa, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5121643007?gh_jid=5121643007",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-07"
-  },
-  {
-    "company": "Anduril",
-    "role": "Senior Product Manager, Internal Tools",
-    "location": "Denver, CO",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166289007?gh_jid=5166289007",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-07"
@@ -1224,18 +1104,6 @@
     "date_added": "2026-07-09"
   },
   {
-    "company": "Roblox",
-    "role": "[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career",
-    "location": "San Mateo, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://careers.roblox.com/jobs/8027588?gh_jid=8027588",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-09"
-  },
-  {
     "company": "Palantir",
     "role": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
     "location": "New York, NY",
@@ -1495,54 +1363,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://autodesk.wd1.myworkdayjobs.com/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10"
-  },
-  {
-    "company": "Roblox",
-    "role": "[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career",
-    "location": "San Mateo, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://careers.roblox.com/jobs/8027587?gh_jid=8027587",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10"
-  },
-  {
-    "company": "Roblox",
-    "role": "[2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career",
-    "location": "San Mateo, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://careers.roblox.com/jobs/7350081?gh_jid=7350081",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10"
-  },
-  {
-    "company": "Roblox",
-    "role": "[2026] Senior Machine Learning Engineer,  Engine Optimization - PhD Early Career",
-    "location": "San Mateo, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://careers.roblox.com/jobs/7421746?gh_jid=7421746",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10"
-  },
-  {
-    "company": "Roblox",
-    "role": "[2026] Senior Machine Learning Engineer, Account Identity - PhD Early Career",
-    "location": "San Mateo, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://careers.roblox.com/jobs/7473686?gh_jid=7473686",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-10"
