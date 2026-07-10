@@ -11,6 +11,7 @@ Anthropic
 Apple
 Aquatic
 Asana
+Atlassian
 Autodesk
 AVEVA
 Benchling
@@ -20,11 +21,13 @@ Box
 Brex
 Browserbase
 ByteDance
+Capital One
 Carta
 Checkr
+Ciena
 Cisco
-Citi
 Citadel
+Citi
 ClickHouse
 Cloudera
 Cloudflare
@@ -33,6 +36,7 @@ Codeium
 Cognition AI
 Coinbase
 Criteo
+CrowdStrike
 Cursor
 Databricks
 Datadog
@@ -43,6 +47,7 @@ DoorDash
 Dropbox
 Duolingo
 Figma
+Five Rings
 Flexport
 Glean
 Goldman Sachs
@@ -58,6 +63,7 @@ Instacart
 Intercom
 Jane Street
 JPMorgan Chase
+Jump Trading
 KAYAK
 Klarna
 LaunchDarkly
@@ -83,7 +89,9 @@ NVIDIA
 Okta
 OpenAI
 Optiver
+Oracle
 Palantir
+Palo Alto Networks
 PayPal
 Perplexity
 Physical Intelligence
@@ -96,6 +104,7 @@ Priceline
 PwC
 Qualcomm
 Quora
+Rakuten International
 Ramp
 Reddit
 Replit
@@ -109,6 +118,8 @@ Salesforce
 Samsara
 Scale AI
 Sentry
+ServiceNow
+Seven Research
 Sierra
 Silicon Labs
 Snap
@@ -118,6 +129,7 @@ Spotify
 Squarespace
 Stripe
 Temporal
+Tesla
 Tower Research Capital
 Twilio
 Twitch
@@ -133,3 +145,4 @@ Weights & Biases
 Workday
 Zapier
 Zipline
+Zoom
