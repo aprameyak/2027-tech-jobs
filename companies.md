@@ -14,7 +14,6 @@ Anyscale
 Apple
 Aquatic
 Asana
-Atlassian
 Autodesk
 AVEVA
 Benchling
@@ -31,7 +30,6 @@ Carta
 Cerebras
 Checkr
 Chime
-Ciena
 Cisco
 Citadel
 Citi
@@ -59,7 +57,6 @@ Duolingo
 ElevenLabs
 Epic Games
 Etched
-Expedia
 Figma
 Figure
 Five Rings
@@ -107,9 +104,7 @@ NVIDIA
 Okta
 OpenAI
 Optiver
-Oracle
 Palantir
-Palo Alto Networks
 PayPal
 Perplexity
 Physical Intelligence
@@ -139,7 +134,6 @@ Salesforce
 Samsara
 Scale AI
 Sentry
-ServiceNow
 Seven Research
 Sierra
 Silicon Labs
@@ -151,7 +145,6 @@ Spotify
 Squarespace
 Stripe
 Temporal
-Tesla
 Toast
 Tower Research Capital
 Twilio

@@ -17,8 +17,6 @@ greenhouse:
     slug: aquaticcapitalmanagement
   - name: Asana
     slug: asana
-  - name: Atlassian
-    slug: atlassian
   - name: BitGo
     slug: bitgo
   - name: Block
@@ -133,8 +131,6 @@ greenhouse:
     slug: squarespace
   - name: Stripe
     slug: stripe
-  - name: Tesla
-    slug: tesla-motors
   - name: Toast
     slug: toast
   - name: Tower Research Capital
@@ -215,10 +211,6 @@ workday:
     tenant: capitalone
     instance: wd12
     board: Capital_One
-  - name: Ciena
-    tenant: ciena
-    instance: wd5
-    board: ""
   - name: Cisco
     tenant: cisco
     instance: wd5
@@ -239,10 +231,6 @@ workday:
     tenant: draftkings
     instance: wd1
     board: DraftKings
-  - name: Expedia
-    tenant: expedia
-    instance: wd108
-    board: ""
   - name: Intel
     tenant: intel
     instance: wd1
@@ -250,7 +238,7 @@ workday:
   - name: Mastercard
     tenant: mastercard
     instance: wd1
-    board: en-US/CorporateCareers
+    board: CorporateCareers
   - name: Netflix
     tenant: netflix
     instance: wd108
@@ -259,14 +247,6 @@ workday:
     tenant: nvidia
     instance: wd5
     board: NVIDIAExternalCareerSite
-  - name: Oracle
-    tenant: oracle
-    instance: wd5
-    board: oracle
-  - name: Palo Alto Networks
-    tenant: paloaltonetworks
-    instance: wd3
-    board: external
   - name: PayPal
     tenant: paypal
     instance: wd1
@@ -283,10 +263,6 @@ workday:
     tenant: salesforce
     instance: wd12
     board: External_Career_Site
-  - name: ServiceNow
-    tenant: servicenow
-    instance: wd5
-    board: External
   - name: Silicon Labs
     tenant: silabs
     instance: wd1
@@ -318,7 +294,7 @@ workday:
   - name: Zoom
     tenant: zoom
     instance: wd5
-    board: External
+    board: zoom
 
 linkedin:
   - name: Google
