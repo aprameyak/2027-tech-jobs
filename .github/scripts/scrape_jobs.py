@@ -352,6 +352,15 @@ def infer_listing_type(title):
         return 'Internship', 'Summer 2026'
     return 'Internship', 'Summer 2027'
 
+def infer_education_level(title):
+    t = title.lower()
+    if any(kw in t for kw in ['phd', 'phd student', 'phd intern', 'phd research', 'phd early career']):
+        return 'PhD'
+    if any(kw in t for kw in ['master', 'ms ', 'm.s.', 'masters']):
+        return "Master's"
+    # Default to Undergrad
+    return 'Undergrad'
+
 
 def scrape_greenhouse(company, slug):
     url = f'https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true'
@@ -941,7 +950,7 @@ No
 
 ### Education Level
 
-Undergrad
+{infer_education_level(job['title'])}
 
 ### Direct Application Link
 
