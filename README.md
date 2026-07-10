@@ -33,14 +33,14 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Amazon | Quantum Signal Train Engineer Internship, Amazon Center for Quantum Computing | Pasadena, CA | Undergrad | <a href="https://www.amazon.jobs/en/jobs/10387501/quantum-signal-train-engineer-internship-amazon-center-for-quantum-computing"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Autodesk | Intern, AI in Design & Manufacturing | Toronto, ON | Undergrad | <a href="https://autodesk.wd1.myworkdayjobs.com/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Jane Street | Software Engineer Internship | New York, NY | Undergrad | <a href="https://www.janestreet.com/join-jane-street/position/8599644002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
-| ↳ | Machine Learning Engineer Internship | New York, NY | Undergrad | <a href="https://www.janestreet.com/join-jane-street/position/8611307002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
-| ↳ | Machine Learning Researcher Internship | New York, NY | Undergrad | <a href="https://www.janestreet.com/join-jane-street/position/8384490002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
+| ↳ | Machine Learning Engineer Internship | New York, NY | Undergrad; PhD | <a href="https://www.janestreet.com/join-jane-street/position/8611307002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
+| ↳ | Machine Learning Researcher Internship | New York, NY | Undergrad; PhD | <a href="https://www.janestreet.com/join-jane-street/position/8384490002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | Network Engineer Internship | New York, NY | Undergrad | <a href="https://www.janestreet.com/join-jane-street/position/8620793002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
-| ↳ | Quantitative Researcher Internship | New York, NY | Undergrad | <a href="https://www.janestreet.com/join-jane-street/position/8498547002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
+| ↳ | Quantitative Researcher Internship | New York, NY | Undergrad; Masters; PhD | <a href="https://www.janestreet.com/join-jane-street/position/8498547002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | Quantitative Trader Internship | New York, NY | Undergrad | <a href="https://www.janestreet.com/join-jane-street/position/8617344002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | Strategy and Product Internship | New York, NY | Undergrad | <a href="https://www.janestreet.com/join-jane-street/position/8621552002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | Trading Desk Operations Engineer Internship | New York, NY | Undergrad | <a href="https://www.janestreet.com/join-jane-street/position/8621450002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
-| ↳ | Fundamental Research Analyst Internship | New York, NY | Undergrad | <a href="https://www.janestreet.com/join-jane-street/position/8347286002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
+| ↳ | Fundamental Research Analyst Internship | New York, NY | Undergrad; Masters | <a href="https://www.janestreet.com/join-jane-street/position/8347286002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Citadel | Software Engineer Intern | <details><summary>**4 locations**</summary>New York, NY</br>Miami, FL</br>Greenwich, CT</br>Houston, TX</details> | Undergrad | <a href="https://www.citadel.com/careers/details/software-engineer-intern-us/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 9 |
 | DE Shaw | Software Developer Intern | New York, NY | Undergrad | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 9 |
 | JPMorgan Chase | Corporate Analyst Development Program - Summer Analyst | <details><summary>**6 locations**</summary>Chicago, IL</br>New York, NY</br>Columbus, OH</br>Newark, DE</br>Plano, TX</br>Tampa, FL</details> | Undergrad | <a href="https://www.jpmorganchase.com/careers/explore-opportunities/programs/cadp-summer-analyst"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 9 |
@@ -94,7 +94,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Quantitative Developer Intern - Summer 2027 | New York, Chicago | Undergrad | <a href="https://www.tower-research.com/open-positions/?gh_jid=8044334"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Capital One 🛂 | Data Analyst Intern | <details><summary>**2 locations**</summary>McLean, VA</br>Richmond, VA</details> | Undergrad | <a href="https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 6 |
 | ↳ | Product Development Internship Program | <details><summary>**2 locations**</summary>McLean, VA</br>Plano, TX</details> | Undergrad | <a href="https://www.capitalonecareers.com/job/mclean/product-development-internship-program-summer-2027/31238/97421687312"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 6 |
-
 <!-- TABLE_END summer -->
 
 ---
@@ -119,7 +118,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Robotics - Software Development Engineer Intern/Co-op - 2026 | Westboro, MA | Co-op | Undergrad | <a href="https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | Software Development Engineer Fall Intern - Military Veteran | Seattle, WA | Fall 2026 | Undergrad | <a href="https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | Network Development Engineer Intern - Fall 2026 | Cupertino, CA | Fall 2026 | Undergrad | <a href="https://www.amazon.jobs/en/jobs/3134080/network-development-engineer-intern-fall-2026"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
-| Jane Street | Tools and Compilers Research and Development Internship | New York, NY | Flexible | PhD | <a href="https://www.janestreet.com/join-jane-street/position/5869205002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
+| Jane Street | Tools and Compilers Research and Development Internship | New York, NY | Flexible | Masters; PhD | <a href="https://www.janestreet.com/join-jane-street/position/5869205002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Pinterest | PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems) | <details><summary>**4 locations**</summary>San Francisco, CA</br>Palo Alto, CA</br>Seattle, WA</br>New York, NY</details> | Fall 2026 | Undergrad | <a href="https://www.pinterestcareers.com/jobs/?gh_jid=7255640"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 9 |
 | The Boring Company | Engineering Internships - Winter/Spring 2027 | <details><summary>**3 locations**</summary>Bastrop, TX</br>Las Vegas, NV</br>Nashville, TN</details> | Winter/Spring 2027 | Undergrad | <a href="https://jobs.gem.com/the-boring-company/am9icG9zdDq2wWK0OlUBwTl6S2lg0Wp8"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 9 |
 | ↳ | Engineering Internships - Fall 2026 | <details><summary>**3 locations**</summary>Bastrop, TX</br>Las Vegas, NV</br>Nashville, TN</details> | Fall 2026 | Undergrad | <a href="https://jobs.gem.com/the-boring-company/am9icG9zdDoAx-YMxkuuT5mAbSe9_Kq6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 9 |
@@ -135,7 +134,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Instacart | Machine Learning PhD Intern, Economics (Fall) | Remote (US) | Fall 2026 | Undergrad | <a href="https://instacart.careers/job/?gh_jid=7532267"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | ↳ | Machine Learning Engineer, PhD Intern (Fall) | Remote (US) | Fall 2026 | Undergrad | <a href="https://instacart.careers/job/?gh_jid=5917202"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Verkada | Technical Support Engineering Intern - Fall 2026 | San Mateo, CA | Fall 2026 | Undergrad | <a href="https://job-boards.greenhouse.io/verkada/jobs/5017082007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
-
 <!-- TABLE_END offcycle -->
 
 ---
@@ -185,7 +183,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Capital One 🛂 | Business Analyst Associate | <details><summary>**5 locations**</summary>McLean, VA</br>Chicago, IL</br>New York, NY</br>Plano, TX</br>Richmond, VA</details> | Undergrad | <a href="https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Business-Analyst-Associate---August-2027_R245108-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 6 |
 | ↳ | Data Analyst Associate | <details><summary>**2 locations**</summary>McLean, VA</br>Richmond, VA</details> | Undergrad | <a href="https://www.capitalonecareers.com/job/mclean/data-analyst-associate-2027/31238/97421687408"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 6 |
 | ↳ | Product Development Program Associate | McLean, VA | Undergrad | <a href="https://www.capitalonecareers.com/job/mclean/product-development-program-associate-2027/31238/97421687328"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 6 |
-
 <!-- TABLE_END newgrad -->
 
 ---
