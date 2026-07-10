@@ -36,16 +36,10 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python .github/scripts/scrape_jobs.py
 
-      - name: Auto-approve discovered listings
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
-        run: python .github/scripts/auto_approve.py
-
-      - name: Commit updated files
+      - name: Commit updated data files
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs.json .github/data/title_classifications.json .github/data/gemini_usage.json README.md listings.json
-          git diff --staged --quiet || git commit -m "update listings"
+          git add .github/data/seen_jobs.json .github/data/title_classifications.json .github/data/gemini_usage.json
+          git diff --staged --quiet || git commit -m "update scraper data"
           git pull --rebase -X ours && git push
