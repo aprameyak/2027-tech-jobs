@@ -72,7 +72,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Quantitative Research Intern (BS/MS) - Summer 2027 | Chicago, IL | Undergrad | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4907399101"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | ↳ | Machine Learning Research Intern - Summer 2027 | Chicago, IL | Undergrad | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4907430101"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | ↳ | Hardware Machine Learning PhD Research Internship | Chicago, IL | Undergrad | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4829785101"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
-| ↳ | Hardware Engineer Intern - Summer 2027 | Chicago, IL | Undergrad | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4823945101"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | MongoDB | Product Manager, Internal Financial Data | <details><summary>**4 locations**</summary>Austin, TX</br>New York, NY</br>Palo Alto, CA</br>San Francisco, CA</details> | Undergrad | <a href="https://www.mongodb.com/careers/job/?gh_jid=7908293"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Nuro | Software Engineer, AI Platform - Intern | Mountain View, CA | Undergrad | <a href="https://nuro.ai/careersitem?gh_jid=7351061"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | ↳ | Reliability Engineer, Intern | Mountain View, CA | Undergrad | <a href="https://nuro.ai/careersitem?gh_jid=7673849"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
@@ -126,7 +125,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Instacart | Machine Learning PhD Intern, Economics (Fall) | Remote (US) | Fall 2026 | Undergrad | <a href="https://instacart.careers/job/?gh_jid=7532267"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | ↳ | Machine Learning Engineer, PhD Intern (Fall) | Remote (US) | Fall 2026 | Undergrad | <a href="https://instacart.careers/job/?gh_jid=5917202"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Verkada | Technical Support Engineering Intern - Fall 2026 | San Mateo, CA | Fall 2026 | Undergrad | <a href="https://job-boards.greenhouse.io/verkada/jobs/5017082007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
-| ↳ | Hardware Engineer (Fall Co-op) | San Mateo, CA | Fall 2026 | Undergrad | <a href="https://job-boards.greenhouse.io/verkada/jobs/4321159007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 
 <!-- TABLE_END offcycle -->
 
