@@ -238,6 +238,26 @@ workday:
     instance: wd1
     board: SailPoint
 
+linkedin:
+  - name: Google
+    company_id: 1441
+  - name: Microsoft
+    company_id: 1035
+  - name: Meta
+    company_id: 10667
+  - name: Bloomberg
+    company_id: 3096
+  - name: Goldman Sachs
+    company_id: 1067
+  - name: JPMorgan Chase
+    company_id: 1093
+  - name: Morgan Stanley
+    company_id: 2282
+  - name: Jane Street
+    company_id: 11482
+  - name: Two Sigma
+    company_id: 9879
+
 ashby:
   - name: Abridge
     slug: abridge

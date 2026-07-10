@@ -706,6 +706,74 @@ def scrape_workday(company, tenant, instance, board):
     return jobs
 
 
+def scrape_linkedin_apify(company, company_id):
+    apify_token = os.environ.get('APIFY_TOKEN')
+    if not apify_token:
+        return []
+
+    jobs = []
+    seen_ids = set()
+
+    for keyword in ['intern', 'new grad', 'early career']:
+        encoded_keyword = keyword.replace(' ', '+')
+        search_url = (
+            f'https://www.linkedin.com/jobs/search/'
+            f'?keywords={encoded_keyword}'
+            f'&f_C={company_id}'
+            f'&location=United+States'
+            f'&f_TPR=r2592000'
+        )
+        try:
+            resp = requests.post(
+                'https://api.apify.com/v2/acts/harvestapi~linkedin-job-search/run-sync-get-dataset-items',
+                params={'token': apify_token, 'timeout': 120},
+                json={'searchUrl': search_url, 'count': 15},
+                timeout=150,
+            )
+            if resp.status_code not in (200, 201):
+                print(f'  [{company}] Apify LinkedIn HTTP {resp.status_code} for "{keyword}"')
+                continue
+            items = resp.json()
+            if not isinstance(items, list):
+                print(f'  [{company}] Apify LinkedIn unexpected response shape for "{keyword}"')
+                continue
+            for item in items:
+                job_id = str(
+                    item.get('id') or item.get('jobId') or item.get('entityUrn', '')
+                ).strip()
+                if not job_id or job_id in seen_ids:
+                    continue
+                seen_ids.add(job_id)
+                title = (
+                    item.get('title') or item.get('jobTitle') or item.get('name') or ''
+                ).strip()
+                location = (
+                    item.get('location') or item.get('jobLocation') or item.get('formattedLocation') or ''
+                ).strip()
+                url = (
+                    item.get('url') or item.get('jobUrl') or item.get('applyUrl')
+                    or f'https://www.linkedin.com/jobs/view/{job_id}'
+                ).strip()
+                if not title:
+                    continue
+                relevant, confident = is_relevant_title(title)
+                if relevant and is_us_location(location):
+                    jobs.append({
+                        'id': f'linkedin_{job_id}',
+                        'company': company,
+                        'title': title,
+                        'location': location,
+                        'url': url,
+                        'board': 'LinkedIn',
+                        'confident': confident,
+                    })
+        except Exception as e:
+            print(f'  [{company}] Apify LinkedIn error for "{keyword}": {e}')
+        time.sleep(2)
+
+    return jobs
+
+
 def scrape_amazon():
     base_url = 'https://www.amazon.jobs/en/search.json'
     params = {
@@ -967,6 +1035,12 @@ def main():
         print(f'Checking {company} (workday/{tenant})...')
         process_jobs(scrape_workday(company, tenant, instance, board))
         time.sleep(0.4)
+
+    for entry in config.get('linkedin', []):
+        company = entry['name']
+        company_id = str(entry['company_id'])
+        print(f'Checking {company} (LinkedIn via Apify)...')
+        process_jobs(scrape_linkedin_apify(company, company_id))
 
     print('Checking Amazon (amazon.jobs)...')
     process_jobs(scrape_amazon())
