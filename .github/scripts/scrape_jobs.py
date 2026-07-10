@@ -21,14 +21,17 @@ _gemini_calls_today = 0
 _gemini_usage_date = None
 
 BOUNDARY_KEYWORDS = [r'\bintern\b', r'\binternship\b', r'\bco-op\b', r'\bcoop\b', r'\bjunior\b',
-                     r'\bphd\b', r'\bgraduate\b', r'\bms intern\b']
+                     r'\bphd\b', r'\bgraduate\b', r'\bms intern\b',
+                     r'\bstudent\b', r'\bcampus\b']
 
 SUBSTRING_KEYWORDS = [
     'new grad', 'new-grad', 'entry level', 'entry-level', 'early career', '2027',
-    'university graduate', 'university grad', 'campus hire', 'college hire',
+    'university graduate', 'university grad', 'university recruit', 'university hire',
+    'campus hire', 'college hire',
     'new hire', 'associate engineer', 'associate software', 'associate data',
     'research scientist', 'recent graduate', 'class of 2027',
     'summer 2026', 'fall 2026', 'spring 2026', 'winter 2026',
+    'summer 2027', 'fall 2027', 'spring 2027',
     'phd early career', 'associate data scientist', 'associate product manager',
 ]
 
@@ -345,6 +348,8 @@ def infer_listing_type(title):
         return 'Internship', 'Spring 2026'
     if 'winter 2026' in t:
         return 'Internship', 'Winter 2026'
+    if 'summer 2026' in t:
+        return 'Internship', 'Summer 2026'
     return 'Internship', 'Summer 2027'
 
 
@@ -643,49 +648,60 @@ def scrape_workday(company, tenant, instance, board):
         api_url = f'https://{tenant}.{instance}.myworkdayjobs.com/wday/cxs/{tenant}/jobs'
     base_url = f'https://{tenant}.{instance}.myworkdayjobs.com'
 
-    payload = {'appliedFacets': {}, 'limit': 20, 'offset': 0, 'searchText': ''}
-    headers = {
+    wd_headers = {
         **HEADERS,
         'Content-Type': 'application/json',
         'Accept': 'application/json',
     }
 
     jobs = []
-    offset = 0
+    seen_paths = set()
 
-    while True:
-        payload['offset'] = offset
-        try:
-            resp = requests.post(api_url, json=payload, headers=headers, timeout=10)
-            if resp.status_code != 200:
-                print(f'  [{company}] Workday HTTP {resp.status_code}')
+    # Search for each term separately — Workday doesn't support OR queries
+    for search_term in ['intern', 'new grad', 'early career', 'university']:
+        offset = 0
+        while True:
+            payload = {
+                'appliedFacets': {},
+                'limit': 20,
+                'offset': offset,
+                'searchText': search_term,
+            }
+            try:
+                resp = requests.post(api_url, json=payload, headers=wd_headers, timeout=10)
+                if resp.status_code != 200:
+                    print(f'  [{company}] Workday HTTP {resp.status_code} for "{search_term}"')
+                    break
+                data = resp.json()
+                postings = data.get('jobPostings', [])
+                if not postings:
+                    break
+                for job in postings:
+                    external_path = job.get('externalPath', '')
+                    if external_path in seen_paths:
+                        continue
+                    seen_paths.add(external_path)
+                    title = job.get('title', '')
+                    location = job.get('locationsText', '')
+                    relevant, confident = is_relevant_title(title)
+                    if relevant and is_us_location(location):
+                        jobs.append({
+                            'id': f'workday_{tenant}_{external_path}',
+                            'company': company,
+                            'title': title,
+                            'location': location,
+                            'url': f'{base_url}{external_path}',
+                            'board': 'Workday',
+                            'confident': confident,
+                        })
+                total = data.get('total', 0)
+                offset += len(postings)
+                if offset >= total:
+                    break
+                time.sleep(0.3)
+            except Exception as e:
+                print(f'  [{company}] Workday error for "{search_term}": {e}')
                 break
-            data = resp.json()
-            postings = data.get('jobPostings', [])
-            if not postings:
-                break
-            for job in postings:
-                title = job.get('title', '')
-                location = job.get('locationsText', '')
-                external_path = job.get('externalPath', '')
-                relevant, confident = is_relevant_title(title)
-                if relevant and is_us_location(location):
-                    jobs.append({
-                        'id': f'workday_{tenant}_{external_path}',
-                        'company': company,
-                        'title': title,
-                        'location': location,
-                        'url': f'{base_url}{external_path}',
-                        'board': 'Workday',
-                        'confident': confident,
-                    })
-            total = data.get('total', 0)
-            offset += len(postings)
-            if offset >= total:
-                break
-        except Exception as e:
-            print(f'  [{company}] Workday error: {e}')
-            break
 
     return jobs
 
@@ -914,17 +930,20 @@ def main():
         'ashby': scrape_ashby,
     }
 
+    def process_jobs(jobs):
+        for job in jobs:
+            job_id = job['id']
+            if job_id not in seen:
+                seen.add(job_id)
+                print(f'  NEW: {job["title"]} @ {job["location"]}')
+                new_jobs.append(job)
+
     for board, scraper in scrapers.items():
         for entry in config.get(board, []):
             company = entry['name']
             slug = entry['slug']
             print(f'Checking {company} ({board}/{slug})...')
-            jobs = scraper(company, slug)
-            for job in jobs:
-                if job['id'] not in seen:
-                    print(f'  NEW: {job["title"]} @ {job["location"]}')
-                    new_jobs.append(job)
-                    seen.add(job['id'])
+            process_jobs(scraper(company, slug))
             time.sleep(0.4)
 
     for board_key, scraper, slug_field in [
@@ -937,12 +956,7 @@ def main():
             company = entry['name']
             slug = entry[slug_field]
             print(f'Checking {company} ({board_key}/{slug})...')
-            jobs = scraper(company, slug)
-            for job in jobs:
-                if job['id'] not in seen:
-                    print(f'  NEW: {job["title"]} @ {job["location"]}')
-                    new_jobs.append(job)
-                    seen.add(job['id'])
+            process_jobs(scraper(company, slug))
             time.sleep(0.4)
 
     for entry in config.get('workday', []):
@@ -951,28 +965,15 @@ def main():
         instance = entry['instance']
         board = entry.get('board', '')
         print(f'Checking {company} (workday/{tenant})...')
-        jobs = scrape_workday(company, tenant, instance, board)
-        for job in jobs:
-            if job['id'] not in seen:
-                print(f'  NEW: {job["title"]} @ {job["location"]}')
-                new_jobs.append(job)
-                seen.add(job['id'])
+        process_jobs(scrape_workday(company, tenant, instance, board))
         time.sleep(0.4)
 
     print('Checking Amazon (amazon.jobs)...')
-    for job in scrape_amazon():
-        if job['id'] not in seen:
-            print(f'  NEW: {job["title"]} @ {job["location"]}')
-            new_jobs.append(job)
-            seen.add(job['id'])
+    process_jobs(scrape_amazon())
     time.sleep(0.4)
 
     print('Checking Apple (jobs.apple.com)...')
-    for job in scrape_apple():
-        if job['id'] not in seen:
-            print(f'  NEW: {job["title"]} @ {job["location"]}')
-            new_jobs.append(job)
-            seen.add(job['id'])
+    process_jobs(scrape_apple())
 
     print(f'\nFound {len(new_jobs)} new job(s)')
 
