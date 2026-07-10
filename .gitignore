@@ -40,3 +40,6 @@ venv/
 *.tmp
 *.bak
 *.log
+
+# Claude
+CLAUDE.md
