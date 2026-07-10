@@ -20,12 +20,16 @@ _title_cache = None
 _gemini_calls_today = 0
 _gemini_usage_date = None
 
-BOUNDARY_KEYWORDS = [r'\bintern\b', r'\binternship\b', r'\bco-op\b', r'\bcoop\b', r'\bjunior\b']
+BOUNDARY_KEYWORDS = [r'\bintern\b', r'\binternship\b', r'\bco-op\b', r'\bcoop\b', r'\bjunior\b',
+                     r'\bphd\b', r'\bgraduate\b', r'\bms intern\b']
 
 SUBSTRING_KEYWORDS = [
     'new grad', 'new-grad', 'entry level', 'entry-level', 'early career', '2027',
     'university graduate', 'university grad', 'campus hire', 'college hire',
     'new hire', 'associate engineer', 'associate software', 'associate data',
+    'research scientist', 'recent graduate', 'class of 2027',
+    'summer 2026', 'fall 2026', 'spring 2026', 'winter 2026',
+    'phd early career', 'associate data scientist', 'associate product manager',
 ]
 
 TECH_KEYWORDS = [
@@ -42,20 +46,19 @@ TECH_KEYWORDS = [
     'information technology', 'business analyst', 'business technology',
 ]
 
-NON_TECH_ROLE_SIGNALS = [
+HARD_REJECT_SIGNALS = [
     'manufacturing engineer', 'process engineer', 'chemical engineer',
     'mechanical engineer', 'materials engineer', 'materials scientist',
     'quality engineer', 'equipment engineer', 'industrial engineer',
     'environmental engineer', 'civil engineer', 'structural engineer',
     'electrical engineer', 'process integration', 'photolithography',
     'metrology', 'failure analysis', 'yield engineer', 'etch engineer',
-    'sales', 'marketing', 'human resources', 'recruiter',
-    'supply chain', 'procurement', 'financial analyst',
-    'customer success', 'customer support', 'account manager',
-    'legal intern', 'paralegal', 'accounting intern', 'finance intern',
+    'human resources', 'recruiter', 'talent acquisition',
+    'supply chain', 'procurement',
+    'legal intern', 'paralegal', 'accounting intern',
     'logistics', 'warehouse', 'shipping', 'receiving', 'inventory',
-    'facilities manager', 'operations associate',
-    'internal audit', 'compliance', 'tax director', 'tax manager',
+    'facilities manager',
+    'tax director', 'tax manager',
     'legal counsel', 'general counsel', 'legal operations',
 ]
 
@@ -163,19 +166,23 @@ def classify_with_gemini(title):
         return None
 
     prompt = (
-        'You are a strict classifier. Decide if this job title is a tech/digital role suitable for '
-        'CS/software/data/quant/PM students applying to internships or new grad positions.\n\n'
+        'You are a classifier for a tech job board targeting CS/software/data/quant/PM students. '
+        'Decide if this job title is relevant for them.\n\n'
         'Answer YES for: software engineering, data science/engineering/analytics, '
         'machine learning/AI, quantitative research/trading, product management, '
         'product development, cybersecurity, DevOps/SRE, embedded/firmware engineering, '
         'computer science research, technical program management, mobile/iOS/Android, '
         'cloud/infrastructure, hardware/VLSI design (chip-level), computer vision, NLP, '
         'technology consulting, digital technology, IT, business analyst (data/tech-focused), '
-        'technology analyst.\n\n'
+        'technology analyst, solutions engineering, sales engineering, technical support engineering, '
+        'network engineering, systems engineering (software/IT), financial engineering/fintech, '
+        'robotics (software), simulation engineering.\n\n'
         'Answer NO for: manufacturing/process/chemical/mechanical/electrical engineering (non-chip), '
-        'sales, marketing, HR, supply chain, clinical/life science research, '
-        'non-quant finance/accounting, legal, customer support, operations (non-technical), '
+        'HR, supply chain, clinical/life science research (non-ML), '
+        'non-quant finance/accounting, legal, operations (non-technical), '
         'audit, compliance, tax, logistics, warehouse, facilities, shipping/receiving.\n\n'
+        'When uncertain, err on the side of YES. It is better to include a borderline role '
+        'for human review than to miss a legitimate tech opportunity.\n\n'
         f'Job title: "{title}"\n\n'
         'Reply with exactly one word — yes or no. No punctuation, no explanation.'
     )
@@ -263,7 +270,7 @@ def save_seen_jobs(seen):
 
 def is_tech_title_keywords(title):
     t = title.lower()
-    if any(s in t for s in NON_TECH_ROLE_SIGNALS):
+    if any(s in t for s in HARD_REJECT_SIGNALS):
         return False
     return any(kw in t for kw in TECH_KEYWORDS)
 
@@ -271,7 +278,8 @@ def is_tech_title_keywords(title):
 def classify_title(title):
     t = title.lower()
 
-    if any(s in t for s in NON_TECH_ROLE_SIGNALS):
+    # Hard reject: definitively non-tech titles, no Gemini needed
+    if any(s in t for s in HARD_REJECT_SIGNALS):
         return False, True
 
     cache = load_title_cache()
@@ -283,9 +291,11 @@ def classify_title(title):
         cache[t] = result
         return result, True
 
-    result = is_tech_title_keywords(title)
-    cache[t] = result
-    return result, False
+    # Gemini unavailable — use keyword heuristic but DO NOT cache the result
+    # so Gemini can retry on the next run. Borderline (no tech keywords) still
+    # passes through as unconfident so the scraper can decide to include it.
+    has_tech_keywords = is_tech_title_keywords(title)
+    return has_tech_keywords, False
 
 
 def is_relevant_title(title):
