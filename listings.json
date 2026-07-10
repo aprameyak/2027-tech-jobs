@@ -1594,5 +1594,65 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-10"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Research Scientist, Efficient Deep Learning - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Performance Engineer Intern, Systems Software-  Fall 2026",
+    "location": "US, MO, St. Louis",
+    "type": "offcycle",
+    "season": "Fall 2026",
+    "education": "Master's",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Applied Research Intern, NLP - Fall 2026",
+    "location": "US, CA, Santa Clara",
+    "type": "offcycle",
+    "season": "Fall 2026",
+    "education": "Undergrad",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Java Engineering Intern - Fall 2026",
+    "location": "US, CA, Santa Clara",
+    "type": "offcycle",
+    "season": "Fall 2026",
+    "education": "Undergrad",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Capital One",
+    "role": "Associate, Software Engineer, New Grad Card Expansion",
+    "location": "Toronto, ON",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R236833",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-10"
   }
 ]
