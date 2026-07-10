@@ -100,7 +100,7 @@ def format_row(fields, table_type):
     date = datetime.now().strftime('%b %-d')
 
     apply_btn = (
-        f'<a href="{apply_link}">'
+        f'<a href="{apply_link}" target="_blank" rel="noopener noreferrer">'
         f'<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">'
         f'</a>'
     )
