@@ -31,6 +31,7 @@ Roles in non-technical functions — such as non-quant finance, marketing, HR, l
 - 🇺🇸 = US citizenship required
 - Rows are sorted by date added (newest first), then alphabetically by company within the same date
 - Multiple roles from the same company added on the same date are grouped using `↳`
+- Education level reflects who the role targets: `Undergrad`, `Masters`, `PhD`, or combinations (e.g. `Undergrad; PhD`). Default is `Undergrad`.
 
 ---
 
