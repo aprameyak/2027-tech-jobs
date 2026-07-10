@@ -1,0 +1,38 @@
+# CONSTITUTION
+
+## Purpose
+A community-maintained list of tech internship and new grad opportunities for students in the 2027 hiring cycle. Listings are limited to positions based in the **United States or Canada** (including remote roles open to US/Canada applicants).
+
+---
+
+## Listing Categories
+
+### Summer 2027 Internship
+A paid internship role with a start date in Summer 2027 (roughly May–August 2027). This is the primary table and the main focus of the repo.
+
+### 2027 New Grad
+A full-time entry-level role intended for students graduating in or around 2027. Titles should reflect entry-level standing — roles with senior, staff, principal, director, or manager designations do not belong here unless explicitly marked as early career (e.g. PhD Early Career).
+
+### Off-Cycle
+Any internship or co-op that falls outside Summer 2027 — including Fall 2026, Winter 2026/2027, Spring 2027, co-ops, and rotational programs with non-summer start dates. Also includes Summer 2026 roles that are still actively accepting applications.
+
+---
+
+## Eligible Roles
+Roles must be SWE/CS-adjacent and relevant to students studying computer science, software engineering, data science, or a related field. This includes software engineering, data/ML/AI, quantitative research and trading, product management, product development, and cybersecurity.
+
+Roles in non-technical functions — such as non-quant finance, marketing, HR, legal, sales (non-technical), supply chain, or manufacturing/mechanical/civil/electrical engineering — are out of scope.
+
+---
+
+## Formatting Rules
+- Locations use `City, State` or `City, Province` format
+- 🛂 = company does not offer visa sponsorship
+- 🇺🇸 = US citizenship required
+- Rows are sorted by date added (newest first), then alphabetically by company within the same date
+- Multiple roles from the same company added on the same date are grouped using `↳`
+
+---
+
+## Contribution Process
+The automated scraper creates GitHub Issues for newly discovered roles. All issues require manual review and approval before a listing is added to the repo. This ensures quality and prevents off-scope roles from slipping through.
