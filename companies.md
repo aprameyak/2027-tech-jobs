@@ -2,12 +2,15 @@ Abridge
 Adobe
 Affirm
 Airbnb
+Airtable
 Aiven
+Akuna Capital
 Algolia
 Amazon
 Amplitude
 Anduril
 Anthropic
+Anyscale
 Apple
 Aquatic
 Asana
@@ -15,6 +18,8 @@ Atlassian
 Autodesk
 AVEVA
 Benchling
+BitGo
+BlackRock
 Block
 Bloomberg
 Box
@@ -23,7 +28,9 @@ Browserbase
 ByteDance
 Capital One
 Carta
+Cerebras
 Checkr
+Chime
 Ciena
 Cisco
 Citadel
@@ -34,7 +41,9 @@ Cloudflare
 Cockroach Labs
 Codeium
 Cognition AI
+Cohere
 Coinbase
+Confluent
 Criteo
 CrowdStrike
 Cursor
@@ -44,9 +53,15 @@ Decagon
 Descript
 Discord
 DoorDash
+DraftKings
 Dropbox
 Duolingo
+ElevenLabs
+Epic Games
+Etched
+Expedia
 Figma
+Figure
 Five Rings
 Flexport
 Glean
@@ -60,6 +75,7 @@ HubSpot
 Hudson River Trading
 IMC Trading
 Instacart
+Intel
 Intercom
 Jane Street
 JPMorgan Chase
@@ -69,6 +85,7 @@ Klarna
 LaunchDarkly
 Linear
 Lyft
+Mastercard
 Mercury
 Meta
 Microsoft
@@ -82,6 +99,7 @@ Motive
 Neon
 Netflix
 Netlify
+Niantic
 Notion
 Notion Calendar
 Nuro
@@ -99,6 +117,8 @@ Pinecone
 Pinterest
 Plaid
 PlanetScale
+Point72
+Poshmark
 PostHog
 Priceline
 PwC
@@ -112,6 +132,7 @@ Riot Games
 Robinhood
 Roblox
 Rocket Companies
+Rubrik
 Runway
 SailPoint
 Salesforce
@@ -122,6 +143,7 @@ ServiceNow
 Seven Research
 Sierra
 Silicon Labs
+Skydio
 Snap
 Snowflake
 SpaceX
@@ -130,6 +152,7 @@ Squarespace
 Stripe
 Temporal
 Tesla
+Toast
 Tower Research Capital
 Twilio
 Twitch
@@ -139,6 +162,7 @@ Uber
 Vanta
 Vercel
 Verkada
+Visa
 Waymo
 Webflow
 Weights & Biases

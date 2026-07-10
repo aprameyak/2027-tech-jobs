@@ -3,6 +3,10 @@ greenhouse:
     slug: affirm
   - name: Airbnb
     slug: airbnb
+  - name: Airtable
+    slug: airtable
+  - name: Akuna Capital
+    slug: akunacapital
   - name: Amplitude
     slug: amplitude
   - name: Anduril
@@ -15,6 +19,8 @@ greenhouse:
     slug: asana
   - name: Atlassian
     slug: atlassian
+  - name: BitGo
+    slug: bitgo
   - name: Block
     slug: block-2
   - name: Box
@@ -27,6 +33,8 @@ greenhouse:
     slug: carta
   - name: Checkr
     slug: checkr
+  - name: Chime
+    slug: chime
   - name: Citadel
     slug: citadel
   - name: ClickHouse
@@ -49,6 +57,8 @@ greenhouse:
     slug: dropbox
   - name: Duolingo
     slug: duolingo
+  - name: Epic Games
+    slug: epicgames
   - name: Figma
     slug: figma
   - name: Five Rings
@@ -95,6 +105,10 @@ greenhouse:
     slug: pinterest
   - name: PlanetScale
     slug: planetscale
+  - name: Point72
+    slug: point72
+  - name: Poshmark
+    slug: poshmark
   - name: Reddit
     slug: reddit
   - name: Riot Games
@@ -103,6 +117,8 @@ greenhouse:
     slug: robinhood
   - name: Roblox
     slug: roblox
+  - name: Rubrik
+    slug: rubrik
   - name: Samsara
     slug: samsara
   - name: Scale AI
@@ -119,6 +135,8 @@ greenhouse:
     slug: stripe
   - name: Tesla
     slug: tesla-motors
+  - name: Toast
+    slug: toast
   - name: Tower Research Capital
     slug: towerresearchcapital
   - name: Twilio
@@ -149,6 +167,8 @@ smartrecruiters:
     identifier: Criteo
   - name: Klarna
     identifier: Klarna
+  - name: Visa
+    identifier: Visa
 
 workable:
   - name: Browserbase
@@ -187,6 +207,10 @@ workday:
     tenant: autodesk
     instance: wd1
     board: Ext
+  - name: BlackRock
+    tenant: blackrock
+    instance: wd1
+    board: BlackRock_Professional
   - name: Capital One
     tenant: capitalone
     instance: wd12
@@ -211,6 +235,22 @@ workday:
     tenant: crowdstrike
     instance: wd5
     board: crowdstrikecareers
+  - name: DraftKings
+    tenant: draftkings
+    instance: wd1
+    board: DraftKings
+  - name: Expedia
+    tenant: expedia
+    instance: wd108
+    board: ""
+  - name: Intel
+    tenant: intel
+    instance: wd1
+    board: External
+  - name: Mastercard
+    tenant: mastercard
+    instance: wd1
+    board: en-US/CorporateCareers
   - name: Netflix
     tenant: netflix
     instance: wd108
@@ -303,14 +343,28 @@ linkedin:
 ashby:
   - name: Abridge
     slug: abridge
+  - name: Anyscale
+    slug: anyscale
   - name: Benchling
     slug: benchling
+  - name: Cerebras
+    slug: cerebras
+  - name: Cohere
+    slug: cohere
   - name: Cognition AI
     slug: cognition
+  - name: Confluent
+    slug: confluent
   - name: Cursor
     slug: cursor
   - name: Decagon
     slug: decagon
+  - name: Etched
+    slug: etched
+  - name: ElevenLabs
+    slug: elevenlabs
+  - name: Figure
+    slug: figure
   - name: Harvey
     slug: harvey
   - name: Linear
@@ -321,6 +375,8 @@ ashby:
     slug: moderntreasury
   - name: Neon
     slug: neon
+  - name: Niantic
+    slug: niantic-spatial
   - name: Notion
     slug: notion
   - name: OpenAI
@@ -347,6 +403,8 @@ ashby:
     slug: sentry
   - name: Sierra
     slug: sierra
+  - name: Skydio
+    slug: skydio
   - name: Snowflake
     slug: snowflake
   - name: Temporal
