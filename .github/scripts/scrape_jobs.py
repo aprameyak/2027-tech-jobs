@@ -3,6 +3,7 @@
 import json
 import os
 import re
+import subprocess
 import time
 from datetime import datetime
 import requests
@@ -15,8 +16,10 @@ GEMINI_USAGE_FILE = Path('.github/data/gemini_usage.json')
 
 GEMINI_DAILY_LIMIT = 1400
 GEMINI_RPM_DELAY = 4.2
+GEMINI_BATCH_SIZE = 40
 
 _title_cache = None
+_confidence_cache = {}
 _gemini_calls_today = 0
 _gemini_usage_date = None
 
@@ -100,6 +103,45 @@ NON_US_SIGNALS = [
 
 HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; job-scraper/1.0)'}
 
+US_STATE_ABBRS = {
+    'alabama': 'AL', 'alaska': 'AK', 'arizona': 'AZ', 'arkansas': 'AR',
+    'california': 'CA', 'colorado': 'CO', 'connecticut': 'CT', 'delaware': 'DE',
+    'florida': 'FL', 'georgia': 'GA', 'hawaii': 'HI', 'idaho': 'ID',
+    'illinois': 'IL', 'indiana': 'IN', 'iowa': 'IA', 'kansas': 'KS',
+    'kentucky': 'KY', 'louisiana': 'LA', 'maine': 'ME', 'maryland': 'MD',
+    'massachusetts': 'MA', 'michigan': 'MI', 'minnesota': 'MN', 'mississippi': 'MS',
+    'missouri': 'MO', 'montana': 'MT', 'nebraska': 'NE', 'nevada': 'NV',
+    'new hampshire': 'NH', 'new jersey': 'NJ', 'new mexico': 'NM', 'new york': 'NY',
+    'north carolina': 'NC', 'north dakota': 'ND', 'ohio': 'OH', 'oklahoma': 'OK',
+    'oregon': 'OR', 'pennsylvania': 'PA', 'rhode island': 'RI', 'south carolina': 'SC',
+    'south dakota': 'SD', 'tennessee': 'TN', 'texas': 'TX', 'utah': 'UT',
+    'vermont': 'VT', 'virginia': 'VA', 'washington': 'WA', 'west virginia': 'WV',
+    'wisconsin': 'WI', 'wyoming': 'WY', 'district of columbia': 'DC',
+}
+CA_PROVINCE_ABBRS = {
+    'alberta': 'AB', 'british columbia': 'BC', 'manitoba': 'MB',
+    'new brunswick': 'NB', 'newfoundland': 'NL', 'nova scotia': 'NS',
+    'northwest territories': 'NT', 'nunavut': 'NU', 'ontario': 'ON',
+    'prince edward island': 'PE', 'quebec': 'QC', 'saskatchewan': 'SK', 'yukon': 'YT',
+}
+
+
+def normalize_location(location):
+    """
+    Convert ATS-style location strings (e.g. "Seattle, Washington") to
+    "City, ST" format. Falls back to the original string if normalization fails.
+    """
+    if not location:
+        return location
+    parts = [p.strip() for p in location.split(',')]
+    if len(parts) == 2:
+        city, region = parts[0], parts[1]
+        region_lower = region.lower()
+        abbr = US_STATE_ABBRS.get(region_lower) or CA_PROVINCE_ABBRS.get(region_lower)
+        if abbr:
+            return f'{city}, {abbr}'
+    return location
+
 
 def load_title_cache():
     global _title_cache
@@ -157,105 +199,141 @@ def save_gemini_usage():
         print(f'  [Gemini] Failed to save usage file: {e}')
 
 
-def classify_with_gemini(title):
+def batch_classify_with_gemini(titles):
+    """
+    Classify up to GEMINI_BATCH_SIZE titles in a single Gemini call.
+
+    Returns dict mapping title_lower -> {"is_tech": bool, "confidence": "high"|"medium"|"low"}.
+    Returns {} on any failure so callers can fall back to keywords.
+    Handles 429 with exponential backoff (3 attempts: 15s, 30s, 60s).
+    Uses responseMimeType=application/json for reliable structured output.
+    """
     global _gemini_calls_today
 
     api_key = os.environ.get('GEMINI_API_KEY')
-    if not api_key:
-        return None
+    if not api_key or _gemini_calls_today >= GEMINI_DAILY_LIMIT:
+        return {}
 
-    if _gemini_calls_today >= GEMINI_DAILY_LIMIT:
-        print(f'  [Gemini] Daily limit reached ({GEMINI_DAILY_LIMIT}), using keyword fallback')
-        return None
-
+    numbered = '\n'.join(f'{i + 1}. "{t}"' for i, t in enumerate(titles))
     prompt = (
-        'You are a classifier for a tech job board targeting CS/software/data/quant/PM students. '
-        'Decide if this job title is relevant for them.\n\n'
-        'Answer YES for: software engineering, data science/engineering/analytics, '
-        'machine learning/AI, quantitative research/trading, product management, '
-        'product development, cybersecurity, DevOps/SRE, embedded/firmware engineering, '
-        'computer science research, technical program management, mobile/iOS/Android, '
-        'cloud/infrastructure, hardware/VLSI design (chip-level), computer vision, NLP, '
-        'technology consulting, digital technology, IT, business analyst (data/tech-focused), '
-        'technology analyst, solutions engineering, sales engineering, technical support engineering, '
-        'network engineering, systems engineering (software/IT), financial engineering/fintech, '
-        'robotics (software), simulation engineering.\n\n'
-        'Answer NO for: manufacturing/process/chemical/mechanical/electrical engineering (non-chip), '
-        'HR, supply chain, clinical/life science research (non-ML), '
-        'non-quant finance/accounting, legal, operations (non-technical), '
-        'audit, compliance, tax, logistics, warehouse, facilities, shipping/receiving.\n\n'
-        'When uncertain, err on the side of YES. It is better to include a borderline role '
-        'for human review than to miss a legitimate tech opportunity.\n\n'
-        f'Job title: "{title}"\n\n'
-        'Reply with exactly one word — yes or no. No punctuation, no explanation.'
+        'You are a classifier for a tech job board targeting CS/software/data/quant/PM students.\n\n'
+        'For each job title return:\n'
+        '- "is_tech": true for software/data/ML/AI/quant/PM/cybersecurity/DevOps/SRE/cloud/mobile/'
+        'embedded/firmware/robotics/technical-PM/IT/business-analyst(tech)/solutions-engineering/'
+        'network-engineering/fintech/chip-design. '
+        'false for manufacturing/process/chemical/mechanical/electrical engineering (non-chip), '
+        'HR, supply chain, clinical research (non-ML), non-quant finance/accounting, legal, '
+        'non-technical operations, logistics, facilities.\n'
+        '- "confidence": "high" (clearly one way), "medium", or "low" (genuinely ambiguous — '
+        'set is_tech true and flag low so a human reviews it)\n\n'
+        f'Titles:\n{numbered}\n\n'
+        f'Return a JSON array of exactly {len(titles)} objects in the same order.'
     )
 
-    try:
-        resp = requests.post(
-            f'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}',
-            json={
-                'contents': [{'parts': [{'text': prompt}]}],
-                'generationConfig': {
-                    'temperature': 0.0,
-                    'maxOutputTokens': 3,
-                    'topK': 1,
-                    'topP': 1.0,
+    for attempt in range(3):
+        try:
+            resp = requests.post(
+                f'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}',
+                json={
+                    'contents': [{'parts': [{'text': prompt}]}],
+                    'generationConfig': {
+                        'temperature': 0.0,
+                        'maxOutputTokens': len(titles) * 25 + 128,
+                        'responseMimeType': 'application/json',
+                    },
                 },
-            },
-            headers={'Content-Type': 'application/json'},
-            timeout=15,
-        )
-        _gemini_calls_today += 1
-        time.sleep(GEMINI_RPM_DELAY)
+                headers={'Content-Type': 'application/json'},
+                timeout=30,
+            )
 
-        if resp.status_code != 200:
-            print(f'  [Gemini] HTTP {resp.status_code}')
-            return None
+            if resp.status_code == 429:
+                wait = (2 ** attempt) * 15
+                print(f'  [Gemini] 429 rate limit — waiting {wait}s (attempt {attempt + 1}/3)')
+                time.sleep(wait)
+                continue
 
-        if resp.status_code == 429:
-            print('  [Gemini] Rate limited (429) — using keyword fallback for remainder of run')
-            _gemini_calls_today = GEMINI_DAILY_LIMIT
-            return None
+            _gemini_calls_today += 1
+            time.sleep(GEMINI_RPM_DELAY)
 
-        try:
+            if resp.status_code != 200:
+                print(f'  [Gemini] HTTP {resp.status_code}')
+                return {}
+
             body = resp.json()
-        except Exception:
-            print('  [Gemini] Non-JSON response — using keyword fallback')
-            return None
-
-        try:
             text = (
                 body.get('candidates', [{}])[0]
                 .get('content', {})
                 .get('parts', [{}])[0]
                 .get('text', '')
-                .strip()
-                .lower()
             )
-        except (IndexError, AttributeError, TypeError):
-            print('  [Gemini] Unexpected response shape — using keyword fallback')
-            return None
+            results = json.loads(text)
 
-        if not text:
-            print('  [Gemini] Empty response text — using keyword fallback')
-            return None
-        if text.startswith('y'):
-            return True
-        if text.startswith('n'):
-            return False
-        clean = text.strip('.,!? ')
-        if clean == 'yes':
-            return True
-        if clean == 'no':
-            return False
-        print(f'  [Gemini] Unexpected response: {text!r} — using keyword fallback')
-        return None
-    except requests.exceptions.Timeout:
-        print('  [Gemini] Request timed out — using keyword fallback')
-        return None
-    except Exception as e:
-        print(f'  [Gemini] Error: {e} — using keyword fallback')
-        return None
+            if not isinstance(results, list) or len(results) != len(titles):
+                print(f'  [Gemini] Expected {len(titles)} results, got '
+                      f'{len(results) if isinstance(results, list) else type(results).__name__}')
+                return {}
+
+            return {titles[i].lower(): results[i] for i in range(len(titles))}
+
+        except json.JSONDecodeError as e:
+            print(f'  [Gemini] JSON parse error: {e}')
+            return {}
+        except requests.exceptions.Timeout:
+            print(f'  [Gemini] Timeout (attempt {attempt + 1}/3)')
+            if attempt < 2:
+                time.sleep(5)
+        except Exception as e:
+            print(f'  [Gemini] Error: {e}')
+            return {}
+
+    return {}
+
+
+def classify_titles_batch(title_list):
+    """
+    Classify all titles in title_list that are not already cached, in batches.
+    Updates _title_cache and _confidence_cache in-place.
+    Returns the number of titles newly classified.
+    """
+    global _confidence_cache
+
+    cache = load_title_cache()
+
+    seen_lower = set()
+    uncached = []
+    for t in title_list:
+        tl = t.lower()
+        if tl in seen_lower or tl in cache:
+            continue
+        if any(s in tl for s in HARD_REJECT_SIGNALS):
+            cache[tl] = False
+            _confidence_cache[tl] = 'high'
+            seen_lower.add(tl)
+            continue
+        seen_lower.add(tl)
+        uncached.append(t)
+
+    if not uncached:
+        return 0
+
+    print(f'  [Gemini] Batch-classifying {len(uncached)} uncached titles '
+          f'({len(uncached) // GEMINI_BATCH_SIZE + 1} call(s))...')
+    classified = 0
+
+    for i in range(0, len(uncached), GEMINI_BATCH_SIZE):
+        if _gemini_calls_today >= GEMINI_DAILY_LIMIT:
+            print(f'  [Gemini] Daily limit reached — {len(uncached) - i} titles unclassified')
+            break
+        batch = uncached[i:i + GEMINI_BATCH_SIZE]
+        results = batch_classify_with_gemini(batch)
+        for title in batch:
+            result = results.get(title.lower())
+            if result is not None:
+                cache[title.lower()] = bool(result.get('is_tech', False))
+                _confidence_cache[title.lower()] = result.get('confidence', 'medium')
+                classified += 1
+
+    return classified
 
 
 def load_seen_jobs():
@@ -279,29 +357,54 @@ def is_tech_title_keywords(title):
 
 
 def classify_title(title):
+    """
+    Returns (is_tech: bool, confident: bool).
+    Checks cache first (populated by classify_titles_batch in main).
+    Falls back to single-title Gemini call if cache missed, then keyword heuristic.
+    """
     t = title.lower()
 
-    # Hard reject: definitively non-tech titles, no Gemini needed
     if any(s in t for s in HARD_REJECT_SIGNALS):
         return False, True
 
     cache = load_title_cache()
     if t in cache:
-        return cache[t], True
+        confidence = _confidence_cache.get(t, 'high')
+        return cache[t], confidence != 'low'
 
-    result = classify_with_gemini(title)
-    if result is not None:
-        cache[t] = result
-        return result, True
+    try:
+        results = batch_classify_with_gemini([title])
+        if results and t in results:
+            result = results[t]
+            is_tech = bool(result.get('is_tech', False))
+            confidence = result.get('confidence', 'medium')
+            cache[t] = is_tech
+            _confidence_cache[t] = confidence
+            return is_tech, confidence != 'low'
+    except Exception:
+        pass
 
-    # Gemini unavailable — use keyword heuristic but DO NOT cache the result
-    # so Gemini can retry on the next run. Borderline (no tech keywords) still
-    # passes through as unconfident so the scraper can decide to include it.
-    has_tech_keywords = is_tech_title_keywords(title)
-    return has_tech_keywords, False
+    return is_tech_title_keywords(title), False
+
+
+def is_candidate_title(title):
+    """
+    Fast keyword-only pre-filter used during the scraping pass (no Gemini calls).
+    Accepts any title with intern/grad boundary signals that isn't a hard reject.
+    Gemini will verify tech relevance in the batch classification pass.
+    """
+    t = title.lower()
+    if any(s in t for s in HARD_REJECT_SIGNALS):
+        return False
+    if any(re.search(kw, t) for kw in BOUNDARY_KEYWORDS):
+        return True
+    if any(kw in t for kw in SUBSTRING_KEYWORDS):
+        return True
+    return False
 
 
 def is_relevant_title(title):
+    """Full classification: checks is_tech (via cache/Gemini) + boundary keywords."""
     is_tech, confident = classify_title(title)
     if not is_tech:
         return False, confident
@@ -332,7 +435,11 @@ def is_us_location(location):
 
 def infer_listing_type(title):
     t = title.lower()
-    if any(kw in t for kw in ['new grad', 'new-grad', 'entry level', 'entry-level', 'early career']):
+    if any(kw in t for kw in [
+        'new grad', 'new-grad', 'entry level', 'entry-level', 'early career',
+        'university graduate', 'new college grad', 'college grad',
+        'full-time', 'full time',
+    ]):
         return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
     if any(kw in t for kw in ['co-op', 'coop', 'co op']):
         return 'Internship', 'Co-op'
@@ -352,14 +459,76 @@ def infer_listing_type(title):
         return 'Internship', 'Summer 2026'
     return 'Internship', 'Summer 2027'
 
+
 def infer_education_level(title):
     t = title.lower()
-    if any(kw in t for kw in ['phd', 'phd student', 'phd intern', 'phd research', 'phd early career']):
+    if any(kw in t for kw in ['phd', 'ph.d', 'phd student', 'phd intern', 'phd research', 'phd early career']):
         return 'PhD'
-    if any(kw in t for kw in ['master', 'ms ', 'm.s.', 'masters']):
-        return "Master's"
-    # Default to Undergrad
+    if any(kw in t for kw in ['master', 'ms ', 'm.s.', 'masters', 'meng', 'm.eng']):
+        return 'Masters'
     return 'Undergrad'
+
+
+def add_job_directly(job, listings_file, readme_file):
+    """
+    Add a high-confidence job directly to listings.json and rebuild the README.
+    Skips if the URL already exists in listings.json.
+    """
+    try:
+        listing_type, season = infer_listing_type(job['title'])
+        education = infer_education_level(job['title'])
+        location = normalize_location(job.get('location', ''))
+
+        table = 'summer'
+        if listing_type == 'New Grad (Full-Time)':
+            table = 'newgrad'
+        elif season in ('Co-op', 'Fall 2027', 'Spring 2027', 'Winter 2027',
+                        'Fall 2026', 'Spring 2026', 'Winter 2026', 'Summer 2026'):
+            table = 'offcycle'
+
+        entry = {
+            'company': job['company'],
+            'role': job['title'],
+            'location': location,
+            'type': table,
+            'season': season,
+            'education': education,
+            'url': job['url'],
+            'sponsorship': 'Unknown',
+            'citizenship': 'Unknown',
+            'date_added': datetime.now().strftime('%Y-%m-%d'),
+        }
+
+        listings_path = listings_file
+        if listings_path.exists():
+            with open(listings_path) as f:
+                listings = json.load(f)
+        else:
+            listings = []
+
+        existing_urls = {e.get('url', '').split('?')[0].rstrip('/') for e in listings}
+        new_url_norm = entry['url'].split('?')[0].rstrip('/')
+        if new_url_norm in existing_urls:
+            print(f'  [direct] Skipping duplicate URL: {entry["url"]}')
+            return
+
+        listings.append(entry)
+        with open(listings_path, 'w') as f:
+            json.dump(listings, f, indent=2)
+        print(f'  [direct] Added: {entry["company"]} — {entry["role"]}')
+
+        result = subprocess.run(
+            ['python3', '.github/scripts/rebuild_readme.py'],
+            capture_output=True,
+            text=True,
+        )
+        if result.returncode != 0:
+            print(f'  [direct] rebuild_readme.py failed: {result.stderr[:200]}')
+        else:
+            print(f'  [direct] README rebuilt successfully')
+
+    except Exception as e:
+        print(f'  [direct] Failed to add "{job.get("title", "unknown")}": {e}')
 
 
 def scrape_greenhouse(company, slug):
@@ -373,7 +542,7 @@ def scrape_greenhouse(company, slug):
         for job in resp.json().get('jobs', []):
             title = job.get('title', '')
             location = job.get('location', {}).get('name', '')
-            relevant, confident = is_relevant_title(title)
+            relevant = is_candidate_title(title)
             if relevant and is_us_location(location):
                 jobs.append({
                     'id': f'greenhouse_{slug}_{job["id"]}',
@@ -382,7 +551,6 @@ def scrape_greenhouse(company, slug):
                     'location': location,
                     'url': job.get('absolute_url', ''),
                     'board': 'Greenhouse',
-                    'confident': confident,
                 })
         return jobs
     except Exception as e:
@@ -401,7 +569,7 @@ def scrape_lever(company, slug):
         for job in resp.json():
             title = job.get('text', '')
             location = job.get('categories', {}).get('location', '')
-            relevant, confident = is_relevant_title(title)
+            relevant = is_candidate_title(title)
             if relevant and is_us_location(location):
                 jobs.append({
                     'id': f'lever_{slug}_{job["id"]}',
@@ -410,7 +578,6 @@ def scrape_lever(company, slug):
                     'location': location,
                     'url': job.get('hostedUrl', ''),
                     'board': 'Lever',
-                    'confident': confident,
                 })
         return jobs
     except Exception as e:
@@ -429,7 +596,7 @@ def scrape_ashby(company, slug):
         for job in resp.json().get('jobPostings', []):
             title = job.get('title', '')
             location = job.get('locationName', '') or job.get('location', '')
-            relevant, confident = is_relevant_title(title)
+            relevant = is_candidate_title(title)
             if relevant and is_us_location(location):
                 apply_url = (
                     job.get('jobPostingUrls', {}).get('Full', '')
@@ -443,7 +610,6 @@ def scrape_ashby(company, slug):
                     'location': location,
                     'url': apply_url,
                     'board': 'Ashby',
-                    'confident': confident,
                 })
         return jobs
     except Exception as e:
@@ -486,7 +652,7 @@ def scrape_smartrecruiters(company, identifier):
                 else:
                     location = country.upper() if country else ''
 
-                relevant, confident = is_relevant_title(title)
+                relevant = is_candidate_title(title)
                 if relevant:
                     job_id = job.get('id', '')
                     ref = job.get('ref', f'https://jobs.smartrecruiters.com/{identifier}/{job_id}')
@@ -497,8 +663,7 @@ def scrape_smartrecruiters(company, identifier):
                         'location': location,
                         'url': ref,
                         'board': 'SmartRecruiters',
-                        'confident': confident,
-                    })
+                        })
 
             total = data.get('totalFound', 0)
             params['offset'] += len(content)
@@ -539,7 +704,7 @@ def scrape_workable(company, slug):
             else:
                 location = country.upper() if country else ''
 
-            relevant, confident = is_relevant_title(title)
+            relevant = is_candidate_title(title)
             if relevant:
                 job_id = job.get('shortcode', job.get('id', ''))
                 jobs.append({
@@ -549,7 +714,6 @@ def scrape_workable(company, slug):
                     'location': location,
                     'url': f'https://apply.workable.com/{slug}/j/{job_id}/',
                     'board': 'Workable',
-                    'confident': confident,
                 })
         return jobs
     except Exception as e:
@@ -584,7 +748,7 @@ def scrape_recruitee(company, slug):
             else:
                 location = country.title() if country else ''
 
-            relevant, confident = is_relevant_title(title)
+            relevant = is_candidate_title(title)
             if relevant:
                 job_id = str(job.get('id', ''))
                 careers_url = job.get('careers_url', f'https://{slug}.recruitee.com/o/{job.get("slug", job_id)}')
@@ -595,7 +759,6 @@ def scrape_recruitee(company, slug):
                     'location': location,
                     'url': careers_url,
                     'board': 'Recruitee',
-                    'confident': confident,
                 })
         return jobs
     except Exception as e:
@@ -632,7 +795,7 @@ def scrape_pinpoint(company, slug):
             else:
                 location = ''
 
-            relevant, confident = is_relevant_title(title)
+            relevant = is_candidate_title(title)
             if relevant:
                 job_id = job.get('id', '')
                 jobs.append({
@@ -642,7 +805,6 @@ def scrape_pinpoint(company, slug):
                     'location': location,
                     'url': f'https://{slug}.pinpointhq.com/postings/{job_id}',
                     'board': 'Pinpoint',
-                    'confident': confident,
                 })
         return jobs
     except Exception as e:
@@ -666,7 +828,6 @@ def scrape_workday(company, tenant, instance, board):
     jobs = []
     seen_paths = set()
 
-    # Search for each term separately — Workday doesn't support OR queries
     for search_term in ['intern', 'new grad', 'early career', 'university']:
         offset = 0
         while True:
@@ -692,7 +853,7 @@ def scrape_workday(company, tenant, instance, board):
                     seen_paths.add(external_path)
                     title = job.get('title', '')
                     location = job.get('locationsText', '')
-                    relevant, confident = is_relevant_title(title)
+                    relevant = is_candidate_title(title)
                     if relevant and is_us_location(location):
                         jobs.append({
                             'id': f'workday_{tenant}_{external_path}',
@@ -701,8 +862,7 @@ def scrape_workday(company, tenant, instance, board):
                             'location': location,
                             'url': f'{base_url}{external_path}',
                             'board': 'Workday',
-                            'confident': confident,
-                        })
+                                })
                 total = data.get('total', 0)
                 offset += len(postings)
                 if offset >= total:
@@ -765,7 +925,7 @@ def scrape_linkedin_apify(company, company_id):
                 ).strip()
                 if not title:
                     continue
-                relevant, confident = is_relevant_title(title)
+                relevant = is_candidate_title(title)
                 if relevant and is_us_location(location):
                     jobs.append({
                         'id': f'linkedin_{job_id}',
@@ -774,8 +934,7 @@ def scrape_linkedin_apify(company, company_id):
                         'location': location,
                         'url': url,
                         'board': 'LinkedIn',
-                        'confident': confident,
-                    })
+                        })
         except Exception as e:
             print(f'  [{company}] Apify LinkedIn error for "{keyword}": {e}')
         time.sleep(2)
@@ -811,7 +970,7 @@ def scrape_amazon():
                 job_path = job.get('job_path', '')
                 url = f'https://www.amazon.jobs{job_path}' if job_path else f'https://www.amazon.jobs/en/jobs/{job_id}'
 
-                relevant, confident = is_relevant_title(title)
+                relevant = is_candidate_title(title)
                 if relevant and is_us_location(location):
                     jobs.append({
                         'id': f'amazon_{job_id}',
@@ -820,8 +979,7 @@ def scrape_amazon():
                         'location': location,
                         'url': url,
                         'board': 'Amazon Jobs',
-                        'confident': confident,
-                    })
+                        })
 
             total = data.get('hits', 0)
             params['offset'] += len(postings)
@@ -880,7 +1038,7 @@ def scrape_apple():
                     location = loc_list[0].get('name', '') if loc_list else ''
                     apply_url = f'https://jobs.apple.com/en-us/details/{job_id}{external_path}' if job_id else ''
 
-                    relevant, confident = is_relevant_title(title)
+                    relevant = is_candidate_title(title)
                     if relevant:
                         jobs.append({
                             'id': f'apple_{job_id}',
@@ -889,8 +1047,7 @@ def scrape_apple():
                             'location': location,
                             'url': apply_url,
                             'board': 'Apple Jobs',
-                            'confident': confident,
-                        })
+                                })
 
                 total_pages = data.get('totalPages', 1)
                 if page >= total_pages:
@@ -995,32 +1152,36 @@ _No response_
 def main():
     load_gemini_usage()
 
-    with open('companies.yml') as f:
-        config = yaml.safe_load(f)
+    try:
+        with open('companies.yml') as f:
+            config = yaml.safe_load(f)
+    except Exception as e:
+        print(f'ERROR: Failed to load companies.yml: {e}')
+        return
 
     seen = load_seen_jobs()
-    new_jobs = []
+
+    candidate_jobs = []
+
+    def collect_jobs(jobs):
+        for job in jobs:
+            if job['id'] not in seen:
+                candidate_jobs.append(job)
 
     scrapers = {
         'greenhouse': scrape_greenhouse,
         'lever': scrape_lever,
         'ashby': scrape_ashby,
     }
-
-    def process_jobs(jobs):
-        for job in jobs:
-            job_id = job['id']
-            if job_id not in seen:
-                seen.add(job_id)
-                print(f'  NEW: {job["title"]} @ {job["location"]}')
-                new_jobs.append(job)
-
     for board, scraper in scrapers.items():
         for entry in config.get(board, []):
             company = entry['name']
             slug = entry['slug']
             print(f'Checking {company} ({board}/{slug})...')
-            process_jobs(scraper(company, slug))
+            try:
+                collect_jobs(scraper(company, slug))
+            except Exception as e:
+                print(f'  [{company}] Scraper crashed: {e}')
             time.sleep(0.4)
 
     for board_key, scraper, slug_field in [
@@ -1033,7 +1194,10 @@ def main():
             company = entry['name']
             slug = entry[slug_field]
             print(f'Checking {company} ({board_key}/{slug})...')
-            process_jobs(scraper(company, slug))
+            try:
+                collect_jobs(scraper(company, slug))
+            except Exception as e:
+                print(f'  [{company}] Scraper crashed: {e}')
             time.sleep(0.4)
 
     for entry in config.get('workday', []):
@@ -1042,35 +1206,83 @@ def main():
         instance = entry['instance']
         board = entry.get('board', '')
         print(f'Checking {company} (workday/{tenant})...')
-        process_jobs(scrape_workday(company, tenant, instance, board))
+        try:
+            collect_jobs(scrape_workday(company, tenant, instance, board))
+        except Exception as e:
+            print(f'  [{company}] Scraper crashed: {e}')
         time.sleep(0.4)
 
     for entry in config.get('linkedin', []):
         company = entry['name']
         company_id = str(entry['company_id'])
         print(f'Checking {company} (LinkedIn via Apify)...')
-        process_jobs(scrape_linkedin_apify(company, company_id))
+        try:
+            collect_jobs(scrape_linkedin_apify(company, company_id))
+        except Exception as e:
+            print(f'  [{company}] Scraper crashed: {e}')
 
     print('Checking Amazon (amazon.jobs)...')
-    process_jobs(scrape_amazon())
+    try:
+        collect_jobs(scrape_amazon())
+    except Exception as e:
+        print(f'  [Amazon] Scraper crashed: {e}')
     time.sleep(0.4)
 
     print('Checking Apple (jobs.apple.com)...')
-    process_jobs(scrape_apple())
+    try:
+        collect_jobs(scrape_apple())
+    except Exception as e:
+        print(f'  [Apple] Scraper crashed: {e}')
+
+    print(f'\nPass 1 complete: {len(candidate_jobs)} candidate job(s) to classify')
+
+    if candidate_jobs:
+        all_titles = [j['title'] for j in candidate_jobs]
+        classified = classify_titles_batch(all_titles)
+        print(f'  [Gemini] Classified {classified} new title(s); '
+              f'{_gemini_calls_today} API call(s) used today')
+
+    new_jobs = []
+    for job in candidate_jobs:
+        try:
+            is_tech, confident = classify_title(job['title'])
+        except Exception as e:
+            print(f'  [classify] Error on "{job["title"]}": {e} — skipping')
+            continue
+        if is_tech:
+            seen.add(job['id'])
+            job['confident'] = confident
+            new_jobs.append(job)
+            flag = '' if confident else ' [NEEDS REVIEW]'
+            print(f'  NEW{flag}: {job["title"]} @ {job["location"]}')
 
     print(f'\nFound {len(new_jobs)} new job(s)')
 
     if new_jobs:
+        listings_file = Path('listings.json')
+        readme_file = Path('README.md')
         token = os.environ.get('GITHUB_TOKEN')
         repo = os.environ.get('GITHUB_REPOSITORY')
-        if not token or not repo:
-            print('ERROR: GITHUB_TOKEN or GITHUB_REPOSITORY not set')
-            for job in new_jobs:
-                print(f'  - {job["company"]}: {job["title"]} | {job["location"]} | {job["url"]}')
-        else:
-            for job in new_jobs:
-                create_github_issue(job, token, repo)
-                time.sleep(1)
+
+        high_confidence = [j for j in new_jobs if j.get('confident') == True]
+        low_confidence = [j for j in new_jobs if j.get('confident') != True]
+
+        for job in high_confidence:
+            add_job_directly(job, listings_file, readme_file)
+            time.sleep(0.5)
+
+        if low_confidence:
+            if not token or not repo:
+                print('ERROR: GITHUB_TOKEN or GITHUB_REPOSITORY not set')
+                for job in low_confidence:
+                    print(f'  - {job["company"]}: {job["title"]} | {job["location"]} | {job["url"]}')
+            else:
+                for job in low_confidence:
+                    try:
+                        create_github_issue(job, token, repo)
+                    except Exception as e:
+                        print(f'  [issue] Failed to create issue for "{job["title"]}": {e}')
+                    time.sleep(1)
 
     save_seen_jobs(seen)
     save_title_cache()

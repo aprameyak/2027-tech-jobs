@@ -40,6 +40,8 @@ REMOTE_RE = re.compile(
     re.IGNORECASE,
 )
 
+BARE_COUNTRY_RE = re.compile(r'^(us|usa|united states|canada)$', re.IGNORECASE)
+
 CITY_STATE_RE = re.compile(r'^.+,\s*([A-Z]{2})$')
 
 
@@ -50,7 +52,7 @@ def validate_location(location):
         return ['location is empty']
     errors = []
     for part in parts:
-        if REMOTE_RE.match(part):
+        if REMOTE_RE.match(part) or BARE_COUNTRY_RE.match(part):
             continue
         m = CITY_STATE_RE.match(part)
         if not m:

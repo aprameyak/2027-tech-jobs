@@ -37,10 +37,10 @@ jobs:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
         run: python .github/scripts/scrape_jobs.py
 
-      - name: Commit updated data files
+      - name: Commit changes
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs.json .github/data/title_classifications.json .github/data/gemini_usage.json
-          git diff --staged --quiet || git commit -m "update scraper data"
+          git add .github/data/seen_jobs.json .github/data/title_classifications.json .github/data/gemini_usage.json listings.json README.md
+          git diff --staged --quiet || git commit -m "add auto-discovered listings and update scraper data"
           git pull --rebase -X ours && git push
