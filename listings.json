@@ -3070,5 +3070,65 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-10"
+  },
+  {
+    "company": "Apple",
+    "role": "Software Engineering Intern (Undergrad)",
+    "location": "Cupertino, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Apple",
+    "role": "Software Engineering Intern (Masters)",
+    "location": "Cupertino, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Masters",
+    "url": "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Gemini",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "type": "offcycle",
+    "season": "Fall 2026",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Circle",
+    "role": "Software Engineer, Backend",
+    "location": "Remote (US)",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.circle.com/us/en/job/CIICIRUSJR100011EGEXTERNALENUS/New-Grad-Software-Engineer-Backend-2026",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Shopify",
+    "role": "Software Engineer",
+    "location": "Remote (US); Remote (Canada)",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.shopify.com/careers/software-engineers_c96af3a9-82a3-4c6a-9b86-1f7e6b376167",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-10"
   }
 ]
