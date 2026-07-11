@@ -47,6 +47,7 @@ CrowdStrike
 Cursor
 Databricks
 Datadog
+D.E. Shaw
 Decagon
 Descript
 Discord
