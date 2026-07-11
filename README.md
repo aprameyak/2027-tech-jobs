@@ -30,6 +30,10 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Autodesk | Intern, Machine Learning Developer | Toronto, ON, CAN | Undergrad | <a href="https://autodesk.wd1.myworkdayjobs.com/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
+| Seven Research | Deep Learning Researcher - Intern | New York | Undergrad | <a href="https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
+| ↳ | Core Developer - Intern | New York | Undergrad | <a href="https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
+| ↳ | Algorithmic Developer - Intern | New York | Undergrad | <a href="https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | Amazon | Quantum Signal Train Engineer Internship, Amazon Center for Quantum Computing | Pasadena, CA | Undergrad | <a href="https://www.amazon.jobs/en/jobs/10387501/quantum-signal-train-engineer-internship-amazon-center-for-quantum-computing"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Autodesk | Intern, AI in Design & Manufacturing | Toronto, ON | Undergrad | 🔒 | Jul 10 |
 | Jane Street | Software Engineer Internship | New York, NY | Undergrad | <a href="https://www.janestreet.com/join-jane-street/position/8599644002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
@@ -148,6 +152,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| SpaceX | December 2026 New Graduate Engineer, Propulsion (Starship) | Starbase, TX | Undergrad | <a href="https://boards.greenhouse.io/spacex/jobs/8627510002?gh_jid=8627510002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
+| ↳ | December 2026 New Graduate Engineer, Mechanical (Starship) | Starbase, TX | Undergrad | <a href="https://boards.greenhouse.io/spacex/jobs/8627507002?gh_jid=8627507002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | Capital One | Associate, Software Engineer, New Grad Card Expansion | Toronto, ON | Undergrad | <a href="https://capitalone.wd12.myworkdayjobs.com/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R236833" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Roblox | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career | San Mateo, CA | PhD | <a href="https://careers.roblox.com/jobs/8027587?gh_jid=8027587"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | [2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career | San Mateo, CA | PhD | <a href="https://careers.roblox.com/jobs/7350081?gh_jid=7350081"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |

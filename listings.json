@@ -1654,5 +1654,77 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-10"
+  },
+  {
+    "company": "Autodesk",
+    "role": "Intern, Machine Learning Developer",
+    "location": "Toronto, ON, CAN",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "SpaceX",
+    "role": "December 2026 New Graduate Engineer, Propulsion (Starship)",
+    "location": "Starbase, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8627510002?gh_jid=8627510002",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "SpaceX",
+    "role": "December 2026 New Graduate Engineer, Mechanical (Starship)",
+    "location": "Starbase, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8627507002?gh_jid=8627507002",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Seven Research",
+    "role": "Deep Learning Researcher - Intern",
+    "location": "New York",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Seven Research",
+    "role": "Core Developer - Intern",
+    "location": "New York",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Seven Research",
+    "role": "Algorithmic Developer - Intern",
+    "location": "New York",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-11"
   }
 ]
