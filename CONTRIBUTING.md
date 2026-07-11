@@ -45,7 +45,7 @@ Thank you for helping keep this list accurate and up to date!
 |--------|-------------|
 | `Company` | Plain company name — **no hyperlink** |
 | `Role` | Exact job title. Append 🛂 if no sponsorship, 🇺🇸 if U.S. citizenship required. |
-| `Location` | City, State (US) or City, Country. Multiple: `City1</br>City2`. Many locations: `<details>` block. |
+| `Location` | `City, ST` using two-letter state/province code (e.g. `San Francisco, CA` or `Toronto, ON`). Remote: `Remote (US)` or `Remote (Canada)`. Multiple locations: `City1, ST</br>City2, ST`. Many locations: `<details>` block. |
 | `Term` | *(Off-cycle only)* Fall / Winter / Spring / Year-Round |
 | `Education` | `Undergrad`, `Masters`, `PhD`, or `Undergrad / Masters` |
 | `Application/Link` | HTML image-link button (see format above). Use 🔒 when closed. |
