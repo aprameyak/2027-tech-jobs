@@ -3058,5 +3058,17 @@
     "sponsorship": "Unknown",
     "citizenship": "Yes \u2014 U.S. Person status required (government contract)",
     "date_added": "2026-07-11"
+  },
+  {
+    "company": "Beltways",
+    "role": "Software Engineer Intern",
+    "location": "Hebron, KY",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad; Masters",
+    "url": "https://www.beltways.com/careers/software-engineer-intern",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-11"
   }
 ]
