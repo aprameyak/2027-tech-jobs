@@ -45,7 +45,7 @@ TECH_KEYWORDS = [
     'frontend', 'front-end', 'back-end', 'fullstack', 'full-stack', 'mobile',
     'ios', 'android', 'cloud', 'security', 'cybersecurity', 'network', 'systems',
     'database', 'analytics', 'product', 'sre', 'reliability', 'embedded',
-    'firmware', 'robotics', 'computer', 'computational', 'algorithm', 'applied',
+    'robotics', 'computer', 'computational', 'algorithm', 'applied',
     'technical', 'scientist', 'physics', 'math', 'statistics', 'fintech',
     'product manager', 'program manager', 'consultant', 'consulting',
     'digital', 'technology associate', 'technology analyst',
@@ -438,7 +438,7 @@ def infer_listing_type(title):
     if any(kw in t for kw in [
         'new grad', 'new-grad', 'entry level', 'entry-level', 'early career',
         'university graduate', 'new college grad', 'college grad',
-        'full-time', 'full time',
+        'full-time', ' full time',
     ]):
         return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
     if any(kw in t for kw in ['co-op', 'coop', 'co op']):
@@ -513,8 +513,10 @@ def add_job_directly(job, listings_file, readme_file):
             return
 
         listings.append(entry)
-        with open(listings_path, 'w') as f:
+        tmp = listings_path.with_suffix('.tmp')
+        with open(tmp, 'w') as f:
             json.dump(listings, f, indent=2)
+        tmp.replace(listings_path)
         print(f'  [direct] Added: {entry["company"]} — {entry["role"]}')
 
         result = subprocess.run(
