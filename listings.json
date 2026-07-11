@@ -2134,5 +2134,29 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-11"
+  },
+  {
+    "company": "Adobe",
+    "role": "2026 University Graduate - Machine Learning Engineer",
+    "location": "Seattle",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://adobe.wd5.myworkdayjobs.com/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Anduril",
+    "role": "Early Career Firmware Engineer",
+    "location": "Costa Mesa, California, United States",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-11"
   }
 ]

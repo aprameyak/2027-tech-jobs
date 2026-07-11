@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Adobe | 2026 University Graduate - Machine Learning Engineer | Seattle | Undergrad | <a href="https://adobe.wd5.myworkdayjobs.com/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | Autodesk | Intern, Machine Learning Developer | Toronto, ON, CAN | Undergrad | <a href="https://autodesk.wd1.myworkdayjobs.com/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | Five Rings | Campus Full Time 2026 - Trading Operations Engineer | New York | Undergrad | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4017982008" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | Intel | Junior Physical Design Engineer (CPU) | US, Oregon, Hillsboro | Undergrad | <a href="https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/Junior-Senior-Physical-Design-Engineer--CPU-_JR0284894" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
@@ -186,6 +187,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Undergrad | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | SpaceX | December 2026 New Graduate Engineer, Propulsion (Starship) | Starbase, TX | Undergrad | <a href="https://boards.greenhouse.io/spacex/jobs/8627510002?gh_jid=8627510002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | ↳ | December 2026 New Graduate Engineer, Mechanical (Starship) | Starbase, TX | Undergrad | <a href="https://boards.greenhouse.io/spacex/jobs/8627507002?gh_jid=8627507002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | Capital One | Associate, Software Engineer, New Grad Card Expansion | Toronto, ON | Undergrad | <a href="https://capitalone.wd12.myworkdayjobs.com/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R236833" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
