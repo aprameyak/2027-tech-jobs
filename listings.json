@@ -1598,7 +1598,7 @@
   {
     "company": "NVIDIA",
     "role": "Research Scientist, Efficient Deep Learning - New College Grad 2026",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1610,10 +1610,10 @@
   {
     "company": "NVIDIA",
     "role": "Performance Engineer Intern, Systems Software-  Fall 2026",
-    "location": "US, MO, St. Louis",
+    "location": "St. Louis, MO",
     "type": "offcycle",
     "season": "Fall 2026",
-    "education": "Master's",
+    "education": "Masters",
     "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
     "sponsorship": "Unknown",
     "citizenship": "No",
@@ -1622,7 +1622,7 @@
   {
     "company": "NVIDIA",
     "role": "Applied Research Intern, NLP - Fall 2026",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -1634,7 +1634,7 @@
   {
     "company": "NVIDIA",
     "role": "Java Engineering Intern - Fall 2026",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -1658,7 +1658,7 @@
   {
     "company": "Autodesk",
     "role": "Intern, Machine Learning Developer",
-    "location": "Toronto, ON, CAN",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1694,7 +1694,7 @@
   {
     "company": "Seven Research",
     "role": "Deep Learning Researcher - Intern",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1706,7 +1706,7 @@
   {
     "company": "Seven Research",
     "role": "Core Developer - Intern",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1718,7 +1718,7 @@
   {
     "company": "Seven Research",
     "role": "Algorithmic Developer - Intern",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1730,7 +1730,7 @@
   {
     "company": "Point72",
     "role": "Summer 2027 Quantitative Research Internship",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1742,7 +1742,7 @@
   {
     "company": "Point72",
     "role": "Quantitative Research Intern (NLP)",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1754,7 +1754,7 @@
   {
     "company": "Point72",
     "role": "Quantitative Research Intern",
-    "location": "New York, Seattle",
+    "location": "New York, NY; Seattle, WA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1766,7 +1766,7 @@
   {
     "company": "Point72",
     "role": "Quantitative Researcher Intern",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1778,7 +1778,7 @@
   {
     "company": "Point72",
     "role": "Quantitative Developer Intern",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1790,7 +1790,7 @@
   {
     "company": "Point72",
     "role": "Machine Learning Researcher - Intern",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1802,10 +1802,10 @@
   {
     "company": "Jump Trading",
     "role": "Campus Systems Engineer (Full-Time)",
-    "location": "Chicago",
+    "location": "Chicago, IL",
     "type": "summer",
     "season": "Summer 2027",
-    "education": "Master's",
+    "education": "Masters",
     "url": "https://www.jumptrading.com/hr/job?gh_jid=8008112",
     "sponsorship": "Unknown",
     "citizenship": "No",
@@ -1814,7 +1814,7 @@
   {
     "company": "Jump Trading",
     "role": "Campus Software Engineer (Full-Time)",
-    "location": "Chicago",
+    "location": "Chicago, IL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1826,7 +1826,7 @@
   {
     "company": "Jump Trading",
     "role": "Campus Quantitative Trader (Full-Time)",
-    "location": "Chicago; New York",
+    "location": "Chicago, IL; New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1838,10 +1838,10 @@
   {
     "company": "Jump Trading",
     "role": "Campus Quantitative Researcher, UG/MS (Intern)",
-    "location": "Chicago; New York",
+    "location": "Chicago, IL; New York, NY",
     "type": "summer",
     "season": "Summer 2027",
-    "education": "Master's",
+    "education": "Masters",
     "url": "https://www.jumptrading.com/hr/job?gh_jid=7982648",
     "sponsorship": "Unknown",
     "citizenship": "No",
@@ -1850,10 +1850,10 @@
   {
     "company": "Jump Trading",
     "role": "Campus Quantitative Researcher, UG/MS (Full-Time)",
-    "location": "Chicago; New York",
+    "location": "Chicago, IL; New York, NY",
     "type": "summer",
     "season": "Summer 2027",
-    "education": "Master's",
+    "education": "Masters",
     "url": "https://www.jumptrading.com/hr/job?gh_jid=7728630",
     "sponsorship": "Unknown",
     "citizenship": "No",
@@ -1862,7 +1862,7 @@
   {
     "company": "Jump Trading",
     "role": "Campus Quantitative Researcher, PhD (Intern)",
-    "location": "Chicago; New York",
+    "location": "Chicago, IL; New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "PhD",
@@ -1874,7 +1874,7 @@
   {
     "company": "Jump Trading",
     "role": "Campus FPGA Engineer (Intern)",
-    "location": "Chicago",
+    "location": "Chicago, IL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1886,7 +1886,7 @@
   {
     "company": "Jump Trading",
     "role": "Campus Data Engineer (Intern)",
-    "location": "Chicago",
+    "location": "Chicago, IL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1898,7 +1898,7 @@
   {
     "company": "Jump Trading",
     "role": "Campus AI Research Engineer \u2013 Research Automation (Intern)",
-    "location": "Chicago; New York",
+    "location": "Chicago, IL; New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1910,7 +1910,7 @@
   {
     "company": "Jump Trading",
     "role": "Campus AI Research Engineer \u2013 Research Automation (Full-Time)",
-    "location": "Chicago; New York",
+    "location": "Chicago, IL; New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1922,7 +1922,7 @@
   {
     "company": "Jump Trading",
     "role": "Campus AI Research Engineer (Intern)",
-    "location": "Chicago; New York",
+    "location": "Chicago, IL; New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1934,7 +1934,7 @@
   {
     "company": "Jump Trading",
     "role": "Campus AI Research Engineer (Full-Time)",
-    "location": "Chicago; New York",
+    "location": "Chicago, IL; New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1946,7 +1946,7 @@
   {
     "company": "Jump Trading",
     "role": "Campus AI Research Engineer - Deep Learning (Intern)",
-    "location": "Chicago; New York",
+    "location": "Chicago, IL; New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1958,7 +1958,7 @@
   {
     "company": "Jump Trading",
     "role": "Campus AI Research Engineer \u2013 Deep Learning(Full-Time)",
-    "location": "Chicago; New York",
+    "location": "Chicago, IL; New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1970,7 +1970,7 @@
   {
     "company": "Rakuten International",
     "role": "Intern - Software Engineer, AI User Experience",
-    "location": "San Mateo, California",
+    "location": "San Mateo, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -1982,7 +1982,7 @@
   {
     "company": "NVIDIA",
     "role": "DGX Cloud Kubernetes Runtime Intern - Fall 2026",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -1994,7 +1994,7 @@
   {
     "company": "NVIDIA",
     "role": "PhD Software Engineering Intern, Decision Intelligence - Fall 2026",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "PhD",
@@ -2006,7 +2006,7 @@
   {
     "company": "NVIDIA",
     "role": "Quantum Error Correction Research Scientist Intern - Fall 2026",
-    "location": "US, CA, Remote",
+    "location": "Remote (US)",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -2018,7 +2018,7 @@
   {
     "company": "NVIDIA",
     "role": "Synthetic Data Generation and User Simulation PhD Research Intern \u2014 Fall 2026",
-    "location": "US, CA, Remote",
+    "location": "Remote (US)",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "PhD",
@@ -2030,7 +2030,7 @@
   {
     "company": "NVIDIA",
     "role": "Quantum Research Scientist Intern - Fall 2026",
-    "location": "US, CA, Remote",
+    "location": "Remote (US)",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -2042,7 +2042,7 @@
   {
     "company": "NVIDIA",
     "role": "PhD Research Intern, Security and Privacy - Fall 2026",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "PhD",
@@ -2054,7 +2054,7 @@
   {
     "company": "NVIDIA",
     "role": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "PhD",
@@ -2066,7 +2066,7 @@
   {
     "company": "NVIDIA",
     "role": "Software Engineering Intern, JAX - Fall 2026",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -2078,7 +2078,7 @@
   {
     "company": "NVIDIA",
     "role": "PhD Research Intern, Generative AI - 2026",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "PhD",
@@ -2090,7 +2090,7 @@
   {
     "company": "Intel",
     "role": "Junior Physical Design Engineer (CPU)",
-    "location": "US, Oregon, Hillsboro",
+    "location": "Hillsboro, OR",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -2102,7 +2102,7 @@
   {
     "company": "Intel",
     "role": "Server Quality and Reliability Intern",
-    "location": "Costa Rica, San Jose",
+    "location": "San Jose, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -2114,7 +2114,7 @@
   {
     "company": "Intel",
     "role": "DTCO Data Engineer Intern",
-    "location": "US, Texas, Austin",
+    "location": "Austin, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -2126,7 +2126,7 @@
   {
     "company": "Five Rings",
     "role": "Campus Full Time 2026 - Trading Operations Engineer",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -2138,7 +2138,7 @@
   {
     "company": "Adobe",
     "role": "2026 University Graduate - Machine Learning Engineer",
-    "location": "Seattle",
+    "location": "Seattle, WA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -2150,7 +2150,7 @@
   {
     "company": "Anduril",
     "role": "Early Career Firmware Engineer",
-    "location": "Costa Mesa, California, United States",
+    "location": "Costa Mesa, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
