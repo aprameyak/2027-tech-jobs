@@ -49,7 +49,7 @@ def format_date(date_added):
 
 def apply_btn(url):
     return (
-        f'<a href="{url}">'
+        f'<a href="{url}" target="_blank" rel="noopener noreferrer">'
         f'<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">'
         f'</a>'
     )
