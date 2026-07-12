@@ -819,6 +819,28 @@ def scrape_pinpoint(company, slug):
         return []
 
 
+def _workday_job_url(base_url, board, external_path):
+    """
+    Build a canonical Workday job URL from known-good components.
+
+    The Workday API returns `externalPath` inconsistently across tenants:
+      - Some return: /en-US/BoardName/job/Location/Title_ID
+      - Some return: /job/Location/Title_ID          (no locale or board)
+      - Some return: /en-GB/BoardName/job/...        (wrong locale)
+
+    Strategy: strip any locale+board prefix that the API may have included,
+    leaving a bare /job/... path, then prepend our authoritative board from
+    companies.yml. This guarantees the URL is always valid regardless of
+    what the API happens to return.
+    """
+    path = re.sub(r'^/[a-z]{2}-[A-Z]{2}/[^/]+(?=/job/)', '', external_path)
+    if not path.startswith('/job/'):
+        path = external_path
+    if board:
+        return f'{base_url}/en-US/{board}{path}'
+    return f'{base_url}{path}'
+
+
 def scrape_workday(company, tenant, instance, board):
     if board:
         api_url = f'https://{tenant}.{instance}.myworkdayjobs.com/wday/cxs/{tenant}/{board}/jobs'
@@ -862,16 +884,12 @@ def scrape_workday(company, tenant, instance, board):
                     location = job.get('locationsText', '')
                     relevant = is_candidate_title(title)
                     if relevant and is_us_location(location):
-                        if board and external_path.startswith('/job/'):
-                            job_url = f'{base_url}/en-US/{board}{external_path}'
-                        else:
-                            job_url = f'{base_url}{external_path}'
                         jobs.append({
                             'id': f'workday_{tenant}_{external_path}',
                             'company': company,
                             'title': title,
                             'location': location,
-                            'url': job_url,
+                            'url': _workday_job_url(base_url, board, external_path),
                             'board': 'Workday',
                                 })
                 total = data.get('total', 0)
