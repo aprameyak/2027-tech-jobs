@@ -3070,5 +3070,29 @@
     "sponsorship": "Unknown",
     "citizenship": "Yes \u2014 U.S. citizenship required (security clearance prerequisite)",
     "date_added": "2026-07-11"
+  },
+  {
+    "company": "Palantir",
+    "role": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+    "location": "New York, NY",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-12"
+  },
+  {
+    "company": "Palantir",
+    "role": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+    "location": "Palo Alto, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-12"
   }
 ]
