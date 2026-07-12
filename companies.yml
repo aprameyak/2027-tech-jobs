@@ -211,6 +211,10 @@ workday:
     tenant: capitalone
     instance: wd12
     board: Capital_One
+  - name: Ciena
+    tenant: ciena
+    instance: wd5
+    board: Careers
   - name: Cisco
     tenant: cisco
     instance: wd5
