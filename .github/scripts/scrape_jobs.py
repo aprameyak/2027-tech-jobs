@@ -506,9 +506,14 @@ def add_job_directly(job, listings_file, readme_file):
         else:
             listings = []
 
-        existing_urls = {e.get('url', '').split('?')[0].rstrip('/') for e in listings}
-        new_url_norm = entry['url'].split('?')[0].rstrip('/')
-        if new_url_norm in existing_urls:
+        def _norm_url(u):
+            u = u.split('?')[0].rstrip('/')
+            import re
+            u = re.sub(r'(myworkdayjobs\.com)/en-[A-Z]{2}/[^/]+/job/', r'\1/job/', u)
+            return u
+
+        existing_urls = {_norm_url(e.get('url', '')) for e in listings}
+        if _norm_url(entry['url']) in existing_urls:
             print(f'  [direct] Skipping duplicate URL: {entry["url"]}')
             return
 
