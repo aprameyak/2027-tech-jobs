@@ -15,20 +15,19 @@ STRIP_PARAMS = {
     'gh_src',
 }
 
-README_URL_RE = re.compile(r'<a href="([^"]+)">')
-
-
 def normalize_url(url):
     try:
         p = urlparse(url.strip())
         params = {k: v for k, v in parse_qs(p.query, keep_blank_values=True).items()
                   if k.lower() not in STRIP_PARAMS}
-        return urlunparse(p._replace(
+        u = urlunparse(p._replace(
             scheme=p.scheme.lower(),
             netloc=p.netloc.lower(),
             query=urlencode(sorted(params.items()), doseq=True),
             fragment='',
         ))
+        u = re.sub(r'(myworkdayjobs\.com)/en-[A-Z]{2}/[^/]+/job/', r'\1/job/', u)
+        return u
     except Exception:
         return url
 
@@ -235,24 +234,26 @@ def main():
     row = format_row(fields, table_type)
     print(f'Formatted row: {row}')
 
+    apply_link = fields.get('Direct Application Link', '').strip()
+
+    listings = []
+    if LISTINGS_FILE.exists():
+        with open(LISTINGS_FILE) as f:
+            listings = json.load(f)
+
+    existing_urls = {normalize_url(e.get('url', '')) for e in listings}
+    if apply_link and normalize_url(apply_link) in existing_urls:
+        print(f'SKIP: listing already exists (link found: {apply_link})')
+        sys.exit(0)
+
     with open('README.md', 'r') as f:
         content = f.read()
-
-    apply_link = fields.get('Direct Application Link', '').strip()
-    existing = {normalize_url(u) for u in README_URL_RE.findall(content)}
-    if apply_link and normalize_url(apply_link) in existing:
-        print(f'SKIP: listing already exists in README (link found: {apply_link})')
-        sys.exit(0)
 
     new_content = insert_row(content, table_type, row)
 
     with open('README.md', 'w') as f:
         f.write(new_content)
 
-    listings = []
-    if LISTINGS_FILE.exists():
-        with open(LISTINGS_FILE) as f:
-            listings = json.load(f)
     listings.append({
         'company': fields.get('Company Name', '').strip(),
         'role': fields.get('Role / Job Title', '').strip(),
