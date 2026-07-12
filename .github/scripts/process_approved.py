@@ -20,28 +20,25 @@ STRIP_PARAMS = {
     'gh_src',
 }
 
-README_URL_RE = re.compile(r'<a href="([^"]+)">')
-
-
 def normalize_url(url):
     try:
         p = urlparse(url.strip())
         params = {k: v for k, v in parse_qs(p.query, keep_blank_values=True).items()
                   if k.lower() not in STRIP_PARAMS}
-        return urlunparse(p._replace(
+        u = urlunparse(p._replace(
             scheme=p.scheme.lower(),
             netloc=p.netloc.lower(),
             query=urlencode(sorted(params.items()), doseq=True),
             fragment='',
         ))
+        u = re.sub(r'(myworkdayjobs\.com)/en-[A-Z]{2}/[^/]+/job/', r'\1/job/', u)
+        return u
     except Exception:
         return url
 
 
-def existing_normalized_urls(content, listings):
-    readme = {normalize_url(u) for u in README_URL_RE.findall(content)}
-    stored = {normalize_url(l.get('url', '')) for l in listings}
-    return readme | stored
+def existing_normalized_urls(listings):
+    return {normalize_url(l.get('url', '')) for l in listings}
 
 
 def get_approved_issues(token, repo):
@@ -309,7 +306,7 @@ def main():
         content = f.read()
 
     listings = load_listings()
-    seen_normalized = existing_normalized_urls(content, listings)
+    seen_normalized = existing_normalized_urls(listings)
     added = 0
 
     for issue in issues:

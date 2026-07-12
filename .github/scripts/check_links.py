@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 
+import json
 import re
 import time
+from pathlib import Path
+
 import requests
 
 SKIP_DOMAINS = [
@@ -20,7 +23,7 @@ HEADERS = {
 }
 
 APPLY_BTN_PATTERN = re.compile(
-    r'<a href="([^"]+)"><img src="https://i\.imgur\.com/u1KNU8z\.png" width="118" alt="Apply"></a>'
+    r'<a href="([^"]+)"[^>]*><img src="https://i\.imgur\.com/u1KNU8z\.png" width="118" alt="Apply"></a>'
 )
 
 
@@ -47,7 +50,7 @@ def main():
     matches = list(APPLY_BTN_PATTERN.finditer(content))
     print(f'Found {len(matches)} links to check')
 
-    dead_links = []
+    dead = []
     for match in matches:
         url = match.group(1)
         if should_skip(url):
@@ -58,17 +61,32 @@ def main():
         alive = is_link_alive(url)
         if not alive:
             print(f'  DEAD: {url}')
-            dead_links.append(match.group(0))
+            dead.append((url, match.group(0)))
         else:
             print(f'  OK')
         time.sleep(0.75)
 
-    if dead_links:
-        for btn in dead_links:
+    if dead:
+        dead_urls = {url for url, _ in dead}
+
+        for url, btn in dead:
             content = content.replace(btn, '🔒')
         with open('README.md', 'w') as f:
             f.write(content)
-        print(f'\nMarked {len(dead_links)} dead link(s) as 🔒')
+
+        listings_file = Path('listings.json')
+        if listings_file.exists():
+            with open(listings_file) as f:
+                listings = json.load(f)
+            for entry in listings:
+                if entry.get('url', '') in dead_urls:
+                    entry['url'] = ''
+            tmp = listings_file.with_suffix('.tmp')
+            with open(tmp, 'w') as f:
+                json.dump(listings, f, indent=2)
+            tmp.replace(listings_file)
+
+        print(f'\nMarked {len(dead)} dead link(s) as 🔒')
     else:
         print('\nAll checked links are active')
 

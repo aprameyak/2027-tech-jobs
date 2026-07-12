@@ -19,6 +19,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install dependencies
+        run: pip install requests
+
       - name: Validate issue format
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
