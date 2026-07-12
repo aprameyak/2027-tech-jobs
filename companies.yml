@@ -47,6 +47,8 @@ greenhouse:
     slug: databricks
   - name: Datadog
     slug: datadog
+  - name: Descript
+    slug: descript
   - name: Discord
     slug: discord
   - name: DoorDash
@@ -75,6 +77,8 @@ greenhouse:
     slug: imc
   - name: Instacart
     slug: instacart
+  - name: Intercom
+    slug: intercom
   - name: Jump Trading
     slug: jumptrading
   - name: KAYAK
@@ -137,6 +141,8 @@ greenhouse:
     slug: towerresearchcapital
   - name: Twilio
     slug: twilio
+  - name: Typeform
+    slug: typeform
   - name: Twitch
     slug: twitch
   - name: Uber
@@ -157,42 +163,25 @@ lever:
     slug: spotify
 
 smartrecruiters:
+  - name: Aiven
+    identifier: Aiven
   - name: Algolia
     identifier: Algolia
+  - name: Codeium
+    identifier: Codeium
   - name: Criteo
     identifier: Criteo
+  - name: Glean
+    identifier: Glean
+  - name: Hasura
+    identifier: Hasura
   - name: Klarna
     identifier: Klarna
   - name: Visa
     identifier: Visa
-
-workable:
-  - name: Browserbase
-    slug: browserbase
-  - name: Codeium
-    slug: codeium
-  - name: Descript
-    slug: descript
-  - name: Glean
-    slug: glean
-  - name: Notion Calendar
-    slug: notioncalendar
   - name: Weights & Biases
-    slug: wandb
+    identifier: WeightsAndBiases
 
-recruitee:
-  - name: Intercom
-    slug: intercom
-  - name: Miro
-    slug: miro
-  - name: Typeform
-    slug: typeform
-
-pinpoint:
-  - name: Aiven
-    slug: aiven
-  - name: Hasura
-    slug: hasura
 
 workday:
   - name: Adobe
@@ -301,6 +290,8 @@ workday:
     board: zoom
 
 linkedin:
+  - name: Apple
+    company_id: 162479
   - name: Google
     company_id: 1441
   - name: Microsoft
@@ -327,6 +318,8 @@ ashby:
     slug: anyscale
   - name: Benchling
     slug: benchling
+  - name: Browserbase
+    slug: browserbase
   - name: Cerebras
     slug: cerebras
   - name: Cohere
@@ -349,6 +342,8 @@ ashby:
     slug: harvey
   - name: Linear
     slug: linear
+  - name: Miro
+    slug: miro
   - name: Modal
     slug: modal
   - name: Modern Treasury

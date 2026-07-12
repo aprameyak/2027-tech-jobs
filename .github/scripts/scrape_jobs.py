@@ -1022,72 +1022,6 @@ def scrape_amazon():
     return jobs
 
 
-def scrape_apple():
-    url = 'https://jobs.apple.com/api/role/search'
-    headers = {
-        **HEADERS,
-        'Content-Type': 'application/json',
-        'Accept': 'application/json',
-        'Referer': 'https://jobs.apple.com/',
-    }
-
-    queries = ['intern', 'new grad', 'university']
-    seen_ids = set()
-    jobs = []
-
-    for query in queries:
-        page = 1
-        while True:
-            payload = {
-                'filters': {
-                    'postingpostLocation': ['postLocation-USA'],
-                },
-                'page': page,
-                'locale': 'en-us',
-                'query': query,
-            }
-            try:
-                resp = requests.post(url, json=payload, headers=headers, timeout=15)
-                if resp.status_code != 200:
-                    print(f'  [Apple] HTTP {resp.status_code} for query "{query}"')
-                    break
-                data = resp.json()
-                results = data.get('searchResults', [])
-                if not results:
-                    break
-                for job in results:
-                    job_id = str(job.get('positionId', job.get('id', '')))
-                    if job_id in seen_ids:
-                        continue
-                    seen_ids.add(job_id)
-
-                    title = job.get('postingTitle', '')
-                    external_path = job.get('externalPath', '')
-                    loc_list = job.get('locations', [])
-                    location = loc_list[0].get('name', '') if loc_list else ''
-                    apply_url = f'https://jobs.apple.com/en-us/details/{job_id}{external_path}' if job_id else ''
-
-                    relevant = is_candidate_title(title)
-                    if relevant:
-                        jobs.append({
-                            'id': f'apple_{job_id}',
-                            'company': 'Apple',
-                            'title': title,
-                            'location': location,
-                            'url': apply_url,
-                            'board': 'Apple Jobs',
-                                })
-
-                total_pages = data.get('totalPages', 1)
-                if page >= total_pages:
-                    break
-                page += 1
-                time.sleep(0.5)
-            except Exception as e:
-                print(f'  [Apple] Error for query "{query}": {e}')
-                break
-
-    return jobs
 
 
 def create_github_issue(job, token, repo):
@@ -1256,12 +1190,6 @@ def main():
     except Exception as e:
         print(f'  [Amazon] Scraper crashed: {e}')
     time.sleep(0.4)
-
-    print('Checking Apple (jobs.apple.com)...')
-    try:
-        collect_jobs(scrape_apple())
-    except Exception as e:
-        print(f'  [Apple] Scraper crashed: {e}')
 
     print(f'\nPass 1 complete: {len(candidate_jobs)} candidate job(s) to classify')
 
