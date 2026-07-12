@@ -862,12 +862,16 @@ def scrape_workday(company, tenant, instance, board):
                     location = job.get('locationsText', '')
                     relevant = is_candidate_title(title)
                     if relevant and is_us_location(location):
+                        if board and external_path.startswith('/job/'):
+                            job_url = f'{base_url}/en-US/{board}{external_path}'
+                        else:
+                            job_url = f'{base_url}{external_path}'
                         jobs.append({
                             'id': f'workday_{tenant}_{external_path}',
                             'company': company,
                             'title': title,
                             'location': location,
-                            'url': f'{base_url}{external_path}',
+                            'url': job_url,
                             'board': 'Workday',
                                 })
                 total = data.get('total', 0)
