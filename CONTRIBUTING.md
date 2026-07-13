@@ -17,73 +17,61 @@ Thank you for helping keep this list accurate and up to date!
 
 ## Adding a Job Listing
 
-### Step 1: Find the right file
+### Canonical source: `listings.json`
 
-| Role Type | File |
-|-----------|------|
-| Summer 2027 Internship | `internships/summer-2027.md` |
-| Off-Cycle / Co-op (Fall, Winter, Spring, Year-Round) | `offcycle/2027.md` |
-| 2027 New Grad (Full-Time) | `new-grad/2027.md` |
+All listings live in `listings.json`. The README tables are **always rebuilt** from that file — never edit table rows in the README directly.
 
-### Step 2: Format the row
+After editing `listings.json`, rebuild the README:
 
-**Summer internships and new grad** use this format:
-
-```markdown
-| Company Name | Role Title | City, State | Undergrad | <a href="APPLY_URL"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mon DD |
+```bash
+python3 .github/scripts/rebuild_readme.py
 ```
 
-**Off-cycle / co-ops** include an extra Term column:
+### Required fields
 
-```markdown
-| Company Name | Role Title | City, State | Fall | Undergrad | <a href="APPLY_URL"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mon DD |
-```
+Each entry in `listings.json` must include:
 
-**Column definitions:**
+| Field | Description |
+|-------|-------------|
+| `company` | Plain company name (no URL) |
+| `role` | Exact job title |
+| `location` | `City, ST` or `City, Province` (e.g. `San Francisco, CA`, `Toronto, ON`). Multiple: semicolon-separated (`New York, NY; Chicago, IL`). Remote: `Remote (US)` or `Remote (Canada)` |
+| `type` | `summer`, `offcycle`, or `newgrad` |
+| `season` | e.g. `Summer 2027`, `Fall 2026`, `Co-op`, or `2027 (New Grad — no specific season)` |
+| `education` | `Undergrad`, `Masters`, `PhD`, or semicolon-separated combinations |
+| `url` | Direct application link. Use `""` when closed (README shows 🔒) |
+| `sponsorship` | `Yes — sponsorship available`, `No — does NOT offer sponsorship`, or `Unknown` |
+| `citizenship` | `Yes — U.S. citizenship required`, `No`, or `Unknown` |
+| `date_added` | `YYYY-MM-DD` — set once when first added; do not change on reclassify |
 
-| Column | Description |
+### Table classification
+
+| `type` | When to use |
 |--------|-------------|
-| `Company` | Plain company name — **no hyperlink** |
-| `Role` | Exact job title. Append 🛂 if no sponsorship, 🇺🇸 if U.S. citizenship required. |
-| `Location` | `City, ST` using two-letter state/province code (e.g. `San Francisco, CA` or `Toronto, ON`). Remote: `Remote (US)` or `Remote (Canada)`. Multiple locations: `City1, ST</br>City2, ST`. Many locations: `<details>` block. |
-| `Term` | *(Off-cycle only)* Fall / Winter / Spring / Year-Round |
-| `Education` | `Undergrad`, `Masters`, `PhD`, or `Undergrad / Masters` |
-| `Application/Link` | HTML image-link button (see format above). Use 🔒 when closed. |
-| `Date Posted` | `Mon DD` format, e.g. `Jul 5` |
+| `summer` | Summer 2027 internships only |
+| `offcycle` | Fall/Spring/Winter internships, co-ops, non-Summer-2027 terms, and Summer 2026 roles still open |
+| `newgrad` | Full-time 2027 entry-level roles |
 
-**Multiple roles at the same company** — use `↳`:
+### Sponsorship flags in README
 
-```markdown
-| Acme Corp | Software Engineer Intern | San Francisco, CA | Undergrad | <a href="URL1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
-| ↳ | Backend Engineer Intern | New York, NY | Undergrad | <a href="URL2"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
-```
+- 🛂 = company does not offer visa sponsorship
+- 🇺🇸 = U.S. citizenship required
 
-**Many locations** — use a `<details>` block:
+These are derived from `sponsorship` and `citizenship` fields when the README is rebuilt.
 
-```markdown
-| Acme Corp | Software Engineer Intern | <details><summary>**3 locations**</summary>San Francisco, CA</br>New York, NY</br>Seattle, WA</details> | Undergrad | <a href="URL"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
-```
+### Marking a role as closed
 
-**Marking a role as closed:**
-
-```markdown
-| Acme Corp | Software Engineer Intern | San Francisco, CA | Undergrad | 🔒 | Jul 5 |
-```
-
-### Step 3: Insert in alphabetical order
-
-Entries are sorted **alphabetically by company name**. The only exception is `↳` rows, which always immediately follow their parent company row.
-
-### Step 4: Verify your link
-
-- The apply link goes directly to the job posting, not just the careers homepage.
-- The posting is publicly accessible (no login required).
+Set `"url": ""` in `listings.json`, then rebuild the README. The Apply button becomes 🔒.
 
 ---
 
 ## Scope
 
-This repository is **exclusively for roles in the United States, Canada, or Remote** positions.
+This repository is **exclusively for SWE/CS-adjacent roles** in the **United States, Canada, or Remote** (US/Canada).
+
+In scope: software engineering, data/ML/AI, quant research/trading, product management, cybersecurity.
+
+Out of scope: embedded/firmware, hardware, mechanical/electrical/civil engineering, manufacturing, sales, marketing, HR, legal, non-quant finance.
 
 ---
 
@@ -94,18 +82,24 @@ This repository is **exclusively for roles in the United States, Canada, or Remo
    ```bash
    git checkout -b add/company-name-role
    ```
-3. **Make your changes** following the guidelines above.
+3. **Edit `listings.json`** and run `python3 .github/scripts/rebuild_readme.py`.
 4. **Commit** with a descriptive message:
    ```bash
    git commit -m "Add [Company] [Role]"
    ```
-5. **Open a pull request** against `main` and fill out the PR template.
+5. **Open a pull request** against `main`.
 
 ---
 
 ## Opening an Issue
 
-If you prefer not to submit a PR, [open an issue](https://github.com/aprameyak/2027-tech-jobs/issues/new/choose) using the Add Job template and a maintainer will add the listing.
+If you prefer not to submit a PR, [open an issue](https://github.com/aprameyak/2027-tech-jobs/issues/new/choose) using the Add Job template. A maintainer can approve it with the `approved` label, which triggers the automated add workflow.
+
+To approve issues locally:
+
+```bash
+./approve.sh <issue_number>
+```
 
 ---
 
