@@ -3098,7 +3098,7 @@
   {
     "company": "Intel",
     "role": "Module Engineering Undergraduate Intern",
-    "location": "US, Oregon, Hillsboro",
+    "location": "Hillsboro, OR",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -3110,7 +3110,7 @@
   {
     "company": "Ciena",
     "role": "Junior Test Engineer, Test Station Validation",
-    "location": "Ottawa",
+    "location": "Ottawa, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -3122,7 +3122,7 @@
   {
     "company": "Ciena",
     "role": "Platform Software Developer - 2026 New Grads",
-    "location": "Atlanta",
+    "location": "Atlanta, GA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -3134,7 +3134,7 @@
   {
     "company": "Ciena",
     "role": "Optical DSP Engineer (New Grad - Masters, PhD, Post Doc)",
-    "location": "Atlanta",
+    "location": "Atlanta, GA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "PhD",
@@ -3146,7 +3146,7 @@
   {
     "company": "Ciena",
     "role": "AI-Enabled Software Test Engineer - New Grad",
-    "location": "Ottawa",
+    "location": "Ottawa, ON",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -3158,7 +3158,7 @@
   {
     "company": "Ciena",
     "role": "Software Engineer 8 month Co-op - Fall/Winter 2026",
-    "location": "Ottawa",
+    "location": "Ottawa, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -3170,7 +3170,7 @@
   {
     "company": "Ciena",
     "role": "Software Development\u2013 Kubernetes Platform Migration and Workflow Orchestration Intern",
-    "location": "Ottawa",
+    "location": "Ottawa, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -3182,7 +3182,7 @@
   {
     "company": "Ciena",
     "role": "Optical Platform Systems Intern (Fall 2026 - 4 months)",
-    "location": "Ottawa",
+    "location": "Ottawa, ON",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Masters",
@@ -3194,7 +3194,7 @@
   {
     "company": "Ciena",
     "role": "QA Automation Developer Intern (Fall 2026 - 8 months)",
-    "location": "Ottawa",
+    "location": "Ottawa, ON",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -3206,7 +3206,7 @@
   {
     "company": "Ciena",
     "role": "Product Verification Engineer Intern (12 months)",
-    "location": "Ottawa",
+    "location": "Ottawa, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -3218,7 +3218,7 @@
   {
     "company": "Ciena",
     "role": "Embedded Software Engineer \u2013 Intern",
-    "location": "Ottawa",
+    "location": "Ottawa, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -3230,7 +3230,7 @@
   {
     "company": "Zipline",
     "role": "Enterprise Systems Software Engineer Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
+    "location": "South San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Masters",
@@ -3242,7 +3242,7 @@
   {
     "company": "Zipline",
     "role": "Embedded Software Engineer Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
+    "location": "South San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -3254,7 +3254,7 @@
   {
     "company": "Zipline",
     "role": "Applications Engineer Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
+    "location": "South San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
