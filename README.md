@@ -30,11 +30,11 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
-| Ciena | Junior Test Engineer, Test Station Validation | Ottawa | Undergrad | <a href="https://ciena.wd5.myworkdayjobs.com/job/Ottawa/Junior-Test-Engineer--Test-Station-Validation_R031283" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
-| ↳ | Software Development– Kubernetes Platform Migration and Workflow Orchestration Intern | Ottawa | Undergrad | <a href="https://ciena.wd5.myworkdayjobs.com/job/Ottawa/Software-Development--Kubernetes-Platform-Migration-and-Workflow-Orchestration-Intern_R031308" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
-| ↳ | Product Verification Engineer Intern (12 months) | Ottawa | Undergrad | <a href="https://ciena.wd5.myworkdayjobs.com/job/Ottawa/Product-Verification-Engineer-Intern--12-months-_R031002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
-| ↳ | Embedded Software Engineer – Intern | Ottawa | Undergrad | <a href="https://ciena.wd5.myworkdayjobs.com/job/Ottawa/Embedded-Software-Engineer---Intern_R031146" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
-| Intel | Module Engineering Undergraduate Intern | US, Oregon, Hillsboro | Undergrad | <a href="https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0285313" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
+| Ciena | Junior Test Engineer, Test Station Validation | Ottawa | Undergrad | 🔒 | Jul 12 |
+| ↳ | Software Development– Kubernetes Platform Migration and Workflow Orchestration Intern | Ottawa | Undergrad | 🔒 | Jul 12 |
+| ↳ | Product Verification Engineer Intern (12 months) | Ottawa | Undergrad | 🔒 | Jul 12 |
+| ↳ | Embedded Software Engineer – Intern | Ottawa | Undergrad | 🔒 | Jul 12 |
+| Intel | Module Engineering Undergraduate Intern | US, Oregon, Hillsboro | Undergrad | 🔒 | Jul 12 |
 | Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | New York, NY | Undergrad | <a href="https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
 | ↳ | Forward Deployed Infrastructure Engineer, Internship - US Government | Palo Alto, CA | Undergrad | <a href="https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
 | Autodesk | Intern, Machine Learning Developer | Toronto, ON | Undergrad | <a href="https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
@@ -161,9 +161,9 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
-| Ciena | Software Engineer 8 month Co-op - Fall/Winter 2026 | Ottawa | Co-op | Undergrad | <a href="https://ciena.wd5.myworkdayjobs.com/job/Ottawa/Software-Engineer-8-month-Co-op---Fall-Winter-2026_R031200" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
-| ↳ | Optical Platform Systems Intern (Fall 2026 - 4 months) | Ottawa | Fall 2026 | Masters | <a href="https://ciena.wd5.myworkdayjobs.com/job/Ottawa/Optical-Platform-Systems-Intern--Fall-2026---4-months-_R031001" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
-| ↳ | QA Automation Developer Intern (Fall 2026 - 8 months) | Ottawa | Fall 2026 | Undergrad | <a href="https://ciena.wd5.myworkdayjobs.com/job/Ottawa/QA-Automation-Developer-Intern--Fall-2026---8-months-_R030980" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
+| Ciena | Software Engineer 8 month Co-op - Fall/Winter 2026 | Ottawa | Co-op | Undergrad | 🔒 | Jul 12 |
+| ↳ | Optical Platform Systems Intern (Fall 2026 - 4 months) | Ottawa | Fall 2026 | Masters | 🔒 | Jul 12 |
+| ↳ | QA Automation Developer Intern (Fall 2026 - 8 months) | Ottawa | Fall 2026 | Undergrad | 🔒 | Jul 12 |
 | Zipline | Enterprise Systems Software Engineer Intern (Fall 2026) | South San Francisco, California, USA | Fall 2026 | Masters | <a href="https://www.zipline.com/open-roles?gh_jid=7767667003" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
 | ↳ | Embedded Software Engineer Intern (Fall 2026) | South San Francisco, California, USA | Fall 2026 | Undergrad | <a href="https://www.zipline.com/open-roles?gh_jid=7765240003" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
 | ↳ | Applications Engineer Intern (Fall 2026) | South San Francisco, California, USA | Fall 2026 | Undergrad | <a href="https://www.zipline.com/open-roles?gh_jid=7765099003" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
@@ -229,9 +229,9 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
-| Ciena | Platform Software Developer - 2026 New Grads | Atlanta | Undergrad | <a href="https://ciena.wd5.myworkdayjobs.com/job/Atlanta/Platform-Software-Developer---2026-New-Grads_R031084-1" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
-| ↳ | Optical DSP Engineer (New Grad - Masters, PhD, Post Doc) | Atlanta | PhD | <a href="https://ciena.wd5.myworkdayjobs.com/job/Atlanta/Optical-DSP-Engineer--New-Grad---Masters--PhD--Post-Doc-_R030753-1" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
-| ↳ | AI-Enabled Software Test Engineer - New Grad | Ottawa | Undergrad | <a href="https://ciena.wd5.myworkdayjobs.com/job/Ottawa/AI-Enabled-Software-Test-Engineer-II_R030842" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 12 |
+| Ciena | Platform Software Developer - 2026 New Grads | Atlanta | Undergrad | 🔒 | Jul 12 |
+| ↳ | Optical DSP Engineer (New Grad - Masters, PhD, Post Doc) | Atlanta | PhD | 🔒 | Jul 12 |
+| ↳ | AI-Enabled Software Test Engineer - New Grad | Ottawa | Undergrad | 🔒 | Jul 12 |
 | Adobe | 2026 University Graduate - Machine Learning Engineer | Seattle, WA | Undergrad | <a href="https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | Five Rings | Campus Full Time 2026 - Trading Operations Engineer | New York, NY | Undergrad | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4017982008" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | Jump Trading | Campus Systems Engineer (Full-Time) | Chicago, IL | Masters | <a href="https://www.jumptrading.com/hr/job?gh_jid=8008112" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
