@@ -1026,7 +1026,7 @@ def scrape_amazon():
 
 def create_github_issue(job, token, repo):
     listing_type, season = infer_listing_type(job['title'])
-    confident = job.get('confident', True)
+    confident = job.get('confident', False)
     issue_title = f'[JOB] {job["company"]} — {job["title"]}'
 
     if confident:
