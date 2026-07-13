@@ -3214,5 +3214,17 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-13"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Software Engineer",
+    "location": "Mountain View, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.microsoft.com/us/en/job/200043429/Software-Engineer",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-13"
   }
 ]
