@@ -30,6 +30,16 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Aquatic | Quantitative Researcher, PhD | <details><summary>**2 locations**</summary>Chicago</br>New York</details> | PhD | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8387685002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
+| Databricks | Systems PhD - Software Engineer | <details><summary>**2 locations**</summary>Bellevue, Washington</br>Seattle, Washington</details> | PhD | <a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
+| Figma | Data Scientist, Core Data -  PhD (2026) | San Francisco, CA • New York, NY | PhD | <a href="https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
+| IMC Trading | Graduate Software Engineer (2026) | Aarhus, Central Denmark Region, Denmark | Undergrad | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4635938101" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
+| ↳ | Graduate Software Engineer | Chicago, United States | Undergrad | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4818790101" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
+| ↳ | Graduate Quantitative Trader | Chicago, United States | Undergrad | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4751729101" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
+| ↳ | Graduate Quantitative Researcher (PhD) | Chicago, United States | PhD | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4912325101" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
+| ↳ | Graduate Quantitative Researcher (BS/MS) | Chicago, United States | Undergrad | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4907368101" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
+| ↳ | Graduate Machine Learning Researcher - Chicago | Chicago, United States | Undergrad | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4907416101" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
+| Scale AI | ICML 2026 - University Recruiting | San Francisco, CA | Undergrad | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4708171005" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
 | Ciena | Junior Test Engineer, Test Station Validation | Ottawa | Undergrad | 🔒 | Jul 12 |
 | ↳ | Software Development– Kubernetes Platform Migration and Workflow Orchestration Intern | Ottawa | Undergrad | 🔒 | Jul 12 |
 | ↳ | Product Verification Engineer Intern (12 months) | Ottawa | Undergrad | 🔒 | Jul 12 |
@@ -161,6 +171,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| DoorDash | AI Research Fellowship, (Summer and Fall 2026) | San Francisco, CA | Fall 2026 | Undergrad | <a href="https://job-boards.greenhouse.io/doordashusa/jobs/7848317" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
 | Ciena | Software Engineer 8 month Co-op - Fall/Winter 2026 | Ottawa | Co-op | Undergrad | 🔒 | Jul 12 |
 | ↳ | Optical Platform Systems Intern (Fall 2026 - 4 months) | Ottawa | Fall 2026 | Masters | 🔒 | Jul 12 |
 | ↳ | QA Automation Developer Intern (Fall 2026 - 8 months) | Ottawa | Fall 2026 | Undergrad | 🔒 | Jul 12 |
