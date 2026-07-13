@@ -68,15 +68,16 @@ def get_approved_issues(token, repo):
     return issues
 
 
-def comment_and_close(token, repo, issue_number):
+def comment_and_close(token, repo, issue_number, message=None):
     headers = {
         'Authorization': f'token {token}',
         'Accept': 'application/vnd.github.v3+json',
     }
+    body = message or '✅ Listing added to the repo! Thanks for contributing.'
     requests.post(
         f'https://api.github.com/repos/{repo}/issues/{issue_number}/comments',
         headers=headers,
-        json={'body': '✅ Listing added to the repo! Thanks for contributing.'},
+        json={'body': body},
         timeout=10,
     )
     requests.patch(
@@ -181,7 +182,10 @@ def main():
 
         if normalize_url(apply_link) in seen_normalized:
             print(f'  Issue #{number}: already in repo, closing')
-            comment_and_close(token, repo, number)
+            comment_and_close(
+                token, repo, number,
+                '✅ This listing is already in the repo — closing without adding a duplicate.',
+            )
             time.sleep(0.5)
             continue
 
