@@ -106,12 +106,18 @@ def parse_issue_body(body):
 def determine_table(fields):
     listing_type = fields.get('Listing Type', '')
     season = fields.get('Season / Term', '')
+    role = fields.get('Role / Job Title', '').lower()
+
     if 'New Grad' in listing_type or '2027 (New Grad' in season:
         return 'newgrad'
-    elif season == 'Summer 2027':
+
+    # Graduate full-time roles (e.g. IMC) are often mislabeled as internships
+    if re.search(r'\bgraduate\b', role) and 'intern' not in role:
+        return 'newgrad'
+
+    if season == 'Summer 2027':
         return 'summer'
-    else:
-        return 'offcycle'
+    return 'offcycle'
 
 
 def load_listings():
