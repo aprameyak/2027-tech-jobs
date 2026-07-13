@@ -128,19 +128,57 @@ CA_PROVINCE_ABBRS = {
 
 def normalize_location(location):
     """
-    Convert ATS-style location strings (e.g. "Seattle, Washington") to
-    "City, ST" format. Falls back to the original string if normalization fails.
+    Convert ATS-style location strings to City, ST / City, Province format.
+    Handles semicolon-separated multi-locations, bare city names, and
+    US, State, City ordering from Workday.
     """
     if not location:
         return location
-    parts = [p.strip() for p in location.split(',')]
-    if len(parts) == 2:
-        city, region = parts[0], parts[1]
-        region_lower = region.lower()
-        abbr = US_STATE_ABBRS.get(region_lower) or CA_PROVINCE_ABBRS.get(region_lower)
-        if abbr:
-            return f'{city}, {abbr}'
-    return location
+
+    CITY_DEFAULTS = {
+        'ottawa': 'Ottawa, ON', 'toronto': 'Toronto, ON', 'montreal': 'Montreal, QC',
+        'vancouver': 'Vancouver, BC', 'atlanta': 'Atlanta, GA', 'chicago': 'Chicago, IL',
+        'boston': 'Boston, MA', 'seattle': 'Seattle, WA', 'austin': 'Austin, TX',
+    }
+
+    def _normalize_part(part):
+        part = part.strip()
+        if not part:
+            return part
+        pl = part.lower()
+        if pl in ('remote', 'remote us', 'remote - us', 'remote usa'):
+            return 'Remote (US)'
+        if pl in ('remote canada', 'remote - canada'):
+            return 'Remote (Canada)'
+
+        m = re.match(r'^US,\s*([^,]+),\s*(.+)$', part, re.I)
+        if m:
+            region, city = m.group(1).strip(), m.group(2).strip()
+            abbr = US_STATE_ABBRS.get(region.lower()) or CA_PROVINCE_ABBRS.get(region.lower())
+            if abbr:
+                return f'{city}, {abbr}'
+
+        m = re.match(r'^(.+),\s*([^,]+),\s*USA$', part, re.I)
+        if m:
+            city, region = m.group(1).strip(), m.group(2).strip().lower()
+            abbr = US_STATE_ABBRS.get(region)
+            if abbr:
+                return f'{city}, {abbr}'
+
+        pieces = [p.strip() for p in part.split(',')]
+        if len(pieces) == 2:
+            city, region = pieces[0], pieces[1]
+            abbr = US_STATE_ABBRS.get(region.lower()) or CA_PROVINCE_ABBRS.get(region.lower())
+            if abbr:
+                return f'{city}, {abbr}'
+
+        if pl in CITY_DEFAULTS:
+            return CITY_DEFAULTS[pl]
+        return part
+
+    location = location.replace('•', ';')
+    parts = [_normalize_part(p) for p in re.split(r'[;\n]', location) if p.strip()]
+    return '; '.join(parts)
 
 
 def load_title_cache():

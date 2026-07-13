@@ -132,11 +132,56 @@ def save_listings(listings):
         json.dump(listings, f, indent=2)
 
 
+def normalize_location(location):
+    """Normalize issue-form locations to City, ST / City, Province."""
+    if not location:
+        return location
+    US = {
+        'alabama': 'AL', 'alaska': 'AK', 'arizona': 'AZ', 'arkansas': 'AR', 'california': 'CA',
+        'colorado': 'CO', 'connecticut': 'CT', 'delaware': 'DE', 'florida': 'FL', 'georgia': 'GA',
+        'illinois': 'IL', 'indiana': 'IN', 'massachusetts': 'MA', 'michigan': 'MI', 'minnesota': 'MN',
+        'new york': 'NY', 'north carolina': 'NC', 'ohio': 'OH', 'oregon': 'OR', 'pennsylvania': 'PA',
+        'tennessee': 'TN', 'texas': 'TX', 'utah': 'UT', 'virginia': 'VA', 'washington': 'WA',
+        'district of columbia': 'DC',
+    }
+    CA = {'ontario': 'ON', 'quebec': 'QC', 'british columbia': 'BC', 'alberta': 'AB'}
+    CITY = {
+        'ottawa': 'Ottawa, ON', 'toronto': 'Toronto, ON', 'atlanta': 'Atlanta, GA',
+        'chicago': 'Chicago, IL', 'seattle': 'Seattle, WA', 'austin': 'Austin, TX',
+    }
+
+    def part(p):
+        p = p.strip()
+        if not p:
+            return p
+        pl = p.lower()
+        if pl.startswith('remote'):
+            return 'Remote (US)' if 'canada' not in pl else 'Remote (Canada)'
+        m = re.match(r'^US,\s*([^,]+),\s*(.+)$', p, re.I)
+        if m:
+            ab = US.get(m.group(1).strip().lower()) or CA.get(m.group(1).strip().lower())
+            if ab:
+                return f'{m.group(2).strip()}, {ab}'
+        bits = [b.strip() for b in p.split(',')]
+        if len(bits) == 2:
+            ab = US.get(bits[1].lower()) or CA.get(bits[1].lower())
+            if ab:
+                return f'{bits[0]}, {ab}'
+        if len(bits) == 3 and bits[2].upper() == 'USA':
+            ab = US.get(bits[1].lower())
+            if ab:
+                return f'{bits[0]}, {ab}'
+        return CITY.get(pl, p)
+
+    location = location.replace('•', ';')
+    return '; '.join(part(p) for p in re.split(r'[;\n]', location) if p.strip())
+
+
 def listing_to_json(fields, table_type):
     return {
         'company': fields.get('Company Name', '').strip(),
         'role': fields.get('Role / Job Title', '').strip(),
-        'location': fields.get('Location', '').strip(),
+        'location': normalize_location(fields.get('Location', '').strip()),
         'type': table_type,
         'season': fields.get('Season / Term', '').strip(),
         'education': fields.get('Education Level', 'Undergrad').strip(),
