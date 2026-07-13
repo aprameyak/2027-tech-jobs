@@ -1,4 +1,9 @@
+1Password
+3M
+Abbott Laboratories
+AbbVie
 Abridge
+Accenture
 Adobe
 Affirm
 Airbnb
@@ -8,6 +13,8 @@ Akuna Capital
 Algolia
 Amazon
 Amplitude
+Analog Devices
+Anaplan
 Anduril
 Anthropic
 Anyscale
@@ -18,19 +25,26 @@ Astranis Space Technologies
 Aurora Innovation
 Autodesk
 AVEVA
+AvidXchange
 Base Power Company
 Benchling
+Bill.com
 BillionToOne
 BitGo
 BlackRock
-Block
 Bloomberg
 Blue Origin
+Boeing
 Boerboel
+Bolt
+Booz Allen Hamilton
 Box
 Brex
 Browserbase
 ByteDance
+Cadence Design Systems
+CAE Inc.
+Canva
 Capital One
 Carta
 Centerfield
@@ -38,11 +52,8 @@ Cerebras
 Charles River Analytics
 Checkr
 Chime
-Circle
 Circleback
 Cisco
-Citadel
-Citi
 ClickHouse
 Cloudera
 Cloudflare
@@ -51,47 +62,60 @@ Codeium
 Cognition AI
 Cohere
 Coinbase
+Comcast NBCUniversal
 Commure
 Confluent
 Copart
+Coupa Software
 Criteo
 CrowdStrike
 CTGT
 Cubist Systematic Strategies
 Cursor
-D.E. Shaw
+CVS Health
 Databricks
 Datadog
 Decagon
+Dell Technologies
 Descript
+Deutsche Bank
 Discord
+DocuSign
 DoorDash
 DraftKings
 Dropbox
 Duolingo
+DXC Technology
 Edgehog Trading
 ElevenLabs
 Ellipsis Labs
+Endava
 Epic Games
+Esri
 Etched
+Experian
+Fidelity Investments
 Figma
 Figure
-Fiserv
 Five Rings
 Flexport
+Freshworks
 Gecko Robotics
 Gemini
 GenBio AI
 Glean
+Global Payments
 Goldman Sachs
 Google
+GoPro
 Grafana Labs
 Gusto
 Harvey
 Hasura
+Home Depot
 Homebase
+Hootsuite
 HubSpot
-Hudson River Trading
 iHerb
 IMC Trading
 Instacart
@@ -102,13 +126,16 @@ IXL Learning
 Jane Street
 JPMorgan Chase
 Jump Trading
+Juniper Networks
 KAYAK
-Kinaxis
-Klarna
+Kraken
 LaunchDarkly
+Lightspeed Commerce
 Linear
 LiveRamp
+Lucid Motors
 Lyft
+Marqeta
 Mastercard
 Mercury
 Meta
@@ -120,20 +147,26 @@ Modern Treasury
 MongoDB
 Morgan Stanley
 Motive
+Motorola Solutions
 Neon
+NerdWallet
 Netflix
 Netlify
 Nextdoor
 Niantic
+Northern Trust
 Notion
 Notion Calendar
+Nubank
 Nuro
 NVIDIA
 Okta
 OpenAI
 Optiver
+Oscar Health
 Palantir
 Parafin
+Payoneer
 PayPal
 Perplexity
 Persona
@@ -150,22 +183,22 @@ Poshmark
 PostHog
 Priceline
 Profound
-PwC
+Pure Storage
 Pylon
-Qualcomm
 Qualtrics
 Quora
 Rakuten International
 Ramp
 Reddit
-Remitly
 Renaissance Technologies
 Replit
 Riot Games
-Rivian
 Robinhood
 Roblox
 Rocket Companies
+Rocket Lab
+Roku
+Roland Berger
 Rubrik
 Runway
 SailPoint
@@ -175,12 +208,12 @@ Saronic Technologies
 Scale AI
 Sentry
 Seven Research
-Shopify
 Sierra
 Silicon Labs
 Skydio
-Snap
+Smartsheet
 Snowflake
+SoFi
 Sony
 SpaceX
 SpiderRock
@@ -190,27 +223,44 @@ Stoke Space
 Stripe
 StubHub
 Suno
+T. Rowe Price
+Take-Two Interactive
+Target Corporation
 Temporal
+Tenable
 TikTok
 Toast
 Tower Research Capital
 Trexquant
+TripAdvisor
 Twilio
 Twitch
 Two Sigma
 Typeform
-Uber
+U.S. Bank
+Upstart
 Valkyrie Trading
 Vanta
 Veeam Software
+Veeva Systems
 Vercel
 Verkada
 Visa
+VMware
 Voloridge Investment Management
+Wattpad
+Wayfair
 Waymo
+Wealthfront
+Wealthsimple
 Webflow
 Weights & Biases
-Workday
+Wells Fargo
+Western Digital
+Wise
 Zapier
 Zipline
 Zoom
+Zoox
+Zscaler
+Zynga
