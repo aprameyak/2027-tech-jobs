@@ -26,6 +26,46 @@ APPLY_BTN_PATTERN = re.compile(
     r'<a href="([^"]+)"[^>]*><img src="https://i\.imgur\.com/u1KNU8z\.png" width="118" alt="Apply"></a>'
 )
 
+WD_BARE = re.compile(r'^(https://([^.]+)\.(wd\d+)\.myworkdayjobs\.com)/job/')
+
+
+def load_workday_boards():
+    company_board = {}
+    tenant_board = {}
+    cur = None
+    section = None
+    tenant = None
+    for line in Path('companies.yml').read_text().splitlines():
+        if line.startswith('workday:'):
+            section = 'workday'
+            continue
+        if line.endswith(':') and not line.startswith(' '):
+            section = None
+        if section != 'workday':
+            continue
+        m = re.match(r'- name: (.+)', line)
+        if m:
+            cur = m.group(1).strip()
+        if cur and line.strip().startswith('tenant:'):
+            tenant = line.split('tenant:', 1)[1].strip()
+        if cur and line.strip().startswith('board:'):
+            board = line.split('board:', 1)[1].strip()
+            company_board[cur] = board
+            if tenant:
+                tenant_board[tenant] = board
+    return company_board, tenant_board
+
+
+def fix_workday_url(url, company_board, tenant_board, company=None):
+    m = WD_BARE.match(url)
+    if not m:
+        return url
+    base, tenant = m.group(1), m.group(2)
+    board = company_board.get(company or '') or tenant_board.get(tenant)
+    if not board:
+        return url
+    return url.replace(f'{base}/job/', f'{base}/{board}/job/')
+
 
 def should_skip(url):
     for domain in SKIP_DOMAINS:
@@ -43,28 +83,71 @@ def is_link_alive(url):
         return True
 
 
+def resolve_url(url, company_board, tenant_board, company=None):
+    """Return a working URL, trying Workday board injection if the bare URL 404s."""
+    if should_skip(url):
+        return url, True
+
+    if is_link_alive(url):
+        return url, True
+
+    fixed = fix_workday_url(url, company_board, tenant_board, company)
+    if fixed != url and is_link_alive(fixed):
+        print(f'  FIXED (board injection): {fixed}')
+        return fixed, True
+
+    return url, False
+
+
 def main():
+    company_board, tenant_board = load_workday_boards()
+
     with open('README.md', 'r') as f:
         content = f.read()
+
+    listings_file = Path('listings.json')
+    listings = []
+    listings_by_url = {}
+    if listings_file.exists():
+        with open(listings_file) as f:
+            listings = json.load(f)
+        for entry in listings:
+            u = entry.get('url', '')
+            if u:
+                listings_by_url[u] = entry
 
     matches = list(APPLY_BTN_PATTERN.finditer(content))
     print(f'Found {len(matches)} links to check')
 
     dead = []
+    url_replacements = {}
     for match in matches:
         url = match.group(1)
-        if should_skip(url):
-            print(f'  SKIP (bot-blocked domain): {url}')
-            continue
-
+        company = listings_by_url.get(url, {}).get('company')
         print(f'  Checking: {url}')
-        alive = is_link_alive(url)
+        resolved, alive = resolve_url(url, company_board, tenant_board, company)
         if not alive:
             print(f'  DEAD: {url}')
             dead.append((url, match.group(0)))
         else:
             print(f'  OK')
+            if resolved != url:
+                url_replacements[url] = resolved
         time.sleep(0.75)
+
+    if url_replacements:
+        for old, new in url_replacements.items():
+            content = content.replace(old, new)
+            for entry in listings:
+                if entry.get('url') == old:
+                    entry['url'] = new
+        with open('README.md', 'w') as f:
+            f.write(content)
+        tmp = listings_file.with_suffix('.tmp')
+        with open(tmp, 'w') as f:
+            json.dump(listings, f, indent=2)
+        tmp.replace(listings_file)
+        print(f'\nFixed {len(url_replacements)} Workday URL(s)')
 
     if dead:
         dead_urls = {url for url, _ in dead}
@@ -74,7 +157,6 @@ def main():
         with open('README.md', 'w') as f:
             f.write(content)
 
-        listings_file = Path('listings.json')
         if listings_file.exists():
             with open(listings_file) as f:
                 listings = json.load(f)
@@ -87,7 +169,7 @@ def main():
             tmp.replace(listings_file)
 
         print(f'\nMarked {len(dead)} dead link(s) as 🔒')
-    else:
+    elif not url_replacements:
         print('\nAll checked links are active')
 
 
