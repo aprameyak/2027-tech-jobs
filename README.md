@@ -4,10 +4,10 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
 
-🙏 **Contribute by submitting an [issue](https://github.com/aprameyak/2027-swe-jobs/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
+🙏 **Contribute by submitting an [issue](https://github.com/aprameyak/2027-tech-jobs/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
-[![Stars](https://img.shields.io/github/stars/aprameyak/2027-swe-jobs?style=flat-square&logo=github&color=f9d71c)](https://github.com/aprameyak/2027-swe-jobs/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/aprameyak/2027-swe-jobs?style=flat-square&logo=git&color=orange)](https://github.com/aprameyak/2027-swe-jobs/commits/main)
+[![Stars](https://img.shields.io/github/stars/aprameyak/2027-tech-jobs?style=flat-square&logo=github&color=f9d71c)](https://github.com/aprameyak/2027-tech-jobs/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/aprameyak/2027-tech-jobs?style=flat-square&logo=git&color=orange)](https://github.com/aprameyak/2027-tech-jobs/commits/main)
 
 ---
 

@@ -3,6 +3,7 @@
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 from datetime import datetime
@@ -19,6 +20,7 @@ STRIP_PARAMS = {
     'lever-source', 'lever-origin',
     'gh_src',
 }
+
 
 def normalize_url(url):
     try:
@@ -61,10 +63,7 @@ def get_approved_issues(token, repo):
         batch = resp.json()
         if not batch:
             break
-        label_names = lambda issue: [l['name'] for l in issue.get('labels', [])]
-        for issue in batch:
-            if 'auto-discovered' not in label_names(issue):
-                issues.append(issue)
+        issues.extend(batch)
         page += 1
     return issues
 
@@ -103,20 +102,6 @@ def parse_issue_body(body):
     return fields
 
 
-def format_location(location):
-    location = location.strip()
-    if ';' in location:
-        parts = [p.strip() for p in location.split(';') if p.strip()]
-    elif '\n' in location:
-        parts = [p.strip() for p in location.split('\n') if p.strip()]
-    else:
-        return location
-    if len(parts) <= 1:
-        return parts[0] if parts else location
-    inner = '</br>'.join(parts)
-    return f'<details><summary>**{len(parts)} locations**</summary>{inner}</details>'
-
-
 def determine_table(fields):
     listing_type = fields.get('Listing Type', '')
     season = fields.get('Season / Term', '')
@@ -126,140 +111,6 @@ def determine_table(fields):
         return 'summer'
     else:
         return 'offcycle'
-
-
-def format_row(fields, table_type):
-    company = fields.get('Company Name', '').strip()
-    sponsorship = fields.get('Visa Sponsorship?', '')
-    citizenship = fields.get('U.S. Citizenship Required?', '')
-    if 'not' in sponsorship.lower() or 'no —' in sponsorship.lower():
-        company += ' 🛂'
-    if 'yes —' in citizenship.lower():
-        company += ' 🇺🇸'
-
-    role = fields.get('Role / Job Title', '').strip()
-    location = format_location(fields.get('Location', ''))
-    education = fields.get('Education Level', 'Undergrad').strip()
-    apply_link = fields.get('Direct Application Link', '').strip()
-    date = datetime.now().strftime('%b %-d')
-
-    apply_btn = (
-        f'<a href="{apply_link}" target="_blank" rel="noopener noreferrer">'
-        f'<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">'
-        f'</a>'
-    )
-
-    if table_type == 'offcycle':
-        season = fields.get('Season / Term', '').strip()
-        return f'| {company} | {role} | {location} | {season} | {education} | {apply_btn} | {date} |'
-    else:
-        return f'| {company} | {role} | {location} | {education} | {apply_btn} | {date} |'
-
-
-def _company_sort_key(name):
-    name = re.sub(r'[\U0001F000-\U0001FFFF\u2600-\u26FF\u2700-\u27BF]', '', name)
-    return name.strip().lower()
-
-
-def _parse_date(date_str):
-    date_str = date_str.strip()
-    current_year = datetime.now().year
-    for year in [current_year, current_year - 1]:
-        try:
-            return datetime.strptime(f'{date_str} {year}', '%b %d %Y')
-        except ValueError:
-            pass
-    return None
-
-
-def _get_row_date(row):
-    cols = [c.strip() for c in row.split('|')]
-    cols = [c for c in cols if c]
-    return _parse_date(cols[-1]) if cols else None
-
-
-def _get_row_date_str(row):
-    cols = [c.strip() for c in row.split('|')]
-    cols = [c for c in cols if c]
-    return cols[-1].strip() if cols else ''
-
-
-def insert_row(content, table_marker, row):
-    start_marker = f'<!-- TABLE_START {table_marker} -->'
-    end_marker = f'<!-- TABLE_END {table_marker} -->'
-    start_idx = content.find(start_marker)
-    end_idx = content.find(end_marker)
-    if start_idx == -1:
-        print(f'ERROR: Could not find table marker: {start_marker}')
-        return None
-
-    after_start = content[start_idx:]
-    sep_match = re.search(r'\| [-| :]+\|\n', after_start)
-    if not sep_match:
-        print('ERROR: Could not find table separator row')
-        return None
-
-    header_end = start_idx + sep_match.end()
-    table_body = content[header_end:end_idx]
-
-    new_company_raw = row.split('|')[1].strip() if '|' in row else ''
-    new_key = _company_sort_key(new_company_raw)
-    new_date = _get_row_date(row)
-
-    lines = table_body.splitlines(keepends=True)
-
-    new_date_str = _get_row_date_str(row)
-    last_group_idx = -1
-    in_group = False
-    for i, line in enumerate(lines):
-        if not line.strip() or not line.startswith('|'):
-            continue
-        cols = line.split('|')
-        if len(cols) < 2:
-            continue
-        col1 = cols[1].strip()
-        if col1 != '↳' and _company_sort_key(col1) == new_key and _get_row_date_str(line.rstrip()) == new_date_str:
-            in_group = True
-            last_group_idx = i
-        elif col1 == '↳' and in_group:
-            last_group_idx = i
-        elif col1 != '↳':
-            in_group = False
-
-    if last_group_idx != -1:
-        continuation = re.sub(r'^\| [^|]+ \|', '| ↳ |', row, count=1)
-        lines.insert(last_group_idx + 1, continuation + '\n')
-        return content[:header_end] + ''.join(lines) + content[end_idx:]
-
-    insert_line = len(lines)
-
-    for i, line in enumerate(lines):
-        if not line.strip() or not line.startswith('|'):
-            continue
-        cols = line.split('|')
-        if len(cols) < 2:
-            continue
-        col1 = cols[1].strip()
-        if col1 == '↳':
-            continue
-
-        row_date = _get_row_date(line.rstrip())
-
-        if new_date and row_date:
-            if new_date > row_date:
-                insert_line = i
-                break
-            elif new_date == row_date:
-                if _company_sort_key(col1) > new_key:
-                    insert_line = i
-                    break
-        else:
-            if _company_sort_key(col1) > new_key:
-                insert_line = i
-                break
-
-    lines.insert(insert_line, row + '\n')
-    return content[:header_end] + ''.join(lines) + content[end_idx:]
 
 
 def load_listings():
@@ -289,6 +140,18 @@ def listing_to_json(fields, table_type):
     }
 
 
+def rebuild_readme():
+    result = subprocess.run(
+        ['python3', '.github/scripts/rebuild_readme.py'],
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode != 0:
+        print(f'ERROR: rebuild_readme.py failed: {result.stderr[:500]}')
+        sys.exit(1)
+    print(result.stdout.strip())
+
+
 def main():
     token = os.environ.get('GITHUB_TOKEN')
     repo = os.environ.get('GITHUB_REPOSITORY')
@@ -301,9 +164,6 @@ def main():
 
     if not issues:
         return
-
-    with open('README.md', 'r') as f:
-        content = f.read()
 
     listings = load_listings()
     seen_normalized = existing_normalized_urls(listings)
@@ -326,13 +186,6 @@ def main():
             continue
 
         table_type = determine_table(fields)
-        row = format_row(fields, table_type)
-        new_content = insert_row(content, table_type, row)
-        if new_content is None:
-            print(f'  Issue #{number}: failed to insert row')
-            continue
-
-        content = new_content
         listings.append(listing_to_json(fields, table_type))
         seen_normalized.add(normalize_url(apply_link))
         comment_and_close(token, repo, number)
@@ -341,9 +194,8 @@ def main():
         time.sleep(0.5)
 
     if added > 0:
-        with open('README.md', 'w') as f:
-            f.write(content)
         save_listings(listings)
+        rebuild_readme()
         print(f'\nAdded {added} listing(s)')
     else:
         print('\nNo new listings to add')

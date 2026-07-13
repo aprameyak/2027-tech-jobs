@@ -105,7 +105,7 @@ This repository is **exclusively for roles in the United States, Canada, or Remo
 
 ## Opening an Issue
 
-If you prefer not to submit a PR, [open an issue](https://github.com/aprameyak/2027-swe-jobs/issues/new/choose) using the Add Job template and a maintainer will add the listing.
+If you prefer not to submit a PR, [open an issue](https://github.com/aprameyak/2027-tech-jobs/issues/new/choose) using the Add Job template and a maintainer will add the listing.
 
 ---
 

@@ -7,7 +7,7 @@
 
 set -e
 
-REPO="aprameyak/2027-swe-jobs"
+REPO="aprameyak/2027-tech-jobs"
 
 if [ $# -eq 0 ]; then
   echo "Usage: $0 <issue_number> [issue_number ...]"

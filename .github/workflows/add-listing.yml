@@ -3,6 +3,7 @@ name: Add Job Listing
 on:
   issues:
     types: [labeled]
+  workflow_dispatch:
 
 concurrency:
   group: readme-updates
@@ -10,7 +11,7 @@ concurrency:
 
 jobs:
   add-listing:
-    if: github.event.label.name == 'approved'
+    if: github.event_name == 'workflow_dispatch' || github.event.label.name == 'approved'
     runs-on: ubuntu-latest
     permissions:
       contents: write
