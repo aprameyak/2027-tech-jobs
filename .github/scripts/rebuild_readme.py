@@ -42,7 +42,7 @@ def format_location(location):
 def format_date(date_added):
     try:
         dt = datetime.strptime(date_added, '%Y-%m-%d')
-        return dt.strftime('%b %d')
+        return dt.strftime('%b %d').replace(' 0', ' ')
     except Exception:
         return date_added
 
