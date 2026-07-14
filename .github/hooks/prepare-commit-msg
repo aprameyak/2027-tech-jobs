@@ -1,0 +1,12 @@
+#!/bin/sh
+# Strip Cursor co-author trailers before commits are recorded.
+# Install: ./.github/scripts/install_git_hooks.sh
+
+if [ -f "$1" ]; then
+  sed -i '' '/[Cc]o-authored-by:.*[Cc]ursor/d' "$1" 2>/dev/null || \
+  sed -i '/[Cc]o-authored-by:.*[Cc]ursor/d' "$1"
+  sed -i '' '/[Mm]ade-with:.*[Cc]ursor/d' "$1" 2>/dev/null || \
+  sed -i '/[Mm]ade-with:.*[Cc]ursor/d' "$1"
+  sed -i '' '/cursoragent@cursor\.com/d' "$1" 2>/dev/null || \
+  sed -i '/cursoragent@cursor\.com/d' "$1"
+fi
