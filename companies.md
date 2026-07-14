@@ -8,9 +8,7 @@ Adobe
 Affirm
 Airbnb
 Airtable
-Aiven
 Akuna Capital
-Algolia
 Amazon
 Amplitude
 Analog Devices
@@ -42,7 +40,6 @@ Booz Allen Hamilton
 Box
 Brex
 Browserbase
-ByteDance
 Cadence Design Systems
 CAE Inc.
 Canva
@@ -53,13 +50,13 @@ Cerebras
 Charles River Analytics
 Checkr
 Chime
+Ciena
 Circleback
 Cisco
 ClickHouse
 Cloudera
 Cloudflare
 Cockroach Labs
-Codeium
 Cognition AI
 Cohere
 Coinbase
@@ -68,7 +65,6 @@ Commure
 Confluent
 Copart
 Coupa Software
-Criteo
 CrowdStrike
 CTGT
 Cubist Systematic Strategies
@@ -113,7 +109,6 @@ GoPro
 Grafana Labs
 Gusto
 Harvey
-Hasura
 Home Depot
 Homebase
 Hootsuite
@@ -262,7 +257,6 @@ Waymo
 Wealthfront
 Wealthsimple
 Webflow
-Weights & Biases
 Wells Fargo
 Western Digital
 Wise

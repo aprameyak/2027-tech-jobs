@@ -41,5 +41,19 @@ venv/
 *.bak
 *.log
 
-# Claude
+# Claude / Cursor local tooling
 CLAUDE.md
+.claude/
+
+# One-off audit artifacts (local only)
+.github/data/ats_probe_results.json
+.github/data/audit_results.json
+.github/data/cleanup_removed.json
+.github/data/liveness_validation.json
+.github/data/recent_listings_audit.json
+.github/scripts/probe_ats_targeted.py
+.github/scripts/apply_ats_probe.py
+.github/scripts/apply_subagent_corrections.py
+.github/scripts/cleanup_invalid_scrapers.py
+.github/scripts/final_correctness_pass.py
+.github/scripts/reconcile_companies.py
