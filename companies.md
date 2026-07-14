@@ -161,6 +161,7 @@ Nubank
 Nuro
 NVIDIA
 Okta
+Old Mission Capital
 OpenAI
 Optiver
 Oscar Health
