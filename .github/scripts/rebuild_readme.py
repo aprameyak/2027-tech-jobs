@@ -147,14 +147,14 @@ def main():
 
     print(f'Loaded {len(listings)} listings: {len(summer)} summer, {len(offcycle)} offcycle, {len(newgrad)} newgrad')
 
-    with open(README_FILE) as f:
+    with open(README_FILE, encoding='utf-8') as f:
         content = f.read()
 
     content = replace_table(content, 'summer', build_table(summer))
     content = replace_table(content, 'offcycle', build_table(offcycle))
     content = replace_table(content, 'newgrad', build_table(newgrad))
 
-    with open(README_FILE, 'w') as f:
+    with open(README_FILE, 'w', encoding='utf-8') as f:
         f.write(content)
 
     print('README.md rebuilt successfully')

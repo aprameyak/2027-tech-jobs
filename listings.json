@@ -3358,5 +3358,29 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-13"
+  },
+  {
+    "company": "Fidelity Investments",
+    "role": "Leap Software Engineer",
+    "location": "Durham, NC; Westlake, TX",
+    "type": "newgrad",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.fidelity.com/en/jobs/2132114/leap-software-engineer/",
+    "sponsorship": "No",
+    "citizenship": "Unknown",
+    "date_added": "2026-07-14"
+  },
+  {
+    "company": "Fidelity Investments",
+    "role": "Leap Systems Analyst",
+    "location": "Durham, NC; Westlake, TX",
+    "type": "newgrad",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.fidelity.com/en/jobs/2132117/leap-systems-analyst/",
+    "sponsorship": "No",
+    "citizenship": "Unknown",
+    "date_added": "2026-07-14"
   }
 ]
