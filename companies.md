@@ -32,6 +32,7 @@ Bill.com
 BillionToOne
 BitGo
 BlackRock
+Block
 Bloomberg
 Blue Origin
 Boeing
@@ -93,6 +94,7 @@ Endava
 Epic Games
 Esri
 Etched
+Expedia Group
 Experian
 Fidelity Investments
 Figma
@@ -154,6 +156,7 @@ Netflix
 Netlify
 Nextdoor
 Niantic
+Nike
 Northern Trust
 Notion
 Notion Calendar
@@ -166,6 +169,7 @@ OpenAI
 Optiver
 Oscar Health
 Palantir
+Palo Alto Networks
 Parafin
 Payoneer
 PayPal
@@ -183,6 +187,7 @@ Pony.ai
 Poshmark
 PostHog
 Priceline
+Procter & Gamble
 Profound
 Pure Storage
 Pylon
@@ -208,11 +213,13 @@ Samsara
 Saronic Technologies
 Scale AI
 Sentry
+ServiceNow
 Seven Research
 Sierra
 Silicon Labs
 Skydio
 Smartsheet
+Snap
 Snowflake
 SoFi
 Sony

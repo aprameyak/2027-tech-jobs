@@ -27,6 +27,8 @@ greenhouse:
   slug: billcom
 - name: BitGo
   slug: bitgo
+- name: Block
+  slug: block
 - name: Box
   slug: boxinc
 - name: Brex
@@ -225,6 +227,8 @@ smartrecruiters:
   identifier: Glean
 - name: Roland Berger
   identifier: RolandBerger
+- name: ServiceNow
+  identifier: ServiceNow
 - name: Visa
   identifier: Visa
 - name: Wayfair
@@ -326,6 +330,10 @@ workday:
   tenant: dxctechnology
   instance: wd1
   board: DXCJobs
+- name: Expedia Group
+  tenant: expedia
+  instance: wd108
+  board: search
 - name: Fidelity Investments
   tenant: fmr
   instance: wd1
@@ -358,6 +366,10 @@ workday:
   tenant: netflix
   instance: wd108
   board: Netflix
+- name: Nike
+  tenant: nike
+  instance: wd1
+  board: nke
 - name: Northern Trust
   tenant: ntrs
   instance: wd1
@@ -366,6 +378,10 @@ workday:
   tenant: nvidia
   instance: wd5
   board: NVIDIAExternalCareerSite
+- name: Palo Alto Networks
+  tenant: paloaltonetworks
+  instance: wd5
+  board: panwexternalcareers
 - name: PayPal
   tenant: paypal
   instance: wd1
@@ -374,6 +390,10 @@ workday:
   tenant: priceline
   instance: wd1
   board: BookingHoldings
+- name: Procter & Gamble
+  tenant: pg
+  instance: wd5
+  board: '1000'
 - name: Rakuten International
   tenant: rakuten
   instance: wd1
@@ -394,6 +414,10 @@ workday:
   tenant: silabs
   instance: wd1
   board: SiliconlabsCareers
+- name: Snap
+  tenant: snapchat
+  instance: wd1
+  board: snap
 - name: T. Rowe Price
   tenant: troweprice
   instance: wd5
