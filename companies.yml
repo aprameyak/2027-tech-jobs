@@ -59,6 +59,8 @@ greenhouse:
   slug: doordashusa
 - name: Dropbox
   slug: dropbox
+- name: DRW
+  slug: drweng
 - name: Duolingo
   slug: duolingo
 - name: Epic Games
@@ -71,6 +73,8 @@ greenhouse:
   slug: fiveringsllc
 - name: Flexport
   slug: flexport
+- name: Flow Traders
+  slug: flowtraders
 - name: Gemini
   slug: gemini
 - name: GoPro
@@ -183,6 +187,12 @@ greenhouse:
   slug: upstart
 - name: Verkada
   slug: verkada
+- name: Virtu Financial
+  slug: virtu
+- name: Walleye Capital
+  slug: walleyecapital-external-students
+- name: Warp
+  slug: warp
 - name: Waymo
   slug: waymo
 - name: Webflow
@@ -258,6 +268,10 @@ workday:
   tenant: analogdevices
   instance: wd1
   board: External
+- name: Arrowstreet Capital
+  tenant: arrowstreetcapital
+  instance: wd5
+  board: Campus_Careers
 - name: Autodesk
   tenant: autodesk
   instance: wd1
@@ -490,6 +504,8 @@ ashby:
   slug: decagon
 - name: ElevenLabs
   slug: elevenlabs
+- name: EliseAI
+  slug: eliseai
 - name: Etched
   slug: etched
 - name: Figure
@@ -556,3 +572,5 @@ ashby:
   slug: wealthsimple
 - name: Zapier
   slug: zapier
+- name: Zip
+  slug: zip

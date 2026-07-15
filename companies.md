@@ -13,6 +13,7 @@ Amazon
 Amplitude
 Analog Devices
 Anaplan
+Arrowstreet Capital
 Anduril
 Anthropic
 Anyscale
@@ -81,10 +82,12 @@ DocuSign
 DoorDash
 DraftKings
 Dropbox
+DRW
 Duolingo
 DXC Technology
 Edgehog Trading
 ElevenLabs
+EliseAI
 Ellipsis Labs
 Endava
 Epic Games
@@ -97,6 +100,7 @@ Figma
 Figure
 Five Rings
 Flexport
+Flow Traders
 Freshworks
 Gecko Robotics
 Gemini
@@ -248,9 +252,12 @@ Veeam Software
 Veeva Systems
 Vercel
 Verkada
+Virtu Financial
 Visa
 VMware
 Voloridge Investment Management
+Walleye Capital
+Warp
 Wattpad
 Wayfair
 Waymo
@@ -261,6 +268,7 @@ Wells Fargo
 Western Digital
 Wise
 Zapier
+Zip
 Zipline
 Zoom
 Zoox
