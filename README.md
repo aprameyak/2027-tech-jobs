@@ -354,7 +354,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineer, AI Platform - New Grad | Mountain View, CA | Undergrad | <a href="https://nuro.ai/careersitem?gh_jid=7351066" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Stripe | Software Engineer, New Grad, Developer & End User Experience Platform | Toronto, ON | Undergrad | <a href="https://stripe.com/jobs/search?gh_jid=7991718" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Capital One 🛂 | Business Analyst Associate | <details><summary>**5 locations**</summary>McLean, VA</br>Chicago, IL</br>New York, NY</br>Plano, TX</br>Richmond, VA</details> | Undergrad | <a href="https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Business-Analyst-Associate---August-2027_R245108-1" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 6 |
-| ↳ | Data Analyst Associate | <details><summary>**2 locations**</summary>McLean, VA</br>Richmond, VA</details> | Undergrad | <a href="https://www.capitalonecareers.com/job/mclean/data-analyst-associate-2027/31238/97421687408" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 6 |
+| ↳ | Data Analyst Associate | <details><summary>**2 locations**</summary>McLean, VA</br>Richmond, VA</details> | Undergrad | 🔒 | Jul 6 |
 | ↳ | Product Development Program Associate | McLean, VA | Undergrad | 🔒 | Jul 6 |
 <!-- TABLE_END newgrad -->
 
