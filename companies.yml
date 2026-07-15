@@ -49,6 +49,8 @@ greenhouse:
   slug: chime
 - name: ClickHouse
   slug: clickhouse
+- name: Clipboard Health
+  slug: clipboard
 - name: Cloudflare
   slug: cloudflare
 - name: Cockroach Labs
@@ -157,6 +159,8 @@ greenhouse:
   slug: qualtrics
 - name: Reddit
   slug: reddit
+- name: Revionics
+  slug: revionics
 - name: Riot Games
   slug: riotgames
 - name: Robinhood
@@ -574,6 +578,8 @@ ashby:
   slug: homebase
 - name: Kraken
   slug: kraken
+- name: Lambda
+  slug: lambda
 - name: Lightspeed Commerce
   slug: lightspeedhq
 - name: Linear

@@ -54,6 +54,7 @@ Ciena
 Circleback
 Cisco
 ClickHouse
+Clipboard Health
 Cloudera
 Cloudflare
 Cockroach Labs
@@ -126,6 +127,7 @@ Jump Trading
 Juniper Networks
 KAYAK
 Kraken
+Lambda
 LaunchDarkly
 Lightspeed Commerce
 Linear
@@ -190,6 +192,7 @@ Rakuten International
 Ramp
 Reddit
 Replit
+Revionics
 Riot Games
 Robinhood
 Roblox
