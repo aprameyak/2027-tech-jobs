@@ -13,12 +13,12 @@ Amazon
 Amplitude
 Analog Devices
 Anaplan
-Arrowstreet Capital
 Anduril
 Anthropic
 Anyscale
 Apple
 Aquatic
+Arrowstreet Capital
 Asana
 Astranis Space Technologies
 Aurora Innovation
