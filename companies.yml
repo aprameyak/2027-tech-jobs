@@ -19,22 +19,30 @@ greenhouse:
   slug: aquaticcapitalmanagement
 - name: Asana
   slug: asana
+- name: Astranis Space Technologies
+  slug: astranis
 - name: Aurora Innovation
   slug: aurorainnovation
 - name: AvidXchange
   slug: avidxchangeinc
 - name: Bill.com
   slug: billcom
+- name: BillionToOne
+  slug: billiontoone
 - name: BitGo
   slug: bitgo
 - name: Block
   slug: block
+- name: Boerboel
+  slug: boerboeltrading
 - name: Box
   slug: boxinc
 - name: Brex
   slug: brex
 - name: Carta
   slug: carta
+- name: Charles River Analytics
+  slug: charlesriveranalytics90
 - name: Checkr
   slug: checkr
 - name: Chime
@@ -87,12 +95,16 @@ greenhouse:
   slug: hootsuite
 - name: HubSpot
   slug: hubspot
+- name: iHerb
+  slug: iherb
 - name: IMC Trading
   slug: imc
 - name: Instacart
   slug: instacart
 - name: Intercom
   slug: intercom
+- name: IXL Learning
+  slug: ixllearning
 - name: Jump Trading
   slug: jumptrading
 - name: KAYAK
@@ -115,6 +127,8 @@ greenhouse:
   slug: motive
 - name: Netlify
   slug: netlify
+- name: Nextdoor
+  slug: nextdoor
 - name: Nuro
   slug: nuro
 - name: Okta
@@ -131,12 +145,16 @@ greenhouse:
   slug: pinterest
 - name: PlanetScale
   slug: planetscale
+- name: Podium
+  slug: podium81
 - name: Point72
   slug: point72
 - name: Poshmark
   slug: poshmark
 - name: Pure Storage
   slug: purestorage
+- name: Qualtrics
+  slug: qualtrics
 - name: Reddit
   slug: reddit
 - name: Riot Games
@@ -165,8 +183,12 @@ greenhouse:
   slug: spacex
 - name: Squarespace
   slug: squarespace
+- name: Stoke Space
+  slug: stokespacetechnologies
 - name: Stripe
   slug: stripe
+- name: StubHub
+  slug: stubhubinc
 - name: Take-Two Interactive
   slug: taketwo
 - name: Tenable
@@ -185,10 +207,14 @@ greenhouse:
   slug: typeform
 - name: Upstart
   slug: upstart
+- name: Veeam Software
+  slug: veeamsoftware
 - name: Verkada
   slug: verkada
 - name: Virtu Financial
   slug: virtu
+- name: Voloridge Investment Management
+  slug: voloridgeinvestmentmanagement
 - name: Walleye Capital
   slug: walleyecapital-external-students
 - name: Warp
@@ -208,10 +234,16 @@ lever:
   slug: blueorigin
 - name: Coupa Software
   slug: coupa
+- name: GenBio AI
+  slug: genbio
 - name: Palantir
   slug: palantir
+- name: Plus
+  slug: plus-2
 - name: Spotify
   slug: spotify
+- name: Valkyrie Trading
+  slug: valkyrietrading
 - name: Veeva Systems
   slug: veeva
 - name: Wattpad
@@ -324,6 +356,10 @@ workday:
   tenant: crowdstrike
   instance: wd5
   board: crowdstrikecareers
+- name: Copart
+  tenant: copart
+  instance: wd12
+  board: copart
 - name: CVS Health
   tenant: cvshealth
   instance: wd1
@@ -368,6 +404,10 @@ workday:
   tenant: hpe
   instance: wd5
   board: Jobsathpe
+- name: LiveRamp
+  tenant: liveramp
+  instance: wd5
+  board: LiveRampCareers
 - name: Mastercard
   tenant: mastercard
   instance: wd1
@@ -432,6 +472,10 @@ workday:
   tenant: snapchat
   instance: wd1
   board: snap
+- name: Sony
+  tenant: sonyglobal
+  instance: wd1
+  board: sonyglobalcareers
 - name: T. Rowe Price
   tenant: troweprice
   instance: wd5
@@ -484,20 +528,30 @@ ashby:
   slug: abridge
 - name: Anyscale
   slug: anyscale
+- name: Base Power Company
+  slug: base-power
 - name: Benchling
   slug: benchling
 - name: Bolt
   slug: bolt
 - name: Browserbase
   slug: browserbase
+- name: Centerfield
+  slug: centerfield
 - name: Cerebras
   slug: cerebras
+- name: Circleback
+  slug: circleback
 - name: Cognition AI
   slug: cognition
 - name: Cohere
   slug: cohere
+- name: Commure
+  slug: commure
 - name: Confluent
   slug: confluent
+- name: CTGT
+  slug: ctgt
 - name: Cursor
   slug: cursor
 - name: Decagon
@@ -506,12 +560,18 @@ ashby:
   slug: elevenlabs
 - name: EliseAI
   slug: eliseai
+- name: Ellipsis Labs
+  slug: ellipsislabs
 - name: Etched
   slug: etched
 - name: Figure
   slug: figure
+- name: Gecko Robotics
+  slug: gecko-robotics
 - name: Harvey
   slug: harvey
+- name: Homebase
+  slug: homebase
 - name: Kraken
   slug: kraken
 - name: Lightspeed Commerce
@@ -536,8 +596,12 @@ ashby:
   slug: nubank
 - name: OpenAI
   slug: openai
+- name: Parafin
+  slug: parafin
 - name: Perplexity
   slug: perplexity
+- name: Persona
+  slug: persona
 - name: Physical Intelligence
   slug: physicalintelligence
 - name: Pinecone
@@ -546,6 +610,10 @@ ashby:
   slug: plaid
 - name: PostHog
   slug: posthog
+- name: Profound
+  slug: profound
+- name: Pylon
+  slug: pylon-labs
 - name: Quora
   slug: quora
 - name: Ramp
@@ -554,6 +622,8 @@ ashby:
   slug: replit
 - name: Runway
   slug: runway
+- name: Saronic Technologies
+  slug: saronic
 - name: Sentry
   slug: sentry
 - name: Sierra
@@ -562,6 +632,8 @@ ashby:
   slug: skydio
 - name: Snowflake
   slug: snowflake
+- name: Suno
+  slug: suno
 - name: Temporal
   slug: temporal
 - name: Vanta

@@ -9,7 +9,6 @@ Affirm
 Airbnb
 Airtable
 Akuna Capital
-Amazon
 Amplitude
 Analog Devices
 Anaplan
@@ -68,7 +67,6 @@ Copart
 Coupa Software
 CrowdStrike
 CTGT
-Cubist Systematic Strategies
 Cursor
 CVS Health
 Databricks
@@ -85,7 +83,6 @@ Dropbox
 DRW
 Duolingo
 DXC Technology
-Edgehog Trading
 ElevenLabs
 EliseAI
 Ellipsis Labs
@@ -122,7 +119,6 @@ IMC Trading
 Instacart
 Intel
 Intercom
-Intercontinental Exchange
 IXL Learning
 Jane Street
 JPMorgan Chase
@@ -158,7 +154,6 @@ Niantic
 Nike
 Northern Trust
 Notion
-Notion Calendar
 Nubank
 Nuro
 NVIDIA
@@ -182,7 +177,6 @@ PlanetScale
 Plus
 Podium
 Point72
-Pony.ai
 Poshmark
 PostHog
 Priceline
@@ -195,7 +189,6 @@ Quora
 Rakuten International
 Ramp
 Reddit
-Renaissance Technologies
 Replit
 Riot Games
 Robinhood
@@ -223,7 +216,6 @@ Snowflake
 SoFi
 Sony
 SpaceX
-SpiderRock
 Spotify
 Squarespace
 Stoke Space
@@ -235,10 +227,8 @@ Take-Two Interactive
 Target Corporation
 Temporal
 Tenable
-TikTok
 Toast
 Tower Research Capital
-Trexquant
 TripAdvisor
 Twilio
 Twitch
