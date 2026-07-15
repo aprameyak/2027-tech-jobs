@@ -13,7 +13,7 @@ from pathlib import Path
 SEEN_JOBS_FILE = Path('.github/data/seen_jobs.json')
 TITLE_CACHE_FILE = Path('.github/data/title_classifications.json')
 GEMINI_USAGE_FILE = Path('.github/data/gemini_usage.json')
-PRIORITY_COMPANIES_FILE = Path('.github/data/priority_companies.json')
+FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
 
 GEMINI_DAILY_LIMIT = 1400
 GEMINI_RPM_DELAY = 4.2
@@ -24,7 +24,7 @@ _confidence_cache = {}
 _gemini_calls_today = 0
 _gemini_usage_date = None
 
-DEFAULT_PRIORITY_COMPANIES = [
+DEFAULT_FOLLOWED_COMPANIES = [
     'Amazon',
     'Apple',
     'Databricks',
@@ -406,13 +406,13 @@ def save_seen_jobs(seen):
 
 
 def normalize_company_name(name):
-    return re.sub(r'[^a-z0-9]+', '', name.lower())
+    return re.sub(r'[^a-z0-9]+', '', name.strip().lower())
 
 
-def load_priority_companies():
+def load_followed_companies():
     try:
-        if PRIORITY_COMPANIES_FILE.exists():
-            with open(PRIORITY_COMPANIES_FILE) as f:
+        if FOLLOWED_COMPANIES_FILE.exists():
+            with open(FOLLOWED_COMPANIES_FILE) as f:
                 data = json.load(f)
             if isinstance(data, list):
                 loaded = {
@@ -422,34 +422,48 @@ def load_priority_companies():
                 }
                 if loaded:
                     return loaded
-            print('  [priority] Invalid priority_companies.json, using defaults')
+            print('  [alerts] Invalid followed_companies.json, using defaults')
     except Exception as e:
-        print(f'  [priority] Failed to load priority companies file: {e}')
-    return {normalize_company_name(c) for c in DEFAULT_PRIORITY_COMPANIES}
+        print(f'  [alerts] Failed to load followed companies file: {e}')
+    return {normalize_company_name(c) for c in DEFAULT_FOLLOWED_COMPANIES}
 
 
-def is_priority_company(company, priority_companies):
-    return normalize_company_name(company) in priority_companies
+def is_followed_company(company, followed_companies):
+    return normalize_company_name(company) in followed_companies
 
 
-def send_priority_webhook_alert(job):
+def send_followed_company_webhook_alert(job):
     webhook_url = os.environ.get('PRIORITY_ALERT_WEBHOOK_URL', '').strip()
     if not webhook_url:
         return
 
-    message = (
-        f'🚨 Priority company role detected: {job["company"]} — {job["title"]}\n'
-        f'Location: {job["location"]}\n'
-        f'Apply: {job["url"]}'
-    )
-    payload = {'content': message} if 'discord.com/api/webhooks' in webhook_url else {'text': message}
+    if 'discord.com/api/webhooks' in webhook_url:
+        message = (
+            '## 🚨 Followed Company Role Detected\n'
+            f'**Company:** {job["company"]}\n'
+            f'**Role:** {job["title"]}\n'
+            f'**Location:** {job["location"]}\n'
+            f'**Portal:** {job["board"]}\n'
+            f'**Apply:** [Open listing]({job["url"]})'
+        )
+        payload = {'content': message}
+    else:
+        message = (
+            f'Followed company role detected\n'
+            f'Company: {job["company"]}\n'
+            f'Role: {job["title"]}\n'
+            f'Location: {job["location"]}\n'
+            f'Portal: {job["board"]}\n'
+            f'Apply: {job["url"]}'
+        )
+        payload = {'text': message}
 
     try:
         resp = requests.post(webhook_url, json=payload, timeout=10)
         if resp.status_code not in (200, 201, 202, 204):
-            print(f'  [priority] webhook failed ({resp.status_code}): {resp.text[:200]}')
+            print(f'  [alerts] webhook failed ({resp.status_code}): {resp.text[:200]}')
     except Exception as e:
-        print(f'  [priority] webhook error: {e}')
+        print(f'  [alerts] webhook error: {e}')
 
 
 def is_tech_title_keywords(title):
@@ -1127,11 +1141,10 @@ def scrape_amazon():
 
 
 
-def create_github_issue(job, token, repo, priority=False):
+def create_github_issue(job, token, repo):
     listing_type, season = infer_listing_type(job['title'])
     confident = job.get('confident', False)
-    issue_prefix = '[PRIORITY ALERT] ' if priority else ''
-    issue_title = f'{issue_prefix}[JOB] {job["company"]} — {job["title"]}'
+    issue_title = f'[JOB] {job["company"]} — {job["title"]}'
 
     if confident:
         labels = ['new listing', 'auto-discovered']
@@ -1143,9 +1156,6 @@ def create_github_issue(job, token, repo, priority=False):
             f'**Needs manual review** — Gemini was unavailable so this was classified by keyword matching only. '
             f'Please verify this is a legitimate tech role before approving.'
         )
-    if priority:
-        notes = f'🚨 **Priority company alert**\n\n{notes}'
-
     body = f"""### Company Name
 
 {job['company']}
@@ -1218,38 +1228,6 @@ _No response_
         print(f'  Failed ({resp.status_code}): {resp.text[:200]}')
 
 
-def create_priority_alert_issue(job, token, repo):
-    issue_title = f'🚨 [PRIORITY ALERT] {job["company"]} — {job["title"]}'
-    body = f"""A new role from a priority company was auto-discovered.
-
-- **Company:** {job['company']}
-- **Role:** {job['title']}
-- **Location:** {job['location']}
-- **Apply:** {job['url']}
-- **Source:** {job['board']}
-- **Confidence:** {"High" if job.get('confident') else "Needs review"}
-
-Apply quickly if relevant.
-"""
-    headers = {
-        'Authorization': f'token {token}',
-        'Accept': 'application/vnd.github.v3+json',
-    }
-    resp = requests.post(
-        f'https://api.github.com/repos/{repo}/issues',
-        json={
-            'title': issue_title,
-            'body': body,
-        },
-        headers=headers,
-        timeout=10,
-    )
-    if resp.status_code == 201:
-        print(f'  [priority] Created alert issue: {issue_title}')
-    else:
-        print(f'  [priority] Failed to create alert issue ({resp.status_code}): {resp.text[:200]}')
-
-
 def main():
     load_gemini_usage()
 
@@ -1261,7 +1239,7 @@ def main():
         return
 
     seen = load_seen_jobs()
-    priority_companies = load_priority_companies()
+    followed_companies = load_followed_companies()
 
     candidate_jobs = []
 
@@ -1355,6 +1333,13 @@ def main():
     print(f'\nFound {len(new_jobs)} new job(s)')
 
     if new_jobs:
+        followed_matches = [j for j in new_jobs if is_followed_company(j['company'], followed_companies)]
+        if followed_matches:
+            print(f'  [alerts] Sending {len(followed_matches)} followed-company alert(s)')
+            for job in followed_matches:
+                send_followed_company_webhook_alert(job)
+                time.sleep(0.3)
+
         listings_file = Path('listings.json')
         readme_file = Path('README.md')
         token = os.environ.get('GITHUB_TOKEN')
@@ -1365,12 +1350,6 @@ def main():
 
         for job in high_confidence:
             add_job_directly(job, listings_file, readme_file)
-            if is_priority_company(job['company'], priority_companies):
-                send_priority_webhook_alert(job)
-                if token and repo:
-                    create_priority_alert_issue(job, token, repo)
-                else:
-                    print(f'  [priority] {job["company"]}: {job["title"]} | {job["location"]} | {job["url"]}')
             time.sleep(0.5)
 
         if low_confidence:
@@ -1381,10 +1360,7 @@ def main():
             else:
                 for job in low_confidence:
                     try:
-                        priority = is_priority_company(job['company'], priority_companies)
-                        if priority:
-                            send_priority_webhook_alert(job)
-                        create_github_issue(job, token, repo, priority=priority)
+                        create_github_issue(job, token, repo)
                     except Exception as e:
                         print(f'  [issue] Failed to create issue for "{job["title"]}": {e}')
                     time.sleep(1)
