@@ -254,7 +254,8 @@ greenhouse:
 - name: Zscaler
   slug: zscaler
 - name: Zynga
-  slug: zyngacareers- name: Canonical
+  slug: zyngacareers
+- name: Canonical
   slug: canonical
 - name: DAT Freight & Analytics
   slug: dat
