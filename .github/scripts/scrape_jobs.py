@@ -145,11 +145,6 @@ CA_PROVINCE_ABBRS = {
 
 
 def normalize_location(location):
-    """
-    Convert ATS-style location strings to City, ST / City, Province format.
-    Handles semicolon-separated multi-locations, bare city names, and
-    US, State, City ordering from Workday.
-    """
     if not location:
         return location
 
@@ -256,14 +251,6 @@ def save_gemini_usage():
 
 
 def batch_classify_with_gemini(titles):
-    """
-    Classify up to GEMINI_BATCH_SIZE titles in a single Gemini call.
-
-    Returns dict mapping title_lower -> {"is_tech": bool, "confidence": "high"|"medium"|"low"}.
-    Returns {} on any failure so callers can fall back to keywords.
-    Handles 429 with exponential backoff (3 attempts: 15s, 30s, 60s).
-    Uses responseMimeType=application/json for reliable structured output.
-    """
     global _gemini_calls_today
 
     api_key = os.environ.get('GEMINI_API_KEY')
@@ -346,11 +333,6 @@ def batch_classify_with_gemini(titles):
 
 
 def classify_titles_batch(title_list):
-    """
-    Classify all titles in title_list that are not already cached, in batches.
-    Updates _title_cache and _confidence_cache in-place.
-    Returns the number of titles newly classified.
-    """
     global _confidence_cache
 
     cache = load_title_cache()
@@ -459,7 +441,7 @@ def send_followed_company_webhook_alert(job):
         payload = {'text': message}
 
     try:
-        resp = requests.post(webhook_url, json=payload, timeout=10)
+        resp = requests.post(webhook_url, json=payload, timeout=(10, 30))
         if resp.status_code not in (200, 201, 202, 204):
             print(f'  [alerts] webhook failed ({resp.status_code}): {resp.text[:200]}')
     except Exception as e:
@@ -474,11 +456,6 @@ def is_tech_title_keywords(title):
 
 
 def classify_title(title):
-    """
-    Returns (is_tech: bool, confident: bool).
-    Checks cache first (populated by classify_titles_batch in main).
-    Falls back to single-title Gemini call if cache missed, then keyword heuristic.
-    """
     t = title.lower()
 
     if any(s in t for s in HARD_REJECT_SIGNALS):
@@ -505,11 +482,6 @@ def classify_title(title):
 
 
 def is_candidate_title(title):
-    """
-    Fast keyword-only pre-filter used during the scraping pass (no Gemini calls).
-    Accepts any title with intern/grad boundary signals that isn't a hard reject.
-    Gemini will verify tech relevance in the batch classification pass.
-    """
     t = title.lower()
     if any(s in t for s in HARD_REJECT_SIGNALS):
         return False
@@ -518,19 +490,6 @@ def is_candidate_title(title):
     if any(kw in t for kw in SUBSTRING_KEYWORDS):
         return True
     return False
-
-
-def is_relevant_title(title):
-    """Full classification: checks is_tech (via cache/Gemini) + boundary keywords."""
-    is_tech, confident = classify_title(title)
-    if not is_tech:
-        return False, confident
-    t = title.lower()
-    if any(re.search(kw, t) for kw in BOUNDARY_KEYWORDS):
-        return True, confident
-    if any(kw in t for kw in SUBSTRING_KEYWORDS):
-        return True, confident
-    return False, confident
 
 
 def is_us_location(location):
@@ -586,11 +545,7 @@ def infer_education_level(title):
     return 'Undergrad'
 
 
-def add_job_directly(job, listings_file, readme_file):
-    """
-    Add a high-confidence job directly to listings.json and rebuild the README.
-    Skips if the URL already exists in listings.json.
-    """
+def add_job_directly(job, listings_file):
     try:
         listing_type, season = infer_listing_type(job['title'])
         education = infer_education_level(job['title'])
@@ -625,7 +580,6 @@ def add_job_directly(job, listings_file, readme_file):
 
         def _norm_url(u):
             u = u.split('?')[0].rstrip('/')
-            import re
             u = re.sub(r'(myworkdayjobs\.com)/en-[A-Z]{2}/[^/]+/job/', r'\1/job/', u)
             return u
 
@@ -937,19 +891,6 @@ def scrape_pinpoint(company, slug):
 
 
 def _workday_job_url(base_url, board, external_path):
-    """
-    Build a canonical Workday job URL from known-good components.
-
-    The Workday API returns `externalPath` inconsistently across tenants:
-      - Some return: /en-US/BoardName/job/Location/Title_ID
-      - Some return: /job/Location/Title_ID          (no locale or board)
-      - Some return: /en-GB/BoardName/job/...        (wrong locale)
-
-    Strategy: strip any locale+board prefix that the API may have included,
-    leaving a bare /job/... path, then prepend our authoritative board from
-    companies.yml. This guarantees the URL is always valid regardless of
-    what the API happens to return.
-    """
     path = re.sub(r'^/[a-z]{2}-[A-Z]{2}/[^/]+(?=/job/)', '', external_path)
     if not path.startswith('/job/'):
         path = external_path
@@ -1101,7 +1042,7 @@ def scrape_amazon():
 
     while True:
         try:
-            resp = requests.get(base_url, params=params, headers=HEADERS, timeout=15)
+            resp = requests.get(base_url, params=params, headers=HEADERS, timeout=(10, 30))
             if resp.status_code != 200:
                 print(f'  [Amazon] HTTP {resp.status_code}')
                 break
@@ -1137,8 +1078,6 @@ def scrape_amazon():
             break
 
     return jobs
-
-
 
 
 def create_github_issue(job, token, repo):
@@ -1341,7 +1280,6 @@ def main():
                 time.sleep(0.3)
 
         listings_file = Path('listings.json')
-        readme_file = Path('README.md')
         token = os.environ.get('GITHUB_TOKEN')
         repo = os.environ.get('GITHUB_REPOSITORY')
 
@@ -1349,7 +1287,7 @@ def main():
         low_confidence = [j for j in new_jobs if j.get('confident') != True]
 
         for job in high_confidence:
-            add_job_directly(job, listings_file, readme_file)
+            add_job_directly(job, listings_file)
             time.sleep(0.5)
 
         if low_confidence:
