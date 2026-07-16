@@ -7,6 +7,8 @@ greenhouse:
   slug: airtable
 - name: Akuna Capital
   slug: akunacapital
+- name: Ambarella
+  slug: ambarella
 - name: Amplitude
   slug: amplitude
 - name: Anaplan
@@ -31,6 +33,8 @@ greenhouse:
   slug: billiontoone
 - name: BitGo
   slug: bitgo
+- name: BlackEdge Capital
+  slug: blackedgecapital
 - name: Block
   slug: block
 - name: Boerboel
@@ -57,6 +61,8 @@ greenhouse:
   slug: cockroachlabs
 - name: Coinbase
   slug: coinbase
+- name: Cresta
+  slug: cresta
 - name: Databricks
   slug: databricks
 - name: Datadog
@@ -77,6 +83,8 @@ greenhouse:
   slug: epicgames
 - name: Esri
   slug: esri
+- name: Faire
+  slug: faire
 - name: Figma
   slug: figma
 - name: Five Rings
@@ -87,6 +95,8 @@ greenhouse:
   slug: flowtraders
 - name: Gemini
   slug: gemini
+- name: Geneva Trading
+  slug: genevatrading
 - name: GoPro
   slug: goprocareers
 - name: Grafana Labs
@@ -111,6 +121,10 @@ greenhouse:
   slug: jumptrading
 - name: KAYAK
   slug: kayak
+- name: KnowBe4
+  slug: knowbe4
+- name: Labelbox
+  slug: labelbox
 - name: LaunchDarkly
   slug: launchdarkly
 - name: Lucid Motors
@@ -173,10 +187,14 @@ greenhouse:
   slug: roku
 - name: Rubrik
   slug: rubrik
+- name: Samaya AI
+  slug: samayaai
 - name: Samsara
   slug: samsara
 - name: Scale AI
   slug: scaleai
+- name: Schonfeld Strategic Advisors
+  slug: schonfeld
 - name: Seven Research
   slug: sevenresearch
 - name: Smartsheet
@@ -197,10 +215,14 @@ greenhouse:
   slug: taketwo
 - name: Tenable
   slug: tenableinc
+- name: Tenstorrent
+  slug: tenstorrent
 - name: Toast
   slug: toast
 - name: Tower Research Capital
   slug: towerresearchcapital
+- name: TransMarket Group
+  slug: transmarketgroup
 - name: TripAdvisor
   slug: tripadvisor
 - name: Twilio
@@ -259,6 +281,8 @@ lever:
 smartrecruiters:
 - name: AbbVie
   identifier: AbbVie
+- name: Altice USA
+  identifier: AlticeUSA
 - name: Canva
   identifier: Canva
 - name: DocuSign
@@ -271,6 +295,10 @@ smartrecruiters:
   identifier: Freshworks
 - name: Glean
   identifier: Glean
+- name: Manhattan Associates
+  identifier: ManhattanAssociates
+- name: Rippling
+  identifier: Rippling
 - name: Roland Berger
   identifier: RolandBerger
 - name: ServiceNow
@@ -300,6 +328,14 @@ workday:
   tenant: adobe
   instance: wd5
   board: external_experienced
+- name: Agilent Technologies
+  tenant: agilent
+  instance: wd5
+  board: Agilent_Careers
+- name: Alation
+  tenant: alation
+  instance: wd503
+  board: ExternalSite
 - name: Analog Devices
   tenant: analogdevices
   instance: wd1
@@ -356,6 +392,10 @@ workday:
   tenant: comcast
   instance: wd5
   board: Comcast_Careers
+- name: CoStar Group
+  tenant: CoStar
+  instance: wd1
+  board: CoStarCareers
 - name: CrowdStrike
   tenant: crowdstrike
   instance: wd5
@@ -392,6 +432,10 @@ workday:
   tenant: fmr
   instance: wd1
   board: FidelityCareers
+- name: FINRA
+  tenant: finra
+  instance: wd1
+  board: FINRA
 - name: Global Payments
   tenant: tsys
   instance: wd1
@@ -404,14 +448,26 @@ workday:
   tenant: intel
   instance: wd1
   board: External
+- name: InterDigital
+  tenant: interdigital
+  instance: wd5
+  board: InterDigital_Career
 - name: Juniper Networks
   tenant: hpe
   instance: wd5
   board: Jobsathpe
+- name: Light & Wonder
+  tenant: lnw
+  instance: wd5
+  board: LightWonderExternalCareers
 - name: LiveRamp
   tenant: liveramp
   instance: wd5
   board: LiveRampCareers
+- name: LSEG
+  tenant: lseg
+  instance: wd3
+  board: Careers
 - name: Mastercard
   tenant: mastercard
   instance: wd1
@@ -530,8 +586,12 @@ ashby:
   slug: 1password
 - name: Abridge
   slug: abridge
+- name: Amperity
+  slug: amperity
 - name: Anyscale
   slug: anyscale
+- name: Apptronik
+  slug: apptronik
 - name: Base Power Company
   slug: base-power
 - name: Benchling
@@ -570,6 +630,8 @@ ashby:
   slug: etched
 - name: Figure
   slug: figure
+- name: FurtherAI
+  slug: furtherAI
 - name: Gecko Robotics
   slug: gecko-robotics
 - name: Harvey
@@ -594,6 +656,8 @@ ashby:
   slug: neon
 - name: NerdWallet
   slug: nerdwallet
+- name: Neuralink
+  slug: neuralink
 - name: Niantic
   slug: niantic-spatial
 - name: Notion
@@ -622,8 +686,12 @@ ashby:
   slug: pylon-labs
 - name: Quora
   slug: quora
+- name: Radix Trading
+  slug: radixtrading
 - name: Ramp
   slug: ramp
+- name: Redis
+  slug: redis
 - name: Replit
   slug: replit
 - name: Runway
@@ -640,14 +708,22 @@ ashby:
   slug: snowflake
 - name: Suno
   slug: suno
+- name: Symbotic
+  slug: symbotic
 - name: Temporal
   slug: temporal
+- name: Together AI
+  slug: together-ai
+- name: Truveta
+  slug: truveta
 - name: Vanta
   slug: vanta
 - name: Vercel
   slug: vercel
 - name: Wealthsimple
   slug: wealthsimple
+- name: Workato
+  slug: workato
 - name: Zapier
   slug: zapier
 - name: Zip
