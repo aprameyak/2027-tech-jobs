@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-"""Rebuild all three README tables from listings.json."""
 
 import json
 import re
@@ -75,8 +74,6 @@ def format_row(entry, company_col):
 
 
 def build_table(entries):
-    """Sort entries and apply ↳ grouping, return list of row strings."""
-    # Sort: date descending, then company ascending within same date
     def sort_key(e):
         try:
             dt = datetime.strptime(e['date_added'], '%Y-%m-%d')
@@ -87,7 +84,6 @@ def build_table(entries):
     sorted_entries = sorted(entries, key=sort_key)
 
     rows = []
-    # Track grouping: (company_key, date_str) → last seen index in rows
     group_tracker = {}
 
     for entry in sorted_entries:
