@@ -579,7 +579,7 @@ def add_job_directly(job, listings_file, readme_file):
 def scrape_greenhouse(company, slug):
     url = f'https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true'
     try:
-        resp = requests.get(url, timeout=10, headers=HEADERS)
+        resp = requests.get(url, timeout=(10, 30), headers=HEADERS)
         if resp.status_code != 200:
             print(f'  [{company}] Greenhouse HTTP {resp.status_code}')
             return []
@@ -606,7 +606,7 @@ def scrape_greenhouse(company, slug):
 def scrape_lever(company, slug):
     url = f'https://api.lever.co/v0/postings/{slug}?mode=json'
     try:
-        resp = requests.get(url, timeout=10, headers=HEADERS)
+        resp = requests.get(url, timeout=(10, 30), headers=HEADERS)
         if resp.status_code != 200:
             print(f'  [{company}] Lever HTTP {resp.status_code}')
             return []
@@ -633,7 +633,7 @@ def scrape_lever(company, slug):
 def scrape_ashby(company, slug):
     url = f'https://api.ashbyhq.com/posting-api/job-board/{slug}'
     try:
-        resp = requests.get(url, timeout=10, headers=HEADERS)
+        resp = requests.get(url, timeout=(10, 30), headers=HEADERS)
         if resp.status_code != 200:
             print(f'  [{company}] Ashby HTTP {resp.status_code}')
             return []
@@ -669,7 +669,7 @@ def scrape_smartrecruiters(company, identifier):
 
     while True:
         try:
-            resp = requests.get(url, params=params, headers=HEADERS, timeout=10)
+            resp = requests.get(url, params=params, headers=HEADERS, timeout=(10, 30))
             if resp.status_code != 200:
                 print(f'  [{company}] SmartRecruiters HTTP {resp.status_code}')
                 break
@@ -724,7 +724,7 @@ def scrape_smartrecruiters(company, identifier):
 def scrape_workable(company, slug):
     url = f'https://apply.workable.com/api/v1/widget/accounts/{slug}'
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=10)
+        resp = requests.get(url, headers=HEADERS, timeout=(10, 30))
         if resp.status_code != 200:
             print(f'  [{company}] Workable HTTP {resp.status_code}')
             return []
@@ -769,7 +769,7 @@ def scrape_workable(company, slug):
 def scrape_recruitee(company, slug):
     url = f'https://{slug}.recruitee.com/api/offers/'
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=10)
+        resp = requests.get(url, headers=HEADERS, timeout=(10, 30))
         if resp.status_code != 200:
             print(f'  [{company}] Recruitee HTTP {resp.status_code}')
             return []
@@ -814,7 +814,7 @@ def scrape_recruitee(company, slug):
 def scrape_pinpoint(company, slug):
     url = f'https://{slug}.pinpointhq.com/postings.json'
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=10)
+        resp = requests.get(url, headers=HEADERS, timeout=(10, 30))
         if resp.status_code != 200:
             print(f'  [{company}] Pinpoint HTTP {resp.status_code}')
             return []
@@ -905,7 +905,7 @@ def scrape_workday(company, tenant, instance, board):
                 'searchText': search_term,
             }
             try:
-                resp = requests.post(api_url, json=payload, headers=wd_headers, timeout=10)
+                resp = requests.post(api_url, json=payload, headers=wd_headers, timeout=(10, 30))
                 if resp.status_code != 200:
                     print(f'  [{company}] Workday HTTP {resp.status_code} for "{search_term}"')
                     break
@@ -1141,7 +1141,7 @@ _No response_
             'labels': labels,
         },
         headers=headers,
-        timeout=10,
+        timeout=(10, 30),
     )
     if resp.status_code == 201:
         review_flag = '' if confident else ' [NEEDS REVIEW]'
