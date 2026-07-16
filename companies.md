@@ -21,6 +21,7 @@ Anduril
 Anthropic
 Anyscale
 Apple
+Applied Intuition
 Apptronik
 Aquatic
 Arrowstreet Capital
@@ -49,6 +50,7 @@ Brex
 Browserbase
 Cadence Design Systems
 CAE Inc.
+Canonical
 Canva
 Capital One
 Carta
@@ -79,6 +81,8 @@ CrowdStrike
 CTGT
 Cursor
 CVS Health
+d-Matrix
+DAT Freight & Analytics
 Databricks
 Datadog
 Decagon
@@ -100,9 +104,12 @@ Endava
 Epic Games
 Esri
 Etched
+Everfox
+Exowatt
 Expedia Group
 Experian
 Faire
+Faros AI
 Fidelity Investments
 Figma
 Figure
@@ -123,11 +130,14 @@ Google
 GoPro
 Grafana Labs
 Gusto
+Haize Labs
+Handshake
 Harvey
 Home Depot
 Homebase
 Hootsuite
 HubSpot
+Hudl
 iHerb
 IMC Trading
 Instacart
@@ -141,10 +151,14 @@ Jump Trading
 Juniper Networks
 KAYAK
 KnowBe4
+Konrad Group
 Kraken
+Kustomer
 Labelbox
 Lambda
+Later
 LaunchDarkly
+Leidos
 Light & Wonder
 Lightspeed Commerce
 Linear
@@ -152,6 +166,7 @@ LiveRamp
 LSEG
 Lucid Motors
 Lyft
+M&T Bank
 Manhattan Associates
 Marqeta
 Mastercard
@@ -166,6 +181,7 @@ MongoDB
 Morgan Stanley
 Motive
 Motorola Solutions
+Nelnet
 Neon
 NerdWallet
 Netflix
@@ -179,6 +195,7 @@ Notion
 Nubank
 Nuro
 NVIDIA
+OfferUp
 Okta
 Old Mission Capital
 OpenAI
@@ -187,12 +204,14 @@ Oscar Health
 Palantir
 Palo Alto Networks
 Parafin
+PathAI
 Payoneer
 PayPal
 Perplexity
 Persona
 Physical Intelligence
 Pinecone
+Ping Identity
 Pinterest
 Plaid
 PlanetScale
@@ -207,6 +226,7 @@ Profound
 Pure Storage
 Pylon
 Qualtrics
+QuEra Computing
 Quora
 Radix Trading
 Rakuten International
@@ -235,6 +255,7 @@ Schonfeld Strategic Advisors
 Sentry
 ServiceNow
 Seven Research
+Shield AI
 Sierra
 Silicon Labs
 Skydio
@@ -257,10 +278,12 @@ Target Corporation
 Temporal
 Tenable
 Tenstorrent
+The Trade Desk
 Toast
 Together AI
 Tower Research Capital
 TransMarket Group
+Travelers
 TripAdvisor
 Truveta
 Twilio
@@ -289,6 +312,7 @@ Wealthsimple
 Webflow
 Wells Fargo
 Western Digital
+WhatNot
 Wise
 Workato
 Zapier
