@@ -24,6 +24,16 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ---
 
+## Priority company alerts
+
+The scraper can send immediate alerts when it finds new roles from bigger-name companies.
+
+1. Edit `.github/data/priority_companies.json` with the companies you want to track.
+2. Add a `PRIORITY_ALERT_WEBHOOK_URL` repository secret (Slack/Discord-compatible webhook).
+3. The scraper will post a dedicated priority alert issue and send a webhook message whenever a new matching role is found.
+
+---
+
 ## ☀️ Summer 2027 Internships
 
 <!-- TABLE_START summer -->
