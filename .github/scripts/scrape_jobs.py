@@ -13,6 +13,7 @@ from pathlib import Path
 SEEN_JOBS_FILE = Path('.github/data/seen_jobs.json')
 TITLE_CACHE_FILE = Path('.github/data/title_classifications.json')
 GEMINI_USAGE_FILE = Path('.github/data/gemini_usage.json')
+FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
 
 GEMINI_DAILY_LIMIT = 1400
 GEMINI_RPM_DELAY = 4.2
@@ -22,6 +23,23 @@ _title_cache = None
 _confidence_cache = {}
 _gemini_calls_today = 0
 _gemini_usage_date = None
+
+DEFAULT_FOLLOWED_COMPANIES = [
+    'Amazon',
+    'Apple',
+    'Databricks',
+    'Google',
+    'Meta',
+    'Microsoft',
+    'NVIDIA',
+    'OpenAI',
+    'Palantir',
+    'Salesforce',
+    'SpaceX',
+    'Stripe',
+    'Tesla',
+    'Waymo',
+]
 
 BOUNDARY_KEYWORDS = [r'\bintern\b', r'\binternship\b', r'\bco-op\b', r'\bcoop\b', r'\bjunior\b',
                      r'\bphd\b', r'\bgraduate\b', r'\bms intern\b',
@@ -385,6 +403,67 @@ def save_seen_jobs(seen):
     SEEN_JOBS_FILE.parent.mkdir(parents=True, exist_ok=True)
     with open(SEEN_JOBS_FILE, 'w') as f:
         json.dump(sorted(list(seen)), f, indent=2)
+
+
+def normalize_company_name(name):
+    return re.sub(r'[^a-z0-9]+', '', name.strip().lower())
+
+
+def load_followed_companies():
+    try:
+        if FOLLOWED_COMPANIES_FILE.exists():
+            with open(FOLLOWED_COMPANIES_FILE) as f:
+                data = json.load(f)
+            if isinstance(data, list):
+                loaded = {
+                    normalize_company_name(c)
+                    for c in data
+                    if isinstance(c, str) and c.strip()
+                }
+                if loaded:
+                    return loaded
+            print('  [alerts] Invalid followed_companies.json, using defaults')
+    except Exception as e:
+        print(f'  [alerts] Failed to load followed companies file: {e}')
+    return {normalize_company_name(c) for c in DEFAULT_FOLLOWED_COMPANIES}
+
+
+def is_followed_company(company, followed_companies):
+    return normalize_company_name(company) in followed_companies
+
+
+def send_followed_company_webhook_alert(job):
+    webhook_url = os.environ.get('PRIORITY_ALERT_WEBHOOK_URL', '').strip()
+    if not webhook_url:
+        return
+
+    if 'discord.com/api/webhooks' in webhook_url:
+        message = (
+            '## 🚨 Followed Company Role Detected\n'
+            f'**Company:** {job["company"]}\n'
+            f'**Role:** {job["title"]}\n'
+            f'**Location:** {job["location"]}\n'
+            f'**Portal:** {job["board"]}\n'
+            f'**Apply:** [Open listing]({job["url"]})'
+        )
+        payload = {'content': message}
+    else:
+        message = (
+            f'Followed company role detected\n'
+            f'Company: {job["company"]}\n'
+            f'Role: {job["title"]}\n'
+            f'Location: {job["location"]}\n'
+            f'Portal: {job["board"]}\n'
+            f'Apply: {job["url"]}'
+        )
+        payload = {'text': message}
+
+    try:
+        resp = requests.post(webhook_url, json=payload, timeout=10)
+        if resp.status_code not in (200, 201, 202, 204):
+            print(f'  [alerts] webhook failed ({resp.status_code}): {resp.text[:200]}')
+    except Exception as e:
+        print(f'  [alerts] webhook error: {e}')
 
 
 def is_tech_title_keywords(title):
@@ -1077,7 +1156,6 @@ def create_github_issue(job, token, repo):
             f'**Needs manual review** — Gemini was unavailable so this was classified by keyword matching only. '
             f'Please verify this is a legitimate tech role before approving.'
         )
-
     body = f"""### Company Name
 
 {job['company']}
@@ -1161,6 +1239,7 @@ def main():
         return
 
     seen = load_seen_jobs()
+    followed_companies = load_followed_companies()
 
     candidate_jobs = []
 
@@ -1254,6 +1333,13 @@ def main():
     print(f'\nFound {len(new_jobs)} new job(s)')
 
     if new_jobs:
+        followed_matches = [j for j in new_jobs if is_followed_company(j['company'], followed_companies)]
+        if followed_matches:
+            print(f'  [alerts] Sending {len(followed_matches)} followed-company alert(s)')
+            for job in followed_matches:
+                send_followed_company_webhook_alert(job)
+                time.sleep(0.3)
+
         listings_file = Path('listings.json')
         readme_file = Path('README.md')
         token = os.environ.get('GITHUB_TOKEN')
