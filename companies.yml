@@ -254,18 +254,44 @@ greenhouse:
 - name: Zscaler
   slug: zscaler
 - name: Zynga
-  slug: zyngacareers
+  slug: zyngacareers- name: Canonical
+  slug: canonical
+- name: DAT Freight & Analytics
+  slug: dat
+- name: Haize Labs
+  slug: haizelabs
+- name: Hudl
+  slug: hudl
+- name: Konrad Group
+  slug: konradgroup
+- name: Later
+  slug: later
+- name: OfferUp
+  slug: offerup
+- name: PathAI
+  slug: pathai
+- name: Ping Identity
+  slug: pingidentity
+- name: QuEra Computing
+  slug: queracomputinginc
+- name: The Trade Desk
+  slug: thetradedesk
+
 lever:
 - name: Blue Origin
   slug: blueorigin
 - name: Coupa Software
   slug: coupa
+- name: Exowatt
+  slug: exowatt
 - name: GenBio AI
   slug: genbio
 - name: Palantir
   slug: palantir
 - name: Plus
   slug: plus-2
+- name: Shield AI
+  slug: shieldai
 - name: Spotify
   slug: spotify
 - name: Valkyrie Trading
@@ -424,6 +450,10 @@ workday:
   tenant: dxctechnology
   instance: wd1
   board: DXCJobs
+- name: Everfox
+  tenant: evergreenix
+  instance: wd1
+  board: external-careers2
 - name: Expedia Group
   tenant: expedia
   instance: wd108
@@ -456,6 +486,10 @@ workday:
   tenant: hpe
   instance: wd5
   board: Jobsathpe
+- name: Leidos
+  tenant: leidos
+  instance: wd5
+  board: External
 - name: Light & Wonder
   tenant: lnw
   instance: wd5
@@ -468,6 +502,10 @@ workday:
   tenant: lseg
   instance: wd3
   board: Careers
+- name: M&T Bank
+  tenant: mtb
+  instance: wd5
+  board: Campus
 - name: Mastercard
   tenant: mastercard
   instance: wd1
@@ -476,6 +514,10 @@ workday:
   tenant: motorolasolutions
   instance: wd5
   board: Careers
+- name: Nelnet
+  tenant: nelnet
+  instance: wd1
+  board: MyNelnet
 - name: Netflix
   tenant: netflix
   instance: wd108
@@ -544,6 +586,10 @@ workday:
   tenant: target
   instance: wd5
   board: targetcareers
+- name: Travelers
+  tenant: travelers
+  instance: wd5
+  board: External
 - name: U.S. Bank
   tenant: usbank
   instance: wd1
@@ -590,6 +636,8 @@ ashby:
   slug: amperity
 - name: Anyscale
   slug: anyscale
+- name: Applied Intuition
+  slug: applied
 - name: Apptronik
   slug: apptronik
 - name: Base Power Company
@@ -618,6 +666,8 @@ ashby:
   slug: ctgt
 - name: Cursor
   slug: cursor
+- name: d-Matrix
+  slug: d-Matrix
 - name: Decagon
   slug: decagon
 - name: ElevenLabs
@@ -628,18 +678,24 @@ ashby:
   slug: ellipsislabs
 - name: Etched
   slug: etched
+- name: Faros AI
+  slug: faros-ai
 - name: Figure
   slug: figure
 - name: FurtherAI
   slug: furtherAI
 - name: Gecko Robotics
   slug: gecko-robotics
+- name: Handshake
+  slug: handshake
 - name: Harvey
   slug: harvey
 - name: Homebase
   slug: homebase
 - name: Kraken
   slug: kraken
+- name: Kustomer
+  slug: kustomer
 - name: Lambda
   slug: lambda
 - name: Lightspeed Commerce
@@ -722,6 +778,8 @@ ashby:
   slug: vercel
 - name: Wealthsimple
   slug: wealthsimple
+- name: WhatNot
+  slug: whatnot
 - name: Workato
   slug: workato
 - name: Zapier
