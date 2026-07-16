@@ -6,9 +6,14 @@ Abridge
 Accenture
 Adobe
 Affirm
+Agilent Technologies
 Airbnb
 Airtable
 Akuna Capital
+Alation
+Altice USA
+Ambarella
+Amperity
 Amplitude
 Analog Devices
 Anaplan
@@ -16,6 +21,7 @@ Anduril
 Anthropic
 Anyscale
 Apple
+Apptronik
 Aquatic
 Arrowstreet Capital
 Asana
@@ -29,6 +35,7 @@ Benchling
 Bill.com
 BillionToOne
 BitGo
+BlackEdge Capital
 BlackRock
 Block
 Bloomberg
@@ -65,7 +72,9 @@ Comcast NBCUniversal
 Commure
 Confluent
 Copart
+CoStar Group
 Coupa Software
+Cresta
 CrowdStrike
 CTGT
 Cursor
@@ -93,16 +102,20 @@ Esri
 Etched
 Expedia Group
 Experian
+Faire
 Fidelity Investments
 Figma
 Figure
+FINRA
 Five Rings
 Flexport
 Flow Traders
 Freshworks
+FurtherAI
 Gecko Robotics
 Gemini
 GenBio AI
+Geneva Trading
 Glean
 Global Payments
 Goldman Sachs
@@ -120,20 +133,26 @@ IMC Trading
 Instacart
 Intel
 Intercom
+InterDigital
 IXL Learning
 Jane Street
 JPMorgan Chase
 Jump Trading
 Juniper Networks
 KAYAK
+KnowBe4
 Kraken
+Labelbox
 Lambda
 LaunchDarkly
+Light & Wonder
 Lightspeed Commerce
 Linear
 LiveRamp
+LSEG
 Lucid Motors
 Lyft
+Manhattan Associates
 Marqeta
 Mastercard
 Mercury
@@ -151,6 +170,7 @@ Neon
 NerdWallet
 Netflix
 Netlify
+Neuralink
 Nextdoor
 Niantic
 Nike
@@ -188,12 +208,15 @@ Pure Storage
 Pylon
 Qualtrics
 Quora
+Radix Trading
 Rakuten International
 Ramp
 Reddit
+Redis
 Replit
 Revionics
 Riot Games
+Rippling
 Robinhood
 Roblox
 Rocket Companies
@@ -204,9 +227,11 @@ Rubrik
 Runway
 SailPoint
 Salesforce
+Samaya AI
 Samsara
 Saronic Technologies
 Scale AI
+Schonfeld Strategic Advisors
 Sentry
 ServiceNow
 Seven Research
@@ -225,14 +250,19 @@ Stoke Space
 Stripe
 StubHub
 Suno
+Symbotic
 T. Rowe Price
 Take-Two Interactive
 Target Corporation
 Temporal
 Tenable
+Tenstorrent
 Toast
+Together AI
 Tower Research Capital
+TransMarket Group
 TripAdvisor
+Truveta
 Twilio
 Twitch
 Two Sigma
@@ -260,6 +290,7 @@ Webflow
 Wells Fargo
 Western Digital
 Wise
+Workato
 Zapier
 Zip
 Zipline
