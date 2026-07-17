@@ -259,6 +259,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| LinkedIn | Associate Product Builder (APB) - Rotational Program | Mountain View, CA | Undergrad | <a href="https://jobs.smartrecruiters.com/LinkedIn3/744000079462496" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | SimpliSafe | Software Engineer I - Video Platform | Boston, MA | Undergrad | <a href="https://job-boards.greenhouse.io/simplisafe/jobs/8049510" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | Akuna Capital | Entry Level Software Engineer - C++ | Chicago, IL | Undergrad | <a href="https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
 | Cadence Design Systems | Software Engineer - New Grad | Burlington, MA | Undergrad | <a href="https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
