@@ -262,6 +262,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| American Express | Software Engineer I, Technology | Sunrise, FL | Undergrad | <a href="https://aexp.eightfold.ai/careers/job/38270703" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | Databricks | Associate Product Manager, New Grad (2027 Start) | <details><summary>**3 locations**</summary>San Francisco, CA</br>Mountain View, CA</br>Bellevue, WA</details> | Undergrad; Masters | <a href="https://www.databricks.com/company/careers/university-recruiting/associate-product-manager-new-grad-2027-start-7586263002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | LinkedIn | Associate Product Builder (APB) - Rotational Program | Mountain View, CA | Undergrad | <a href="https://jobs.smartrecruiters.com/LinkedIn3/744000079462496" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | SimpliSafe | Software Engineer I - Video Platform | Boston, MA | Undergrad | <a href="https://job-boards.greenhouse.io/simplisafe/jobs/8049510" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
