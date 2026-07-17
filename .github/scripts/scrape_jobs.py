@@ -5,6 +5,7 @@ import os
 import re
 import subprocess
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 import requests
 import yaml
@@ -18,6 +19,9 @@ FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
 GEMINI_DAILY_LIMIT = 1400
 GEMINI_RPM_DELAY = 4.2
 GEMINI_BATCH_SIZE = 40
+
+MAX_WORKDAY_PAGES_PER_TERM = 15
+SCRAPER_MAX_WORKERS = 12
 
 _title_cache = None
 _confidence_cache = {}
@@ -545,7 +549,7 @@ def infer_education_level(title):
     return 'Undergrad'
 
 
-def add_job_directly(job, listings_file):
+def add_job_directly(job, listings_file, rebuild=True):
     try:
         listing_type, season = infer_listing_type(job['title'])
         education = infer_education_level(job['title'])
@@ -595,15 +599,16 @@ def add_job_directly(job, listings_file):
         tmp.replace(listings_path)
         print(f'  [direct] Added: {entry["company"]} — {entry["role"]}')
 
-        result = subprocess.run(
-            ['python3', '.github/scripts/rebuild_readme.py'],
-            capture_output=True,
-            text=True,
-        )
-        if result.returncode != 0:
-            print(f'  [direct] rebuild_readme.py failed: {result.stderr[:200]}')
-        else:
-            print(f'  [direct] README rebuilt successfully')
+        if rebuild:
+            result = subprocess.run(
+                ['python3', '.github/scripts/rebuild_readme.py'],
+                capture_output=True,
+                text=True,
+            )
+            if result.returncode != 0:
+                print(f'  [direct] rebuild_readme.py failed: {result.stderr[:200]}')
+            else:
+                print(f'  [direct] README rebuilt successfully')
 
     except Exception as e:
         print(f'  [direct] Failed to add "{job.get("title", "unknown")}": {e}')
@@ -917,6 +922,7 @@ def scrape_workday(company, tenant, instance, board):
 
     for search_term in ['intern', 'new grad', 'early career', 'university']:
         offset = 0
+        pages_fetched = 0
         while True:
             payload = {
                 'appliedFacets': {},
@@ -952,9 +958,10 @@ def scrape_workday(company, tenant, instance, board):
                                 })
                 total = data.get('total', 0)
                 offset += len(postings)
-                if offset >= total:
+                pages_fetched += 1
+                if offset >= total or pages_fetched >= MAX_WORKDAY_PAGES_PER_TERM:
                     break
-                time.sleep(0.3)
+                time.sleep(0.1)
             except Exception as e:
                 print(f'  [{company}] Workday error for "{search_term}": {e}')
                 break
@@ -982,9 +989,9 @@ def scrape_linkedin_apify(company, company_id):
         try:
             resp = requests.post(
                 'https://api.apify.com/v2/acts/harvestapi~linkedin-job-search/run-sync-get-dataset-items',
-                params={'token': apify_token, 'timeout': 120},
+                params={'token': apify_token, 'timeout': 60},
                 json={'searchUrl': search_url, 'count': 15},
-                timeout=150,
+                timeout=90,
             )
             if resp.status_code not in (200, 201):
                 print(f'  [{company}] Apify LinkedIn HTTP {resp.status_code} for "{keyword}"')
@@ -1180,28 +1187,16 @@ def main():
     seen = load_seen_jobs()
     followed_companies = load_followed_companies()
 
-    candidate_jobs = []
+    # Build flat list of (scraper_fn, *args) tasks for all companies.
+    scrape_tasks = []
 
-    def collect_jobs(jobs):
-        for job in jobs:
-            if job['id'] not in seen:
-                candidate_jobs.append(job)
-
-    scrapers = {
-        'greenhouse': scrape_greenhouse,
-        'lever': scrape_lever,
-        'ashby': scrape_ashby,
-    }
-    for board, scraper in scrapers.items():
+    for board, scraper in [
+        ('greenhouse', scrape_greenhouse),
+        ('lever', scrape_lever),
+        ('ashby', scrape_ashby),
+    ]:
         for entry in config.get(board, []):
-            company = entry['name']
-            slug = entry['slug']
-            print(f'Checking {company} ({board}/{slug})...')
-            try:
-                collect_jobs(scraper(company, slug))
-            except Exception as e:
-                print(f'  [{company}] Scraper crashed: {e}')
-            time.sleep(0.4)
+            scrape_tasks.append((scraper, entry['name'], entry['slug'], board))
 
     for board_key, scraper, slug_field in [
         ('smartrecruiters', scrape_smartrecruiters, 'identifier'),
@@ -1210,42 +1205,65 @@ def main():
         ('pinpoint', scrape_pinpoint, 'slug'),
     ]:
         for entry in config.get(board_key, []):
-            company = entry['name']
-            slug = entry[slug_field]
-            print(f'Checking {company} ({board_key}/{slug})...')
-            try:
-                collect_jobs(scraper(company, slug))
-            except Exception as e:
-                print(f'  [{company}] Scraper crashed: {e}')
-            time.sleep(0.4)
+            scrape_tasks.append((scraper, entry['name'], entry[slug_field], board_key))
 
     for entry in config.get('workday', []):
-        company = entry['name']
-        tenant = entry['tenant']
-        instance = entry['instance']
-        board = entry.get('board', '')
-        print(f'Checking {company} (workday/{tenant})...')
-        try:
-            collect_jobs(scrape_workday(company, tenant, instance, board))
-        except Exception as e:
-            print(f'  [{company}] Scraper crashed: {e}')
-        time.sleep(0.4)
+        scrape_tasks.append((
+            scrape_workday,
+            entry['name'], entry['tenant'], entry['instance'], entry.get('board', ''),
+            'workday',
+        ))
 
     for entry in config.get('linkedin', []):
-        company = entry['name']
-        company_id = str(entry['company_id'])
-        print(f'Checking {company} (LinkedIn via Apify)...')
+        scrape_tasks.append((scrape_linkedin_apify, entry['name'], str(entry['company_id']), 'linkedin'))
+
+    scrape_tasks.append((scrape_amazon, 'Amazon', 'amazon.jobs'))
+
+    def _run_task(task):
+        fn, *args = task
+        # Last element is the board label (for logging), not a real arg for most scrapers.
+        # scrape_workday takes (company, tenant, instance, board_name) — all real args.
+        # For non-workday scrapers the last positional arg is our board label.
+        board_label = args[-1]
+        scraper_args = args[:-1]
+        company = scraper_args[0] if scraper_args else 'Unknown'
+        print(f'Checking {company} ({board_label})...')
         try:
-            collect_jobs(scrape_linkedin_apify(company, company_id))
+            return fn(*scraper_args)
         except Exception as e:
             print(f'  [{company}] Scraper crashed: {e}')
+            return []
 
-    print('Checking Amazon (amazon.jobs)...')
-    try:
-        collect_jobs(scrape_amazon())
-    except Exception as e:
-        print(f'  [Amazon] Scraper crashed: {e}')
-    time.sleep(0.4)
+    # Workday needs all positional args (company, tenant, instance, board_name) so it
+    # doesn't follow the board-label-as-last-arg convention — handle separately.
+    def _run_workday_task(task):
+        _, company, tenant, instance, board_name, _label = task
+        print(f'Checking {company} (workday/{tenant})...')
+        try:
+            return scrape_workday(company, tenant, instance, board_name)
+        except Exception as e:
+            print(f'  [{company}] Scraper crashed: {e}')
+            return []
+
+    candidate_jobs = []
+    print(f'Scraping {len(scrape_tasks)} sources concurrently (max {SCRAPER_MAX_WORKERS} workers)...')
+
+    with ThreadPoolExecutor(max_workers=SCRAPER_MAX_WORKERS) as executor:
+        futures = {}
+        for task in scrape_tasks:
+            fn = task[0]
+            if fn is scrape_workday:
+                futures[executor.submit(_run_workday_task, task)] = task
+            else:
+                futures[executor.submit(_run_task, task)] = task
+
+        for future in as_completed(futures):
+            try:
+                for job in future.result():
+                    if job['id'] not in seen:
+                        candidate_jobs.append(job)
+            except Exception as e:
+                print(f'  [task] Future error: {e}')
 
     print(f'\nPass 1 complete: {len(candidate_jobs)} candidate job(s) to classify')
 
@@ -1287,8 +1305,19 @@ def main():
         low_confidence = [j for j in new_jobs if j.get('confident') != True]
 
         for job in high_confidence:
-            add_job_directly(job, listings_file)
+            add_job_directly(job, listings_file, rebuild=False)
             time.sleep(0.5)
+
+        if high_confidence:
+            result = subprocess.run(
+                ['python3', '.github/scripts/rebuild_readme.py'],
+                capture_output=True,
+                text=True,
+            )
+            if result.returncode != 0:
+                print(f'  [direct] rebuild_readme.py failed: {result.stderr[:200]}')
+            else:
+                print(f'  [direct] README rebuilt ({len(high_confidence)} job(s) added)')
 
         if low_confidence:
             if not token or not repo:

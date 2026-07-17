@@ -30,7 +30,7 @@ jobs:
         run: pip install requests pyyaml
 
       - name: Scrape job boards
-        timeout-minutes: 50
+        timeout-minutes: 55
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
