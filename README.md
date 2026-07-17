@@ -24,22 +24,13 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ---
 
-## Priority company alerts
-
-The scraper can send immediate alerts when it finds new roles from bigger-name companies.
-
-1. Edit `.github/data/priority_companies.json` with the companies you want to track.
-2. Add a `PRIORITY_ALERT_WEBHOOK_URL` repository secret (Slack/Discord-compatible webhook).
-3. The scraper will post a dedicated priority alert issue and send a webhook message whenever a new matching role is found.
-
----
-
 ## ☀️ Summer 2027 Internships
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Aquatic | Software Engineer, Intern (Summer 2027) | Chicago, IL | Undergrad | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | Blue River Technology | Machine Learning Intern - Autonomy | Santa Clara, CA | Undergrad | <a href="https://www.bluerivertechnology.com/job/?gh_jid=7947246" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
 | Citadel Securities | Machine Learning Researcher PhD Intern | <details><summary>**2 locations**</summary>Miami, FL</br>New York, NY</details> | PhD | <a href="https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
 | Exowatt | Software Engineering Intern - Inventory Automation & IoT/Robotics | Austin, TX | Undergrad | <a href="https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
