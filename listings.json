@@ -913,18 +913,6 @@
   },
   {
     "company": "Amazon",
-    "role": "Software Development Engineer Internship - Fall 2026 (Canada)",
-    "location": "Vancouver, BC",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10"
-  },
-  {
-    "company": "Amazon",
     "role": "Fall 2026 Applied Science Internship - Canada, PhD Student Science Recruiting",
     "location": "Vancouver, BC",
     "type": "offcycle",
@@ -1165,60 +1153,12 @@
   },
   {
     "company": "Capital One",
-    "role": "Data Analyst Intern",
-    "location": "McLean, VA; Richmond, VA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "No \u2014 does not sponsor",
-    "citizenship": "No",
-    "date_added": "2026-07-06"
-  },
-  {
-    "company": "Capital One",
-    "role": "Product Development Internship Program",
-    "location": "McLean, VA; Plano, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "No \u2014 does not sponsor",
-    "citizenship": "No",
-    "date_added": "2026-07-06"
-  },
-  {
-    "company": "Capital One",
     "role": "Business Analyst Associate",
     "location": "McLean, VA; Chicago, IL; New York, NY; Plano, TX; Richmond, VA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Business-Analyst-Associate---August-2027_R245108-1",
-    "sponsorship": "No \u2014 does not sponsor",
-    "citizenship": "No",
-    "date_added": "2026-07-06"
-  },
-  {
-    "company": "Capital One",
-    "role": "Data Analyst Associate",
-    "location": "McLean, VA; Richmond, VA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "No \u2014 does not sponsor",
-    "citizenship": "No",
-    "date_added": "2026-07-06"
-  },
-  {
-    "company": "Capital One",
-    "role": "Product Development Program Associate",
-    "location": "McLean, VA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
     "sponsorship": "No \u2014 does not sponsor",
     "citizenship": "No",
     "date_added": "2026-07-06"
@@ -1231,18 +1171,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-09"
-  },
-  {
-    "company": "Optiver",
-    "role": "Software Engineer Intern",
-    "location": "Austin, TX; Chicago, IL",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-09"
@@ -2220,18 +2148,6 @@
     "date_added": "2026-07-10"
   },
   {
-    "company": "Fiserv",
-    "role": "Application Development Intern",
-    "location": "Alpharetta, GA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10"
-  },
-  {
     "company": "Gecko Robotics",
     "role": "Software Engineer, New Graduate Rotational Program",
     "location": "Boston, MA; New York, NY",
@@ -2292,18 +2208,6 @@
     "date_added": "2026-07-10"
   },
   {
-    "company": "Hudson River Trading",
-    "role": "Algorithm Developer",
-    "location": "New York, NY",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10"
-  },
-  {
     "company": "iHerb",
     "role": "Software Development Intern",
     "location": "Remote (US)",
@@ -2311,18 +2215,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://job-boards.greenhouse.io/iherb/jobs/7776154003",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10"
-  },
-  {
-    "company": "Intercontinental Exchange",
-    "role": "AI, Data & Machine Learning Intern",
-    "location": "New York, NY",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-10"
@@ -2520,18 +2412,6 @@
     "date_added": "2026-07-10"
   },
   {
-    "company": "Profound",
-    "role": "Software Engineer",
-    "location": "New York, NY; San Francisco, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10"
-  },
-  {
     "company": "Pylon",
     "role": "Software Engineer Intern",
     "location": "San Francisco, CA",
@@ -2539,18 +2419,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10"
-  },
-  {
-    "company": "Qualtrics",
-    "role": "Software Engineer I, Digital Experience",
-    "location": "Seattle, WA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-10"
@@ -2748,18 +2616,6 @@
     "date_added": "2026-07-10"
   },
   {
-    "company": "Trexquant",
-    "role": "Quantitative Researcher",
-    "location": "Stamford, CT",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10"
-  },
-  {
     "company": "Twitch",
     "role": "Software Engineer I",
     "location": "San Francisco, CA; Seattle, WA",
@@ -2784,18 +2640,6 @@
     "date_added": "2026-07-10"
   },
   {
-    "company": "Valkyrie Trading",
-    "role": "Derivatives Trader",
-    "location": "Chicago, IL",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10"
-  },
-  {
     "company": "Veeam Software",
     "role": "Software Engineering Intern, Policy Engineering",
     "location": "San Jose, CA",
@@ -2815,18 +2659,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10"
-  },
-  {
-    "company": "Voloridge Investment Management",
-    "role": "Quantitative Developer Intern",
-    "location": "Jupiter, FL",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-10"
@@ -2863,30 +2695,6 @@
     "season": "Fall 2026",
     "education": "Undergrad",
     "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10"
-  },
-  {
-    "company": "Circle",
-    "role": "Software Engineer, Backend",
-    "location": "Remote (US)",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10"
-  },
-  {
-    "company": "Shopify",
-    "role": "Software Engineer",
-    "location": "Remote (US); Remote (Canada)",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-10"
