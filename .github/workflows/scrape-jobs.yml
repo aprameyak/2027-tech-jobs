@@ -42,7 +42,7 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add --ignore-unmatch .github/data/seen_jobs_greenhouse.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/followed_companies.json .github/data/pending_greenhouse.json
+          git add .github/data/seen_jobs_greenhouse.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/followed_companies.json .github/data/pending_greenhouse.json
           git diff --staged --quiet || (git commit -m "scraper data: greenhouse" && git pull --rebase -X ours && git push)
 
   scrape-ashby:
@@ -72,7 +72,7 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add --ignore-unmatch .github/data/seen_jobs_ashby.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/pending_ashby.json
+          git add .github/data/seen_jobs_ashby.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/pending_ashby.json
           git diff --staged --quiet || (git commit -m "scraper data: ashby" && git pull --rebase -X ours && git push)
 
   scrape-workday:
@@ -102,7 +102,7 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add --ignore-unmatch .github/data/seen_jobs_workday.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/pending_workday.json
+          git add .github/data/seen_jobs_workday.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/pending_workday.json
           git diff --staged --quiet || (git commit -m "scraper data: workday" && git pull --rebase -X ours && git push)
 
   scrape-linkedin-amazon:
@@ -133,7 +133,7 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add --ignore-unmatch .github/data/seen_jobs_linkedin_amazon.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/pending_linkedin_amazon.json
+          git add .github/data/seen_jobs_linkedin_amazon.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/pending_linkedin_amazon.json
           git diff --staged --quiet || (git commit -m "scraper data: linkedin_amazon" && git pull --rebase -X ours && git push)
 
   scrape-other:
@@ -163,7 +163,7 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add --ignore-unmatch .github/data/seen_jobs_other.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/pending_other.json
+          git add .github/data/seen_jobs_other.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/pending_other.json
           git diff --staged --quiet || (git commit -m "scraper data: other" && git pull --rebase -X ours && git push)
 
   apply:
