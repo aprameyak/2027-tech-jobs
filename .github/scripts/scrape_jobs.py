@@ -298,7 +298,7 @@ def batch_classify_with_gemini(titles):
             )
 
             if resp.status_code == 429:
-                wait = (2 ** attempt) * 15
+                wait = (2 ** attempt) * 5
                 print(f'  [Gemini] 429 rate limit — waiting {wait}s (attempt {attempt + 1}/3)')
                 time.sleep(wait)
                 continue
