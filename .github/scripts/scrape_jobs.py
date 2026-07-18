@@ -281,7 +281,7 @@ def batch_classify_with_gemini(titles):
         f'Return a JSON array of exactly {len(titles)} objects in the same order.'
     )
 
-    for attempt in range(3):
+    for attempt in range(2):
         try:
             resp = requests.post(
                 f'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}',
@@ -299,7 +299,7 @@ def batch_classify_with_gemini(titles):
 
             if resp.status_code == 429:
                 wait = (2 ** attempt) * 5
-                print(f'  [Gemini] 429 rate limit — waiting {wait}s (attempt {attempt + 1}/3)')
+                print(f'  [Gemini] 429 rate limit — waiting {wait}s (attempt {attempt + 1}/2)')
                 time.sleep(wait)
                 continue
 
@@ -330,8 +330,8 @@ def batch_classify_with_gemini(titles):
             print(f'  [Gemini] JSON parse error: {e}')
             return {}
         except requests.exceptions.Timeout:
-            print(f'  [Gemini] Timeout (attempt {attempt + 1}/3)')
-            if attempt < 2:
+            print(f'  [Gemini] Timeout (attempt {attempt + 1}/2)')
+            if attempt < 1:
                 time.sleep(5)
         except Exception as e:
             print(f'  [Gemini] Error: {e}')
@@ -368,7 +368,12 @@ def classify_titles_batch(title_list):
 
     for i in range(0, len(uncached), GEMINI_BATCH_SIZE):
         if _gemini_calls_today >= GEMINI_DAILY_LIMIT:
-            print(f'  [Gemini] Daily limit reached — {len(uncached) - i} titles unclassified')
+            print(f'  [Gemini] Daily limit reached — {len(uncached) - i} title(s) using keyword fallback')
+            for title in uncached[i:]:
+                tl = title.lower()
+                cache[tl] = is_tech_title_keywords(title)
+                _confidence_cache[tl] = 'low'
+                classified += 1
             break
         batch = uncached[i:i + GEMINI_BATCH_SIZE]
         results = batch_classify_with_gemini(batch)
@@ -377,6 +382,12 @@ def classify_titles_batch(title_list):
             if result is not None:
                 cache[title.lower()] = bool(result.get('is_tech', False))
                 _confidence_cache[title.lower()] = result.get('confidence', 'medium')
+                classified += 1
+            else:
+                # Gemini failed for this title — keyword fallback so classify_title
+                # won't retry Gemini and waste more time
+                cache[title.lower()] = is_tech_title_keywords(title)
+                _confidence_cache[title.lower()] = 'low'
                 classified += 1
 
     return classified
