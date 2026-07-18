@@ -1359,6 +1359,16 @@ def main():
 
     print(f'\nFound {len(new_jobs)} new job(s)')
 
+    if PENDING_FILE is not None:
+        # Board-group mode: always write the pending file (even empty) so
+        # git add in the workflow step never fails on a missing file.
+        high_confidence_all = [j for j in new_jobs if j.get('confident') == True]
+        pending = [build_entry(j) for j in high_confidence_all]
+        PENDING_FILE.parent.mkdir(parents=True, exist_ok=True)
+        with open(PENDING_FILE, 'w') as f:
+            json.dump(pending, f, indent=2)
+        print(f'  [pending] Saved {len(pending)} job(s) to {PENDING_FILE}')
+
     if new_jobs:
         followed_matches = [j for j in new_jobs if is_followed_company(j['company'], followed_companies)]
         if followed_matches:
@@ -1374,15 +1384,7 @@ def main():
         high_confidence = [j for j in new_jobs if j.get('confident') == True]
         low_confidence = [j for j in new_jobs if j.get('confident') != True]
 
-        if PENDING_FILE is not None:
-            # Board-group mode: always write the pending file (even empty) so
-            # git add in the workflow step never fails on a missing file.
-            pending = [build_entry(j) for j in high_confidence]
-            PENDING_FILE.parent.mkdir(parents=True, exist_ok=True)
-            with open(PENDING_FILE, 'w') as f:
-                json.dump(pending, f, indent=2)
-            print(f'  [pending] Saved {len(pending)} job(s) to {PENDING_FILE}')
-        else:
+        if PENDING_FILE is None:
             for job in high_confidence:
                 add_job_directly(job, listings_file, rebuild=False)
                 time.sleep(0.5)
