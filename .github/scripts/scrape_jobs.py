@@ -94,20 +94,27 @@ HARD_REJECT_SIGNALS = [
     'legal counsel', 'general counsel', 'legal operations',
 ]
 
+# Two-letter US state and Canadian province abbreviations.
+# These are matched with a word-boundary regex in is_us_location() to avoid
+# false positives like ', ca' matching 'ZA, Cape Town' or ', ri' matching 'SA, Riyadh'.
+_US_STATE_ABBRS = {
+    'al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de', 'fl', 'ga', 'hi',
+    'id', 'il', 'in', 'ia', 'ks', 'ky', 'la', 'me', 'md', 'ma', 'mi',
+    'mn', 'ms', 'mo', 'mt', 'ne', 'nv', 'nh', 'nj', 'nm', 'ny', 'nc',
+    'nd', 'oh', 'ok', 'or', 'pa', 'ri', 'sc', 'sd', 'tn', 'tx', 'ut',
+    'vt', 'va', 'wa', 'wv', 'wi', 'wy', 'dc',
+    'on', 'bc', 'qc', 'ab', 'mb', 'sk', 'ns', 'nb', 'nl', 'pe',
+}
+
+# Unambiguous city/country keywords — full names that won't substring-match
+# foreign locations (unlike 'san jose' which also exists in Costa Rica).
 US_SIGNALS = [
-    'united states', 'usa', 'u.s.a', ', al', ', ak', ', az', ', ar',
-    ', ca', ', co', ', ct', ', de', ', fl', ', ga', ', hi', ', id',
-    ', il', ', in', ', ia', ', ks', ', ky', ', la', ', me', ', md',
-    ', ma', ', mi', ', mn', ', ms', ', mo', ', mt', ', ne', ', nv',
-    ', nh', ', nj', ', nm', ', ny', ', nc', ', nd', ', oh', ', ok',
-    ', or', ', pa', ', ri', ', sc', ', sd', ', tn', ', tx', ', ut',
-    ', vt', ', va', ', wa', ', wv', ', wi', ', wy', ', dc',
+    'united states', 'usa', 'u.s.a',
     'new york', 'san francisco', 'los angeles', 'seattle', 'boston',
     'chicago', 'austin', 'denver', 'atlanta', 'miami', 'dallas',
     'raleigh', 'washington d', 'menlo park', 'palo alto', 'mountain view',
-    'san jose', 'redwood city', 'bellevue', 'portland',
+    'redwood city', 'bellevue', 'portland',
     'toronto', 'vancouver', 'montreal', 'ottawa', 'calgary', 'canada',
-    ', on', ', bc', ', qc', ', ab',
 ]
 
 NON_US_SIGNALS = [
@@ -118,13 +125,19 @@ NON_US_SIGNALS = [
     'dublin', 'ireland',
     'sydney', 'melbourne', 'australia',
     'singapore',
-    'bangalore', 'india',
+    'bangalore', 'hyderabad', 'india',
     'tokyo', 'japan',
     'beijing', 'shanghai', 'china',
     'tel aviv', 'israel',
     'mexico city', 'mexico',
     'brazil', 'sao paulo',
     'worldwide', 'global (non-us)',
+    # Amazon-specific ISO country code prefixes for non-US/CA countries
+    'cape town', 'south africa',
+    'riyadh', 'saudi arabia',
+    'costa rica',
+    'za, ', 'sa, ', 'cr, ', 'gb, ', 'de, ', 'fr, ', 'nl, ', 'ie, ',
+    'au, ', 'sg, ', 'in, ', 'jp, ', 'cn, ', 'il, ', 'mx, ', 'br, ',
 ]
 
 HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; job-scraper/1.0)'}
@@ -525,7 +538,16 @@ def is_us_location(location):
                        'remote (canada)', 'canada remote', 'remote, canada'):
         return True
 
-    return any(s in loc for s in US_SIGNALS)
+    if any(s in loc for s in US_SIGNALS):
+        return True
+
+    # Match state/province abbreviations with word boundary so ', ca' doesn't
+    # fire on 'ZA, Cape Town' and ', ri' doesn't fire on 'SA, Riyadh'.
+    if any(re.search(r',\s+' + abbr + r'(?:[^a-z]|$)', loc)
+           for abbr in _US_STATE_ABBRS):
+        return True
+
+    return False
 
 
 def infer_listing_type(title):
