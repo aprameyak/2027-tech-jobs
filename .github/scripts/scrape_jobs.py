@@ -1375,14 +1375,13 @@ def main():
         low_confidence = [j for j in new_jobs if j.get('confident') != True]
 
         if PENDING_FILE is not None:
-            # Board-group mode: write to pending file so a single apply job
-            # can merge all groups into listings.json without git conflicts.
+            # Board-group mode: always write the pending file (even empty) so
+            # git add in the workflow step never fails on a missing file.
             pending = [build_entry(j) for j in high_confidence]
-            if pending:
-                PENDING_FILE.parent.mkdir(parents=True, exist_ok=True)
-                with open(PENDING_FILE, 'w') as f:
-                    json.dump(pending, f, indent=2)
-                print(f'  [pending] Saved {len(pending)} job(s) to {PENDING_FILE}')
+            PENDING_FILE.parent.mkdir(parents=True, exist_ok=True)
+            with open(PENDING_FILE, 'w') as f:
+                json.dump(pending, f, indent=2)
+            print(f'  [pending] Saved {len(pending)} job(s) to {PENDING_FILE}')
         else:
             for job in high_confidence:
                 add_job_directly(job, listings_file, rebuild=False)
