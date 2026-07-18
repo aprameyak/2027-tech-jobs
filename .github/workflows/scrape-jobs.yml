@@ -4,45 +4,179 @@ on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
+    inputs:
+      board_group:
+        description: 'Board group to scrape (leave blank for all)'
+        required: false
+        default: ''
 
 concurrency:
   group: readme-updates
   cancel-in-progress: false
 
 jobs:
-  scrape:
+  scrape-greenhouse:
+    if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'greenhouse' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
       issues: write
-
     steps:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.REPO_PAT }}
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Install dependencies
         run: pip install requests pyyaml
+      - name: Scrape Greenhouse boards
+        timeout-minutes: 30
+        env:
+          BOARD_GROUP: greenhouse
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
+        run: python .github/scripts/scrape_jobs.py
+      - name: Commit changes
+        run: |
+          git config user.name "Aprameya Kannan"
+          git config user.email "aprameyakannan@gmail.com"
+          git add .github/data/seen_jobs_greenhouse.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/followed_companies.json listings.json README.md
+          git diff --staged --quiet || git commit -m "add auto-discovered listings and update scraper data"
+          git pull --rebase -X ours && git push
 
-      - name: Scrape job boards
+  scrape-ashby:
+    if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'ashby' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.REPO_PAT }}
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install requests pyyaml
+      - name: Scrape Ashby boards
+        timeout-minutes: 30
+        env:
+          BOARD_GROUP: ashby
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
+        run: python .github/scripts/scrape_jobs.py
+      - name: Commit changes
+        run: |
+          git config user.name "Aprameya Kannan"
+          git config user.email "aprameyakannan@gmail.com"
+          git add .github/data/seen_jobs_ashby.json .github/data/title_classifications.json .github/data/gemini_usage.json listings.json README.md
+          git diff --staged --quiet || git commit -m "add auto-discovered listings and update scraper data"
+          git pull --rebase -X ours && git push
+
+  scrape-workday:
+    if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'workday' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.REPO_PAT }}
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install requests pyyaml
+      - name: Scrape Workday boards
+        timeout-minutes: 40
+        env:
+          BOARD_GROUP: workday
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
+        run: python .github/scripts/scrape_jobs.py
+      - name: Commit changes
+        run: |
+          git config user.name "Aprameya Kannan"
+          git config user.email "aprameyakannan@gmail.com"
+          git add .github/data/seen_jobs_workday.json .github/data/title_classifications.json .github/data/gemini_usage.json listings.json README.md
+          git diff --staged --quiet || git commit -m "add auto-discovered listings and update scraper data"
+          git pull --rebase -X ours && git push
+
+  scrape-linkedin-amazon:
+    if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'linkedin_amazon' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.REPO_PAT }}
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install requests pyyaml
+      - name: Scrape LinkedIn and Amazon
         timeout-minutes: 55
         env:
+          BOARD_GROUP: linkedin_amazon
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
         run: python .github/scripts/scrape_jobs.py
-
       - name: Commit changes
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/followed_companies.json listings.json README.md
+          git add .github/data/seen_jobs_linkedin_amazon.json .github/data/title_classifications.json .github/data/gemini_usage.json listings.json README.md
+          git diff --staged --quiet || git commit -m "add auto-discovered listings and update scraper data"
+          git pull --rebase -X ours && git push
+
+  scrape-other:
+    if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'other' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.REPO_PAT }}
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install requests pyyaml
+      - name: Scrape Lever, SmartRecruiters, Workable, Recruitee, Pinpoint
+        timeout-minutes: 25
+        env:
+          BOARD_GROUP: other
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
+        run: python .github/scripts/scrape_jobs.py
+      - name: Commit changes
+        run: |
+          git config user.name "Aprameya Kannan"
+          git config user.email "aprameyakannan@gmail.com"
+          git add .github/data/seen_jobs_other.json .github/data/title_classifications.json .github/data/gemini_usage.json listings.json README.md
           git diff --staged --quiet || git commit -m "add auto-discovered listings and update scraper data"
           git pull --rebase -X ours && git push
