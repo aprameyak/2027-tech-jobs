@@ -191,4 +191,4 @@ jobs:
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
           git add listings.json README.md .github/data/
-          git diff --staged --quiet || (git commit -m "add auto-discovered listings and update scraper data" && git push)
+          git diff --staged --quiet || (git commit -m "add auto-discovered listings and update scraper data" && git pull --rebase -X ours && git push)
