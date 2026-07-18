@@ -11,7 +11,10 @@ import requests
 import yaml
 from pathlib import Path
 
-SEEN_JOBS_FILE = Path('.github/data/seen_jobs.json')
+BOARD_GROUP = os.environ.get('BOARD_GROUP', '').strip()
+
+_seen_jobs_filename = f'seen_jobs_{BOARD_GROUP}.json' if BOARD_GROUP else 'seen_jobs.json'
+SEEN_JOBS_FILE = Path(f'.github/data/{_seen_jobs_filename}')
 TITLE_CACHE_FILE = Path('.github/data/title_classifications.json')
 GEMINI_USAGE_FILE = Path('.github/data/gemini_usage.json')
 FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
@@ -1174,6 +1177,15 @@ _No response_
         print(f'  Failed ({resp.status_code}): {resp.text[:200]}')
 
 
+_BOARD_GROUP_BOARDS = {
+    'greenhouse': {'greenhouse'},
+    'ashby': {'ashby'},
+    'workday': {'workday'},
+    'linkedin_amazon': {'linkedin', 'amazon'},
+    'other': {'lever', 'smartrecruiters', 'workable', 'recruitee', 'pinpoint'},
+}
+
+
 def main():
     load_gemini_usage()
 
@@ -1183,6 +1195,12 @@ def main():
     except Exception as e:
         print(f'ERROR: Failed to load companies.yml: {e}')
         return
+
+    included_boards = _BOARD_GROUP_BOARDS.get(BOARD_GROUP) if BOARD_GROUP else None
+    if BOARD_GROUP:
+        print(f'Board group: {BOARD_GROUP} (boards: {sorted(included_boards)})')
+    else:
+        print('Board group: all')
 
     seen = load_seen_jobs()
     followed_companies = load_followed_companies()
@@ -1195,8 +1213,9 @@ def main():
         ('lever', scrape_lever),
         ('ashby', scrape_ashby),
     ]:
-        for entry in config.get(board, []):
-            scrape_tasks.append((scraper, entry['name'], entry['slug'], board))
+        if included_boards is None or board in included_boards:
+            for entry in config.get(board, []):
+                scrape_tasks.append((scraper, entry['name'], entry['slug'], board))
 
     for board_key, scraper, slug_field in [
         ('smartrecruiters', scrape_smartrecruiters, 'identifier'),
@@ -1204,20 +1223,24 @@ def main():
         ('recruitee', scrape_recruitee, 'slug'),
         ('pinpoint', scrape_pinpoint, 'slug'),
     ]:
-        for entry in config.get(board_key, []):
-            scrape_tasks.append((scraper, entry['name'], entry[slug_field], board_key))
+        if included_boards is None or board_key in included_boards:
+            for entry in config.get(board_key, []):
+                scrape_tasks.append((scraper, entry['name'], entry[slug_field], board_key))
 
-    for entry in config.get('workday', []):
-        scrape_tasks.append((
-            scrape_workday,
-            entry['name'], entry['tenant'], entry['instance'], entry.get('board', ''),
-            'workday',
-        ))
+    if included_boards is None or 'workday' in included_boards:
+        for entry in config.get('workday', []):
+            scrape_tasks.append((
+                scrape_workday,
+                entry['name'], entry['tenant'], entry['instance'], entry.get('board', ''),
+                'workday',
+            ))
 
-    for entry in config.get('linkedin', []):
-        scrape_tasks.append((scrape_linkedin_apify, entry['name'], str(entry['company_id']), 'linkedin'))
+    if included_boards is None or 'linkedin' in included_boards:
+        for entry in config.get('linkedin', []):
+            scrape_tasks.append((scrape_linkedin_apify, entry['name'], str(entry['company_id']), 'linkedin'))
 
-    scrape_tasks.append((scrape_amazon, 'Amazon', 'amazon.jobs'))
+    if included_boards is None or 'amazon' in included_boards:
+        scrape_tasks.append(('amazon_special', scrape_amazon))
 
     def _run_task(task):
         fn, *args = task
@@ -1245,6 +1268,14 @@ def main():
             print(f'  [{company}] Scraper crashed: {e}')
             return []
 
+    def _run_amazon_task():
+        print('Checking Amazon (amazon.jobs)...')
+        try:
+            return scrape_amazon()
+        except Exception as e:
+            print(f'  [Amazon] Scraper crashed: {e}')
+            return []
+
     candidate_jobs = []
     print(f'Scraping {len(scrape_tasks)} sources concurrently (max {SCRAPER_MAX_WORKERS} workers)...')
 
@@ -1252,7 +1283,9 @@ def main():
         futures = {}
         for task in scrape_tasks:
             fn = task[0]
-            if fn is scrape_workday:
+            if fn == 'amazon_special':
+                futures[executor.submit(_run_amazon_task)] = task
+            elif fn is scrape_workday:
                 futures[executor.submit(_run_workday_task, task)] = task
             else:
                 futures[executor.submit(_run_task, task)] = task
@@ -1335,7 +1368,7 @@ def main():
     save_seen_jobs(seen)
     save_title_cache()
     save_gemini_usage()
-    print(f'Gemini calls today: {_gemini_calls_today}')
+    print(f'Board group: {BOARD_GROUP or "all"} | Gemini calls today: {_gemini_calls_today}')
     print('Done')
 
 
