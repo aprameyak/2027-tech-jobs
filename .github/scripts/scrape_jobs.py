@@ -15,6 +15,7 @@ BOARD_GROUP = os.environ.get('BOARD_GROUP', '').strip()
 
 _seen_jobs_filename = f'seen_jobs_{BOARD_GROUP}.json' if BOARD_GROUP else 'seen_jobs.json'
 SEEN_JOBS_FILE = Path(f'.github/data/{_seen_jobs_filename}')
+PENDING_FILE = Path(f'.github/data/pending_{BOARD_GROUP}.json') if BOARD_GROUP else None
 TITLE_CACHE_FILE = Path('.github/data/title_classifications.json')
 GEMINI_USAGE_FILE = Path('.github/data/gemini_usage.json')
 FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
@@ -550,6 +551,31 @@ def infer_education_level(title):
     if any(kw in t for kw in ['master', 'ms ', 'm.s.', 'masters', 'meng', 'm.eng']):
         return 'Masters'
     return 'Undergrad'
+
+
+def build_entry(job):
+    """Build a listings.json entry dict from a scraped job."""
+    listing_type, season = infer_listing_type(job['title'])
+    education = infer_education_level(job['title'])
+    location = normalize_location(job.get('location', ''))
+    table = 'summer'
+    if listing_type == 'New Grad (Full-Time)':
+        table = 'newgrad'
+    elif season in ('Co-op', 'Fall 2027', 'Spring 2027', 'Winter 2027',
+                    'Fall 2026', 'Spring 2026', 'Winter 2026', 'Summer 2026'):
+        table = 'offcycle'
+    return {
+        'company': job['company'],
+        'role': job['title'],
+        'location': location,
+        'type': table,
+        'season': season,
+        'education': education,
+        'url': job['url'],
+        'sponsorship': 'Unknown',
+        'citizenship': 'Unknown',
+        'date_added': datetime.now().strftime('%Y-%m-%d'),
+    }
 
 
 def add_job_directly(job, listings_file, rebuild=True):
@@ -1337,20 +1363,30 @@ def main():
         high_confidence = [j for j in new_jobs if j.get('confident') == True]
         low_confidence = [j for j in new_jobs if j.get('confident') != True]
 
-        for job in high_confidence:
-            add_job_directly(job, listings_file, rebuild=False)
-            time.sleep(0.5)
+        if PENDING_FILE is not None:
+            # Board-group mode: write to pending file so a single apply job
+            # can merge all groups into listings.json without git conflicts.
+            pending = [build_entry(j) for j in high_confidence]
+            if pending:
+                PENDING_FILE.parent.mkdir(parents=True, exist_ok=True)
+                with open(PENDING_FILE, 'w') as f:
+                    json.dump(pending, f, indent=2)
+                print(f'  [pending] Saved {len(pending)} job(s) to {PENDING_FILE}')
+        else:
+            for job in high_confidence:
+                add_job_directly(job, listings_file, rebuild=False)
+                time.sleep(0.5)
 
-        if high_confidence:
-            result = subprocess.run(
-                ['python3', '.github/scripts/rebuild_readme.py'],
-                capture_output=True,
-                text=True,
-            )
-            if result.returncode != 0:
-                print(f'  [direct] rebuild_readme.py failed: {result.stderr[:200]}')
-            else:
-                print(f'  [direct] README rebuilt ({len(high_confidence)} job(s) added)')
+            if high_confidence:
+                result = subprocess.run(
+                    ['python3', '.github/scripts/rebuild_readme.py'],
+                    capture_output=True,
+                    text=True,
+                )
+                if result.returncode != 0:
+                    print(f'  [direct] rebuild_readme.py failed: {result.stderr[:200]}')
+                else:
+                    print(f'  [direct] README rebuilt ({len(high_confidence)} job(s) added)')
 
         if low_confidence:
             if not token or not repo:
