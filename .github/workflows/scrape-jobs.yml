@@ -43,7 +43,10 @@ jobs:
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
           git add .github/data/seen_jobs_greenhouse.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/followed_companies.json .github/data/pending_greenhouse.json
-          git diff --staged --quiet || (git commit -m "scraper data: greenhouse" && git pull --rebase -X ours && git push)
+          if ! git diff --staged --quiet; then
+            git commit -m "scraper data: greenhouse"
+            for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
+          fi
 
   scrape-ashby:
     if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'ashby' }}
@@ -73,7 +76,10 @@ jobs:
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
           git add .github/data/seen_jobs_ashby.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/pending_ashby.json
-          git diff --staged --quiet || (git commit -m "scraper data: ashby" && git pull --rebase -X ours && git push)
+          if ! git diff --staged --quiet; then
+            git commit -m "scraper data: ashby"
+            for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
+          fi
 
   scrape-workday:
     if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'workday' }}
@@ -103,7 +109,10 @@ jobs:
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
           git add .github/data/seen_jobs_workday.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/pending_workday.json
-          git diff --staged --quiet || (git commit -m "scraper data: workday" && git pull --rebase -X ours && git push)
+          if ! git diff --staged --quiet; then
+            git commit -m "scraper data: workday"
+            for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
+          fi
 
   scrape-linkedin-amazon:
     if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'linkedin_amazon' }}
@@ -134,7 +143,10 @@ jobs:
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
           git add .github/data/seen_jobs_linkedin_amazon.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/pending_linkedin_amazon.json
-          git diff --staged --quiet || (git commit -m "scraper data: linkedin_amazon" && git pull --rebase -X ours && git push)
+          if ! git diff --staged --quiet; then
+            git commit -m "scraper data: linkedin_amazon"
+            for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
+          fi
 
   scrape-other:
     if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'other' }}
@@ -164,7 +176,10 @@ jobs:
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
           git add .github/data/seen_jobs_other.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/pending_other.json
-          git diff --staged --quiet || (git commit -m "scraper data: other" && git pull --rebase -X ours && git push)
+          if ! git diff --staged --quiet; then
+            git commit -m "scraper data: other"
+            for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
+          fi
 
   apply:
     # Runs after all scrape jobs finish (even if some fail/timeout).
