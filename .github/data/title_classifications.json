@@ -10741,5 +10741,13 @@
   "2027 corporate risk development program summer internship (core risk) - early careers": false,
   "2027 cib investment banking analyst program - early careers (ca)": false,
   "associate software engineer": true,
-  "expression of interest: 2027 trading sneak peek weeks": false
+  "expression of interest: 2027 trading sneak peek weeks": false,
+  "quantitative technologist (c++ intern) ": true,
+  "quantitative technologist (full-time - fpga engineer, phd) ": true,
+  "frontier agents intern (fall 2026)": false,
+  "research intern, inference (fall 2026)": true,
+  "systems research engineer intern - gpu programming (fall 2026)": true,
+  "ml phd intern - llms & generative ai": true,
+  "research analyst summer intern": true,
+  "software engineering intern": true
 }
