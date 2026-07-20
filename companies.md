@@ -12,7 +12,6 @@ Airtable
 Akuna Capital
 Alation
 Altice USA
-Ambarella
 Amperity
 Amplitude
 Analog Devices
@@ -82,7 +81,6 @@ CTGT
 Cursor
 CVS Health
 d-Matrix
-DAT Freight & Analytics
 Databricks
 Datadog
 Decagon
@@ -234,7 +232,6 @@ Ramp
 Reddit
 Redis
 Replit
-Revionics
 Riot Games
 Rippling
 Robinhood
@@ -314,7 +311,6 @@ Wells Fargo
 Western Digital
 WhatNot
 Wise
-Workato
 Zapier
 Zip
 Zipline
