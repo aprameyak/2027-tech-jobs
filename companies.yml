@@ -7,8 +7,6 @@ greenhouse:
   slug: airtable
 - name: Akuna Capital
   slug: akunacapital
-- name: Ambarella
-  slug: ambarella
 - name: Amplitude
   slug: amplitude
 - name: Anaplan
@@ -53,8 +51,6 @@ greenhouse:
   slug: chime
 - name: ClickHouse
   slug: clickhouse
-- name: Clipboard Health
-  slug: clipboard
 - name: Cloudflare
   slug: cloudflare
 - name: Cockroach Labs
@@ -171,10 +167,10 @@ greenhouse:
   slug: purestorage
 - name: Qualtrics
   slug: qualtrics
+- name: Radix Trading
+  slug: radixuniversity
 - name: Reddit
   slug: reddit
-- name: Revionics
-  slug: revionics
 - name: Riot Games
   slug: riotgames
 - name: Robinhood
@@ -219,12 +215,16 @@ greenhouse:
   slug: tenstorrent
 - name: Toast
   slug: toast
+- name: Together AI
+  slug: togetherai
 - name: Tower Research Capital
   slug: towerresearchcapital
 - name: TransMarket Group
   slug: transmarketgroup
 - name: TripAdvisor
   slug: tripadvisor
+- name: Truveta
+  slug: truveta
 - name: Twilio
   slug: twilio
 - name: Twitch
@@ -257,8 +257,6 @@ greenhouse:
   slug: zyngacareers
 - name: Canonical
   slug: canonical
-- name: DAT Freight & Analytics
-  slug: dat
 - name: Haize Labs
   slug: haizelabs
 - name: Hudl
@@ -579,6 +577,10 @@ workday:
   tenant: sonyglobal
   instance: wd1
   board: sonyglobalcareers
+- name: Symbotic
+  tenant: symbotic
+  instance: wd504
+  board: Symbotic
 - name: T. Rowe Price
   tenant: troweprice
   instance: wd5
@@ -655,6 +657,8 @@ ashby:
   slug: cerebras
 - name: Circleback
   slug: circleback
+- name: Clipboard Health
+  slug: clipboard
 - name: Cognition AI
   slug: cognition
 - name: Cohere
@@ -743,8 +747,6 @@ ashby:
   slug: pylon-labs
 - name: Quora
   slug: quora
-- name: Radix Trading
-  slug: radixtrading
 - name: Ramp
   slug: ramp
 - name: Redis
@@ -765,14 +767,8 @@ ashby:
   slug: snowflake
 - name: Suno
   slug: suno
-- name: Symbotic
-  slug: symbotic
 - name: Temporal
   slug: temporal
-- name: Together AI
-  slug: together-ai
-- name: Truveta
-  slug: truveta
 - name: Vanta
   slug: vanta
 - name: Vercel
@@ -781,8 +777,6 @@ ashby:
   slug: wealthsimple
 - name: WhatNot
   slug: whatnot
-- name: Workato
-  slug: workato
 - name: Zapier
   slug: zapier
 - name: Zip
