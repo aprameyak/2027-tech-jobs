@@ -369,6 +369,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Adobe | 2026 University Graduate - AI Context Engineer | <details><summary>**2 locations**</summary>San Jose, CA</br>San Francisco, CA</details> | Undergrad | <a href="https://careers.adobe.com/us/en/job/ADOBUSR158639EXTERNALENUS/2026-University-Graduate-AI-Context-Engineer" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Atlassian | Machine Learning Engineer, 2026 Graduate | San Francisco, CA | Undergrad | <a href="https://careers-americas.icims.com/jobs/20906/machine-learning-engineer%252c-2026-graduate-u.s./job" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | ↳ | Software Engineer, 2026 Graduate | Seattle, WA | Undergrad | <a href="https://careers-americas.icims.com/jobs/20901/software-engineer%252c-2026-graduate-u.s./job" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | ByteDance | Backend Software Engineer Graduate | San Jose, CA | Undergrad | <a href="https://joinbytedance.com/search/7527678842316998919" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
