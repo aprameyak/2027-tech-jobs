@@ -5074,5 +5074,101 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-07-20"
+  },
+  {
+    "company": "Copart",
+    "role": "Technology Product Analyst Intern",
+    "location": "Dallas, TX - Headquarters",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110077",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Western Digital",
+    "role": "Summer 2027 - Software Engineering Internship",
+    "location": "San Jose, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000138727213",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "AVEVA",
+    "role": "Software Developer Intern- Drexel Co-op US",
+    "location": "Philadelphia, Pennsylvania, United States of America",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Truveta",
+    "role": "Software Engineering Intern",
+    "location": "Seattle, WA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/truveta/jobs/5659745004",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Truveta",
+    "role": "Research Analyst Summer Intern",
+    "location": "Seattle, WA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/truveta/jobs/5973938004",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Boeing",
+    "role": "Associate Software Engineer",
+    "location": "USA - Omaha, NE",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Omaha-NE/Software-Engineer_JR2026517990-1",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Procter & Gamble",
+    "role": "Northeastern University R&D Engineer Co-op- Northeastern Students Graduating in 2028/2029 ONLY",
+    "location": "BOSTON GO & TECH CENTER",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://pg.wd5.myworkdayjobs.com/en-US/1000/job/BOSTON-GO--TECH-CENTER/Northeastern-University-R-D-Engineer-Co-op--Northeastern-Students-Graduating-in-2028-2029-ONLY_R000155302",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Procter & Gamble",
+    "role": "Purdue University R&D Engineer Co-op- Purdue Students Graduating in 2028/2029 ONLY",
+    "location": "BOSTON GO & TECH CENTER",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://pg.wd5.myworkdayjobs.com/en-US/1000/job/BOSTON-GO--TECH-CENTER/Purdue-University-R-D-Engineer-Co-op--Purdue-Students-Graduating-in-2028-2029-ONLY_R000155305",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21"
   }
 ]
