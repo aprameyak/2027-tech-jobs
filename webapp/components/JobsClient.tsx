@@ -58,10 +58,12 @@ function LocationCell({ locations }: { locations: string[] }) {
 function JobTable({
   rows,
   showSeason,
+  showGradDate,
   search,
 }: {
   rows: ProcessedRow[];
   showSeason: boolean;
+  showGradDate: boolean;
   search: string;
 }) {
   const displayRows = useMemo(() => {
@@ -80,7 +82,8 @@ function JobTable({
       (row) =>
         row.resolvedCompany.toLowerCase().includes(q) ||
         row.role.toLowerCase().includes(q) ||
-        row.location.toLowerCase().includes(q)
+        row.location.toLowerCase().includes(q) ||
+        row.gradDate.toLowerCase().includes(q)
     );
   }, [rows, search]);
 
@@ -102,6 +105,7 @@ function JobTable({
             <th className="px-4 py-3 w-40">Location</th>
             {showSeason && <th className="px-4 py-3 w-36">Season</th>}
             <th className="px-4 py-3 w-28">Education</th>
+            {showGradDate && <th className="px-4 py-3 w-28">Grad Date</th>}
             <th className="px-4 py-3 w-20">Apply</th>
             <th className="px-4 py-3 w-20">Added</th>
           </tr>
@@ -134,6 +138,11 @@ function JobTable({
                   </td>
                 )}
                 <td className="px-4 py-2.5 align-top text-gray-600">{row.education}</td>
+                {showGradDate && (
+                  <td className="px-4 py-2.5 align-top text-gray-600 whitespace-nowrap">
+                    {row.gradDate || '—'}
+                  </td>
+                )}
                 <td className="px-4 py-2.5 align-top">
                   <ApplyButton url={row.url} />
                 </td>
@@ -232,7 +241,12 @@ export default function JobsClient({ data }: { data: ListingsData }) {
         </div>
 
         <div className="rounded-b-lg rounded-tr-lg border border-t-0 border-gray-200 bg-white shadow-sm">
-          <JobTable rows={data[activeTab]} showSeason={activeTab === 'offcycle'} search={search} />
+          <JobTable
+            rows={data[activeTab]}
+            showSeason={activeTab === 'offcycle'}
+            showGradDate={activeTab === 'newgrad'}
+            search={search}
+          />
         </div>
 
         <p className="mt-4 text-center text-xs text-gray-400">
