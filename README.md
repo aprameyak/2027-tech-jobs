@@ -369,6 +369,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Leidos | Entry Level Software Developer | St. Louis, MO | Undergrad | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | RTX | Software Engineer I | Fullerton, CA | Undergrad | <a href="https://globalhr.wd5.myworkdayjobs.com/en-GB/REC_RTX_Ext_Gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I---Onsite-_01857157" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Roblox | Senior Talent Business Partner, Early Career - AI/ML PhD (Short-Term) | <details><summary>**2 locations**</summary>Remote (US)</br>San Mateo, CA, United States</details> | PhD | <a href="https://careers.roblox.com/jobs/7998438?gh_jid=7998438" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 18 |
 | SpaceX | Entry Level Production Technician - PCBA | Redmond, WA | Undergrad | <a href="https://boards.greenhouse.io/spacex/jobs/8352158002?gh_jid=8352158002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 18 |
