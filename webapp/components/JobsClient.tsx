@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import type { ListingsData, ProcessedRow } from '@/lib/listings';
 
 type TabKey = 'summer' | 'offcycle' | 'newgrad';
@@ -159,8 +159,33 @@ function JobTable({
 }
 
 export default function JobsClient({ data }: { data: ListingsData }) {
-  const [activeTab, setActiveTab] = useState<TabKey>('summer');
+  const [activeTab, setActiveTabState] = useState<TabKey>('summer');
   const [search, setSearch] = useState('');
+
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem('activeTab');
+      if (saved === 'summer' || saved === 'offcycle' || saved === 'newgrad') {
+        setActiveTabState(saved as TabKey);
+      } else {
+        if (saved !== null) {
+          localStorage.removeItem('activeTab');
+        }
+        setActiveTabState('summer');
+      }
+    } catch (e) {
+      console.warn("Could not read tab state from localStorage", e);
+    }
+  }, []);
+
+  const setActiveTab = (tab: TabKey) => {
+    setActiveTabState(tab);
+    try {
+      localStorage.setItem('activeTab', tab);
+    } catch (e) {
+      console.warn("Could not save tab state to localStorage", e);
+    }
+  };
 
   const tabs: TabKey[] = ['summer', 'offcycle', 'newgrad'];
 
