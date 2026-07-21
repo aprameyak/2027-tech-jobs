@@ -6468,18 +6468,6 @@
     "date_added": "2026-07-20"
   },
   {
-    "company": "IBM",
-    "role": "Software Developer",
-    "location": "Multiple US Locations",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-07-20"
-  },
-  {
     "company": "Nutanix",
     "role": "Software Engineer 1, Early Career",
     "location": "Durham, NC",
@@ -6578,23 +6566,11 @@
   {
     "company": "Amazon",
     "role": "Software Development Engineer",
-    "location": "Multiple US Locations",
+    "location": "Seattle, WA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-07-20"
-  },
-  {
-    "company": "Databricks",
-    "role": "AI Tooling Program Engineer",
-    "location": "Northeast US",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://www.databricks.com/company/careers/professional-services-operations/ai-tooling-program-engineer--8295414002",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-07-20"
