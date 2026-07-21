@@ -4801,18 +4801,6 @@
   },
   {
     "company": "SpaceX",
-    "role": "New Graduate Engineer, Propulsion (Raptor)",
-    "location": "Hawthorne, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8517361002?gh_jid=8517361002",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-07-18"
-  },
-  {
-    "company": "SpaceX",
     "role": "New Graduate Engineer, Propulsion (Starship)",
     "location": "Starbase, TX",
     "type": "newgrad",
