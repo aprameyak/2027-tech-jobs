@@ -12,6 +12,7 @@ export interface Listing {
   sponsorship: string;
   citizenship: string;
   date_added: string;
+  grad_date?: string;
 }
 
 export interface ProcessedRow {
@@ -24,6 +25,7 @@ export interface ProcessedRow {
   education: string;
   url: string;
   dateFormatted: string;
+  gradDate: string;
   isGrouped: boolean;
 }
 
@@ -107,6 +109,7 @@ function processTable(
       education: (entry.education || 'Undergrad').trim(),
       url: (entry.url || '').trim(),
       dateFormatted: formatDate(entry.date_added),
+      gradDate: (entry.grad_date || '').trim(),
       isGrouped,
     });
   }
