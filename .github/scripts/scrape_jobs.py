@@ -11,6 +11,13 @@ import requests
 import yaml
 from pathlib import Path
 
+import sys
+
+_SCRIPTS_DIR = Path(__file__).resolve().parent
+if str(_SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(_SCRIPTS_DIR))
+from grad_date import infer_grad_date
+
 BOARD_GROUP = os.environ.get('BOARD_GROUP', '').strip()
 
 _seen_jobs_filename = f'seen_jobs_{BOARD_GROUP}.json' if BOARD_GROUP else 'seen_jobs.json'
@@ -597,7 +604,7 @@ def build_entry(job):
     elif season in ('Co-op', 'Fall 2027', 'Spring 2027', 'Winter 2027',
                     'Fall 2026', 'Spring 2026', 'Winter 2026', 'Summer 2026'):
         table = 'offcycle'
-    return {
+    entry = {
         'company': job['company'],
         'role': job['title'],
         'location': location,
@@ -609,6 +616,9 @@ def build_entry(job):
         'citizenship': 'Unknown',
         'date_added': datetime.now().strftime('%Y-%m-%d'),
     }
+    if table == 'newgrad':
+        entry['grad_date'] = infer_grad_date(entry['role'], entry['url'])
+    return entry
 
 
 def add_job_directly(job, listings_file, rebuild=True):
@@ -636,6 +646,8 @@ def add_job_directly(job, listings_file, rebuild=True):
             'citizenship': 'Unknown',
             'date_added': datetime.now().strftime('%Y-%m-%d'),
         }
+        if table == 'newgrad':
+            entry['grad_date'] = infer_grad_date(entry['role'], entry['url'])
 
         listings_path = listings_file
         if listings_path.exists():
