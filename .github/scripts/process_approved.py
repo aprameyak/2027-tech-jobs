@@ -12,6 +12,11 @@ from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 
 import requests
 
+_SCRIPTS_DIR = Path(__file__).resolve().parent
+if str(_SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(_SCRIPTS_DIR))
+from grad_date import infer_grad_date
+
 LISTINGS_FILE = Path('listings.json')
 
 STRIP_PARAMS = {
@@ -178,7 +183,7 @@ def normalize_location(location):
 
 
 def listing_to_json(fields, table_type):
-    return {
+    entry = {
         'company': fields.get('Company Name', '').strip(),
         'role': fields.get('Role / Job Title', '').strip(),
         'location': normalize_location(fields.get('Location', '').strip()),
@@ -190,6 +195,9 @@ def listing_to_json(fields, table_type):
         'citizenship': fields.get('U.S. Citizenship Required?', '').strip(),
         'date_added': datetime.now().strftime('%Y-%m-%d'),
     }
+    if table_type == 'newgrad':
+        entry['grad_date'] = infer_grad_date(entry['role'], entry.get('url', ''))
+    return entry
 
 
 def rebuild_readme():
