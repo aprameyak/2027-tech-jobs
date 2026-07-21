@@ -69,6 +69,9 @@ def format_row(entry, company_col):
     if table_type == 'offcycle':
         season = entry.get('season', '').strip()
         return f'| {company} | {role} | {location} | {season} | {education} | {btn} | {date} |'
+    elif table_type == 'newgrad':
+        grad_date = entry.get('grad_date', '').strip()
+        return f'| {company} | {role} | {location} | {education} | {grad_date} | {btn} | {date} |'
     else:
         return f'| {company} | {role} | {location} | {education} | {btn} | {date} |'
 

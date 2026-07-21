@@ -8,6 +8,11 @@ from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 
+_SCRIPTS_DIR = Path(__file__).resolve().parent
+if str(_SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(_SCRIPTS_DIR))
+from grad_date import infer_grad_date
+
 STRIP_PARAMS = {
     'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'utm_id',
     'source', 'src', 'ref', 'referer',
@@ -107,6 +112,8 @@ def format_row(fields, table_type):
     if table_type == 'offcycle':
         season = fields.get('Season / Term', '').strip()
         return f'| {company} | {role} | {location} | {season} | {education} | {apply_btn} | {date} |'
+    elif table_type == 'newgrad':
+        return f'| {company} | {role} | {location} | {education} |  | {apply_btn} | {date} |'
     else:
         return f'| {company} | {role} | {location} | {education} | {apply_btn} | {date} |'
 
@@ -254,7 +261,7 @@ def main():
     with open('README.md', 'w') as f:
         f.write(new_content)
 
-    listings.append({
+    entry = {
         'company': fields.get('Company Name', '').strip(),
         'role': fields.get('Role / Job Title', '').strip(),
         'location': fields.get('Location', '').strip(),
@@ -265,7 +272,10 @@ def main():
         'sponsorship': fields.get('Visa Sponsorship?', '').strip(),
         'citizenship': fields.get('U.S. Citizenship Required?', '').strip(),
         'date_added': datetime.now().strftime('%Y-%m-%d'),
-    })
+    }
+    if table_type == 'newgrad':
+        entry['grad_date'] = infer_grad_date(entry['role'], entry.get('url', ''))
+    listings.append(entry)
     with open(LISTINGS_FILE, 'w') as f:
         json.dump(listings, f, indent=2)
 
