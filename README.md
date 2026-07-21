@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Affinius Capital | Data Scientist Intern | San Antonio, TX | Undergrad | <a href="https://careers-affiniuscapital.icims.com/jobs/2284/summer-2027-data-scientist-intern/job" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | BAE Systems | Software Engineering Intern I | Nashua, NH | Undergrad | <a href="https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Caterpillar | Corporate Intern, Digital and Analytics | Peoria, IL | Undergrad | <a href="https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/XMLNAME-2026-Summer-Corporate-Intern---Digital-and-Analytics_R0000379955" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Citadel Securities | Software Engineer Intern | <details><summary>**2 locations**</summary>Miami, FL</br>New York, NY</details> | Undergrad | <a href="https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
