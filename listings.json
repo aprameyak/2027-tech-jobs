@@ -7749,5 +7749,55 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-21"
+  },
+  {
+    "company": "Ciena",
+    "role": "AI-Enabled Software Test Engineer - New Grad",
+    "location": "Ottawa, ON",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Enabled-Software-Test-Engineer-II_R030842",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-12",
+    "grad_date": ""
+  },
+  {
+    "company": "D. E. Shaw",
+    "role": "Systems Engineering Intern",
+    "location": "New York, NY",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-07-14"
+  },
+  {
+    "company": "AbbVie",
+    "role": "BTS Associate Software Engineer II - AI",
+    "location": "North Chicago, IL",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990014111376",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Ciena",
+    "role": "AI-Enabled Software Test Engineer - New Grad",
+    "location": "Ottawa, ON",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/AI-Enabled-Software-Test-Engineer-II_R030842",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21",
+    "grad_date": ""
   }
 ]
