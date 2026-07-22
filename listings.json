@@ -7251,5 +7251,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-21"
+  },
+  {
+    "company": "DoorDash",
+    "role": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA; Sunnyvale, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21",
+    "grad_date": "Fall 2025"
   }
 ]
