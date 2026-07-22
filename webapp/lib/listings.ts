@@ -118,7 +118,7 @@ function processTable(
 }
 
 export function getAllListingsData(): ListingsData {
-  const listings = getListings();
+  const listings = getListings().filter((e) => (e.url || '').trim());
   const summer = processTable(listings, 'summer');
   const offcycle = processTable(listings, 'offcycle');
   const newgrad = processTable(listings, 'newgrad');
