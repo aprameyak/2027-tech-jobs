@@ -237,7 +237,7 @@ export default function JobsClient({ data }: { data: ListingsData }) {
               <ul className="space-y-1.5">
                 <li><span className="font-medium">🛂</span> — visa sponsorship not offered</li>
                 <li><span className="font-medium">🇺🇸</span> — US citizenship required</li>
-                <li><span className="font-medium">🔒</span> — position closed</li>
+                <li><span className="font-medium">🔒</span> — position closed (original date and details preserved)</li>
                 <li><span className="font-medium">↳</span> — additional role at same company</li>
                 <li><span className="font-medium">Undergrad / Masters / PhD</span> — education level targeted by the posting</li>
                 <li><span className="font-medium">Unknown</span> — sponsorship or citizenship status not stated</li>

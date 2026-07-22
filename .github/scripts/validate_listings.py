@@ -50,6 +50,22 @@ RS_OK = re.compile(
 )
 
 
+def mark_listing_closed(entry):
+    """Mark a listing closed. Only clears url — all other metadata is preserved."""
+    entry['url'] = ''
+
+
+def validate_metadata(entry):
+    """Return list of missing required fields."""
+    required = ['company', 'role', 'location', 'type', 'season', 'education',
+                'sponsorship', 'citizenship', 'date_added']
+    missing = []
+    for field in required:
+        if field not in entry:
+            missing.append(field)
+    return missing
+
+
 def validate_entry(entry):
     role = entry.get('role', '')
     t = role.lower()
@@ -57,6 +73,10 @@ def validate_entry(entry):
     season = entry.get('season', '')
     company = entry.get('company', '')
     violations = []
+
+    missing = validate_metadata(entry)
+    if missing:
+        violations.append(f'missing required field(s): {", ".join(missing)}')
 
     if table == 'summer':
         if season != 'Summer 2027':
