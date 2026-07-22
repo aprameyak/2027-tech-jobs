@@ -7530,5 +7530,17 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-21"
+  },
+  {
+    "company": "ServiceNow",
+    "role": "Associate Software Engineer, Core Infrastructure - Moveworks",
+    "location": "Mountain View, CALIFORNIA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000107369741",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21"
   }
 ]
