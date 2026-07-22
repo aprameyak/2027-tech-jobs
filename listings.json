@@ -7542,5 +7542,17 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-21"
+  },
+  {
+    "company": "ServiceNow",
+    "role": "Senior Applied Research Scientist",
+    "location": "Toronto, Ontario",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000137145613",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21"
   }
 ]
