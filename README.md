@@ -20,7 +20,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 ## Legend
  - 🛂 - Does NOT offer Sponsorship
  - 🇺🇸 - Requires U.S. Citizenship
- - 🔒 - Application is closed
+ - 🔒 - Application is closed (listing kept for reference; do not delete)
 
 ---
 
