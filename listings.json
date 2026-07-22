@@ -7326,5 +7326,17 @@
     "citizenship": "No",
     "date_added": "2026-07-21",
     "grad_date": "Spring 2027"
+  },
+  {
+    "company": "DRW",
+    "role": "Software Developer Intern",
+    "location": "Montreal",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21"
   }
 ]
