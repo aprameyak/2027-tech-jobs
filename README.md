@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Anthropic | Research Scientist, Life Sciences (Computational) | San Francisco, CA | Undergrad | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5357739008" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | BlackEdge Capital | Graduate Quantitative Trader | Chicago, IL | Undergrad | <a href="https://job-boards.greenhouse.io/blackedgecapital/jobs/4703824005" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | ↳ | Quantitative Trader Intern | Chicago, IL | Undergrad | <a href="https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | Ciena | Software Development– Kubernetes Platform Migration and Workflow Orchestration Intern | Ottawa, ON | Undergrad | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Development--Kubernetes-Platform-Migration-and-Workflow-Orchestration-Intern_R031308" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
