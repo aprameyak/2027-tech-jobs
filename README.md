@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| AbbVie | Senior Research Scientist I/II, Computational Biology & Toxicology | North Chicago, IL | Undergrad | <a href="https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013119726" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | Anthropic | Research Scientist, Life Sciences (Computational) | San Francisco, CA | Undergrad | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5357739008" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | ↳ | People Research Scientist, People | <details><summary>**2 locations**</summary>New York City, NY | Seattle, WA</br>San Francisco, CA | New York City, NY</details> | Undergrad | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5257820008" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | BlackEdge Capital | Graduate Quantitative Trader | Chicago, IL | Undergrad | <a href="https://job-boards.greenhouse.io/blackedgecapital/jobs/4703824005" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
