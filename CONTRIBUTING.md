@@ -9,9 +9,9 @@ Thank you for helping keep this list accurate and up to date!
 | Action | How |
 |--------|-----|
 | Add a new job listing | Submit an issue or open a pull request |
-| Update an application status | Open a PR marking the role 🔒 |
+| Mark a role as closed | Set `"url": ""` in `listings.json` and rebuild — row stays, Apply shows 🔒 |
 | Fix a broken link | Open a PR with the corrected URL |
-| Remove a closed/expired listing | Open a PR deleting the row |
+| Remove a listing entirely | Only for out-of-scope or duplicate entries — **not** for closed roles |
 
 ---
 
@@ -62,6 +62,10 @@ These are derived from `sponsorship` and `citizenship` fields when the README is
 ### Marking a role as closed
 
 Set `"url": ""` in `listings.json`, then rebuild the README. The Apply button becomes 🔒.
+
+**Closed listings stay in the table.** Do not delete rows just because a posting closed — users rely on 🔒 to see that a role existed and is no longer accepting applications. All other fields (`company`, `role`, `location`, `type`, `season`, `date_added`, etc.) stay unchanged. The nightly link checker marks dead URLs this way automatically.
+
+Only delete a row when it was added in error (duplicate, out of scope, wrong company) — not because the application closed.
 
 ---
 
