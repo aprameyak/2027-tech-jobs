@@ -4400,19 +4400,6 @@
     "grad_date": ""
   },
   {
-    "company": "Salesforce",
-    "role": "Software Engineering AMTS/MTS, College Grad",
-    "location": "San Francisco, CA; Palo Alto, CA; Seattle, WA; Bellevue, WA; Dallas, TX",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-17",
-    "grad_date": ""
-  },
-  {
     "company": "Sierra",
     "role": "Software Engineer, New Grad",
     "location": "San Francisco, CA",
@@ -6880,30 +6867,6 @@
     "grad_date": ""
   },
   {
-    "company": "Ciena",
-    "role": "Software Development\u2013 Kubernetes Platform Migration and Workflow Orchestration Intern",
-    "location": "Ottawa, ON",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Development--Kubernetes-Platform-Migration-and-Workflow-Orchestration-Intern_R031308",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-21"
-  },
-  {
-    "company": "Ciena",
-    "role": "QA Automation Developer Intern (Fall 2026 - 8 months)",
-    "location": "Ottawa, ON",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/QA-Automation-Developer-Intern--Fall-2026---8-months-_R030980",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-21"
-  },
-  {
     "company": "Sony",
     "role": "Research Intern on Generative and Protective AI for Content Creation",
     "location": "New York, NY",
@@ -7786,18 +7749,5 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-21"
-  },
-  {
-    "company": "Ciena",
-    "role": "AI-Enabled Software Test Engineer - New Grad",
-    "location": "Ottawa, ON",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/AI-Enabled-Software-Test-Engineer-II_R030842",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-21",
-    "grad_date": ""
   }
 ]
