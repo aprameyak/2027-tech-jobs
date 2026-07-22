@@ -378,6 +378,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Grad Date | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| CrowdStrike | Engineer I, Data Scientist - New Grad (Hybrid) | Sunnyvale, CA | Undergrad |  | <a href="https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | Adobe | 2026 University Graduate - AI Context Engineer | <details><summary>**2 locations**</summary>San Jose, CA</br>San Francisco, CA</details> | Undergrad | Spring 2026 | 🔒 | Jul 20 |
 | ↳ | 2026 University Graduate - Application Security Engineer | <details><summary>**2 locations**</summary>San Jose, CA</br>San Francisco, CA</details> | Undergrad | Spring 2026 | 🔒 | Jul 20 |
 | ↳ | 2026 University Graduate - Software Engineer | San Jose, CA | Undergrad | Spring 2026 | 🔒 | Jul 20 |
