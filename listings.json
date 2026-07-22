@@ -7614,5 +7614,17 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-21"
+  },
+  {
+    "company": "Western Digital",
+    "role": "Software Engineering Co-Op - Winter 2027",
+    "location": "Rochester, MN",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000138184309",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21"
   }
 ]
