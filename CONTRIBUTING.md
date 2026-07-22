@@ -61,9 +61,20 @@ These are derived from `sponsorship` and `citizenship` fields when the README is
 
 ### Marking a role as closed
 
-Set `"url": ""` in `listings.json`, then rebuild the README. The Apply button becomes 🔒.
+Set **only** `"url": ""` in `listings.json`, then rebuild the README. The Apply button becomes 🔒.
 
-**Closed listings stay in the table.** Do not delete rows just because a posting closed — users rely on 🔒 to see that a role existed and is no longer accepting applications. All other fields (`company`, `role`, `location`, `type`, `season`, `date_added`, etc.) stay unchanged. The nightly link checker marks dead URLs this way automatically.
+**Closed listings stay in the table.** Do not delete rows just because a posting closed — users rely on 🔒 to see that a role existed and is no longer accepting applications.
+
+**Preserve all original metadata** when closing — change nothing except `url`:
+
+| Field | On close |
+|-------|----------|
+| `url` | Set to `""` |
+| `date_added` | **Keep** — original add date, not the close date |
+| `company`, `role`, `location`, `type`, `season`, `education` | **Keep** |
+| `sponsorship`, `citizenship`, `grad_date` | **Keep** |
+
+Do not reclassify, re-date, or move closed rows to another table. The nightly link checker (`check_links.py`) follows this rule automatically.
 
 Only delete a row when it was added in error (duplicate, out of scope, wrong company) — not because the application closed.
 
