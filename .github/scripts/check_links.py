@@ -99,6 +99,11 @@ def resolve_url(url, company_board, tenant_board, company=None):
     return url, False
 
 
+def mark_listing_closed(entry):
+    """Mark a listing closed. Only clears url — all other metadata is preserved."""
+    entry['url'] = ''
+
+
 def main():
     company_board, tenant_board = load_workday_boards()
 
@@ -162,7 +167,8 @@ def main():
                 listings = json.load(f)
             for entry in listings:
                 if entry.get('url', '') in dead_urls:
-                    entry['url'] = ''
+                    # Only clear url — preserve date_added and all other metadata.
+                    mark_listing_closed(entry)
             tmp = listings_file.with_suffix('.tmp')
             with open(tmp, 'w') as f:
                 json.dump(listings, f, indent=2)
