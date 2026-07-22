@@ -557,14 +557,16 @@ def is_us_location(location):
     return False
 
 
+OFFCYCLE_SEASONS = (
+    'Co-op', 'Fall 2027', 'Spring 2027', 'Winter 2027',
+    'Fall 2026', 'Spring 2026', 'Winter 2026', 'Summer 2026',
+)
+
+
 def infer_listing_type(title):
+    """Map a job title to (listing_type, season) per CLAUDE.md table rules."""
     t = title.lower()
-    if any(kw in t for kw in [
-        'new grad', 'new-grad', 'entry level', 'entry-level', 'early career',
-        'university graduate', 'new college grad', 'college grad',
-        'full-time', ' full time',
-    ]):
-        return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
+
     if any(kw in t for kw in ['co-op', 'coop', 'co op']):
         return 'Internship', 'Co-op'
     if any(kw in t for kw in ['fall 2027', 'autumn 2027']):
@@ -581,7 +583,72 @@ def infer_listing_type(title):
         return 'Internship', 'Winter 2026'
     if 'summer 2026' in t:
         return 'Internship', 'Summer 2026'
+
+    if any(kw in t for kw in [
+        'new grad', 'new-grad', 'entry level', 'entry-level', 'early career',
+        'university graduate', 'new college grad', 'college grad',
+        'full-time', ' full time',
+    ]):
+        return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
+
+    if re.search(r'\bgraduate (quantitative|software|trader|developer|engineer|researcher)\b', t):
+        if not re.search(r'\bintern(ship)?\b', t):
+            return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
+
+    if re.search(r'research scientist', t):
+        if re.search(r'\bintern(ship)?\b', t):
+            return 'Internship', 'Summer 2027'
+        if any(kw in t for kw in ['new college grad', 'university grad', 'phd early career']):
+            return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
+
+    if re.search(r'\bintern(ship)?\b', t):
+        return 'Internship', 'Summer 2027'
+    if re.search(
+        r'summer analyst|technology intern|leadership rotation|undergraduate student|'
+        r'junior (quantitative|software|developer)',
+        t,
+    ):
+        return 'Internship', 'Summer 2027'
+
     return 'Internship', 'Summer 2027'
+
+
+def is_auto_addable(title):
+    """Return False for titles that should not be auto-added without manual review."""
+    t = title.lower()
+    listing_type, season = infer_listing_type(title)
+
+    if listing_type == 'New Grad (Full-Time)':
+        return True
+    if season in OFFCYCLE_SEASONS:
+        return True
+    if re.search(r'\bintern(ship)?\b', t):
+        return True
+    if re.search(
+        r'summer analyst|technology intern|leadership rotation|undergraduate student|'
+        r'junior (quantitative|software|developer)',
+        t,
+    ):
+        return True
+
+    if re.search(r'research scientist', t):
+        return False
+    if re.search(r'\bgraduate (quantitative|software|trader|developer|engineer|researcher)\b', t):
+        return False
+    if any(kw in t for kw in ['new grad', 'new-grad', 'entry level', 'entry-level', 'early career']):
+        return False
+    if re.search(r'\bassociate\b|\bfull[- ]time\b', t) and 'intern' not in t:
+        return False
+
+    return True
+
+
+def table_for_listing(listing_type, season):
+    if listing_type == 'New Grad (Full-Time)':
+        return 'newgrad'
+    if season in OFFCYCLE_SEASONS:
+        return 'offcycle'
+    return 'summer'
 
 
 def infer_education_level(title):
@@ -598,12 +665,7 @@ def build_entry(job):
     listing_type, season = infer_listing_type(job['title'])
     education = infer_education_level(job['title'])
     location = normalize_location(job.get('location', ''))
-    table = 'summer'
-    if listing_type == 'New Grad (Full-Time)':
-        table = 'newgrad'
-    elif season in ('Co-op', 'Fall 2027', 'Spring 2027', 'Winter 2027',
-                    'Fall 2026', 'Spring 2026', 'Winter 2026', 'Summer 2026'):
-        table = 'offcycle'
+    table = table_for_listing(listing_type, season)
     entry = {
         'company': job['company'],
         'role': job['title'],
@@ -627,12 +689,7 @@ def add_job_directly(job, listings_file, rebuild=True):
         education = infer_education_level(job['title'])
         location = normalize_location(job.get('location', ''))
 
-        table = 'summer'
-        if listing_type == 'New Grad (Full-Time)':
-            table = 'newgrad'
-        elif season in ('Co-op', 'Fall 2027', 'Spring 2027', 'Winter 2027',
-                        'Fall 2026', 'Spring 2026', 'Winter 2026', 'Summer 2026'):
-            table = 'offcycle'
+        table = table_for_listing(listing_type, season)
 
         entry = {
             'company': job['company'],
@@ -1386,6 +1443,8 @@ def main():
             continue
         if is_tech:
             seen.add(job['id'])
+            if confident and not is_auto_addable(job['title']):
+                confident = False
             job['confident'] = confident
             new_jobs.append(job)
             flag = '' if confident else ' [NEEDS REVIEW]'

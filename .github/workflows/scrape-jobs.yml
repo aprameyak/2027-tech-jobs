@@ -201,6 +201,8 @@ jobs:
       - run: pip install requests pyyaml
       - name: Apply pending discoveries to listings.json
         run: python .github/scripts/apply_pending.py
+      - name: Validate listings
+        run: python .github/scripts/validate_listings.py
       - name: Commit listings and README
         run: |
           git config user.name "Aprameya Kannan"

@@ -36,6 +36,9 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python .github/scripts/process_approved.py
 
+      - name: Validate listings
+        run: python .github/scripts/validate_listings.py
+
       - name: Commit changes
         run: |
           git config user.name "Aprameya Kannan"

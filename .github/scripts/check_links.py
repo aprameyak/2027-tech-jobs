@@ -80,7 +80,7 @@ def is_link_alive(url):
         return resp.status_code < 404
     except Exception as e:
         print(f'  Request error: {e}')
-        return True
+        return False
 
 
 def resolve_url(url, company_board, tenant_board, company=None):

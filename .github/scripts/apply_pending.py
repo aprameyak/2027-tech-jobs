@@ -32,10 +32,12 @@ def main():
 
     existing_urls = {_norm_url(e.get('url', '')) for e in listings}
     added = 0
+    total_pending = 0
 
     for pending_file in pending_files:
         with open(pending_file) as f:
             pending = json.load(f)
+        total_pending += len(pending)
         for entry in pending:
             if _norm_url(entry.get('url', '')) not in existing_urls:
                 listings.append(entry)
@@ -61,6 +63,8 @@ def main():
             print(f'rebuild_readme.py failed: {result.stderr[:300]}')
         else:
             print(f'README rebuilt — {added} listing(s) added')
+    elif total_pending == 0:
+        print('No pending entries to apply — listings.json unchanged')
     else:
         print('All pending entries were duplicates — listings.json unchanged')
 
