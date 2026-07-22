@@ -7846,5 +7846,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-21"
+  },
+  {
+    "company": "Capital One",
+    "role": "Associate, Software Engineer, New Grad Card Expansion",
+    "location": "Toronto, ON",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21",
+    "grad_date": ""
   }
 ]
