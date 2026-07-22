@@ -7749,5 +7749,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-21"
+  },
+  {
+    "company": "Akuna Capital",
+    "role": "Software Engineer (Entry-Level) - Python",
+    "location": "Chicago, IL",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-21",
+    "grad_date": ""
   }
 ]
