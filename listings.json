@@ -14,7 +14,7 @@
   {
     "company": "Ciena",
     "role": "Stagiaire en d\u00e9veloppement logiciel - COOP Software developer",
-    "location": "Remote (Canada)",
+    "location": "Remote",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -295,7 +295,7 @@
   {
     "company": "Instacart",
     "role": "Machine Learning PhD Intern, Economics (Fall)",
-    "location": "Remote (US)",
+    "location": "Remote",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "PhD",
@@ -307,7 +307,7 @@
   {
     "company": "Instacart",
     "role": "Machine Learning Engineer, PhD Intern (Fall)",
-    "location": "Remote (US)",
+    "location": "Remote",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "PhD",
@@ -1785,7 +1785,7 @@
   {
     "company": "NVIDIA",
     "role": "Quantum Error Correction Research Scientist Intern - Fall 2026",
-    "location": "Remote (US)",
+    "location": "Remote",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -1797,7 +1797,7 @@
   {
     "company": "NVIDIA",
     "role": "Synthetic Data Generation and User Simulation PhD Research Intern \u2014 Fall 2026",
-    "location": "Remote (US)",
+    "location": "Remote",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "PhD",
@@ -1809,7 +1809,7 @@
   {
     "company": "NVIDIA",
     "role": "Quantum Research Scientist Intern - Fall 2026",
-    "location": "Remote (US)",
+    "location": "Remote",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -2042,7 +2042,7 @@
   {
     "company": "Cohere",
     "role": "Software Engineer Intern",
-    "location": "Remote (Canada); San Francisco, CA",
+    "location": "Remote; San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -2168,7 +2168,7 @@
   {
     "company": "ElevenLabs",
     "role": "Growth Engineer, Mobile",
-    "location": "Remote (US)",
+    "location": "Remote",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -2269,7 +2269,7 @@
   {
     "company": "iHerb",
     "role": "Software Development Intern",
-    "location": "Remote (US)",
+    "location": "Remote",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -2319,7 +2319,7 @@
   {
     "company": "Kinaxis",
     "role": "Co-op/Intern, Software Development, C++",
-    "location": "Remote (Canada)",
+    "location": "Remote",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -2494,7 +2494,7 @@
   {
     "company": "Ramp",
     "role": "Design Engineer, Design Systems",
-    "location": "New York, NY; Remote (US); San Francisco, CA",
+    "location": "New York, NY; Remote; San Francisco, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -3018,7 +3018,7 @@
   {
     "company": "Microsoft",
     "role": "Software Engineer",
-    "location": "Remote (US)",
+    "location": "Remote",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -3462,7 +3462,7 @@
   {
     "company": "Warp",
     "role": "Software Engineer",
-    "location": "Remote (US)",
+    "location": "Remote",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -3514,7 +3514,7 @@
   {
     "company": "Microsoft",
     "role": "Technical Program Management",
-    "location": "Remote (US)",
+    "location": "Remote",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -3800,7 +3800,7 @@
   {
     "company": "NVIDIA",
     "role": "System Software Engineer - New Grad (Dynamo-Triton)",
-    "location": "Remote (US); Santa Clara, CA",
+    "location": "Remote; Santa Clara, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -4259,7 +4259,7 @@
   {
     "company": "Motorola Solutions",
     "role": "Junior Software Engineer, AI Agent Platform",
-    "location": "Remote (Canada)",
+    "location": "Remote",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -4550,7 +4550,7 @@
   {
     "company": "Anthropic",
     "role": "Research Engineer/Research Scientist, Pre-training",
-    "location": "Remote (US); San Francisco, CA; Seattle, WA; New York, NY",
+    "location": "Remote; San Francisco, CA; Seattle, WA; New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -4635,13 +4635,14 @@
     "company": "Anduril",
     "role": "Projects to Close (PTC) Associate Product Manager",
     "location": "Seattle, WA",
-    "type": "summer",
-    "season": "Summer 2027",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5172273007?gh_jid=5172273007",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
-    "date_added": "2026-07-18"
+    "date_added": "2026-07-18",
+    "grad_date": ""
   },
   {
     "company": "Anduril",
@@ -5236,7 +5237,7 @@
   {
     "company": "Binance.US",
     "role": "Software Engineering Intern",
-    "location": "Remote (US)",
+    "location": "Remote",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -5464,7 +5465,7 @@
   {
     "company": "Deepgram",
     "role": "Software Engineering Intern",
-    "location": "Remote (US)",
+    "location": "Remote",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -6160,7 +6161,7 @@
   {
     "company": "Shopify",
     "role": "Software Engineer",
-    "location": "Remote (US)",
+    "location": "Remote",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -6329,7 +6330,7 @@
   {
     "company": "Circle",
     "role": "Software Engineer, Backend",
-    "location": "Remote (US)",
+    "location": "Remote",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -7413,13 +7414,14 @@
     "company": "ServiceNow",
     "role": "Associate Software Engineer, Core Infrastructure - Moveworks",
     "location": "Mountain View, CA",
-    "type": "summer",
-    "season": "Summer 2027",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000107369741",
     "sponsorship": "Unknown",
     "citizenship": "No",
-    "date_added": "2026-07-21"
+    "date_added": "2026-07-21",
+    "grad_date": ""
   },
   {
     "company": "Western Digital",
@@ -7742,13 +7744,14 @@
     "company": "AbbVie",
     "role": "BTS Associate Software Engineer II - AI",
     "location": "North Chicago, IL",
-    "type": "summer",
-    "season": "Summer 2027",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990014111376",
     "sponsorship": "Unknown",
     "citizenship": "No",
-    "date_added": "2026-07-21"
+    "date_added": "2026-07-21",
+    "grad_date": ""
   },
   {
     "company": "Akuna Capital",
@@ -7937,13 +7940,14 @@
     "company": "Capital One",
     "role": "Principal Associate Data Scientist, Machine Learning",
     "location": "Toronto, ON",
-    "type": "summer",
-    "season": "Summer 2027",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Principal-Associate-Data-Scientist_R239235",
     "sponsorship": "Unknown",
     "citizenship": "No",
-    "date_added": "2026-07-21"
+    "date_added": "2026-07-21",
+    "grad_date": ""
   },
   {
     "company": "Ciena",
@@ -8008,14 +8012,15 @@
   {
     "company": "Analog Devices",
     "role": "Associate Engineer: Embedded Audio Software",
-    "location": "US, CA, San Jose, Rio Robles",
-    "type": "summer",
-    "season": "Summer 2027",
+    "location": "San Jose, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer--Embedded-Audio-Software_R263781",
     "sponsorship": "Unknown",
     "citizenship": "No",
-    "date_added": "2026-07-21"
+    "date_added": "2026-07-21",
+    "grad_date": ""
   },
   {
     "company": "Astranis Space Technologies",
@@ -8044,50 +8049,41 @@
   {
     "company": "Veeva Systems",
     "role": "Associate Product Manager - Vault CRM Suite",
-    "location": "Massachusetts - Boston",
-    "type": "summer",
-    "season": "Summer 2027",
+    "location": "Boston, MA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://jobs.lever.co/veeva/9a6eaa9b-0d86-4fd7-a687-17e70add8961",
     "sponsorship": "Unknown",
     "citizenship": "No",
-    "date_added": "2026-07-21"
-  },
-  {
-    "company": "Veeva Systems",
-    "role": "Associate Product Manager - Vault CRM Suite",
-    "location": "Massachusetts - Boston",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.lever.co/veeva/6bcc8228-5b43-43e5-b96b-d62679b8c64a",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-21"
+    "date_added": "2026-07-21",
+    "grad_date": ""
   },
   {
     "company": "Veeva Systems",
     "role": "Associate Product Manager - Network MDM",
-    "location": "Canada - Toronto",
-    "type": "summer",
-    "season": "Summer 2027",
+    "location": "Toronto, ON",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://jobs.lever.co/veeva/f93df5c6-7b1f-4aa5-9f16-96a904302c3b",
     "sponsorship": "Unknown",
     "citizenship": "No",
-    "date_added": "2026-07-21"
+    "date_added": "2026-07-21",
+    "grad_date": ""
   },
   {
     "company": "LSEG",
     "role": "Senior Associate Software & Platform Engineer",
     "location": "New York, NY",
-    "type": "summer",
-    "season": "Summer 2027",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/USA-New-York-28-Liberty-Street/Senior-Associate-Software---Platform-Engineer_R0120829-1",
     "sponsorship": "Unknown",
     "citizenship": "No",
-    "date_added": "2026-07-21"
+    "date_added": "2026-07-21",
+    "grad_date": ""
   },
   {
     "company": "Plus",
