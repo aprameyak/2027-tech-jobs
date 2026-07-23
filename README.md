@@ -318,6 +318,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Later | Software Development Co-op (Later Influence) | Vancouver, BC | Co-op | Undergrad | <a href="https://job-boards.greenhouse.io/later/jobs/8643138002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Astranis Space Technologies | Flight Software Associate (Fall 2026) | San Francisco, CA | Fall 2026 | Undergrad | <a href="https://job-boards.greenhouse.io/astranis/jobs/4619289006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | ↳ | Technical Project Management Intern (Fall 2026) | San Francisco | Fall 2026 | Undergrad | <a href="https://job-boards.greenhouse.io/astranis/jobs/4693670006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | AVEVA | Software Developer Intern- Drexel Co-op US | Philadelphia, PA | Co-op | Undergrad | <a href="https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
