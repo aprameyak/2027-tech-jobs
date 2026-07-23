@@ -7925,5 +7925,18 @@
     "citizenship": "No",
     "date_added": "2026-07-23",
     "grad_date": ""
+  },
+  {
+    "company": "Thoughtworks",
+    "role": "Associate-Graduate Developer",
+    "location": "Chicago, IL",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.thoughtworks.com/careers/jobs/8037730?gh_jid=8037730",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-23",
+    "grad_date": ""
   }
 ]
