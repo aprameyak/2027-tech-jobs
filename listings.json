@@ -7241,19 +7241,6 @@
     "date_added": "2026-07-21"
   },
   {
-    "company": "Capital One",
-    "role": "Principal Associate Data Scientist, Machine Learning",
-    "location": "Toronto, ON",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Principal-Associate-Data-Scientist_R239235",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-21",
-    "grad_date": ""
-  },
-  {
     "company": "Ciena",
     "role": "Junior Test Engineer, Test Station Validation",
     "location": "Ottawa, ON",
@@ -7310,19 +7297,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://jobs.lever.co/veeva/f93df5c6-7b1f-4aa5-9f16-96a904302c3b",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-21",
-    "grad_date": ""
-  },
-  {
-    "company": "LSEG",
-    "role": "Senior Associate Software & Platform Engineer",
-    "location": "New York, NY",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/USA-New-York-28-Liberty-Street/Senior-Associate-Software---Platform-Engineer_R0120829-1",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-21",
@@ -7725,5 +7699,17 @@
     "citizenship": "Unknown",
     "date_added": "2026-07-20",
     "grad_date": ""
+  },
+  {
+    "company": "T. Rowe Price",
+    "role": "2027 Quantitative Equity Investing Internship Program",
+    "location": "Baltimore, MD",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-23"
   }
 ]
