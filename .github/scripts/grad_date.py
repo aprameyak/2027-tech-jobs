@@ -24,6 +24,7 @@ def infer_grad_date(role, url=''):
         r'university\s+graduate\s+(20\d{2})',
         r'new college grad(?:uate)?(?:\s|,|-)*(20\d{2})',
         r'new grad(?:uate)?\s*\(?\s*(20\d{2})\s*start',
+        r'new grad(?:uate)?\s+(20\d{2})\b',
         r'graduate program\s*[\(-]?\s*(20\d{2})',
         r'\b(20\d{2})\s+graduate program',
         r'\b(20\d{2})\s+early career\b',
