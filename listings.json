@@ -9416,5 +9416,18 @@
     "citizenship": "No",
     "date_added": "2026-07-23",
     "grad_date": ""
+  },
+  {
+    "company": "PointOne",
+    "role": "Software Engineer New Grad",
+    "location": "New York, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/PointOne/1e312db8-6d18-4d07-af99-ed3ba165e7d9",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-23",
+    "grad_date": ""
   }
 ]
