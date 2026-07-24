@@ -537,12 +537,12 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineer, Customer Systems | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Software Engineer | Austin, TX |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Software Engineer, IS&T Early Career | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | AIML Resident - Siri Agent Modeling | Cupertino, CA |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | AIML Resident - Robot Learning | Santa Clara, CA |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | AIML Resident - Data Operations Capacity Planning & Analytics | <details><summary>**2 locations**</summary>Seattle, WA</br>Cupertino, CA</details> |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | AIML Resident - Knowledge Answer Quality & Richness | <details><summary>**2 locations**</summary>Seattle, WA</br>Santa Clara, CA</details> |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | AIML Resident - Input Experience NLP | Cupertino, CA |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | AIML Resident - Machine Learning Research | Seattle, WA |  | Undergrad | 🔒 | Jul 24 |
+| ↳ | AIML Resident - Siri Agent Modeling | Cupertino, CA |  | PhD | 🔒 | Jul 24 |
+| ↳ | AIML Resident - Robot Learning | Santa Clara, CA |  | PhD | 🔒 | Jul 24 |
+| ↳ | AIML Resident - Data Operations Capacity Planning & Analytics | <details><summary>**2 locations**</summary>Seattle, WA</br>Cupertino, CA</details> |  | PhD | 🔒 | Jul 24 |
+| ↳ | AIML Resident - Knowledge Answer Quality & Richness | <details><summary>**2 locations**</summary>Seattle, WA</br>Santa Clara, CA</details> |  | PhD | 🔒 | Jul 24 |
+| ↳ | AIML Resident - Input Experience NLP | Cupertino, CA |  | PhD | 🔒 | Jul 24 |
+| ↳ | AIML Resident - Machine Learning Research | Seattle, WA |  | PhD | 🔒 | Jul 24 |
 | ↳ | IS&T Early Career Engineering Program Manager | Austin, TX |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Software Engineer, Xcode Intelligence Experience | Cupertino, CA |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Camera Framework Engineer, Photo Capture | Cupertino, CA |  | Undergrad | 🔒 | Jul 24 |
