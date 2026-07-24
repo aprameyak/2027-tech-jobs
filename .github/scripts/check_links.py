@@ -7,7 +7,9 @@ from pathlib import Path
 
 import requests
 
-SKIP_DOMAINS = [
+# Domains that are fully skipped — no check of any kind (returns always-alive).
+# Use only when the site blocks all automated access AND has no usable API.
+SKIP_ALL_DOMAINS = [
     'careers.ibm.com',
     'www.tesla.com',
     'tesla.com',
@@ -28,6 +30,289 @@ APPLY_BTN_PATTERN = re.compile(
 
 WD_BARE = re.compile(r'^(https://([^.]+)\.(wd\d+)\.myworkdayjobs\.com)/job/')
 
+# Phrases that appear in page body when a job is closed (case-insensitive).
+# Ordered from most specific to least — stop at first match.
+SOFT_404_PHRASES = [
+    # Workday
+    'this position is no longer available',
+    'this job is no longer available',
+    'job requisition has been closed',
+    # Greenhouse (HTML fallback)
+    'job listing is no longer active',
+    'this job is no longer accepting applications',
+    # Lever (HTML fallback)
+    'no longer accepting applications',
+    'this posting is no longer accepting',
+    # SmartRecruiters
+    'this position has been filled',
+    'position has been filled',
+    # iCIMS
+    'this position has closed',
+    'position is closed',
+    # Generic
+    'this opportunity is no longer available',
+    'this role is no longer available',
+    'this role is no longer open',
+    'application is closed',
+    'posting has expired',
+    'job has expired',
+    'opening has been closed',
+]
+
+
+# ---------------------------------------------------------------------------
+# ATS API helpers
+# ---------------------------------------------------------------------------
+
+def _gh_board_and_id(url):
+    """Extract (board, job_id) from a Greenhouse URL, or (None, None)."""
+    # job-boards.greenhouse.io/BOARD/jobs/JOB_ID
+    m = re.search(r'(?:job-boards|boards)\.greenhouse\.io/([^/]+)/jobs/(\d+)', url)
+    if m:
+        return m.group(1), m.group(2)
+    # careers.COMPANY.com/...?gh_jid=JOB_ID  or  ...#gh_jid=JOB_ID
+    m = re.search(r'[?&#]gh_jid=(\d+)', url)
+    if m:
+        # Board name is harder to get from the domain alone; skip API check
+        return None, None
+    return None, None
+
+
+def check_greenhouse(url):
+    """Return True if the job is still open, False if closed, None if unknown."""
+    board, job_id = _gh_board_and_id(url)
+    if not board or not job_id:
+        return None
+    api = f'https://boards-api.greenhouse.io/v1/boards/{board}/jobs/{job_id}'
+    try:
+        r = requests.get(api, timeout=10, headers=HEADERS)
+        if r.status_code == 200:
+            return True
+        if r.status_code == 404:
+            return False
+    except Exception:
+        pass
+    return None
+
+
+def _lever_company_and_id(url):
+    """Extract (company, posting_id) from a Lever URL."""
+    m = re.search(r'jobs(?:\.eu)?\.lever\.co/([^/]+)/([a-f0-9-]{36})', url)
+    if m:
+        return m.group(1), m.group(2)
+    return None, None
+
+
+def check_lever(url):
+    """Return True if open, False if closed, None if unknown."""
+    company, posting_id = _lever_company_and_id(url)
+    if not company or not posting_id:
+        return None
+    api = f'https://api.lever.co/v0/postings/{company}/{posting_id}'
+    try:
+        r = requests.get(api, timeout=10, headers=HEADERS)
+        if r.status_code == 200:
+            data = r.json()
+            # Lever returns the posting object; if it has an id it's live
+            if data and data.get('id'):
+                return True
+            return False
+        if r.status_code == 404:
+            return False
+    except Exception:
+        pass
+    return None
+
+
+def _ashby_job_id(url):
+    """Extract the UUID from an Ashby jobs URL."""
+    m = re.search(
+        r'jobs\.ashbyhq\.com/[^/]+/([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})',
+        url, re.I,
+    )
+    return m.group(1) if m else None
+
+
+def check_ashby(url):
+    """
+    Return True if open, False if closed, None if unknown.
+    Fetches the job page directly — Ashby renders job-not-found as a 404
+    or injects a closed indicator into the HTML.
+    """
+    try:
+        r = requests.get(url, timeout=12, allow_redirects=True, headers=HEADERS)
+        if r.status_code == 404:
+            return False
+        if r.status_code == 200:
+            body = r.text.lower()
+            # Ashby closed-job indicators
+            for phrase in [
+                'this role is no longer accepting applications',
+                'this role is closed',
+                'job not found',
+                'position is no longer available',
+            ] + SOFT_404_PHRASES:
+                if phrase in body:
+                    print(f'    soft-404 detected: "{phrase}"')
+                    return False
+            return True
+    except Exception as e:
+        print(f'    ashby check error: {e}')
+    return None
+
+
+# ---------------------------------------------------------------------------
+# Apple Jobs checker
+# ---------------------------------------------------------------------------
+
+def _apple_job_id(url):
+    """Extract the numeric job ID from an Apple Jobs URL."""
+    # https://jobs.apple.com/en-us/details/200636915-0836/slug
+    m = re.search(r'/details/(\d+)', url)
+    return m.group(1) if m else None
+
+
+def check_apple(url):
+    """
+    Return True if open, False if closed, None if unable to determine.
+    Uses Apple's internal role-search JSON endpoint which returns an empty
+    results list when the job no longer exists.
+    """
+    job_id = _apple_job_id(url)
+    if not job_id:
+        return None
+    api = f'https://jobs.apple.com/api/role/search?id={job_id}&lang=en-us'
+    try:
+        r = requests.get(api, timeout=15, headers=HEADERS)
+        if r.status_code == 200:
+            data = r.json()
+            # Response has a "searchResults" list; empty means job is gone
+            results = data.get('searchResults', None)
+            if results is None:
+                return None
+            return len(results) > 0
+        if r.status_code in (404, 410):
+            return False
+    except Exception as e:
+        print(f'    apple api error: {e}')
+    return None
+
+
+# ---------------------------------------------------------------------------
+# Meta Careers checker
+# ---------------------------------------------------------------------------
+
+def _meta_job_id(url):
+    m = re.search(r'/jobs/(\d+)', url)
+    return m.group(1) if m else None
+
+
+def check_meta(url):
+    """
+    Return True if open, False if closed, None if unable to determine.
+    Meta's GraphQL careers API returns an error when a job doesn't exist.
+    """
+    job_id = _meta_job_id(url)
+    if not job_id:
+        return None
+    api = 'https://www.metacareers.com/graphql'
+    payload = {
+        'fb_api_caller_class': 'RelayModern',
+        'variables': json.dumps({'job_id': job_id}),
+        'doc_id': '7823148984374496',  # public "job detail" doc_id
+    }
+    try:
+        r = requests.post(api, data=payload, timeout=12, headers={
+            **HEADERS,
+            'Content-Type': 'application/x-www-form-urlencoded',
+            'x-fb-friendly-name': 'CareersJobDetailQuery',
+        })
+        if r.status_code == 200:
+            data = r.json()
+            # If the job node is null the listing is gone
+            node = (
+                data.get('data', {})
+                    .get('job_posting', None)
+            )
+            if node is None:
+                # Could be API change — fall back to unknown
+                return None
+            return node.get('id') is not None
+        if r.status_code in (404, 410):
+            return False
+    except Exception as e:
+        print(f'    meta api error: {e}')
+    return None
+
+
+# ---------------------------------------------------------------------------
+# Citadel Securities checker (content-based, longer timeout)
+# ---------------------------------------------------------------------------
+
+CITADEL_SOFT_404_PHRASES = [
+    'this position is no longer available',
+    'job is no longer available',
+    'this role is no longer',
+    'position has been filled',
+    'application is closed',
+    'page not found',
+    '404',
+]
+
+
+def check_citadel(url):
+    """Return True if open, False if closed, None if unable to determine."""
+    try:
+        r = requests.get(url, timeout=15, allow_redirects=True, headers={
+            **HEADERS,
+            'Accept': 'text/html,application/xhtml+xml',
+            'Accept-Language': 'en-US,en;q=0.9',
+        })
+        if r.status_code in (404, 410):
+            return False
+        if r.status_code == 200:
+            body = r.text.lower()
+            for phrase in CITADEL_SOFT_404_PHRASES:
+                if phrase in body:
+                    print(f'    soft-404 detected: "{phrase}"')
+                    return False
+            return True
+    except Exception as e:
+        print(f'    citadel check error: {e}')
+    return None
+
+
+# ---------------------------------------------------------------------------
+# Generic HTTP + content check
+# ---------------------------------------------------------------------------
+
+def check_http_and_content(url):
+    """
+    Return True if the URL appears live, False if dead/soft-404, None on error.
+    Fetches the page and checks both status code and body for closed-job phrases.
+    """
+    try:
+        r = requests.get(url, timeout=12, allow_redirects=True, headers=HEADERS)
+    except Exception as e:
+        print(f'    request error: {e}')
+        return None
+
+    if r.status_code >= 400:
+        return False
+
+    # Content-based soft-404 detection
+    body = r.text.lower()
+    for phrase in SOFT_404_PHRASES:
+        if phrase in body:
+            print(f'    soft-404 detected: "{phrase}"')
+            return False
+
+    return True
+
+
+# ---------------------------------------------------------------------------
+# Workday helpers
+# ---------------------------------------------------------------------------
 
 def load_workday_boards():
     company_board = {}
@@ -67,36 +352,94 @@ def fix_workday_url(url, company_board, tenant_board, company=None):
     return url.replace(f'{base}/job/', f'{base}/{board}/job/')
 
 
-def should_skip(url):
-    for domain in SKIP_DOMAINS:
+# ---------------------------------------------------------------------------
+# Main dispatcher
+# ---------------------------------------------------------------------------
+
+def is_skipped(url):
+    for domain in SKIP_ALL_DOMAINS:
         if domain in url:
             return True
     return False
 
 
-def is_link_alive(url):
-    try:
-        resp = requests.get(url, timeout=12, allow_redirects=True, headers=HEADERS)
-        return resp.status_code < 404
-    except Exception as e:
-        print(f'  Request error: {e}')
-        return False
-
-
 def resolve_url(url, company_board, tenant_board, company=None):
-    """Return a working URL, trying Workday board injection if the bare URL 404s."""
-    if should_skip(url):
+    """
+    Return (resolved_url, is_alive).
+    Tries ATS-specific API/content checks first, falls back to HTTP+content check.
+    On any inconclusive result (None), assumes alive to avoid false positives.
+    """
+    if is_skipped(url):
         return url, True
 
-    if is_link_alive(url):
+    # --- Greenhouse API ---
+    if 'greenhouse.io' in url:
+        result = check_greenhouse(url)
+        if result is True:
+            return url, True
+        if result is False:
+            return url, False
+        # None → fall through to HTTP check
+
+    # --- Lever API ---
+    if 'lever.co' in url:
+        result = check_lever(url)
+        if result is True:
+            return url, True
+        if result is False:
+            return url, False
+
+    # --- Ashby API ---
+    if 'ashbyhq.com' in url:
+        result = check_ashby(url)
+        if result is True:
+            return url, True
+        if result is False:
+            return url, False
+
+    # --- Apple Jobs API ---
+    if 'jobs.apple.com' in url:
+        result = check_apple(url)
+        if result is True:
+            return url, True
+        if result is False:
+            return url, False
+        return url, True  # inconclusive → assume alive
+
+    # --- Meta Careers ---
+    if 'metacareers.com' in url:
+        result = check_meta(url)
+        if result is True:
+            return url, True
+        if result is False:
+            return url, False
+        return url, True  # inconclusive → assume alive
+
+    # --- Citadel Securities ---
+    if 'citadelsecurities.com' in url:
+        result = check_citadel(url)
+        if result is True:
+            return url, True
+        if result is False:
+            return url, False
+        return url, True  # inconclusive → assume alive
+
+    # --- Generic HTTP + content check ---
+    result = check_http_and_content(url)
+    if result is False:
+        # Try Workday board injection before giving up
+        fixed = fix_workday_url(url, company_board, tenant_board, company)
+        if fixed != url:
+            fixed_result = check_http_and_content(fixed)
+            if fixed_result is True:
+                print(f'    FIXED (board injection): {fixed}')
+                return fixed, True
+        return url, False
+    if result is True:
         return url, True
 
-    fixed = fix_workday_url(url, company_board, tenant_board, company)
-    if fixed != url and is_link_alive(fixed):
-        print(f'  FIXED (board injection): {fixed}')
-        return fixed, True
-
-    return url, False
+    # On error (None), assume alive to avoid false positives
+    return url, True
 
 
 def mark_listing_closed(entry):
@@ -129,16 +472,18 @@ def main():
     for match in matches:
         url = match.group(1)
         company = listings_by_url.get(url, {}).get('company')
-        print(f'  Checking: {url}')
+        print(f'  Checking: {url[:90]}')
         resolved, alive = resolve_url(url, company_board, tenant_board, company)
         if not alive:
-            print(f'  DEAD: {url}')
+            print(f'    DEAD')
             dead.append((url, match.group(0)))
         else:
-            print(f'  OK')
             if resolved != url:
+                print(f'    FIXED -> {resolved[:90]}')
                 url_replacements[url] = resolved
-        time.sleep(0.75)
+            else:
+                print(f'    OK')
+        time.sleep(0.5)
 
     if url_replacements:
         for old, new in url_replacements.items():
@@ -156,24 +501,20 @@ def main():
 
     if dead:
         dead_urls = {url for url, _ in dead}
-
         for url, btn in dead:
             content = content.replace(btn, '🔒')
         with open('README.md', 'w') as f:
             f.write(content)
-
         if listings_file.exists():
             with open(listings_file) as f:
                 listings = json.load(f)
             for entry in listings:
                 if entry.get('url', '') in dead_urls:
-                    # Only clear url — preserve date_added and all other metadata.
                     mark_listing_closed(entry)
             tmp = listings_file.with_suffix('.tmp')
             with open(tmp, 'w') as f:
                 json.dump(listings, f, indent=2)
             tmp.replace(listings_file)
-
         print(f'\nMarked {len(dead)} dead link(s) as 🔒')
     elif not url_replacements:
         print('\nAll checked links are active')
