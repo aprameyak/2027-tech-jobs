@@ -71,7 +71,7 @@ def format_row(entry, company_col):
         return f'| {company} | {role} | {location} | {season} | {education} | {btn} | {date} |'
     elif table_type == 'newgrad':
         grad_date = entry.get('grad_date', '').strip()
-        return f'| {company} | {role} | {location} | {education} | {grad_date} | {btn} | {date} |'
+        return f'| {company} | {role} | {location} | {grad_date} | {education} | {btn} | {date} |'
     else:
         return f'| {company} | {role} | {location} | {education} | {btn} | {date} |'
 

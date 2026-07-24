@@ -113,7 +113,7 @@ def format_row(fields, table_type):
         season = fields.get('Season / Term', '').strip()
         return f'| {company} | {role} | {location} | {season} | {education} | {apply_btn} | {date} |'
     elif table_type == 'newgrad':
-        return f'| {company} | {role} | {location} | {education} |  | {apply_btn} | {date} |'
+        return f'| {company} | {role} | {location} |  | {education} | {apply_btn} | {date} |'
     else:
         return f'| {company} | {role} | {location} | {education} | {apply_btn} | {date} |'
 
