@@ -5577,32 +5577,6 @@
     "grad_date": ""
   },
   {
-    "company": "Visa",
-    "role": "Software Engineer, New College Grad",
-    "location": "Foster City, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-07-20",
-    "grad_date": ""
-  },
-  {
-    "company": "Visa",
-    "role": "Software Engineer, New College Grad",
-    "location": "Bellevue, WA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-07-20",
-    "grad_date": ""
-  },
-  {
     "company": "ServiceNow",
     "role": "Frontend Software Engineer",
     "location": "San Diego, CA",
@@ -7311,19 +7285,6 @@
     "grad_date": "Spring 2026"
   },
   {
-    "company": "Adobe",
-    "role": "2026 University Graduate - Software Engineer",
-    "location": "Lehi, UT",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-07-20",
-    "grad_date": "Spring 2026"
-  },
-  {
     "company": "Trexquant",
     "role": "Quantitative Researcher",
     "location": "Stamford, CT",
@@ -7353,19 +7314,6 @@
     "company": "Disney",
     "role": "Software Engineer I",
     "location": "Glendale, CA; New York, NY",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-07-20",
-    "grad_date": ""
-  },
-  {
-    "company": "Disney",
-    "role": "Software Engineer I",
-    "location": "Seattle, WA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -8172,18 +8120,6 @@
     "season": "Fall 2026",
     "education": "Undergrad",
     "url": "https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-23"
-  },
-  {
-    "company": "Rivian",
-    "role": "Software Engineering Intern - Embedded Platforms - Fall 2026",
-    "location": "Palo Alto, CA",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-23"
@@ -10303,19 +10239,6 @@
     "grad_date": ""
   },
   {
-    "company": "Apple",
-    "role": "Software Engineer, IS&T",
-    "location": "Austin, TX",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": ""
-  },
-  {
     "company": "Candid Health",
     "role": "New Grad: Software Engineer",
     "location": "San Francisco, CA; Denver, CO; New York, NY",
@@ -11630,19 +11553,6 @@
   },
   {
     "company": "Amazon",
-    "role": "Systems Development Engineer",
-    "location": "Seattle, WA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": ""
-  },
-  {
-    "company": "Amazon",
     "role": "Software Engineer I",
     "location": "San Francisco, CA",
     "type": "newgrad",
@@ -11786,32 +11696,6 @@
   },
   {
     "company": "Adobe",
-    "role": "Software Development Engineer",
-    "location": "San Jose, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": ""
-  },
-  {
-    "company": "Adobe",
-    "role": "New Grad 2026: Software Engineer",
-    "location": "San Jose, CA; Lehi, UT",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": "Spring 2026"
-  },
-  {
-    "company": "Adobe",
     "role": "New Grad 2026: Software Engineer",
     "location": "San Jose, CA; Lehi, UT",
     "type": "newgrad",
@@ -11876,35 +11760,9 @@
     "grad_date": ""
   },
   {
-    "company": "Adobe",
-    "role": "New Grad 2026: Machine Learning Engineer",
-    "location": "San Jose, CA; San Francisco, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": "Spring 2026"
-  },
-  {
     "company": "Twitch",
     "role": "Software Engineer I",
     "location": "Seattle, WA; San Francisco, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": ""
-  },
-  {
-    "company": "Twitch",
-    "role": "Software Engineer I",
-    "location": "San Francisco, CA; Seattle, WA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -12318,19 +12176,6 @@
     "grad_date": ""
   },
   {
-    "company": "Disney",
-    "role": "Software Engineer I",
-    "location": "Seattle, WA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": ""
-  },
-  {
     "company": "Databricks",
     "role": "New Grad 2026: Software Engineer",
     "location": "Bellevue, WA; Mountain View, CA; San Francisco, CA",
@@ -12410,73 +12255,8 @@
   },
   {
     "company": "Visa",
-    "role": "New Grad 2026: Site Reliability Engineer",
-    "location": "Austin, TX",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "No \u2014 Does Not Offer Sponsorship",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": "Spring 2026"
-  },
-  {
-    "company": "Visa",
     "role": "New Grad 2026: Software Engineer",
     "location": "Highlands Ranch, CO",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "No \u2014 Does Not Offer Sponsorship",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": "Spring 2026"
-  },
-  {
-    "company": "Visa",
-    "role": "New Grad 2026: Software Engineer",
-    "location": "Austin, TX",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "No \u2014 Does Not Offer Sponsorship",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": "Spring 2026"
-  },
-  {
-    "company": "Visa",
-    "role": "New Grad 2026: Site Reliability Engineer",
-    "location": "Highlands Ranch, CO",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "No \u2014 Does Not Offer Sponsorship",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": "Spring 2026"
-  },
-  {
-    "company": "Visa",
-    "role": "New Grad 2026: Software Engineer",
-    "location": "Foster City, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "No \u2014 Does Not Offer Sponsorship",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": "Spring 2026"
-  },
-  {
-    "company": "Visa",
-    "role": "New Grad 2026: Software Engineer",
-    "location": "Bellevue, WA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -12650,19 +12430,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": ""
-  },
-  {
-    "company": "Luma",
-    "role": "Research Scientist / Engineer - Data",
-    "location": "Remote",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/luma-ai/f41a9fc6-40b5-4063-b093-b50ffe919ad8",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-24",
@@ -13215,19 +12982,6 @@
     "grad_date": ""
   },
   {
-    "company": "Interaction",
-    "role": "Member of Technical Staff",
-    "location": "San Francisco, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/interaction/56b66af2-bce5-4ad7-baf9-ace14eb6a29a",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": ""
-  },
-  {
     "company": "Yotta Labs",
     "role": "Research Engineer - Decentralized AI Systems",
     "location": "Remote",
@@ -13434,18 +13188,5 @@
     "citizenship": "No",
     "date_added": "2026-07-24",
     "grad_date": "Spring 2026"
-  },
-  {
-    "company": "Renaissance Technologies",
-    "role": "Research Scientist",
-    "location": "East Setauket, NY",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://www.rentec.com/Careers.action?jobs=true&selectedPosition=researchScientist",
-    "sponsorship": "Unknown",
-    "citizenship": "Yes",
-    "date_added": "2026-07-24",
-    "grad_date": ""
   }
 ]
