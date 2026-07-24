@@ -33,6 +33,10 @@ WD_BARE = re.compile(r'^(https://([^.]+)\.(wd\d+)\.myworkdayjobs\.com)/job/')
 # Phrases that appear in page body when a job is closed (case-insensitive).
 # Ordered from most specific to least — stop at first match.
 SOFT_404_PHRASES = [
+    # Apple Jobs (HTTP 200, body says role gone)
+    'this role does not exist',
+    'does not exist or is no longer available',
+    'norolefound',
     # Workday
     'this position is no longer available',
     'this job is no longer available',
@@ -175,26 +179,37 @@ def _apple_job_id(url):
 def check_apple(url):
     """
     Return True if open, False if closed, None if unable to determine.
-    Uses Apple's internal role-search JSON endpoint which returns an empty
-    results list when the job no longer exists.
+    Uses Apple's role-search JSON API (empty results = gone). Falls back to
+    HTML — Apple returns HTTP 200 with "this role does not exist" not 404.
     """
     job_id = _apple_job_id(url)
-    if not job_id:
-        return None
-    api = f'https://jobs.apple.com/api/role/search?id={job_id}&lang=en-us'
+    if job_id:
+        api = f'https://jobs.apple.com/api/role/search?id={job_id}&lang=en-us'
+        try:
+            r = requests.get(api, timeout=15, headers=HEADERS)
+            if r.status_code == 200:
+                results = r.json().get('searchResults', None)
+                if results is not None:
+                    return len(results) > 0 if results else False
+            if r.status_code in (404, 410):
+                return False
+        except Exception as e:
+            print(f'    apple api error: {e}')
+
     try:
-        r = requests.get(api, timeout=15, headers=HEADERS)
-        if r.status_code == 200:
-            data = r.json()
-            # Response has a "searchResults" list; empty means job is gone
-            results = data.get('searchResults', None)
-            if results is None:
-                return None
-            return len(results) > 0
+        r = requests.get(url, timeout=15, allow_redirects=True, headers=HEADERS)
         if r.status_code in (404, 410):
             return False
+        if r.status_code == 200:
+            body = r.text.lower()
+            for phrase in SOFT_404_PHRASES:
+                if phrase in body:
+                    print(f'    apple soft-404 detected: "{phrase}"')
+                    return False
+            if job_id and job_id in r.text:
+                return True
     except Exception as e:
-        print(f'    apple api error: {e}')
+        print(f'    apple html error: {e}')
     return None
 
 
@@ -210,38 +225,51 @@ def _meta_job_id(url):
 def check_meta(url):
     """
     Return True if open, False if closed, None if unable to determine.
-    Meta's GraphQL careers API returns an error when a job doesn't exist.
+    Meta soft-404s with page content (not HTTP 404). Bot-blocked fetches
+    return None so we do not false-positive mark jobs dead.
     """
     job_id = _meta_job_id(url)
-    if not job_id:
-        return None
-    api = 'https://www.metacareers.com/graphql'
-    payload = {
-        'fb_api_caller_class': 'RelayModern',
-        'variables': json.dumps({'job_id': job_id}),
-        'doc_id': '7823148984374496',  # public "job detail" doc_id
-    }
+    if job_id:
+        api = 'https://www.metacareers.com/graphql'
+        payload = {
+            'fb_api_caller_class': 'RelayModern',
+            'variables': json.dumps({'job_id': job_id}),
+            'doc_id': '7823148984374496',
+        }
+        try:
+            r = requests.post(api, data=payload, timeout=12, headers={
+                **HEADERS,
+                'Content-Type': 'application/x-www-form-urlencoded',
+                'x-fb-friendly-name': 'CareersJobDetailQuery',
+            })
+            if r.status_code == 200 and r.text.strip().startswith('{'):
+                node = r.json().get('data', {}).get('job_posting', None)
+                if node is None:
+                    return False
+                if node.get('id'):
+                    return True
+        except Exception as e:
+            print(f'    meta api error: {e}')
+
     try:
-        r = requests.post(api, data=payload, timeout=12, headers={
+        r = requests.get(url, timeout=12, allow_redirects=True, headers={
             **HEADERS,
-            'Content-Type': 'application/x-www-form-urlencoded',
-            'x-fb-friendly-name': 'CareersJobDetailQuery',
+            'Accept-Language': 'en-US,en;q=0.9',
         })
-        if r.status_code == 200:
-            data = r.json()
-            # If the job node is null the listing is gone
-            node = (
-                data.get('data', {})
-                    .get('job_posting', None)
-            )
-            if node is None:
-                # Could be API change — fall back to unknown
-                return None
-            return node.get('id') is not None
         if r.status_code in (404, 410):
             return False
+        if r.status_code >= 400:
+            print(f'    meta blocked (HTTP {r.status_code}) — skipping')
+            return None
+        body = r.text.lower()
+        for phrase in SOFT_404_PHRASES + ['does not exist', "doesn't exist"]:
+            if phrase in body:
+                print(f'    meta soft-404 detected: "{phrase}"')
+                return False
+        if job_id and job_id in r.text:
+            return True
     except Exception as e:
-        print(f'    meta api error: {e}')
+        print(f'    meta html error: {e}')
     return None
 
 
