@@ -111,6 +111,26 @@ def validate_entry(entry):
     return [(company, role, v) for v in violations]
 
 
+def validate_duplicate_urls(listings):
+    """Flag duplicate live URLs."""
+    seen = {}
+    violations = []
+    for entry in listings:
+        url = entry.get('url', '').strip()
+        if not url:
+            continue
+        if url in seen:
+            other = seen[url]
+            violations.append((
+                entry.get('company', ''),
+                entry.get('role', ''),
+                f'duplicate live URL also used by {other.get("company")}: {other.get("role")!r}',
+            ))
+        else:
+            seen[url] = entry
+    return violations
+
+
 def main():
     if not LISTINGS_FILE.exists():
         print(f'{LISTINGS_FILE} not found')
@@ -122,6 +142,7 @@ def main():
     all_violations = []
     for entry in listings:
         all_violations.extend(validate_entry(entry))
+    all_violations.extend(validate_duplicate_urls(listings))
 
     print(f'Validated {len(listings)} listing(s)')
     if all_violations:
