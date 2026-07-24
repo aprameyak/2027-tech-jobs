@@ -7,6 +7,7 @@ Accenture
 Adobe
 Affirm
 Agilent Technologies
+AIG
 Airbnb
 Airtable
 Akuna Capital
@@ -17,6 +18,7 @@ Amplitude
 Analog Devices
 Anaplan
 Anduril
+Anima
 Anthropic
 Anyscale
 Appian
@@ -62,6 +64,7 @@ Chime
 Ciena
 Circleback
 Cisco
+Citizen Health
 ClickHouse
 Clipboard Health
 Cloudera
@@ -94,6 +97,7 @@ DoorDash
 DraftKings
 Dropbox
 DRW
+Dune
 Duolingo
 DXC Technology
 ElevenLabs
@@ -103,6 +107,7 @@ Endava
 Epic Games
 Esri
 Etched
+Eventual
 Everfox
 Exowatt
 Expedia Group
@@ -128,6 +133,7 @@ Goldman Sachs
 Google
 GoPro
 Grafana Labs
+Groundswell
 Gusto
 Haize Labs
 Handshake
@@ -141,6 +147,7 @@ iHerb
 IMC Trading
 Instacart
 Intel
+Interaction
 Intercom
 InterDigital
 IXL Learning
@@ -190,6 +197,7 @@ Nextdoor
 Niantic
 Nike
 Northern Trust
+NorthMark Strategies
 Notion
 Nubank
 Nuro
@@ -232,6 +240,7 @@ Rakuten International
 Ramp
 Reddit
 Redis
+Remitly
 Replit
 Riot Games
 Rippling
@@ -241,6 +250,7 @@ Rocket Companies
 Rocket Lab
 Roku
 Roland Berger
+RTX
 Rubrik
 Runway
 SailPoint
@@ -256,6 +266,7 @@ Seven Research
 Shield AI
 Sierra
 Silicon Labs
+SimpliSafe
 Skydio
 Smartsheet
 Snap
@@ -312,6 +323,7 @@ Wells Fargo
 Western Digital
 WhatNot
 Wise
+Yotta
 Zapier
 Zip
 Zipline
