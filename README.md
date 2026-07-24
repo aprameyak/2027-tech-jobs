@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Agilent Technologies | Intern - R&D Software Engineering, AI & Test Automation | Wilmington, DE | Undergrad | <a href="https://agilent.wd5.myworkdayjobs.com/en-US/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---R-D-Software-Engineering--AI---Test-Automation-_4038437" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Appian | Software Engineer Intern | McLean, VA | Undergrad | <a href="https://job-boards.greenhouse.io/appian/jobs/8041237" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Arkansas Center for Data Sciences | AI Software Engineer Intern - Bastazo | Bentonville, AR | Undergrad | <a href="https://jobs.lever.co/acds/65b739c3-02ad-4814-ad24-24abecbc83f4" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Bild AI | AI/SWE Intern | San Francisco, CA | Undergrad | <a href="https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
