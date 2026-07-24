@@ -9455,5 +9455,18 @@
     "citizenship": "No",
     "date_added": "2026-07-23",
     "grad_date": ""
+  },
+  {
+    "company": "Cox",
+    "role": "Software Engineer 1",
+    "location": "Austin, TX; Burlington, VT; Atlanta, GA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-23",
+    "grad_date": ""
   }
 ]
