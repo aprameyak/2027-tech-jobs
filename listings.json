@@ -9364,5 +9364,18 @@
     "citizenship": "No",
     "date_added": "2026-07-23",
     "grad_date": ""
+  },
+  {
+    "company": "Confido",
+    "role": "Software Engineer New Grad",
+    "location": "New York, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-23",
+    "grad_date": ""
   }
 ]
