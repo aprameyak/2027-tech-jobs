@@ -10053,5 +10053,18 @@
     "citizenship": "No",
     "date_added": "2026-07-23",
     "grad_date": ""
+  },
+  {
+    "company": "Quora",
+    "role": "Machine Learning Engineer New Grad",
+    "location": "Remote",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-23",
+    "grad_date": ""
   }
 ]
