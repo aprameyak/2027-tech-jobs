@@ -8094,5 +8094,17 @@
     "citizenship": "No",
     "date_added": "2026-07-23",
     "grad_date": ""
+  },
+  {
+    "company": "Google",
+    "role": "Software Engineering Intern, MS - Summer 2027",
+    "location": "Mountain View, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Masters",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-23"
   }
 ]
