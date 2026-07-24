@@ -195,6 +195,8 @@ greenhouse:
   slug: schonfeld
 - name: Seven Research
   slug: sevenresearch
+- name: SimpliSafe
+  slug: simplisafe
 - name: Smartsheet
   slug: smartsheet
 - name: SoFi
@@ -359,6 +361,10 @@ workday:
   tenant: agilent
   instance: wd5
   board: Agilent_Careers
+- name: AIG
+  tenant: aig
+  instance: wd1
+  board: aig
 - name: Alation
   tenant: alation
   instance: wd503
@@ -471,6 +477,10 @@ workday:
   tenant: tsys
   instance: wd1
   board: TSYS
+- name: Groundswell
+  tenant: groundswell
+  instance: wd12
+  board: groundswell
 - name: Home Depot
   tenant: homedepot
   instance: wd5
@@ -531,6 +541,10 @@ workday:
   tenant: ntrs
   instance: wd1
   board: northerntrust
+- name: NorthMark Strategies
+  tenant: northmark
+  instance: wd108
+  board: NMS
 - name: NVIDIA
   tenant: nvidia
   instance: wd5
@@ -555,10 +569,18 @@ workday:
   tenant: rakuten
   instance: wd1
   board: RakutenAmericas
+- name: Remitly
+  tenant: remitly
+  instance: wd5
+  board: Remitly_Careers
 - name: Rocket Companies
   tenant: rocket
   instance: wd5
   board: rocket_careers
+- name: RTX
+  tenant: globalhr
+  instance: wd5
+  board: REC_RTX_Ext_Gateway
 - name: SailPoint
   tenant: sailpoint
   instance: wd1
@@ -639,6 +661,8 @@ ashby:
   slug: abridge
 - name: Amperity
   slug: amperity
+- name: Anima
+  slug: Anima
 - name: Anyscale
   slug: anyscale
 - name: Applied Intuition
@@ -659,6 +683,8 @@ ashby:
   slug: cerebras
 - name: Circleback
   slug: circleback
+- name: Citizen Health
+  slug: Citizen%20Health
 - name: Clipboard Health
   slug: clipboard
 - name: Cognition AI
@@ -677,6 +703,8 @@ ashby:
   slug: d-Matrix
 - name: Decagon
   slug: decagon
+- name: Dune
+  slug: dune
 - name: ElevenLabs
   slug: elevenlabs
 - name: EliseAI
@@ -685,6 +713,8 @@ ashby:
   slug: ellipsislabs
 - name: Etched
   slug: etched
+- name: Eventual
+  slug: eventualcomputing
 - name: Faros AI
   slug: faros-ai
 - name: Figure
@@ -699,6 +729,8 @@ ashby:
   slug: harvey
 - name: Homebase
   slug: homebase
+- name: Interaction
+  slug: interaction
 - name: Kraken
   slug: kraken
 - name: Kustomer
@@ -779,6 +811,8 @@ ashby:
   slug: wealthsimple
 - name: WhatNot
   slug: whatnot
+- name: Yotta
+  slug: yotta
 - name: Zapier
   slug: zapier
 - name: Zip
