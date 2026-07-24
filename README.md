@@ -581,6 +581,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | New Grad: Forward Deployed Software Engineer | <details><summary>**3 locations**</summary>San Francisco, CA</br>Denver, CO</br>New York, NY</details> |  | Undergrad | <a href="https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Canonical | Software Engineer - Python - Cloud | Remote |  | Undergrad | <a href="https://job-boards.greenhouse.io/canonical/jobs/3257589" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Capgemini | Full Stack AI Engineer | New York, NY |  | Undergrad | 🔒 | Jul 24 |
+| Capital One | Associate, Software Engineer, New Grad Card Expansion | Toronto, ON |  | Undergrad | <a href="https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247335" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Cellular Sales | Junior Data Engineer | Knoxville, TN |  | Undergrad | 🔒 | Jul 24 |
 | Circle | New Grad 2026: Software Engineer, Backend | United States of America | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | Citadel Securities | C++ Software Engineer | Miami, FL |  | Undergrad | 🔒 | Jul 24 |
