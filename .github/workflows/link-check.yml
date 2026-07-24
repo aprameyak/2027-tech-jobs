@@ -29,6 +29,8 @@ jobs:
         run: pip install requests
 
       - name: Check links
+        env:
+          PYTHONUNBUFFERED: '1'
         run: python .github/scripts/check_links.py
 
       - name: Commit closed positions

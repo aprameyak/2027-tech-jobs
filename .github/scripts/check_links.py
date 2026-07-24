@@ -99,6 +99,7 @@ GH_HOST_BOARD = {
     'www.quinstreet.com': 'quinstreet',
     'www.rentec.com': 'rentec',
     'www.oldmissioncapital.com': 'oldmissioncapital',
+    'careers.appian.com': 'appian',
 }
 
 # ---------------------------------------------------------------------------
@@ -167,13 +168,31 @@ def check_greenhouse_gh_jid(url, company=None, gh_boards=None):
     if not m:
         return None
     job_id = m.group(1)
-    board = None
-    if gh_boards and company:
+    board = _gh_board_for_url(url, company, gh_boards)
+    if board:
+        return _gh_api_check(board, job_id)
+    return None
+
+
+def _gh_board_for_url(url, company=None, gh_boards=None):
+    host = re.search(r'https?://([^/]+)', url)
+    if not host:
+        return None
+    board = GH_HOST_BOARD.get(host.group(1).lower())
+    if not board and gh_boards and company:
         board = gh_boards.get(company)
-    if not board:
-        host = re.search(r'https?://([^/]+)', url)
-        if host:
-            board = GH_HOST_BOARD.get(host.group(1).lower())
+    return board
+
+
+def check_greenhouse_careers_jobs(url, company=None, gh_boards=None):
+    """Check Greenhouse /jobs/JOBID URLs on known career-site hosts."""
+    m = re.search(r'://([^/]+)/jobs/(\d+)', url)
+    if not m:
+        return None
+    host, job_id = m.group(1).lower(), m.group(2)
+    board = GH_HOST_BOARD.get(host) or (
+        gh_boards.get(company) if gh_boards and company else None
+    )
     if board:
         return _gh_api_check(board, job_id)
     return None
@@ -514,6 +533,11 @@ def resolve_url(url, company_board, tenant_board, company=None, gh_boards=None):
         if result is False:
             return url, False
     result = check_greenhouse_gh_jid(url, company, gh_boards)
+    if result is True:
+        return url, True
+    if result is False:
+        return url, False
+    result = check_greenhouse_careers_jobs(url, company, gh_boards)
     if result is True:
         return url, True
     if result is False:
