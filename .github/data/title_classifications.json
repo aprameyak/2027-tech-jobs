@@ -10792,5 +10792,8 @@
   "leadership development program - engineering, software (starts june 2027)": true,
   "leadership development program - engineering, systems (starts june 2027)": true,
   "part-time student worker technical program manager": true,
-  "senior applied research scientist": true
+  "senior applied research scientist": true,
+  "graduate quantitative developer": true,
+  "quantitative developer intern": true,
+  "sales development representative - new grad": false
 }
