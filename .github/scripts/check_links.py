@@ -2,6 +2,7 @@
 
 import json
 import re
+import subprocess
 import time
 from pathlib import Path
 
@@ -14,6 +15,7 @@ SKIP_ALL_DOMAINS = [
     'www.tesla.com',
     'tesla.com',
     'lockheedmartinjobs.com',
+    'metacareers.com',
 ]
 
 HEADERS = {
@@ -61,8 +63,43 @@ SOFT_404_PHRASES = [
     'posting has expired',
     'job has expired',
     'opening has been closed',
+    # Generic soft-404 (custom career sites: Microsoft, Amazon, Google, etc.)
+    'does not exist',
+    "doesn't exist",
+    'does not exist or is no longer available',
+    'job not found',
+    'posting not found',
+    'position not found',
+    'requisition not found',
+    'could not be found',
+    'unable to find this',
+    'page not found',
+    'sorry, this job',
+    'sorry, this position',
+    'sorry, this role',
+    'no open positions',
+    'job posting has expired',
+    'role has been filled',
+    'application period has ended',
+    'the page you are looking for',
+    'no longer exists',
 ]
 
+# Host → Greenhouse board slug for embedded ?gh_jid= URLs
+GH_HOST_BOARD = {
+    'stripe.com': 'stripe',
+    'nuro.ai': 'nuro',
+    'instacart.careers': 'instacart',
+    'databricks.com': 'databricks',
+    'www.tower-research.com': 'towerresearchcapital',
+    'www.boerboeltrading.com': 'boerboeltrading',
+    'www.zipline.com': 'zipline',
+    'www.ixl.com': 'ixllearning',
+    'www.jumptrading.com': 'jumptrading',
+    'www.quinstreet.com': 'quinstreet',
+    'www.rentec.com': 'rentec',
+    'www.oldmissioncapital.com': 'oldmissioncapital',
+}
 
 # ---------------------------------------------------------------------------
 # ATS API helpers
@@ -87,7 +124,68 @@ def check_greenhouse(url):
     board, job_id = _gh_board_and_id(url)
     if not board or not job_id:
         return None
+    return _gh_api_check(board, job_id)
+
+
+def _gh_api_check(board, job_id):
     api = f'https://boards-api.greenhouse.io/v1/boards/{board}/jobs/{job_id}'
+    try:
+        r = requests.get(api, timeout=10, headers=HEADERS)
+        if r.status_code == 200:
+            return True
+        if r.status_code == 404:
+            return False
+    except Exception:
+        pass
+    return None
+
+
+def load_greenhouse_boards():
+    """Company name → Greenhouse board slug from companies.yml."""
+    boards = {}
+    section = None
+    cur = None
+    for line in Path('companies.yml').read_text().splitlines():
+        if line.startswith('greenhouse:'):
+            section = 'greenhouse'
+            continue
+        if line.endswith(':') and not line.startswith(' '):
+            section = None
+        if section != 'greenhouse':
+            continue
+        m = re.match(r'- name: (.+)', line)
+        if m:
+            cur = m.group(1).strip()
+        if cur and line.strip().startswith('slug:'):
+            boards[cur] = line.split('slug:', 1)[1].strip()
+    return boards
+
+
+def check_greenhouse_gh_jid(url, company=None, gh_boards=None):
+    """Check embedded ?gh_jid= URLs on custom career sites."""
+    m = re.search(r'[?&#]gh_jid=(\d+)', url)
+    if not m:
+        return None
+    job_id = m.group(1)
+    board = None
+    if gh_boards and company:
+        board = gh_boards.get(company)
+    if not board:
+        host = re.search(r'https?://([^/]+)', url)
+        if host:
+            board = GH_HOST_BOARD.get(host.group(1).lower())
+    if board:
+        return _gh_api_check(board, job_id)
+    return None
+
+
+def check_smartrecruiters(url):
+    """Return True if open, False if closed, None if not a SmartRecruiters URL."""
+    m = re.search(r'jobs\.smartrecruiters\.com/([^/]+)/(\d+)', url)
+    if not m:
+        return None
+    company, job_id = m.group(1), m.group(2)
+    api = f'https://api.smartrecruiters.com/v1/companies/{company}/postings/{job_id}'
     try:
         r = requests.get(api, timeout=10, headers=HEADERS)
         if r.status_code == 200:
@@ -391,23 +489,35 @@ def is_skipped(url):
     return False
 
 
-def resolve_url(url, company_board, tenant_board, company=None):
+def resolve_url(url, company_board, tenant_board, company=None, gh_boards=None):
     """
     Return (resolved_url, is_alive).
-    Tries ATS-specific API/content checks first, falls back to HTTP+content check.
-    On any inconclusive result (None), assumes alive to avoid false positives.
+    ATS APIs (Greenhouse, Lever, Ashby, SmartRecruiters) first, then site-specific
+    checkers (Apple, Citadel), then universal content-based soft-404 for all
+    custom career sites (Microsoft, Amazon, Google, Workday HTML, iCIMS, etc.).
     """
     if is_skipped(url):
         return url, True
 
-    # --- Greenhouse API ---
+    # --- SmartRecruiters API ---
+    result = check_smartrecruiters(url)
+    if result is True:
+        return url, True
+    if result is False:
+        return url, False
+
+    # --- Greenhouse API (direct + embedded gh_jid) ---
     if 'greenhouse.io' in url:
         result = check_greenhouse(url)
         if result is True:
             return url, True
         if result is False:
             return url, False
-        # None → fall through to HTTP check
+    result = check_greenhouse_gh_jid(url, company, gh_boards)
+    if result is True:
+        return url, True
+    if result is False:
+        return url, False
 
     # --- Lever API ---
     if 'lever.co' in url:
@@ -417,7 +527,7 @@ def resolve_url(url, company_board, tenant_board, company=None):
         if result is False:
             return url, False
 
-    # --- Ashby API ---
+    # --- Ashby ---
     if 'ashbyhq.com' in url:
         result = check_ashby(url)
         if result is True:
@@ -425,23 +535,13 @@ def resolve_url(url, company_board, tenant_board, company=None):
         if result is False:
             return url, False
 
-    # --- Apple Jobs API ---
+    # --- Apple Jobs (API + soft-404 HTML) ---
     if 'jobs.apple.com' in url:
         result = check_apple(url)
         if result is True:
             return url, True
         if result is False:
             return url, False
-        return url, True  # inconclusive → assume alive
-
-    # --- Meta Careers ---
-    if 'metacareers.com' in url:
-        result = check_meta(url)
-        if result is True:
-            return url, True
-        if result is False:
-            return url, False
-        return url, True  # inconclusive → assume alive
 
     # --- Citadel Securities ---
     if 'citadelsecurities.com' in url:
@@ -450,12 +550,10 @@ def resolve_url(url, company_board, tenant_board, company=None):
             return url, True
         if result is False:
             return url, False
-        return url, True  # inconclusive → assume alive
 
-    # --- Generic HTTP + content check ---
+    # --- Universal content soft-404 (custom career sites + ATS HTML fallbacks) ---
     result = check_http_and_content(url)
     if result is False:
-        # Try Workday board injection before giving up
         fixed = fix_workday_url(url, company_board, tenant_board, company)
         if fixed != url:
             fixed_result = check_http_and_content(fixed)
@@ -466,7 +564,7 @@ def resolve_url(url, company_board, tenant_board, company=None):
     if result is True:
         return url, True
 
-    # On error (None), assume alive to avoid false positives
+    # Network error — assume alive to avoid false positives
     return url, True
 
 
@@ -477,74 +575,50 @@ def mark_listing_closed(entry):
 
 def main():
     company_board, tenant_board = load_workday_boards()
-
-    with open('README.md', 'r') as f:
-        content = f.read()
+    gh_boards = load_greenhouse_boards()
 
     listings_file = Path('listings.json')
-    listings = []
-    listings_by_url = {}
-    if listings_file.exists():
-        with open(listings_file) as f:
-            listings = json.load(f)
-        for entry in listings:
-            u = entry.get('url', '')
-            if u:
-                listings_by_url[u] = entry
+    with open(listings_file) as f:
+        listings = json.load(f)
 
-    matches = list(APPLY_BTN_PATTERN.finditer(content))
-    print(f'Found {len(matches)} links to check')
+    live = [e for e in listings if e.get('url', '').strip()]
+    print(f'Checking {len(live)} live URL(s)')
 
-    dead = []
-    url_replacements = {}
-    for match in matches:
-        url = match.group(1)
-        company = listings_by_url.get(url, {}).get('company')
-        print(f'  Checking: {url[:90]}')
-        resolved, alive = resolve_url(url, company_board, tenant_board, company)
+    dead_count = 0
+    fixed_count = 0
+    for i, entry in enumerate(live, 1):
+        url = entry['url']
+        company = entry.get('company')
+        if i % 50 == 0 or i == 1:
+            print(f'  Progress: {i}/{len(live)}')
+        resolved, alive = resolve_url(
+            url, company_board, tenant_board, company, gh_boards,
+        )
         if not alive:
-            print(f'    DEAD')
-            dead.append((url, match.group(0)))
-        else:
-            if resolved != url:
-                print(f'    FIXED -> {resolved[:90]}')
-                url_replacements[url] = resolved
-            else:
-                print(f'    OK')
-        time.sleep(0.5)
+            print(f'  DEAD: {company} — {entry["role"][:50]}')
+            mark_listing_closed(entry)
+            dead_count += 1
+        elif resolved != url:
+            print(f'  FIXED: {company} — {resolved[:70]}')
+            entry['url'] = resolved
+            fixed_count += 1
+        time.sleep(0.25)
 
-    if url_replacements:
-        for old, new in url_replacements.items():
-            content = content.replace(old, new)
-            for entry in listings:
-                if entry.get('url') == old:
-                    entry['url'] = new
-        with open('README.md', 'w') as f:
-            f.write(content)
+    if dead_count or fixed_count:
         tmp = listings_file.with_suffix('.tmp')
         with open(tmp, 'w') as f:
             json.dump(listings, f, indent=2)
         tmp.replace(listings_file)
-        print(f'\nFixed {len(url_replacements)} Workday URL(s)')
-
-    if dead:
-        dead_urls = {url for url, _ in dead}
-        for url, btn in dead:
-            content = content.replace(btn, '🔒')
-        with open('README.md', 'w') as f:
-            f.write(content)
-        if listings_file.exists():
-            with open(listings_file) as f:
-                listings = json.load(f)
-            for entry in listings:
-                if entry.get('url', '') in dead_urls:
-                    mark_listing_closed(entry)
-            tmp = listings_file.with_suffix('.tmp')
-            with open(tmp, 'w') as f:
-                json.dump(listings, f, indent=2)
-            tmp.replace(listings_file)
-        print(f'\nMarked {len(dead)} dead link(s) as 🔒')
-    elif not url_replacements:
+        print(f'\nMarked {dead_count} dead, fixed {fixed_count} URL(s)')
+        result = subprocess.run(
+            ['python3', '.github/scripts/rebuild_readme.py'],
+            capture_output=True, text=True,
+        )
+        if result.returncode != 0:
+            print(f'rebuild_readme.py failed: {result.stderr[:300]}')
+        else:
+            print(result.stdout.strip())
+    else:
         print('\nAll checked links are active')
 
 
