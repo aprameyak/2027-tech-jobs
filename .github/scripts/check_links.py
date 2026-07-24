@@ -581,6 +581,8 @@ def main():
     with open(listings_file) as f:
         listings = json.load(f)
 
+    initial_count = len(listings)
+
     live = [e for e in listings if e.get('url', '').strip()]
     print(f'Checking {len(live)} live URL(s)')
 
@@ -605,6 +607,11 @@ def main():
         time.sleep(0.25)
 
     if dead_count or fixed_count:
+        if len(listings) != initial_count:
+            raise SystemExit(
+                f'Refusing to write: listing count changed '
+                f'{initial_count} -> {len(listings)} (only url may change)',
+            )
         tmp = listings_file.with_suffix('.tmp')
         with open(tmp, 'w') as f:
             json.dump(listings, f, indent=2)
