@@ -40,7 +40,10 @@ SENIOR_PATTERNS = [
     re.compile(r'\barchitect\b', re.I),
 ]
 SENIOR_OK = re.compile(
-    r'phd early career|senior associate|principal associate|associate product manager|\bapm\b',
+    r'phd early career|senior associate|principal associate|associate product manager|\bapm\b|'
+    r'product manager.*graduate|graduate.*product manager|new grad.*product manager|'
+    r'product manager graduate|technical program manager|engineering program manager|'
+    r'solutions architect.*new grad|new grad.*solutions architect',
     re.I,
 )
 NEWGRAD_IN_TITLE = re.compile(r'new grad|new-grad|entry', re.I)
