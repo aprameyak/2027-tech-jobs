@@ -533,7 +533,14 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Anduril Industries | Software Engineer, Connected Warfare | Costa Mesa, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Anima | Software Engineer | Remote |  | Undergrad | <a href="https://jobs.ashbyhq.com/Anima/a6b86f92-0679-423b-b575-a23f8677dfd1" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Appian 🛂 🇺🇸 | New Grad 2027: Associate Solution Engineer | McLean, VA | Spring 2027 | Undergrad | <a href="https://job-boards.greenhouse.io/appian/jobs/8035750" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| Apple | Junior UI Compositing Engineer | Cupertino, CA |  | Undergrad | 🔒 | Jul 24 |
+| ↳ | Associate Consultant (2027 Graduates) | McLean, VA | Spring 2027 | Undergrad; Masters | <a href="https://careers.appian.com/jobs/8041245-associate-consultant--2027-graduates-" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | Associate Consultant (2027 Graduates, Top Secret Clearance) | McLean, VA | Spring 2027 | Undergrad; Masters | <a href="https://careers.appian.com/jobs/8060496-associate-consultant--2027-graduates--top-secret-clearan" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | Associate Solutions Consultant (2027 Graduates) | McLean, VA | Spring 2027 | Undergrad; Masters | <a href="https://careers.appian.com/jobs/8035742-associate-solutions-consultant--2027-graduates-" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | Information Security Engineer (2027 Graduate) | McLean, VA | Spring 2027 | Undergrad; Masters | <a href="https://careers.appian.com/jobs/8035744-information-security-engineer--2027-graduate-" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | Software Engineer (2027 Graduates) | McLean, VA | Spring 2027 | Undergrad; Masters | <a href="https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | Associate Application Engineer (2027 Graduates) | McLean, VA | Spring 2027 | Undergrad; Masters | <a href="https://careers.appian.com/jobs/8035372-associate-application-engineer--2027-graduates-" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | Product Manager (2027 Graduates) | McLean, VA | Spring 2027 | Undergrad; Masters | <a href="https://careers.appian.com/jobs/8069612-product-manager--2027-graduates-" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| Apple | Junior UI Compositing Engineer | Cupertino, CA |  | Undergrad | <a href="https://jobs.apple.com/en-us/details/200636915-0836/junior-ui-compositing-engineer" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Software Engineer, Customer Systems | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Software Engineer | Austin, TX |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Software Engineer, IS&T Early Career | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 24 |
@@ -548,6 +555,11 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Camera Framework Engineer, Photo Capture | Cupertino, CA |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Accessibility Engineer, IS&T, Early Career | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Software Engineer, IS&T | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 24 |
+| ↳ | Cellular Platform Software Engineer, Embedded Analytics | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 24 |
+| ↳ | IS&T Early Career Engineering Program Manager Opportunities | Austin, TX |  | Undergrad | 🔒 | Jul 24 |
+| ↳ | Software Engineer, IS&T | Austin, TX |  | Undergrad | 🔒 | Jul 24 |
+| ↳ | Software Engineer | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 24 |
+| ↳ | Wi-Fi Software Systems Performance Engineer | San Diego, CA |  | Undergrad | 🔒 | Jul 24 |
 | Atlassian | New Grad 2026: Machine Learning Engineer | San Francisco, CA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Software Engineer | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | Aurora Innovation | Software Engineer 1 | Pittsburgh, PA |  | Undergrad | <a href="https://aurora.tech/jobs/8209480002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
