@@ -13356,5 +13356,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-24"
+  },
+  {
+    "company": "Palantir",
+    "role": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "location": "New York, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-24",
+    "grad_date": ""
   }
 ]
