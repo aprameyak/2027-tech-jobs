@@ -10799,5 +10799,19 @@
   "associate product manager - vault medical connections": true,
   "forward deployed infrastructure engineer, new grad - us government": true,
   "business development associate, early career": false,
-  "junior accountant": false
+  "junior accountant": false,
+  "production programmer - entry level sql developer": true,
+  "radar digital signal processing (dsp) intern/co-op": true,
+  "software engineer intern/co-op - fall 2026": true,
+  "systems engineering intern": true,
+  "flight software engineering intern - fall 2026": true,
+  "flight test operations pilot intern - fall 2026": false,
+  "propulsion engineer intern - fall 2026": true,
+  "propulsion test engineering intern - fall 2026": true,
+  "software engineering intern (hil) - fall 2026": true,
+  "software engineering intern (hmi) - fall 2026": true,
+  "software engineering intern (modeling & simulation) - fall 2026": true,
+  "subsystem test engineering intern - fall 2026": true,
+  "test and operations engineering intern - fall 2026": true,
+  "field application engineer (new college grad, summer 2026 start)": true
 }
