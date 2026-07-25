@@ -605,6 +605,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Databricks | New Grad 2026: Software Engineer | <details><summary>**3 locations**</summary>Bellevue, WA</br>Mountain View, CA</br>San Francisco, CA</details> | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Data Scientist | <details><summary>**2 locations**</summary>Mountain View, CA</br>San Francisco, CA</details> | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | Dayton Freight Lines | Entry Level Software Developer | Dayton, OH |  | Undergrad | 🔒 | Jul 24 |
+| DigiCert | Associate Backend Engineer | Sunnyvale, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/digicert/jobs/8637536002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Disney | Software Engineer I | <details><summary>**2 locations**</summary>Glendale, CA</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 24 |
 | Diverge Health | Associate Software Developer | Remote |  | Undergrad | <a href="https://divergehealth.org/jobs/?gh_jid=4840575007" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Dune | Data Engineer | Remote |  | Undergrad | <a href="https://jobs.ashbyhq.com/dune/f3846675-ec16-49df-840d-a428cb421e8c" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
