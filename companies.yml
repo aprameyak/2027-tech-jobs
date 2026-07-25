@@ -9,6 +9,8 @@ greenhouse:
   slug: airtable
 - name: Akuna Capital
   slug: akunacapital
+- name: Amperon
+  slug: amperon
 - name: Amplitude
   slug: amplitude
 - name: Anaplan
@@ -25,6 +27,8 @@ greenhouse:
   slug: aquaticcapitalmanagement
 - name: Asana
   slug: asana
+- name: AssemblyAI
+  slug: assemblyai
 - name: Astera Labs
   slug: AsteraLabs
 - name: Astranis Space Technologies
@@ -63,6 +67,8 @@ greenhouse:
   slug: cargurus
 - name: Carta
   slug: carta
+- name: Chainguard
+  slug: chainguard
 - name: Charles River Analytics
   slug: charlesriveranalytics90
 - name: Checkr
@@ -141,6 +147,10 @@ greenhouse:
   slug: gusto
 - name: Haize Labs
   slug: haizelabs
+- name: Hawkeye 360
+  slug: hawkeye360
+- name: Headlands Technologies
+  slug: headlandstechnologiesllc
 - name: Hootsuite
   slug: hootsuite
 - name: HubSpot
@@ -171,6 +181,8 @@ greenhouse:
   slug: klaviyo
 - name: KnowBe4
   slug: knowbe4
+- name: Kodiak Robotics
+  slug: kodiak
 - name: Konrad Group
   slug: konradgroup
 - name: Labelbox
@@ -181,6 +193,8 @@ greenhouse:
   slug: launchdarkly
 - name: Lila Sciences
   slug: lilasciences
+- name: Locus Robotics
+  slug: locusrobotics
 - name: Lucid Motors
   slug: lucidmotors
 - name: Lyft
@@ -217,6 +231,8 @@ greenhouse:
   slug: optiver
 - name: Oscar Health
   slug: oscar
+- name: Outrider
+  slug: outrider
 - name: PagerDuty
   slug: pagerduty
 - name: PathAI
@@ -239,6 +255,8 @@ greenhouse:
   slug: point72
 - name: Poshmark
   slug: poshmark
+- name: Postman
+  slug: postman
 - name: Precisely
   slug: preciselyusjobs
 - name: Pure Storage
@@ -279,12 +297,16 @@ greenhouse:
   slug: sigmacomputing
 - name: SimpliSafe
   slug: simplisafe
+- name: SingleStore
+  slug: singlestore
 - name: Smartsheet
   slug: smartsheet
 - name: SoFi
   slug: sofi
 - name: Sony Interactive Entertainment
   slug: sonyinteractiveentertainmentglobal
+- name: Sourcegraph
+  slug: sourcegraph91
 - name: SpaceX
   slug: spacex
 - name: Squarespace
@@ -382,6 +404,10 @@ lever:
   slug: grailbio
 - name: Hermeus
   slug: hermeus
+- name: Last Energy
+  slug: last-energy
+- name: Mainspring Energy
+  slug: mainspringenergy
 - name: Palantir
   slug: palantir
 - name: PingWind
@@ -494,6 +520,10 @@ workday:
   tenant: ancestry
   instance: wd501
   board: Careers
+- name: Aptiv
+  tenant: aptiv
+  instance: wd5
+  board: aptiv_careers
 - name: Arrowstreet Capital
   tenant: arrowstreetcapital
   instance: wd5
@@ -522,6 +552,10 @@ workday:
   tenant: bah
   instance: wd1
   board: BAH_Jobs
+- name: Boston Dynamics
+  tenant: bostondynamics
+  instance: wd1
+  board: Boston_Dynamics_Career
 - name: CACI
   tenant: caci
   instance: wd1
@@ -598,6 +632,10 @@ workday:
   tenant: dxctechnology
   instance: wd1
   board: DXCJobs
+- name: Enphase Energy
+  tenant: enphaseenergy
+  instance: wd1
+  board: enphase
 - name: Everfox
   tenant: evergreenix
   instance: wd1
@@ -690,6 +728,10 @@ workday:
   tenant: tti
   instance: wd1
   board: Milwaukee
+- name: Mobileye
+  tenant: mobileye
+  instance: wd3
+  board: Mobileye
 - name: Motorola Solutions
   tenant: motorolasolutions
   instance: wd5
@@ -786,6 +828,10 @@ workday:
   tenant: selinc
   instance: wd1
   board: SEL
+- name: Sierra Nevada Corp
+  tenant: snc
+  instance: wd1
+  board: SNC_External_Career_Site
 - name: Silicon Labs
   tenant: silabs
   instance: wd1
@@ -872,6 +918,8 @@ ashby:
   slug: abridge
 - name: Allen Control Systems
   slug: allen-control-systems
+- name: Alloy
+  slug: alloy
 - name: Amperity
   slug: amperity
 - name: Anima
@@ -898,6 +946,8 @@ ashby:
   slug: bolt
 - name: Brainbase Labs
   slug: brainbaselabs
+- name: Braintrust
+  slug: braintrust
 - name: Bridger
   slug: bridger
 - name: BRM
@@ -914,6 +964,8 @@ ashby:
   slug: centerfield
 - name: Cerebras
   slug: cerebras
+- name: ChargePoint
+  slug: chargepoint
 - name: Circleback
   slug: circleback
 - name: Citizen Health
@@ -922,6 +974,8 @@ ashby:
   slug: clera
 - name: Clipboard Health
   slug: clipboard
+- name: Coalesce
+  slug: Coalesce
 - name: Cognition AI
   slug: cognition
 - name: Cohere
@@ -958,6 +1012,8 @@ ashby:
   slug: eliseai
 - name: Ellipsis Labs
   slug: ellipsislabs
+- name: Epirus
+  slug: epirus
 - name: Eragon
   slug: eragon
 - name: Etched
@@ -972,8 +1028,12 @@ ashby:
   slug: firetiger
 - name: Flashpoint
   slug: flashpoint.io
+- name: Form Energy
+  slug: formenergy
 - name: FurtherAI
   slug: furtherAI
+- name: Gatik
+  slug: gatik
 - name: Gecko Robotics
   slug: gecko-robotics
 - name: Gen Digital
@@ -982,6 +1042,8 @@ ashby:
   slug: gigaml
 - name: Gritt Robotics
   slug: gritt
+- name: Group One Trading
+  slug: group1trading
 - name: Handshake
   slug: handshake
 - name: Harvey
@@ -1064,10 +1126,16 @@ ashby:
   slug: profound
 - name: Pylon
   slug: pylon-labs
+- name: Quantbot Technologies
+  slug: quantbot
 - name: Quora
   slug: quora
+- name: Radiant Nuclear
+  slug: radiantnuclear
 - name: Ramp
   slug: ramp
+- name: Relativity Space
+  slug: relativityspace
 - name: Redis
   slug: redis
 - name: Reliable Robotics
@@ -1088,16 +1156,24 @@ ashby:
   slug: sentry
 - name: Serval
   slug: serval
+- name: Serve Robotics
+  slug: serve-robotics
 - name: Sierra
   slug: sierra
 - name: Skydio
   slug: skydio
 - name: Snowflake
   slug: snowflake
+- name: Span.io
+  slug: span
 - name: Strada
   slug: stradahq
 - name: Suno
   slug: suno
+- name: Supabase
+  slug: supabase
+- name: Tailscale
+  slug: tailscale
 - name: Temporal
   slug: temporal
 - name: Tessera Labs
@@ -1110,10 +1186,14 @@ ashby:
   slug: vanta
 - name: Vercel
   slug: vercel
+- name: Waabi
+  slug: waabi
 - name: Wealthsimple
   slug: wealthsimple
 - name: WhatNot
   slug: whatnot
+- name: Wiz
+  slug: wiz
 - name: Yotta
   slug: yotta
 - name: Zapier

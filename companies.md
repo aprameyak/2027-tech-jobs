@@ -22,8 +22,10 @@ Akuna Capital
 Alation
 Allegion
 Allen Control Systems
+Alloy
 Altice USA
 Amperity
+Amperon
 Amplitude
 Analog Devices
 Anaplan
@@ -37,9 +39,11 @@ Appian
 Apple
 Applied Intuition
 Apptronik
+Aptiv
 Aquatic
 Arrowstreet Capital
 Asana
+AssemblyAI
 Astera Labs
 Astranis Space Technologies
 Attentive
@@ -68,8 +72,10 @@ Boeing
 Boerboel
 Bolt
 Booz Allen Hamilton
+Boston Dynamics
 Box
 Brainbase Labs
+Braintrust
 Brex
 Bridger
 BRM
@@ -88,6 +94,8 @@ CarGurus
 Carta
 Centerfield
 Cerebras
+Chainguard
+ChargePoint
 Charles River Analytics
 Checkr
 Chicago Trading Company
@@ -103,6 +111,7 @@ ClickHouse
 Clipboard Health
 Cloudera
 Cloudflare
+Coalesce
 Cockroach Labs
 Cognition AI
 Cohere
@@ -151,7 +160,9 @@ ElevenLabs
 EliseAI
 Ellipsis Labs
 Endava
+Enphase Energy
 Epic Games
+Epirus
 Eragon
 Esri
 Etched
@@ -174,10 +185,12 @@ Five Rings
 Flashpoint
 Flexport
 Flow Traders
+Form Energy
 Formlabs
 Franklin Templeton
 Freshworks
 FurtherAI
+Gatik
 GE Aerospace
 Gecko Robotics
 Gemini
@@ -195,11 +208,14 @@ Graham Capital Management
 GRAIL
 Gritt Robotics
 Groundswell
+Group One Trading
 Guidewire
 Gusto
 Haize Labs
 Handshake
 Harvey
+Hawkeye 360
+Headlands Technologies
 Hermeus
 Hipp Health
 Home Depot
@@ -227,11 +243,13 @@ KAYAK
 KBR
 Klaviyo
 KnowBe4
+Kodiak Robotics
 Konrad Group
 Kraken
 Kustomer
 Labelbox
 Lambda
+Last Energy
 Later
 LaunchDarkly
 Leidos
@@ -241,10 +259,12 @@ Lightspeed Commerce
 Lila Sciences
 Linear
 LiveRamp
+Locus Robotics
 LSEG
 Lucid Motors
 Lyft
 M&T Bank
+Mainspring Energy
 Manhattan Associates
 Marqeta
 Mastercard
@@ -255,6 +275,7 @@ Milwaukee Tool
 Miro
 Mistral AI
 Mixpanel
+Mobileye
 Modal
 Modern Treasury
 MongoDB
@@ -292,6 +313,7 @@ OpenAI
 OpenGov
 Optiver
 Oscar Health
+Outrider
 PagerDuty
 Palantir
 Palo Alto Networks
@@ -319,6 +341,7 @@ Point72
 PointOne
 Poshmark
 PostHog
+Postman
 Precisely
 Priceline
 Procter & Gamble
@@ -326,15 +349,18 @@ Profound
 Pure Storage
 Pylon
 Qualtrics
+Quantbot Technologies
 QuEra Computing
 Quora
 Radiance Technologies
+Radiant Nuclear
 Radix Trading
 Rakuten International
 Ramp
 Raymond James
 Reddit
 Redis
+Relativity Space
 Reliable Robotics
 Remitly
 Replit
@@ -364,14 +390,17 @@ Schweitzer Engineering Laboratories
 SentiLink
 Sentry
 Serval
+Serve Robotics
 ServiceNow
 Seven Research
 SharkNinja
 Shield AI
 Sierra
+Sierra Nevada Corp
 Sigma Computing
 Silicon Labs
 SimpliSafe
+SingleStore
 Skydio
 Smartsheet
 Snap
@@ -380,7 +409,9 @@ SoFi
 SoloPulse
 Sony
 Sony Interactive Entertainment
+Sourcegraph
 SpaceX
+Span.io
 Spotify
 Squarespace
 Stevens Capital Management
@@ -389,8 +420,10 @@ Strada
 Stripe
 StubHub
 Suno
+Supabase
 Symbotic
 T. Rowe Price
+Tailscale
 Take-Two Interactive
 Target Corporation
 TD Bank
@@ -434,6 +467,7 @@ Virtu Financial
 Visa
 VMware
 Voloridge Investment Management
+Waabi
 Walleye Capital
 Warp
 Wattpad
@@ -447,6 +481,7 @@ Western Digital
 WhatNot
 WHOOP
 Wise
+Wiz
 Wonderschool
 WorldQuant
 Wyetech
