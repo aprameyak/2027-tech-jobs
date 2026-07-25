@@ -198,6 +198,7 @@ Niantic
 Nike
 Northern Trust
 NorthMark Strategies
+Northrop Grumman
 Notion
 Nubank
 Nuro
