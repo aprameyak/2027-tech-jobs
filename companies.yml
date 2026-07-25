@@ -545,6 +545,10 @@ workday:
   tenant: northmark
   instance: wd108
   board: NMS
+- name: Northrop Grumman
+  tenant: ngc
+  instance: wd1
+  board: northrop_grumman_external_site
 - name: NVIDIA
   tenant: nvidia
   instance: wd5
