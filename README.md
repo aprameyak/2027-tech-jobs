@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Anthelion Capital | Quant Developer / Quant Research Intern | New York, NY | Undergrad | <a href="https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Anthropic | Research Scientist, Takeoff Intel | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> | Undergrad | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5370669008" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | BlackEdge Capital | Quantitative Developer Intern | Chicago, IL | Undergrad | <a href="https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Veeva Systems | Associate Product Manager - Vault Medical Connections | Boston, MA | Undergrad | <a href="https://jobs.lever.co/veeva/d23160b9-84ca-449c-97e6-45acc014d09c" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
