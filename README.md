@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Chicago Trading Company | Quant Trading Internship - Summer 2027 | Chicago, Illinois, United States | Undergrad | <a href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | Neuralink | Software Engineer Intern, Infrastructure | South San Francisco, California, United States | Undergrad | <a href="https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | ↳ | Software Engineer Intern, BCI Applications | South San Francisco, California, United States | Undergrad | <a href="https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | ↳ | Machine Learning Engineer Intern | South San Francisco, California, United States | Undergrad | <a href="https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
