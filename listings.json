@@ -14117,13 +14117,14 @@
     "company": "WorldQuant",
     "role": "Junior Quantitative Analyst",
     "location": "Austin, TX",
-    "type": "summer",
-    "season": "Summer 2027",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://job-boards.greenhouse.io/worldquant/jobs/4616499006",
     "sponsorship": "Unknown",
     "citizenship": "No",
-    "date_added": "2026-07-26"
+    "date_added": "2026-07-26",
+    "grad_date": ""
   },
   {
     "company": "Varda Space",
