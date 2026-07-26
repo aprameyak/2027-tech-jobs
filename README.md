@@ -325,10 +325,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Institute for Foundation Models | AI Research Intern | Sunnyvale, CA | Masters; PhD | 🔒 | Jul 23 |
 | Kearney & Company | IT Audit Intern | Alexandria, VA | Undergrad | 🔒 | Jul 23 |
 | Nash | Full Stack Engineering Intern | San Francisco, CA | Undergrad | 🔒 | Jul 23 |
-| ↳ | OCI Software Engineer Intern - OVIP | Austin, TX | Undergrad | 🔒 | Jul 23 |
-| ↳ | GDI Information Security Analyst Intern - OVIP | Reston, VA | Undergrad | 🔒 | Jul 23 |
-| ↳ | GDI Business Analyst Intern - OVIP | Austin, TX | Undergrad | 🔒 | Jul 23 |
-| ↳ | Product Manager Intern - OVIP | Kansas City, MO | Undergrad | 🔒 | Jul 23 |
 | Paragon | Forward Deployed Engineer Intern | San Francisco, CA | Undergrad | 🔒 | Jul 23 |
 | Reply | iOS Developer Intern | Detroit, MI | Undergrad | 🔒 | Jul 23 |
 | ↳ | Android Developer Intern | Detroit, MI | Undergrad | 🔒 | Jul 23 |
@@ -550,13 +546,11 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | CACI | Junior Software Engineer | Chantilly, VA |  | Undergrad | <a href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/Chantilly-VA-US/Junior-Software-Engineer_326714" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | D3 | Backend Engineer - New Grad | Los Angeles, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/d3/jobs/4915295008" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
-| mthree | Junior Software Engineer | Remote (US) |  | Undergrad | <a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
+| mthree | Junior Software Engineer | Remote |  | Undergrad | <a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | ↳ | Junior Production Support/SRE Analyst | Toronto, ON |  | Undergrad | <a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
-| ↳ | Junior Production Support/SRE Analyst | Toronto, ON |  | Undergrad | <a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | ↳ | Junior Production Support/SRE Analyst | Halifax, NS |  | Undergrad | <a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
-| ↳ | Junior Data Scientist | Remote (Canada) |  | Undergrad | <a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4313148006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
+| ↳ | Junior Data Scientist | Remote |  | Undergrad | <a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4313148006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | ↳ | Développeur génie logiciel / Junior Software Developer  – Canada (Montreal) | Montreal, QC |  | Undergrad | <a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4628952006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
-| ↳ | Développeur génie logiciel / Junior Software Developer  – Canada (Montreal) | Montreal, QC |  | Undergrad | <a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374767006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | ↳ | Analyste au soutien à la production / Graduate Production Support Analyst – Canada (Montreal) | Montreal, QC |  | Undergrad | <a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374765006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | NewsBreak | NewsBreak Venture, AI Growth Intelligence Engineer (New Grad） | Mountain View, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4694899006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | Northrop Grumman 🛂 🇺🇸 | Associate Software Engineer / Software Engineer | Melbourne, FL |  | Undergrad | <a href="https://jobs.northropgrumman.com/careers/apply?pid=1340072788216" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
@@ -644,7 +638,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | CPU Software Architecture Engineer | San Diego, CA |  | Undergrad | <a href="https://careers.qualcomm.com/careers/job/446706753287" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Raytheon | Software Engineer I | Cedar Rapids, IA |  | Undergrad | <a href="https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Remodel Health | Junior Software Engineer | Indianapolis, IN |  | Undergrad | <a href="https://remodelhealth.com/resources/job/?gh_jid=4880033008" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| Replit | Software Engineer - New Grad (Summer 2026) | Foster City, CA | Summer 2026 | Undergrad | <a href="https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Rocket Lab | Software Engineer I/II | Pasadena, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7813360003" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Royal Bank of Canada | Rates Algo Developer - Associate | New York, NY |  | Undergrad | <a href="https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/New-York-New-York-United-States-of-America/Rates-Algo-Developer--Associate_R-0000181579" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | RTX | Leadership Development Program - Engineering, Software (Starts June 2027) | Arlington, VA | Spring 2027 | Undergrad | <a href="https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289-1" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
@@ -874,7 +867,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Palantir | Software Engineer, New Grad - Production Infrastructure | Washington, DC |  | Undergrad | <a href="https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
 | ↳ | Software Engineer, New Grad - Defense | Washington, DC |  | Undergrad | <a href="https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
 | ↳ | Forward Deployed Software Engineer, New Grad | Washington, DC |  | Undergrad | <a href="https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
-| ↳ | Forward Deployed Software Engineer, New Grad | Washington, DC |  | Undergrad | <a href="https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
 | Sierra | Software Engineer, New Grad | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
 | Sigma Computing | Software Engineer, New Grad | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> |  | Undergrad | <a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
 | SimpliSafe | Software Engineer I (Device Control) | Boston, MA |  | Undergrad | <a href="https://job-boards.greenhouse.io/simplisafe/jobs/8049515" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
@@ -1034,7 +1026,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Battelle | Early Career Software Engineer | Columbus, OH |  | Undergrad | 🔒 | Jul 24 |
 | Capgemini | Full Stack AI Engineer | New York, NY |  | Undergrad | 🔒 | Jul 24 |
 | Cellular Sales | Junior Data Engineer | Knoxville, TN |  | Undergrad | 🔒 | Jul 24 |
-| Circle | New Grad 2026: Software Engineer, Backend | Remote (US) | Spring 2026 | Undergrad | 🔒 | Jul 24 |
+| Circle | New Grad 2026: Software Engineer, Backend | Remote | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | Citadel Securities | C++ Software Engineer | Miami, FL |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad: Quantitative Trader | <details><summary>**2 locations**</summary>Miami, FL</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad: Quantitative Research Analyst | <details><summary>**2 locations**</summary>Miami, FL</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 24 |
@@ -1111,7 +1103,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Visa 🛂 | New Grad 2026: Site Reliability Engineer | Ashburn, VA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Software Engineer | Highlands Ranch, CO | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Associate Product Manager (APM) | Foster City, CA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
-| ↳ | Junior Software Developer | Remote |  | Undergrad | 🔒 | Jul 23 |
 | Jane Street | Cybersecurity Analyst | New York, NY |  | Undergrad | 🔒 | Jul 23 |
 | Momentum Engineering | Software Engineer 1 | Annapolis Junction, MD |  | Undergrad | 🔒 | Jul 23 |
 | Precisely | Associate Software Engineer - Frontend - AI First | Phoenix, AZ |  | Undergrad | 🔒 | Jul 23 |
