@@ -82,7 +82,8 @@ def build_table(entries):
             dt = datetime.strptime(e['date_added'], '%Y-%m-%d')
         except Exception:
             dt = datetime.min
-        return (-dt.timestamp(), _company_sort_key(e['company']))
+        closed = 1 if not e.get('url', '') else 0
+        return (closed, -dt.timestamp(), _company_sort_key(e['company']))
 
     sorted_entries = sorted(entries, key=sort_key)
 
