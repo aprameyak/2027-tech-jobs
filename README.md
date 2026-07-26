@@ -529,6 +529,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | CACI | Full Stack Software Developer - Early Career | Sterling, VA, US |  | Undergrad | <a href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/Sterling-VA-US/Full-Stack-Software-Developer---Early-Career_315739" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
+| ↳ | Junior Software Engineer | Chantilly, VA, US |  | Undergrad | <a href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/Chantilly-VA-US/Junior-Software-Engineer_326714" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | Adobe | Software Development Engineer | San Jose, CA |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Software Development Engineer | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Software Engineer | <details><summary>**2 locations**</summary>San Jose, CA</br>Lehi, UT</details> | Spring 2026 | Undergrad | 🔒 | Jul 24 |
