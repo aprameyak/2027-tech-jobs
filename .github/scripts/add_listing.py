@@ -63,6 +63,53 @@ def format_company(company, sponsorship, citizenship):
     return company.strip() + flags
 
 
+_STATE_MAP = {
+    'Alabama':'AL','Alaska':'AK','Arizona':'AZ','Arkansas':'AR','California':'CA',
+    'Colorado':'CO','Connecticut':'CT','Delaware':'DE','Florida':'FL','Georgia':'GA',
+    'Hawaii':'HI','Idaho':'ID','Illinois':'IL','Indiana':'IN','Iowa':'IA','Kansas':'KS',
+    'Kentucky':'KY','Louisiana':'LA','Maine':'ME','Maryland':'MD','Massachusetts':'MA',
+    'Michigan':'MI','Minnesota':'MN','Mississippi':'MS','Missouri':'MO','Montana':'MT',
+    'Nebraska':'NE','Nevada':'NV','New Hampshire':'NH','New Jersey':'NJ','New Mexico':'NM',
+    'New York':'NY','North Carolina':'NC','North Dakota':'ND','Ohio':'OH','Oklahoma':'OK',
+    'Oregon':'OR','Pennsylvania':'PA','Rhode Island':'RI','South Carolina':'SC',
+    'South Dakota':'SD','Tennessee':'TN','Texas':'TX','Utah':'UT','Vermont':'VT',
+    'Virginia':'VA','Washington':'WA','West Virginia':'WV','Wisconsin':'WI','Wyoming':'WY',
+    'District of Columbia':'DC',
+}
+_PROV_MAP = {
+    'Alberta':'AB','British Columbia':'BC','Manitoba':'MB','New Brunswick':'NB',
+    'Newfoundland and Labrador':'NL','Nova Scotia':'NS','Northwest Territories':'NT',
+    'Nunavut':'NU','Ontario':'ON','Prince Edward Island':'PE','Quebec':'QC',
+    'Saskatchewan':'SK','Yukon':'YT',
+}
+_COUNTRY_SUFFIX = re.compile(
+    r',?\s*(United States of America|United States|USA)\s*$', re.I)
+_CANADA_SUFFIX = re.compile(r',?\s*Canada\s*$', re.I)
+
+
+def _normalize_one_location(loc):
+    """Normalize a single location string to City, ST format."""
+    loc = loc.strip()
+    if re.match(r'^(USA|United States of America|United States)$', loc, re.I):
+        return 'Remote (US)'
+    if re.match(r'^Canada$', loc, re.I):
+        return 'Remote (Canada)'
+    loc = _COUNTRY_SUFFIX.sub('', loc)
+    loc = _CANADA_SUFFIX.sub('', loc)
+    for name, abbr in _STATE_MAP.items():
+        loc = re.sub(rf',\s*{re.escape(name)}\b', f', {abbr}', loc)
+    for name, abbr in _PROV_MAP.items():
+        loc = re.sub(rf',\s*{re.escape(name)}\b', f', {abbr}', loc)
+    loc = re.sub(r'\s*,\s*', ', ', loc).strip().strip(',').strip()
+    # Normalize unicode city names (e.g. Montréal → Montreal)
+    import unicodedata
+    loc = ''.join(
+        c if unicodedata.category(c) != 'Mn' else ''
+        for c in unicodedata.normalize('NFD', loc)
+    )
+    return loc
+
+
 def format_location(location):
     location = location.strip()
     if ';' in location:
@@ -70,7 +117,9 @@ def format_location(location):
     elif '\n' in location:
         parts = [p.strip() for p in location.split('\n') if p.strip()]
     else:
-        return location
+        return _normalize_one_location(location)
+
+    parts = [_normalize_one_location(p) for p in parts if p.strip()]
 
     if len(parts) <= 1:
         return parts[0] if parts else location
@@ -264,7 +313,7 @@ def main():
     entry = {
         'company': fields.get('Company Name', '').strip(),
         'role': fields.get('Role / Job Title', '').strip(),
-        'location': fields.get('Location', '').strip(),
+        'location': _normalize_one_location(fields.get('Location', '').strip()),
         'type': table_type,
         'season': fields.get('Season / Term', '').strip(),
         'education': fields.get('Education Level', 'Undergrad').strip(),
