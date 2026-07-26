@@ -13348,7 +13348,7 @@
   {
     "company": "Amazon",
     "role": "Tech Ops Engineer Intern  - Fall 2026, AWS Data Center Commissioning",
-    "location": "US, OH, Jeffersonville",
+    "location": "Jeffersonville, OH",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -13863,7 +13863,7 @@
   {
     "company": "CACI",
     "role": "Junior Software Engineer",
-    "location": "Chantilly, VA, US",
+    "location": "Chantilly, VA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -14266,7 +14266,7 @@
     "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
-    "education": "Undergrad",
+    "education": "Undergrad; Masters; PhD",
     "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
     "sponsorship": "Unknown",
     "citizenship": "No",
@@ -14334,5 +14334,29 @@
     "citizenship": "Yes \u2014 U.S. citizenship required",
     "date_added": "2026-07-26",
     "grad_date": ""
+  },
+  {
+    "company": "PDT Partners",
+    "role": "Summer 2027 Systems Engineering Intern",
+    "location": "New York, NY",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad; Masters; PhD",
+    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-26"
+  },
+  {
+    "company": "Moog",
+    "role": "Intern, IT Computer Science - Data Analytics",
+    "location": "East Aurora, NY",
+    "type": "offcycle",
+    "season": "Fall 2026",
+    "education": "Undergrad",
+    "url": "https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-26"
   }
 ]
