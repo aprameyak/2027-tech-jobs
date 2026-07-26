@@ -239,6 +239,8 @@ greenhouse:
   slug: pathai
 - name: Payoneer
   slug: payoneer
+- name: PDT Partners
+  slug: pdtpartners
 - name: Perpay
   slug: perpay
 - name: Ping Identity
@@ -472,6 +474,10 @@ smartrecruiters:
 - name: Wise
   identifier: Wise
 workday:
+- name: 3M
+  tenant: 3m
+  instance: wd1
+  board: Search
 - name: Abbott Laboratories
   tenant: abbott
   instance: wd5
@@ -524,6 +530,10 @@ workday:
   tenant: aptiv
   instance: wd5
   board: aptiv_careers
+- name: Ardian
+  tenant: ardian
+  instance: wd103
+  board: ArdianCareers
 - name: Arrowstreet Capital
   tenant: arrowstreetcapital
   instance: wd5
@@ -556,6 +566,10 @@ workday:
   tenant: bostondynamics
   instance: wd1
   board: Boston_Dynamics_Career
+- name: Brunswick
+  tenant: brunswick
+  instance: wd1
+  board: search
 - name: CACI
   tenant: caci
   instance: wd1
@@ -572,6 +586,10 @@ workday:
   tenant: capitalone
   instance: wd12
   board: Capital_One
+- name: Chevron
+  tenant: chevron
+  instance: wd5
+  board: jobs
 - name: Ciena
   tenant: ciena
   instance: wd5
@@ -624,6 +642,10 @@ workday:
   tenant: dexcom
   instance: wd1
   board: Dexcom
+- name: Disney
+  tenant: disney
+  instance: wd5
+  board: disneycareer
 - name: DraftKings
   tenant: draftkings
   instance: wd1
@@ -664,6 +686,10 @@ workday:
   tenant: geaerospace
   instance: wd5
   board: GE_ExternalSite
+- name: GE Appliances
+  tenant: haier
+  instance: wd3
+  board: GE_Appliances
 - name: Global Payments
   tenant: tsys
   instance: wd1
@@ -680,6 +706,14 @@ workday:
   tenant: homedepot
   instance: wd5
   board: CareerDepot
+- name: HP
+  tenant: hp
+  instance: wd5
+  board: ExternalCareerSite
+- name: IDEXX
+  tenant: idexx
+  instance: wd1
+  board: IDEXX
 - name: Intel
   tenant: intel
   instance: wd1
@@ -712,10 +746,6 @@ workday:
   tenant: lseg
   instance: wd3
   board: Careers
-- name: 3M
-  tenant: 3m
-  instance: wd1
-  board: Search
 - name: M&T Bank
   tenant: mtb
   instance: wd5
@@ -732,6 +762,10 @@ workday:
   tenant: mobileye
   instance: wd3
   board: Mobileye
+- name: Moog
+  tenant: moog
+  instance: wd5
+  board: MOOG_External_Career_Site
 - name: Motorola Solutions
   tenant: motorolasolutions
   instance: wd5
@@ -780,6 +814,10 @@ workday:
   tenant: paypal
   instance: wd1
   board: jobs
+- name: PNC
+  tenant: pnc
+  instance: wd5
+  board: External
 - name: Priceline
   tenant: priceline
   instance: wd1
@@ -804,6 +842,10 @@ workday:
   tenant: remitly
   instance: wd5
   board: Remitly_Careers
+- name: ResMed
+  tenant: resmed
+  instance: wd3
+  board: ResMed_External_Careers
 - name: Rocket Companies
   tenant: rocket
   instance: wd5
@@ -824,6 +866,10 @@ workday:
   tenant: salesforce
   instance: wd12
   board: External_Career_Site
+- name: Sallie Mae
+  tenant: sallie-mae
+  instance: wd5
+  board: Careers
 - name: Schweitzer Engineering Laboratories
   tenant: selinc
   instance: wd1
@@ -848,6 +894,10 @@ workday:
   tenant: symbotic
   instance: wd504
   board: Symbotic
+- name: Synchrony
+  tenant: synchronyfinancial
+  instance: wd5
+  board: careers
 - name: T. Rowe Price
   tenant: troweprice
   instance: wd5
