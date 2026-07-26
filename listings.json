@@ -14104,5 +14104,18 @@
     "citizenship": "No",
     "date_added": "2026-07-26",
     "grad_date": ""
+  },
+  {
+    "company": "D3",
+    "role": "Backend Engineer - New Grad",
+    "location": "Los Angeles, CA",
+    "type": "newgrad",
+    "season": "",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/d3/jobs/4915295008",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-26",
+    "grad_date": ""
   }
 ]
