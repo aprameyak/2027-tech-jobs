@@ -181,7 +181,7 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-07",
-    "grad_date": ""
+    "grad_date": "Spring 2027"
   },
   {
     "company": "Tower Research Capital",
@@ -7782,7 +7782,7 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-23",
-    "grad_date": ""
+    "grad_date": "Spring 2027"
   },
   {
     "company": "GE Appliances",
@@ -7795,7 +7795,7 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-23",
-    "grad_date": ""
+    "grad_date": "Fall 2026"
   },
   {
     "company": "Esri",
@@ -13753,7 +13753,7 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-24",
-    "grad_date": ""
+    "grad_date": "Spring 2027"
   },
   {
     "company": "Anthelion Capital",
@@ -14189,7 +14189,7 @@
   {
     "company": "Lila Sciences",
     "role": "Co-Op, Next Gen Engineering",
-    "location": "Cambridge, MA USA",
+    "location": "Cambridge, MA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -14201,7 +14201,7 @@
   {
     "company": "Lila Sciences",
     "role": "Co-Op, ML Scientist for Protein Engineering",
-    "location": "San Francisco, CA USA",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -14213,7 +14213,7 @@
   {
     "company": "Lila Sciences",
     "role": "Co-Op, ML Scientist for Biology",
-    "location": "San Francisco, CA USA",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -14225,7 +14225,7 @@
   {
     "company": "Lila Sciences",
     "role": "Co-op, Machine Learning for Digital Twins",
-    "location": "Cambridge, MA USA",
+    "location": "Cambridge, MA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -14237,7 +14237,7 @@
   {
     "company": "Lila Sciences",
     "role": "Co-Op, Data Extraction",
-    "location": "Cambridge, MA USA",
+    "location": "Cambridge, MA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
