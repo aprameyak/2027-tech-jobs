@@ -4261,19 +4261,6 @@
     "grad_date": ""
   },
   {
-    "company": "Palantir",
-    "role": "Forward Deployed Software Engineer, New Grad",
-    "location": "Washington, DC",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-17",
-    "grad_date": ""
-  },
-  {
     "company": "Ping Identity",
     "role": "Software Engineer I",
     "location": "Vancouver, BC",
@@ -8453,54 +8440,6 @@
     "date_added": "2026-07-23"
   },
   {
-    "company": "Oracle",
-    "role": "OCI Software Engineer Intern - OVIP",
-    "location": "Austin, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-23"
-  },
-  {
-    "company": "Oracle",
-    "role": "GDI Information Security Analyst Intern - OVIP",
-    "location": "Reston, VA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-23"
-  },
-  {
-    "company": "Oracle",
-    "role": "GDI Business Analyst Intern - OVIP",
-    "location": "Austin, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-23"
-  },
-  {
-    "company": "Oracle",
-    "role": "Product Manager Intern - OVIP",
-    "location": "Kansas City, MO",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-23"
-  },
-  {
     "company": "Expedia Group",
     "role": "Software Development Engineering Intern",
     "location": "Austin, TX",
@@ -9363,19 +9302,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25008815",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-23",
-    "grad_date": ""
-  },
-  {
-    "company": "EXL",
-    "role": "Junior Software Developer",
-    "location": "Remote",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-23",
@@ -12489,19 +12415,6 @@
     "grad_date": ""
   },
   {
-    "company": "Replit",
-    "role": "Software Engineer - New Grad (Summer 2026)",
-    "location": "Foster City, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": "Summer 2026"
-  },
-  {
     "company": "Lambda",
     "role": "Cloud Support Engineer I (Support Response)",
     "location": "Remote",
@@ -12673,7 +12586,7 @@
   {
     "company": "Circle",
     "role": "New Grad 2026: Software Engineer, Backend",
-    "location": "Remote (US)",
+    "location": "Remote",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -13916,7 +13829,7 @@
   {
     "company": "mthree",
     "role": "Junior Software Engineer",
-    "location": "Remote (US)",
+    "location": "Remote",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -13934,19 +13847,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-26",
-    "grad_date": ""
-  },
-  {
-    "company": "mthree",
-    "role": "Junior Production Support/SRE Analyst",
-    "location": "Toronto, ON",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-26",
@@ -13981,7 +13881,7 @@
   {
     "company": "mthree",
     "role": "Junior Data Scientist",
-    "location": "Remote (Canada)",
+    "location": "Remote",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -13999,19 +13899,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4628952006",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-26",
-    "grad_date": ""
-  },
-  {
-    "company": "mthree",
-    "role": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer  \u2013 Canada (Montreal)",
-    "location": "Montreal, QC",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374767006",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-26",
