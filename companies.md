@@ -41,6 +41,7 @@ Applied Intuition
 Apptronik
 Aptiv
 Aquatic
+Ardian
 Arrowstreet Capital
 Asana
 AssemblyAI
@@ -80,6 +81,7 @@ Brex
 Bridger
 BRM
 Browserbase
+Brunswick
 Built Technologies
 CACI
 Cadence Design Systems
@@ -98,6 +100,7 @@ Chainguard
 ChargePoint
 Charles River Analytics
 Checkr
+Chevron
 Chicago Trading Company
 Chime
 Ciena
@@ -147,6 +150,7 @@ Deutsche Bank
 Dexcom
 DigiCert
 Discord
+Disney
 Docugami
 DocuSign
 DoorDash
@@ -192,6 +196,7 @@ Freshworks
 FurtherAI
 Gatik
 GE Aerospace
+GE Appliances
 Gecko Robotics
 Gemini
 Gen Digital
@@ -221,9 +226,11 @@ Hipp Health
 Home Depot
 Homebase
 Hootsuite
+HP
 HubSpot
 Hudl
 ICONIQ Capital
+IDEXX
 iHerb
 IMC Trading
 Instacart
@@ -279,6 +286,7 @@ Mobileye
 Modal
 Modern Treasury
 MongoDB
+Moog
 Morgan Stanley
 Morris Health Technologies
 Motive
@@ -323,6 +331,7 @@ Parsons
 PathAI
 Payoneer
 PayPal
+PDT Partners
 Perpay
 Perplexity
 Persona
@@ -336,6 +345,7 @@ Pipe17
 Plaid
 PlanetScale
 Plus
+PNC
 Podium
 Point72
 PointOne
@@ -364,6 +374,7 @@ Relativity Space
 Reliable Robotics
 Remitly
 Replit
+ResMed
 Riot Games
 Rippling
 Rivian and Volkswagen Group Technologies
@@ -380,6 +391,7 @@ Rubrik
 Runway
 SailPoint
 Salesforce
+Sallie Mae
 Samaya AI
 Samsara
 SanDisk
@@ -422,6 +434,7 @@ StubHub
 Suno
 Supabase
 Symbotic
+Synchrony
 T. Rowe Price
 Tailscale
 Take-Two Interactive
