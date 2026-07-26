@@ -44,10 +44,10 @@ function formatCompany(entry: Listing): string {
   let name = entry.company.trim();
   const sponsorship = (entry.sponsorship || '').toLowerCase();
   const citizenship = (entry.citizenship || '').toLowerCase();
-  if (sponsorship.includes('not') || sponsorship.includes('no —')) {
+  if (sponsorship.includes('not') || sponsorship.includes('no —') || sponsorship === 'no') {
     name += ' 🛂';
   }
-  if (citizenship.includes('yes —')) {
+  if (citizenship.includes('yes —') || citizenship === 'yes') {
     name += ' 🇺🇸';
   }
   return name;
@@ -78,6 +78,9 @@ function processTable(
   const filtered = listings.filter((e) => e.type === type);
 
   const sorted = [...filtered].sort((a, b) => {
+    const aClosed = a.url ? 0 : 1;
+    const bClosed = b.url ? 0 : 1;
+    if (aClosed !== bClosed) return aClosed - bClosed;
     if (a.date_added !== b.date_added) {
       return b.date_added.localeCompare(a.date_added);
     }
