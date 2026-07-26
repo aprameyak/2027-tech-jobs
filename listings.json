@@ -14333,5 +14333,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-26"
+  },
+  {
+    "company": "Stripe",
+    "role": "Software Engineer - New Grad",
+    "location": "Seattle, WA; South San Francisco, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://stripe.com/jobs/listing/software-engineer-new-grad/7210112",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-26",
+    "grad_date": ""
   }
 ]
