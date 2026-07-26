@@ -14318,5 +14318,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-26"
+  },
+  {
+    "company": "Northrop Grumman",
+    "role": "Associate Software Engineer / Software Engineer",
+    "location": "Melbourne, FL",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.northropgrumman.com/careers/apply?pid=1340072788216",
+    "sponsorship": "No \u2014 visa sponsorship is not available",
+    "citizenship": "Yes \u2014 U.S. citizenship required",
+    "date_added": "2026-07-26",
+    "grad_date": ""
   }
 ]
