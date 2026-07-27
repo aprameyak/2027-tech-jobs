@@ -1,7 +1,4 @@
 # Companies Covered by the Scraper
-
-All companies actively scraped by the automated workflow.
-
 1Password
 3M
 Abbott Laboratories
@@ -20,6 +17,7 @@ Airbnb
 Airtable
 Akuna Capital
 Alation
+All companies actively scraped by the automated workflow.
 Allegion
 Allen Control Systems
 Alloy
@@ -62,9 +60,9 @@ Base Power Company
 Beacon Software
 Benchling
 Bild AI
-Binance.US
 Bill.com
 BillionToOne
+Binance.US
 BitGo
 BlackEdge Capital
 BlackRock
@@ -86,8 +84,8 @@ Browserbase
 Brunswick
 Built Technologies
 CACI
-CAE Inc.
 Cadence Design Systems
+CAE Inc.
 Campbell Soup Company
 Candid Health
 Canonical
@@ -170,12 +168,13 @@ EliseAI
 Ellipsis Labs
 Endava
 Enphase Energy
-Equifax
 Epic Games
 Epirus
+Equifax
 Eragon
 Esri
 Etched
+Eulerity
 Eventual
 Everfox
 Evolver
@@ -320,9 +319,9 @@ Netflix
 Netic
 Netlify
 Neuralink
-Nexxen
 NewsBreak
 Nextdoor
+Nexxen
 Niantic
 Nike
 Northern Trust
@@ -379,8 +378,8 @@ Precisely
 Priceline
 Procter & Gamble
 Profound
-Pure Storage
 PTC
+Pure Storage
 Pylon
 Quadrillion
 Qualtrics
