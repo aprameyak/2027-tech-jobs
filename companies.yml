@@ -1388,3 +1388,7 @@ ashby:
   tenant: maritz
   instance: wd1
   board: Maritz
+- name: Marmon Holdings
+  tenant: marmon
+  instance: wd501
+  board: Marmon_MSIP_Internships
