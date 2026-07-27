@@ -125,6 +125,7 @@ Danaher Corporation (moved to companies.yml — Workday board: danaher.wd1.mywor
 Darden Restaurants (no public ATS API found)
 DAT Freight & Analytics (ATS unclear — careers page loads dynamically with no identifiable public API)
 Dayton Freight Lines (ATS not confirmed — out-of-scope freight/logistics company)
+Dedalus Labs (YC company — custom job site via ycombinator.com, no public ATS API)
 Deere & Company (John Deere) (SmartRecruiters API returns 0 postings — not a valid company board)
 Deloitte (SmartRecruiters API returns 0 postings — not a valid company board)
 Delta Air Lines (no public ATS API found)
