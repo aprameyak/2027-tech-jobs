@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Campbell Soup Company | Data Science Intern | Camden, NJ | Undergrad | <a href="https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Science-Intern_Req-65844" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | Chicago Trading Company | Quant Trading Internship - Summer 2027 | Chicago, IL | Undergrad | <a href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | Neuralink | Software Engineer Intern, Infrastructure | South San Francisco, CA | Undergrad | <a href="https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | ↳ | Software Engineer Intern, BCI Applications | South San Francisco, CA | Undergrad | <a href="https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
