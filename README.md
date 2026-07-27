@@ -1041,7 +1041,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineer, IS&T | Austin, TX |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Software Engineer | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Wi-Fi Software Systems Performance Engineer | San Diego, CA |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | Junior UI Compositing Engineer | Cupertino, CA |  | Undergrad | 🔒 | Jul 24 |
 | Atlassian | New Grad 2026: Machine Learning Engineer | San Francisco, CA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Software Engineer | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | Aurora Innovation | Software Engineer 1 | Pittsburgh, PA |  | Undergrad | 🔒 | Jul 24 |
