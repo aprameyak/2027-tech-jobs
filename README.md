@@ -1084,7 +1084,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Graduate Quantitative Researcher | Austin, TX |  | Undergrad | 🔒 | Jul 24 |
 | Pinterest | New Grad 2026: Software Engineer | <details><summary>**3 locations**</summary>Palo Alto, CA</br>Seattle, WA</br>San Francisco, CA</details> | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | Profound | New Grad: Software Engineer | <details><summary>**2 locations**</summary>New York, NY</br>San Francisco, CA</details> |  | Undergrad | 🔒 | Jul 24 |
-| Qualtrics | Software Engineer I, Digital Experience | Seattle, WA |  | Undergrad | 🔒 | Jul 24 |
 | QuinStreet | Entry Level Software Engineer | Foster City, CA |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Software Engineer | Foster City, CA |  | Undergrad | 🔒 | Jul 24 |
 | Sev1Tech | Entry Level Software Developer | Lawton, OK |  | Undergrad | 🔒 | Jul 24 |
