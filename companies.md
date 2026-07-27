@@ -444,6 +444,7 @@ Simpson Strong-Tie
 SingleStore
 Skydio
 Smartsheet
+SMX
 Snap
 Snowflake
 SoFi
