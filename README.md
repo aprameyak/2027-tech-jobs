@@ -1006,8 +1006,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | New Grad 2026: Machine Learning Engineer | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Application Security Engineer | <details><summary>**2 locations**</summary>San Jose, CA</br>San Francisco, CA</details> | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: AI Context Engineer | <details><summary>**2 locations**</summary>San Jose, CA</br>San Francisco, CA</details> | Spring 2026 | Undergrad | 🔒 | Jul 24 |
-| ↳ | Software Development Engineer | San Jose, CA |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | Software Development Engineer | San Jose, CA |  | Undergrad | 🔒 | Jul 24 |
 | Aflac | Software Engineer I | Columbus, GA |  | Undergrad | 🔒 | Jul 24 |
 | Altice USA | Software Dev Engineer I | Plainview, NY |  | Undergrad | 🔒 | Jul 24 |
 | Amazon | Security Engineer I, Security Incident Response Team (SIRT) | Seattle, WA |  | Undergrad | 🔒 | Jul 24 |
