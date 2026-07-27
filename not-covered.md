@@ -392,6 +392,7 @@ Skyworks Solutions (SmartRecruiters API returns 0 postings — not a valid compa
 Slack (SmartRecruiters API returns 0 postings — not a valid company board)
 Slalom Consulting (SmartRecruiters API returns 0 postings — not a valid company board)
 Snap (moved to companies.md — Workday: snapchat.wd1.myworkdayjobs.com/snap)
+Software Quality Experts (SmartRecruiters — limited postings)
 Sonos (SmartRecruiters API returns 0 postings — not a valid company board)
 Sony Interactive Entertainment (moved to companies.yml as PlayStation — Greenhouse slug: sonyinteractiveentertainmentglobal)
 Sony Pictures Entertainment (no public ATS API found)
