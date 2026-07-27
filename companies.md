@@ -107,6 +107,7 @@ Chime
 Ciena
 Circleback
 Cisco
+Cisive
 Citizen Health
 Clarity Innovations
 Clearwater Analytics
