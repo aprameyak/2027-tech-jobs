@@ -275,6 +275,7 @@ Kustomer
 Labelbox
 Lambda
 Last Energy
+Latent Defense
 Later
 LaunchDarkly
 Leidos
