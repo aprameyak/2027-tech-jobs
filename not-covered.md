@@ -483,6 +483,7 @@ Weights & Biases (SmartRecruiters API returns 0 postings — not a valid company
 West Monroe (SmartRecruiters API returns 0 postings — not a valid company board)
 Whirlpool Corporation (no public ATS API found)
 Willis Towers Watson (no public ATS API found)
+Wipfli (ATS not confirmed — closed listing)
 Wipro (SmartRecruiters API returns 0 postings — not a valid company board)
 Wolverine Trading (custom)
 Workato (ATS unclear — careers page loads dynamically with no identifiable public API)
