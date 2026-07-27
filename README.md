@@ -348,7 +348,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineer Intern - Data | Santa Clara, CA | Undergrad | 🔒 | Jul 20 |
 | Two Sigma | AI Research Scientist Intern | New York, NY | Masters; PhD | 🔒 | Jul 20 |
 | Joby Aviation | Software Engineer Intern – Air Taxi | San Carlos, CA | Undergrad | 🔒 | Jul 16 |
-| ↳ | Software Engineer Intern – Air Taxi | San Carlos, CA | Undergrad | 🔒 | Jul 16 |
 | Citadel Securities | Machine Learning Researcher PhD Intern | <details><summary>**2 locations**</summary>Miami, FL</br>New York, NY</details> | PhD | 🔒 | Jul 15 |
 | Exowatt | Software Engineering Intern - Inventory Automation & IoT/Robotics | Austin, TX | Undergrad | 🔒 | Jul 15 |
 | The Trade Desk | 2027 North America Software Engineering Internship | <details><summary>**6 locations**</summary>Bellevue, WA</br>Boulder, CO</br>Denver, CO</br>Irvine, CA</br>New York, NY</br>Seattle, WA</details> | Undergrad; Masters | 🔒 | Jul 15 |
