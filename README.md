@@ -1088,7 +1088,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Qualtrics | Software Engineer I, Digital Experience | Seattle, WA |  | Undergrad | 🔒 | Jul 24 |
 | QuinStreet | Entry Level Software Engineer | Foster City, CA |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Software Engineer | Foster City, CA |  | Undergrad | 🔒 | Jul 24 |
-| ServiceNow | Software Engineer | Santa Clara, CA |  | Undergrad | 🔒 | Jul 24 |
 | Sev1Tech | Entry Level Software Developer | Lawton, OK |  | Undergrad | 🔒 | Jul 24 |
 | Shopify | Demo Engineer, Software Development | Remote |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Software Engineer - Monorepo Systems (Rust & Nix) | Remote |  | Undergrad | 🔒 | Jul 24 |
