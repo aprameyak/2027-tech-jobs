@@ -1174,7 +1174,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Visa | Software Engineer, New College Grad | Austin, TX |  | Undergrad | 🔒 | Jul 20 |
 | ↳ | Site Reliability Engineer, New College Grad | Austin, TX |  | Undergrad | 🔒 | Jul 20 |
 | Aurora Innovation | Software Engineer 1 | Mountain View, CA |  | Undergrad | 🔒 | Jul 17 |
-| ↳ | Software Engineer 1 | Mountain View, CA |  | Undergrad | 🔒 | Jul 17 |
 | Coalition | Software Engineer I | San Francisco, CA |  | Undergrad | 🔒 | Jul 17 |
 | Google | Software Engineer II, Early Career, Google Cloud AI Catalyst | <details><summary>**3 locations**</summary>Sunnyvale, CA</br>Kirkland, WA</br>Seattle, WA</details> |  | Undergrad | 🔒 | Jul 17 |
 | IMC Trading | Software Engineer, New Grad | Chicago, IL |  | Undergrad | 🔒 | Jul 17 |
