@@ -401,6 +401,7 @@ S&P Global (SmartRecruiters API returns 0 postings — not a valid company board
 SpiderRock (ADP WorkforceNow ATS — not supported)
 Spirit AeroSystems (no public ATS API found)
 Splunk (SmartRecruiters API returns 0 postings — not a valid company board)
+Spot & Tango (ATS not confirmed — closed listing)
 Square Enix (no public ATS API found)
 SS&C Technologies (unknown ATS — careers page not publicly accessible)
 Starbucks (no public ATS API found)
