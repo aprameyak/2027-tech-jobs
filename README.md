@@ -359,7 +359,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Salesforce | Summer 2027 Intern - Associate Product Manager (APM) | San Francisco, CA | Undergrad; Masters | 🔒 | Jul 13 |
 | Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | New York, NY | Undergrad | 🔒 | Jul 12 |
 | ↳ | Forward Deployed Infrastructure Engineer, Internship - US Government | Palo Alto, CA | Undergrad | 🔒 | Jul 12 |
-| ↳ | Forward Deployed Infrastructure Engineer, Internship - US Government | New York, NY | Undergrad | 🔒 | Jul 12 |
 | ↳ | Forward Deployed Infrastructure Engineer, Internship - US Government | Palo Alto, CA | Undergrad | 🔒 | Jul 12 |
 | Apple | Software Engineering Intern (Undergrad) | Cupertino, CA | Undergrad | 🔒 | Jul 10 |
 | ↳ | Software Engineering Intern (Masters) | Cupertino, CA | Masters | 🔒 | Jul 10 |
