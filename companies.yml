@@ -1392,3 +1392,7 @@ ashby:
   tenant: marmon
   instance: wd501
   board: Marmon_MSIP_Internships
+- name: Neighborly
+  tenant: neighborlybrands
+  instance: wd1
+  board: neighborly
