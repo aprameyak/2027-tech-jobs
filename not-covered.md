@@ -294,6 +294,7 @@ Micron Technology (SmartRecruiters API returns 0 postings — not a valid compan
 Millennium Management (no public ATS API found)
 Moderna (SmartRecruiters API returns 0 postings — not a valid company board)
 Molson Coors Beverage Company (no public ATS API found)
+Momentum Engineering (ATS not confirmed — closed listing)
 Monday.com (SmartRecruiters API returns 0 postings — not a valid company board)
 Mondelez International (no public ATS API found)
 MoneyLion (SmartRecruiters API returns 0 postings — not a valid company board)
