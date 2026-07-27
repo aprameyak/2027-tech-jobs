@@ -436,6 +436,7 @@ T-Mobile US (SmartRecruiters API returns 0 postings — not a valid company boar
 Toyota Motor North America (no public ATS API found)
 Trane Technologies (no public ATS API found)
 TransUnion (SmartRecruiters API returns 0 postings — not a valid company board)
+Trata (ATS not confirmed — closed listing)
 Travelers Companies (no public ATS API found)
 Trend Micro (SmartRecruiters API returns 0 postings — not a valid company board)
 Trexquant (Workable — not currently supported)
