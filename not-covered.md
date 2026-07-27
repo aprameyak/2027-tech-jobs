@@ -367,6 +367,7 @@ Regeneron Pharmaceuticals (SmartRecruiters API returns 0 postings — not a vali
 RELX Group (no public ATS API found)
 Remitly (moved to companies.yml — Workday board: remitly.wd5.myworkdayjobs.com/Remitly_Careers)
 Renaissance Technologies (rentec.com custom careers site — not supported)
+Reply (ATS not confirmed — closed listing)
 Restaurant Brands International (no public ATS API found)
 Revionics (acquired by Aptos — jobs posted under Aptos Workday instance; no separate Revionics board)
 Rivian (SmartRecruiters API returns 0 postings — not a valid company board)
