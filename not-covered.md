@@ -165,6 +165,7 @@ Expedia Group (moved to companies.md — Workday: expedia.wd108.myworkdayjobs.co
 EY (SmartRecruiters API returns 0 postings — not a valid company board)
 F5 Inc. (SmartRecruiters API returns 0 postings — not a valid company board)
 FactSet (SmartRecruiters API returns 0 postings — not a valid company board)
+Family Health Centers of San Diego (Workday tenant: fhcsd — healthcare nonprofit, marginal scope)
 Federal Reserve (government — no public ATS API found)
 FedEx Corporation (SmartRecruiters API returns 0 postings — not a valid company board)
 Fiserv (SmartRecruiters API returns 0 postings — not a valid company board)
