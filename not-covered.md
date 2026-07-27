@@ -33,6 +33,7 @@ Applied Materials (SmartRecruiters API returns 0 postings — not a valid compan
 AQR Capital Management (no public ATS API found)
 Arkansas Center for Data Sciences (YC-hosted job listing — no public ATS API)
 Arm Holdings (SmartRecruiters API returns 0 postings — not a valid company board)
+ASM (Greenhouse embedded via gh_jid on asm.com — no public board slug confirmed)
 ASML (SmartRecruiters API returns 0 postings — not a valid company board)
 Astra Space (Rippling ATS — not supported)
 Athenahealth (no public ATS API found)
