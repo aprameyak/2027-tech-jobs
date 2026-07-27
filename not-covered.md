@@ -384,6 +384,7 @@ Sega of America (SmartRecruiters API returns 0 postings — not a valid company 
 SentinelOne (SmartRecruiters API returns 0 postings — not a valid company board)
 Sephora (no public ATS API found)
 ServiceNow (moved to companies.md — SmartRecruiters identifier: ServiceNow)
+Sev1Tech (ATS not confirmed — closed listing)
 Shopify (SmartRecruiters API returns 0 postings — not a valid company board)
 Siemens (SmartRecruiters API returns 0 postings — not a valid company board)
 Sigma Computing (no public ATS API found)
