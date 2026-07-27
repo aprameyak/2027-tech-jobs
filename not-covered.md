@@ -412,6 +412,7 @@ Stellantis (SmartRecruiters API returns 0 postings — not a valid company board
 Stryker Corporation (no public ATS API found)
 Sun Life Financial (no public ATS API found)
 Supermicro (ATS not confirmed — closed listing; likely iCIMS)
+Supernova Technology (ATS not confirmed — closed listing)
 Susquehanna International Group (custom careers site — sig.com/join)
 Susquehanna International Group / SIG (iCIMS — not supported)
 Synchrony Financial (SmartRecruiters API returns 0 postings — not a valid company board)
