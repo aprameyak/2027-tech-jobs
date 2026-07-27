@@ -328,6 +328,7 @@ NewsBreak
 Nextdoor
 Nexxen
 Niantic
+Nightwing
 Nike
 Northern Trust
 NorthMark Strategies

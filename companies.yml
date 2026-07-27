@@ -1396,3 +1396,7 @@ ashby:
   tenant: neighborlybrands
   instance: wd1
   board: neighborly
+- name: Nightwing
+  tenant: nwis
+  instance: wd12
+  board: NW
