@@ -157,6 +157,8 @@ greenhouse:
   slug: hubspot
 - name: Hudl
   slug: hudl
+- name: iCapital Network
+  slug: icapitalnetwork
 - name: ICONIQ Capital
   slug: iconiq
 - name: iHerb
@@ -305,7 +307,7 @@ greenhouse:
   slug: smartsheet
 - name: SoFi
   slug: sofi
-- name: Sony Interactive Entertainment
+- name: PlayStation
   slug: sonyinteractiveentertainmentglobal
 - name: Sourcegraph
   slug: sourcegraph91
@@ -385,6 +387,8 @@ greenhouse:
   slug: wonderschool
 - name: WorldQuant
   slug: worldquant
+- name: XPENG Motors
+  slug: xpengmotors
 - name: Zipline
   slug: flyzipline
 - name: Zscaler
@@ -416,6 +420,8 @@ lever:
   slug: pingwind
 - name: Plus
   slug: plus-2
+- name: Rainmaker
+  slug: make-rain
 - name: Shield AI
   slug: shieldai
 - name: SoloPulse
@@ -514,6 +520,10 @@ workday:
   tenant: alation
   instance: wd503
   board: ExternalSite
+- name: Ambarella
+  tenant: ambarella
+  instance: wd108
+  board: ambarella
 - name: Allegion
   tenant: allegion
   instance: wd5
@@ -574,14 +584,18 @@ workday:
   tenant: caci
   instance: wd1
   board: external
-- name: Cadence Design Systems
-  tenant: cadence
-  instance: wd1
-  board: External_Careers
 - name: CAE Inc.
   tenant: cae
   instance: wd3
   board: CAE
+- name: Cadence Design Systems
+  tenant: cadence
+  instance: wd1
+  board: External_Careers
+- name: Campbell Soup Company
+  tenant: campbellsoup
+  instance: wd5
+  board: externalcareers_globalsite
 - name: Capital One
   tenant: capitalone
   instance: wd12
@@ -622,6 +636,10 @@ workday:
   tenant: cox
   instance: wd1
   board: Cox_External_Career_Site_1
+- name: Cracker Barrel
+  tenant: cbrlgroup
+  instance: wd503
+  board: crackerbarrelexternal
 - name: CrowdStrike
   tenant: crowdstrike
   instance: wd5
@@ -630,6 +648,10 @@ workday:
   tenant: cvshealth
   instance: wd1
   board: CVS_Health_Careers
+- name: Danaher Corporation
+  tenant: danaher
+  instance: wd1
+  board: danaherjobs
 - name: Dell Technologies
   tenant: dell
   instance: wd1
@@ -658,6 +680,10 @@ workday:
   tenant: enphaseenergy
   instance: wd1
   board: enphase
+- name: Equifax
+  tenant: equifax
+  instance: wd5
+  board: UR_External
 - name: Everfox
   tenant: evergreenix
   instance: wd1
@@ -678,10 +704,22 @@ workday:
   tenant: finra
   instance: wd1
   board: FINRA
+- name: First Orion
+  tenant: firstorion
+  instance: wd1
+  board: first_orion
+- name: FOX Corporation
+  tenant: fox
+  instance: wd1
+  board: Domestic
 - name: Franklin Templeton
   tenant: franklintempleton
   instance: wd5
   board: primary-external-1
+- name: FreeWheel
+  tenant: comcast
+  instance: wd5
+  board: comcast_careers
 - name: GE Aerospace
   tenant: geaerospace
   instance: wd5
@@ -690,10 +728,30 @@ workday:
   tenant: haier
   instance: wd3
   board: GE_Appliances
+- name: GE HealthCare
+  tenant: gehc
+  instance: wd5
+  board: gehc_externalsite
+- name: GE Vernova
+  tenant: gevernova
+  instance: wd5
+  board: vernova_externalsite
+- name: General Dynamics Information Technology
+  tenant: gdit
+  instance: wd5
+  board: external_career_site
+- name: General Motors
+  tenant: generalmotors
+  instance: wd5
+  board: Careers_GM
 - name: Global Payments
   tenant: tsys
   instance: wd1
   board: TSYS
+- name: GlobalFoundries
+  tenant: globalfoundries
+  instance: wd1
+  board: External
 - name: Groundswell
   tenant: groundswell
   instance: wd12
@@ -734,6 +792,10 @@ workday:
   tenant: leidos
   instance: wd5
   board: External
+- name: Liberty University
+  tenant: liberty
+  instance: wd5
+  board: lu_job_board_staff
 - name: Light & Wonder
   tenant: lnw
   instance: wd5
@@ -754,6 +816,14 @@ workday:
   tenant: mastercard
   instance: wd1
   board: CorporateCareers
+- name: MedImpact
+  tenant: medimpact
+  instance: wd5
+  board: medimpact
+- name: Medtronic
+  tenant: medtronic
+  instance: wd1
+  board: medtroniccareers
 - name: Milwaukee Tool
   tenant: tti
   instance: wd1
@@ -770,6 +840,10 @@ workday:
   tenant: motorolasolutions
   instance: wd5
   board: Careers
+- name: NCR Voyix
+  tenant: ncr
+  instance: wd1
+  board: ext_us
 - name: Nelnet
   tenant: nelnet
   instance: wd1
@@ -802,6 +876,10 @@ workday:
   tenant: nvidia
   instance: wd5
   board: NVIDIAExternalCareerSite
+- name: NXP Semiconductors
+  tenant: nxp
+  instance: wd3
+  board: careers
 - name: Palo Alto Networks
   tenant: paloaltonetworks
   instance: wd5
@@ -822,6 +900,10 @@ workday:
   tenant: priceline
   instance: wd1
   board: BookingHoldings
+- name: PTC
+  tenant: ptc
+  instance: wd1
+  board: ptc
 - name: Procter & Gamble
   tenant: pg
   instance: wd5
@@ -882,14 +964,26 @@ workday:
   tenant: silabs
   instance: wd1
   board: SiliconlabsCareers
+- name: Simpson Strong-Tie
+  tenant: strongtie
+  instance: wd1
+  board: external
 - name: Snap
   tenant: snapchat
   instance: wd1
   board: snap
+- name: Solar Turbines
+  tenant: cat
+  instance: wd5
+  board: SolarTurbines
 - name: Sony
   tenant: sonyglobal
   instance: wd1
   board: sonyglobalcareers
+- name: State Street
+  tenant: statestreet
+  instance: wd1
+  board: Global
 - name: Symbotic
   tenant: symbotic
   instance: wd504
@@ -910,6 +1004,10 @@ workday:
   tenant: td
   instance: wd3
   board: TD_Bank_Careers
+- name: Tencent
+  tenant: tencent
+  instance: wd1
+  board: tencent_careers
 - name: Travelers
   tenant: travelers
   instance: wd5
@@ -922,10 +1020,18 @@ workday:
   tenant: usbank
   instance: wd1
   board: US_Bank_Careers
+- name: Vanderbilt University Medical Center
+  tenant: vumc
+  instance: wd1
+  board: vumccareers
 - name: VMware
   tenant: broadcom
   instance: wd1
   board: External_Career
+- name: Volaris Group
+  tenant: volarisgroup
+  instance: wd3
+  board: volaris
 - name: Wells Fargo
   tenant: wf
   instance: wd1
@@ -934,6 +1040,10 @@ workday:
   tenant: ouryahoo
   instance: wd5
   board: careers
+- name: Yulista
+  tenant: calistacorp
+  instance: wd1
+  board: yulista
 - name: Zebra Technologies
   tenant: zebra
   instance: wd501
@@ -992,6 +1102,8 @@ ashby:
   slug: benchling
 - name: Bild AI
   slug: bild-ai
+- name: Binance.US
+  slug: binance.us
 - name: Bolt
   slug: bolt
 - name: Brainbase Labs
@@ -1078,6 +1190,8 @@ ashby:
   slug: firetiger
 - name: Flashpoint
   slug: flashpoint.io
+- name: Flock Safety
+  slug: flock-safety
 - name: Form Energy
   slug: formenergy
 - name: FurtherAI
@@ -1136,6 +1250,8 @@ ashby:
   slug: nerdwallet
 - name: Netic
   slug: netic
+- name: Nexxen
+  slug: nexxen
 - name: Niantic
   slug: niantic-spatial
 - name: Northslope Technologies
