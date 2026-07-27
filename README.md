@@ -1063,7 +1063,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | New Grad 2026: Data Scientist | <details><summary>**2 locations**</summary>Mountain View, CA</br>San Francisco, CA</details> | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | Dayton Freight Lines | Entry Level Software Developer | Dayton, OH |  | Undergrad | 🔒 | Jul 24 |
 | DigiCert | Associate Backend Engineer | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 24 |
-| Disney | Software Engineer I | <details><summary>**2 locations**</summary>Glendale, CA</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 24 |
 | EBSCO | Software Dev Engineer I | Remote |  | Undergrad | 🔒 | Jul 24 |
 | eMoney Advisor, LLC | Associate Software Engineer | Remote |  | Undergrad | 🔒 | Jul 24 |
 | Epsilon | Associate, Software Engineer | Irving, TX |  | Undergrad | 🔒 | Jul 24 |
