@@ -153,6 +153,7 @@ Emerson Electric (SmartRecruiters API returns 0 postings — not a valid company
 eMoney Advisor (ATS not confirmed — closed listing)
 EPAM Systems (SmartRecruiters API returns 0 postings — not a valid company board)
 Epic Systems (SmartRecruiters API returns 0 postings — not a valid company board)
+Epsilon (ATS not confirmed — closed listing)
 Equifax (moved to companies.yml — Workday board: equifax.wd5.myworkdayjobs.com/UR_External)
 Ericsson (SmartRecruiters API returns 0 postings — not a valid company board)
 Estée Lauder Companies (no public ATS API found)
