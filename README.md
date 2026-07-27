@@ -338,7 +338,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Research Engineer Intern - Mapping & Localization | Santa Clara, CA | Undergrad | 🔒 | Jul 21 |
 | ↳ | Reinforcement Learning Planning Research Intern | Santa Clara, CA | Undergrad | 🔒 | Jul 21 |
 | ↳ | Machine Learning Engineer Intern - Scenario Generation | Santa Clara, CA | Undergrad | 🔒 | Jul 21 |
-| ↳ | Reinforcement Learning Planning Research Intern | Santa Clara, CA | Undergrad | 🔒 | Jul 21 |
 | ↳ | Internship – Data Management | Boston, MA | Undergrad | 🔒 | Jul 21 |
 | Affinius Capital | Data Scientist Intern | San Antonio, TX | Undergrad | 🔒 | Jul 20 |
 | BAE Systems | Software Engineering Intern I | Nashua, NH | Undergrad | 🔒 | Jul 20 |
