@@ -1054,7 +1054,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | New Grad: Quantitative Research Analyst | <details><summary>**2 locations**</summary>Miami, FL</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Software Engineer | <details><summary>**2 locations**</summary>Miami, FL</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Systematic Options Trader | Miami, FL |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | New Grad: Quantitative Research Analyst | <details><summary>**2 locations**</summary>Miami, FL</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Systematic Options Trader | Miami, FL |  | Undergrad | 🔒 | Jul 24 |
 | Databricks | New Grad 2026: Software Engineer | <details><summary>**3 locations**</summary>Bellevue, WA</br>Mountain View, CA</br>San Francisco, CA</details> | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Data Scientist | <details><summary>**2 locations**</summary>Mountain View, CA</br>San Francisco, CA</details> | Spring 2026 | Undergrad | 🔒 | Jul 24 |
