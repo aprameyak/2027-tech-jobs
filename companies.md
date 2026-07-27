@@ -269,6 +269,7 @@ Klaviyo
 KnowBe4
 Kodiak Robotics
 Konrad Group
+kos.ai
 Kraken
 Kustomer
 Labelbox
