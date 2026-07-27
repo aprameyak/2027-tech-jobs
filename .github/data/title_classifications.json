@@ -10890,5 +10890,17 @@
   "relationship manager intern, business markets": false,
   "relationship manager intern, business market": false,
   "relationship manager, business markets- intern": false,
-  "relationship manager commercial markets intern": false
+  "relationship manager commercial markets intern": false,
+  "industrial design co-op": false,
+  "engineering intern co-op": true,
+  "product management/marketing intern \u2013 summer 2026": true,
+  "new product development intern \u2013 summer 2026": true,
+  "data engineering intern or student co-op": true,
+  "digital production engineering intern or student co-op": true,
+  "continuous improvement intern": false,
+  "rf engineering intern - 2026": true,
+  "software / hardware engineering - intern": true,
+  "junior cno developer (onsite)": true,
+  "junior software developer": true,
+  "junior software engineer  (swe0)": true
 }
