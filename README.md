@@ -525,7 +525,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | OfferUp | Software Engineering Intern - Summer 2026 (Hybrid @ Bellevue, WA) | Bellevue, WA | Summer 2026 | Undergrad | 🔒 | Jul 21 |
 | ↳ | Product Management Intern - Summer 2026 (Hybrid @ Bellevue, WA) | Bellevue, WA | Summer 2026 | Undergrad | 🔒 | Jul 21 |
 | ↳ | Part-Time Student Worker Software Engineer (6-month Contract) | Foster City, CA | Co-op | Undergrad | 🔒 | Jul 21 |
-| ↳ | Part-Time Student Worker Software Engineer (6-month Contract) | Foster City, CA | Co-op | Undergrad | 🔒 | Jul 21 |
 | Formlabs | Algorithms Software Intern | Somerville, MA | Fall 2026 | Undergrad | 🔒 | Jul 20 |
 | Medpace | Feasibility Informatics Intern / Co-op | Cincinnati, OH | Spring 2027 | Undergrad | 🔒 | Jul 20 |
 | Rippling | Software Engineer Intern, Backend / Full Stack / ML | <details><summary>**3 locations**</summary>San Francisco, CA</br>New York, NY</br>Seattle, WA</details> | Winter 2027 | Undergrad | 🔒 | Jul 20 |
