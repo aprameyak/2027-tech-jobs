@@ -1205,7 +1205,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | DoorDash | Software Engineer I | <details><summary>**5 locations**</summary>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Seattle, WA</br>Sunnyvale, CA</details> |  | Undergrad | 🔒 | Jul 10 |
 | Duolingo | Software Engineer | Pittsburgh, PA |  | Undergrad | 🔒 | Jul 10 |
 | ↳ | Data Scientist | Pittsburgh, PA |  | Undergrad | 🔒 | Jul 10 |
-| ↳ | Software Engineer | Pittsburgh, PA |  | Undergrad | 🔒 | Jul 10 |
 | ↳ | Data Scientist | Pittsburgh, PA |  | Undergrad | 🔒 | Jul 10 |
 | Edgehog Trading | C++ Software Developer, Trading Strategy Execution | Chicago, IL |  | Undergrad | 🔒 | Jul 10 |
 | Google | Software Engineer II, Early Career | <details><summary>**7 locations**</summary>Mountain View, CA</br>New York, NY</br>Palo Alto, CA</br>Pittsburgh, PA</br>Raleigh, NC</br>Seattle, WA</br>Sunnyvale, CA</details> |  | Undergrad | 🔒 | Jul 10 |
