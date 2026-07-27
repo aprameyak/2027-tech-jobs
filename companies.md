@@ -290,6 +290,7 @@ Lyft
 M&T Bank
 Mainspring Energy
 Manhattan Associates
+Maritz
 Marqeta
 Mastercard
 MedImpact

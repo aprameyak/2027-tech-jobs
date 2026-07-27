@@ -1384,3 +1384,7 @@ ashby:
   tenant: cisive
   instance: wd108
   board: Cisive
+- name: Maritz
+  tenant: maritz
+  instance: wd1
+  board: Maritz
