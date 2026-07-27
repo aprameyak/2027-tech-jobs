@@ -176,6 +176,7 @@ Forrester Research (SmartRecruiters API returns 0 postings — not a valid compa
 Fortinet (SmartRecruiters API returns 0 postings — not a valid company board)
 Fox Corporation (moved to companies.yml as FOX Corporation — Workday board: fox.wd1.myworkdayjobs.com/Domestic)
 Freddie Mac (no public ATS API found)
+Gannett Fleming (ATS not confirmed — closed listing)
 Gap Inc. (no public ATS API found)
 Garmin (SmartRecruiters API returns 0 postings — not a valid company board)
 Gartner (SmartRecruiters API returns 0 postings — not a valid company board)
