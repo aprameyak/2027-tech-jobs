@@ -1402,3 +1402,5 @@ ashby:
   board: NW
 - name: Human Computer Lab
   slug: human-computer-lab
+- name: kos.ai
+  slug: kos.ai
