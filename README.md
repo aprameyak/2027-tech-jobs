@@ -532,7 +532,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | TikTok | Frontend Software Engineer Project Intern - Global CRM | San Jose, CA | Summer 2026 | Undergrad; Masters | 🔒 | Jul 20 |
 | ↳ | Software Engineer Intern - Quality and Efficiency Technology | San Jose, CA | Summer 2026 | Undergrad; Masters | 🔒 | Jul 20 |
 | Zipline | Software Engineer Intern | South San Francisco, CA | Fall 2026 | Undergrad | 🔒 | Jul 20 |
-| ↳ | Software Engineer Intern | South San Francisco, CA | Fall 2026 | Undergrad | 🔒 | Jul 20 |
 | Zipline | Enterprise Systems Software Engineer Intern (Fall 2026) | South San Francisco, CA | Fall 2026 | Masters | 🔒 | Jul 12 |
 | Kinaxis | Co-op/Intern, Software Development, C++ | Remote | Fall 2026 | Undergrad | 🔒 | Jul 10 |
 | Pinterest | PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems) | <details><summary>**4 locations**</summary>San Francisco, CA</br>Palo Alto, CA</br>Seattle, WA</br>New York, NY</details> | Fall 2026 | PhD | 🔒 | Jul 9 |
