@@ -24,6 +24,7 @@ Allegion
 Allen Control Systems
 Alloy
 Altice USA
+Ambarella
 Amperity
 Amperon
 Amplitude
@@ -61,6 +62,7 @@ Base Power Company
 Beacon Software
 Benchling
 Bild AI
+Binance.US
 Bill.com
 BillionToOne
 BitGo
@@ -84,8 +86,9 @@ Browserbase
 Brunswick
 Built Technologies
 CACI
-Cadence Design Systems
 CAE Inc.
+Cadence Design Systems
+Campbell Soup Company
 Candid Health
 Canonical
 Canva
@@ -131,6 +134,7 @@ Corvus Robotics
 CoStar Group
 Coupa Software
 Cox Enterprises
+Cracker Barrel
 Cresta
 CrowdStrike
 CTGT
@@ -139,6 +143,7 @@ CVS Health
 Cylake
 d-Matrix
 D3
+Danaher Corporation
 Databricks
 Datadog
 Datalab USA
@@ -165,6 +170,7 @@ EliseAI
 Ellipsis Labs
 Endava
 Enphase Energy
+Equifax
 Epic Games
 Epirus
 Eragon
@@ -185,26 +191,35 @@ Figma
 Figure
 FINRA
 Firetiger
+First Orion
 Five Rings
 Flashpoint
 Flexport
+Flock Safety
 Flow Traders
 Form Energy
 Formlabs
+FOX Corporation
 Franklin Templeton
+FreeWheel
 Freshworks
 FurtherAI
 Gatik
 GE Aerospace
 GE Appliances
+GE HealthCare
+GE Vernova
 Gecko Robotics
 Gemini
 Gen Digital
 GenBio AI
+General Dynamics Information Technology
+General Motors
 Geneva Trading
 Giga AI
 Glean
 Global Payments
+GlobalFoundries
 Goldman Sachs
 Google
 GoPro
@@ -229,6 +244,7 @@ Hootsuite
 HP
 HubSpot
 Hudl
+iCapital Network
 ICONIQ Capital
 IDEXX
 iHerb
@@ -260,6 +276,7 @@ Last Energy
 Later
 LaunchDarkly
 Leidos
+Liberty University
 Light & Wonder
 Lightfield
 Lightspeed Commerce
@@ -275,6 +292,8 @@ Mainspring Energy
 Manhattan Associates
 Marqeta
 Mastercard
+MedImpact
+Medtronic
 Mercury
 Meta
 Microsoft
@@ -293,6 +312,7 @@ Motive
 Motorola Solutions
 mthree
 N1
+NCR Voyix
 Nelnet
 Neon
 NerdWallet
@@ -300,6 +320,7 @@ Netflix
 Netic
 Netlify
 Neuralink
+Nexxen
 NewsBreak
 Nextdoor
 Niantic
@@ -314,6 +335,7 @@ Notion
 Nubank
 Nuro
 NVIDIA
+NXP Semiconductors
 OfferUp
 Okta
 Old Mission Capital
@@ -344,6 +366,7 @@ Pinterest
 Pipe17
 Plaid
 PlanetScale
+PlayStation
 Plus
 PNC
 Podium
@@ -357,6 +380,7 @@ Priceline
 Procter & Gamble
 Profound
 Pure Storage
+PTC
 Pylon
 Qualtrics
 Quantbot Technologies
@@ -365,6 +389,7 @@ Quora
 Radiance Technologies
 Radiant Nuclear
 Radix Trading
+Rainmaker
 Rakuten International
 Ramp
 Raymond James
@@ -412,20 +437,22 @@ Sierra Nevada Corp
 Sigma Computing
 Silicon Labs
 SimpliSafe
+Simpson Strong-Tie
 SingleStore
 Skydio
 Smartsheet
 Snap
 Snowflake
 SoFi
+Solar Turbines
 SoloPulse
 Sony
-Sony Interactive Entertainment
 Sourcegraph
 SpaceX
 Span.io
 Spotify
 Squarespace
+State Street
 Stevens Capital Management
 Stoke Space
 Strada
@@ -442,6 +469,7 @@ Target Corporation
 TD Bank
 Temporal
 Tenable
+Tencent
 Tenstorrent
 Tessera Labs
 The Trade Desk
@@ -468,6 +496,7 @@ Uare.ai
 UiPath
 Upstart
 Valkyrie Trading
+Vanderbilt University Medical Center
 Vanta
 Varda Space
 Vast
@@ -479,6 +508,7 @@ Verkada
 Virtu Financial
 Visa
 VMware
+Volaris Group
 Voloridge Investment Management
 Waabi
 Walleye Capital
@@ -498,8 +528,10 @@ Wiz
 Wonderschool
 WorldQuant
 Wyetech
+XPENG Motors
 Yahoo
 Yotta
+Yulista
 Zapier
 Zebra Technologies
 Zello
