@@ -542,7 +542,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Enterprise Systems Software Engineer Intern (Fall 2026) | South San Francisco, CA | Fall 2026 | Masters | 🔒 | Jul 12 |
 | Kinaxis | Co-op/Intern, Software Development, C++ | Remote | Fall 2026 | Undergrad | 🔒 | Jul 10 |
 | Pinterest | PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems) | <details><summary>**4 locations**</summary>San Francisco, CA</br>Palo Alto, CA</br>Seattle, WA</br>New York, NY</details> | Fall 2026 | PhD | 🔒 | Jul 9 |
-| ↳ | PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems) | <details><summary>**4 locations**</summary>San Francisco, CA</br>Palo Alto, CA</br>Seattle, WA</br>New York, NY</details> | Fall 2026 | PhD | 🔒 | Jul 9 |
 | ↳ | Data Engineer Intern (Fall 2026) | San Francisco, CA | Fall 2026 | Undergrad | 🔒 | Jul 7 |
 | Instacart | Machine Learning PhD Intern, Economics (Fall) | Remote | Fall 2026 | PhD | 🔒 | Jul 7 |
 | ↳ | Machine Learning Engineer, PhD Intern (Fall) | Remote | Fall 2026 | PhD | 🔒 | Jul 7 |
