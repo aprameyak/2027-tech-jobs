@@ -329,6 +329,7 @@ Northern Trust
 NorthMark Strategies
 Northrop Grumman
 Northslope Technologies
+Northspyre
 Northwestern Mutual
 Northwood Space
 Notion
