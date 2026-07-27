@@ -302,6 +302,7 @@ Moody's Corporation (SmartRecruiters API returns 0 postings — not a valid comp
 Mphasis (SmartRecruiters API returns 0 postings — not a valid company board)
 MSCI Inc. (SmartRecruiters API returns 0 postings — not a valid company board)
 MTA (no public ATS API found — government transit authority, custom portal)
+Nash (ATS not confirmed — closed listing)
 National Bank of Canada (no public ATS API found)
 National DCP (no public ATS API found)
 Nationwide Mutual Insurance (no public ATS API found)
