@@ -343,7 +343,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Affinius Capital | Data Scientist Intern | San Antonio, TX | Undergrad | 🔒 | Jul 20 |
 | BAE Systems | Software Engineering Intern I | Nashua, NH | Undergrad | 🔒 | Jul 20 |
 | Citadel Securities | Software Engineer Intern | <details><summary>**2 locations**</summary>Miami, FL</br>New York, NY</details> | Undergrad | 🔒 | Jul 20 |
-| ↳ | Software Engineer Intern | <details><summary>**2 locations**</summary>Miami, FL</br>New York, NY</details> | Undergrad | 🔒 | Jul 20 |
 | ↳ | Software Engineer Intern - Data Infrastructure and Tools | Santa Clara, CA | Undergrad | 🔒 | Jul 20 |
 | ↳ | Software Engineer Intern - Data | Santa Clara, CA | Undergrad | 🔒 | Jul 20 |
 | Two Sigma | AI Research Scientist Intern | New York, NY | Masters; PhD | 🔒 | Jul 20 |
