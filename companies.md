@@ -317,6 +317,7 @@ Morris Health Technologies
 Motive
 Motorola Solutions
 mthree
+MyJunior AI
 N1
 NCR Voyix
 Neighborly
