@@ -1042,7 +1042,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Atlassian | New Grad 2026: Machine Learning Engineer | San Francisco, CA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Software Engineer | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | Aurora Innovation | Software Engineer 1 | Pittsburgh, PA |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | Software Engineer 1 | Pittsburgh, PA |  | Undergrad | 🔒 | Jul 24 |
 | Battelle | Early Career Software Engineer | Columbus, OH |  | Undergrad | 🔒 | Jul 24 |
 | Capgemini | Full Stack AI Engineer | New York, NY |  | Undergrad | 🔒 | Jul 24 |
 | Cellular Sales | Junior Data Engineer | Knoxville, TN |  | Undergrad | 🔒 | Jul 24 |
