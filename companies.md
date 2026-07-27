@@ -382,6 +382,7 @@ Profound
 Pure Storage
 PTC
 Pylon
+Quadrillion
 Qualtrics
 Quantbot Technologies
 QuEra Computing

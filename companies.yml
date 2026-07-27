@@ -265,6 +265,8 @@ greenhouse:
   slug: preciselyusjobs
 - name: Pure Storage
   slug: purestorage
+- name: Quadrillion
+  slug: quadrillion-labs
 - name: Qualtrics
   slug: qualtrics
 - name: QuEra Computing
