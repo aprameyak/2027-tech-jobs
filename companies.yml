@@ -1400,3 +1400,5 @@ ashby:
   tenant: nwis
   instance: wd12
   board: NW
+- name: Human Computer Lab
+  slug: human-computer-lab
