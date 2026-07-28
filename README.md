@@ -625,6 +625,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Uber Technologies, Inc. | Software Engineer I | Seattle, WA |  | Undergrad | <a href="https://jobs.uber.com/en/jobs/160017/?_csid=BOBcQVO6jwRuNsBKbjoAZA&effect=&sm_flow_id=92Yhskrz&state=xlA80FxvL-2272sFxrCsxXWLk7KQR60tJLE43FsTxHI%3D&utm_source=vansh&ref=vansh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | AG Technologies | Entry Level Software Engineer | Chesterfield, MO |  | Undergrad | <a href="https://jobs.smartrecruiters.com/AGTechnologies1/100730616" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Alta Resource Technologies | Data Engineer Junior | Boulder, CO |  | Undergrad | <a href="https://job-boards.greenhouse.io/altaresourcetechnologiesinc/jobs/4225005009" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Amazon | EFA Network Software Engineer 1 - Annapurna Labs | Seattle, WA |  | Undergrad | <a href="https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
