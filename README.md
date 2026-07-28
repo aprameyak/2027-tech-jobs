@@ -597,7 +597,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
-| 21CS | Graduate Software Engineer | Morehead City, NC |  | Undergrad | <a href="https://recruiting.ultipro.com/VMS1002VMOO/JobBoard/3dde3e78-a60b-47af-93cf-ef6db6ed312b/OpportunityDetail?opportunityId=fa0772d7-fa49-4ce9-b7ae-de1a0da018eb" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | AG Technologies | Entry Level Software Engineer | Chesterfield, MO |  | Undergrad | <a href="https://jobs.smartrecruiters.com/AGTechnologies1/100730616" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Alta Resource Technologies | Data Engineer Junior | Boulder, CO |  | Undergrad | <a href="https://job-boards.greenhouse.io/altaresourcetechnologiesinc/jobs/4225005009" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Amazon | EFA Network Software Engineer 1 - Annapurna Labs | Seattle, WA |  | Undergrad | <a href="https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
@@ -1148,8 +1147,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Hudson River Trading | Algorithm Developer (Quant Researcher) – 2027 Grads | New York, NY | Spring 2027 | Undergrad; Masters | <a href="https://www.hudsonrivertrading.com/hrt-job/algorithm-developer-quant-researcher-2027-grads/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
 | ↳ | Algorithm Developer (Quant Researcher) – 2027 PhDs | New York, NY | Spring 2027 | PhD | <a href="https://www.hudsonrivertrading.com/hrt-job/algorithm-developer-quant-researcher-2027-phds/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
 | ↳ | Software Engineer (C++ or Python) – 2027 Grads | <details><summary>**3 locations**</summary>New York, NY</br>Chicago, IL</br>Austin, TX</details> | Spring 2027 | Undergrad; Masters | <a href="https://www.hudsonrivertrading.com/hrt-job/software-engineer-c-or-python-2027-grads/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
-| IMC Trading | Graduate Software Engineer | Chicago, IL |  | Undergrad | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4818790101" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
-| ↳ | Graduate Quantitative Trader | Chicago, IL |  | Undergrad | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4751729101" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
+| IMC Trading | Graduate Quantitative Trader | Chicago, IL |  | Undergrad | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4751729101" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
 | ↳ | Graduate Quantitative Researcher (PhD) | Chicago, IL |  | PhD | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4912325101" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
 | ↳ | Graduate Quantitative Researcher (BS/MS) | Chicago, IL |  | Undergrad; Masters | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4907368101" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
 | ↳ | Graduate Machine Learning Researcher - Chicago | Chicago, IL |  | PhD | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4907416101" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
@@ -1222,6 +1220,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Stripe | Software Engineer, New Grad, Developer & End User Experience Platform | Toronto, ON |  | Undergrad | <a href="https://stripe.com/jobs/search?gh_jid=7991718" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Tower Research Capital | Quantitative Trader - 2027 | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> | Spring 2027 | Undergrad | <a href="https://www.tower-research.com/open-positions/?gh_jid=8024142" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Capital One 🛂 | Business Analyst Associate | <details><summary>**5 locations**</summary>McLean, VA</br>Chicago, IL</br>New York, NY</br>Plano, TX</br>Richmond, VA</details> |  | Undergrad | <a href="https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Business-Analyst-Associate---August-2027_R245108-1" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 6 |
+| 21CS | Graduate Software Engineer | Morehead City, NC |  | Undergrad | 🔒 | Jul 27 |
 | AgentMail | Founding Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 27 |
 | ↳ | System Development Engineer, macOS MDM, Kuiper Devices & Systems | Bellevue, WA |  | Undergrad | 🔒 | Jul 27 |
 | ↳ | System Development Engineer, Amazon Robotics | Arlington, VA |  | Undergrad | 🔒 | Jul 27 |
@@ -1452,6 +1451,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineer IDNA | Redmond, WA |  | Undergrad | 🔒 | Jul 15 |
 | ↳ | Technical Program Management | Remote |  | Undergrad | 🔒 | Jul 15 |
 | ↳ | Software Engineer | Redmond, WA |  | Undergrad | 🔒 | Jul 15 |
+| ↳ | Graduate Software Engineer | Chicago, IL |  | Undergrad | 🔒 | Jul 13 |
 | Microsoft | Software Engineer | Remote |  | Undergrad | 🔒 | Jul 13 |
 | ↳ | Software Engineer | Mountain View, CA |  | Undergrad | 🔒 | Jul 13 |
 | ↳ | Software Engineering - Commercial Engineering & AI (CEAI) | Redmond, WA |  | Undergrad | 🔒 | Jul 13 |
