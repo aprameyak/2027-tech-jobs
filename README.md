@@ -564,7 +564,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Altom Transport | Fall Software Development Intern | Hammond, IN | Fall 2026 | Undergrad | 🔒 | Jul 27 |
 | Blackstar Computers | SWE Internship - Summer 2026 | San Francisco, CA | Summer 2026 | Undergrad | 🔒 | Jul 27 |
 | Blockhouse | Rust Developer Intern - Summer 2026 | New York City, NY | Summer 2026 | Undergrad | 🔒 | Jul 27 |
-| Hermeus | Software Engineering Intern - Modeling & Simulation - Fall 2026 | Los Angeles, CA | Fall 2026 | Undergrad | 🔒 | Jul 27 |
 | Stoke Space | Spring 2027 Internship - Software | Kent, WA | Spring 2027 | Undergrad | 🔒 | Jul 27 |
 | Vital Lyfe | Software Engineering Internship - Fall 2026 | Los Angeles, CA | Fall 2026 | Undergrad | 🔒 | Jul 27 |
 | Cirrus Logic | Fall 2026 Co-Op - Embedded Software AI Intern | Austin, TX | Fall 2026 | Undergrad | 🔒 | Jul 23 |
