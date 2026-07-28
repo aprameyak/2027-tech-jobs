@@ -16061,5 +16061,18 @@
     "citizenship": "No",
     "date_added": "2026-07-27",
     "grad_date": ""
+  },
+  {
+    "company": "Qualtrics",
+    "role": "Machine Learning Engineer",
+    "location": "Seattle, WA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-27",
+    "grad_date": ""
   }
 ]
