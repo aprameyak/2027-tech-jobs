@@ -15411,5 +15411,18 @@
     "citizenship": "No",
     "date_added": "2026-07-27",
     "grad_date": ""
+  },
+  {
+    "company": "ByteDance",
+    "role": "New Grad 2026: Cloud Network Engineer (Physical Network Infra)",
+    "location": "Seattle, WA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://joinbytedance.com/search/7538433821165259015",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-27",
+    "grad_date": "Spring 2026"
   }
 ]
