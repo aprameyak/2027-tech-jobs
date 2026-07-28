@@ -15294,5 +15294,18 @@
     "citizenship": "No",
     "date_added": "2026-07-27",
     "grad_date": ""
+  },
+  {
+    "company": "D3 Global Inc",
+    "role": "New Grad: Backend Engineer",
+    "location": "Los Angeles, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://d3.com/careers",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-27",
+    "grad_date": ""
   }
 ]
