@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Palantir Technologies | Software Engineer Intern | Washington, D.C. | Undergrad | <a href="https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0?utm_source=github-vansh-ouckah" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Boise, ID | Undergrad | <a href="https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321?utm_source=github-vansh-ouckah" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Al Warren Oil Company | Software Developer Intern | Bensenville, IL | Undergrad | <a href="https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Appian | Information Security Engineer Intern | McLean, VA | Undergrad | <a href="https://job-boards.greenhouse.io/appian/jobs/8088496" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
