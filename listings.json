@@ -16334,5 +16334,18 @@
     "citizenship": "No",
     "date_added": "2026-07-27",
     "grad_date": ""
+  },
+  {
+    "company": "Lumafield",
+    "role": "Backend Engineer",
+    "location": "San Francisco, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.lumafield.com/careers/job?id=fb3e17b3-d7fe-47da-85c3-aecda001e2ed",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-27",
+    "grad_date": ""
   }
 ]
