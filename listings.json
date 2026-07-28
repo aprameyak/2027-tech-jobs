@@ -16659,5 +16659,18 @@
     "citizenship": "No",
     "date_added": "2026-07-27",
     "grad_date": ""
+  },
+  {
+    "company": "Amazon",
+    "role": "Software Dev Engineer",
+    "location": "Austin, TX; New York, NY; Seattle, WA; Culver City, CA; Santa Clara, CA; Bellevue, WA; Denver, CO; Palo Alto, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.amazon.jobs/en/jobs/2950609/software-dev-engineer-computer-science",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-27",
+    "grad_date": ""
   }
 ]
