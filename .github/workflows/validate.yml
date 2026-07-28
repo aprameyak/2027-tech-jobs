@@ -1,0 +1,24 @@
+name: Validate Listings
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'listings.json'
+      - '.github/scripts/validate_listings.py'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'listings.json'
+      - '.github/scripts/validate_listings.py'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validate listings
+        run: python .github/scripts/validate_listings.py
