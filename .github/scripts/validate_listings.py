@@ -59,6 +59,15 @@ def mark_listing_closed(entry):
     entry['url'] = ''
 
 
+VALID_EDUCATION = {'Undergrad', 'Masters', 'PhD',
+                   'Undergrad; Masters', 'Undergrad; PhD', 'Masters; PhD',
+                   'Undergrad; Masters; PhD'}
+
+VALID_SPONSORSHIP_PREFIXES = ('unknown', 'no —', 'yes —')
+
+COMPANY_EMOJI = re.compile(r'[🛂🇺🇸]')
+
+
 def validate_metadata(entry):
     """Return list of missing required fields."""
     required = ['company', 'role', 'location', 'type', 'season', 'education',
@@ -68,6 +77,28 @@ def validate_metadata(entry):
         if field not in entry:
             missing.append(field)
     return missing
+
+
+def validate_field_values(entry):
+    """Return list of field value violations."""
+    violations = []
+
+    edu = entry.get('education', '')
+    if edu not in VALID_EDUCATION:
+        violations.append(f'invalid education value: {edu!r}')
+
+    sponsorship = entry.get('sponsorship', '').lower()
+    if sponsorship and not any(sponsorship.startswith(p) for p in VALID_SPONSORSHIP_PREFIXES):
+        violations.append(f'non-standard sponsorship value: {entry.get("sponsorship")!r}')
+
+    citizenship = entry.get('citizenship', '').lower()
+    if citizenship and citizenship not in ('no', 'unknown') and not citizenship.startswith('yes —'):
+        violations.append(f'non-standard citizenship value: {entry.get("citizenship")!r}')
+
+    if COMPANY_EMOJI.search(entry.get('company', '')):
+        violations.append('emoji in company field (flags must come from sponsorship/citizenship fields)')
+
+    return violations
 
 
 def validate_entry(entry):
@@ -81,6 +112,8 @@ def validate_entry(entry):
     missing = validate_metadata(entry)
     if missing:
         violations.append(f'missing required field(s): {", ".join(missing)}')
+
+    violations.extend(validate_field_values(entry))
 
     if table == 'summer':
         if season != 'Summer 2027':
