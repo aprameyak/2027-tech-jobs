@@ -15424,5 +15424,18 @@
     "citizenship": "No",
     "date_added": "2026-07-27",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "ByteDance",
+    "role": "New Grad 2026: Network Engineer (Physical Network Infra)",
+    "location": "San Jose, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://joinbytedance.com/search/7538106304578963730",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-27",
+    "grad_date": "Spring 2026"
   }
 ]
