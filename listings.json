@@ -14440,5 +14440,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-27"
+  },
+  {
+    "company": "Nightwing",
+    "role": "Junior Software Engineer (SWE0)",
+    "location": "Annapolis Junction, MD",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Junior-Software-Engineer_01677525",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-27",
+    "grad_date": ""
   }
 ]
