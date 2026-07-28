@@ -284,7 +284,7 @@
   {
     "company": "Instacart",
     "role": "Machine Learning PhD Intern, Economics (Fall)",
-    "location": "Remote",
+    "location": "Remote (US)",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "PhD",
@@ -296,7 +296,7 @@
   {
     "company": "Instacart",
     "role": "Machine Learning Engineer, PhD Intern (Fall)",
-    "location": "Remote",
+    "location": "Remote (US)",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "PhD",
@@ -2296,7 +2296,7 @@
   {
     "company": "Kinaxis",
     "role": "Co-op/Intern, Software Development, C++",
-    "location": "Remote",
+    "location": "Remote (Canada)",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -2982,7 +2982,7 @@
   {
     "company": "Microsoft",
     "role": "Software Engineer",
-    "location": "Remote",
+    "location": "Remote (US)",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -3478,7 +3478,7 @@
   {
     "company": "Microsoft",
     "role": "Technical Program Management",
-    "location": "Remote",
+    "location": "Remote (US)",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -7319,7 +7319,7 @@
   {
     "company": "Circle",
     "role": "Software Engineer, Backend",
-    "location": "Remote",
+    "location": "Remote (US)",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -11317,7 +11317,7 @@
   {
     "company": "NVIDIA",
     "role": "New Grad 2026: Solutions Architect, Data Processing",
-    "location": "Santa Clara, CA; Remote",
+    "location": "Santa Clara, CA; Remote (US)",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Masters; PhD",
@@ -11616,7 +11616,7 @@
   {
     "company": "Stripe",
     "role": "Backend Engineer, Secure Endpoint Access",
-    "location": "South San Francisco, CA; Seattle, WA; Remote",
+    "location": "South San Francisco, CA; Seattle, WA; Remote (US)",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -12162,7 +12162,7 @@
   {
     "company": "EBSCO",
     "role": "Software Dev Engineer I",
-    "location": "Remote",
+    "location": "Remote (US)",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -12357,7 +12357,7 @@
   {
     "company": "Viasat",
     "role": "Full Stack Software Engineer, Early Career",
-    "location": "Carlsbad, CA; Remote",
+    "location": "Carlsbad, CA; Remote (US)",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -12448,7 +12448,7 @@
   {
     "company": "Circle",
     "role": "New Grad 2026: Software Engineer, Backend",
-    "location": "Remote",
+    "location": "Remote (US)",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -13698,7 +13698,7 @@
   {
     "company": "Stripe",
     "role": "Software Engineer - New Grad",
-    "location": "Seattle, WA; South San Francisco, CA",
+    "location": "Seattle, WA; San Francisco, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -14586,7 +14586,7 @@
   {
     "company": "Na\u00efve",
     "role": "Software Engineer Intern",
-    "location": "San Francisco, CA; Remote",
+    "location": "San Francisco, CA; Remote (US)",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -14833,7 +14833,7 @@
   {
     "company": "Wanderlog",
     "role": "Full-Stack Software Engineer",
-    "location": "San Francisco, CA; Remote",
+    "location": "San Francisco, CA; Remote (US)",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -14898,7 +14898,7 @@
   {
     "company": "Wanderlog (W19)",
     "role": "New Grad: Full-Stack Software Engineer",
-    "location": "San Francisco, CA; Remote",
+    "location": "San Francisco, CA; Remote (US)",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -16709,7 +16709,7 @@
   {
     "company": "Clerkie",
     "role": "Software Engineer Internship",
-    "location": "Remote",
+    "location": "Remote (US)",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -17078,7 +17078,7 @@
   {
     "company": "DoorDash",
     "role": "Software Engineer 1",
-    "location": "Seattle, WA; San Francisco, CA; Los Angeles, CANYC; Sunnyvale, CA",
+    "location": "Seattle, WA; San Francisco, CA; Los Angeles, CA; New York, NY; Sunnyvale, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -17831,7 +17831,7 @@
   {
     "company": "Palantir Technologies",
     "role": "Software Engineer Intern",
-    "location": "Washington, D.C.",
+    "location": "Washington, DC",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -17879,7 +17879,7 @@
   {
     "company": "Google",
     "role": "Software Engineering Intern",
-    "location": "Mountain View, CAAtlanta, GAAustin, TXBoulder, COCambridge, MABellevue, WAChicago, ILHouston, TXIrvine, CAKirkland, WALos Angeles, CAMadison, WINew York, NYPalo Alto, CAPortland, ORPittsburgh, PARaleigh, NCDurham, NCReston, VARedmond, WARedwood City, CASan Diego, CAGoleta, CASan Bruno, CASeattle, WASan Francisco, CASan Jose, CASanta Cruz, CASouth San Francisco, CASunnyvale, CA",
+    "location": "Mountain View, CA; Atlanta, GA; Austin, TX; Boulder, CO; Cambridge, MA; Bellevue, WA; Chicago, IL; Houston, TX; Irvine, CA; Kirkland, WA; Los Angeles, CA; Madison, WI; New York, NY; Palo Alto, CA; Portland, OR; Pittsburgh, PA; Raleigh, NC; Durham, NC; Reston, VA; Redmond, WA; Redwood City, CA; San Diego, CA; Goleta, CA; San Bruno, CA; Seattle, WA; San Francisco, CA; San Jose, CA; Santa Cruz, CA; South San Francisco, CA; Sunnyvale, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -17963,7 +17963,7 @@
   {
     "company": "Citadel",
     "role": "Software Engineer Intern",
-    "location": "New York, NYGreenwich, CTMiami, FLHouston, TX",
+    "location": "New York, NY; Greenwich, CT; Miami, FL; Houston, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -18047,7 +18047,7 @@
   {
     "company": "Trata",
     "role": "Research Scientist Intern",
-    "location": "San Francisco, CANew York, NY",
+    "location": "San Francisco, CA; New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -18059,7 +18059,7 @@
   {
     "company": "Na\u00efve",
     "role": "Software Engineer Intern",
-    "location": "San Francisco, CARemote",
+    "location": "San Francisco, CA; Remote (US)",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -18119,7 +18119,7 @@
   {
     "company": "Point72",
     "role": "Investment Analyst Intern, Point72 Academy",
-    "location": "New York, NYSan Francisco, CAChicago, ILWest Palm Beach, FLMiami, FL",
+    "location": "New York, NY; San Francisco, CA; Chicago, IL; West Palm Beach, FL; Miami, FL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -18246,7 +18246,7 @@
   {
     "company": "Google",
     "role": "Software Engineer II, Early Career",
-    "location": "Mountain View, CAKirkland, WALos Angeles, CAMadison, WINew York, NYPalo Alto, CAPittsburgh, PARaleigh, NCDurham, NCSan Bruno, CASeattle, WASunnyvale, CA",
+    "location": "Mountain View, CA; Kirkland, WA; Los Angeles, CA; Madison, WI; New York, NY; Palo Alto, CA; Pittsburgh, PA; Raleigh, NC; Durham, NC; San Bruno, CA; Seattle, WA; Sunnyvale, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -18350,7 +18350,7 @@
   {
     "company": "Planbase",
     "role": "Founding Product Engineer",
-    "location": "San Francisco, CA, US",
+    "location": "San Francisco, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -18519,7 +18519,7 @@
   {
     "company": "Apple",
     "role": "AIML Resident - Data Operations Capacity Planning & Analytics",
-    "location": "Seattle, WACupertino, CA",
+    "location": "Seattle, WA; Cupertino, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -18532,7 +18532,7 @@
   {
     "company": "Apple",
     "role": "AIML Resident - Knowledge Answer Quality & Richness",
-    "location": "Seattle, WASanta Clara, CA",
+    "location": "Seattle, WA; Santa Clara, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -18688,7 +18688,7 @@
   {
     "company": "Boerboel",
     "role": "New Grad: Developer",
-    "location": "New York, NYChicago, IL",
+    "location": "New York, NY; Chicago, IL",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -18701,7 +18701,7 @@
   {
     "company": "Boerboel",
     "role": "New Grad: Quantitative Researcher",
-    "location": "New York, NYChicago, IL",
+    "location": "New York, NY; Chicago, IL",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -18779,7 +18779,7 @@
   {
     "company": "Google",
     "role": "Software Engineer II, Early Career, Google Cloud AI Catalyst Program",
-    "location": "Sunnyvale, CAKirkland, WASeattle, WA",
+    "location": "Sunnyvale, CA; Kirkland, WA; Seattle, WA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -18844,7 +18844,7 @@
   {
     "company": "DoorDash",
     "role": "New Grad: Software Engineer I",
-    "location": "New York, NYSan Francisco, CALos Angeles, CASeattle, WASunnyvale, CA",
+    "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA; Sunnyvale, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -19117,7 +19117,7 @@
   {
     "company": "Stripe",
     "role": "Software Engineer - New Grad",
-    "location": "Seattle, WASF",
+    "location": "Seattle, WA; San Francisco, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -19897,7 +19897,7 @@
   {
     "company": "Citadel Securities",
     "role": "New Grad: Quantitative Research Analyst",
-    "location": "Miami, FLNew York, NY",
+    "location": "Miami, FL; New York, NY",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -19910,7 +19910,7 @@
   {
     "company": "Citadel Securities",
     "role": "Software Engineer",
-    "location": "Miami, FLNew York, NY",
+    "location": "Miami, FL; New York, NY",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
