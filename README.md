@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| ABC News | Product Management and Engineering Intern | New York, NY | Undergrad | <a href="https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Abundant | Software Engineering Intern, Research Focused | San Francisco, CA | Undergrad | <a href="https://www.workatastartup.com/jobs/94634" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Akuna Capital | Python Software Engineer Intern | Chicago, IL | Undergrad | <a href="https://akunacapital.com/careers/job/8018853/?gh_jid=8018853" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Al Warren Oil Company | Software Developer Intern | Bensenville, IL | Undergrad | <a href="https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
