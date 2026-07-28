@@ -1376,8 +1376,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | New Grad 2026: Product Manager (SMB) | Austin, TX | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Product Manager Graduate (TikTok Shop User Product) | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Software Engineer Graduate - Data-Search | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
-| Twitch | Software Engineer I | <details><summary>**2 locations**</summary>Seattle, WA</br>San Francisco, CA</details> |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | Software Engineer, Creator Monetization | San Francisco, CA |  | Undergrad | 🔒 | Jul 24 |
+| Twitch | Software Engineer, Creator Monetization | San Francisco, CA |  | Undergrad | 🔒 | Jul 24 |
 | Twitch Interactive, Inc. | Software Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Software Engineer I | <details><summary>**2 locations**</summary>Irvine, CA</br>San Francisco, CA</details> |  | Undergrad | 🔒 | Jul 24 |
 | Uber | New Grad 2026: Software Engineer I | San Francisco, CA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
