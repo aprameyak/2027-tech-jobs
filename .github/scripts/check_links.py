@@ -89,6 +89,7 @@ SOFT_404_PHRASES = [
 GH_HOST_BOARD = {
     'stripe.com': 'stripe',
     'nuro.ai': 'nuro',
+    'www.nuro.ai': 'nuro',
     'instacart.careers': 'instacart',
     'databricks.com': 'databricks',
     'www.tower-research.com': 'towerresearchcapital',
@@ -100,6 +101,14 @@ GH_HOST_BOARD = {
     'www.rentec.com': 'rentec',
     'www.oldmissioncapital.com': 'oldmissioncapital',
     'careers.appian.com': 'appian',
+    'www.akunacapital.com': 'akunacapital',
+    'akunacapital.com': 'akunacapital',
+    'careers.roblox.com': 'roblox',
+    'careers.duolingo.com': 'duolingo',
+    'careers.withwaymo.com': 'waymo',
+    'block.xyz': 'block',
+    'www.esri.com': 'esri',
+    'www.pathai.com': 'pathai',
 }
 
 # ---------------------------------------------------------------------------
