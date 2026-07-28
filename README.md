@@ -384,6 +384,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| PathAI | Software Engineering Co-op MLOps: September - December 2026 | Boston, MA | Co-op | Undergrad | <a href="https://www.pathai.com/careers/8651564002?gh_jid=8651564002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Ancestry | Machine Learning Engineer, Co-op | Remote | Co-op | Undergrad | <a href="https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003378" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | ↳ | Data Science - AI Document Understanding, Co-op | Remote | Co-op | Undergrad | <a href="https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003371" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | Astranis Space Technologies | Software Engineer Intern - Enterprise Systems (Fall 2026) | San Francisco, CA | Fall 2026 | Undergrad | <a href="https://job-boards.greenhouse.io/astranis/jobs/4699071006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
