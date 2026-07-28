@@ -17837,5 +17837,18 @@
     "citizenship": "No",
     "date_added": "2026-07-27",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "Teamworks",
+    "role": "Data Engineer 1",
+    "location": "Remote, NC",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/teamworks/317433d0-072d-40ac-822f-0e268fa6b4c3/application",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-27",
+    "grad_date": ""
   }
 ]
