@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Apex Technology, Inc. | Software Engineering Intern, Embedded Systems | Los Angeles | Undergrad | <a href="https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11?utm_source=github-vansh-ouckah" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Appian 🛂 | Software Engineering Intern | McLean, VA | Undergrad | <a href="https://careers.appian.com/jobs/8041237-software-engineering-intern?utm_source=github-vansh-ouckah" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | ↳ | Product Manager Intern | McLean, VA | Undergrad | <a href="https://careers.appian.com/jobs/8041243-product-manager-intern-?utm_source=github-vansh-ouckah" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Apple | Software Engineer Intern, Undergrad | Remote (US) | Undergrad | <a href="https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships?utm_source=github-vansh-ouckah" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
