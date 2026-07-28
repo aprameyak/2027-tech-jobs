@@ -15827,5 +15827,18 @@
     "citizenship": "No",
     "date_added": "2026-07-27",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "Ramp",
+    "role": "New Grad 2026: Software Engineer - Backend",
+    "location": "New York, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-27",
+    "grad_date": "Spring 2026"
   }
 ]
