@@ -17642,5 +17642,18 @@
     "citizenship": "No",
     "date_added": "2026-07-27",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "D2L",
+    "role": "Software Developer \u2013 New Graduate",
+    "location": "Winnipeg, MB; Toronto, ON; Kitchener, ON; Vancouver, BC",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-27",
+    "grad_date": ""
   }
 ]
