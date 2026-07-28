@@ -65,7 +65,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Capital One | Data Analyst Intern | McLean, VA | Undergrad | <a href="https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Ciena | Software Engineering Intern (4 Months) | Ottawa, ON | Undergrad | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Engineering-Intern_R031372" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Copart | Data Engineering Intern | Dallas, TX | Undergrad | <a href="https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110075" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
-| D. E. Shaw & Co. | Quantitative Analyst and Software Developer Intern - Summer 2027 | New York City, NY | Undergrad | <a href="https://www.deshaw.com/careers/5906" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
+| D. E. Shaw & Co. | Quantitative Analyst and Software Developer Intern - Summer 2027 | New York, NY | Undergrad | <a href="https://www.deshaw.com/careers/5906" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Etched | Infrastructure Intern | San Jose, CA | Undergrad | <a href="https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Ether.fi | GTM Engineer Intern | <details><summary>**2 locations**</summary>Denver, CO</br>New York, NY</details> | Undergrad | <a href="https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Fiserv | Application Development Intern | Alpharetta, GA | Undergrad | <a href="https://careers.fiserv.com/us/en/job/FFFYJUSR10390264EXTERNALENUS/Application-Development-Summer-Intern" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
@@ -376,8 +376,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Base Power Company | Quantitative Developer Intern | Austin, TX | Undergrad | 🔒 | Jul 27 |
 | Clerkie | Software Engineer Internship | Remote (US) | Undergrad | 🔒 | Jul 27 |
 | Dedalus Labs | Forward Deployed Engineer Intern | San Francisco, CA | Undergrad | 🔒 | Jul 27 |
-| Eulerity | Mobile iOS Developer Intern | New York City, NY | Undergrad | 🔒 | Jul 27 |
-| ↳ | Android Developer Intern | New York City, NY | Undergrad | 🔒 | Jul 27 |
+| Eulerity | Mobile iOS Developer Intern | New York, NY | Undergrad | 🔒 | Jul 27 |
+| ↳ | Android Developer Intern | New York, NY | Undergrad | 🔒 | Jul 27 |
 | ING | Graduate Internship - NFR AI Agent Developer | Waco, TX | Undergrad | 🔒 | Jul 27 |
 | Intercontinental Exchange, Inc. | Artificial Intelligence, Data & Machine Learning Intern | New York, NY | Undergrad | 🔒 | Jul 27 |
 | Mathtech | Web Application Developer Intern | Falls Church, VA | Undergrad | 🔒 | Jul 27 |
@@ -591,7 +591,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Network Strategy Intern (Fall 2026) | San Francisco, CA | Fall 2026 | Undergrad | <a href="https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Altom Transport | Fall Software Development Intern | Hammond, IN | Fall 2026 | Undergrad | 🔒 | Jul 27 |
 | Blackstar Computers | SWE Internship - Summer 2026 | San Francisco, CA | Summer 2026 | Undergrad | 🔒 | Jul 27 |
-| Blockhouse | Rust Developer Intern - Summer 2026 | New York City, NY | Summer 2026 | Undergrad | 🔒 | Jul 27 |
+| Blockhouse | Rust Developer Intern - Summer 2026 | New York, NY | Summer 2026 | Undergrad | 🔒 | Jul 27 |
 | Stoke Space | Spring 2027 Internship - Software | Kent, WA | Spring 2027 | Undergrad | 🔒 | Jul 27 |
 | Vital Lyfe | Software Engineering Internship - Fall 2026 | Los Angeles, CA | Fall 2026 | Undergrad | 🔒 | Jul 27 |
 | Cirrus Logic | Fall 2026 Co-Op - Embedded Software AI Intern | Austin, TX | Fall 2026 | Undergrad | 🔒 | Jul 23 |
