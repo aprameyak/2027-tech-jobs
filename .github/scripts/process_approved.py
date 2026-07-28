@@ -26,7 +26,6 @@ STRIP_PARAMS = {
     'gh_src',
 }
 
-
 def normalize_url(url):
     try:
         p = urlparse(url.strip())
@@ -43,10 +42,8 @@ def normalize_url(url):
     except Exception:
         return url
 
-
 def existing_normalized_urls(listings):
     return {normalize_url(l.get('url', '')) for l in listings}
-
 
 def get_approved_issues(token, repo):
     headers = {
@@ -72,7 +69,6 @@ def get_approved_issues(token, repo):
         page += 1
     return issues
 
-
 def comment_and_close(token, repo, issue_number, message=None):
     headers = {
         'Authorization': f'token {token}',
@@ -92,7 +88,6 @@ def comment_and_close(token, repo, issue_number, message=None):
         timeout=10,
     )
 
-
 def parse_issue_body(body):
     fields = {}
     sections = re.split(r'^### ', body, flags=re.MULTILINE)
@@ -107,7 +102,6 @@ def parse_issue_body(body):
         fields[key] = value
     return fields
 
-
 def determine_table(fields):
     listing_type = fields.get('Listing Type', '')
     season = fields.get('Season / Term', '')
@@ -116,7 +110,6 @@ def determine_table(fields):
     if 'New Grad' in listing_type or '2027 (New Grad' in season:
         return 'newgrad'
 
-    # Graduate full-time roles (e.g. IMC) are often mislabeled as internships
     if re.search(r'\bgraduate\b', role) and 'intern' not in role:
         return 'newgrad'
 
@@ -124,18 +117,15 @@ def determine_table(fields):
         return 'summer'
     return 'offcycle'
 
-
 def load_listings():
     if LISTINGS_FILE.exists():
         with open(LISTINGS_FILE) as f:
             return json.load(f)
     return []
 
-
 def save_listings(listings):
     with open(LISTINGS_FILE, 'w') as f:
         json.dump(listings, f, indent=2)
-
 
 def normalize_location(location):
     """Normalize issue-form locations to City, ST / City, Province."""
@@ -181,7 +171,6 @@ def normalize_location(location):
     location = location.replace('•', ';')
     return '; '.join(part(p) for p in re.split(r'[;\n]', location) if p.strip())
 
-
 def listing_to_json(fields, table_type):
     entry = {
         'company': fields.get('Company Name', '').strip(),
@@ -199,7 +188,6 @@ def listing_to_json(fields, table_type):
         entry['grad_date'] = infer_grad_date(entry['role'], entry.get('url', ''))
     return entry
 
-
 def rebuild_readme():
     result = subprocess.run(
         ['python3', '.github/scripts/rebuild_readme.py'],
@@ -210,7 +198,6 @@ def rebuild_readme():
         print(f'ERROR: rebuild_readme.py failed: {result.stderr[:500]}')
         sys.exit(1)
     print(result.stdout.strip())
-
 
 def main():
     token = os.environ.get('GITHUB_TOKEN')
@@ -262,7 +249,6 @@ def main():
         print(f'\nAdded {added} listing(s)')
     else:
         print('\nNo new listings to add')
-
 
 if __name__ == '__main__':
     main()

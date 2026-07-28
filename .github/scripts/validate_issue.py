@@ -44,7 +44,6 @@ BARE_COUNTRY_RE = re.compile(r'^(us|usa|united states|canada)$', re.IGNORECASE)
 
 CITY_STATE_RE = re.compile(r'^.+,\s*([A-Z]{2})$')
 
-
 def validate_location(location):
     """Returns list of error strings, empty if valid."""
     parts = [p.strip() for p in location.split(';') if p.strip()]
@@ -68,7 +67,6 @@ def validate_location(location):
             )
     return errors
 
-
 def parse_issue_body(body):
     fields = {}
     sections = re.split(r'^### ', body, flags=re.MULTILINE)
@@ -83,7 +81,6 @@ def parse_issue_body(body):
         fields[key] = value
     return fields
 
-
 def post_comment(token, repo, issue_number, body):
     requests.post(
         f'https://api.github.com/repos/{repo}/issues/{issue_number}/comments',
@@ -94,7 +91,6 @@ def post_comment(token, repo, issue_number, body):
         json={'body': body},
         timeout=10,
     )
-
 
 def main():
     token = os.environ.get('GITHUB_TOKEN')
@@ -133,7 +129,6 @@ def main():
         print(f'Validation failed: {len(errors)} error(s)')
     else:
         print('Validation passed')
-
 
 if __name__ == '__main__':
     main()

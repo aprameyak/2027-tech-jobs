@@ -101,9 +101,6 @@ HARD_REJECT_SIGNALS = [
     'legal counsel', 'general counsel', 'legal operations',
 ]
 
-# Two-letter US state and Canadian province abbreviations.
-# These are matched with a word-boundary regex in is_us_location() to avoid
-# false positives like ', ca' matching 'ZA, Cape Town' or ', ri' matching 'SA, Riyadh'.
 _US_STATE_ABBRS = {
     'al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de', 'fl', 'ga', 'hi',
     'id', 'il', 'in', 'ia', 'ks', 'ky', 'la', 'me', 'md', 'ma', 'mi',
@@ -113,8 +110,6 @@ _US_STATE_ABBRS = {
     'on', 'bc', 'qc', 'ab', 'mb', 'sk', 'ns', 'nb', 'nl', 'pe',
 }
 
-# Unambiguous city/country keywords — full names that won't substring-match
-# foreign locations (unlike 'san jose' which also exists in Costa Rica).
 US_SIGNALS = [
     'united states', 'usa', 'u.s.a',
     'new york', 'san francisco', 'los angeles', 'seattle', 'boston',
@@ -139,7 +134,6 @@ NON_US_SIGNALS = [
     'mexico city', 'mexico',
     'brazil', 'sao paulo',
     'worldwide', 'global (non-us)',
-    # Amazon-specific ISO country code prefixes for non-US/CA countries
     'cape town', 'south africa',
     'riyadh', 'saudi arabia',
     'costa rica',
@@ -170,7 +164,6 @@ CA_PROVINCE_ABBRS = {
     'northwest territories': 'NT', 'nunavut': 'NU', 'ontario': 'ON',
     'prince edward island': 'PE', 'quebec': 'QC', 'saskatchewan': 'SK', 'yukon': 'YT',
 }
-
 
 def normalize_location(location):
     if not location:
@@ -221,7 +214,6 @@ def normalize_location(location):
     parts = [_normalize_part(p) for p in re.split(r'[;\n]', location) if p.strip()]
     return '; '.join(parts)
 
-
 def load_title_cache():
     global _title_cache
     if _title_cache is None:
@@ -241,7 +233,6 @@ def load_title_cache():
             _title_cache = {}
     return _title_cache
 
-
 def save_title_cache():
     if _title_cache is not None:
         try:
@@ -250,7 +241,6 @@ def save_title_cache():
                 json.dump(_title_cache, f, indent=2)
         except Exception as e:
             print(f'  [Cache] Failed to save title cache: {e}')
-
 
 def load_gemini_usage():
     global _gemini_calls_today, _gemini_usage_date
@@ -268,7 +258,6 @@ def load_gemini_usage():
     _gemini_calls_today = 0
     _gemini_usage_date = today
 
-
 def save_gemini_usage():
     try:
         GEMINI_USAGE_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -276,7 +265,6 @@ def save_gemini_usage():
             json.dump({'date': _gemini_usage_date, 'calls': _gemini_calls_today}, f)
     except Exception as e:
         print(f'  [Gemini] Failed to save usage file: {e}')
-
 
 def batch_classify_with_gemini(titles):
     global _gemini_calls_today
@@ -359,7 +347,6 @@ def batch_classify_with_gemini(titles):
 
     return {}
 
-
 def classify_titles_batch(title_list):
     global _confidence_cache
 
@@ -404,14 +391,11 @@ def classify_titles_batch(title_list):
                 _confidence_cache[title.lower()] = result.get('confidence', 'medium')
                 classified += 1
             else:
-                # Gemini failed for this title — keyword fallback so classify_title
-                # won't retry Gemini and waste more time
                 cache[title.lower()] = is_tech_title_keywords(title)
                 _confidence_cache[title.lower()] = 'low'
                 classified += 1
 
     return classified
-
 
 def load_seen_jobs():
     if SEEN_JOBS_FILE.exists():
@@ -419,16 +403,13 @@ def load_seen_jobs():
             return set(json.load(f))
     return set()
 
-
 def save_seen_jobs(seen):
     SEEN_JOBS_FILE.parent.mkdir(parents=True, exist_ok=True)
     with open(SEEN_JOBS_FILE, 'w') as f:
         json.dump(sorted(list(seen)), f, indent=2)
 
-
 def normalize_company_name(name):
     return re.sub(r'[^a-z0-9]+', '', name.strip().lower())
-
 
 def load_followed_companies():
     try:
@@ -448,10 +429,8 @@ def load_followed_companies():
         print(f'  [alerts] Failed to load followed companies file: {e}')
     return {normalize_company_name(c) for c in DEFAULT_FOLLOWED_COMPANIES}
 
-
 def is_followed_company(company, followed_companies):
     return normalize_company_name(company) in followed_companies
-
 
 def send_followed_company_webhook_alert(job):
     webhook_url = os.environ.get('PRIORITY_ALERT_WEBHOOK_URL', '').strip()
@@ -486,13 +465,11 @@ def send_followed_company_webhook_alert(job):
     except Exception as e:
         print(f'  [alerts] webhook error: {e}')
 
-
 def is_tech_title_keywords(title):
     t = title.lower()
     if any(s in t for s in HARD_REJECT_SIGNALS):
         return False
     return any(kw in t for kw in TECH_KEYWORDS)
-
 
 def classify_title(title):
     t = title.lower()
@@ -519,7 +496,6 @@ def classify_title(title):
 
     return is_tech_title_keywords(title), False
 
-
 def is_candidate_title(title):
     t = title.lower()
     if any(s in t for s in HARD_REJECT_SIGNALS):
@@ -529,7 +505,6 @@ def is_candidate_title(title):
     if any(kw in t for kw in SUBSTRING_KEYWORDS):
         return True
     return False
-
 
 def is_us_location(location):
     if not location or location.strip() == '':
@@ -548,20 +523,16 @@ def is_us_location(location):
     if any(s in loc for s in US_SIGNALS):
         return True
 
-    # Match state/province abbreviations with word boundary so ', ca' doesn't
-    # fire on 'ZA, Cape Town' and ', ri' doesn't fire on 'SA, Riyadh'.
     if any(re.search(r',\s+' + abbr + r'(?:[^a-z]|$)', loc)
            for abbr in _US_STATE_ABBRS):
         return True
 
     return False
 
-
 OFFCYCLE_SEASONS = (
     'Co-op', 'Fall 2027', 'Spring 2027', 'Winter 2027',
     'Fall 2026', 'Spring 2026', 'Winter 2026', 'Summer 2026',
 )
-
 
 def infer_listing_type(title):
     """Map a job title to (listing_type, season) per CLAUDE.md table rules."""
@@ -612,7 +583,6 @@ def infer_listing_type(title):
 
     return 'Internship', 'Summer 2027'
 
-
 def is_auto_addable(title):
     """Return False for titles that should not be auto-added without manual review."""
     t = title.lower()
@@ -642,14 +612,12 @@ def is_auto_addable(title):
 
     return True
 
-
 def table_for_listing(listing_type, season):
     if listing_type == 'New Grad (Full-Time)':
         return 'newgrad'
     if season in OFFCYCLE_SEASONS:
         return 'offcycle'
     return 'summer'
-
 
 def infer_education_level(title):
     t = title.lower()
@@ -658,7 +626,6 @@ def infer_education_level(title):
     if any(kw in t for kw in ['master', 'ms ', 'm.s.', 'masters', 'meng', 'm.eng']):
         return 'Masters'
     return 'Undergrad'
-
 
 def build_entry(job):
     """Build a listings.json entry dict from a scraped job."""
@@ -681,7 +648,6 @@ def build_entry(job):
     if table == 'newgrad':
         entry['grad_date'] = infer_grad_date(entry['role'], entry['url'])
     return entry
-
 
 def add_job_directly(job, listings_file, rebuild=True):
     try:
@@ -755,7 +721,6 @@ def add_job_directly(job, listings_file, rebuild=True):
     except Exception as e:
         print(f'  [direct] Failed to add "{job.get("title", "unknown")}": {e}')
 
-
 def scrape_greenhouse(company, slug):
     url = f'https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true'
     try:
@@ -782,7 +747,6 @@ def scrape_greenhouse(company, slug):
         print(f'  [{company}] Greenhouse error: {e}')
         return []
 
-
 def scrape_lever(company, slug):
     url = f'https://api.lever.co/v0/postings/{slug}?mode=json'
     try:
@@ -808,7 +772,6 @@ def scrape_lever(company, slug):
     except Exception as e:
         print(f'  [{company}] Lever error: {e}')
         return []
-
 
 def scrape_ashby(company, slug):
     url = f'https://api.ashbyhq.com/posting-api/job-board/{slug}'
@@ -840,7 +803,6 @@ def scrape_ashby(company, slug):
     except Exception as e:
         print(f'  [{company}] Ashby error: {e}')
         return []
-
 
 def scrape_smartrecruiters(company, identifier):
     url = f'https://api.smartrecruiters.com/v1/companies/{identifier}/postings'
@@ -900,7 +862,6 @@ def scrape_smartrecruiters(company, identifier):
 
     return jobs
 
-
 def scrape_workable(company, slug):
     url = f'https://apply.workable.com/api/v1/widget/accounts/{slug}'
     try:
@@ -945,7 +906,6 @@ def scrape_workable(company, slug):
         print(f'  [{company}] Workable error: {e}')
         return []
 
-
 def scrape_recruitee(company, slug):
     url = f'https://{slug}.recruitee.com/api/offers/'
     try:
@@ -989,7 +949,6 @@ def scrape_recruitee(company, slug):
     except Exception as e:
         print(f'  [{company}] Recruitee error: {e}')
         return []
-
 
 def scrape_pinpoint(company, slug):
     url = f'https://{slug}.pinpointhq.com/postings.json'
@@ -1036,7 +995,6 @@ def scrape_pinpoint(company, slug):
         print(f'  [{company}] Pinpoint error: {e}')
         return []
 
-
 def _workday_job_url(base_url, board, external_path):
     path = re.sub(r'^/[a-z]{2}-[A-Z]{2}/[^/]+(?=/job/)', '', external_path)
     if not path.startswith('/job/'):
@@ -1044,7 +1002,6 @@ def _workday_job_url(base_url, board, external_path):
     if board:
         return f'{base_url}/en-US/{board}{path}'
     return f'{base_url}{path}'
-
 
 def scrape_workday(company, tenant, instance, board):
     if board:
@@ -1109,7 +1066,6 @@ def scrape_workday(company, tenant, instance, board):
                 break
 
     return jobs
-
 
 def scrape_linkedin_apify(company, company_id):
     apify_token = os.environ.get('APIFY_TOKEN')
@@ -1177,7 +1133,6 @@ def scrape_linkedin_apify(company, company_id):
 
     return jobs
 
-
 def scrape_amazon():
     base_url = 'https://www.amazon.jobs/en/search.json'
     params = {
@@ -1227,7 +1182,6 @@ def scrape_amazon():
             break
 
     return jobs
-
 
 def create_github_issue(job, token, repo):
     listing_type, season = infer_listing_type(job['title'])
@@ -1315,7 +1269,6 @@ _No response_
     else:
         print(f'  Failed ({resp.status_code}): {resp.text[:200]}')
 
-
 _BOARD_GROUP_BOARDS = {
     'greenhouse': {'greenhouse'},
     'ashby': {'ashby'},
@@ -1323,7 +1276,6 @@ _BOARD_GROUP_BOARDS = {
     'linkedin_amazon': {'linkedin', 'amazon'},
     'other': {'lever', 'smartrecruiters', 'workable', 'recruitee', 'pinpoint'},
 }
-
 
 def main():
     load_gemini_usage()
@@ -1344,7 +1296,6 @@ def main():
     seen = load_seen_jobs()
     followed_companies = load_followed_companies()
 
-    # Build flat list of (scraper_fn, *args) tasks for all companies.
     scrape_tasks = []
 
     for board, scraper in [
@@ -1383,9 +1334,6 @@ def main():
 
     def _run_task(task):
         fn, *args = task
-        # Last element is the board label (for logging), not a real arg for most scrapers.
-        # scrape_workday takes (company, tenant, instance, board_name) — all real args.
-        # For non-workday scrapers the last positional arg is our board label.
         board_label = args[-1]
         scraper_args = args[:-1]
         company = scraper_args[0] if scraper_args else 'Unknown'
@@ -1396,8 +1344,6 @@ def main():
             print(f'  [{company}] Scraper crashed: {e}')
             return []
 
-    # Workday needs all positional args (company, tenant, instance, board_name) so it
-    # doesn't follow the board-label-as-last-arg convention — handle separately.
     def _run_workday_task(task):
         _, company, tenant, instance, board_name, _label = task
         print(f'Checking {company} (workday/{tenant})...')
@@ -1464,8 +1410,6 @@ def main():
     print(f'\nFound {len(new_jobs)} new job(s)')
 
     if PENDING_FILE is not None:
-        # Board-group mode: always write the pending file (even empty) so
-        # git add in the workflow step never fails on a missing file.
         high_confidence_all = [j for j in new_jobs if j.get('confident') == True]
         pending = [build_entry(j) for j in high_confidence_all]
         PENDING_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -1522,7 +1466,6 @@ def main():
     save_gemini_usage()
     print(f'Board group: {BOARD_GROUP or "all"} | Gemini calls today: {_gemini_calls_today}')
     print('Done')
-
 
 if __name__ == '__main__':
     main()
