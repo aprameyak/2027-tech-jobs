@@ -19879,5 +19879,18 @@
     "citizenship": "No",
     "date_added": "2026-07-28",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "QuinStreet",
+    "role": "Entry Level Software Engineer",
+    "location": "Foster City, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.quinstreet.com/careers/?gh_jid=7100468&utm_source=vansh&ref=vansh",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-28",
+    "grad_date": ""
   }
 ]
