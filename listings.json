@@ -15385,5 +15385,18 @@
     "citizenship": "No",
     "date_added": "2026-07-27",
     "grad_date": ""
+  },
+  {
+    "company": "BAE Systems",
+    "role": "Junior Software Engineer",
+    "location": "Hill AFB, UT",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.baesystems.com/global/en/job/BAE1US115338BREXTERNAL/Junior-Software-Engineer",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-27",
+    "grad_date": ""
   }
 ]
