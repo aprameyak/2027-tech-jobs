@@ -3,7 +3,6 @@
 
 import re
 
-
 def infer_grad_date(role, url=''):
     """Return a semester label (e.g. Spring 2027) or empty string if unknown."""
     role = (role or '').strip()

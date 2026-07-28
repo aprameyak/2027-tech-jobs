@@ -38,7 +38,6 @@ def normalize_url(url):
 
 LISTINGS_FILE = Path('listings.json')
 
-
 def parse_issue_body(body):
     fields = {}
     sections = re.split(r'^### ', body, flags=re.MULTILINE)
@@ -53,7 +52,6 @@ def parse_issue_body(body):
         fields[key] = value
     return fields
 
-
 def format_company(company, sponsorship, citizenship):
     flags = ''
     if 'not' in sponsorship.lower() or 'no —' in sponsorship.lower():
@@ -61,7 +59,6 @@ def format_company(company, sponsorship, citizenship):
     if 'yes —' in citizenship.lower():
         flags += ' 🇺🇸'
     return company.strip() + flags
-
 
 _STATE_MAP = {
     'Alabama':'AL','Alaska':'AK','Arizona':'AZ','Arkansas':'AR','California':'CA',
@@ -86,7 +83,6 @@ _COUNTRY_SUFFIX = re.compile(
     r',?\s*(United States of America|United States|USA)\s*$', re.I)
 _CANADA_SUFFIX = re.compile(r',?\s*Canada\s*$', re.I)
 
-
 def _normalize_one_location(loc):
     """Normalize a single location string to City, ST format."""
     loc = loc.strip()
@@ -101,14 +97,12 @@ def _normalize_one_location(loc):
     for name, abbr in _PROV_MAP.items():
         loc = re.sub(rf',\s*{re.escape(name)}\b', f', {abbr}', loc)
     loc = re.sub(r'\s*,\s*', ', ', loc).strip().strip(',').strip()
-    # Normalize unicode city names (e.g. Montréal → Montreal)
     import unicodedata
     loc = ''.join(
         c if unicodedata.category(c) != 'Mn' else ''
         for c in unicodedata.normalize('NFD', loc)
     )
     return loc
-
 
 def format_location(location):
     location = location.strip()
@@ -127,7 +121,6 @@ def format_location(location):
     inner = '</br>'.join(parts)
     return f'<details><summary>**{len(parts)} locations**</summary>{inner}</details>'
 
-
 def determine_table(fields):
     listing_type = fields.get('Listing Type', '')
     season = fields.get('Season / Term', '')
@@ -138,7 +131,6 @@ def determine_table(fields):
         return 'summer'
     else:
         return 'offcycle'
-
 
 def format_row(fields, table_type):
     company = format_company(
@@ -166,11 +158,9 @@ def format_row(fields, table_type):
     else:
         return f'| {company} | {role} | {location} | {education} | {apply_btn} | {date} |'
 
-
 def _company_sort_key(name):
     name = re.sub(r'[\U0001F000-\U0001FFFF\u2600-\u26FF\u2700-\u27BF]', '', name)
     return name.strip().lower()
-
 
 def _parse_date(date_str):
     date_str = date_str.strip()
@@ -182,18 +172,15 @@ def _parse_date(date_str):
             pass
     return None
 
-
 def _get_row_date(row):
     cols = [c.strip() for c in row.split('|')]
     cols = [c for c in cols if c]
     return _parse_date(cols[-1]) if cols else None
 
-
 def _get_row_date_str(row):
     cols = [c.strip() for c in row.split('|')]
     cols = [c for c in cols if c]
     return cols[-1].strip() if cols else ''
-
 
 def insert_row(content, table_marker, row):
     start_marker = f'<!-- TABLE_START {table_marker} -->'
@@ -269,7 +256,6 @@ def insert_row(content, table_marker, row):
     lines.insert(insert_line, row + '\n')
     return content[:header_end] + ''.join(lines) + content[end_idx:]
 
-
 def main():
     body_file = os.environ.get('ISSUE_BODY_FILE', '')
     if body_file and os.path.exists(body_file):
@@ -329,7 +315,6 @@ def main():
         json.dump(listings, f, indent=2)
 
     print('Successfully updated README.md and listings.json')
-
 
 if __name__ == '__main__':
     main()

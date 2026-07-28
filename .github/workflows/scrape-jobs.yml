@@ -182,9 +182,6 @@ jobs:
           fi
 
   apply:
-    # Runs after all scrape jobs finish (even if some fail/timeout).
-    # Pulls the latest commits from all scrape jobs, merges all pending_*.json
-    # files into listings.json, rebuilds README, and commits once.
     needs: [scrape-greenhouse, scrape-ashby, scrape-workday, scrape-linkedin-amazon, scrape-other]
     if: always()
     runs-on: ubuntu-latest

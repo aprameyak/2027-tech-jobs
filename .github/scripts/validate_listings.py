@@ -53,11 +53,9 @@ RS_OK = re.compile(
     re.I,
 )
 
-
 def mark_listing_closed(entry):
     """Mark a listing closed. Only clears url — all other metadata is preserved."""
     entry['url'] = ''
-
 
 VALID_EDUCATION = {'Undergrad', 'Masters', 'PhD',
                    'Undergrad; Masters', 'Undergrad; PhD', 'Masters; PhD',
@@ -66,7 +64,6 @@ VALID_EDUCATION = {'Undergrad', 'Masters', 'PhD',
 VALID_SPONSORSHIP_PREFIXES = ('unknown', 'no —', 'yes —')
 
 COMPANY_EMOJI = re.compile(r'[🛂🇺🇸]')
-
 
 def validate_metadata(entry):
     """Return list of missing required fields."""
@@ -77,7 +74,6 @@ def validate_metadata(entry):
         if field not in entry:
             missing.append(field)
     return missing
-
 
 def validate_field_values(entry):
     """Return list of field value violations."""
@@ -99,7 +95,6 @@ def validate_field_values(entry):
         violations.append('emoji in company field (flags must come from sponsorship/citizenship fields)')
 
     return violations
-
 
 def validate_entry(entry):
     role = entry.get('role', '')
@@ -144,7 +139,6 @@ def validate_entry(entry):
 
     return [(company, role, v) for v in violations]
 
-
 def validate_duplicate_urls(listings):
     """Flag duplicate live URLs."""
     seen = {}
@@ -163,7 +157,6 @@ def validate_duplicate_urls(listings):
         else:
             seen[url] = entry
     return violations
-
 
 def main():
     if not LISTINGS_FILE.exists():
@@ -187,7 +180,6 @@ def main():
 
     print('All listings pass constitution checks')
     sys.exit(0)
-
 
 if __name__ == '__main__':
     main()

@@ -12,12 +12,21 @@ from pathlib import Path
 LISTINGS_FILE = Path('listings.json')
 DATA_DIR = Path('.github/data')
 
-
 def _norm_url(u):
-    u = u.split('?')[0].rstrip('/')
-    u = re.sub(r'(myworkdayjobs\.com)/en-[A-Z]{2}/[^/]+/job/', r'\1/job/', u)
+    if not u:
+        return u
+    u = u.split('?')[0].split('#')[0].rstrip('/')
+    m = re.match(r'(https?://)([^/]+)(.*)', u)
+    if m:
+        scheme, host, path = m.groups()
+        host = host.lower()
+        if host.startswith('www.'):
+            host = host[4:]
+        u = scheme + host + path
+    u = re.sub(r'/application$', '', u)
+    u = re.sub(r'(myworkdayjobs\.com)/(?:[a-z]{2}-[A-Z]{2}/)?[^/]+/job/', r'\1/job/', u)
+    u = re.sub(r'(_(JR|REQ|R)\d+)-\d+$', r'\1', u, flags=re.I)
     return u
-
 
 def main():
     pending_files = sorted(DATA_DIR.glob('pending_*.json'))
@@ -67,7 +76,6 @@ def main():
         print('No pending entries to apply — listings.json unchanged')
     else:
         print('All pending entries were duplicates — listings.json unchanged')
-
 
 if __name__ == '__main__':
     main()

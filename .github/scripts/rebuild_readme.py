@@ -9,11 +9,9 @@ from pathlib import Path
 LISTINGS_FILE = Path('listings.json')
 README_FILE = Path('README.md')
 
-
 def _company_sort_key(name):
     name = re.sub(r'[\U0001F000-\U0001FFFF\u2600-\u26FF\u2700-\u27BF]', '', name)
     return name.strip().lower()
-
 
 def format_company(entry):
     name = entry['company'].strip()
@@ -24,7 +22,6 @@ def format_company(entry):
     if 'yes —' in citizenship.lower():
         name += ' 🇺🇸'
     return name
-
 
 def format_location(location):
     location = location.strip()
@@ -37,14 +34,12 @@ def format_location(location):
     inner = '</br>'.join(parts)
     return f'<details><summary>**{len(parts)} locations**</summary>{inner}</details>'
 
-
 def format_date(date_added):
     try:
         dt = datetime.strptime(date_added, '%Y-%m-%d')
         return dt.strftime('%b %d').replace(' 0', ' ')
     except Exception:
         return date_added
-
 
 def apply_btn(url):
     if not url:
@@ -54,7 +49,6 @@ def apply_btn(url):
         f'<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">'
         f'</a>'
     )
-
 
 def format_row(entry, company_col):
     company = company_col
@@ -74,7 +68,6 @@ def format_row(entry, company_col):
         return f'| {company} | {role} | {location} | {grad_date} | {education} | {btn} | {date} |'
     else:
         return f'| {company} | {role} | {location} | {education} | {btn} | {date} |'
-
 
 def build_table(entries):
     def sort_key(e):
@@ -106,7 +99,6 @@ def build_table(entries):
 
     return rows
 
-
 def replace_table(content, marker, rows):
     start_marker = f'<!-- TABLE_START {marker} -->'
     end_marker = f'<!-- TABLE_END {marker} -->'
@@ -128,7 +120,6 @@ def replace_table(content, marker, rows):
 
     body = '\n'.join(rows) + '\n' if rows else ''
     return content[:start_idx] + header + body + footer
-
 
 def main():
     if not LISTINGS_FILE.exists():
@@ -158,7 +149,6 @@ def main():
         f.write(content)
 
     print('README.md rebuilt successfully')
-
 
 if __name__ == '__main__':
     main()
