@@ -56,6 +56,7 @@ SOFT_404_PHRASES = [
     'this position has closed',
     'position is closed',
     # Generic
+    'this opportunity is currently not available',
     'this opportunity is no longer available',
     'this role is no longer available',
     'this role is no longer open',
