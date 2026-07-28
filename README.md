@@ -582,6 +582,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Base-2 Solutions | Software Engineer | Annapolis Junction, MD |  | Undergrad | <a href="https://phh.tbe.taleo.net/phh01/ats/careers/v2/viewRequisition?org=BASESOLU&cws=37&rid=330" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | Mountain View, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4700278006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Nightwing | Junior Software Engineer (SWE0) | Annapolis Junction, MD |  | Undergrad | <a href="https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Junior-Software-Engineer_01677525" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | ↳ | Junior Software Developer | Annapolis Junction, MD |  | Undergrad | <a href="https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Junior-Software-Developer_JR101126" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
