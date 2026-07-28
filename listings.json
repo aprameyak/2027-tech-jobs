@@ -20035,5 +20035,18 @@
     "citizenship": "No",
     "date_added": "2026-07-28",
     "grad_date": ""
+  },
+  {
+    "company": "N1",
+    "role": "Software Engineer (Backend Rust)",
+    "location": "New York City",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/n1/99a78724-a7eb-4801-9e75-cf4465950567?utm_source=vansh",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-28",
+    "grad_date": ""
   }
 ]
