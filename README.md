@@ -547,6 +547,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | Mountain View, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4700278006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | CACI | Junior Software Engineer | Chantilly, VA |  | Undergrad | <a href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/Chantilly-VA-US/Junior-Software-Engineer_326714" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | Cracker Barrel | Associate Front End Developer | Remote |  | Undergrad | <a href="https://cbrlgroup.wd503.myworkdayjobs.com/en-US/crackerbarrelexternal/job/Remote-Tennessee/Associate-Front-End-Developer_JR19925" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | D3 | Backend Engineer - New Grad | Los Angeles, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/d3/jobs/4915295008" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
