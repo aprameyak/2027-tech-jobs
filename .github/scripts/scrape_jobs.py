@@ -714,8 +714,19 @@ def add_job_directly(job, listings_file, rebuild=True):
             listings = []
 
         def _norm_url(u):
-            u = u.split('?')[0].rstrip('/')
-            u = re.sub(r'(myworkdayjobs\.com)/en-[A-Z]{2}/[^/]+/job/', r'\1/job/', u)
+            if not u:
+                return u
+            u = u.split('?')[0].split('#')[0].rstrip('/')
+            m = re.match(r'(https?://)([^/]+)(.*)', u)
+            if m:
+                scheme, host, path = m.groups()
+                host = host.lower()
+                if host.startswith('www.'):
+                    host = host[4:]
+                u = scheme + host + path
+            u = re.sub(r'/application$', '', u)
+            u = re.sub(r'(myworkdayjobs\.com)/(?:[a-z]{2}-[A-Z]{2}/)?[^/]+/job/', r'\1/job/', u)
+            u = re.sub(r'(_(JR|REQ|R)\d+)-\d+$', r'\1', u, flags=re.I)
             return u
 
         existing_urls = {_norm_url(e.get('url', '')) for e in listings}
