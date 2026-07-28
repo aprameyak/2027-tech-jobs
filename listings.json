@@ -15437,5 +15437,18 @@
     "citizenship": "No",
     "date_added": "2026-07-27",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "Peraton",
+    "role": "Software Engineering, Associate",
+    "location": "Herndon, VA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-27",
+    "grad_date": ""
   }
 ]
