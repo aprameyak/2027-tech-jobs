@@ -582,6 +582,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| 21CS | Graduate Software Engineer | Morehead City, NC |  | Undergrad | <a href="https://recruiting.ultipro.com/VMS1002VMOO/JobBoard/3dde3e78-a60b-47af-93cf-ef6db6ed312b/OpportunityDetail?opportunityId=fa0772d7-fa49-4ce9-b7ae-de1a0da018eb" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | AgentMail | Founding Engineer | San Francisco, CA |  | Undergrad | <a href="https://www.workatastartup.com/jobs/84801" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Amazon | System Development Engineer, macOS MDM, Kuiper Devices & Systems | Bellevue, WA |  | Undergrad | <a href="https://www.amazon.jobs/en/jobs/3117171/system-development-engineer-macos-mdm-kuiper-devices-systems" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | ↳ | System Development Engineer, Amazon Robotics | Arlington, VA |  | Undergrad | <a href="https://www.amazon.jobs/en/jobs/3051896/system-development-engineer-amazon-robotics" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
