@@ -30,7 +30,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
-| Akuna Capital | Python Software Engineer Intern | Chicago, IL | Undergrad | <a href="https://akunacapital.com/careers/job/8018853/?gh_jid=8018853" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Al Warren Oil Company | Software Developer Intern | Bensenville, IL | Undergrad | <a href="https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Appian | Information Security Engineer Intern | McLean, VA | Undergrad | <a href="https://job-boards.greenhouse.io/appian/jobs/8088496" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Apple | Software PhD Internships | Remote | PhD | <a href="https://jobs.apple.com/en-us/details/200664323-3810" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
