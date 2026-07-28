@@ -18436,5 +18436,18 @@
     "citizenship": "No",
     "date_added": "2026-07-28",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "Capgemini",
+    "role": "Full Stack AI Engineer",
+    "location": "New York, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.capgemini.com/job/New-York%2C-NY-Full-Stack-AI-Engineer-NY-10001/1275242401?utm_source=vansh",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-28",
+    "grad_date": ""
   }
 ]
