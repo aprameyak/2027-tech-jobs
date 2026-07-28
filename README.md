@@ -30,7 +30,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
-| ABC News | Product Management and Engineering Intern | New York, NY | Undergrad | <a href="https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Akuna Capital | Python Software Engineer Intern | Chicago, IL | Undergrad | <a href="https://akunacapital.com/careers/job/8018853/?gh_jid=8018853" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Al Warren Oil Company | Software Developer Intern | Bensenville, IL | Undergrad | <a href="https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Appian | Information Security Engineer Intern | McLean, VA | Undergrad | <a href="https://job-boards.greenhouse.io/appian/jobs/8088496" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
@@ -346,6 +345,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Tower Research Capital | Quantitative Trader Intern - Summer 2027 | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> | Undergrad | <a href="https://www.tower-research.com/open-positions/?gh_jid=8024128" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | ↳ | Quantitative Trader Intern, PhD | New York, NY | PhD | <a href="https://www.tower-research.com/open-positions/?gh_jid=8024138" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | ↳ | Quantitative Developer Intern - Summer 2027 | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> | Undergrad | <a href="https://www.tower-research.com/open-positions/?gh_jid=8044334" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
+| ABC News | Product Management and Engineering Intern | New York, NY | Undergrad | 🔒 | Jul 27 |
 | Abundant | Software Engineering Intern, Research Focused | San Francisco, CA | Undergrad | 🔒 | Jul 27 |
 | Altasciences | Process Innovation - Software Engineering Intern | Overland Park, KS | Undergrad | 🔒 | Jul 27 |
 | Altom Transport | Fall Software Development Intern | Hammond, IN | Undergrad | 🔒 | Jul 27 |
