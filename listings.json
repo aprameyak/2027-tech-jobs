@@ -18145,18 +18145,6 @@
     "date_added": "2026-07-28"
   },
   {
-    "company": "Amazon",
-    "role": "Robotics - Software Development Engineer Intern/Co-op",
-    "location": "Sunnyvale, CANorth Reading, MAWestboro, MANashville, TNAustin, TXArlington, VABellevue, WASeattle, WA",
-    "type": "offcycle",
-    "season": "Other",
-    "education": "Undergrad",
-    "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1&utm_source=github-vansh-ouckah",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-28"
-  },
-  {
     "company": "TikTok",
     "role": "LLM Post-training Engineer Intern, Research & Product",
     "location": "San Jose, CA",
@@ -19231,19 +19219,6 @@
     "grad_date": ""
   },
   {
-    "company": "Luma",
-    "role": "Research Scientist / Engineer - Data",
-    "location": "Remote",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/luma-ai/f41a9fc6-40b5-4063-b093-b50ffe919ad8?utm_source=vansh",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-28",
-    "grad_date": ""
-  },
-  {
     "company": "TikTok",
     "role": "New Grad 2026: AI/ML Software Engineer (Data Platform TikTok BP)",
     "location": "San Jose, CA",
@@ -19791,7 +19766,7 @@
   },
   {
     "company": "TikTok",
-    "role": "New Grad 2026: Machine Learning Engineer Graduate (Lead Ads Technology)",
+    "role": "New Grad 2026: Machine Learning Engineer Graduate (Ads Technology)",
     "location": "San Jose, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
