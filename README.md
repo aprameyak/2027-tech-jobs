@@ -1393,7 +1393,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Battelle 🇺🇸 | Early Career Software Engineer | Columbus, OH |  | Undergrad | 🔒 | Jul 24 |
 | Boston Scientific | Software Engineer I - Engineering - Development | Roseville, MN |  | Undergrad | 🔒 | Jul 24 |
 | Capgemini | Full Stack AI Engineer | New York, NY |  | Undergrad | 🔒 | Jul 24 |
-| Capital One | Associate, Software Engineer, New Grad Card Expansion | Toronto, ON |  | Undergrad | 🔒 | Jul 24 |
 | Cellular Sales | Junior Data Engineer | Knoxville, TN |  | Undergrad | 🔒 | Jul 24 |
 | Circle | New Grad 2026: Software Engineer, Backend | Remote (US) | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | Citadel Securities | C++ Software Engineer | Miami, FL |  | Undergrad | 🔒 | Jul 24 |
