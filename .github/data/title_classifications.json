@@ -10930,5 +10930,7 @@
   "intern, distributed spacecraft autonomy": false,
   "manager, credit structures intern": false,
   "pharmacy intern - retail support group": false,
-  "quality & manufacturing intern (fall 2026)": false
+  "quality & manufacturing intern (fall 2026)": false,
+  "software engineer intern": true,
+  "associate software engineer \u2014 cloud services & api platform (c#/azure track)": true
 }
