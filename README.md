@@ -445,7 +445,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
 | Apptronik | Software Engineer Intern - ML Systems | Austin, TX | Fall 2026 | Undergrad | <a href="https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
-| Ciena | Software Liquid Spectrum Applications Intern (Fall 2026) | Ottawa, ON | Fall 2026 | Undergrad | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Clerkie | Software Engineering Co-op MLOps | Remote (US) | Fall 2026 | Undergrad | <a href="http://getfiber.ai/careers?gh_jid=5152467007" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Rivian | Software Engineering Intern - Embedded Platforms - Fall 2026 | Palo Alto, CA | Fall 2026 | Undergrad | <a href="https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Later | Data/Analytics Co-op | Vancouver, BC | Co-op | Undergrad | <a href="https://job-boards.greenhouse.io/later/jobs/8647385002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
@@ -666,7 +665,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | REPAY - Realtime Electronic Payments | Associate Cloud Infrastructure Engineer | Atlanta, GA |  | Undergrad | <a href="https://repay.wd1.myworkdayjobs.com/en-US/repaycareers/job/Atlanta-Headquarters/Associate-Cloud-Infrastructure-Engineer_JR634" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Rocket Companies | Software Developer 1 | Seattle, WA |  | Undergrad | <a href="https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Seattle-WA/Software-Developer-I_R-083083" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | RTX | Software Engineer 1 | Woburn, MA |  | Undergrad | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I--On-Site-_01862626" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
-| ServiceNow 🛂 | Frontend Software Engineer | San Diego, CA |  | Undergrad | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000092424475?utm_source=vansh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Symbotic | New Grad - Software Engineer | Wilmington, MA |  | Undergrad | <a href="https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Tesla | Robotics Systems Engineer, Optimus | Palo Alto, CA |  | Undergrad | <a href="https://www.tesla.com/careers/search/job/256730?utm_source=vansh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | ↳ | Wireless Bluetooth Software Engineer | Palo Alto, CA |  | Undergrad | <a href="https://www.tesla.com/careers/search/job/243519?utm_source=vansh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
@@ -1181,27 +1179,16 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Nuro | Software Engineer, AI Platform - New Grad | Mountain View, CA |  | Undergrad | <a href="https://nuro.ai/careersitem?gh_jid=7351066" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Stripe | Software Engineer, New Grad, Developer & End User Experience Platform | Toronto, ON |  | Undergrad | <a href="https://stripe.com/jobs/search?gh_jid=7991718" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Tower Research Capital | Quantitative Trader - 2027 | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> | Spring 2027 | Undergrad | <a href="https://www.tower-research.com/open-positions/?gh_jid=8024142" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
-| Aflac | Software Engineer I | Columbus, GA |  | Undergrad | 🔒 | Jul 28 |
-| AgentMail | Founding Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
 | Altice USA | Software Dev Engineer I | Plainview, NY |  | Undergrad | 🔒 | Jul 28 |
 | Apple | Junior UI Compositing Engineer | Cupertino, CA |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | Software Engineer, Customer Systems | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | Software Engineer | Austin, TX |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | Software Engineer | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer, IS&T Early Career | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | AIML Resident - Siri Agent Modeling | Cupertino, CA |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | AIML Resident - Robot Learning | Santa Clara, CA |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | AIML Resident - Data Operations Capacity Planning & Analytics | <details><summary>**2 locations**</summary>Seattle, WA</br>Cupertino, CA</details> |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | AIML Resident - Knowledge Answer Quality & Richness | <details><summary>**2 locations**</summary>Seattle, WA</br>Santa Clara, CA</details> |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | AIML Resident - Input Experience NLP | Cupertino, CA |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | AIML Resident - Machine Learning Research | Seattle, WA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | IS&T Early Career Engineering Program Manager | Austin, TX |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer, Xcode Intelligence Experience | Cupertino, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Camera Framework Engineer, Photo Capture | Cupertino, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Wi-Fi Software Systems Performance Engineer | San Diego, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Accessibility Engineer, IS&T, Early Career | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | IS&T Early Career Engineering Program Manager Opportunities | Austin, TX |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | Software Engineer, IS&T | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer, IS&T | Austin, TX |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Cellular Platform Software Engineer, Embedded Analytics | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Embedded System Software Engineer | San Diego, CA |  | Undergrad | 🔒 | Jul 28 |
@@ -1216,7 +1203,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Claim Health (X25) | Founding Engineer | New York, NY |  | Undergrad | 🔒 | Jul 28 |
 | DoorDash | New Grad: Software Engineer I | <details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Los Angeles, CA</br>Seattle, WA</br>Sunnyvale, CA</details> | Spring 2025 | Undergrad | 🔒 | Jul 28 |
 | Duolingo | New Grad: Software Engineer | Pittsburgh, PA |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad: Data Scientist | Pittsburgh, PA |  | Undergrad | 🔒 | Jul 28 |
 | Edgehog Trading | C++ Software Developer – Trading Strategy Execution | Chicago, IL |  | Undergrad | 🔒 | Jul 28 |
 | eMoney Advisor, LLC | Associate Software Engineer | Remote (US) |  | Undergrad | 🔒 | Jul 28 |
 | Google | Software Engineer II, Early Career | <details><summary>**12 locations**</summary>Mountain View, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>San Bruno, CA</br>Seattle, WA</br>Sunnyvale, CA</details> |  | Undergrad | 🔒 | Jul 28 |
@@ -1225,8 +1211,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Greenboard (W24) | New Grad: Software Engineer | New York, NY |  | Undergrad | 🔒 | Jul 28 |
 | Idler 🇺🇸 | Software Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
 | IXL Learning | New Grad: Software Engineer | Raleigh, NC |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad: Software Engineer | Raleigh, NC |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad: Software Engineer | San Mateo, CA |  | Undergrad | 🔒 | Jul 28 |
 | Liva AI | Founding Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
 | Lumenalta | Full Stack Engineer | Remote (Canada) |  | Undergrad | 🔒 | Jul 28 |
 | Maitai | Full-Stack Engineer - Agent Marketplace (In-Person RWC Only) | Redwood City, CA |  | Undergrad | 🔒 | Jul 28 |
@@ -1247,21 +1231,18 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Roblox 🛂 | New Grad 2026: Associate Product Designer | San Mateo, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer - Early Career | San Mateo, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Embedded Software Engineer I | El Segundo, CA |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | Software Engineer | Santa Clara, CA |  | Undergrad | 🔒 | Jul 28 |
+| ServiceNow | Software Engineer | Santa Clara, CA |  | Undergrad | 🔒 | Jul 28 |
 | Sixtyfour (X25) 🇺🇸 | Founding Engineer, AI Research Agents (Full-Stack) | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
 | Spot & Tango | Jr. Software Engineer | New York, NY |  | Undergrad | 🔒 | Jul 28 |
 | Supermicro | Software Engineer | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
 | Supernova Technology | Junior Software Engineer | Chicago, IL |  | Undergrad | 🔒 | Jul 28 |
-| Taro 🇺🇸 | Founding Software Engineer | Palo Alto, CA |  | Undergrad | 🔒 | Jul 28 |
 | Thera 🇺🇸 | Founding Engineer | New York, NY |  | Undergrad | 🔒 | Jul 28 |
 | TikTok | Software Engineer Graduate, Site Reliability Engineering | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Research Scientist Graduate: TikTok Recommendation | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad 2026: Machine Learning Engineer | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: AI/ML Software Engineer (Data Platform TikTok BP) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer Graduate (Video-on-Demand Algorithm) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer Graduate (Data Arch - E-commerce) | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product) | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | Product Manager Ads Attribution and Measurement Graduate (Measurement Signal and Privacy Product) | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer (Commerce Ads) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer (Live Service) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer (Media Engine) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
@@ -1292,7 +1273,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | New Grad 2026: Software Engineer | Los Angeles, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | Uber Technologies, Inc. | Software Engineer I | Seattle, WA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer I, Masters | San Francisco, CA |  | Masters | 🔒 | Jul 28 |
-| Unity Technologies 🛂 | Software Engineer | Remote (US) |  | Undergrad | 🔒 | Jul 28 |
 | 21CS | Graduate Software Engineer | Morehead City, NC |  | Undergrad | 🔒 | Jul 27 |
 | AgentMail | Founding Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 27 |
 | ↳ | System Development Engineer, macOS MDM, Kuiper Devices & Systems | Bellevue, WA |  | Undergrad | 🔒 | Jul 27 |
