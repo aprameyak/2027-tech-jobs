@@ -1244,8 +1244,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Proception Inc | Robotics Software Engineering - Real-Time Control & Embedded Systems | Palo Alto, CA |  | Undergrad | 🔒 | Jul 28 |
 | QuinStreet | Software Engineer | Foster City, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Entry Level Software Engineer | Foster City, CA |  | Undergrad | 🔒 | Jul 28 |
-| Roblox | New Grad 2026: Associate Product Manager | San Mateo, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad 2026: Associate Product Designer | San Mateo, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
+| Roblox 🛂 | New Grad 2026: Associate Product Designer | San Mateo, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer - Early Career | San Mateo, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Embedded Software Engineer I | El Segundo, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer | Santa Clara, CA |  | Undergrad | 🔒 | Jul 28 |
