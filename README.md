@@ -103,7 +103,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | HyperLight | Software Engineer Intern | Cambridge, MA | Undergrad | <a href="https://apply.workable.com/hyperlight/j/5581EA0668/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | IDEXX | Security Operations (Cybersecurity) Intern | Westbrook, ME | Undergrad | <a href="https://idexx.wd1.myworkdayjobs.com/en-US/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | InterDigital | Generative AI Implementation Intern | Conshohocken, PA | Undergrad; Masters | <a href="https://interdigital.wd5.myworkdayjobs.com/en-US/InterDigital_Intern/job/Conshohocken-PA/Generative-AI-Implementation-Intern_REQ26-1093" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
-| Moog | Intern - Software Engineering | Buffalo, NY | Undergrad | <a href="https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Netflix | AI/ML Scientist Intern, AIMS AI Foundation | Los Gatos, CA | Undergrad; PhD | <a href="https://explore.jobs.netflix.net/careers/job/790316547536" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | NewsBreak | Research Intern, Agent RL Training | Mountain View, CA | Undergrad; Masters; PhD | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4684555006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Oracle | GDI Information Security Analyst Intern - OVIP | Reston, VA | Undergrad | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334389" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
@@ -365,6 +364,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Intel | AI Software Engineering Intern | Phoenix, AZ | Undergrad | 🔒 | Jul 23 |
 | ↳ | AI Software Engineering Intern | Hillsboro, OR | Undergrad | 🔒 | Jul 23 |
 | Kearney & Company | IT Audit Intern | Alexandria, VA | Undergrad | 🔒 | Jul 23 |
+| Moog | Intern - Software Engineering | Buffalo, NY | Undergrad | 🔒 | Jul 23 |
 | Nash | Full Stack Engineering Intern | San Francisco, CA | Undergrad | 🔒 | Jul 23 |
 | Neighborly | Application Developer Intern | Irving, TX | Undergrad | 🔒 | Jul 23 |
 | Paragon | Forward Deployed Engineer Intern | San Francisco, CA | Undergrad | 🔒 | Jul 23 |
