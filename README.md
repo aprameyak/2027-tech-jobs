@@ -1201,7 +1201,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Maitai | Full-Stack Engineer - Agent Marketplace (In-Person RWC Only) | Redwood City, CA |  | Undergrad | 🔒 | Jul 28 |
 | McDonald's | Software Engineer 1 | Chicago, IL |  | Undergrad | 🔒 | Jul 28 |
 | NAVEX | Junior Software Engineer | Lake Oswego, OR |  | Undergrad | 🔒 | Jul 28 |
-| Nextdoor | New Grad 2026: Machine Learning Engineer, Machine Learning | Dallas, TX | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | NorthMark Strategies 🛂 | New Grad: Software Engineer | Dallas, TX |  | Undergrad | 🔒 | Jul 28 |
 | Nuro | New Grad: Software Engineer, Autonomy | Mountain View, CA |  | Undergrad | 🔒 | Jul 28 |
 | Old Mission | New Grad 2026: Junior Software Engineer | Chicago, IL | Spring 2026 | Undergrad | 🔒 | Jul 28 |
