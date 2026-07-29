@@ -1235,7 +1235,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | New Grad 2026: Software Engineer Graduate (Recommendation Platform) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Machine Learning Engineer (Monetization Technology - TikTok Ads Creative & Ecosystem) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer Graduate - Data-Search | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad 2026: Software Engineer | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Machine Learning Engineer Graduate -Search E-Commerce | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Machine Learning Engineer - Local Services Search (BS/MS) | San Jose, CA | Spring 2026 | Undergrad; Masters | 🔒 | Jul 28 |
 | ↳ | Site Reliability Engineer Graduate (Compute Platform) | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
