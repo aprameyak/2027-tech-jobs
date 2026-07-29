@@ -1239,7 +1239,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | New Grad 2026: Machine Learning Engineer (Commerce Ads) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | Research Scientist Graduate- CV/NLP/Multimodal LLM, Trust and Safety | Seattle, WA |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad 2026: Software Engineer | Los Angeles, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | Uber Technologies, Inc. | Software Engineer I | Seattle, WA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer I, Masters | San Francisco, CA |  | Masters | 🔒 | Jul 28 |
 | 21CS | Graduate Software Engineer | Morehead City, NC |  | Undergrad | 🔒 | Jul 27 |
