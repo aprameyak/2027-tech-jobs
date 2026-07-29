@@ -1210,17 +1210,9 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Embedded Software Engineer I | El Segundo, CA |  | Undergrad | 🔒 | Jul 28 |
 | Sixtyfour (X25) 🇺🇸 | Founding Engineer, AI Research Agents (Full-Stack) | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
 | Supermicro | Software Engineer | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
-| TikTok | Software Engineer Graduate, Site Reliability Engineering | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad 2026: Software Engineer Graduate (Data Arch - E-commerce) | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product) | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
+| TikTok | Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product) | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer (Live Service) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad 2026: Software Engineer (Media Engine) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad 2026: Software Engineer Graduate (Foundation Platform) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad 2026: Product Manager, Content Ecosystem | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad 2026: Product Manager (SMB) | Austin, TX | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad 2026: Product Manager Graduate (TikTok Shop User Product) | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Machine Learning Engineer (Monetization Technology - TikTok Ads Creative & Ecosystem) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad 2026: Software Engineer Graduate - Data-Search | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Machine Learning Engineer Graduate -Search E-Commerce | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Machine Learning Engineer - Local Services Search (BS/MS) | San Jose, CA | Spring 2026 | Undergrad; Masters | 🔒 | Jul 28 |
 | ↳ | Site Reliability Engineer Graduate (Compute Platform) | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
