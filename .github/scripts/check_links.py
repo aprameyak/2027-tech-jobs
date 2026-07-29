@@ -20,6 +20,7 @@ JS_RENDERED_DOMAINS = [
     'amazon.jobs',
     'eightfold.ai',
     'smartjobboard.com',
+    'brassring.com',
 ]
 
 PLAYWRIGHT_EXTRA_PHRASES = [
@@ -304,8 +305,11 @@ def check_smartrecruiters(url):
     try:
         r = requests.get(api, timeout=10, headers=HEADERS)
         if r.status_code == 200:
+            status = r.json().get('status', '').upper()
+            if status in ('INACTIVE', 'CLOSED', 'EXPIRED'):
+                return False
             return True
-        if r.status_code == 404:
+        if r.status_code in (404, 410):
             return False
     except Exception:
         pass
