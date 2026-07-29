@@ -41,8 +41,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Northrop Grumman | 2027 Returning Intern Software Engineer | Melbourne, FL | Undergrad | <a href="https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Optiver | Software Engineer Intern | Chicago, IL | Undergrad | <a href="https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/?utm_source=github-vansh-ouckah" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | ↳ | Software Engineer Intern | Austin, TX | Undergrad | <a href="https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/?utm_source=github-vansh-ouckah" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
-| ↳ | Software Engineer Intern - Summer 2027 | Chicago, IL | Undergrad | <a href="https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
-| ↳ | Software Engineer Intern - Summer 2027 | Austin, TX | Undergrad | <a href="https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Palantir Technologies | Software Engineer Intern | Washington, DC | Undergrad | <a href="https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0?utm_source=github-vansh-ouckah" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Point72 | Investment Analyst Intern, Point72 Academy | <details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Chicago, IL</br>West Palm Beach, FL</br>Miami, FL</details> | Undergrad | <a href="https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081&utm_source=github-vansh-ouckah" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | ↳ | Quantitative Researcher Intern | New York, NY | Undergrad | <a href="https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295&utm_source=github-vansh-ouckah" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
@@ -346,6 +344,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Quantitative Research Intern (PHD) | Chicago, IL | PhD | 🔒 | Jul 28 |
 | ↳ | Software Engineer Intern | Chicago, IL | Undergrad | 🔒 | Jul 28 |
 | Naïve 🇺🇸 | Software Engineer Intern | <details><summary>**2 locations**</summary>San Francisco, CA</br>Remote (US)</details> | Undergrad | 🔒 | Jul 28 |
+| ↳ | Software Engineer Intern - Summer 2027 | Chicago, IL | Undergrad | 🔒 | Jul 28 |
+| ↳ | Software Engineer Intern - Summer 2027 | Austin, TX | Undergrad | 🔒 | Jul 28 |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Boise, ID | Undergrad | 🔒 | Jul 28 |
 | Susquehanna | Trading System Engineering Intern | Bala Cynwyd, PA | Undergrad | 🔒 | Jul 28 |
 | TETRAMEM | Software Engineer Intern, Embedded | San Jose, CA | Undergrad | 🔒 | Jul 28 |
@@ -678,8 +678,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Quality Assurance Engineer - 2026 New College Grad | Santa Clara, CA | Spring 2026 | Undergrad | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | ↳ | Software Engineer - Physical Design Infrastructure - New College Grad 2026 | Santa Clara, CA | Spring 2026 | Undergrad | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Omnicell | Software Engineer I | Cranberry Township, PA |  | Undergrad | <a href="https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/job/4261?utm_source=vansh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
-| Optiver | Graduate Software Engineer - 2027 Start | Chicago, IL |  | Undergrad | <a href="https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
-| ↳ | Graduate Software Engineer - 2027 Start | Chicago, IL |  | Undergrad | <a href="https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Palantir | Forward Deployed Software Engineer - New Grad - Intel - US Government | Washington, DC |  | Undergrad | <a href="https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | PMG | Graduate Leadership Program - AI and Software Engineering | Dallas, TX |  | Undergrad | <a href="https://job-boards.greenhouse.io/pmg/jobs/8587038002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | ↳ | Graduate Leadership Program - AI and Software Engineering | Dallas, TX |  | Undergrad | <a href="https://job-boards.greenhouse.io/pmg/jobs/8587050002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
@@ -1275,9 +1273,11 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Nuro | New Grad: Software Engineer, Autonomy | Mountain View, CA |  | Undergrad | 🔒 | Jul 28 |
 | Nutanix | Software Engineer 1 / Early Career - Backend C++/Linux/AWS-S3 | Durham, NC |  | Undergrad | 🔒 | Jul 28 |
 | Old Mission | New Grad 2026: Junior Software Engineer | Chicago, IL | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad 2026: Software Engineer | Austin, TX | Spring 2026 | Undergrad | 🔒 | Jul 28 |
+| Optiver | New Grad 2026: Software Engineer | Austin, TX | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer | Chicago, IL | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | Graduate Quantitative Researcher | Austin, TX |  | Undergrad | 🔒 | Jul 28 |
+| ↳ | Graduate Software Engineer - 2027 Start | Chicago, IL |  | Undergrad | 🔒 | Jul 28 |
+| ↳ | Graduate Software Engineer - 2027 Start | Chicago, IL |  | Undergrad | 🔒 | Jul 28 |
 | Phonely | Forward Deployed Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
 | Planbase | Founding Product Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
 | Proception Inc | Robotics Software Engineering - Real-Time Control & Embedded Systems | Palo Alto, CA |  | Undergrad | 🔒 | Jul 28 |
