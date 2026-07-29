@@ -738,7 +738,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | RunSybil | Software Engineer 1 | New York, NY |  | Undergrad | <a href="https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59/application" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Shopify | Infrastructure Engineers | Remote (Canada) |  | Undergrad | <a href="https://www.shopify.com/careers/infrastructure-engineers_202c9f29-47fa-4b55-8cbb-337eed7d92e2" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Softheon | Software Engineer I - Membership | Remote (US) |  | Undergrad | <a href="https://join.softheon.com/_/j/4AFE55D62D" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
-| SquareTrade | Associate Software Engineer | Brisbane, CA |  | Undergrad | <a href="https://jobs.smartrecruiters.com/SquareTrade1/744000045758179-associate-software-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | StubHub | Associate Product Manager - Consumer Experience | New York, NY |  | Undergrad | <a href="https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4648133101" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Tax Relief Advocates | Junior Machine Learning Engineer | Irvine, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | TD Bank | Software Engineer 1 | <details><summary>**2 locations**</summary>Toronto, ON</br>London, ON</details> |  | Undergrad | <a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1501250" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
@@ -1275,6 +1274,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Sonia | Founding AI Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 27 |
 | ↳ | Founding Design Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 27 |
 | Spectrum | Software Engineer I | Englewood, CO |  | Undergrad | 🔒 | Jul 27 |
+| SquareTrade | Associate Software Engineer | Brisbane, CA |  | Undergrad | 🔒 | Jul 27 |
 | Stamp | Founding Full Stack Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 27 |
 | ↳ | Founding Machine Learning Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 27 |
 | Stamp (W25) | Founding Mobile Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 27 |
