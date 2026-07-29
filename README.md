@@ -1177,7 +1177,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Proception Inc | Robotics Software Engineering - Real-Time Control & Embedded Systems | Palo Alto, CA |  | Undergrad | 🔒 | Jul 28 |
 | Roblox 🛂 | New Grad 2026: Associate Product Designer | San Mateo, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | Embedded Software Engineer I | El Segundo, CA |  | Undergrad | 🔒 | Jul 28 |
-| Supermicro | Software Engineer | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
 | TikTok | Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product) | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer (Live Service) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Machine Learning Engineer (Monetization Technology - TikTok Ads Creative & Ecosystem) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
