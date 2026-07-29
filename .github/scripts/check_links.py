@@ -8,6 +8,119 @@ from pathlib import Path
 
 import requests
 
+try:
+    from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+    _PLAYWRIGHT_AVAILABLE = True
+except ImportError:
+    _PLAYWRIGHT_AVAILABLE = False
+
+JS_RENDERED_DOMAINS = [
+    'myworkdayjobs.com',
+    'icims.com',
+    'amazon.jobs',
+    'eightfold.ai',
+    'smartjobboard.com',
+]
+
+PLAYWRIGHT_EXTRA_PHRASES = [
+    'this position is no longer available',
+    'job is not available',
+    'this job is not available',
+    'position not found',
+    'job not found',
+    'sorry, this job',
+    'this role is closed',
+    'this req is no longer accepting',
+    'req is closed',
+    'position has been filled',
+    'this opportunity has closed',
+    'closed - no longer accepting',
+]
+
+
+class PlaywrightChecker:
+    def __init__(self):
+        self._pw = None
+        self._browser = None
+
+    def start(self):
+        if not _PLAYWRIGHT_AVAILABLE:
+            return False
+        try:
+            self._pw = sync_playwright().start()
+            self._browser = self._pw.chromium.launch(headless=True)
+            return True
+        except Exception as e:
+            print(f'  [playwright] Failed to start browser: {e}')
+            self._pw = None
+            self._browser = None
+            return False
+
+    def check(self, url, timeout=20000):
+        if not self._browser:
+            return None
+        page = None
+        try:
+            context = self._browser.new_context(
+                user_agent=(
+                    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '
+                    'AppleWebKit/537.36 (KHTML, like Gecko) '
+                    'Chrome/120.0.0.0 Safari/537.36'
+                ),
+                java_script_enabled=True,
+                ignore_https_errors=True,
+            )
+            page = context.new_page()
+            resp = page.goto(url, wait_until='domcontentloaded', timeout=timeout)
+
+            if resp and resp.status >= 400:
+                return False
+
+            page.wait_for_timeout(2500)
+
+            current_url = page.url
+            if current_url and current_url != url:
+                redirected = current_url.lower()
+                if any(p in redirected for p in ['/jobs/', '/job/', '/careers']):
+                    pass
+                elif 'error' in redirected or '404' in redirected or 'notfound' in redirected:
+                    return False
+
+            try:
+                body_text = page.inner_text('body').lower()
+            except Exception:
+                body_text = page.content().lower()
+
+            all_phrases = SOFT_404_PHRASES + PLAYWRIGHT_EXTRA_PHRASES
+            for phrase in all_phrases:
+                if phrase in body_text:
+                    print(f'    [playwright] soft-404: "{phrase}"')
+                    return False
+
+            return True
+        except PlaywrightTimeoutError:
+            print(f'    [playwright] timeout on {url[:70]}')
+            return None
+        except Exception as e:
+            print(f'    [playwright] error: {e}')
+            return None
+        finally:
+            if page:
+                try:
+                    page.close()
+                    context.close()
+                except Exception:
+                    pass
+
+    def stop(self):
+        try:
+            if self._browser:
+                self._browser.close()
+            if self._pw:
+                self._pw.stop()
+        except Exception:
+            pass
+
 SKIP_ALL_DOMAINS = [
     'careers.ibm.com',
     'www.tesla.com',
@@ -448,12 +561,16 @@ def is_skipped(url):
             return True
     return False
 
-def resolve_url(url, company_board, tenant_board, company=None, gh_boards=None):
+def _needs_playwright(url):
+    return any(d in url for d in JS_RENDERED_DOMAINS)
+
+
+def resolve_url(url, company_board, tenant_board, company=None, gh_boards=None, pw=None):
     """
     Return (resolved_url, is_alive).
     ATS APIs (Greenhouse, Lever, Ashby, SmartRecruiters) first, then site-specific
-    checkers (Apple, Citadel), then universal content-based soft-404 for all
-    custom career sites (Microsoft, Amazon, Google, Workday HTML, iCIMS, etc.).
+    checkers (Apple, Citadel), then Playwright for JS-rendered ATSs, then
+    universal content-based soft-404 for remaining custom career sites.
     """
     if is_skipped(url):
         return url, True
@@ -509,6 +626,17 @@ def resolve_url(url, company_board, tenant_board, company=None, gh_boards=None):
         if result is False:
             return url, False
 
+    if pw and _needs_playwright(url):
+        fixed = fix_workday_url(url, company_board, tenant_board, company)
+        target = fixed if fixed != url else url
+        result = pw.check(target)
+        if result is True:
+            if target != url:
+                print(f'    FIXED (board injection): {target}')
+            return target, True
+        if result is False:
+            return url, False
+
     result = check_http_and_content(url)
     if result is False:
         fixed = fix_workday_url(url, company_board, tenant_board, company)
@@ -520,6 +648,13 @@ def resolve_url(url, company_board, tenant_board, company=None, gh_boards=None):
         return url, False
     if result is True:
         return url, True
+
+    if pw:
+        result = pw.check(url)
+        if result is True:
+            return url, True
+        if result is False:
+            return url, False
 
     return url, True
 
@@ -540,25 +675,36 @@ def main():
     live = [e for e in listings if e.get('url', '').strip()]
     print(f'Checking {len(live)} live URL(s)')
 
+    pw = PlaywrightChecker()
+    pw_available = pw.start()
+    if pw_available:
+        print('  Playwright available — JS-rendered pages will be fully checked')
+    else:
+        print('  Playwright unavailable — JS-rendered pages checked via requests only')
+
     dead_count = 0
     fixed_count = 0
-    for i, entry in enumerate(live, 1):
-        url = entry['url']
-        company = entry.get('company')
-        if i % 50 == 0 or i == 1:
-            print(f'  Progress: {i}/{len(live)}')
-        resolved, alive = resolve_url(
-            url, company_board, tenant_board, company, gh_boards,
-        )
-        if not alive:
-            print(f'  DEAD: {company} — {entry["role"][:50]}')
-            mark_listing_closed(entry)
-            dead_count += 1
-        elif resolved != url:
-            print(f'  FIXED: {company} — {resolved[:70]}')
-            entry['url'] = resolved
-            fixed_count += 1
-        time.sleep(0.25)
+    try:
+        for i, entry in enumerate(live, 1):
+            url = entry['url']
+            company = entry.get('company')
+            if i % 50 == 0 or i == 1:
+                print(f'  Progress: {i}/{len(live)}')
+            resolved, alive = resolve_url(
+                url, company_board, tenant_board, company, gh_boards,
+                pw=pw if pw_available else None,
+            )
+            if not alive:
+                print(f'  DEAD: {company} — {entry["role"][:50]}')
+                mark_listing_closed(entry)
+                dead_count += 1
+            elif resolved != url:
+                print(f'  FIXED: {company} — {resolved[:70]}')
+                entry['url'] = resolved
+                fixed_count += 1
+            time.sleep(0.15)
+    finally:
+        pw.stop()
 
     if dead_count or fixed_count:
         if len(listings) != initial_count:
