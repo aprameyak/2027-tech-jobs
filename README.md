@@ -704,7 +704,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Katalyst Space Technologies | Software Engineer 1 - Model and Simulation | Broomfield, CO |  | Undergrad | <a href="https://job-boards.greenhouse.io/katalyst/jobs/6115352004" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Lexical Intelligence | NLM Software Engineer 1 | Bethesda, MD |  | Undergrad | <a href="https://lexical.bamboohr.com/careers/73" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | LinkSquares | Software Engineer | Remote (US) |  | Undergrad | <a href="https://linksquares.com/careers/open-positions/?gh_jid=4537585005" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
-| Lockheed Martin | AI Platform Engineer | Remote (US) |  | Undergrad | <a href="https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5010&PageType=JobDetails&jobid=792011" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Lumafield | Backend Engineer | San Francisco, CA |  | Undergrad | <a href="https://www.lumafield.com/careers/job?id=fb3e17b3-d7fe-47da-85c3-aecda001e2ed" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Mandolin | New Grad: Front-End Engineer | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/mandolin/30bae6c7-6739-4cd6-97c4-fdb7662edf3b" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | ↳ | New Grad: Forward Deployed Engineer | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/mandolin/703bd697-dd8f-4a42-8df3-999402605c2f" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
@@ -1244,6 +1243,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Leidos | Junior Software Engineer | Columbia, MD |  | Undergrad | 🔒 | Jul 27 |
 | LinkedIn | Associate Product Builder (APB) - Rotational Program | <details><summary>**2 locations**</summary>Mountain View, CA</br>San Francisco, CA</details> |  | Undergrad | 🔒 | Jul 27 |
 | Liva AI | Founding Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 27 |
+| Lockheed Martin | AI Platform Engineer | Remote (US) |  | Undergrad | 🔒 | Jul 27 |
 | Maitai | Full-Stack Engineer - Agent Marketplace (In-Person RWC Only) | Redwood City, CA |  | Undergrad | 🔒 | Jul 27 |
 | Medpace | Junior Data Engineer | Cincinnati, OH |  | Undergrad | 🔒 | Jul 27 |
 | Mitratech | Software Engineer 1 - Assurehire - Go | Remote (US) |  | Undergrad | 🔒 | Jul 27 |
