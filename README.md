@@ -1186,7 +1186,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Aurora Innovation | Software Engineer 1 | Pittsburgh, PA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer 1 | Mountain View, CA |  | Undergrad | 🔒 | Jul 28 |
 | Boerboel | New Grad: Developer | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad: Quantitative Researcher | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> |  | Undergrad | 🔒 | Jul 28 |
 | Capgemini | Full Stack AI Engineer | New York, NY |  | Undergrad | 🔒 | Jul 28 |
 | Citadel Securities | New Grad: Quantitative Research Analyst | <details><summary>**2 locations**</summary>Miami, FL</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer | <details><summary>**2 locations**</summary>Miami, FL</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 28 |
