@@ -1288,6 +1288,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | New Grad 2026: Software Engineer | Chicago, IL | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | Graduate Quantitative Researcher | Austin, TX |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Graduate Software Engineer - 2027 Start | Chicago, IL |  | Undergrad | <a href="https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
+| ↳ | Graduate Software Engineer - 2027 Start | Chicago, IL |  | Undergrad | <a href="https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Phonely | Forward Deployed Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
 | Planbase | Founding Product Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
 | Proception Inc | Robotics Software Engineering - Real-Time Control & Embedded Systems | Palo Alto, CA |  | Undergrad | 🔒 | Jul 28 |
