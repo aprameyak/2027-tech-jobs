@@ -1171,7 +1171,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Google | Software Engineer II, Early Career | <details><summary>**12 locations**</summary>Mountain View, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>San Bruno, CA</br>Seattle, WA</br>Sunnyvale, CA</details> |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer II, Early Career, Google Cloud AI Catalyst Program | <details><summary>**3 locations**</summary>Sunnyvale, CA</br>Kirkland, WA</br>Seattle, WA</details> |  | Undergrad | 🔒 | Jul 28 |
 | IXL Learning | New Grad: Software Engineer | Raleigh, NC |  | Undergrad | 🔒 | Jul 28 |
-| Maitai | Full-Stack Engineer - Agent Marketplace (In-Person RWC Only) | Redwood City, CA |  | Undergrad | 🔒 | Jul 28 |
 | McDonald's | Software Engineer 1 | Chicago, IL |  | Undergrad | 🔒 | Jul 28 |
 | NAVEX | Junior Software Engineer | Lake Oswego, OR |  | Undergrad | 🔒 | Jul 28 |
 | NorthMark Strategies 🛂 | New Grad: Software Engineer | Dallas, TX |  | Undergrad | 🔒 | Jul 28 |
