@@ -1210,7 +1210,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Embedded Software Engineer I | El Segundo, CA |  | Undergrad | 🔒 | Jul 28 |
 | Sixtyfour (X25) 🇺🇸 | Founding Engineer, AI Research Agents (Full-Stack) | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
 | Supermicro | Software Engineer | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
-| Thera 🇺🇸 | Founding Engineer | New York, NY |  | Undergrad | 🔒 | Jul 28 |
 | TikTok | Software Engineer Graduate, Site Reliability Engineering | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer Graduate (Data Arch - E-commerce) | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product) | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
