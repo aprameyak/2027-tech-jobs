@@ -1227,7 +1227,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | IXL Learning | New Grad: Software Engineer | Raleigh, NC |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad: Software Engineer | Raleigh, NC |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad: Software Engineer | San Mateo, CA |  | Undergrad | 🔒 | Jul 28 |
-| Jump Trading | Campus Crypto Researcher | Chicago, IL |  | Undergrad | 🔒 | Jul 28 |
 | Liva AI | Founding Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
 | Lumenalta | Full Stack Engineer | Remote (Canada) |  | Undergrad | 🔒 | Jul 28 |
 | Maitai | Full-Stack Engineer - Agent Marketplace (In-Person RWC Only) | Redwood City, CA |  | Undergrad | 🔒 | Jul 28 |
