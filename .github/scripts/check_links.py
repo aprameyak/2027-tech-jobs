@@ -305,8 +305,9 @@ def check_smartrecruiters(url):
     try:
         r = requests.get(api, timeout=10, headers=HEADERS)
         if r.status_code == 200:
-            status = r.json().get('status', '').upper()
-            if status in ('INACTIVE', 'CLOSED', 'EXPIRED'):
+            data = r.json()
+            # API returns active=False for closed/inactive postings
+            if data.get('active') is False:
                 return False
             return True
         if r.status_code in (404, 410):
