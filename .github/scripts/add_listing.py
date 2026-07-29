@@ -18,6 +18,7 @@ STRIP_PARAMS = {
     'source', 'src', 'ref', 'referer',
     'lever-source', 'lever-origin',
     'gh_src',
+    'spread', 'jr_id', 'token', 'icims',
 }
 
 def normalize_url(url):
