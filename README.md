@@ -1219,7 +1219,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Nextdoor | New Grad 2026: Machine Learning Engineer, Machine Learning | Dallas, TX | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | NorthMark Strategies 🛂 | New Grad: Software Engineer | Dallas, TX |  | Undergrad | 🔒 | Jul 28 |
 | Nuro | New Grad: Software Engineer, Autonomy | Mountain View, CA |  | Undergrad | 🔒 | Jul 28 |
-| Nutanix | Software Engineer 1 / Early Career - Backend C++/Linux/AWS-S3 | Durham, NC |  | Undergrad | 🔒 | Jul 28 |
 | Old Mission | New Grad 2026: Junior Software Engineer | Chicago, IL | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | Optiver | Graduate Software Engineer - 2027 Start | Chicago, IL |  | Undergrad | 🔒 | Jul 28 |
 | Phonely | Forward Deployed Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
@@ -1238,7 +1237,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Thera 🇺🇸 | Founding Engineer | New York, NY |  | Undergrad | 🔒 | Jul 28 |
 | TikTok | Software Engineer Graduate, Site Reliability Engineering | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Research Scientist Graduate: TikTok Recommendation | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad 2026: AI/ML Software Engineer (Data Platform TikTok BP) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer Graduate (Video-on-Demand Algorithm) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer Graduate (Data Arch - E-commerce) | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product) | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
