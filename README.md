@@ -1215,7 +1215,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Thera 🇺🇸 | Founding Engineer | New York, NY |  | Undergrad | 🔒 | Jul 28 |
 | TikTok | Software Engineer Graduate, Site Reliability Engineering | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Research Scientist Graduate: TikTok Recommendation | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad 2026: Software Engineer Graduate (Video-on-Demand Algorithm) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer Graduate (Data Arch - E-commerce) | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product) | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer (Live Service) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
