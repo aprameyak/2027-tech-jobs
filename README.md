@@ -1445,8 +1445,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Aurora Innovation | Software Engineer 1 | Pittsburgh, PA |  | Undergrad | 🔒 | Jul 24 |
 | Battelle 🇺🇸 | Early Career Software Engineer | Columbus, OH |  | Undergrad | 🔒 | Jul 24 |
 | Boston Scientific | Software Engineer I - Engineering - Development | Roseville, MN |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | Software Engineer I - Engineering - Development | Roseville, MN |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | Software Engineer I - Engineering - Development | Roseville, MN |  | Undergrad | 🔒 | Jul 24 |
 | Capgemini | Full Stack AI Engineer | New York, NY |  | Undergrad | 🔒 | Jul 24 |
 | Capital One | Associate, Software Engineer, New Grad Card Expansion | Toronto, ON |  | Undergrad | 🔒 | Jul 24 |
 | Cellular Sales | Junior Data Engineer | Knoxville, TN |  | Undergrad | 🔒 | Jul 24 |
