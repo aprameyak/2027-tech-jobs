@@ -1169,7 +1169,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Boerboel | New Grad: Developer | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> |  | Undergrad | 🔒 | Jul 28 |
 | DoorDash | New Grad: Software Engineer I | <details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Los Angeles, CA</br>Seattle, WA</br>Sunnyvale, CA</details> | Spring 2025 | Undergrad | 🔒 | Jul 28 |
 | Duolingo | New Grad: Software Engineer | Pittsburgh, PA |  | Undergrad | 🔒 | Jul 28 |
-| Edgehog Trading | C++ Software Developer – Trading Strategy Execution | Chicago, IL |  | Undergrad | 🔒 | Jul 28 |
 | Google | Software Engineer II, Early Career | <details><summary>**12 locations**</summary>Mountain View, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>San Bruno, CA</br>Seattle, WA</br>Sunnyvale, CA</details> |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer II, Early Career, Google Cloud AI Catalyst Program | <details><summary>**3 locations**</summary>Sunnyvale, CA</br>Kirkland, WA</br>Seattle, WA</details> |  | Undergrad | 🔒 | Jul 28 |
 | Greenboard (W24) | New Grad: Software Engineer | New York, NY |  | Undergrad | 🔒 | Jul 28 |
