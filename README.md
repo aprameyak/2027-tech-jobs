@@ -338,8 +338,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Quantitative Research Intern (PHD) | Chicago, IL | PhD | 🔒 | Jul 28 |
 | ↳ | Software Engineer Intern | Chicago, IL | Undergrad | 🔒 | Jul 28 |
 | Naïve 🇺🇸 | Software Engineer Intern | <details><summary>**2 locations**</summary>San Francisco, CA</br>Remote (US)</details> | Undergrad | 🔒 | Jul 28 |
-| Optiver | Software Engineer Intern - Summer 2027 | Chicago, IL | Undergrad | 🔒 | Jul 28 |
-| ↳ | Software Engineer Intern - Summer 2027 | Austin, TX | Undergrad | 🔒 | Jul 28 |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Boise, ID | Undergrad | 🔒 | Jul 28 |
 | Susquehanna | Trading System Engineering Intern | Bala Cynwyd, PA | Undergrad | 🔒 | Jul 28 |
 | TETRAMEM | Software Engineer Intern, Embedded | San Jose, CA | Undergrad | 🔒 | Jul 28 |
