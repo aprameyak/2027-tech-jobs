@@ -337,7 +337,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Boise, ID | Undergrad | 🔒 | Jul 28 |
 | Susquehanna | Trading System Engineering Intern | Bala Cynwyd, PA | Undergrad | 🔒 | Jul 28 |
 | TikTok | LLM Post-training Engineer Intern, Research & Product | San Jose, CA | Undergrad | 🔒 | Jul 28 |
-| Trata 🇺🇸 | Research Scientist Intern | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> | Undergrad | 🔒 | Jul 28 |
 | ABC News | Product Management and Engineering Intern | New York, NY | Undergrad | 🔒 | Jul 27 |
 | Abundant | Software Engineering Intern, Research Focused | San Francisco, CA | Undergrad | 🔒 | Jul 27 |
 | Altasciences | Process Innovation - Software Engineering Intern | Overland Park, KS | Undergrad | 🔒 | Jul 27 |
