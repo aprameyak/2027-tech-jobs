@@ -1167,7 +1167,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Stripe | Software Engineer, New Grad, Developer & End User Experience Platform | Toronto, ON |  | Undergrad | <a href="https://stripe.com/jobs/search?gh_jid=7991718" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Tower Research Capital | Quantitative Trader - 2027 | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> | Spring 2027 | Undergrad | <a href="https://www.tower-research.com/open-positions/?gh_jid=8024142" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Apple | Embedded System Software Engineer | San Diego, CA |  | Undergrad | 🔒 | Jul 28 |
-| Aurora Innovation | Software Engineer 1 | Pittsburgh, PA |  | Undergrad | 🔒 | Jul 28 |
 | Boerboel | New Grad: Developer | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> |  | Undergrad | 🔒 | Jul 28 |
 | Capgemini | Full Stack AI Engineer | New York, NY |  | Undergrad | 🔒 | Jul 28 |
 | Citadel Securities | New Grad: Quantitative Research Analyst | <details><summary>**2 locations**</summary>Miami, FL</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 28 |
