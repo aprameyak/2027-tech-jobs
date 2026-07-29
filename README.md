@@ -1221,7 +1221,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineer - Early Career | San Mateo, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Embedded Software Engineer I | El Segundo, CA |  | Undergrad | 🔒 | Jul 28 |
 | Sixtyfour (X25) 🇺🇸 | Founding Engineer, AI Research Agents (Full-Stack) | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
-| Spot & Tango | Jr. Software Engineer | New York, NY |  | Undergrad | 🔒 | Jul 28 |
 | Supermicro | Software Engineer | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
 | Supernova Technology | Junior Software Engineer | Chicago, IL |  | Undergrad | 🔒 | Jul 28 |
 | Thera 🇺🇸 | Founding Engineer | New York, NY |  | Undergrad | 🔒 | Jul 28 |
