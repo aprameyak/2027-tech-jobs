@@ -2019,7 +2019,7 @@
   {
     "company": "Cohere",
     "role": "Software Engineer Intern",
-    "location": "Remote; San Francisco, CA",
+    "location": "Remote (US); San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -2471,7 +2471,7 @@
   {
     "company": "Ramp",
     "role": "Design Engineer, Design Systems",
-    "location": "New York, NY; Remote; San Francisco, CA",
+    "location": "New York, NY; Remote (US); San Francisco, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -3740,7 +3740,7 @@
   {
     "company": "NVIDIA",
     "role": "System Software Engineer - New Grad (Dynamo-Triton)",
-    "location": "Remote; Santa Clara, CA",
+    "location": "Remote (US); Santa Clara, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -20144,7 +20144,7 @@
   {
     "company": "NVIDIA",
     "role": "Compiler Engineer New Grad - Infrastructure",
-    "location": "Austin, TX; Remote - USA; Redmond, WA; Santa Clara, CA",
+    "location": "Austin, TX; Remote (US); Redmond, WA; Santa Clara, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
