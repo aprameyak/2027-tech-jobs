@@ -17716,18 +17716,6 @@
     "date_added": "2026-07-28"
   },
   {
-    "company": "Citadel",
-    "role": "Software Engineer Intern",
-    "location": "New York, NY; Greenwich, CT; Miami, FL; Houston, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-28"
-  },
-  {
     "company": "Susquehanna",
     "role": "Trading System Engineering Intern",
     "location": "Bala Cynwyd, PA",
@@ -18590,19 +18578,6 @@
   {
     "company": "TikTok",
     "role": "New Grad 2026: Software Engineer (Media Engine)",
-    "location": "San Jose, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-28",
-    "grad_date": "Spring 2026"
-  },
-  {
-    "company": "TikTok",
-    "role": "New Grad 2026: Software Engineer (Media Platform)",
     "location": "San Jose, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",

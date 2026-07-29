@@ -328,7 +328,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineering Intern, Masters | Remote (US) | Masters | 🔒 | Jul 28 |
 | ↳ | Software Undergrad Engineering Internships | Remote (US) | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineering Masters Internships | Remote (US) | Masters | 🔒 | Jul 28 |
-| Citadel | Software Engineer Intern | <details><summary>**4 locations**</summary>New York, NY</br>Greenwich, CT</br>Miami, FL</br>Houston, TX</details> | Undergrad | 🔒 | Jul 28 |
 | DimeHealth AI | Forward Deployed Engineering Intern | New York, NY | Undergrad | 🔒 | Jul 28 |
 | Google | Software Engineering Intern | <details><summary>**30 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Bellevue, WA</br>Chicago, IL</br>Houston, TX</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Reston, VA</br>Redmond, WA</br>Redwood City, CA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>South San Francisco, CA</br>Sunnyvale, CA</details> | Undergrad | 🔒 | Jul 28 |
 | IMC | Quantitative Research Intern | Chicago, IL | Undergrad | 🔒 | Jul 28 |
@@ -1236,7 +1235,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | New Grad 2026: Software Engineer (Commerce Ads) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer (Live Service) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer (Media Engine) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad 2026: Software Engineer (Media Platform) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer Graduate (Foundation Platform) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Product Manager, Content Ecosystem | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Product Manager (SMB) | Austin, TX | Spring 2026 | Undergrad | 🔒 | Jul 28 |
