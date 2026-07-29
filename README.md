@@ -1174,7 +1174,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | NAVEX | Junior Software Engineer | Lake Oswego, OR |  | Undergrad | 🔒 | Jul 28 |
 | Old Mission | New Grad 2026: Junior Software Engineer | Chicago, IL | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | Optiver | Graduate Software Engineer - 2027 Start | Chicago, IL |  | Undergrad | 🔒 | Jul 28 |
-| Planbase | Founding Product Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
 | Proception Inc | Robotics Software Engineering - Real-Time Control & Embedded Systems | Palo Alto, CA |  | Undergrad | 🔒 | Jul 28 |
 | QuinStreet | Software Engineer | Foster City, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Entry Level Software Engineer | Foster City, CA |  | Undergrad | 🔒 | Jul 28 |
