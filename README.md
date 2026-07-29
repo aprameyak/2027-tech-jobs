@@ -1179,7 +1179,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Nuro | Software Engineer, AI Platform - New Grad | Mountain View, CA |  | Undergrad | <a href="https://nuro.ai/careersitem?gh_jid=7351066" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Stripe | Software Engineer, New Grad, Developer & End User Experience Platform | Toronto, ON |  | Undergrad | <a href="https://stripe.com/jobs/search?gh_jid=7991718" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Tower Research Capital | Quantitative Trader - 2027 | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> | Spring 2027 | Undergrad | <a href="https://www.tower-research.com/open-positions/?gh_jid=8024142" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
-| Altice USA | Software Dev Engineer I | Plainview, NY |  | Undergrad | 🔒 | Jul 28 |
 | Apple | Junior UI Compositing Engineer | Cupertino, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer, IS&T Early Career | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | AIML Resident - Siri Agent Modeling | Cupertino, CA |  | Undergrad | 🔒 | Jul 28 |
