@@ -331,7 +331,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | IMC | Quantitative Research Intern | Chicago, IL | Undergrad | 🔒 | Jul 28 |
 | ↳ | Quantitative Research Intern (PHD) | Chicago, IL | PhD | 🔒 | Jul 28 |
 | ↳ | Software Engineer Intern | Chicago, IL | Undergrad | 🔒 | Jul 28 |
-| Naïve 🇺🇸 | Software Engineer Intern | <details><summary>**2 locations**</summary>San Francisco, CA</br>Remote (US)</details> | Undergrad | 🔒 | Jul 28 |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Boise, ID | Undergrad | 🔒 | Jul 28 |
 | Susquehanna | Trading System Engineering Intern | Bala Cynwyd, PA | Undergrad | 🔒 | Jul 28 |
 | TikTok | LLM Post-training Engineer Intern, Research & Product | San Jose, CA | Undergrad | 🔒 | Jul 28 |
