@@ -1177,7 +1177,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | IS&T Early Career Engineering Program Manager | Austin, TX |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer, Xcode Intelligence Experience | Cupertino, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Camera Framework Engineer, Photo Capture | Cupertino, CA |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | Wi-Fi Software Systems Performance Engineer | San Diego, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Accessibility Engineer, IS&T, Early Career | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | IS&T Early Career Engineering Program Manager Opportunities | Austin, TX |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer, IS&T | Austin, TX |  | Undergrad | 🔒 | Jul 28 |
