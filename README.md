@@ -1252,7 +1252,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineer | Santa Clara, CA |  | Undergrad | 🔒 | Jul 28 |
 | Sixtyfour (X25) 🇺🇸 | Founding Engineer, AI Research Agents (Full-Stack) | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
 | Spot & Tango | Jr. Software Engineer | New York, NY |  | Undergrad | 🔒 | Jul 28 |
-| Stripe | Software Engineer - New Grad | <details><summary>**2 locations**</summary>Seattle, WA</br>San Francisco, CA</details> |  | Undergrad | 🔒 | Jul 28 |
 | Supermicro | Software Engineer | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
 | Supernova Technology | Junior Software Engineer | Chicago, IL |  | Undergrad | 🔒 | Jul 28 |
 | Taro 🇺🇸 | Founding Software Engineer | Palo Alto, CA |  | Undergrad | 🔒 | Jul 28 |
