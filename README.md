@@ -1252,9 +1252,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Nuro | New Grad: Software Engineer, Autonomy | Mountain View, CA |  | Undergrad | 🔒 | Jul 28 |
 | Nutanix | Software Engineer 1 / Early Career - Backend C++/Linux/AWS-S3 | Durham, NC |  | Undergrad | 🔒 | Jul 28 |
 | Old Mission | New Grad 2026: Junior Software Engineer | Chicago, IL | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| Optiver | New Grad 2026: Software Engineer | Austin, TX | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | New Grad 2026: Software Engineer | Chicago, IL | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | Graduate Quantitative Researcher | Austin, TX |  | Undergrad | 🔒 | Jul 28 |
+| Optiver | Graduate Quantitative Researcher | Austin, TX |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Graduate Software Engineer - 2027 Start | Chicago, IL |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Graduate Software Engineer - 2027 Start | Chicago, IL |  | Undergrad | 🔒 | Jul 28 |
 | Phonely | Forward Deployed Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
