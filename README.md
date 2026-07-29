@@ -1172,7 +1172,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | AIML Resident - Siri Agent Modeling | Cupertino, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer, Xcode Intelligence Experience | Cupertino, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Camera Framework Engineer, Photo Capture | Cupertino, CA |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | Accessibility Engineer, IS&T, Early Career | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | IS&T Early Career Engineering Program Manager Opportunities | Austin, TX |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer, IS&T | Austin, TX |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Cellular Platform Software Engineer, Embedded Analytics | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 28 |
