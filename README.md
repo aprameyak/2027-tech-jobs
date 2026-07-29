@@ -1229,7 +1229,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Roblox 🛂 | New Grad 2026: Associate Product Designer | San Mateo, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer - Early Career | San Mateo, CA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Embedded Software Engineer I | El Segundo, CA |  | Undergrad | 🔒 | Jul 28 |
-| ServiceNow | Software Engineer | Santa Clara, CA |  | Undergrad | 🔒 | Jul 28 |
 | Sixtyfour (X25) 🇺🇸 | Founding Engineer, AI Research Agents (Full-Stack) | San Francisco, CA |  | Undergrad | 🔒 | Jul 28 |
 | Spot & Tango | Jr. Software Engineer | New York, NY |  | Undergrad | 🔒 | Jul 28 |
 | Supermicro | Software Engineer | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
