@@ -17944,45 +17944,6 @@
     "grad_date": ""
   },
   {
-    "company": "Visa",
-    "role": "New Grad 2026: Site Reliability Engineer",
-    "location": "Ashburn, VA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "No \u2014 does NOT offer sponsorship (add \ud83d\udec2 to role title)",
-    "citizenship": "No",
-    "date_added": "2026-07-28",
-    "grad_date": "Spring 2026"
-  },
-  {
-    "company": "Visa",
-    "role": "New Grad 2026: Software Engineer",
-    "location": "Highlands Ranch, CO",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "No \u2014 does NOT offer sponsorship (add \ud83d\udec2 to role title)",
-    "citizenship": "No",
-    "date_added": "2026-07-28",
-    "grad_date": "Spring 2026"
-  },
-  {
-    "company": "Visa",
-    "role": "New Grad 2026: Associate Product Manager (APM)",
-    "location": "Foster City, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "No \u2014 does NOT offer sponsorship (add \ud83d\udec2 to role title)",
-    "citizenship": "No",
-    "date_added": "2026-07-28",
-    "grad_date": "Spring 2026"
-  },
-  {
     "company": "Roblox",
     "role": "New Grad 2026: Associate Product Designer",
     "location": "San Mateo, CA",
@@ -17991,19 +17952,6 @@
     "education": "Undergrad",
     "url": "",
     "sponsorship": "No \u2014 does NOT offer sponsorship (add \ud83d\udec2 to role title)",
-    "citizenship": "No",
-    "date_added": "2026-07-28",
-    "grad_date": "Spring 2026"
-  },
-  {
-    "company": "Zip",
-    "role": "New Grad 2026: Software Engineer",
-    "location": "San Francisco, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3?utm_source=vansh",
-    "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-28",
     "grad_date": "Spring 2026"
@@ -18501,19 +18449,6 @@
     "citizenship": "No",
     "date_added": "2026-07-28",
     "grad_date": "Spring 2026"
-  },
-  {
-    "company": "CrowdStrike",
-    "role": "Engineer 1 New Grad - Data Scientist",
-    "location": "Sunnyvale, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Masters; PhD",
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-28",
-    "grad_date": ""
   },
   {
     "company": "Eulerity",
@@ -19082,7 +19017,7 @@
   {
     "company": "Flow Traders",
     "role": "Graduate Quantitative Trader",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
