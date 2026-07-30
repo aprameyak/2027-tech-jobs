@@ -33,6 +33,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | General Dynamics Information Technology | Systems Engineer Intern | Albany, NY | Masters | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-NY-Albany/Systems-Engineer-Intern_RQ225289-1" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | Leidos | Data Science Intern | San Diego, CA | Undergrad | <a href="https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Data-Science-Intern_R-00188405" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | ↳ | Software Developer Intern | Annapolis Junction, MD | Undergrad | <a href="https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
+| Naïve | Software Engineering Intern | San Francisco, CA | Undergrad | <a href="https://www.workatastartup.com/jobs/94647" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | Quadrillion Labs | Software Engineering Intern | Remote (US) | Undergrad | <a href="https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | Virtu Financial | 2027 Internship - Frontend & User Experience | New York, NY | Undergrad | <a href="https://job-boards.greenhouse.io/virtu/jobs/8657500002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | Apex Technology, Inc. | Software Engineering Intern, Embedded Systems | Los Angeles, CA | Undergrad | <a href="https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11?utm_source=github-vansh-ouckah" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
@@ -339,7 +340,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Altasciences | Process Innovation - Software Engineering Intern | Overland Park, KS | Undergrad | 🔒 | Jul 27 |
 | Apple | Software PhD Internships | Remote (US) | PhD | 🔒 | Jul 27 |
 | Avanade | Software Engineering Intern | <details><summary>**2 locations**</summary>Los Angeles, CA</br>Seattle, WA</details> | Undergrad | 🔒 | Jul 27 |
-| Base Power Company | Quantitative Developer Intern | Austin, TX | Undergrad | 🔒 | Jul 27 |
 | Capital One | Data Analyst Intern | McLean, VA | Undergrad | 🔒 | Jul 27 |
 | Clerkie | Software Engineer Internship | Remote (US) | Undergrad | 🔒 | Jul 27 |
 | Dedalus Labs | Forward Deployed Engineer Intern | San Francisco, CA | Undergrad | 🔒 | Jul 27 |
@@ -416,7 +416,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineering Intern (Masters) | Cupertino, CA | Masters | 🔒 | Jul 10 |
 | BillionToOne | Software Engineering Intern | Menlo Park, CA | Undergrad | 🔒 | Jul 10 |
 | Charles River Analytics | Software Engineering Intern | Cambridge, MA | Undergrad | 🔒 | Jul 10 |
-| Copart | Software Engineering Intern | Dallas, TX | Undergrad | 🔒 | Jul 10 |
 | GenBio AI | Software Engineering Intern | Palo Alto, CA | Undergrad | 🔒 | Jul 10 |
 | LiveRamp | Software Engineer Intern, Pixel Serving | New York, NY | Undergrad | 🔒 | Jul 10 |
 | Podium | Software Engineering Intern | Lehi, UT | Undergrad | 🔒 | Jul 10 |
@@ -805,8 +804,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Candid Health | New Grad: Software Engineer | <details><summary>**3 locations**</summary>San Francisco, CA</br>Denver, CO</br>New York, NY</details> |  | Undergrad | <a href="https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | New Grad: Forward Deployed Software Engineer | <details><summary>**3 locations**</summary>San Francisco, CA</br>Denver, CO</br>New York, NY</details> |  | Undergrad | <a href="https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Citizen Health | Software Engineer | <details><summary>**2 locations**</summary>San Francisco, CA</br>San Mateo, CA</details> |  | Undergrad | <a href="https://jobs.ashbyhq.com/Citizen%20Health/ab0cc0c1-7122-4ca2-8ac9-84d1812b22d4/application" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| ↳ | Software Engineer | <details><summary>**2 locations**</summary>San Francisco, CA</br>San Mateo, CA</details> |  | Undergrad | <a href="https://jobs.ashbyhq.com/Citizen%20Health/0f4048fa-da35-4112-9166-123440a2cb57" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| ↳ | Software Engineer | <details><summary>**2 locations**</summary>San Francisco, CA</br>San Mateo, CA</details> |  | Undergrad | <a href="https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Clipboard Health | Software Engineer, Backend | Remote (US) |  | Undergrad | <a href="https://jobs.ashbyhq.com/clipboard/b83ea62e-f143-4673-a741-3e98e7e083bd" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Commure | New Grad 2026: Software Engineer | Mountain View, CA | Spring 2026 | Undergrad | <a href="https://www.commure.com/careers-detail?ashby_jid=00dbfa4a-986c-4c98-a966-47874d1ff0f8" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Diverge Health | Associate Software Developer | Remote (US) |  | Undergrad | <a href="https://divergehealth.org/jobs/?gh_jid=4840575007" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
@@ -1151,8 +1148,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Nuro | Software Engineer, AI Platform - New Grad | Mountain View, CA |  | Undergrad | <a href="https://nuro.ai/careersitem?gh_jid=7351066" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Stripe | Software Engineer, New Grad, Developer & End User Experience Platform | Toronto, ON |  | Undergrad | <a href="https://stripe.com/jobs/search?gh_jid=7991718" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Tower Research Capital | Quantitative Trader - 2027 | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> | Spring 2027 | Undergrad | <a href="https://www.tower-research.com/open-positions/?gh_jid=8024142" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
-| Capital One | Associate, Software Engineer, New Grad Card Expansion | Toronto, ON |  | Undergrad | 🔒 | Jul 29 |
-| ↳ | Associate, Software Engineer, New Grad Card Expansion | Toronto, ON |  | Undergrad | 🔒 | Jul 29 |
 | Apple | Embedded System Software Engineer | San Diego, CA |  | Undergrad | 🔒 | Jul 28 |
 | Boerboel | New Grad: Developer | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> |  | Undergrad | 🔒 | Jul 28 |
 | DoorDash | New Grad: Software Engineer I | <details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Los Angeles, CA</br>Seattle, WA</br>Sunnyvale, CA</details> | Spring 2025 | Undergrad | 🔒 | Jul 28 |
@@ -1195,7 +1190,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineer I - AI Driven | Hartford, CT |  | Undergrad | 🔒 | Jul 28 |
 | Uber Technologies, Inc. | Software Engineer I | Seattle, WA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer I, Masters | San Francisco, CA |  | Masters | 🔒 | Jul 28 |
-| 21CS | Graduate Software Engineer | Morehead City, NC |  | Undergrad | 🔒 | Jul 27 |
 | AgentMail | Founding Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 27 |
 | ↳ | System Development Engineer, macOS MDM, Kuiper Devices & Systems | Bellevue, WA |  | Undergrad | 🔒 | Jul 27 |
 | ↳ | System Development Engineer, Amazon Robotics | Arlington, VA |  | Undergrad | 🔒 | Jul 27 |
@@ -1549,7 +1543,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Adobe | 2026 University Graduate - Machine Learning Engineer | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 11 |
 | Boerboel | Developer | <details><summary>**2 locations**</summary>Chicago, IL</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 10 |
 | ↳ | Quantitative Researcher | <details><summary>**2 locations**</summary>Chicago, IL</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 10 |
-| Capital One | Associate, Software Engineer, New Grad Card Expansion | Toronto, ON |  | Undergrad | 🔒 | Jul 10 |
 | DoorDash | Software Engineer I | <details><summary>**5 locations**</summary>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Seattle, WA</br>Sunnyvale, CA</details> |  | Undergrad | 🔒 | Jul 10 |
 | Duolingo | Software Engineer | Pittsburgh, PA |  | Undergrad | 🔒 | Jul 10 |
 | ↳ | Data Scientist | Pittsburgh, PA |  | Undergrad | 🔒 | Jul 10 |

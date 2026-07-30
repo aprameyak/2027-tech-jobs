@@ -1415,19 +1415,6 @@
     "date_added": "2026-07-10"
   },
   {
-    "company": "Capital One",
-    "role": "Associate, Software Engineer, New Grad Card Expansion",
-    "location": "Toronto, ON",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10",
-    "grad_date": ""
-  },
-  {
     "company": "Autodesk",
     "role": "Intern, Machine Learning Developer",
     "location": "Toronto, ON",
@@ -2027,18 +2014,6 @@
     "citizenship": "No",
     "date_added": "2026-07-10",
     "grad_date": ""
-  },
-  {
-    "company": "Copart",
-    "role": "Software Engineering Intern",
-    "location": "Dallas, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-10"
   },
   {
     "company": "CTGT",
@@ -12305,32 +12280,6 @@
     "grad_date": ""
   },
   {
-    "company": "Citizen Health",
-    "role": "Software Engineer",
-    "location": "San Francisco, CA; San Mateo, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/Citizen%20Health/0f4048fa-da35-4112-9166-123440a2cb57",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": ""
-  },
-  {
-    "company": "Citizen Health",
-    "role": "Software Engineer",
-    "location": "San Francisco, CA; San Mateo, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": ""
-  },
-  {
     "company": "Clipboard Health",
     "role": "Software Engineer, Backend",
     "location": "Remote (US)",
@@ -16272,19 +16221,6 @@
     "grad_date": ""
   },
   {
-    "company": "21CS",
-    "role": "Graduate Software Engineer",
-    "location": "Morehead City, NC",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-27",
-    "grad_date": ""
-  },
-  {
     "company": "Softheon",
     "role": "Software Engineer I - Membership",
     "location": "Remote (US)",
@@ -16512,18 +16448,6 @@
     "company": "Prospect Equities",
     "role": "Backend / Frontend Developer Intern",
     "location": "Chicago, IL",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-27"
-  },
-  {
-    "company": "Base Power Company",
-    "role": "Quantitative Developer Intern",
-    "location": "Austin, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -19002,19 +18926,6 @@
     "date_added": "2026-07-28"
   },
   {
-    "company": "Capital One",
-    "role": "Associate, Software Engineer, New Grad Card Expansion",
-    "location": "Toronto, ON",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-07-29",
-    "grad_date": ""
-  },
-  {
     "company": "Flow Traders",
     "role": "Graduate Quantitative Trader",
     "location": "New York, NY",
@@ -19022,19 +18933,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8094581",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-07-29",
-    "grad_date": ""
-  },
-  {
-    "company": "Capital One",
-    "role": "Associate, Software Engineer, New Grad Card Expansion",
-    "location": "Toronto, ON",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-07-29",
@@ -19134,6 +19032,18 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-29"
+  },
+  {
+    "company": "Na\u00efve",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://www.workatastartup.com/jobs/94647",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-29"
