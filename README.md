@@ -347,7 +347,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Android Developer Intern | New York, NY | Undergrad | 🔒 | Jul 27 |
 | Fiserv | Application Development Intern | Alpharetta, GA | Undergrad | 🔒 | Jul 27 |
 | ↳ | Technology Intern | Columbus, OH | Undergrad | 🔒 | Jul 27 |
-| ING | Graduate Internship - NFR AI Agent Developer | Waco, TX | Undergrad | 🔒 | Jul 27 |
+| ING | Graduate Internship - NFR AI Agent Developer | Waco, TX | Undergrad; Masters | 🔒 | Jul 27 |
 | Intel Corporation | AI Software Engineering PhD Intern | Hillsboro, OR | PhD | 🔒 | Jul 27 |
 | Intercontinental Exchange, Inc. | Artificial Intelligence, Data & Machine Learning Intern | New York, NY | Undergrad | 🔒 | Jul 27 |
 | Mathtech | Web Application Developer Intern | Falls Church, VA | Undergrad | 🔒 | Jul 27 |
@@ -618,7 +618,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Workday | Software Development Engineer - US Federal | Reston, VA |  | Undergrad | <a href="https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Software-Development-Engineer---US-Federal--Evergreen-_JR-0105759" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | CACI | Early Career NASA Network and Computer Systems Engineer | Houston, TX |  | Masters | <a href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/Houston-TX-US/Early-Career-NASA-Network-and-Computer-Systems-Engineer_329817" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | Flow Traders | Graduate Quantitative Trader | New York, NY |  | Masters; PhD | <a href="https://job-boards.greenhouse.io/flowtraders/jobs/8094581" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
-| 21CS | Graduate Software Engineer | Morehead City, NC |  | Undergrad | <a href="https://recruiting.ultipro.com/VMS1002VMOO/JobBoard/3dde3e78-a60b-47af-93cf-ef6db6ed312b/OpportunityDetail?opportunityId=fa0772d7-fa49-4ce9-b7ae-de1a0da018eb&utm_source=vansh&ref=vansh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
+| 21CS | Graduate Software Engineer | Morehead City, NC |  | Undergrad; Masters | <a href="https://recruiting.ultipro.com/VMS1002VMOO/JobBoard/3dde3e78-a60b-47af-93cf-ef6db6ed312b/OpportunityDetail?opportunityId=fa0772d7-fa49-4ce9-b7ae-de1a0da018eb&utm_source=vansh&ref=vansh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Anduril Industries 🛂 | Air Dominance & Strike - Flight Software Engineer, Embedded C/C++ | Costa Mesa, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=&utm_source=vansh&ref=vansh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | BlackRock | Associate, Quantitative Developer - Model Portfolio Solutions | San Francisco, CA |  | Undergrad | <a href="https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/San-Francisco-CA/Associate--Quantitative-Developer--Model-Portfolio-Solutions--MPS---Multi-Asset-Strategies---Solutions--MASS-_R265714" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Boeing | Advanced Information Technologist - Associate Cloud Engineer | Hazelwood, MO |  | Undergrad | <a href="https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Advanced-Information-Technologist---Associate-Cloud-Engineer_JR2026494282" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
@@ -649,7 +649,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Developer Technology Engineer - AI - New College Grad 2026 | Santa Clara, CA | Spring 2026 | Undergrad | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Grad-2026_JR2014130-1" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | ↳ | Software Quality Assurance Engineer - 2026 New College Grad | Santa Clara, CA | Spring 2026 | Undergrad | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Palantir | Forward Deployed Software Engineer - New Grad - Intel - US Government | Washington, DC |  | Undergrad | <a href="https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
-| PMG | Graduate Leadership Program - AI and Software Engineering | Dallas, TX |  | Undergrad | <a href="https://job-boards.greenhouse.io/pmg/jobs/8587038002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
+| PMG | Graduate Leadership Program - AI and Software Engineering | Dallas, TX |  | Undergrad; Masters | <a href="https://job-boards.greenhouse.io/pmg/jobs/8587038002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Point72 | Quantitative Developer | New York, NY |  | Undergrad | <a href="https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English&utm_source=vansh&ref=vansh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Quora | New Grad: Machine Learning Engineer | Remote (US) |  | Undergrad | <a href="https://jobs.ashbyhq.com/quora/e8acc816-a9af-445d-8135-47599ac9be0f?utm_source=vansh" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Raytheon | Software Engineer 1 | Tewksbury, MA |  | Undergrad | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01861434" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
@@ -679,7 +679,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Brain Co. | Early Career AI/ML Engineer | Remote (US) |  | Undergrad | <a href="https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839/application" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | ByteDance | New Grad 2026: Cloud Network Engineer (Physical Network Infra) | Seattle, WA | Spring 2026 | Undergrad | <a href="https://joinbytedance.com/search/7538433821165259015" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | ↳ | New Grad 2026: Network Engineer (Physical Network Infra) | San Jose, CA | Spring 2026 | Undergrad | <a href="https://joinbytedance.com/search/7538106304578963730" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
-| ↳ | Site Reliability Engineer Graduate [Security Engineering-US] | San Jose, CA |  | Undergrad | <a href="https://jobs.bytedance.com/en/position/7534838755829696776/detail?spread=BSPP2KS" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
+| ↳ | Site Reliability Engineer Graduate [Security Engineering-US] | San Jose, CA |  | Undergrad; Masters | <a href="https://jobs.bytedance.com/en/position/7534838755829696776/detail?spread=BSPP2KS" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | ↳ | New Grad 2026: Software Engineer, Authorization-US | San Jose, CA | Spring 2026 | Undergrad | <a href="https://jobs.bytedance.com/en/position/7531126749275851026/detail?spread=BSPP2KS" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Cadence Design Systems | Software Engineer 1 | San Jose, CA |  | Undergrad | <a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-I_R53009" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Chainlink Labs | Software Engineer 1 | <details><summary>**4 locations**</summary>Las Vegas, NV</br>Tampa, FL</br>Charlotte, NC</br>Phoenix, AZ</details> |  | Undergrad | <a href="https://jobs.ashbyhq.com/chainlink-labs/8485e325-111f-4370-b3c6-0ed95872144f/application" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
@@ -772,7 +772,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | mthree | Junior Production Support/SRE Analyst | Toronto, ON |  | Undergrad | <a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | ↳ | Junior Production Support/SRE Analyst | Halifax, NS |  | Undergrad | <a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | ↳ | Développeur génie logiciel / Junior Software Developer  – Canada (Montreal) | Montreal, QC |  | Undergrad | <a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4628952006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
-| ↳ | Analyste au soutien à la production / Graduate Production Support Analyst – Canada (Montreal) | Montreal, QC |  | Undergrad | <a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374765006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
+| ↳ | Analyste au soutien à la production / Graduate Production Support Analyst – Canada (Montreal) | Montreal, QC |  | Undergrad; Masters | <a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374765006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | NewsBreak | NewsBreak Venture, AI Growth Intelligence Engineer (New Grad） | Mountain View, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4694899006" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | Nexxen | Software Engineer 1 - DSP Runtime | New York, NY |  | Undergrad | <a href="https://jobs.ashbyhq.com/nexxen/53cbef54-13b1-4539-9a18-bdd0c3431d32" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | Northrop Grumman 🛂 🇺🇸 | Associate Software Engineer / Software Engineer | Melbourne, FL |  | Undergrad | <a href="https://jobs.northropgrumman.com/careers/apply?pid=1340072788216" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
@@ -817,7 +817,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Global Payments | Site Reliability Engineer I | Tempe, AZ |  | Undergrad | <a href="https://tsys.wd1.myworkdayjobs.com/en-US/tsys/job/TEMPE-ARIZONA/Site-Reliability-Engineer-I_R0072593" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Honeywell 🇺🇸 | Software Engineer I | Fort Mill, SC |  | Undergrad | <a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Software Engineer I | Clearwater, FL |  | Undergrad | <a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| HP | Software Development Graduate Roles | Spring, TX |  | Undergrad | <a href="https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate-Roles_3165699" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| HP | Software Development Graduate Roles | Spring, TX |  | Undergrad; Masters | <a href="https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate-Roles_3165699" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | IBM | Software Developer | <details><summary>**14 locations**</summary>Sandy Springs, GA</br>Poughkeepsie, NY</br>Lowell, MA</br>Rochester, MN</br>Tucson, AZ</br>Research Triangle Park, NC</br>Durham, NC</br>Hopewell Junction, NY</br>San Jose, CA</br>Dallas, TX</br>Houston, TX</br>Austin, TX</br>Herndon, VA</br>New York, NY</details> |  | Undergrad | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Lambda 🛂 | Cloud Support Engineer I (Support Response) | Remote (US) |  | Undergrad | <a href="https://jobs.ashbyhq.com/lambda/1b1cac37-a29c-46b2-ad1a-a946d1e87d41" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Lyft | Software Engineer, Rider | New York, NY |  | Undergrad | <a href="https://app.careerpuck.com/job-board/lyft/job/8022809002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
@@ -994,7 +994,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Steampunk | Junior Data Analyst | El Paso, TX |  | Undergrad | <a href="https://careers-steampunk.icims.com/jobs/7740/job" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Strada | Software Engineer New Grad | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/stradahq/626411c6-808e-4eb2-b28d-76f5d88e0af6" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Texas Instruments | New College Graduate - IT Software Development Engineer | Dallas, TX |  | Undergrad | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25008815" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
-| Thoughtworks | Associate-Graduate Developer | Chicago, IL |  | Undergrad | <a href="https://www.thoughtworks.com/careers/jobs/8037730?gh_jid=8037730" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
+| Thoughtworks | Associate-Graduate Developer | Chicago, IL |  | Undergrad; Masters | <a href="https://www.thoughtworks.com/careers/jobs/8037730?gh_jid=8037730" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Titan | New Grad Product Engineer | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/titan-msp/6ba1f660-6436-42f6-aaab-80ca931e8339" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Traba | Software Engineer New Grad | New York, NY |  | Undergrad | <a href="https://jobs.ashbyhq.com/traba/90d6307c-1bb1-4abf-8e73-7afa6a7e0a70" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Travelers | Software Engineer I - Guidewire Policy Configuration | Hartford, CT |  | Undergrad | <a href="https://travelers.wd5.myworkdayjobs.com/en-US/external/job/CT---Hartford/Software-Engineer-I---Guidewire-Policy-Configuration_R-51545" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
@@ -1030,18 +1030,18 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Associate Product Manager - Network MDM | Toronto, ON |  | Undergrad | <a href="https://jobs.lever.co/veeva/f93df5c6-7b1f-4aa5-9f16-96a904302c3b" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | Amazon | Software Development Engineer | Seattle, WA | Spring 2026 | Undergrad | <a href="https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Aurora | Security Software Engineer I | Mountain View, CA |  | Undergrad | <a href="https://aurora.tech/careers/8137861002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
-| ByteDance | Backend Software Engineer Graduate | San Jose, CA |  | Undergrad | <a href="https://joinbytedance.com/search/7527678842316998919" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
-| ↳ | Software Engineer Graduate - AI Applications | San Jose, CA |  | Undergrad | <a href="https://joinbytedance.com/search/7540808448918079752" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
-| ↳ | Software Engineer Graduate - Dev Infrastructure | San Jose, CA |  | Undergrad | <a href="https://joinbytedance.com/search/7536272435440716040" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
-| ↳ | Software Engineer Graduate - ML Systems | San Jose, CA |  | Undergrad | <a href="https://joinbytedance.com/search/7265752342699837757" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
-| ↳ | Machine Learning Engineer Graduate - eCommerce User Growth | Seattle, WA |  | Undergrad | <a href="https://joinbytedance.com/search/7542674819873081608" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
-| ↳ | Site Reliability Engineer Graduate - Edge Services | San Jose, CA |  | Undergrad | <a href="https://joinbytedance.com/search/7540061337369954567" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
+| ByteDance | Backend Software Engineer Graduate | San Jose, CA |  | Undergrad; Masters | <a href="https://joinbytedance.com/search/7527678842316998919" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
+| ↳ | Software Engineer Graduate - AI Applications | San Jose, CA |  | Undergrad; Masters | <a href="https://joinbytedance.com/search/7540808448918079752" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
+| ↳ | Software Engineer Graduate - Dev Infrastructure | San Jose, CA |  | Undergrad; Masters | <a href="https://joinbytedance.com/search/7536272435440716040" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
+| ↳ | Software Engineer Graduate - ML Systems | San Jose, CA |  | Undergrad; Masters | <a href="https://joinbytedance.com/search/7265752342699837757" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
+| ↳ | Machine Learning Engineer Graduate - eCommerce User Growth | Seattle, WA |  | Undergrad; Masters | <a href="https://joinbytedance.com/search/7542674819873081608" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
+| ↳ | Site Reliability Engineer Graduate - Edge Services | San Jose, CA |  | Undergrad; Masters | <a href="https://joinbytedance.com/search/7540061337369954567" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Cape | Software Engineer | <details><summary>**2 locations**</summary>New York, NY</br>Washington, DC</details> |  | Undergrad | <a href="https://jobs.ashbyhq.com/Cape/bd280ded-4298-47de-a186-1aebd1bd94b8" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Eventual | Software Engineer | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Revionics | Machine Learning Engineer | <details><summary>**2 locations**</summary>Austin, TX</br>Atlanta, GA</details> |  | Undergrad | <a href="https://revionics.com/about/careers/open-jobs?gh_jid=7172125" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Anduril | Projects to Close (PTC) Associate Product Manager | Seattle, WA |  | Undergrad | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5172273007?gh_jid=5172273007" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 18 |
-| Verkada | Technical Support Engineer - University Graduate 2026 | San Mateo, CA | Spring 2026 | Undergrad | <a href="https://job-boards.greenhouse.io/verkada/jobs/4715534007" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 18 |
-| ↳ | Technical Support Engineer - University Graduate 2026 | New York, NY | Spring 2026 | Undergrad | <a href="https://job-boards.greenhouse.io/verkada/jobs/5172974007" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 18 |
+| Verkada | Technical Support Engineer - University Graduate 2026 | San Mateo, CA | Spring 2026 | Undergrad; Masters | <a href="https://job-boards.greenhouse.io/verkada/jobs/4715534007" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 18 |
+| ↳ | Technical Support Engineer - University Graduate 2026 | New York, NY | Spring 2026 | Undergrad; Masters | <a href="https://job-boards.greenhouse.io/verkada/jobs/5172974007" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 18 |
 | Anyscale | Software Engineer, New Grad | <details><summary>**2 locations**</summary>San Francisco, CA</br>Palo Alto, CA</details> |  | Undergrad | <a href="https://jobs.ashbyhq.com/anyscale/31d09081-f5e7-45e4-b561-1c53d0ca9200" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
 | Ellipsis Labs | Software Engineer, New Grad | New York, NY |  | Undergrad | <a href="https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d/application" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
 | Figma | Software Engineer, Full Stack | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> |  | Undergrad | <a href="https://job-boards.greenhouse.io/figma/jobs/5691911004" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
@@ -1156,7 +1156,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Eluvio | Software Engineer, AI Core Apps | Berkeley, CA |  | Undergrad | 🔒 | Jul 30 |
 | Garmin | Software Engineer I - Aviation Web Development | <details><summary>**2 locations**</summary>Chandler, AZ</br>Olathe, KS</details> |  | Undergrad | 🔒 | Jul 30 |
 | Thorlabs | Software Engineer I | Annapolis Junction, MD |  | Undergrad | 🔒 | Jul 30 |
-| GE HealthCare | Graduate Engineer Trainee | Remote (US) |  | Undergrad | 🔒 | Jul 29 |
+| GE HealthCare | Graduate Engineer Trainee | Remote (US) |  | Undergrad; Masters | 🔒 | Jul 29 |
 | Apple | Embedded System Software Engineer | San Diego, CA |  | Undergrad | 🔒 | Jul 28 |
 | Boerboel | New Grad: Developer | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> |  | Undergrad | 🔒 | Jul 28 |
 | DoorDash | New Grad: Software Engineer I | <details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Los Angeles, CA</br>Seattle, WA</br>Sunnyvale, CA</details> | Spring 2025 | Undergrad | 🔒 | Jul 28 |
@@ -1171,19 +1171,19 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Systems Software Engineer - Accelerated Kubernetes Performance and Scale - New College Grad 2026 | Santa Clara, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer - Physical Design Infrastructure - New College Grad 2026 | Santa Clara, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | Old Mission | New Grad 2026: Junior Software Engineer | Chicago, IL | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| Optiver | Graduate Software Engineer - 2027 Start | Chicago, IL |  | Undergrad | 🔒 | Jul 28 |
+| Optiver | Graduate Software Engineer - 2027 Start | Chicago, IL |  | Undergrad; Masters | 🔒 | Jul 28 |
 | Proception Inc | Robotics Software Engineering - Real-Time Control & Embedded Systems | Palo Alto, CA |  | Undergrad | 🔒 | Jul 28 |
 | REPAY - Realtime Electronic Payments | Associate Cloud Infrastructure Engineer | Atlanta, GA |  | Undergrad | 🔒 | Jul 28 |
 | Roblox 🛂 | New Grad 2026: Associate Product Designer | San Mateo, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | Embedded Software Engineer I | El Segundo, CA |  | Undergrad | 🔒 | Jul 28 |
 | Symbotic | New Grad - Software Engineer | Wilmington, MA |  | Undergrad | 🔒 | Jul 28 |
-| TikTok | Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product) | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
+| TikTok | Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product) | San Jose, CA |  | Undergrad; Masters | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer (Live Service) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Machine Learning Engineer (Monetization Technology - TikTok Ads Creative & Ecosystem) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Machine Learning Engineer Graduate -Search E-Commerce | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Machine Learning Engineer - Local Services Search (BS/MS) | San Jose, CA | Spring 2026 | Undergrad; Masters | 🔒 | Jul 28 |
-| ↳ | Site Reliability Engineer Graduate (Compute Platform) | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
-| ↳ | Frontend Engineer Graduate, Trust and Safety | San Jose, CA |  | Undergrad | 🔒 | Jul 28 |
+| ↳ | Site Reliability Engineer Graduate (Compute Platform) | San Jose, CA |  | Undergrad; Masters | 🔒 | Jul 28 |
+| ↳ | Frontend Engineer Graduate, Trust and Safety | San Jose, CA |  | Undergrad; Masters | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Machine Learning Engineer (Brand Ads) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer Graduate (Data Platfrom TikTok BP) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Machine Learning Engineer - Data - Search | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
@@ -1194,7 +1194,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | New Grad 2026: Machine Learning Engineer Graduate (Ads Technology) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Machine Learning Engineer (Commerce Ads) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 28 |
-| ↳ | Research Scientist Graduate- CV/NLP/Multimodal LLM, Trust and Safety | Seattle, WA |  | Undergrad | 🔒 | Jul 28 |
+| ↳ | Research Scientist Graduate- CV/NLP/Multimodal LLM, Trust and Safety | Seattle, WA |  | Undergrad; Masters | 🔒 | Jul 28 |
 | ↳ | Software Engineer I - AI Driven | Hartford, CT |  | Undergrad | 🔒 | Jul 28 |
 | Uber Technologies, Inc. | Software Engineer I | Seattle, WA |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineer I, Masters | San Francisco, CA |  | Masters | 🔒 | Jul 28 |
@@ -1216,15 +1216,15 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | CACI | Junior C# Software Engineer | Bethesda, MD |  | Undergrad | 🔒 | Jul 27 |
 | Caddy | Founding Engineer | New York, NY |  | Undergrad | 🔒 | Jul 27 |
 | Channel3 | Founding Engineer | New York, NY |  | Undergrad | 🔒 | Jul 27 |
-| Citadel | Quantitative Trader: Equity Quantitative Research – University Graduate | New York, NY |  | Undergrad | 🔒 | Jul 27 |
-| ↳ | Quantitative Research Analyst University Graduate | <details><summary>**3 locations**</summary>Greenwich, CT</br>Miami, FL</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 27 |
+| Citadel | Quantitative Trader: Equity Quantitative Research – University Graduate | New York, NY |  | Undergrad; Masters | 🔒 | Jul 27 |
+| ↳ | Quantitative Research Analyst University Graduate | <details><summary>**3 locations**</summary>Greenwich, CT</br>Miami, FL</br>New York, NY</details> |  | Undergrad; Masters | 🔒 | Jul 27 |
 | Claim Health (X25) | Founding Engineer | New York, NY |  | Undergrad | 🔒 | Jul 27 |
 | Collective Hub, Inc | New Grad: Software Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 27 |
 | Corgi | Full Stack Engineer | Atlanta, GA |  | Undergrad | 🔒 | Jul 27 |
 | CoStar Group | Software Engineer 1 CoStar Suite | Arlington, VA |  | Undergrad | 🔒 | Jul 27 |
 | Cryptic Vector | Full Stack Developer | Cincinnati, OH |  | Undergrad | 🔒 | Jul 27 |
 | CVS Health | Associate Software Engineer | Irving, TX |  | Undergrad | 🔒 | Jul 27 |
-| Da Vinci | Graduate C++ Software Engineer | Miami, FL |  | Undergrad | 🔒 | Jul 27 |
+| Da Vinci | Graduate C++ Software Engineer | Miami, FL |  | Undergrad; Masters | 🔒 | Jul 27 |
 | Databricks | AI Tooling Program Engineer | Remote (US) |  | Undergrad | 🔒 | Jul 27 |
 | Detroit Defense | Software Test Engineer | Troy, MI |  | Undergrad | 🔒 | Jul 27 |
 | Doppel | Software Engineer | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 27 |
@@ -1288,9 +1288,9 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Symbotic | New Grad- Software Engineer | Wilmington, MA |  | Undergrad | 🔒 | Jul 27 |
 | Taro | Founding Software Engineer | Palo Alto, CA |  | Undergrad | 🔒 | Jul 27 |
 | Thera | Founding Engineer | New York, NY |  | Undergrad | 🔒 | Jul 27 |
-| TikTok | Machine Learning Engineer Graduate (TikTok Short Video Content Understanding/Multimodal Recommendation) | San Jose, CA |  | Undergrad | 🔒 | Jul 27 |
+| TikTok | Machine Learning Engineer Graduate (TikTok Short Video Content Understanding/Multimodal Recommendation) | San Jose, CA |  | Undergrad; Masters | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Software Engineer Graduate PGC | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
-| ↳ | SDET, Software Development Engineer in Test Graduate (TikTok Eng Test-Privacy Product) | San Jose, CA |  | Undergrad | 🔒 | Jul 27 |
+| ↳ | SDET, Software Development Engineer in Test Graduate (TikTok Eng Test-Privacy Product) | San Jose, CA |  | Undergrad; Masters | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Software Engineer Graduate Open Platform | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Software Engineer Graduate Product Infrastructure | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Software Engineer Graduate Search | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
@@ -1300,23 +1300,23 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | New Grad 2026: Software Engineer Graduate Mobile Reliability (Android) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Data Engineer (Data Platfrom TikTok BP) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Data Engineer (E-commerce) | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
-| ↳ | Frontend Engineer Graduate, Trust and Safety | Seattle, WA |  | Undergrad | 🔒 | Jul 27 |
+| ↳ | Frontend Engineer Graduate, Trust and Safety | Seattle, WA |  | Undergrad; Masters | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Software Engineer Graduate (Monetization Technology - Brand Ads) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Software Engineer Graduate Social | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Software Engineer Graduate (Data Arch - Data Ecosystem ) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
-| ↳ | Site Reliability Engineer Graduate (Compute Platform) | Seattle, WA |  | Undergrad | 🔒 | Jul 27 |
+| ↳ | Site Reliability Engineer Graduate (Compute Platform) | Seattle, WA |  | Undergrad; Masters | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Software Engineer Graduate (Data Arch - ShortText Rec) (BS/MS) | San Jose, CA | Spring 2026 | Undergrad; Masters | 🔒 | Jul 27 |
-| ↳ | Product Security Engineer Graduate (Security Assurance) | Seattle, WA |  | Undergrad | 🔒 | Jul 27 |
-| ↳ | SDET, Software Development Engineer in Test Graduate (TikTok Eng Test-PGC) | San Jose, CA |  | Undergrad | 🔒 | Jul 27 |
+| ↳ | Product Security Engineer Graduate (Security Assurance) | Seattle, WA |  | Undergrad; Masters | 🔒 | Jul 27 |
+| ↳ | SDET, Software Development Engineer in Test Graduate (TikTok Eng Test-PGC) | San Jose, CA |  | Undergrad; Masters | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Software Engineer (Ads ML Infrastructure) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Machine Learning/Research Engineer (Ads Core Global) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Demonstration) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Software Engineer Graduate Live-Foundation-Ecosystem | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
-| ↳ | Software Development Engineer in Test Graduate (Trust and Safety) | San Jose, CA |  | Undergrad | 🔒 | Jul 27 |
+| ↳ | Software Development Engineer in Test Graduate (Trust and Safety) | San Jose, CA |  | Undergrad; Masters | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Software Engineer Graduate Music | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Software Engineer Graduate (Monetization Technology - Ads Creative) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Engineer (Backend Software Engineer, Trust and Safety- Seattle) | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
-| ↳ | Research Scientist Graduate- CV/NLP/Multimodal LLM, Trust and Safety | San Jose, CA |  | Undergrad | 🔒 | Jul 27 |
+| ↳ | Research Scientist Graduate- CV/NLP/Multimodal LLM, Trust and Safety | San Jose, CA |  | Undergrad; Masters | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Software Engineer Graduate (Ads Measurement Signal Technology) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Software Engineer Graduate Short Video (BS/MS) | Seattle, WA | Spring 2026 | Undergrad; Masters | 🔒 | Jul 27 |
 | ↳ | New Grad 2026: Backend Engineer Graduate, Risk and Response | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 27 |
@@ -1437,8 +1437,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | New Grad 2026: AI/ML Software Engineer (Data Platform TikTok BP) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Software Engineer Graduate (Video-on-Demand Algorithm) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Software Engineer Graduate (Data Arch - E-commerce) | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
-| ↳ | Product Manager Ads Measurement Graduate | San Jose, CA |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | Product Manager Ads Attribution and Measurement Graduate | San Jose, CA |  | Undergrad | 🔒 | Jul 24 |
+| ↳ | Product Manager Ads Measurement Graduate | San Jose, CA |  | Undergrad; Masters | 🔒 | Jul 24 |
+| ↳ | Product Manager Ads Attribution and Measurement Graduate | San Jose, CA |  | Undergrad; Masters | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Software Engineer (Media Engine) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Software Engineer (Media Platform) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Software Engineer Graduate (Foundation Platform) | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
@@ -1481,13 +1481,13 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineer, ML Tools | Mountain View, CA |  | Undergrad | 🔒 | Jul 23 |
 | Whoop | Software Engineer 1 - Frontend | Boston, MA |  | Undergrad | 🔒 | Jul 23 |
 | ↳ | Software Engineer 1 - Backend | Boston, MA |  | Undergrad | 🔒 | Jul 23 |
-| Adobe | 2026 University Graduate - AI Context Engineer | <details><summary>**2 locations**</summary>San Jose, CA</br>San Francisco, CA</details> | Spring 2026 | Undergrad | 🔒 | Jul 20 |
-| ↳ | 2026 University Graduate - Application Security Engineer | <details><summary>**2 locations**</summary>San Jose, CA</br>San Francisco, CA</details> | Spring 2026 | Undergrad | 🔒 | Jul 20 |
-| ↳ | 2026 University Graduate - Software Engineer | San Jose, CA | Spring 2026 | Undergrad | 🔒 | Jul 20 |
+| Adobe | 2026 University Graduate - AI Context Engineer | <details><summary>**2 locations**</summary>San Jose, CA</br>San Francisco, CA</details> | Spring 2026 | Undergrad; Masters | 🔒 | Jul 20 |
+| ↳ | 2026 University Graduate - Application Security Engineer | <details><summary>**2 locations**</summary>San Jose, CA</br>San Francisco, CA</details> | Spring 2026 | Undergrad; Masters | 🔒 | Jul 20 |
+| ↳ | 2026 University Graduate - Software Engineer | San Jose, CA | Spring 2026 | Undergrad; Masters | 🔒 | Jul 20 |
 | AIG | Early Career Analyst, Gen AI and Data Engineering | Atlanta, GA | Spring 2026 | Undergrad | 🔒 | Jul 20 |
 | ↳ | Security Engineer I, SIRT | Seattle, WA |  | Undergrad | 🔒 | Jul 20 |
-| Atlassian | Machine Learning Engineer, 2026 Graduate | San Francisco, CA | Spring 2026 | Undergrad | 🔒 | Jul 20 |
-| ↳ | Software Engineer, 2026 Graduate | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 20 |
+| Atlassian | Machine Learning Engineer, 2026 Graduate | San Francisco, CA | Spring 2026 | Undergrad; Masters | 🔒 | Jul 20 |
+| ↳ | Software Engineer, 2026 Graduate | Seattle, WA | Spring 2026 | Undergrad; Masters | 🔒 | Jul 20 |
 | Circle | Software Engineer, Backend | Remote (US) |  | Undergrad | 🔒 | Jul 20 |
 | Collins Aerospace | Software Engineer I, Military Avionics FMS | Cedar Rapids, IA |  | Undergrad | 🔒 | Jul 20 |
 | Comcast | Software Engineer 1 | <details><summary>**2 locations**</summary>Chicago, IL</br>Englewood, CO</details> |  | Undergrad | 🔒 | Jul 20 |
@@ -1497,7 +1497,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Groundswell | Technical Consultant | McLean, VA |  | Undergrad | 🔒 | Jul 20 |
 | Leidos | Entry Level Software Developer | St. Louis, MO |  | Undergrad | 🔒 | Jul 20 |
 | LinkedIn | Associate Product Builder Rotational Program | <details><summary>**2 locations**</summary>Mountain View, CA</br>San Francisco, CA</details> |  | Undergrad | 🔒 | Jul 20 |
-| London Stock Exchange Group | Site Reliability Engineer (Graduate) | St. Louis, MO |  | Undergrad | 🔒 | Jul 20 |
+| London Stock Exchange Group | Site Reliability Engineer (Graduate) | St. Louis, MO |  | Undergrad; Masters | 🔒 | Jul 20 |
 | Nutanix | Software Engineer 1, Early Career | Durham, NC |  | Undergrad | 🔒 | Jul 20 |
 | NVIDIA | Applied AI Engineer, Silicon Co-Design Group | Santa Clara, CA |  | Masters; PhD | 🔒 | Jul 20 |
 | ↳ | Software QA Engineer | Santa Clara, CA |  | Undergrad | 🔒 | Jul 20 |
@@ -1512,12 +1512,12 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Shopify | Software Engineer | Remote (Canada) |  | Undergrad | 🔒 | Jul 20 |
 | Stripe | Security Engineer | <details><summary>**2 locations**</summary>Seattle, WA</br>South San Francisco, CA</details> |  | Undergrad | 🔒 | Jul 20 |
 | ↳ | Software Engineer | <details><summary>**2 locations**</summary>South San Francisco, CA</br>Seattle, WA</details> |  | Undergrad | 🔒 | Jul 20 |
-| TikTok | Software Engineer Graduate - Site Reliability Engineering | San Jose, CA |  | Undergrad | 🔒 | Jul 20 |
-| ↳ | Machine Learning Engineer Graduate - Short Video Content Understanding | San Jose, CA |  | Undergrad | 🔒 | Jul 20 |
+| TikTok | Software Engineer Graduate - Site Reliability Engineering | San Jose, CA |  | Undergrad; Masters | 🔒 | Jul 20 |
+| ↳ | Machine Learning Engineer Graduate - Short Video Content Understanding | San Jose, CA |  | Undergrad; Masters | 🔒 | Jul 20 |
 | ↳ | Machine Learning Engineer - Monetization Technology | San Jose, CA |  | Undergrad | 🔒 | Jul 20 |
 | ↳ | Software Engineer - Commerce Ads | San Jose, CA |  | Undergrad | 🔒 | Jul 20 |
 | ↳ | Software Engineer - Live Service | San Jose, CA |  | Undergrad | 🔒 | Jul 20 |
-| ↳ | Software Engineer Graduate - Recommendation Platform | San Jose, CA |  | Undergrad | 🔒 | Jul 20 |
+| ↳ | Software Engineer Graduate - Recommendation Platform | San Jose, CA |  | Undergrad; Masters | 🔒 | Jul 20 |
 | Trexquant | Quantitative Researcher | Stamford, CT |  | Undergrad | 🔒 | Jul 20 |
 | Uber | Software Engineer I | San Francisco, CA |  | Masters | 🔒 | Jul 20 |
 | Valkyrie Trading | Derivatives Trader | Chicago, IL |  | Undergrad | 🔒 | Jul 20 |
@@ -1537,18 +1537,18 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Visa | Software Engineer, New College Grad - 2026 | Highlands Ranch, CO | Spring 2026 | Undergrad | 🔒 | Jul 16 |
 | ↳ | Site Reliability Engineer, New College Grad - 2026 | Ashburn, VA | Spring 2026 | Undergrad | 🔒 | Jul 16 |
 | ↳ | Associate Product Manager (APM), New College Graduate Rotational Program - 2026 | Foster City, CA | Spring 2026 | Undergrad | 🔒 | Jul 16 |
-| Citadel | Software Engineer - University Graduate | <details><summary>**4 locations**</summary>Greenwich, CT</br>Houston, TX</br>Miami, FL</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 15 |
+| Citadel | Software Engineer - University Graduate | <details><summary>**4 locations**</summary>Greenwich, CT</br>Houston, TX</br>Miami, FL</br>New York, NY</details> |  | Undergrad; Masters | 🔒 | Jul 15 |
 | Microsoft | Software Engineer Identity | Redmond, WA |  | Undergrad | 🔒 | Jul 15 |
 | ↳ | Software Engineer IDNA | Redmond, WA |  | Undergrad | 🔒 | Jul 15 |
 | ↳ | Technical Program Management | Remote (US) |  | Undergrad | 🔒 | Jul 15 |
 | ↳ | Software Engineer | Redmond, WA |  | Undergrad | 🔒 | Jul 15 |
 | U.S. Bank | Software Engineer I - Backend UI and AI | Earth City, MO |  | Undergrad | 🔒 | Jul 15 |
-| ↳ | Graduate Software Engineer | Chicago, IL |  | Undergrad | 🔒 | Jul 13 |
+| ↳ | Graduate Software Engineer | Chicago, IL |  | Undergrad; Masters | 🔒 | Jul 13 |
 | Microsoft | Software Engineer | Remote (US) |  | Undergrad | 🔒 | Jul 13 |
 | ↳ | Software Engineer | Mountain View, CA |  | Undergrad | 🔒 | Jul 13 |
 | ↳ | Software Engineering - Commercial Engineering & AI (CEAI) | Redmond, WA |  | Undergrad | 🔒 | Jul 13 |
 | ↳ | Platform Software Developer - 2026 New Grads | Atlanta, GA | Spring 2026 | Undergrad | 🔒 | Jul 12 |
-| Adobe | 2026 University Graduate - Machine Learning Engineer | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 11 |
+| Adobe | 2026 University Graduate - Machine Learning Engineer | Seattle, WA | Spring 2026 | Undergrad; Masters | 🔒 | Jul 11 |
 | Boerboel | Developer | <details><summary>**2 locations**</summary>Chicago, IL</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 10 |
 | ↳ | Quantitative Researcher | <details><summary>**2 locations**</summary>Chicago, IL</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 10 |
 | DoorDash | Software Engineer I | <details><summary>**5 locations**</summary>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Seattle, WA</br>Sunnyvale, CA</details> |  | Undergrad | 🔒 | Jul 10 |
