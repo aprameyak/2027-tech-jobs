@@ -641,6 +641,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Trexquant | Quantitative Researcher - Early Career | Stamford, CT |  | Undergrad | <a href="https://workable.com/trexquant/j/A634E0E3F4" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | AMD | ROCm AI - GPU Software Engineer | Markham, ON |  | Undergrad | <a href="https://careers.amd.com/careers-home/jobs/68831" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | ↳ | Software Developer - GPU IO Libraries | <details><summary>**2 locations**</summary>Calgary, AB</br>Remote (Canada)</details> |  | Undergrad | <a href="https://careers.amd.com/careers-home/jobs/67592" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | Applied Systems | Software Engineer | Toronto, ON |  | Undergrad | <a href="https://canada-appliedsystems.icims.com/jobs/6506/software-engineer/job" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
