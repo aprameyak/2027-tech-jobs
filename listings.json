@@ -5615,7 +5615,7 @@
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
-    "url": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000138727213",
+    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-21"
@@ -6426,7 +6426,7 @@
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
-    "url": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000107369741",
+    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-21",
@@ -6439,7 +6439,7 @@
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
-    "url": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000138184309",
+    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-21"
@@ -19601,7 +19601,7 @@
   {
     "company": "Copart",
     "role": "Software Engineering Intern",
-    "location": "Dallas, TX - Headquarters",
+    "location": "Dallas, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -19613,7 +19613,7 @@
   {
     "company": "Copart",
     "role": "Software Engineering Intern",
-    "location": "Dallas, TX - Headquarters",
+    "location": "Dallas, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
