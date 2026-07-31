@@ -19891,5 +19891,53 @@
     "citizenship": "No",
     "date_added": "2026-07-30",
     "grad_date": ""
+  },
+  {
+    "company": "Charles River Analytics",
+    "role": "Scientist Intern, User Experience (HCI/HMI)",
+    "location": "Cambridge, MA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/charlesriveranalytics90/jobs/8098004",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-30"
+  },
+  {
+    "company": "Valkyrie Trading",
+    "role": "Junior Software Engineer Intern",
+    "location": "Chicago, IL",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-30"
+  },
+  {
+    "company": "DRW",
+    "role": "Platform Engineer Intern",
+    "location": "Chicago, IL",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7997729",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-30"
+  },
+  {
+    "company": "Capital One",
+    "role": "Intern, Full Stack Software Engineer",
+    "location": "Toronto, ON",
+    "type": "offcycle",
+    "season": "Fall 2026",
+    "education": "Undergrad",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Fall-2026_R246990",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-30"
   }
 ]
