@@ -853,6 +853,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineer I | Clearwater, FL |  | Undergrad | <a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | HP | Software Development Graduate Roles | Spring, TX |  | Undergrad; Masters | <a href="https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate-Roles_3165699?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | IBM | Software Developer | <details><summary>**14 locations**</summary>Sandy Springs, GA</br>Poughkeepsie, NY</br>Lowell, MA</br>Rochester, MN</br>Tucson, AZ</br>Research Triangle Park, NC</br>Durham, NC</br>Hopewell Junction, NY</br>San Jose, CA</br>Dallas, TX</br>Houston, TX</br>Austin, TX</br>Herndon, VA</br>New York, NY</details> |  | Undergrad | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| Jump Trading | Campus Crypto Researcher | Chicago, IL |  | Undergrad | <a href="https://www.jumptrading.com/hr/job?gh_jid=7362357" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Lambda 🛂 | Cloud Support Engineer I (Support Response) | Remote (US) |  | Undergrad | <a href="https://jobs.ashbyhq.com/lambda/1b1cac37-a29c-46b2-ad1a-a946d1e87d41?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Lyft | Software Engineer, Rider | New York, NY |  | Undergrad | <a href="https://app.careerpuck.com/job-board/lyft/job/8022809002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Meta | Software Engineer | Menlo Park, CA |  | Undergrad | <a href="https://www.metacareers.com/jobs/1947521902323717" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
@@ -1452,8 +1453,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Hudson River Trading | New Grad 2026: Algorithm Developer | New York, NY | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | IMC | New Grad 2026: Software Engineer | Chicago, IL | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | Integration Innovation (i3) 🇺🇸 | Entry Level Full-Stack Software Engineer | Huntsville, AL |  | Undergrad | 🔒 | Jul 24 |
-| Jump Trading | Tech Ops Engineer | Chicago, IL |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | Campus Crypto Researcher | Chicago, IL |  | Undergrad | 🔒 | Jul 24 |
+| ↳ | Tech Ops Engineer | Chicago, IL |  | Undergrad | 🔒 | Jul 24 |
 | Lumenalta | Full Stack Engineer | Remote (Canada) |  | Undergrad | 🔒 | Jul 24 |
 | McDonald's | Software Engineer I, iOS | Chicago, IL |  | Undergrad | 🔒 | Jul 24 |
 | Nordstrom | Engineer 1, Full Stack, Store POS+ Team | Seattle, WA |  | Undergrad | 🔒 | Jul 24 |
