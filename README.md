@@ -131,7 +131,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Human Computer Lab | Intern - Software/ML Engineering | San Francisco, CA | Undergrad | <a href="https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | HyperLight | Software Engineer Intern | Cambridge, MA | Undergrad | <a href="https://apply.workable.com/hyperlight/j/5581EA0668/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | IDEXX | Security Operations (Cybersecurity) Intern | Westbrook, ME | Undergrad | <a href="https://idexx.wd1.myworkdayjobs.com/en-US/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
-| InterDigital | Generative AI Implementation Intern | Conshohocken, PA | Undergrad; Masters | <a href="https://interdigital.wd5.myworkdayjobs.com/en-US/InterDigital_Intern/job/Conshohocken-PA/Generative-AI-Implementation-Intern_REQ26-1093?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Netflix | AI/ML Scientist Intern, AIMS AI Foundation | Los Gatos, CA | Undergrad; PhD | <a href="https://explore.jobs.netflix.net/careers/job/790316547536" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | NewsBreak | Research Intern, Agent RL Training | Mountain View, CA | Undergrad; Masters; PhD | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4684555006?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Oracle | GDI Information Security Analyst Intern - OVIP | Reston, VA | Undergrad | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334389" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
@@ -388,6 +387,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Institute for Foundation Models | AI Research Intern | Sunnyvale, CA | Masters; PhD | 🔒 | Jul 23 |
 | Intel | AI Software Engineering Intern | Phoenix, AZ | Undergrad | 🔒 | Jul 23 |
 | ↳ | AI Software Engineering Intern | Hillsboro, OR | Undergrad | 🔒 | Jul 23 |
+| InterDigital | Generative AI Implementation Intern | Conshohocken, PA | Undergrad; Masters | 🔒 | Jul 23 |
 | Kearney & Company | IT Audit Intern | Alexandria, VA | Undergrad | 🔒 | Jul 23 |
 | Moog | Intern - Software Engineering | Buffalo, NY | Undergrad | 🔒 | Jul 23 |
 | Nash | Full Stack Engineering Intern | San Francisco, CA | Undergrad | 🔒 | Jul 23 |
@@ -1165,7 +1165,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | SpaceX | New Graduate Engineer, Software (Starlink) | Bastrop, TX |  | Undergrad | <a href="https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | New Graduate Engineer, Software (Starlink) | Redmond, WA |  | Undergrad | <a href="https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | New Graduate Engineer, Software | Hawthorne, CA |  | Undergrad | <a href="https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
-| SpiderRock | Software Engineer | Chicago, IL |  | Undergrad | <a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=560273" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | StubHub | Software Engineer I | Santa Monica, CA |  | Undergrad | <a href="https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4749965101?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Suno | Software Engineer, Early Career | <details><summary>**2 locations**</summary>Boston, MA</br>New York, NY</details> |  | Undergrad | <a href="https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Twitch | Software Engineer I | <details><summary>**2 locations**</summary>San Francisco, CA</br>Seattle, WA</details> |  | Undergrad | <a href="https://job-boards.greenhouse.io/twitch/jobs/8457711002?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
@@ -1628,6 +1627,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Remitly | Software Development Engineer I, Pricing Platform | Seattle, WA |  | Undergrad | 🔒 | Jul 10 |
 | ↳ | [2026] Senior Machine Learning Engineer, Engine Optimization - PhD Early Career | San Mateo, CA | Spring 2026 | PhD | 🔒 | Jul 10 |
 | ↳ | [2026] Senior Machine Learning Engineer, Account Identity - PhD Early Career | San Mateo, CA | Spring 2026 | PhD | 🔒 | Jul 10 |
+| SpiderRock | Software Engineer | Chicago, IL |  | Undergrad | 🔒 | Jul 10 |
 | Uber | Software Engineer I | <details><summary>**2 locations**</summary>San Francisco, CA</br>Seattle, WA</details> |  | Undergrad | 🔒 | Jul 10 |
 | Affirm | Software Engineer, Early Career | San Francisco, CA |  | Undergrad | 🔒 | Jul 7 |
 | ↳ | 2026 Strategic Security Analyst - Early Career Rotation Program | Costa Mesa, CA | Spring 2026 | Undergrad | 🔒 | Jul 7 |
