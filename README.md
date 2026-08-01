@@ -649,6 +649,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Axos Bank | AI Engineer, Consumer IT AI Team | San Diego, CA |  | Undergrad | <a href="https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--AI-Engineer_JR5108-1?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | Chicago Trading Company | Quant Trading Associate - 2027 Start | Chicago, IL |  | Undergrad | <a href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | ↳ | Associate Engineer - 2027 Start | <details><summary>**2 locations**</summary>Chicago, IL</br>New York, NY</details> |  | Undergrad | <a href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | Cisco | Software Engineer 1 | San Jose, CA |  | Undergrad | <a href="https://careers.cisco.com/global/en/job/1449197" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
