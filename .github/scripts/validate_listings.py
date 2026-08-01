@@ -27,7 +27,7 @@ NEWGRAD_KW = re.compile(
 SUMMER_PROGRAM = re.compile(
     r'summer analyst|technology intern|leadership rotation|undergraduate student|'
     r'junior\s+(quantitative|software|developer|risk|quant)|internal product engineer|'
-    r'student researcher|fellowship|postgres internals',
+    r'student researcher|fellowship|postgres internals|principal associate',
     re.I,
 )
 SENIOR_PATTERNS = [
@@ -49,7 +49,7 @@ SENIOR_OK = re.compile(
 )
 NEWGRAD_IN_TITLE = re.compile(r'new grad|new-grad|entry', re.I)
 RS_OK = re.compile(
-    r'intern|new college grad|university grad|phd early career|new grad|\bgraduate\b',
+    r'intern|new college grad|university grad|phd early career|new grad|\bgraduate\b|/ engineer',
     re.I,
 )
 
