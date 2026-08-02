@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Astera Institute | Software Engineering Intern – Distributed Simulation Systems | Emeryville, CA | Undergrad | <a href="https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 2 |
 | Hyannis Port Research | Software Engineering Intern | Needham, MA | Undergrad | <a href="https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 2 |
 | Medtronic | Software Engineering Intern - Summer 2027 | Fridley, MN | Undergrad | <a href="https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 2 |
 | Postman | AI Engineer, Intern | Berkeley, CA | Undergrad | <a href="https://job-boards.greenhouse.io/postman/jobs/7823417003?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 2 |
