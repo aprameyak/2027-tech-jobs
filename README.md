@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Postman | AI Engineer, Intern | Berkeley, CA | Undergrad | <a href="https://job-boards.greenhouse.io/postman/jobs/7823417003?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 2 |
 | Heliux | Software Engineer Internship | San Francisco, CA | Undergrad | <a href="https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 1 |
 | Anduril | Research Scientist, Intern | Fort Collins, CO | Undergrad | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5201025007?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | Capital One | Principal Associate Data Scientist, Machine Learning | Toronto, ON | Undergrad | <a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Principal-Associate-Data-Scientist--Machine-Learning_R247870-1?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
