@@ -20983,5 +20983,18 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-03"
+  },
+  {
+    "company": "ByteDance",
+    "role": "Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling",
+    "location": "Seattle, WA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.bytedance.com/en/position/7668799020705679669/detail",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-03",
+    "grad_date": ""
   }
 ]
