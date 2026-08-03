@@ -20911,5 +20911,17 @@
     "citizenship": "Unknown",
     "date_added": "2026-08-03",
     "grad_date": ""
+  },
+  {
+    "company": "ByteDance",
+    "role": "Software Engineer Intern - AI Infra Compute",
+    "location": "Seattle, WA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "PhD",
+    "url": "https://jobs.bytedance.com/en/position/7667378931599214853/detail",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-03"
   }
 ]
