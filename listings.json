@@ -21100,5 +21100,18 @@
     "citizenship": "Unknown",
     "date_added": "2026-08-03",
     "grad_date": ""
+  },
+  {
+    "company": "ByteDance",
+    "role": "Research Scientist New Grad - Distributed NoSQL Database Systems",
+    "location": "Seattle, WA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "PhD",
+    "url": "https://jobs.bytedance.com/en/position/7668365143156721973/detail",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-03",
+    "grad_date": ""
   }
 ]
