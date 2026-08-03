@@ -20599,5 +20599,18 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-03"
+  },
+  {
+    "company": "TikTok",
+    "role": "Backend Software Engineer Graduate (Feed Safety) - 2027 Start",
+    "location": "Seattle, WA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://lifeattiktok.com/search/7663028952600807733",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-03",
+    "grad_date": ""
   }
 ]
