@@ -21009,5 +21009,18 @@
     "citizenship": "Unknown",
     "date_added": "2026-08-03",
     "grad_date": ""
+  },
+  {
+    "company": "ByteDance",
+    "role": "Security Engineer New Grad - Threat Detection and Response",
+    "location": "San Jose, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.bytedance.com/en/position/7668614787018393909/detail",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-03",
+    "grad_date": ""
   }
 ]
