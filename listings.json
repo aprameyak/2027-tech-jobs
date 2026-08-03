@@ -21074,5 +21074,18 @@
     "citizenship": "Unknown",
     "date_added": "2026-08-03",
     "grad_date": ""
+  },
+  {
+    "company": "ByteDance",
+    "role": "Research Scientist New Grad - AI for Infrastructure",
+    "location": "San Jose, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "PhD",
+    "url": "https://jobs.bytedance.com/en/position/7667291055662811445/detail",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-03",
+    "grad_date": ""
   }
 ]
