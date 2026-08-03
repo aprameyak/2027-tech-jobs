@@ -2,6 +2,9 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
+  icons: {
+    icon: '/favicon.svg',
+  },
   title: '2027 Tech Jobs — SWE, PM, Data, Quant & Cyber Internships and New Grad',
   description:
     'Curated list of Summer 2027 internships, off-cycle co-ops, and 2027 new grad roles in software engineering, product management, data science, ML/AI, quantitative research, cybersecurity, DevOps, and adjacent technical fields. Updated hourly.',
