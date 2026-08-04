@@ -21187,5 +21187,18 @@
     "citizenship": "No",
     "date_added": "2026-08-04",
     "grad_date": ""
+  },
+  {
+    "company": "Apple",
+    "role": "Software Engineer - Early Career (Front-end)",
+    "location": "Austin, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.apple.com/en-us/details/200660851-0157/software-engineer-early-career-front-end?team=SFTWR",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-04",
+    "grad_date": ""
   }
 ]
