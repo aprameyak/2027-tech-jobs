@@ -15,14 +15,17 @@ Agilent Technologies
 AIG
 Airbnb
 Airtable
+Airwallex
 Akuna Capital
 Alation
 All companies actively scraped by the automated workflow.
 Allegion
 Allen Control Systems
 Alloy
+AlphaGrep Securities
 Altice USA
 Ambarella
+Amgen
 Amperity
 Amperon
 Amplitude
@@ -40,12 +43,14 @@ Applied Intuition
 Apptronik
 Aptiv
 Aquatic
+Archer Aviation
 Ardian
 Arrowstreet Capital
 Asana
 AssemblyAI
 Astera Labs
 Astranis Space Technologies
+Atomic Semi
 Attentive
 Auctor
 Aurora Innovation
@@ -87,6 +92,7 @@ CACI
 Cadence Design Systems
 CAE Inc.
 Campbell Soup Company
+Canadian Tire
 Candid Health
 Canonical
 Canva
@@ -129,9 +135,11 @@ Composio
 Confido
 Confluent
 Copart
+CoreWeave
 Corvus Robotics
 CoStar Group
 Coupa Software
+Coveo
 Cox Enterprises
 Cracker Barrel
 Cresta
@@ -189,6 +197,7 @@ Fidelity Investments
 Fifth Third Bank
 Figma
 Figure
+Figure AI
 FINRA
 Firetiger
 First Orion
@@ -203,6 +212,7 @@ FOX Corporation
 Franklin Templeton
 FreeWheel
 Freshworks
+FTI Consulting
 FurtherAI
 Gatik
 GE Aerospace
@@ -217,6 +227,7 @@ General Dynamics Information Technology
 General Motors
 Geneva Trading
 Giga AI
+GitLab
 Glean
 Global Payments
 GlobalFoundries
@@ -236,12 +247,14 @@ Handshake
 Harvey
 Hawkeye 360
 Headlands Technologies
+Heliux
 Hermeus
 Hipp Health
 Home Depot
 Homebase
 Hootsuite
 HP
+HPR
 HubSpot
 Hudl
 Human Computer Lab
@@ -287,6 +300,7 @@ Lila Sciences
 Linear
 LiveRamp
 Locus Robotics
+Logitech
 LSEG
 Lucid Motors
 Lyft
@@ -296,12 +310,16 @@ Manhattan Associates
 Maritz
 Marmon Holdings
 Marqeta
+Marvell Technology
 Mastercard
 MedImpact
 Medtronic
+Melius
 Mercury
 Meta
 MetroStar
+Microchip Technology
+Micron Technology
 Microsoft
 Milwaukee Tool
 Miro
@@ -310,7 +328,9 @@ Mixpanel
 Mobileye
 Modal
 Modern Treasury
+Moloco
 MongoDB
+Monolithic Power Systems
 Moog
 Morgan Stanley
 Morris Health Technologies
@@ -332,6 +352,7 @@ NewsBreak
 Nextdoor
 Nexxen
 Niantic
+Nidec
 Nightwing
 Nike
 Northern Trust
@@ -382,6 +403,7 @@ PNC
 Podium
 Point72
 PointOne
+Pony.ai
 Poshmark
 PostHog
 Postman
@@ -404,12 +426,16 @@ Rainmaker
 Rakuten International
 Ramp
 Raymond James
+Red Hat
 Reddit
 Redis
+Redwood Materials
+Reframe Systems
 Relativity Space
 Reliable Robotics
 Remitly
 Remodel Health
+Rendezvous Robotics
 Replit
 ResMed
 Riot Games
@@ -419,10 +445,12 @@ Robinhood
 Roblox
 Rocket Companies
 Rocket Lab
+Rockwell Automation
 Rokt
 Roku
 Roland Berger
 Royal Bank of Canada
+RSM
 RTX
 Rubrik
 Runway
@@ -436,7 +464,9 @@ Saronic Technologies
 Scale AI
 Schonfeld Strategic Advisors
 Schweitzer Engineering Laboratories
+Scout Motors
 SentiLink
+SentinelOne
 Sentry
 Serval
 Serve Robotics
@@ -464,7 +494,9 @@ Sourcegraph
 SpaceX
 Span.io
 Spotify
+SpreeAI
 Squarespace
+StackAdapt
 State Street
 Stevens Capital Management
 Stoke Space
@@ -495,6 +527,7 @@ Tower Research Capital
 Traba
 TransMarket Group
 Travelers
+Trimble
 TripAdvisor
 True Anomaly
 TrueBuilt
@@ -503,10 +536,12 @@ Truveta
 Twilio
 Twitch
 Two Sigma
+Two Six Technologies
 Typeform
 U.S. Bank
 Uare.ai
 UiPath
+Uline
 Upstart
 Valkyrie Trading
 Vanderbilt University Medical Center
@@ -531,11 +566,13 @@ Wayfair
 Waymo
 Wealthfront
 Wealthsimple
+Weaviate
 Webflow
 Wells Fargo
 Western Digital
 WhatNot
 WHOOP
+Windborne Systems
 Wise
 Wiz
 Wonderschool
@@ -544,6 +581,7 @@ Wyetech
 XPENG Motors
 Yahoo
 Yotta
+Yotta Labs
 Yulista
 Zapier
 Zebra Technologies
