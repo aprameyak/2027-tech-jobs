@@ -57,3 +57,4 @@ CLAUDE.md
 .github/scripts/cleanup_invalid_scrapers.py
 .github/scripts/final_correctness_pass.py
 .github/scripts/reconcile_companies.py
+CLAUDE.md
