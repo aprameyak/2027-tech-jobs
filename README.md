@@ -779,6 +779,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Airbnb | Software Engineer, Biztech | Remote (US) |  | Undergrad | <a href="https://careers.airbnb.com/positions/8095390" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | Amerisure | Software Engineer I | Farmington Hills, MI |  | Undergrad | <a href="https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | Applied Intuition | Software Engineer - Real-Time Vehicle | Sunnyvale, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/applied/6e8e1c23-e470-4419-b06e-88197b448cb3?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | ↳ | Full-Stack Software Engineer | Sunnyvale, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/applied/341f8193-19ab-4261-bd20-da7d530fbf9c?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
