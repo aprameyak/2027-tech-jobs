@@ -22365,5 +22365,17 @@
     "citizenship": "unknown",
     "date_added": "2026-08-04",
     "grad_date": ""
+  },
+  {
+    "company": "D.E. Shaw",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+    "sponsorship": "unknown",
+    "citizenship": "unknown",
+    "date_added": "2026-08-04"
   }
 ]
