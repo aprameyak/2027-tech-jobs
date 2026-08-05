@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| XPENG Motors | 2027 Campus Recruiting Robotics Center Internship Position | Santa Clara, CA | Undergrad | <a href="https://job-boards.greenhouse.io/xpengmotors/jobs/8681156002?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 5 |
 | American Express | Product Management Intern | New York, NY | Undergrad | <a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | Axon | RenderATL - 2027 US Software Engineering Internship | Seattle, WA | Undergrad | <a href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | Bot Auto | Intern, Deep Learning Engineer | Houston, TX | Undergrad | <a href="https://job-boards.greenhouse.io/botauto/jobs/5289440008?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
