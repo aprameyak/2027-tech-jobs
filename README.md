@@ -818,7 +818,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | OpenAI | Software Engineer, Monetization Data | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/openai/d2aad13c-6ed0-4905-ae12-8ea2397b190c?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | ↳ | Research Engineer / Scientist | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/openai/1bf678c5-1058-45ca-b9bd-b0029fccd60e?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | Pure Storage | Software Engineer | Santa Clara, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/purestorage/jobs/8102970?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
-| Red Hat | Associate Software Engineer | Raleigh, NC |  | Undergrad | <a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Software-Engineer--Red-Hat-Linux-Virtualization-Networking_R-058759?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | Reframe Systems | Full Stack Software Engineer | Andover, MA |  | Undergrad | <a href="https://jobs.ashbyhq.com/reframesystems/c651981d-017b-4041-9e01-dbce5633b54d?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | Samsara | Software Engineer I - New Grad | San Francisco, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/samsara/jobs/8097343?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | Scout Motors | DevOps Engineer | Charlotte, NC |  | Undergrad | <a href="https://job-boards.greenhouse.io/scoutmotors/jobs/5201280007?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
@@ -1374,6 +1373,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Airbnb | Software Engineer, Biztech | Remote (US) |  | Undergrad | 🔒 | Aug 4 |
 | Apple | Software Engineer - Early Career (Front-end) | Austin, TX |  | Undergrad | 🔒 | Aug 4 |
 | Micron | AI Engineer | Boise, ID |  | Undergrad | 🔒 | Aug 4 |
+| Red Hat | Associate Software Engineer | Raleigh, NC |  | Undergrad | 🔒 | Aug 4 |
 | TikTok | Backend Software Engineer Graduate (Feed Safety) - 2027 Start | Seattle, WA |  | Undergrad | 🔒 | Aug 3 |
 | ↳ | (General Hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start | San Jose, CA |  | Undergrad | 🔒 | Aug 3 |
 | ↳ | Backend Software Engineer Graduate (Emerging Products & AI Safety) - 2027 Start | San Jose, CA |  | Undergrad | 🔒 | Aug 3 |
