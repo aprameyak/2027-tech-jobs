@@ -23264,5 +23264,18 @@
     "citizenship": "Unknown",
     "date_added": "2026-08-06",
     "grad_date": ""
+  },
+  {
+    "company": "Jane Street",
+    "role": "Quantitative Trader",
+    "location": "New York, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.janestreet.com/join-jane-street/position/4794171002/",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-06",
+    "grad_date": ""
   }
 ]
