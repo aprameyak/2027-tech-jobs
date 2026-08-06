@@ -23225,5 +23225,18 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-06"
+  },
+  {
+    "company": "Citadel",
+    "role": "Quantitative Researcher - PhD Graduate",
+    "location": "New York, NY; Miami, FL",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "PhD",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-06",
+    "grad_date": ""
   }
 ]
