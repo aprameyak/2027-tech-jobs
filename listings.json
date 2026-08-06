@@ -2010,7 +2010,7 @@
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&utm_source=aprameyak",
+    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-10"
@@ -5711,7 +5711,7 @@
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
-    "url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786?utm_source=aprameyak",
+    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-20"
@@ -8325,7 +8325,7 @@
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad; Masters; PhD",
-    "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002?utm_source=aprameyak",
+    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-23"
@@ -17923,6 +17923,19 @@
     "grad_date": "Spring 2026"
   },
   {
+    "company": "Anduril Industries",
+    "role": "Air Dominance & Strike - Flight Software Engineer, Embedded C/C++",
+    "location": "Costa Mesa, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&utm_source=aprameyak",
+    "sponsorship": "No \u2014 Does Not Offer Sponsorship",
+    "citizenship": "No",
+    "date_added": "2026-07-28",
+    "grad_date": ""
+  },
+  {
     "company": "TikTok",
     "role": "New Grad 2026: Machine Learning Engineer Graduate -Search E-Commerce",
     "location": "San Jose, CA",
@@ -19840,7 +19853,7 @@
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
-    "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/",
+    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-31",
@@ -19853,7 +19866,7 @@
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
-    "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80925/1414513700/",
+    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-31",
@@ -19866,7 +19879,7 @@
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
-    "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineeriing-FL-32905/1414475800/",
+    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-31",
@@ -21473,7 +21486,7 @@
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
-    "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Engineer_R18807?utm_source=aprameyak",
+    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-04",
@@ -21754,7 +21767,7 @@
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2?utm_source=aprameyak",
+    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-04"
@@ -23170,7 +23183,7 @@
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
-    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-LA-Bossier-City/Software-Developer-Associate--New-Grad-_RQ225505?utm_source=aprameyak",
+    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-05",
@@ -23224,41 +23237,5 @@
     "sponsorship": "No \u2014 not sponsored",
     "citizenship": "No",
     "date_added": "2026-08-05"
-  },
-  {
-    "company": "Canva",
-    "role": "PhD Research Scientist Intern",
-    "location": "San Francisco, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "PhD",
-    "url": "https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-06"
-  },
-  {
-    "company": "Shopify",
-    "role": "Software Engineer Intern",
-    "location": "Bellevue, WA; New York, NY; Montreal, QC; Ottawa, ON; Toronto, ON",
-    "type": "offcycle",
-    "season": "Winter 2027",
-    "education": "Undergrad",
-    "url": "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856?ashby_jid=404bb82e-37f3-4a78-b0f3-12923a7c4856&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-06"
-  },
-  {
-    "company": "Shopify",
-    "role": "Applied Machine Learning Engineer Intern",
-    "location": "Bellevue, WA; New York, NY; Montreal, QC; Ottawa, ON; Toronto, ON",
-    "type": "offcycle",
-    "season": "Winter 2027",
-    "education": "Undergrad",
-    "url": "https://www.shopify.com/careers/applied-machine-learning-engineering-internships-winter-2027_b6d312a8-cdd2-4f21-a2f5-313182d6989d?ashby_jid=b6d312a8-cdd2-4f21-a2f5-313182d6989d&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-06"
   }
 ]
