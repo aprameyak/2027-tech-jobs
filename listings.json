@@ -26608,5 +26608,18 @@
     "citizenship": "No",
     "date_added": "2026-08-07",
     "grad_date": ""
+  },
+  {
+    "company": "ByteDance",
+    "role": "Backend Inference Runtime Engineer New Grad - AML Inference",
+    "location": "San Jose, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.bytedance.com/en/position/7669789046777940229/detail",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-07",
+    "grad_date": ""
   }
 ]
