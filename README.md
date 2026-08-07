@@ -838,6 +838,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Capital One | Principal Associate Software Engineer - International Card Tech - Full-Stack | Toronto, ON |  | Undergrad | <a href="https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Principal-Associate-Software-Engineer---International-Card-Tech---Full-Stack_R248450?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 6 |
 | IXL Learning | Associate Product Manager, New Grad | San Mateo, CA |  | Undergrad | <a href="https://www.ixl.com/company/jobs?gh_jid=8663710002&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 6 |
 | ↳ | Software Developer, New Grad | Toronto, ON |  | Undergrad | <a href="https://www.ixl.com/company/jobs?gh_jid=8663419002&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 6 |
 | Jane Street | Quantitative Trader | New York, NY |  | Undergrad | <a href="https://www.janestreet.com/join-jane-street/position/4794171002/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 6 |
