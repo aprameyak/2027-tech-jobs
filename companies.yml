@@ -610,6 +610,10 @@ workday:
   tenant: autodesk
   instance: wd1
   board: Ext
+- name: Axos Bank
+  tenant: axos
+  instance: wd5
+  board: Axos
 - name: AVEVA
   tenant: aveva
   instance: wd3
