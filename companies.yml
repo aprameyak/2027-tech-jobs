@@ -1486,6 +1486,8 @@ ashby:
   slug: pariveda
 - name: Perplexity
   slug: perplexity
+- name: Preference Model
+  slug: preference-model
 - name: Persona
   slug: persona
 - name: Persona AI
