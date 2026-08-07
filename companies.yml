@@ -229,6 +229,8 @@ greenhouse:
   slug: lyft
 - name: Marqeta
   slug: marqeta
+- name: Maven Securities
+  slug: mavensecuritiesholdingltd
 - name: Mercury
   slug: mercury
 - name: Mixpanel
