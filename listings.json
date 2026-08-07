@@ -11323,19 +11323,6 @@
   },
   {
     "company": "Amazon",
-    "role": "System Development Engineer, Payload Antenna Team",
-    "location": "Redmond, WA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Yes \u2014 U.S. citizenship required",
-    "date_added": "2026-07-24",
-    "grad_date": ""
-  },
-  {
-    "company": "Amazon",
     "role": "ADC Engineer I, PEET ADC",
     "location": "Arlington, VA; Herndon, VA",
     "type": "newgrad",
@@ -21214,18 +21201,6 @@
     "date_added": "2026-08-04"
   },
   {
-    "company": "Atomic Semi",
-    "role": "Rust Software Engineering Intern (Chip Design Tools)",
-    "location": "San Francisco, CA",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-04"
-  },
-  {
     "company": "Rendezvous Robotics",
     "role": "Software Engineering Intern",
     "location": "Golden, CO",
@@ -25383,54 +25358,6 @@
     "date_added": "2026-08-07"
   },
   {
-    "company": "SpaceX",
-    "role": "Silicon Engineer Intern/Co-op",
-    "location": "CARedmond, WA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8621763002?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07"
-  },
-  {
-    "company": "HPR (Hyannis Port Research)",
-    "role": "FPGA Engineer Intern",
-    "location": "Needham, MA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07"
-  },
-  {
-    "company": "Western Digital",
-    "role": "Hardware Engineering Intern",
-    "location": "COLongmont, CO",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000140949875",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07"
-  },
-  {
-    "company": "Optiver",
-    "role": "FPGA Engineer Intern",
-    "location": "Chicago, IL",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07"
-  },
-  {
     "company": "Ciena",
     "role": "Software Engineer Intern",
     "location": "Edinburgh, UK",
@@ -25666,18 +25593,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://joinbytedance.com/search/7668212952030841093",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07"
-  },
-  {
-    "company": "DRW",
-    "role": "FPGA Intern",
-    "location": "Chicago, IL",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://www.drw.com/work-at-drw/listings/fpga-intern-3484423",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-07"
@@ -26483,18 +26398,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "http://prospectequities.applytojob.com/apply/XTbzSAcNtg/Backend-Frontend-Developer-Intern",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07"
-  },
-  {
-    "company": "Base Power Company",
-    "role": "Firmware Engineering Intern",
-    "location": "Austin, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-07"
@@ -28612,32 +28515,6 @@
     "grad_date": ""
   },
   {
-    "company": "TP-Link Systems",
-    "role": "Early Career Embedded Software Engineer",
-    "location": "Irvine, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/apply",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
-    "company": "Garmin",
-    "role": "Embedded Software Engineer 1",
-    "location": "Chandler, AZ",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://careers.garmin.com/jobs/19134?icims=1",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
     "company": "L3Harris Technologies",
     "role": "Software Engineer New Grad",
     "location": "Salt Lake City, UT",
@@ -28677,32 +28554,6 @@
     "grad_date": ""
   },
   {
-    "company": "RTX",
-    "role": "Embedded Software Engineer 1",
-    "location": "East Hartford, CT",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer---P1_01864540?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
-    "company": "Gentex Corporation",
-    "role": "Embedded Software Engineer 1",
-    "location": "MIZeeland, MI",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Embedded-Software-Engineer-I_REQ026014?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
     "company": "Garmin",
     "role": "Software Engineer 1 - Embedded Aviation",
     "location": "Olathe, KS",
@@ -28729,19 +28580,6 @@
     "grad_date": ""
   },
   {
-    "company": "RTX",
-    "role": "FPGA Engineer 1",
-    "location": "Huntsville, AL",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/FPGA-Engineer-I_01863350-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
     "company": "Oracle",
     "role": "Systems Software Engineer 1",
     "location": "Remote (US)",
@@ -28749,32 +28587,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340728",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
-    "company": "Observable Space",
-    "role": "Junior Embedded Software Engineer",
-    "location": "Los Angeles, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/observable-space/97e8073f-a23e-4360-ba9c-a3869ad58ab1/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
-    "company": "Revel",
-    "role": "Embedded Software Engineer - Entry-Junior",
-    "location": "Los Angeles, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/revel/444b5704-3840-4b0a-ba34-f82eab8c430f/application?embed=true&utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-07",
@@ -28820,32 +28632,6 @@
     "grad_date": ""
   },
   {
-    "company": "NVIDIA",
-    "role": "ASIC Design Engineer New Grad",
-    "location": "Santa Clara, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": "Spring 2026"
-  },
-  {
-    "company": "NVIDIA",
-    "role": "ASIC Verification Engineer New Grad",
-    "location": "Santa Clara, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": "Spring 2026"
-  },
-  {
     "company": "Micron Technology",
     "role": "New Grad Design Engineer - Semiconductor Design Engineer - DRAM Products Group",
     "location": "Boise, ID",
@@ -28860,38 +28646,12 @@
   },
   {
     "company": "NVIDIA",
-    "role": "Low Power ASIC Engineer New Grad",
-    "location": "Santa Clara, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017005?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": "Spring 2026"
-  },
-  {
-    "company": "NVIDIA",
     "role": "Systems Software Engineer New Grad",
     "location": "Hillsboro, OR",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": "Spring 2026"
-  },
-  {
-    "company": "NVIDIA",
-    "role": "ASIC Floorplan Design Engineer New Grad",
-    "location": "Santa Clara, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2012971?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-07",
@@ -28935,32 +28695,6 @@
     "citizenship": "No",
     "date_added": "2026-08-07",
     "grad_date": ""
-  },
-  {
-    "company": "NVIDIA",
-    "role": "ASIC Physical Design and Timing Engineer \u2013 New College Grad",
-    "location": "Santa Clara, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2026_JR2013177?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": "Spring 2026"
-  },
-  {
-    "company": "Blue Origin",
-    "role": "Avionics Software \u2013 Early Career - Embedded - Engineer I",
-    "location": "LAKent, WA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Software--Embedded--Engineer-I---Early-Career--2026-Starts-_R58482?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": "Spring 2026"
   },
   {
     "company": "Quora",
@@ -29613,19 +29347,6 @@
     "grad_date": ""
   },
   {
-    "company": "Tesla",
-    "role": "In Vehicle Test Engineer, Steering, Vehicle Software",
-    "location": "East Liberty, OH",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://www.tesla.com/careers/search/job/255247",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
     "company": "Shopify",
     "role": "Software Engineer",
     "location": "Remote",
@@ -29997,19 +29718,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://www.shopify.com/careers/demo-engineer-software-development_a6126bad-c0ba-4d02-94fb-7c5e21bef9f5",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
-    "company": "Amazon",
-    "role": "System Development Engineer, Payload Antenna Team",
-    "location": "Redmond, WA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://www.amazon.jobs/en/jobs/3110582/system-development-engineer-payload-antenna-team",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-07",
@@ -30744,32 +30452,6 @@
     "grad_date": ""
   },
   {
-    "company": "Garmin",
-    "role": "Software Engineer I - Embedded Software",
-    "location": "Olathe, KS",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://careers.garmin.com/jobs/16827",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
-    "company": "Tesla",
-    "role": "Software Integration Engineer, Factory Firmware",
-    "location": "Fremont, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://www.tesla.com/careers/search/job/249467",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
     "company": "Amazon",
     "role": "System Dev Engineer I, Analytics ADC",
     "location": "Denver, CO",
@@ -30803,19 +30485,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://paypal.eightfold.ai/careers/job/274908747686",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
-    "company": "Amazon",
-    "role": "Antenna Systems Engineer, Antenna Calibration, Kuiper",
-    "location": "Redmond, WA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://www.amazon.jobs/en/jobs/3064596/antenna-systems-engineer-antenna-calibration-kuiper",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-07",
@@ -31173,19 +30842,6 @@
     "grad_date": ""
   },
   {
-    "company": "Tesla",
-    "role": "Automation Controls Engineer, Megapack",
-    "location": "Palo Alto, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://www.tesla.com/careers/search/job/247595",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
     "company": "Royal Caribbean Group",
     "role": "Associate Engineer, Software",
     "location": "Miramar, FL",
@@ -31193,19 +30849,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500/",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
-    "company": "Emerson",
-    "role": "Embedded Software Engineer",
-    "location": "Shakopee, MN",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024266",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-07",
@@ -31570,19 +31213,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://www.amazon.jobs/en/jobs/3019865/software-engineer-creator",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
-    "company": "Tesla",
-    "role": "Technical Artist, UI Design",
-    "location": "Hawthorne, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://www.tesla.com/careers/search/job/239333",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-07",
@@ -32109,19 +31739,6 @@
     "grad_date": ""
   },
   {
-    "company": "Qualcomm",
-    "role": "Embedded DSP Software Engineer",
-    "location": "San Diego, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://careers.qualcomm.com/careers/job/446704474013",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
     "company": "Cohere",
     "role": "Member of Technical Staff, MLE",
     "location": "Remote",
@@ -32285,19 +31902,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://careers.amd.com/careers-home/jobs/68831",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
-    "company": "AMD",
-    "role": "Firmware Security Engineer",
-    "location": "Remote (Canada)",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://careers.amd.com/careers-home/jobs/68783",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-07",
