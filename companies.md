@@ -518,6 +518,7 @@ SoloPulse
 Sony
 Sourcegraph
 SpaceX
+Spacial
 Span.io
 Spotify
 SpreeAI
