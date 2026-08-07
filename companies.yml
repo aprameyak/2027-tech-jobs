@@ -724,6 +724,10 @@ workday:
   tenant: disney
   instance: wd5
   board: disneycareer
+- name: Draper
+  tenant: draper
+  instance: wd5
+  board: draper_careers
 - name: DraftKings
   tenant: draftkings
   instance: wd1
