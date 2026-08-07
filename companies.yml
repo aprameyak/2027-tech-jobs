@@ -107,6 +107,8 @@ greenhouse:
   slug: databricks
 - name: Datadog
   slug: datadog
+- name: DensityAI
+  slug: densityai
 - name: Descript
   slug: descript
 - name: DigiCert

@@ -161,6 +161,7 @@ Datalab USA
 Decagon
 Deepgram
 Dell Technologies
+DensityAI
 Descript
 Deutsche Bank
 Dexcom
