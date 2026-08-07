@@ -31366,5 +31366,18 @@
     "citizenship": "No",
     "date_added": "2026-08-07",
     "grad_date": ""
+  },
+  {
+    "company": "Perplexity",
+    "role": "Associate Product Manager Program",
+    "location": "San Francisco, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.perplexity.ai/hub/associate-product-manager",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-07",
+    "grad_date": ""
   }
 ]
