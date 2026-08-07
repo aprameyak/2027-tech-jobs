@@ -15,6 +15,7 @@ Agilent Technologies
 AIG
 Airbnb
 Airtable
+Aledade
 Airwallex
 Akuna Capital
 Alation
@@ -34,6 +35,7 @@ Anaplan
 Ancestry
 Anduril
 Anima
+Ansatz Capital
 Anthelion Capital
 Anthropic
 Anyscale
@@ -46,6 +48,7 @@ Aquatic
 Archer Aviation
 Ardian
 Arrowstreet Capital
+Artera
 Asana
 AssemblyAI
 Astera Labs
@@ -599,6 +602,7 @@ Wise
 Wiz
 Wonderschool
 WorldQuant
+Woven by Toyota
 Wyetech
 XPENG Motors
 Yahoo

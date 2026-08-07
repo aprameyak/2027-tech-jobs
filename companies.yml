@@ -442,6 +442,12 @@ greenhouse:
 - name: Zynga
   slug: zyngacareers
 lever:
+- name: Aledade
+  slug: aledade
+- name: Ansatz Capital
+  slug: ansatzcapital
+- name: Artera
+  slug: artera-2
 - name: Blue Origin
   slug: blueorigin
 - name: Coupa Software
@@ -486,6 +492,8 @@ lever:
   slug: wealthfront
 - name: WHOOP
   slug: whoop
+- name: Woven by Toyota
+  slug: woven-by-toyota
 - name: Wyetech
   slug: wyetechllc
 - name: Zoox
