@@ -235,6 +235,7 @@ GenBio AI
 General Dynamics Information Technology
 General Motors
 Geneva Trading
+G-Research
 Giga AI
 GitLab
 Glean
