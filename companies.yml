@@ -1030,6 +1030,10 @@ workday:
   tenant: pg
   instance: wd5
   board: 1000
+- name: Prudential Financial
+  tenant: pru
+  instance: wd5
+  board: Careers
 - name: PTC
   tenant: ptc
   instance: wd1

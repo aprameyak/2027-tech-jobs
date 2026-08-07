@@ -349,7 +349,7 @@ Procter & Gamble (moved to companies.md — Workday: pg.wd5.myworkdayjobs.com/10
 Progressive Corporation (no public ATS API found)
 Proofpoint (SmartRecruiters API returns 0 postings — not a valid company board)
 Prosidian Consulting (SmartRecruiters — government consulting, limited postings)
-Prudential Financial (no public ATS API found)
+Prudential Financial (moved to companies.yml — Workday board: pru.wd5.myworkdayjobs.com/Careers)
 PsiQuantum (ATS not confirmed — Greenhouse and Ashby boards both redirect to custom site)
 PTC (moved to companies.yml — Workday board: ptc.wd1.myworkdayjobs.com/ptc)
 Publicis Sapient (SmartRecruiters API returns 0 postings — not a valid company board)
