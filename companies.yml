@@ -1194,6 +1194,10 @@ workday:
   tenant: volarisgroup
   instance: wd3
   board: volaris
+- name: Waystar
+  tenant: waystar
+  instance: wd1
+  board: Waystar
 - name: Wells Fargo
   tenant: wf
   instance: wd1

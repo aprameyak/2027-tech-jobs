@@ -582,6 +582,7 @@ Warp
 Wattpad
 Wayfair
 Waymo
+Waystar
 Wealthfront
 Wealthsimple
 Weaviate
