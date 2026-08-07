@@ -31561,5 +31561,18 @@
     "citizenship": "No",
     "date_added": "2026-08-07",
     "grad_date": ""
+  },
+  {
+    "company": "Twitch",
+    "role": "Software Engineer - Creator",
+    "location": "CASan Francisco, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.amazon.jobs/en/jobs/3019865/software-engineer-creator",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-07",
+    "grad_date": ""
   }
 ]
