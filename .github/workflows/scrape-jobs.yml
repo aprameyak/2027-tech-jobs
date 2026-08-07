@@ -28,21 +28,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests pyyaml
+      - run: pip install requests pyyaml anthropic
       - name: Scrape Greenhouse
         timeout-minutes: 50
         env:
           BOARD_GROUP: greenhouse
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
         run: python .github/scripts/scrape_jobs.py
       - name: Commit data files
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs_greenhouse.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/followed_companies.json .github/data/pending_greenhouse.json
+          git add .github/data/seen_jobs_greenhouse.json .github/data/title_classifications.json .github/data/claude_usage.json .github/data/followed_companies.json .github/data/pending_greenhouse.json
           if ! git diff --staged --quiet; then
             git commit -m "scraper data: greenhouse"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
@@ -61,21 +61,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests pyyaml
+      - run: pip install requests pyyaml anthropic
       - name: Scrape Ashby
         timeout-minutes: 30
         env:
           BOARD_GROUP: ashby
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
         run: python .github/scripts/scrape_jobs.py
       - name: Commit data files
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs_ashby.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/pending_ashby.json
+          git add .github/data/seen_jobs_ashby.json .github/data/title_classifications.json .github/data/claude_usage.json .github/data/pending_ashby.json
           if ! git diff --staged --quiet; then
             git commit -m "scraper data: ashby"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
@@ -94,21 +94,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests pyyaml
+      - run: pip install requests pyyaml anthropic
       - name: Scrape Workday
         timeout-minutes: 55
         env:
           BOARD_GROUP: workday
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
         run: python .github/scripts/scrape_jobs.py
       - name: Commit data files
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs_workday.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/pending_workday.json
+          git add .github/data/seen_jobs_workday.json .github/data/title_classifications.json .github/data/claude_usage.json .github/data/pending_workday.json
           if ! git diff --staged --quiet; then
             git commit -m "scraper data: workday"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
@@ -127,14 +127,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests pyyaml
+      - run: pip install requests pyyaml anthropic
       - name: Scrape LinkedIn and Amazon
         timeout-minutes: 55
         env:
           BOARD_GROUP: linkedin_amazon
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
         run: python .github/scripts/scrape_jobs.py
@@ -142,7 +142,7 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs_linkedin_amazon.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/pending_linkedin_amazon.json
+          git add .github/data/seen_jobs_linkedin_amazon.json .github/data/title_classifications.json .github/data/claude_usage.json .github/data/pending_linkedin_amazon.json
           if ! git diff --staged --quiet; then
             git commit -m "scraper data: linkedin_amazon"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
@@ -161,21 +161,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests pyyaml
+      - run: pip install requests pyyaml anthropic
       - name: Scrape Lever / SmartRecruiters / Workable / Recruitee / Pinpoint
         timeout-minutes: 40
         env:
           BOARD_GROUP: other
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
         run: python .github/scripts/scrape_jobs.py
       - name: Commit data files
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs_other.json .github/data/title_classifications.json .github/data/gemini_usage.json .github/data/pending_other.json
+          git add .github/data/seen_jobs_other.json .github/data/title_classifications.json .github/data/claude_usage.json .github/data/pending_other.json
           if ! git diff --staged --quiet; then
             git commit -m "scraper data: other"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
@@ -195,7 +195,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests pyyaml
+      - run: pip install requests pyyaml anthropic
       - name: Apply pending discoveries to listings.json
         run: python .github/scripts/apply_pending.py
       - name: Validate listings

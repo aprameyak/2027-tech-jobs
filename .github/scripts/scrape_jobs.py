@@ -7,6 +7,7 @@ import subprocess
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
+import anthropic
 import requests
 import yaml
 from pathlib import Path
@@ -24,20 +25,19 @@ _seen_jobs_filename = f'seen_jobs_{BOARD_GROUP}.json' if BOARD_GROUP else 'seen_
 SEEN_JOBS_FILE = Path(f'.github/data/{_seen_jobs_filename}')
 PENDING_FILE = Path(f'.github/data/pending_{BOARD_GROUP}.json') if BOARD_GROUP else None
 TITLE_CACHE_FILE = Path('.github/data/title_classifications.json')
-GEMINI_USAGE_FILE = Path('.github/data/gemini_usage.json')
+CLAUDE_USAGE_FILE = Path('.github/data/claude_usage.json')
 FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
 
-GEMINI_DAILY_LIMIT = 1400
-GEMINI_RPM_DELAY = 4.2
-GEMINI_BATCH_SIZE = 40
+CLAUDE_MODEL = 'claude-haiku-4-5-20251001'
+CLAUDE_BATCH_SIZE = 40
 
 MAX_WORKDAY_PAGES_PER_TERM = 15
 SCRAPER_MAX_WORKERS = 12
 
 _title_cache = None
 _confidence_cache = {}
-_gemini_calls_today = 0
-_gemini_usage_date = None
+_claude_calls_today = 0
+_claude_usage_date = None
 
 DEFAULT_FOLLOWED_COMPANIES = [
     'Amazon',
@@ -242,35 +242,35 @@ def save_title_cache():
         except Exception as e:
             print(f'  [Cache] Failed to save title cache: {e}')
 
-def load_gemini_usage():
-    global _gemini_calls_today, _gemini_usage_date
+def load_claude_usage():
+    global _claude_calls_today, _claude_usage_date
     today = datetime.now().strftime('%Y-%m-%d')
     try:
-        if GEMINI_USAGE_FILE.exists():
-            with open(GEMINI_USAGE_FILE) as f:
+        if CLAUDE_USAGE_FILE.exists():
+            with open(CLAUDE_USAGE_FILE) as f:
                 data = json.load(f)
             if isinstance(data, dict) and data.get('date') == today:
-                _gemini_calls_today = int(data.get('calls', 0))
-                _gemini_usage_date = today
+                _claude_calls_today = int(data.get('calls', 0))
+                _claude_usage_date = today
                 return
     except Exception as e:
-        print(f'  [Gemini] Failed to load usage file: {e} — starting fresh')
-    _gemini_calls_today = 0
-    _gemini_usage_date = today
+        print(f'  [Claude] Failed to load usage file: {e} — starting fresh')
+    _claude_calls_today = 0
+    _claude_usage_date = today
 
-def save_gemini_usage():
+def save_claude_usage():
     try:
-        GEMINI_USAGE_FILE.parent.mkdir(parents=True, exist_ok=True)
-        with open(GEMINI_USAGE_FILE, 'w') as f:
-            json.dump({'date': _gemini_usage_date, 'calls': _gemini_calls_today}, f)
+        CLAUDE_USAGE_FILE.parent.mkdir(parents=True, exist_ok=True)
+        with open(CLAUDE_USAGE_FILE, 'w') as f:
+            json.dump({'date': _claude_usage_date, 'calls': _claude_calls_today}, f)
     except Exception as e:
-        print(f'  [Gemini] Failed to save usage file: {e}')
+        print(f'  [Claude] Failed to save usage file: {e}')
 
-def batch_classify_with_gemini(titles):
-    global _gemini_calls_today
+def batch_classify_with_claude(titles):
+    global _claude_calls_today
 
-    api_key = os.environ.get('GEMINI_API_KEY')
-    if not api_key or _gemini_calls_today >= GEMINI_DAILY_LIMIT:
+    api_key = os.environ.get('ANTHROPIC_API_KEY')
+    if not api_key:
         return {}
 
     numbered = '\n'.join(f'{i + 1}. "{t}"' for i, t in enumerate(titles))
@@ -286,63 +286,47 @@ def batch_classify_with_gemini(titles):
         '- "confidence": "high" (clearly one way), "medium", or "low" (genuinely ambiguous — '
         'set is_tech true and flag low so a human reviews it)\n\n'
         f'Titles:\n{numbered}\n\n'
-        f'Return a JSON array of exactly {len(titles)} objects in the same order.'
+        f'Return a JSON array of exactly {len(titles)} objects in the same order. '
+        'Respond with only the JSON array, no other text.'
     )
 
     for attempt in range(2):
         try:
-            resp = requests.post(
-                f'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}',
-                json={
-                    'contents': [{'parts': [{'text': prompt}]}],
-                    'generationConfig': {
-                        'temperature': 0.0,
-                        'maxOutputTokens': len(titles) * 25 + 128,
-                        'responseMimeType': 'application/json',
-                    },
-                },
-                headers={'Content-Type': 'application/json'},
-                timeout=30,
+            client = anthropic.Anthropic(api_key=api_key)
+            message = client.messages.create(
+                model=CLAUDE_MODEL,
+                max_tokens=len(titles) * 25 + 128,
+                messages=[{'role': 'user', 'content': prompt}],
             )
 
-            if resp.status_code == 429:
-                wait = (2 ** attempt) * 5
-                print(f'  [Gemini] 429 rate limit — waiting {wait}s (attempt {attempt + 1}/2)')
-                time.sleep(wait)
-                continue
+            _claude_calls_today += 1
 
-            _gemini_calls_today += 1
-            time.sleep(GEMINI_RPM_DELAY)
-
-            if resp.status_code != 200:
-                print(f'  [Gemini] HTTP {resp.status_code}')
-                return {}
-
-            body = resp.json()
-            text = (
-                body.get('candidates', [{}])[0]
-                .get('content', {})
-                .get('parts', [{}])[0]
-                .get('text', '')
-            )
+            text = message.content[0].text.strip()
+            # Strip markdown code fences if present
+            text = re.sub(r'^```(?:json)?\s*', '', text)
+            text = re.sub(r'\s*```$', '', text)
             results = json.loads(text)
 
             if not isinstance(results, list) or len(results) != len(titles):
-                print(f'  [Gemini] Expected {len(titles)} results, got '
+                print(f'  [Claude] Expected {len(titles)} results, got '
                       f'{len(results) if isinstance(results, list) else type(results).__name__}')
                 return {}
 
             return {titles[i].lower(): results[i] for i in range(len(titles))}
 
         except json.JSONDecodeError as e:
-            print(f'  [Gemini] JSON parse error: {e}')
+            print(f'  [Claude] JSON parse error: {e}')
             return {}
-        except requests.exceptions.Timeout:
-            print(f'  [Gemini] Timeout (attempt {attempt + 1}/2)')
-            if attempt < 1:
-                time.sleep(5)
+        except anthropic.APIStatusError as e:
+            if e.status_code == 429:
+                wait = (2 ** attempt) * 5
+                print(f'  [Claude] 429 rate limit — waiting {wait}s (attempt {attempt + 1}/2)')
+                time.sleep(wait)
+                continue
+            print(f'  [Claude] API error {e.status_code}: {e.message}')
+            return {}
         except Exception as e:
-            print(f'  [Gemini] Error: {e}')
+            print(f'  [Claude] Error: {e}')
             return {}
 
     return {}
@@ -369,21 +353,13 @@ def classify_titles_batch(title_list):
     if not uncached:
         return 0
 
-    print(f'  [Gemini] Batch-classifying {len(uncached)} uncached titles '
-          f'({len(uncached) // GEMINI_BATCH_SIZE + 1} call(s))...')
+    print(f'  [Claude] Batch-classifying {len(uncached)} uncached titles '
+          f'({len(uncached) // CLAUDE_BATCH_SIZE + 1} call(s))...')
     classified = 0
 
-    for i in range(0, len(uncached), GEMINI_BATCH_SIZE):
-        if _gemini_calls_today >= GEMINI_DAILY_LIMIT:
-            print(f'  [Gemini] Daily limit reached — {len(uncached) - i} title(s) using keyword fallback')
-            for title in uncached[i:]:
-                tl = title.lower()
-                cache[tl] = is_tech_title_keywords(title)
-                _confidence_cache[tl] = 'low'
-                classified += 1
-            break
-        batch = uncached[i:i + GEMINI_BATCH_SIZE]
-        results = batch_classify_with_gemini(batch)
+    for i in range(0, len(uncached), CLAUDE_BATCH_SIZE):
+        batch = uncached[i:i + CLAUDE_BATCH_SIZE]
+        results = batch_classify_with_claude(batch)
         for title in batch:
             result = results.get(title.lower())
             if result is not None:
@@ -483,7 +459,7 @@ def classify_title(title):
         return cache[t], confidence != 'low'
 
     try:
-        results = batch_classify_with_gemini([title])
+        results = batch_classify_with_claude([title])
         if results and t in results:
             result = results[t]
             is_tech = bool(result.get('is_tech', False))
@@ -1195,7 +1171,7 @@ def create_github_issue(job, token, repo):
         labels = ['new listing', 'needs-review']
         notes = (
             f'Auto-discovered via {job["board"]} API. '
-            f'**Needs manual review** — Gemini was unavailable so this was classified by keyword matching only. '
+            f'**Needs manual review** — AI classification was unavailable so this was classified by keyword matching only. '
             f'Please verify this is a legitimate tech role before approving.'
         )
     body = f"""### Company Name
@@ -1278,7 +1254,7 @@ _BOARD_GROUP_BOARDS = {
 }
 
 def main():
-    load_gemini_usage()
+    load_claude_usage()
 
     try:
         with open('companies.yml') as f:
@@ -1388,8 +1364,8 @@ def main():
     if candidate_jobs:
         all_titles = [j['title'] for j in candidate_jobs]
         classified = classify_titles_batch(all_titles)
-        print(f'  [Gemini] Classified {classified} new title(s); '
-              f'{_gemini_calls_today} API call(s) used today')
+        print(f'  [Claude] Classified {classified} new title(s); '
+              f'{_claude_calls_today} API call(s) used today')
 
     new_jobs = []
     for job in candidate_jobs:
@@ -1463,8 +1439,8 @@ def main():
 
     save_seen_jobs(seen)
     save_title_cache()
-    save_gemini_usage()
-    print(f'Board group: {BOARD_GROUP or "all"} | Gemini calls today: {_gemini_calls_today}')
+    save_claude_usage()
+    print(f'Board group: {BOARD_GROUP or "all"} | Claude calls today: {_claude_calls_today}')
     print('Done')
 
 if __name__ == '__main__':
