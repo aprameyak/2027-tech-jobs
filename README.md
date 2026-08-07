@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| ByteDance | Network Software Engineer Intern - Network Switch | San Jose, CA | Undergrad | <a href="https://jobs.bytedance.com/en/position/7670778018960542005/detail" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | TikTok | Fullstack Software Engineer Intern - Global E-Commerce | Seattle, WA | Undergrad | <a href="https://lifeattiktok.com/search/7670700387322300677" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | ↳ | Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer | San Jose, CA | Undergrad | <a href="https://lifeattiktok.com/search/7670738362521520437" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | ByteDance | AI Network Automation Engineer Intern - Global Physical Network Infrastructure | San Jose, CA | Undergrad | <a href="https://jobs.bytedance.com/en/position/7670690923748870405/detail" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 6 |
