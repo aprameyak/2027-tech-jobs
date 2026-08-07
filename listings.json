@@ -31925,5 +31925,18 @@
     "citizenship": "No",
     "date_added": "2026-08-07",
     "grad_date": ""
+  },
+  {
+    "company": "Apple",
+    "role": "Embedded System Software Engineer",
+    "location": "San Diego, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.apple.com/en-us/details/200604992/embedded-system-software-engineer?team=SFTWR",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-07",
+    "grad_date": ""
   }
 ]
