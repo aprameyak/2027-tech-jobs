@@ -11077,5 +11077,18 @@
   "nurse practitioner - student health center": false,
   "entry level sales executive": false,
   "co-op/intern, it operations - fall 2026": false,
-  "junior project manager - hybrid ny": false
+  "junior project manager - hybrid ny": false,
+  "machine learning intern": true,
+  "applications engineering internship - spring 2027": true,
+  "avionics engineering internship - spring 2027": true,
+  "biologics formulation research internship - spring 2027": true,
+  "cybersecurity internship - spring 2027": true,
+  "environmental health & safety (ehs) internship - spring 2027": false,
+  "flight software internship - spring 2027": true,
+  "guidance, navigation & controls (gnc) internship - spring 2027": false,
+  "mechanisms & payload internship - spring 2027": false,
+  "propulsion engineering internship - spring 2027": true,
+  "site reliability internship - spring 2027": true,
+  "structures engineering internship - spring 2027": true,
+  "vehicle integration & test internship - spring 2027": false
 }
