@@ -1572,6 +1572,8 @@ ashby:
   slug: traba
 - name: Tracebit
   slug: tracebit
+- name: Uncountable
+  slug: uncountable
 - name: Vanta
   slug: vanta
 - name: Vercel
