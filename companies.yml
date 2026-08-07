@@ -598,6 +598,10 @@ workday:
   tenant: blackrock
   instance: wd1
   board: BlackRock_Professional
+- name: Blackstone
+  tenant: blackstone
+  instance: wd1
+  board: Blackstone_Campus_Careers
 - name: Boeing
   tenant: boeing
   instance: wd1
