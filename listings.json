@@ -30209,5 +30209,18 @@
     "citizenship": "No",
     "date_added": "2026-08-07",
     "grad_date": "Spring 2025"
+  },
+  {
+    "company": "Esri",
+    "role": "Software Development Engineer 1",
+    "location": "St. Louis, MO",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.esri.com/careers/4921407007?gh_jid=4921407007",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-07",
+    "grad_date": ""
   }
 ]
