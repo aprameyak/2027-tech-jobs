@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| TikTok | Fullstack Software Engineer Intern - Global E-Commerce | Seattle, WA | Undergrad | <a href="https://lifeattiktok.com/search/7670700387322300677" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | ByteDance | AI Network Automation Engineer Intern - Global Physical Network Infrastructure | San Jose, CA | Undergrad | <a href="https://jobs.bytedance.com/en/position/7670690923748870405/detail" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 6 |
 | ↳ | GPU/AI Application System Software Engineer Intern | San Jose, CA | Undergrad | <a href="https://jobs.bytedance.com/en/position/7668464504736876853/detail" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 6 |
 | ↳ | Applied Machine Learning Production Engineer Intern | San Jose, CA | Undergrad | <a href="https://jobs.bytedance.com/en/position/7670009669494704437/detail" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 6 |
