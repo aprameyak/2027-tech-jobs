@@ -218,6 +218,7 @@ Form Energy
 Formlabs
 FOX Corporation
 Franklin Templeton
+Freedom Technology Solutions Group
 FreeWheel
 Freshworks
 FTI Consulting
