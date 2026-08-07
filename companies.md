@@ -150,6 +150,7 @@ Cracker Barrel
 CreditGenie
 Cresta
 CrowdStrike
+Crusoe Energy Systems
 CTGT
 Cursor
 CVS Health
