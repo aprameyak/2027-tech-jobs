@@ -175,6 +175,7 @@ Draper
 DraftKings
 Dropbox
 DRW
+DV Trading
 Dune
 Duolingo
 DXC Technology
