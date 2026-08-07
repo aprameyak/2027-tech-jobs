@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| American Express | Product Management Intern - Global Merchant & Network Services | New York, NY | Undergrad | <a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | Bloxd | Software Engineer Intern | London, UK | Undergrad | <a href="https://jobs.ashbyhq.com/bloxd/7ade559a-d07d-4ffe-b6ec-c79e41632474/application?embed=true&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | ByteDance | Network Software Engineer Intern - Network Switch | San Jose, CA | Undergrad | <a href="https://jobs.bytedance.com/en/position/7670778018960542005/detail" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | ↳ | Network Software Engineer Intern - Network Observation | San Jose, CA | Undergrad | <a href="https://jobs.bytedance.com/en/position/7670772641439041797/detail" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
