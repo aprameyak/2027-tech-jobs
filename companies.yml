@@ -1570,6 +1570,8 @@ ashby:
   slug: titan-msp
 - name: Traba
   slug: traba
+- name: Tracebit
+  slug: tracebit
 - name: Vanta
   slug: vanta
 - name: Vercel
