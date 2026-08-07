@@ -473,6 +473,7 @@ Rocket Lab
 Rockwell Automation
 Rokt
 Roku
+Rollout
 Roland Berger
 Royal Bank of Canada
 RSM
