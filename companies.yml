@@ -1546,6 +1546,8 @@ ashby:
   slug: smxtech
 - name: Snowflake
   slug: snowflake
+- name: Spacial
+  slug: spacial
 - name: Span.io
   slug: span
 - name: SpreeAI
