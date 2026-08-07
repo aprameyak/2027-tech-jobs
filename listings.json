@@ -29182,5 +29182,18 @@
     "citizenship": "No",
     "date_added": "2026-08-07",
     "grad_date": ""
+  },
+  {
+    "company": "Amazon",
+    "role": "Security Engineer I, Security Incident Response Team (SIRT)",
+    "location": "Seattle, WA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.amazon.jobs/en/jobs/3171130/security-engineer-i-security-incident-response-team-sirt-security-incident-response-team-sirt",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-07",
+    "grad_date": ""
   }
 ]
