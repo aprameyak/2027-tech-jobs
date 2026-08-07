@@ -29585,5 +29585,18 @@
     "citizenship": "No",
     "date_added": "2026-08-07",
     "grad_date": ""
+  },
+  {
+    "company": "Apple",
+    "role": "Software Engineer, IS&T Early Career",
+    "location": "Sunnyvale, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-07",
+    "grad_date": ""
   }
 ]
