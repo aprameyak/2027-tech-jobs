@@ -59,6 +59,7 @@ AVEVA
 AvidXchange
 Axiomatic AI
 Axon
+Babel Street
 Backbone Systems
 Baker Hughes
 Base Power Company
