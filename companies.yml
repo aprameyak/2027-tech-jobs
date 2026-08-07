@@ -1038,6 +1038,10 @@ workday:
   tenant: ptc
   instance: wd1
   board: ptc
+- name: Qualifacts
+  tenant: qualifacts
+  instance: wd5
+  board: Qualifacts_External_Careers
 - name: Radiance Technologies
   tenant: radiancetech
   instance: wd12
