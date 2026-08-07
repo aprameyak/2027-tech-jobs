@@ -1330,6 +1330,8 @@ ashby:
   slug: corvus-robotics
 - name: CTGT
   slug: ctgt
+- name: CreditGenie
+  slug: creditgenie
 - name: Cursor
   slug: cursor
 - name: Cylake

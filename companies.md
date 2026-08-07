@@ -147,6 +147,7 @@ Coupa Software
 Coveo
 Cox Enterprises
 Cracker Barrel
+CreditGenie
 Cresta
 CrowdStrike
 CTGT
