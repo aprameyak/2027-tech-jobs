@@ -864,6 +864,10 @@ workday:
   tenant: kbr
   instance: wd5
   board: kbr_careers
+- name: LEGO Group
+  tenant: lego
+  instance: wd103
+  board: lego_executive
 - name: Leidos
   tenant: leidos
   instance: wd5
