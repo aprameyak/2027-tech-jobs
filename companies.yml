@@ -1556,6 +1556,8 @@ ashby:
   slug: suno
 - name: Supabase
   slug: supabase
+- name: Sybil
+  slug: runsybil-jobs
 - name: Tailscale
   slug: tailscale
 - name: Temporal
