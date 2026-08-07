@@ -814,6 +814,10 @@ workday:
   tenant: generalmotors
   instance: wd5
   board: Careers_GM
+- name: G-Research
+  tenant: gresearch
+  instance: wd103
+  board: G-Research
 - name: Global Payments
   tenant: tsys
   instance: wd1
