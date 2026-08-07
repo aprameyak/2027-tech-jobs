@@ -962,6 +962,10 @@ workday:
   tenant: nelnet
   instance: wd1
   board: MyNelnet
+- name: Netsmart
+  tenant: ntst
+  instance: wd1
+  board: careers
 - name: Netflix
   tenant: netflix
   instance: wd108
