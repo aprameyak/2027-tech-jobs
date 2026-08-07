@@ -560,6 +560,7 @@ Uare.ai
 UiPath
 Uline
 Upstart
+UVIMCO
 Valkyrie Trading
 Vanderbilt University Medical Center
 Vanta

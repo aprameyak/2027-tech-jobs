@@ -405,6 +405,8 @@ greenhouse:
   slug: uareai
 - name: Upstart
   slug: upstart
+- name: UVIMCO
+  slug: uvimco
 - name: Varda Space
   slug: vardaspace
 - name: Vast
