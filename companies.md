@@ -462,6 +462,7 @@ Remodel Health
 Rendezvous Robotics
 Replit
 ResMed
+Revel
 Riot Games
 Rippling
 Rivian and Volkswagen Group Technologies
