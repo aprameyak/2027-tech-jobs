@@ -646,6 +646,10 @@ workday:
   tenant: capitalone
   instance: wd12
   board: Capital_One
+- name: Chamberlain Group
+  tenant: chamberlain
+  instance: wd1
+  board: Chamberlain_Group
 - name: Chevron
   tenant: chevron
   instance: wd5
