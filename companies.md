@@ -543,6 +543,7 @@ Temporal
 Tenable
 Tencent
 Tenstorrent
+Terranova
 Tessera Labs
 The Trade Desk
 ThreatLocker

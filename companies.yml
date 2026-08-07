@@ -1562,6 +1562,8 @@ ashby:
   slug: tailscale
 - name: Temporal
   slug: temporal
+- name: Terranova
+  slug: terranova
 - name: Tessera Labs
   slug: tessera-labs
 - name: Titan
