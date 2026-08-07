@@ -694,6 +694,10 @@ workday:
   tenant: cisive
   instance: wd108
   board: Cisive
+- name: CNO Financial Group
+  tenant: cnoinc
+  instance: wd5
+  board: Careers
 - name: Clearwater Analytics
   tenant: clearwateranalytics
   instance: wd1
