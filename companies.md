@@ -285,6 +285,7 @@ Jane Street
 JPMorgan Chase
 Julius AI
 Jump Trading
+Katalyst Space Technologies
 Juniper Networks
 KAYAK
 KBR
