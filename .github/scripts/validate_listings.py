@@ -44,7 +44,11 @@ SENIOR_OK = re.compile(
     r'product manager.*graduate|graduate.*product manager|new grad.*product manager|'
     r'product manager graduate|technical program manager|engineering program manager|'
     r'solutions architect.*new grad|new grad.*solutions architect|'
-    r'new.?grad.*manager|manager.*new.?grad|new.?grad.*staff|staff.*new.?grad',
+    r'new.?grad.*manager|manager.*new.?grad|new.?grad.*staff|staff.*new.?grad|'
+    r'member of technical staff|'
+    r'new college grad.*manager|manager.*new college grad|new college grad.*staff|staff.*new college grad|'
+    r'new college grad.*lead|lead.*new college grad|'
+    r'product manager.*new college grad|new college grad.*product manager',
     re.I,
 )
 NEWGRAD_IN_TITLE = re.compile(r'new grad|new-grad|entry', re.I)
