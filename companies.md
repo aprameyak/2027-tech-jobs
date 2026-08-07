@@ -72,6 +72,7 @@ Binance.US
 BitGo
 BlackEdge Capital
 BlackRock
+Blackstone
 Block
 Bloomberg
 Blue Origin
