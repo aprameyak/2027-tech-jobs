@@ -400,6 +400,7 @@ Palantir
 Palo Alto Networks
 Parafin
 Parallel Web Systems
+Pariveda
 Parsons
 PathAI
 Payoneer
