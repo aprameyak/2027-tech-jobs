@@ -23528,5 +23528,18 @@
     "citizenship": "No",
     "date_added": "2026-08-06",
     "grad_date": ""
+  },
+  {
+    "company": "IXL Learning",
+    "role": "Software Developer, New Grad",
+    "location": "Toronto, ON",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.ixl.com/company/jobs?gh_jid=8663419002&utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-06",
+    "grad_date": ""
   }
 ]
