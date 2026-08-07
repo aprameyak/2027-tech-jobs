@@ -181,6 +181,7 @@ Duolingo
 DXC Technology
 ElevenLabs
 EliseAI
+Elwood Technologies
 Ellipsis Labs
 Endava
 Enphase Energy
