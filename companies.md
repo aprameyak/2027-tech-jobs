@@ -302,6 +302,7 @@ Last Energy
 Latent Defense
 Later
 LaunchDarkly
+LEGO Group
 Leidos
 Liberty University
 Light & Wonder
