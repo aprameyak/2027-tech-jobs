@@ -62,7 +62,7 @@ BlackBerry Limited (SmartRecruiters API returns 0 postings — not a valid compa
 Black Cape (ATS not confirmed — career site does not expose a scrapable public API)
 Block (moved to companies.md — Greenhouse slug: block)
 Blue River Technology (Greenhouse (embedded via gh_jid) — direct board slug not confirmed)
-BMO Capital Markets (no public ATS API found)
+BMO Capital Markets (moved to companies.yml as BMO Financial Group — Workday board: bmo.wd3.myworkdayjobs.com/External)
 BMW North America (no public ATS API found)
 BNP Paribas (SmartRecruiters API returns 0 postings — not a valid company board)
 BNY Mellon (SmartRecruiters API returns 0 postings — not a valid company board)

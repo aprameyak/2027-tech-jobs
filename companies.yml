@@ -606,6 +606,10 @@ workday:
   tenant: boeing
   instance: wd1
   board: EXTERNAL_CAREERS
+- name: BMO Financial Group
+  tenant: bmo
+  instance: wd3
+  board: External
 - name: Booz Allen Hamilton
   tenant: bah
   instance: wd1
