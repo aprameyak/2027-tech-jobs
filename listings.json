@@ -33264,5 +33264,18 @@
     "citizenship": "No",
     "date_added": "2026-08-08",
     "grad_date": ""
+  },
+  {
+    "company": "Citadel",
+    "role": "Software Engineer - University Graduate",
+    "location": "Greenwich, CT; Houston, TX; Miami, FL; New York, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-08",
+    "grad_date": ""
   }
 ]
