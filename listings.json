@@ -33368,5 +33368,18 @@
     "citizenship": "No",
     "date_added": "2026-08-08",
     "grad_date": ""
+  },
+  {
+    "company": "Cisco",
+    "role": "Software Engineer I",
+    "location": "San Jose, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.cisco.com/global/en/job/1449197",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-08",
+    "grad_date": ""
   }
 ]
