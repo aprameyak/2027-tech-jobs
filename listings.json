@@ -32664,5 +32664,18 @@
     "citizenship": "No",
     "date_added": "2026-08-08",
     "grad_date": ""
+  },
+  {
+    "company": "Samsara",
+    "role": "Software Engineer 1, New Grad",
+    "location": "San Francisco, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://samsara.com/company/careers/roles/8097343",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-08",
+    "grad_date": ""
   }
 ]
