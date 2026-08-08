@@ -32625,5 +32625,18 @@
     "citizenship": "No",
     "date_added": "2026-08-08",
     "grad_date": ""
+  },
+  {
+    "company": "ByteDance",
+    "role": "Backend Inference Runtime Engineer, New Grad",
+    "location": "San Jose, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.bytedance.com/en/position/7669789046777940229",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-08",
+    "grad_date": ""
   }
 ]
