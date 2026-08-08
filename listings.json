@@ -32690,5 +32690,17 @@
     "citizenship": "No",
     "date_added": "2026-08-08",
     "grad_date": ""
+  },
+  {
+    "company": "Trillium",
+    "role": "Software Engineer Intern - Summer 2027",
+    "location": "New York, NY",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://www.trlm.com/apply/5207089007",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-08"
   }
 ]
