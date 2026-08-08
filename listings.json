@@ -33098,5 +33098,30 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-08"
+  },
+  {
+    "company": "Xterra AI",
+    "role": "Research Scientist - Intern",
+    "location": "San Francisco, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/xterra%20ai/bc481f5a-3365-4048-8533-0c7728db512b?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-08"
+  },
+  {
+    "company": "Uber Technologies",
+    "role": "Software Engineer I",
+    "location": "Seattle, WA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.uber.com/en/jobs/160017",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-08",
+    "grad_date": ""
   }
 ]
