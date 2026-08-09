@@ -33793,5 +33793,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-09"
+  },
+  {
+    "company": "PepsiCo",
+    "role": "Junior Data Scientist",
+    "location": "Mississauga, ON",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://uscareers-pepsico.icims.com/jobs/415877/junior-data-scientist-new-grad/job",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-09",
+    "grad_date": ""
   }
 ]
