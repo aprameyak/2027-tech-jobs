@@ -33903,5 +33903,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-09"
+  },
+  {
+    "company": "Applied Systems",
+    "role": "Software Engineer",
+    "location": "Toronto, ON",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://canada-appliedsystems.icims.com/jobs/6506/software-engineer/job",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-09",
+    "grad_date": ""
   }
 ]
