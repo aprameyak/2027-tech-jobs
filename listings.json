@@ -33623,5 +33623,30 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-09"
+  },
+  {
+    "company": "AMD",
+    "role": "ROCm AI - GPU Software Engineer",
+    "location": "Markham, ON",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.amd.com/careers-home/jobs/68831",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-09",
+    "grad_date": ""
+  },
+  {
+    "company": "DRW",
+    "role": "Software Developer Intern",
+    "location": "Montreal, QC",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-09"
   }
 ]
