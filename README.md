@@ -35,10 +35,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Copart | Software Engineering Intern | Dallas, TX | Undergrad | <a href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 9 |
 | ↳ | Database Engineering Intern | Dallas, TX | Undergrad | <a href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 9 |
 | Corpay | Web Application Developer Intern | Louisville, KY | Undergrad | <a href="https://jobs.dayforcehcm.com/en-US/corpay/candidateportal/jobs/55812" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 9 |
-| DRW | Software Developer Intern | Montreal, QC | Undergrad | <a href="https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 9 |
-| ↳ | Quantitative Trading Analyst Intern | Chicago, IL | Undergrad | <a href="https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 9 |
-| ↳ | Platform Engineer Intern | Chicago, IL | Undergrad | <a href="https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 9 |
-| ↳ | AI/ML Research Intern | Montreal, QC | Undergrad | <a href="https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 9 |
 | Fiserv | Application Development Intern | Alpharetta, GA | Undergrad | <a href="https://careers.fiserv.com/us/en/job/FFFYJUSR10390264EXTERNALENUS/Application-Development-Summer-Intern" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 9 |
 | ↳ | Technology Intern | Columbus, OH | Undergrad | <a href="https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 9 |
 | General Dynamics Information Technology | Summer 2027 AI/Machine Learning Internship - DC Metro Area | Falls Church, VA | Undergrad | <a href="https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 9 |
@@ -145,8 +141,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Databricks | Product Management Intern | WAMountain View, CA | Undergrad | <a href="https://boards.greenhouse.io/embed/job_app?token=6883068002&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | DE Shaw | Software Developer Intern | New York, NY | Undergrad | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | Dexmate | Frontend Engineer Intern | Fremont, CA | Undergrad | <a href="https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
-| DRW | Quantitative Researcher Intern | Chicago, IL | Undergrad | <a href="https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
-| ↳ | Software Engineer Intern | Chicago, IL | Undergrad | <a href="https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | Etched | Inference Intern, Architecture | San Jose, CA | Undergrad | <a href="https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | Eulerity | Website Developer & Content Marketing Intern - AI & Automation | New York City, NY | Undergrad | <a href="https://job-boards.greenhouse.io/eulerity/jobs/4694300006?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | Flow Traders | Quantitative Trader Intern | New York, NY | Undergrad | <a href="https://www.flowtraders.com/careers/job-description/8047166" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
@@ -572,6 +566,10 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Tower Research Capital | Quantitative Trader Intern - Summer 2027 | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> | Undergrad | <a href="https://www.tower-research.com/open-positions/?gh_jid=8024128" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | ↳ | Quantitative Trader Intern, PhD | New York, NY | PhD | <a href="https://www.tower-research.com/open-positions/?gh_jid=8024138" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | ↳ | Quantitative Developer Intern - Summer 2027 | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> | Undergrad | <a href="https://www.tower-research.com/open-positions/?gh_jid=8044334" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
+| DRW | Software Developer Intern | Montreal, QC | Undergrad | 🔒 | Aug 9 |
+| ↳ | Quantitative Trading Analyst Intern | Chicago, IL | Undergrad | 🔒 | Aug 9 |
+| ↳ | Platform Engineer Intern | Chicago, IL | Undergrad | 🔒 | Aug 9 |
+| ↳ | AI/ML Research Intern | Montreal, QC | Undergrad | 🔒 | Aug 9 |
 | Chicago Trading Company | Quant Trading Internship | Chicago, IL | Undergrad | 🔒 | Aug 8 |
 | ↳ | Cyber Security IT Intern | Carmel, IN | Undergrad | 🔒 | Aug 8 |
 | ↳ | Machine Learning Intern | Montreal, QC | Undergrad | 🔒 | Aug 8 |
@@ -609,6 +607,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Corpay | Web Application Developer Intern | Louisville, KY | Undergrad | 🔒 | Aug 7 |
 | Dedalus Labs | Forward Deployed Engineer Intern | San Francisco, CA | Undergrad | 🔒 | Aug 7 |
 | DimeHealth AI | Forward Deployed Engineering Intern | New York, NY | Undergrad | 🔒 | Aug 7 |
+| DRW | Quantitative Researcher Intern | Chicago, IL | Undergrad | 🔒 | Aug 7 |
+| ↳ | Software Engineer Intern | Chicago, IL | Undergrad | 🔒 | Aug 7 |
 | Fiserv | Application Development Intern | Alpharetta, GA | Undergrad | 🔒 | Aug 7 |
 | ↳ | Technology Intern | Columbus, OH | Undergrad | 🔒 | Aug 7 |
 | General Astronautics | Engineering Intern | San Francisco, CA | Undergrad | 🔒 | Aug 7 |
