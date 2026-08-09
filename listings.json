@@ -33806,5 +33806,18 @@
     "citizenship": "No",
     "date_added": "2026-08-09",
     "grad_date": ""
+  },
+  {
+    "company": "Quadient",
+    "role": "Software Engineer",
+    "location": "Vancouver, BC",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.quadient.com/en/jobs/junior-software-engineer",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-09",
+    "grad_date": ""
   }
 ]
