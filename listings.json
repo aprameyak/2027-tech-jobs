@@ -33941,5 +33941,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-09"
+  },
+  {
+    "company": "Neo Financial",
+    "role": "Software Developer",
+    "location": "Calgary, AB",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://ats.rippling.com/en-CA/neo-financial/jobs/a2fd15b5-5bee-483e-b28f-66980dad691b",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-09",
+    "grad_date": ""
   }
 ]
