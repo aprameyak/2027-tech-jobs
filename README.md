@@ -1165,7 +1165,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | General Dynamics Information Technology | Junior Software Engineer - Clearance Sponsorship | Annapolis Junction, MD |  | Undergrad | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Engineer--Clearance-Sponsorship-_RQ225594?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 8 |
 | IXL Learning | Software Engineer, New Grad | San Mateo, CA |  | Undergrad | <a href="https://ixl.com/company/jobs?gh_jid=8662881002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 8 |
 | ↳ | Software Engineer, New Grad | Raleigh, NC |  | Undergrad | <a href="https://ixl.com/company/jobs?gh_jid=8663379002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 8 |
-| ↳ | Software Developer, New Grad - Integrations | Toronto, ON |  | Undergrad | <a href="https://ixl.com/company/jobs?gh_jid=8663419002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 8 |
 | L3Harris Technologies | Associate Software Engineer | <details><summary>**3 locations**</summary>Herndon, VA</br>Colorado Springs, CO</br>Palm Bay, FL</details> |  | Undergrad | <a href="https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 8 |
 | Lightfield | Software Engineer, New Grad - Applied AI | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 8 |
 | Maven Securities | Graduate Developer Programme Chicago 2027 | Chicago, IL |  | Undergrad | <a href="https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 8 |
@@ -1233,7 +1232,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | KBR | Full Stack Software Engineer | Moffett Field, CA |  | Undergrad | <a href="https://bs.com/KBR_Careers/job/Moffett-Field-California/Full-Stack-Software-Engineer_R2106782" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | L3Harris Technologies | Software Engineer New Grad | Salt Lake City, UT |  | Undergrad | <a href="https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1416228900/?ats=successfactors" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | ↳ | Associate Software Engineer 1 | Melbourne, FL |  | Undergrad | <a href="https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32919/1416023200/?ats=successfactors" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
-| Lightfield | Software Engineer New Grad - Applied AI | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d/application?embed=true&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | Liquid | Member of Technical Staff | New York, NY |  | Undergrad | <a href="https://jobs.ashbyhq.com/liquid/7b47044b-4b81-44b4-8986-ea5eaaa85c27?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | LiveScore Group | Junior Data Scientist - Marketing Analytics | London, UK |  | Undergrad | <a href="https://job-boards.greenhouse.io/livescore9/jobs/8683687002?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | Lockheed Martin | AI Platform Engineer | Remote (US) |  | Undergrad | <a href="https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5010&PageType=JobDetails&jobid=792011#jobDetails=792011_5010" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
@@ -1712,7 +1710,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Julius AI | Software Engineer New Grad - Product | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | KBR | Junior Software Engineer | Beavercreek, OH |  | Undergrad | <a href="https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | KRG Technologies | Junior Software Engineer | Redmond, WA |  | Undergrad | <a href="https://jobs.smartrecruiters.com/KrgTechnologyInc/101351633" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
-| Lightfield | Software Engineer - Applied AI - New Grad | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Maritz | Software Engineer 1 | Fenton, MO |  | Undergrad | <a href="https://maritz.wd1.myworkdayjobs.com/en-US/Maritz/job/Fenton-MO/Software-Engineer-I_R15306?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Mechanize | Junior Software Engineer | San Francisco, CA |  | Undergrad | <a href="https://www.mechanize.work/apply/software-engineer/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | MedImpact | Full Stack Software Engineer 1 | San Diego, CA |  | Undergrad | <a href="https://medimpact.wd5.myworkdayjobs.com/en-US/medimpact/job/San-Diego-CA/Software-Engineer-I_JR102576?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
@@ -1901,6 +1898,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineer I - Web Development/Applications | Olathe, KS |  | Undergrad | 🔒 | Aug 8 |
 | ↳ | Software Engineer I | Olathe, KS |  | Undergrad | 🔒 | Aug 8 |
 | ↳ | Data Analyst Associate (New Grad) | Remote |  | Undergrad | 🔒 | Aug 8 |
+| ↳ | Software Developer, New Grad - Integrations | Toronto, ON |  | Undergrad | 🔒 | Aug 8 |
 | Neo Financial | Software Developer | Calgary, AB |  | Undergrad | 🔒 | Aug 8 |
 | Profound | Software Engineer, New Grad | <details><summary>**2 locations**</summary>New York, NY</br>San Francisco, CA</details> |  | Undergrad | 🔒 | Aug 8 |
 | Reverb | Software Engineer, Shipping | Chicago, IL |  | Undergrad | 🔒 | Aug 8 |
@@ -2057,6 +2055,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Junior Communications Systems Software Engineer | Beavercreek, OH |  | Undergrad | 🔒 | Aug 7 |
 | ↳ | Software Engineering Associate | Reston, VA |  | Undergrad | 🔒 | Aug 7 |
 | Leidos | Junior Software Engineer | Columbia, MD |  | Undergrad | 🔒 | Aug 7 |
+| Lightfield | Software Engineer New Grad - Applied AI | San Francisco, CA |  | Undergrad | 🔒 | Aug 7 |
 | LinkedIn | Associate Product Builder (APB) - Rotational Program | CASan Francisco, CA |  | Undergrad | 🔒 | Aug 7 |
 | Liva AI | Founding Engineer | San Francisco, CA |  | Undergrad | 🔒 | Aug 7 |
 | Lumenalta | Full Stack Engineer | Remote |  | Undergrad | 🔒 | Aug 7 |
@@ -2589,6 +2588,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Edison Engineering Development Program - Software - January 2027 | Louisville, KY | Fall 2026 | Undergrad | 🔒 | Jul 23 |
 | GRAIL | Data Analytics Engineer 1 | Durham, NC |  | Undergrad | 🔒 | Jul 23 |
 | Jane Street | Cybersecurity Analyst | New York, NY |  | Undergrad | 🔒 | Jul 23 |
+| Lightfield | Software Engineer - Applied AI - New Grad | San Francisco, CA |  | Undergrad | 🔒 | Jul 23 |
 | Mastercard | Software Engineer 1 | O'Fallon, MO |  | Undergrad | 🔒 | Jul 23 |
 | McDonald's | Software Engineer 1 - C# | Chicago, IL |  | Undergrad | 🔒 | Jul 23 |
 | Momentum Engineering | Software Engineer 1 | Annapolis Junction, MD |  | Undergrad | 🔒 | Jul 23 |
