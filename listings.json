@@ -33818,5 +33818,30 @@
     "citizenship": "No",
     "date_added": "2026-08-09",
     "grad_date": ""
+  },
+  {
+    "company": "Tower Research Capital",
+    "role": "New Grad: C++ Software Engineer",
+    "location": "Montreal, QC",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://tower-research.com/open-positions/?gh_jid=6855851",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-09",
+    "grad_date": ""
+  },
+  {
+    "company": "Fiserv",
+    "role": "Technology Intern",
+    "location": "Columbus, OH",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-09"
   }
 ]
