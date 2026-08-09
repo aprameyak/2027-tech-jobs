@@ -37,6 +37,8 @@ greenhouse:
   slug: AsteraLabs
 - name: Astranis Space Technologies
   slug: astranis
+- name: Atoms
+  slug: cssmerge
 - name: Attentive
   slug: attentive
 - name: Aurora Innovation
@@ -123,10 +125,10 @@ greenhouse:
   slug: dropbox
 - name: DRW
   slug: drweng
-- name: DV Trading
-  slug: dvtrading
 - name: Duolingo
   slug: duolingo
+- name: DV Trading
+  slug: dvtrading
 - name: Elwood Technologies
   slug: elwoodtechnologies
 - name: Epic Games
@@ -189,6 +191,8 @@ greenhouse:
   slug: iherb
 - name: IMC Trading
   slug: imc
+- name: Impact
+  slug: impact
 - name: Instacart
   slug: instacart
 - name: InstaLILY
@@ -369,6 +373,8 @@ greenhouse:
   slug: tenableinc
 - name: Tenstorrent
   slug: tenstorrent
+- name: The Nuclear Company
+  slug: thenuclearcompany
 - name: The Trade Desk
   slug: thetradedesk
 - name: ThreatLocker
@@ -385,14 +391,14 @@ greenhouse:
   slug: transmarketgroup
 - name: TripAdvisor
   slug: tripadvisor
-- name: Tudor Group
-  slug: tudorgroup
 - name: True Anomaly
   slug: trueanomalyinc
 - name: TrueBuilt
   slug: applytotruebuilt
 - name: Truveta
   slug: truveta
+- name: Tudor Group
+  slug: tudorgroup
 - name: Twilio
   slug: twilio
 - name: Twitch
@@ -442,18 +448,24 @@ greenhouse:
 - name: Zynga
   slug: zyngacareers
 lever:
+- name: ACDS
+  slug: acds
 - name: Aledade
   slug: aledade
 - name: Ansatz Capital
   slug: ansatzcapital
 - name: Artera
   slug: artera-2
+- name: Belvedere Trading
+  slug: belvederetrading
 - name: Blue Origin
   slug: blueorigin
 - name: Coupa Software
   slug: coupa
 - name: Datalab USA
   slug: datalabusa
+- name: EV Realty
+  slug: evrealty-us
 - name: Exowatt
   slug: exowatt
 - name: GenBio AI
@@ -496,6 +508,8 @@ lever:
   slug: woven-by-toyota
 - name: Wyetech
   slug: wyetechllc
+- name: Xsolla
+  slug: xsolla
 - name: Zoox
   slug: zoox
 smartrecruiters:
@@ -610,14 +624,14 @@ workday:
   tenant: autodesk
   instance: wd1
   board: Ext
-- name: Axos Bank
-  tenant: axos
-  instance: wd5
-  board: Axos
 - name: AVEVA
   tenant: aveva
   instance: wd3
   board: AVEVA_careers
+- name: Axos Bank
+  tenant: axos
+  instance: wd5
+  board: Axos
 - name: Baker Hughes
   tenant: bakerhughes
   instance: wd5
@@ -630,14 +644,14 @@ workday:
   tenant: blackstone
   instance: wd1
   board: Blackstone_Campus_Careers
-- name: Boeing
-  tenant: boeing
-  instance: wd1
-  board: EXTERNAL_CAREERS
 - name: BMO Financial Group
   tenant: bmo
   instance: wd3
   board: External
+- name: Boeing
+  tenant: boeing
+  instance: wd1
+  board: EXTERNAL_CAREERS
 - name: Booz Allen Hamilton
   tenant: bah
   instance: wd1
@@ -694,10 +708,6 @@ workday:
   tenant: cisive
   instance: wd108
   board: Cisive
-- name: CNO Financial Group
-  tenant: cnoinc
-  instance: wd5
-  board: Careers
 - name: Clearwater Analytics
   tenant: clearwateranalytics
   instance: wd1
@@ -706,6 +716,10 @@ workday:
   tenant: cloudera
   instance: wd5
   board: External_Career
+- name: CNO Financial Group
+  tenant: cnoinc
+  instance: wd5
+  board: Careers
 - name: Comcast NBCUniversal
   tenant: comcast
   instance: wd5
@@ -754,14 +768,14 @@ workday:
   tenant: disney
   instance: wd5
   board: disneycareer
-- name: Draper
-  tenant: draper
-  instance: wd5
-  board: draper_careers
 - name: DraftKings
   tenant: draftkings
   instance: wd1
   board: DraftKings
+- name: Draper
+  tenant: draper
+  instance: wd5
+  board: draper_careers
 - name: DXC Technology
   tenant: dxctechnology
   instance: wd1
@@ -798,6 +812,10 @@ workday:
   tenant: firstorion
   instance: wd1
   board: first_orion
+- name: Fiserv
+  tenant: fiserv
+  instance: wd5
+  board: ext
 - name: FOX Corporation
   tenant: fox
   instance: wd1
@@ -814,6 +832,10 @@ workday:
   tenant: fticonsulting
   instance: wd108
   board: FTIConsultingCareers
+- name: G-Research
+  tenant: gresearch
+  instance: wd103
+  board: G-Research
 - name: GE Aerospace
   tenant: geaerospace
   instance: wd5
@@ -838,10 +860,6 @@ workday:
   tenant: generalmotors
   instance: wd5
   board: Careers_GM
-- name: G-Research
-  tenant: gresearch
-  instance: wd103
-  board: G-Research
 - name: Global Payments
   tenant: tsys
   instance: wd1
@@ -982,14 +1000,14 @@ workday:
   tenant: nelnet
   instance: wd1
   board: MyNelnet
-- name: Netsmart
-  tenant: ntst
-  instance: wd1
-  board: careers
 - name: Netflix
   tenant: netflix
   instance: wd108
   board: Netflix
+- name: Netsmart
+  tenant: ntst
+  instance: wd1
+  board: careers
 - name: Nidec
   tenant: nidec
   instance: wd1
@@ -1344,12 +1362,12 @@ ashby:
   slug: confluent
 - name: Corvus Robotics
   slug: corvus-robotics
-- name: CTGT
-  slug: ctgt
 - name: CreditGenie
   slug: creditgenie
 - name: Crusoe Energy Systems
   slug: crusoe
+- name: CTGT
+  slug: ctgt
 - name: Cursor
   slug: cursor
 - name: Cylake
@@ -1362,6 +1380,8 @@ ashby:
   slug: deepgram
 - name: Dune
   slug: dune
+- name: Egra
+  slug: egra
 - name: ElevenLabs
   slug: elevenlabs
 - name: EliseAI
@@ -1420,6 +1440,8 @@ ashby:
   slug: interaction
 - name: Julius AI
   slug: julius
+- name: Kastle
+  slug: kastle
 - name: kos.ai
   slug: kos.ai
 - name: Kraken
@@ -1430,6 +1452,8 @@ ashby:
   slug: lambda
 - name: Latent Defense
   slug: Latent Defense
+- name: Leland
+  slug: leland
 - name: Lightfield
   slug: lightfield
 - name: Lightspeed Commerce
@@ -1472,12 +1496,16 @@ ashby:
   slug: northwoodspace
 - name: Notion
   slug: notion
+- name: NTT DATA AIVista
+  slug: ntt-data-aivista
 - name: Nubank
   slug: nubank
 - name: OpenAI
   slug: openai
 - name: OpenGov
   slug: opengov
+- name: OpusClip
+  slug: opusclip
 - name: Parafin
   slug: parafin
 - name: Parallel Web Systems
@@ -1486,8 +1514,6 @@ ashby:
   slug: pariveda
 - name: Perplexity
   slug: perplexity
-- name: Preference Model
-  slug: preference-model
 - name: Persona
   slug: persona
 - name: Persona AI
@@ -1502,6 +1528,8 @@ ashby:
   slug: pointone
 - name: PostHog
   slug: posthog
+- name: Preference Model
+  slug: preference-model
 - name: Profound
   slug: profound
 - name: Pylon
@@ -1530,6 +1558,8 @@ ashby:
   slug: replit
 - name: Revel
   slug: revel
+- name: Rho
+  slug: rho
 - name: Rivian and Volkswagen Group Technologies
   slug: rivianvw.tech
 - name: Rokt
@@ -1588,6 +1618,8 @@ ashby:
   slug: uncountable
 - name: Vanta
   slug: vanta
+- name: Veeda AI
+  slug: veeda-labs
 - name: Vercel
   slug: vercel
 - name: Waabi

@@ -6,6 +6,7 @@ AbbVie
 Abnormal Security
 Abridge
 Accenture
+ACDS
 Acrisure
 Adobe
 Adtran
@@ -15,10 +16,10 @@ Agilent Technologies
 AIG
 Airbnb
 Airtable
-Aledade
 Airwallex
 Akuna Capital
 Alation
+Aledade
 All companies actively scraped by the automated workflow.
 Allegion
 Allen Control Systems
@@ -54,20 +55,22 @@ AssemblyAI
 Astera Labs
 Astranis Space Technologies
 Atomic Semi
+Atoms
 Attentive
 Auctor
 Aurora Innovation
 Autodesk
-Axos Bank
 AVEVA
 AvidXchange
 Axiomatic AI
 Axon
+Axos Bank
 Babel Street
 Backbone Systems
 Baker Hughes
 Base Power Company
 Beacon Software
+Belvedere Trading
 Benchling
 Bild AI
 Bill.com
@@ -77,13 +80,13 @@ BitGo
 BlackEdge Capital
 BlackRock
 Blackstone
-Blockhouse
 Block
+Blockhouse
 Bloomberg
 Blue Origin
+BMO Financial Group
 Boeing
 Boerboel
-BMO Financial Group
 Bolt
 Booz Allen Hamilton
 Boston Dynamics
@@ -111,8 +114,8 @@ CarGurus
 Carta
 Centerfield
 Cerebras
-Chamberlain Group
 Chainguard
+Chamberlain Group
 ChargePoint
 Charles River Analytics
 Checkr
@@ -124,7 +127,6 @@ Circleback
 Cisco
 Cisive
 Citizen Health
-CNO Financial Group
 Clarity Innovations
 Clearwater Analytics
 Clera
@@ -132,6 +134,7 @@ ClickHouse
 Clipboard Health
 Cloudera
 Cloudflare
+CNO Financial Group
 Coalesce
 Cockroach Labs
 Cognition AI
@@ -179,18 +182,19 @@ Disney
 Docugami
 DocuSign
 DoorDash
-Draper
 DraftKings
+Draper
 Dropbox
 DRW
-DV Trading
 Dune
 Duolingo
+DV Trading
 DXC Technology
+Egra
 ElevenLabs
 EliseAI
-Elwood Technologies
 Ellipsis Labs
+Elwood Technologies
 Endava
 Enphase Energy
 Epic Games
@@ -200,6 +204,7 @@ Eragon
 Esri
 Etched
 Eulerity
+EV Realty
 Eventual
 Everfox
 Evolver
@@ -217,6 +222,7 @@ Figure AI
 FINRA
 Firetiger
 First Orion
+Fiserv
 Five Rings
 Flashpoint
 Flexport
@@ -231,6 +237,7 @@ FreeWheel
 Freshworks
 FTI Consulting
 FurtherAI
+G-Research
 Gatik
 GE Aerospace
 GE Appliances
@@ -243,7 +250,6 @@ GenBio AI
 General Dynamics Information Technology
 General Motors
 Geneva Trading
-G-Research
 Giga AI
 GitLab
 Glean
@@ -281,6 +287,7 @@ ICONIQ Capital
 IDEXX
 iHerb
 IMC Trading
+Impact
 Instacart
 InstaLILY
 Integra FEC
@@ -293,8 +300,9 @@ Jane Street
 JPMorgan Chase
 Julius AI
 Jump Trading
-Katalyst Space Technologies
 Juniper Networks
+Kastle
+Katalyst Space Technologies
 KAYAK
 KBR
 Klaviyo
@@ -312,6 +320,7 @@ Later
 LaunchDarkly
 LEGO Group
 Leidos
+Leland
 Liberty University
 Light & Wonder
 Lightfield
@@ -331,8 +340,8 @@ Maritz
 Marmon Holdings
 Marqeta
 Marvell Technology
-Maven Securities
 Mastercard
+Maven Securities
 MedImpact
 Medtronic
 Melius
@@ -364,11 +373,11 @@ NCR Voyix
 Neighborly
 Nelnet
 Neon
-Netsmart
 NerdWallet
 Netflix
 Netic
 Netlify
+Netsmart
 Neuralink
 NewsBreak
 Nextdoor
@@ -385,6 +394,7 @@ Northspyre
 Northwestern Mutual
 Northwood Space
 Notion
+NTT DATA AIVista
 Nubank
 Nuro
 NVIDIA
@@ -395,6 +405,7 @@ Old Mission Capital
 OpenAI
 OpenGov
 Optiver
+OpusClip
 Oscar Health
 Outrider
 PagerDuty
@@ -411,7 +422,6 @@ PDT Partners
 Perpay
 Perplexity
 Persona
-Preference Model
 Persona AI
 Physical Intelligence
 Pinecone
@@ -432,6 +442,7 @@ Poshmark
 PostHog
 Postman
 Precisely
+Preference Model
 Priceline
 Procter & Gamble
 Profound
@@ -466,6 +477,7 @@ Rendezvous Robotics
 Replit
 ResMed
 Revel
+Rho
 Riot Games
 Rippling
 Rivian and Volkswagen Group Technologies
@@ -476,8 +488,8 @@ Rocket Lab
 Rockwell Automation
 Rokt
 Roku
-Rollout
 Roland Berger
+Rollout
 Royal Bank of Canada
 RSM
 RTX
@@ -549,6 +561,7 @@ Tencent
 Tenstorrent
 Terranova
 Tessera Labs
+The Nuclear Company
 The Trade Desk
 ThreatLocker
 Titan
@@ -563,10 +576,10 @@ Travelers
 Trimble
 TripAdvisor
 True Anomaly
-Tudor Group
 TrueBuilt
 Truist
 Truveta
+Tudor Group
 Twilio
 Twitch
 Two Sigma
@@ -574,9 +587,9 @@ Two Six Technologies
 Typeform
 U.S. Bank
 Uare.ai
-Uncountable
 UiPath
 Uline
+Uncountable
 Upstart
 UVIMCO
 Valkyrie Trading
@@ -585,6 +598,7 @@ Vanta
 Varda Space
 Vast
 Veeam Software
+Veeda AI
 Veeva Systems
 Vercel
 Verisign
@@ -617,6 +631,7 @@ WorldQuant
 Woven by Toyota
 Wyetech
 XPENG Motors
+Xsolla
 Yahoo
 Yotta
 Yotta Labs
