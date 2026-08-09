@@ -23753,8 +23753,8 @@
     "company": "GE Appliances",
     "role": "Software Engineer Co-op - Software Engineering",
     "location": "Louisville, KY",
-    "type": "summer",
-    "season": "Summer 2027",
+    "type": "offcycle",
+    "season": "Co-op",
     "education": "Undergrad",
     "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427?utm_source=aprameyak",
     "sponsorship": "Unknown",
@@ -26060,7 +26060,7 @@
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
-    "url": "https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-SummerFall-Co-Op-(June-&apos;26-Dec-&apos;26)-CA-92602/76295-en_US/?feedId=177100",
+    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-07"
@@ -26382,8 +26382,8 @@
     "company": "Altom Transport",
     "role": "Fall Software Development Intern",
     "location": "Hammond, IN",
-    "type": "summer",
-    "season": "Summer 2027",
+    "type": "offcycle",
+    "season": "Fall 2027",
     "education": "Undergrad",
     "url": "https://apply.workable.com/altom-transport/j/9FC654F05E/",
     "sponsorship": "Unknown",
@@ -33394,5 +33394,17 @@
     "citizenship": "No",
     "date_added": "2026-08-08",
     "grad_date": ""
+  },
+  {
+    "company": "General Dynamics Information Technology",
+    "role": "Summer 2027 AI/Machine Learning Internship - DC Metro Area",
+    "location": "Falls Church, VA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-09"
   }
 ]
