@@ -33884,5 +33884,18 @@
     "citizenship": "No",
     "date_added": "2026-08-09",
     "grad_date": ""
+  },
+  {
+    "company": "Mastercard",
+    "role": "Software Engineer I",
+    "location": "Vancouver, BC",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.mastercard.com/us/en/job/MASRUSR245943EXTERNALENUS/Software-Engineer-I-SDET-Java",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-09",
+    "grad_date": ""
   }
 ]
