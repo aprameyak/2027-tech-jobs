@@ -33858,5 +33858,18 @@
     "citizenship": "No",
     "date_added": "2026-08-09",
     "grad_date": ""
+  },
+  {
+    "company": "AMD",
+    "role": "ROCm AI - GPU Software Engineer",
+    "location": "Markham, ON",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.amd.com/careers-home/jobs/68831",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-09",
+    "grad_date": ""
   }
 ]
