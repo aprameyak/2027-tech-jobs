@@ -33935,5 +33935,30 @@
     "citizenship": "No",
     "date_added": "2026-08-09",
     "grad_date": ""
+  },
+  {
+    "company": "Netsmart",
+    "role": "Cloud Engineer Intern",
+    "location": "Overland Park, KS",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://ntst.wd1.myworkdayjobs.com/en-US/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-09"
+  },
+  {
+    "company": "Tower Research Capital",
+    "role": "New Grad: C++ Software Engineer, MTL",
+    "location": "Montreal, QC",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://tower-research.com/open-positions/?gh_jid=6855851&utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-09",
+    "grad_date": ""
   }
 ]
