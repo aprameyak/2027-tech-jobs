@@ -34524,5 +34524,18 @@
     "citizenship": "No",
     "date_added": "2026-08-11",
     "grad_date": ""
+  },
+  {
+    "company": "Cummins",
+    "role": "Software Engineer 1",
+    "location": "Columbus, IN",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435081",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-11",
+    "grad_date": ""
   }
 ]
