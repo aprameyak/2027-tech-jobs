@@ -34472,5 +34472,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-11"
+  },
+  {
+    "company": "State Street",
+    "role": "Software Engineer New Grad",
+    "location": "Burlington, MA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-11",
+    "grad_date": ""
   }
 ]
