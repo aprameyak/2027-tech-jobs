@@ -71,6 +71,8 @@ greenhouse:
   slug: getbuilt
 - name: Canonical
   slug: canonical
+- name: Captivation
+  slug: captivation
 - name: CarGurus
   slug: cargurus
 - name: Carta

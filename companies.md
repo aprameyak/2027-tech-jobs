@@ -109,6 +109,7 @@ Canonical
 Canva
 Cape
 Capital One
+Captivation
 Capy
 CarGurus
 Carta
