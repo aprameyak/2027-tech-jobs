@@ -914,6 +914,10 @@ workday:
   tenant: leidos
   instance: wd5
   board: External
+- name: LPL Financial Holdings
+  tenant: lplfinancial
+  instance: wd1
+  board: university
 - name: Liberty University
   tenant: liberty
   instance: wd5

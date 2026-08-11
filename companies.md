@@ -321,6 +321,7 @@ Later
 LaunchDarkly
 LEGO Group
 Leidos
+LPL Financial Holdings
 Leland
 Liberty University
 Light & Wonder
