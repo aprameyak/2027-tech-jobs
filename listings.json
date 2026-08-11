@@ -18632,7 +18632,7 @@
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
-    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Hanover-MD-US/Cloud-Software-and-Support-Engineer---Early-Career_329648?utm_source=aprameyak",
+    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-28",
@@ -34038,5 +34038,17 @@
     "citizenship": "No",
     "date_added": "2026-08-09",
     "grad_date": ""
+  },
+  {
+    "company": "DV Trading",
+    "role": "Software Engineer Intern - Summer 2027 (DV Commodities)",
+    "location": "New York, NY",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-10"
   }
 ]

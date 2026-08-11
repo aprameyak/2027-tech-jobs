@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| DV Trading | Software Engineer Intern - Summer 2027 (DV Commodities) | New York, NY | Undergrad | <a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719119005?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | ACDS | AI Operations Engineer Intern | Lowell, AR | Undergrad | <a href="https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 9 |
 | ↳ | AI Operations Intern - Naukr AI | Bentonville, AR | Undergrad | <a href="https://jobs.lever.co/acds/41bee5e2-6477-428f-b359-34b4071d545f?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 9 |
 | ↳ | AI Operations Intern - Caddell Reynolds | Fort Smith, AR | Undergrad | <a href="https://jobs.lever.co/acds/01fdf41b-a835-4e00-8d01-0275677a8f08?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 9 |
@@ -1435,7 +1436,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | New Grad 2026: Cloud Network Engineer (Physical Network Infra) | San Jose, CA | Spring 2026 | Undergrad | <a href="https://joinbytedance.com/search/7538114876280817927?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | ↳ | New Grad 2026: Software Engineer | San Jose, CA | Spring 2026 | Undergrad | <a href="https://jobs.bytedance.com/en/position/7532618536427391240/detail?spread=BSPP2KS&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | ↳ | New Grad 2026: Backend Software Engineer (Customer Service Platform) | Seattle, WA | Spring 2026 | Undergrad | <a href="https://jobs.bytedance.com/en/position/7527836662400026898/detail?spread=BSPP2KS&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
-| CACI | Cloud Software and Support Engineer - Early Career | Hanover, MD |  | Undergrad | <a href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/Hanover-MD-US/Cloud-Software-and-Support-Engineer---Early-Career_329648?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Clearwater Analytics | Quantitative Developer - Associate - FX | New York, NY |  | Undergrad | <a href="https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quantitative-Developer--Associate---FX_R10839?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Engelhart | Junior Quantitative Developer | New York, NY |  | Undergrad | <a href="https://job-boards.greenhouse.io/engelhart/jobs/8068980?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Eulerity | Associate Backend Engineer | New York, NY |  | Undergrad | <a href="https://job-boards.greenhouse.io/eulerity/jobs/4695682006?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
@@ -2301,6 +2301,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Apple | Embedded System Software Engineer | San Diego, CA |  | Undergrad | 🔒 | Jul 28 |
 | Boeing | Advanced Information Technologist - Associate Cloud Engineer | Hazelwood, MO |  | Undergrad | 🔒 | Jul 28 |
 | Boerboel | New Grad: Developer | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> |  | Undergrad | 🔒 | Jul 28 |
+| CACI | Cloud Software and Support Engineer - Early Career | Hanover, MD |  | Undergrad | 🔒 | Jul 28 |
 | ↳ | Cyber Software Engineer - Junior | Florham Park, NJ |  | Undergrad | 🔒 | Jul 28 |
 | Choice Hotels | Software Engineer 1 - Data Domain | Scottsdale, AZ |  | Undergrad | 🔒 | Jul 28 |
 | Cox | Software Engineer 1 | Austin, TX |  | Undergrad | 🔒 | Jul 28 |
