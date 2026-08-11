@@ -34089,18 +34089,6 @@
     "date_added": "2026-08-10"
   },
   {
-    "company": "Figma",
-    "role": "Software Engineer Intern (Winter 2027)",
-    "location": "San Francisco, CA; New York, NY",
-    "type": "offcycle",
-    "season": "Winter 2027",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/figma/jobs/6131089004?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-10"
-  },
-  {
     "company": "CACI \ud83c\uddfa\ud83c\uddf8",
     "role": "Junior Vulnerability Researcher (Cloud & Containers)",
     "location": "Florham Park, NJ",
@@ -34110,6 +34098,19 @@
     "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Junior-Vulnerability-Researcher--Cloud---Containers-_330398?utm_source=aprameyak",
     "sponsorship": "No",
     "citizenship": "Yes",
+    "date_added": "2026-08-10",
+    "grad_date": ""
+  },
+  {
+    "company": "Ciena",
+    "role": "Software Engineer (Security) - New Grad",
+    "location": "Atlanta, GA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R030880?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
     "date_added": "2026-08-10",
     "grad_date": ""
   }
