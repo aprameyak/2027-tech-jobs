@@ -34351,5 +34351,18 @@
     "citizenship": "No",
     "date_added": "2026-08-10",
     "grad_date": ""
+  },
+  {
+    "company": "Google",
+    "role": "Software Developer, Early Career, Campus",
+    "location": "Waterloo, ON; Montreal, QC",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/120686451305128646-software-developer-early-career-campus",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-10",
+    "grad_date": ""
   }
 ]
