@@ -128,6 +128,10 @@ SKIP_ALL_DOMAINS = [
     'tesla.com',
     'lockheedmartinjobs.com',
     'metacareers.com',
+    # Google career pages are JS-rendered SPAs; Playwright cannot reliably
+    # validate them and produces false-positive dead results.
+    'google.com/about/careers',
+    'careers.google.com',
 ]
 
 HEADERS = {
