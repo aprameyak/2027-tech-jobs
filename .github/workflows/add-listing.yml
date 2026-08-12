@@ -44,5 +44,7 @@ jobs:
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
           git add README.md listings.json
-          git diff --staged --quiet || git commit -m "add approved listings"
-          git pull --rebase -X ours && git push
+          if ! git diff --staged --quiet; then
+            git commit -m "add approved listings"
+            for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
+          fi
