@@ -612,7 +612,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | 2027 Intern Software Engineer | Melbourne, FL | Undergrad | 🔒 | Aug 7 |
 | Optiver | Software Engineer Intern | Austin, TX | Undergrad | 🔒 | Aug 7 |
 | ↳ | Quantitative Intern | Austin, TX | Undergrad | 🔒 | Aug 7 |
-| ↳ | Quantitative Research Intern | Austin, TXChicago, ILNYC | Undergrad | 🔒 | Aug 7 |
+| ↳ | Quantitative Research Intern | <details><summary>**3 locations**</summary>Austin, TX</br>Chicago, IL</br>New York, NY</details> | Undergrad | 🔒 | Aug 7 |
 | Paragon | Forward Deployed Engineer (FDE) Intern | San Francisco, CA | Undergrad | 🔒 | Aug 7 |
 | Quantic | Quantitative Researcher Intern | Unknown | Undergrad | 🔒 | Aug 7 |
 | Raytheon | Software Engineering Intern | Cedar Rapids, IA | Undergrad | 🔒 | Aug 7 |
@@ -2055,9 +2055,9 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Chamberlain Group | Software Engineer 1 - AI | Western Springs, IL |  | Undergrad | 🔒 | Aug 7 |
 | Channel3 | Founding Engineer | New York, NY |  | Undergrad | 🔒 | Aug 7 |
 | Cisco | Software Engineer 1 | San Jose, CA |  | Undergrad | 🔒 | Aug 7 |
-| Citadel | Software Engineer – University Graduate | Greenwich, CTHouston, TXMiami, FLNYC |  | Undergrad | 🔒 | Aug 7 |
+| Citadel | Software Engineer – University Graduate | <details><summary>**4 locations**</summary>Greenwich, CT</br>Houston, TX</br>Miami, FL</br>New York, NY</details> |  | Undergrad | 🔒 | Aug 7 |
 | ↳ | Quantitative Trader: Equity Quantitative Research – University Graduate | New York, NY |  | Undergrad | 🔒 | Aug 7 |
-| ↳ | Quantitative Research Analyst University Graduate | Greenwich, CTMiami, FLNYC |  | Undergrad | 🔒 | Aug 7 |
+| ↳ | Quantitative Research Analyst University Graduate | <details><summary>**3 locations**</summary>Greenwich, CT</br>Miami, FL</br>New York, NY</details> |  | Undergrad | 🔒 | Aug 7 |
 | Citadel Securities | Software Engineer – University Graduate | London, UK |  | Undergrad | 🔒 | Aug 7 |
 | ↳ | Quantitative Trader New Grad | London, UK |  | Undergrad | 🔒 | Aug 7 |
 | ↳ | Quantitative Research Analyst – University Graduate | <details><summary>**2 locations**</summary>London, UK</br>Dublin, Ireland</details> |  | Undergrad | 🔒 | Aug 7 |
