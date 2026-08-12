@@ -34528,7 +34528,7 @@
   },
   {
     "company": "Sentry",
-    "role": "Software Engineer Intern - Summer 2027",
+    "role": "Software Engineer Intern",
     "location": "San Francisco, CA",
     "type": "summer",
     "season": "Summer 2027",
@@ -34583,6 +34583,19 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151549007?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-11",
+    "grad_date": ""
+  },
+  {
+    "company": "Apple",
+    "role": "Software Engineer - Information Systems",
+    "location": "Austin, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.apple.com/en-us/details/200677377?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-11",
