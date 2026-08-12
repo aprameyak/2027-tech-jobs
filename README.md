@@ -1368,6 +1368,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | WebFX | Junior Business Data Analyst | Harrisburg, PA |  | Undergrad | <a href="https://fxcareers.applytojob.com/apply/7BQ85Q56Ap/Jr-Business-Data-Analyst-Top-5-Employer-In-PA?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | WonderBotz | Junior Software Engineer | Princeton, NJ |  | Undergrad | <a href="https://wonderbotz.applytojob.com/apply/RrI9QanYDY/Junior-Software-Engineer?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | WSP | Early Career Project Controls Data Analyst | FLNYCMinneapolis, MN |  | Undergrad | <a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91898?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
+| CACI | Entry-Level Network Technician | High Point, NC |  | Undergrad | <a href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/High-Point-NC-US/Entry-Level-Network-Technician_330496?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 6 |
 | IXL Learning | Associate Product Manager, New Grad | San Mateo, CA |  | Undergrad | <a href="https://www.ixl.com/company/jobs?gh_jid=8663710002&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 6 |
 | ↳ | Software Developer, New Grad | Toronto, ON |  | Undergrad | <a href="https://www.ixl.com/company/jobs?gh_jid=8663419002&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 6 |
 | Jane Street | Quantitative Trader | New York, NY |  | Undergrad | <a href="https://www.janestreet.com/join-jane-street/position/4794171002/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 6 |
@@ -2261,7 +2262,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Waymo | WebRAD & Rider Support Full Stack SWE | Mountain View, CA |  | Undergrad | 🔒 | Aug 7 |
 | ↳ | Software Engineer, ML Tools | Mountain View, CA |  | Undergrad | 🔒 | Aug 7 |
 | YouLearn | Founding Engineer (Full Stack) | San Francisco, CA |  | Undergrad | 🔒 | Aug 7 |
-| CACI | Entry-Level Network Technician | High Point, NC |  | Undergrad | 🔒 | Aug 6 |
 | Capital One | Principal Associate Software Engineer - International Card Tech - Full-Stack | Toronto, ON |  | Undergrad | 🔒 | Aug 6 |
 | Citadel | Quantitative Researcher - PhD Graduate | <details><summary>**2 locations**</summary>New York, NY</br>Miami, FL</details> |  | PhD | 🔒 | Aug 6 |
 | ↳ | Quantitative Research Engineer - PhD Graduate | <details><summary>**3 locations**</summary>New York, NY</br>Miami, FL</br>Greenwich, CT</details> |  | PhD | 🔒 | Aug 6 |
