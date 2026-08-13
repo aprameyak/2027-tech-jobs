@@ -37126,5 +37126,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-12"
+  },
+  {
+    "company": "TikTok",
+    "role": "Backend Software Engineer New Grad - Creator Strategy",
+    "location": "San Jose, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://lifeattiktok.com/search/7672976491146004741",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-12",
+    "grad_date": ""
   }
 ]
