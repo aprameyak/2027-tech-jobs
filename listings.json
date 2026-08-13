@@ -35345,5 +35345,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-12"
+  },
+  {
+    "company": "Consumer Direct Care Network",
+    "role": "Software Engineer 1",
+    "location": "Missoula, MT",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://cdcn.avature.net/careers/JobDetail/8611",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-12",
+    "grad_date": ""
   }
 ]
