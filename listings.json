@@ -37282,5 +37282,18 @@
     "citizenship": "No",
     "date_added": "2026-08-12",
     "grad_date": ""
+  },
+  {
+    "company": "Okta",
+    "role": "Software Engineer I",
+    "location": "Toronto, ON",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.okta.com/company/careers/product/software-engineer-i-716957",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-12",
+    "grad_date": ""
   }
 ]
