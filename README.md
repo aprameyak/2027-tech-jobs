@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Altamira Technologies | Software Development Intern | Fairborn, OH | Undergrad | <a href="https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8?nl=1&nl=1&fr=false" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
 | Aptiv | Intern Associate Engineer - Cloud | Kanata, ON | Undergrad | <a href="https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Engineer---Cloud---CD1_J000699953?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
 | ByteDance | Software Engineer Intern - AML-Engine-Orchestration | Seattle, WA | Undergrad | <a href="https://jobs.bytedance.com/en/position/7672386983965100341/detail" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
 | ↳ | Software Engineer Intern - AML-Engine-Orchestration | San Jose, CA | Undergrad | <a href="https://jobs.bytedance.com/en/position/7671162985123907845/detail" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
