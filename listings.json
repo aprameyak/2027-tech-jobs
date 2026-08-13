@@ -36112,5 +36112,18 @@
     "citizenship": "No",
     "date_added": "2026-08-12",
     "grad_date": ""
+  },
+  {
+    "company": "BAE Systems",
+    "role": "Entry Level Software Engineer",
+    "location": "Totowa, NJ",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.baesystems.com/global/en/job/BAE1US124432BREXTERNAL/Entry-Level-Software-Engineer",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-12",
+    "grad_date": ""
   }
 ]
