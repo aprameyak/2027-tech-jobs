@@ -36723,5 +36723,18 @@
     "citizenship": "No",
     "date_added": "2026-08-12",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "Cerebras",
+    "role": "Software Engineer New Grad",
+    "location": "Sunnyvale, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-12",
+    "grad_date": ""
   }
 ]
