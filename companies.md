@@ -25,6 +25,7 @@ Allegion
 Allen Control Systems
 Alloy
 AlphaGrep Securities
+Alphataraxia
 Altice USA
 Ambarella
 Amgen
@@ -143,11 +144,13 @@ Cohere
 Cohesity
 Coinbase
 Collective
+Color Health
 Comcast NBCUniversal
 Commure
 Composio
 Confido
 Confluent
+ConocoPhillips
 Copart
 CoreWeave
 Corvus Robotics
@@ -164,6 +167,14 @@ CTGT
 Cursor
 CVS Health
 Cylake
+HNTB
+Lennar Corporation
+Loblaw Companies
+Marshall Wace
+Medline
+PSP Investments
+Regions Bank
+Teledyne
 d-Matrix
 D3
 Danaher Corporation

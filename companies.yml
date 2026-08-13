@@ -11,6 +11,8 @@ greenhouse:
   slug: akunacapital
 - name: AlphaGrep Securities
   slug: alphagrepsecurities
+- name: Alphataraxia
+  slug: alphataraxia
 - name: Amperon
   slug: amperon
 - name: Amplitude
@@ -235,6 +237,8 @@ greenhouse:
   slug: lyft
 - name: Marqeta
   slug: marqeta
+- name: Marshall Wace
+  slug: mwinternshipprogram
 - name: Maven Securities
   slug: mavensecuritiesholdingltd
 - name: Mercury
@@ -726,6 +730,10 @@ workday:
   tenant: comcast
   instance: wd5
   board: Comcast_Careers
+- name: ConocoPhillips
+  tenant: conocophillips
+  instance: wd1
+  board: External
 - name: Copart
   tenant: copart
   instance: wd12
@@ -878,6 +886,10 @@ workday:
   tenant: guidewire
   instance: wd5
   board: external
+- name: HNTB
+  tenant: hntb
+  instance: wd5
+  board: hntb_university_careers
 - name: Home Depot
   tenant: homedepot
   instance: wd5
@@ -914,10 +926,10 @@ workday:
   tenant: leidos
   instance: wd5
   board: External
-- name: LPL Financial Holdings
-  tenant: lplfinancial
+- name: Lennar Corporation
+  tenant: lennar
   instance: wd1
-  board: university
+  board: Lennar_Jobs
 - name: Liberty University
   tenant: liberty
   instance: wd5
@@ -930,10 +942,18 @@ workday:
   tenant: liveramp
   instance: wd5
   board: LiveRampCareers
+- name: Loblaw Companies
+  tenant: myview
+  instance: wd3
+  board: paradox_careers
 - name: Logitech
   tenant: logitech
   instance: wd5
   board: logitech
+- name: LPL Financial Holdings
+  tenant: lplfinancial
+  instance: wd1
+  board: university
 - name: LSEG
   tenant: lseg
   instance: wd3
@@ -962,6 +982,10 @@ workday:
   tenant: medimpact
   instance: wd5
   board: medimpact
+- name: Medline
+  tenant: medline
+  instance: wd5
+  board: Medline
 - name: Medtronic
   tenant: medtronic
   instance: wd1
@@ -1078,6 +1102,10 @@ workday:
   tenant: pru
   instance: wd5
   board: Careers
+- name: PSP Investments
+  tenant: investpsp
+  instance: wd3
+  board: psp_careers
 - name: PTC
   tenant: ptc
   instance: wd1
@@ -1102,6 +1130,10 @@ workday:
   tenant: redhat
   instance: wd5
   board: jobs
+- name: Regions Bank
+  tenant: regions
+  instance: wd5
+  board: regions_careers
 - name: Remitly
   tenant: remitly
   instance: wd5
@@ -1198,6 +1230,10 @@ workday:
   tenant: td
   instance: wd3
   board: TD_Bank_Careers
+- name: Teledyne
+  tenant: flir
+  instance: wd1
+  board: flircareers
 - name: Tencent
   tenant: tencent
   instance: wd1
@@ -1358,6 +1394,8 @@ ashby:
   slug: cohere
 - name: Collective
   slug: collective
+- name: Color Health
+  slug: color-health
 - name: Commure
   slug: commure
 - name: Composio
