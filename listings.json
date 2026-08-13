@@ -36281,5 +36281,18 @@
     "citizenship": "No",
     "date_added": "2026-08-12",
     "grad_date": "Spring 2027"
+  },
+  {
+    "company": "Guidehouse",
+    "role": "Data Engineer 1",
+    "location": "Houston, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_42995?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-12",
+    "grad_date": ""
   }
 ]
