@@ -37269,5 +37269,18 @@
     "citizenship": "No",
     "date_added": "2026-08-12",
     "grad_date": ""
+  },
+  {
+    "company": "Mastercard",
+    "role": "Software Engineer I (Backend - Java)",
+    "location": "Vancouver, BC",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.mastercard.com/us/en/job/MASRUSR258140EXTERNALENUS/Software-Engineer-I-Backend-Java",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-12",
+    "grad_date": ""
   }
 ]
