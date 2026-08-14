@@ -37311,5 +37311,101 @@
     "citizenship": "No",
     "date_added": "2026-08-12",
     "grad_date": ""
+  },
+  {
+    "company": "Amazon",
+    "role": "Automation Engineer Intern",
+    "location": "Mt. Juliet, TN",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://www.amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027",
+    "sponsorship": "No \u2014 does NOT offer sponsorship",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-14"
+  },
+  {
+    "company": "Teledyne",
+    "role": "NHRC Software Engineering Internship",
+    "location": "Huntsville, AL",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-14"
+  },
+  {
+    "company": "General Motors",
+    "role": "Machine Learning Engineer, AI Inference Solutions",
+    "location": "Sunnyvale, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Masters; PhD",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-14"
+  },
+  {
+    "company": "SharkNinja",
+    "role": "SQA Automation Engineering Co-op",
+    "location": "Needham, MA",
+    "type": "offcycle",
+    "season": "Fall 2026",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646894006?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-14"
+  },
+  {
+    "company": "Teledyne",
+    "role": "Computer Engineering Intern",
+    "location": "Lincoln, NE",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-14"
+  },
+  {
+    "company": "Regions Bank",
+    "role": "ETP Intern - Technology, Operations, Digital, and Data",
+    "location": "Hoover, AL",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://regions.wd5.myworkdayjobs.com/en-US/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data_R105086?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-14"
+  },
+  {
+    "company": "PSP Investments",
+    "role": "Intern, AI Solutions for External Manager Selection & Monitoring",
+    "location": "Montreal, QC",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://investpsp.wd3.myworkdayjobs.com/en-US/psp_careers/job/Montreal/Intern--AI-Solutions-for-External-Manager-Selection---Monitoring--May---August-2027-_R4933?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-14"
+  },
+  {
+    "company": "Loblaw Companies",
+    "role": "Software Development Co-op",
+    "location": "Toronto, ON",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000693078?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-14"
   }
 ]
