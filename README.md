@@ -1682,7 +1682,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Handshake | Machine Learning Engineer 1 | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Icon | Founding Engineer | New York, NY |  | Undergrad | <a href="https://jobs.ashbyhq.com/icon/8de569c7-814f-4ffe-9c21-a92d7b806be2/application?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | IMC | Quantitative Researcher | Chicago, IL | Summer 2027 | Undergrad | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4580753101?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
-| Integrity | Software Engineer 1 | Grimes, IA |  | Undergrad | <a href="https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Urbandale-IA/Software-Engineer-I_JR4072?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Jacobs | Software Engineer, Entry | Kennedy Space Center, FL |  | Undergrad | <a href="https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000B3R&lang=en&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Katalyst Space Technologies | Software Engineer 1 - Model and Simulation | Broomfield, CO |  | Undergrad | <a href="https://job-boards.greenhouse.io/katalyst/jobs/6115352004?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Lexical Intelligence | NLM Software Engineer 1 | Bethesda, MD |  | Undergrad | <a href="https://lexical.bamboohr.com/careers/73?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
@@ -2645,6 +2644,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | i3 | Full-Stack Software Engineer | Huntsville, AL |  | Undergrad | 🔒 | Jul 27 |
 | Idler | Software Engineer | San Francisco, CA |  | Undergrad | 🔒 | Jul 27 |
 | InQuery | New Grad: Founding Engineer | New York, NY |  | Undergrad | 🔒 | Jul 27 |
+| Integrity | Software Engineer 1 | Grimes, IA |  | Undergrad | 🔒 | Jul 27 |
 | IXL Learning | Associate Product Manager New Grad | San Mateo, CA |  | Undergrad | 🔒 | Jul 27 |
 | KBR | Junior Communications Systems Software Engineer | Beavercreek, OH |  | Undergrad | 🔒 | Jul 27 |
 | Leidos | Junior Software Engineer | Columbia, MD |  | Undergrad | 🔒 | Jul 27 |
