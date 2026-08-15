@@ -1299,6 +1299,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Sentry | Software Engineer, New Grad | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/sentry/5c3196c7-f3d6-4dba-9c41-c886df4b2421/application?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Bastrop, TX |  | Undergrad | <a href="https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | ↳ | New Graduate Engineer, Software (Starlink) | Redmond, WA |  | Undergrad | <a href="https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | ↳ | New Graduate Engineer, Software (Starlink) | Palo Alto, CA |  | Undergrad | <a href="https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
