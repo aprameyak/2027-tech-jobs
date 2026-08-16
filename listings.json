@@ -890,7 +890,7 @@
   },
   {
     "company": "Amazon",
-    "role": "Software Development Engineer Internship - Fall 2026 (US)",
+    "role": "Software Development Engineer Internship",
     "location": "Seattle, WA",
     "type": "offcycle",
     "season": "Fall 2026",
@@ -914,7 +914,7 @@
   },
   {
     "company": "Amazon",
-    "role": "Fall 2026 Applied Science Internship - Canada, PhD Student Science Recruiting",
+    "role": "Applied Science Internship - Canada, PhD Student Science Recruiting",
     "location": "Vancouver, BC",
     "type": "offcycle",
     "season": "Fall 2026",
@@ -950,7 +950,7 @@
   },
   {
     "company": "Amazon",
-    "role": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
+    "role": "Software Development Engineer Intern, AWS Data Services",
     "location": "Seattle, WA",
     "type": "offcycle",
     "season": "Fall 2026",
@@ -1440,7 +1440,7 @@
   },
   {
     "company": "Point72",
-    "role": "Summer 2027 Quantitative Research Internship",
+    "role": "Quantitative Research Internship",
     "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
@@ -2779,7 +2779,7 @@
   },
   {
     "company": "Ciena",
-    "role": "QA Automation Developer Intern (Fall 2026 - 8 months)",
+    "role": "QA Automation Developer Intern",
     "location": "Ottawa, ON",
     "type": "offcycle",
     "season": "Fall 2026",
@@ -2881,7 +2881,7 @@
   },
   {
     "company": "DoorDash",
-    "role": "AI Research Fellowship, (Summer and Fall 2026)",
+    "role": "AI Research Fellowship",
     "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Summer 2026",
@@ -2971,7 +2971,7 @@
   },
   {
     "company": "Salesforce",
-    "role": "Summer 2027 Intern - Associate Product Manager (APM)",
+    "role": "Intern - Associate Product Manager (APM)",
     "location": "San Francisco, CA",
     "type": "summer",
     "season": "Summer 2027",
@@ -3931,7 +3931,7 @@
   },
   {
     "company": "Cloudflare",
-    "role": "Software Engineer Intern (Fall 2026) - Austin, TX",
+    "role": "Software Engineer Intern - Austin, TX",
     "location": "Austin, TX",
     "type": "offcycle",
     "season": "Fall 2026",
@@ -5574,7 +5574,7 @@
   },
   {
     "company": "Western Digital",
-    "role": "Summer 2027 - Software Engineering Internship",
+    "role": "Software Engineering Internship",
     "location": "San Jose, CA",
     "type": "summer",
     "season": "Summer 2027",
@@ -5986,7 +5986,7 @@
   },
   {
     "company": "OfferUp",
-    "role": "Software Engineering Intern - Summer 2026 (Hybrid @ Bellevue, WA)",
+    "role": "Software Engineering Intern",
     "location": "Bellevue, WA",
     "type": "offcycle",
     "season": "Summer 2026",
@@ -5998,7 +5998,7 @@
   },
   {
     "company": "OfferUp",
-    "role": "Product Management Intern - Summer 2026 (Hybrid @ Bellevue, WA)",
+    "role": "Product Management Intern",
     "location": "Bellevue, WA",
     "type": "offcycle",
     "season": "Summer 2026",
@@ -7943,7 +7943,7 @@
   },
   {
     "company": "Cirrus Logic",
-    "role": "Fall 2026 Co-Op - Embedded Software AI Intern",
+    "role": "Co-Op - Embedded Software AI Intern",
     "location": "Austin, TX",
     "type": "offcycle",
     "season": "Fall 2026",
@@ -12883,7 +12883,7 @@
   },
   {
     "company": "Amazon",
-    "role": "Tech Ops Engineer Intern  - Fall 2026, AWS Data Center Commissioning",
+    "role": "Tech Ops Engineer Intern - AWS Data Center Commissioning",
     "location": "Jeffersonville, OH",
     "type": "offcycle",
     "season": "Fall 2026",
@@ -13240,7 +13240,7 @@
   },
   {
     "company": "mthree",
-    "role": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer  \u2013 Canada (Montreal)",
+    "role": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer \u2013 Canada (Montreal)",
     "location": "Montreal, QC",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
@@ -13352,7 +13352,7 @@
   },
   {
     "company": "SharkNinja",
-    "role": "Fall 2026: Product Development Co-op, Shark (July/August to December)",
+    "role": "Product Development Co-op, Shark (July/August to December)",
     "location": "Needham, MA",
     "type": "offcycle",
     "season": "Co-op",
@@ -13364,7 +13364,7 @@
   },
   {
     "company": "SharkNinja",
-    "role": "Fall 2026: CodeShark, DTC Digital Experience Web Development (August through December 2026)",
+    "role": "CodeShark, DTC Digital Experience Web Development (August through December 2026)",
     "location": "Needham, MA",
     "type": "offcycle",
     "season": "Fall 2026",
@@ -13547,7 +13547,7 @@
   },
   {
     "company": "PDT Partners",
-    "role": "Summer 2027 Systems Engineering Intern",
+    "role": "Systems Engineering Intern",
     "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
@@ -16397,7 +16397,7 @@
   },
   {
     "company": "Stoke Space",
-    "role": "Spring 2027 Internship - Software",
+    "role": "Internship - Software",
     "location": "Kent, WA",
     "type": "offcycle",
     "season": "Spring 2027",
@@ -19610,7 +19610,7 @@
   },
   {
     "company": "Cirrus Logic",
-    "role": "Fall 2026 Co-Op, Embedded Software Test Engineer",
+    "role": "Co-Op, Embedded Software Test Engineer",
     "location": "Austin, TX",
     "type": "offcycle",
     "season": "Fall 2026",
@@ -22608,7 +22608,7 @@
   },
   {
     "company": "General Dynamics Information Technology",
-    "role": "Summer 2027 Software Developer Internship",
+    "role": "Software Developer Internship",
     "location": "Annapolis Junction, MD",
     "type": "summer",
     "season": "Summer 2027",
@@ -23068,7 +23068,7 @@
   },
   {
     "company": "Roblox",
-    "role": "[Summer 2027] Software Engineer Intern",
+    "role": "Software Engineer Intern",
     "location": "San Mateo, CA",
     "type": "summer",
     "season": "Summer 2027",
@@ -23143,7 +23143,7 @@
   },
   {
     "company": "GoDaddy",
-    "role": "Pipeline ColorStack - Summer 2027 Internships",
+    "role": "Pipeline ColorStack",
     "location": "Tempe, AZ",
     "type": "summer",
     "season": "Summer 2027",
@@ -23155,7 +23155,7 @@
   },
   {
     "company": "Boeing",
-    "role": "Summer 2027 Internship Program (Paid) - Data Analytics Intern",
+    "role": "Internship Program (Paid) - Data Analytics Intern",
     "location": "Everett, WA",
     "type": "summer",
     "season": "Summer 2027",
@@ -23365,7 +23365,7 @@
   },
   {
     "company": "SpaceX",
-    "role": "Spring 2027 Software Engineering Internship/Co-op",
+    "role": "Software Engineering Internship/Co-op",
     "location": "Bastrop, TX; Cape Canaveral, FL; Hawthorne, CA; Irvine, CA; McGregor, TX; Redmond, WA",
     "type": "offcycle",
     "season": "Spring 2027",
@@ -23468,7 +23468,7 @@
   },
   {
     "company": "Konrad Group",
-    "role": "Associate Consultant (Spring 2027 Graduate Program)",
+    "role": "Associate Consultant",
     "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Spring 2027",
@@ -23583,7 +23583,7 @@
   },
   {
     "company": "General Dynamics Information Technology",
-    "role": "Summer 2027 Software Developer Internship",
+    "role": "Software Developer Internship",
     "location": "Annapolis Junction, MD",
     "type": "summer",
     "season": "Summer 2027",
@@ -23595,7 +23595,7 @@
   },
   {
     "company": "General Dynamics Information Technology",
-    "role": "Summer 2027 Software Developer Internship",
+    "role": "Software Developer Internship",
     "location": "Annapolis Junction, MD",
     "type": "summer",
     "season": "Summer 2027",
@@ -26127,7 +26127,7 @@
   },
   {
     "company": "GDIT",
-    "role": "Summer 2027 Software Developer Internship",
+    "role": "Software Developer Internship",
     "location": "Remote (US)",
     "type": "summer",
     "season": "Summer 2027",
@@ -26224,7 +26224,7 @@
   },
   {
     "company": "SpaceX",
-    "role": "Summer 2027 Software Engineering Internship/Co-op",
+    "role": "Software Engineering Internship/Co-op",
     "location": "Bastrop, TX",
     "type": "summer",
     "season": "Summer 2027",
@@ -26248,7 +26248,7 @@
   },
   {
     "company": "Netsmart",
-    "role": "Software Engineer Intern - Summer 2027 Internship",
+    "role": "Software Engineer Intern",
     "location": "Overland Park, KS",
     "type": "summer",
     "season": "Summer 2027",
@@ -33385,7 +33385,7 @@
   },
   {
     "company": "General Dynamics Information Technology",
-    "role": "Summer 2027 AI/Machine Learning Internship - DC Metro Area",
+    "role": "AI/Machine Learning Internship - DC Metro Area",
     "location": "Falls Church, VA",
     "type": "summer",
     "season": "Summer 2027",
@@ -33506,7 +33506,7 @@
   },
   {
     "company": "General Dynamics Information Technology",
-    "role": "Summer 2027 Software Developer Internship",
+    "role": "Software Developer Internship",
     "location": "Annapolis Junction, MD",
     "type": "summer",
     "season": "Summer 2027",
@@ -33616,7 +33616,7 @@
   },
   {
     "company": "The Nuclear Company",
-    "role": "Fall 2026 AI/ML Engineering Intern",
+    "role": "AI/ML Engineering Intern",
     "location": "Washington, DC",
     "type": "offcycle",
     "season": "Fall 2026",
@@ -33628,7 +33628,7 @@
   },
   {
     "company": "The Nuclear Company",
-    "role": "Spring 2027 Software Engineering Intern",
+    "role": "Software Engineering Intern",
     "location": "Washington, DC",
     "type": "offcycle",
     "season": "Spring 2027",
@@ -33640,7 +33640,7 @@
   },
   {
     "company": "The Nuclear Company",
-    "role": "Fall 2026 AI Software Engineering Intern",
+    "role": "AI Software Engineering Intern",
     "location": "Washington, DC",
     "type": "offcycle",
     "season": "Fall 2026",
@@ -33652,7 +33652,7 @@
   },
   {
     "company": "The Nuclear Company",
-    "role": "Spring 2027 Data Science Intern",
+    "role": "Data Science Intern",
     "location": "Washington, DC",
     "type": "offcycle",
     "season": "Spring 2027",
@@ -33664,7 +33664,7 @@
   },
   {
     "company": "The Nuclear Company",
-    "role": "Spring 2027 AI/ML Engineering Intern",
+    "role": "AI/ML Engineering Intern",
     "location": "Washington, DC",
     "type": "offcycle",
     "season": "Spring 2027",
@@ -33676,7 +33676,7 @@
   },
   {
     "company": "Melius",
-    "role": "Software Engineering Intern [Fall/Winter 2026]",
+    "role": "Software Engineering Intern",
     "location": "New York, NY",
     "type": "offcycle",
     "season": "Fall 2026",
@@ -34029,7 +34029,7 @@
   },
   {
     "company": "DV Trading",
-    "role": "Software Engineer Intern - Summer 2027 (DV Commodities)",
+    "role": "Software Engineer Intern",
     "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
@@ -34104,7 +34104,7 @@
   },
   {
     "company": "Ciena",
-    "role": "Development Engine Infrastructure DevOps Co-op (Fall 2026 - 4-12 months)",
+    "role": "Development Engine Infrastructure DevOps Co-op",
     "location": "Ottawa, ON",
     "type": "offcycle",
     "season": "Co-op",
@@ -34748,7 +34748,7 @@
   },
   {
     "company": "RTX",
-    "role": "Software Development Intern - Summer 2027",
+    "role": "Software Development Intern",
     "location": "Tewksbury, MA",
     "type": "summer",
     "season": "Summer 2027",
@@ -34820,7 +34820,7 @@
   },
   {
     "company": "RTX",
-    "role": "Software Engineer Intern - Summer 2027",
+    "role": "Software Engineer Intern",
     "location": "Marlborough, MA",
     "type": "summer",
     "season": "Summer 2027",
@@ -34868,7 +34868,7 @@
   },
   {
     "company": "Belvedere Trading",
-    "role": "Software Engineer Intern - Summer 2027",
+    "role": "Software Engineer Intern",
     "location": "Chicago, IL",
     "type": "summer",
     "season": "Summer 2027",
@@ -34892,7 +34892,7 @@
   },
   {
     "company": "Vertiv",
-    "role": "IT Systems Product Management Intern - Summer 2027",
+    "role": "IT Systems Product Management Intern",
     "location": "Westerville, OH",
     "type": "summer",
     "season": "Summer 2027",
@@ -34940,7 +34940,7 @@
   },
   {
     "company": "Chamberlain Group",
-    "role": "Community Product Management Intern - Summer 2027",
+    "role": "Community Product Management Intern",
     "location": "Oak Brook, IL",
     "type": "summer",
     "season": "Summer 2027",
@@ -35228,7 +35228,7 @@
   },
   {
     "company": "Belvedere Trading",
-    "role": "Quantitative Trading Intern - Summer 2027",
+    "role": "Quantitative Trading Intern",
     "location": "Chicago, IL",
     "type": "summer",
     "season": "Summer 2027",
@@ -35240,7 +35240,7 @@
   },
   {
     "company": "Optiver",
-    "role": "Quantitative Intern - Summer 2027",
+    "role": "Quantitative Intern",
     "location": "Austin, TX",
     "type": "summer",
     "season": "Summer 2027",
@@ -35276,7 +35276,7 @@
   },
   {
     "company": "RTX",
-    "role": "Software Engineering Intern - Summer 2027",
+    "role": "Software Engineering Intern",
     "location": "Cedar Rapids, IA",
     "type": "summer",
     "season": "Summer 2027",
@@ -35300,7 +35300,7 @@
   },
   {
     "company": "RTX",
-    "role": "Software Engineer Intern - Summer 2027",
+    "role": "Software Engineer Intern",
     "location": "Woburn, MA",
     "type": "summer",
     "season": "Summer 2027",
@@ -36955,7 +36955,7 @@
   },
   {
     "company": "TikTok",
-    "role": "Machine Learning Engineer Intern - Commerce Ads - Summer 2027",
+    "role": "Machine Learning Engineer Intern - Commerce Ads",
     "location": "San Jose, CA",
     "type": "summer",
     "season": "Summer 2027",
