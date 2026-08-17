@@ -39846,5 +39846,18 @@
     "citizenship": "Unknown",
     "date_added": "2026-08-17",
     "grad_date": "Spring 2027"
+  },
+  {
+    "company": "Datadog",
+    "role": "Software Engineering Intern",
+    "location": "Boston, MA; New York, NY",
+    "type": "offcycle",
+    "season": "Winter 2027",
+    "education": "Undergrad",
+    "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095&utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-17",
+    "grad_date": "Spring 2027"
   }
 ]
