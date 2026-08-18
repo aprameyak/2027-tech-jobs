@@ -13616,18 +13616,6 @@
     "date_added": "2026-07-26"
   },
   {
-    "company": "Yulista",
-    "role": "Junior Business Analyst",
-    "location": "Huntsville, AL",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-26"
-  },
-  {
     "company": "Tencent",
     "role": "Hunyuan Multimodal Reinforcement Learning Research Intern",
     "location": "Palo Alto, CA",
@@ -33952,7 +33940,7 @@
   {
     "company": "Docugami",
     "role": "Software Engineering Intern",
-    "location": "Kirkland, Washington, United States",
+    "location": "Kirkland, WA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -34036,7 +34024,7 @@
   {
     "company": "Neuralink",
     "role": "Biomedical Engineer Intern",
-    "location": "South San Francisco, California, United States",
+    "location": "South San Francisco, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -34061,7 +34049,7 @@
   {
     "company": "QuEra Computing",
     "role": "Internship \u2013 Data Management",
-    "location": "Boston, MA, USA",
+    "location": "Boston, MA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -34073,7 +34061,7 @@
   {
     "company": "Redwood Materials",
     "role": "Embedded Software Engineer Intern - Fall 2026",
-    "location": "San Francisco, California, United States",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -34212,18 +34200,6 @@
     "date_added": "2026-08-17"
   },
   {
-    "company": "Together AI",
-    "role": "Senior University Recruiting Program Manager",
-    "location": "San Francisco",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5209804007?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
     "company": "True Anomaly",
     "role": "GSE Engineering Intern",
     "location": "Denver, CO; Long Beach, CA",
@@ -34236,22 +34212,9 @@
     "date_added": "2026-08-17"
   },
   {
-    "company": "SharkNinja",
-    "role": "Digital/Sharks - Digital Marketing Associate - Content & Digital Shelf (Early Careers)",
-    "location": "Mississauga, Ontario, Canada",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703705006?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17",
-    "grad_date": ""
-  },
-  {
     "company": "Varda Space",
     "role": "Applications Engineering Internship - Spring 2027",
-    "location": "El Segundo, California, United States",
+    "location": "El Segundo, CA",
     "type": "offcycle",
     "season": "Spring 2027",
     "education": "Undergrad",
@@ -34263,7 +34226,7 @@
   {
     "company": "Varda Space",
     "role": "Avionics Engineering Internship - Spring 2027",
-    "location": "El Segundo, California, United States",
+    "location": "El Segundo, CA",
     "type": "offcycle",
     "season": "Spring 2027",
     "education": "Undergrad",
@@ -34275,7 +34238,7 @@
   {
     "company": "Varda Space",
     "role": "Biologics Formulation Research Internship - Spring 2027",
-    "location": "El Segundo, California, United States",
+    "location": "El Segundo, CA",
     "type": "offcycle",
     "season": "Spring 2027",
     "education": "Undergrad",
@@ -34287,7 +34250,7 @@
   {
     "company": "Varda Space",
     "role": "Propulsion Engineering Internship - Spring 2027",
-    "location": "El Segundo, California, United States",
+    "location": "El Segundo, CA",
     "type": "offcycle",
     "season": "Spring 2027",
     "education": "Undergrad",
@@ -34299,7 +34262,7 @@
   {
     "company": "Varda Space",
     "role": "Structures Engineering Internship - Spring 2027",
-    "location": "El Segundo, California, United States",
+    "location": "El Segundo, CA",
     "type": "offcycle",
     "season": "Spring 2027",
     "education": "Undergrad",
@@ -34472,18 +34435,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990014385146?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
-    "company": "FTI Consulting",
-    "role": "2027 Intern - Economic Consulting",
-    "location": "United States",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Economic-Consulting_JR260359?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-17"
@@ -34940,19 +34891,6 @@
   },
   {
     "company": "mthree",
-    "role": "Entry-Level Analyst \u2013 Product & Accounting Control",
-    "location": "Montr\u00e9al, Quebec, Canada",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4697218006?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17",
-    "grad_date": ""
-  },
-  {
-    "company": "mthree",
     "role": "Junior Data Scientist",
     "location": "Canada",
     "type": "summer",
@@ -34990,7 +34928,7 @@
   {
     "company": "Neuralink",
     "role": "Analog and Mixed-Signal IC Design Engineer Intern ",
-    "location": "South San Francisco, California, United States",
+    "location": "South San Francisco, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35002,7 +34940,7 @@
   {
     "company": "Neuralink",
     "role": "Digital IC Design Engineer Intern",
-    "location": "South San Francisco, California, United States",
+    "location": "South San Francisco, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35014,7 +34952,7 @@
   {
     "company": "Neuralink",
     "role": "Firmware Engineer Intern, Robotics and Surgery Engineering",
-    "location": "South San Francisco, California, United States",
+    "location": "South San Francisco, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35026,7 +34964,7 @@
   {
     "company": "Neuralink",
     "role": "Neuroengineer Intern",
-    "location": "South San Francisco, California, United States",
+    "location": "South San Francisco, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35038,7 +34976,7 @@
   {
     "company": "Neuralink",
     "role": "Software Engineer Intern, BCI Applications",
-    "location": "South San Francisco, California, United States",
+    "location": "South San Francisco, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35062,7 +35000,7 @@
   {
     "company": "Postman",
     "role": "AI Engineer, Internship - Summer 2026 - Applications Open Now",
-    "location": "Berkeley, California, United States; San Francisco, California, United States",
+    "location": "Berkeley, CA; San Francisco, CA",
     "type": "offcycle",
     "season": "Summer 2026",
     "education": "Undergrad",
@@ -35074,7 +35012,7 @@
   {
     "company": "Roblox",
     "role": "Global Security Manager, Campus Security",
-    "location": "San Mateo, CA, United States",
+    "location": "San Mateo, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35086,7 +35024,7 @@
   {
     "company": "SharkNinja",
     "role": "Fall 2026: Product Design Engineering Co-op, Advanced Development (July/August to December)",
-    "location": "Needham, MA, United States",
+    "location": "Needham, MA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -35137,7 +35075,7 @@
   {
     "company": "Xsolla",
     "role": "Xsolla School \u2013 Student Application (Engineering)",
-    "location": "Los Angeles, United States",
+    "location": "Los Angeles, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35404,32 +35342,6 @@
   },
   {
     "company": "FTI Consulting",
-    "role": "2027 Entry Level Consultant - Forensic & Litigation Consulting",
-    "location": "United States",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/United-States/XMLNAME-2027-Entry-Level-Consultant---Forensic---Litigation-Consulting_JR260332?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17",
-    "grad_date": "Spring 2027"
-  },
-  {
-    "company": "FTI Consulting",
-    "role": "2027 Entry Level Consultant - Strategic Communications",
-    "location": "United States",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/United-States/XMLNAME-2027-Entry-Level-Consultant---Strategic-Communications_JR260365-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17",
-    "grad_date": "Spring 2027"
-  },
-  {
-    "company": "FTI Consulting",
     "role": "2027 Entry Level Consultant - Technology",
     "location": "United States",
     "type": "newgrad",
@@ -35440,31 +35352,6 @@
     "citizenship": "Unknown",
     "date_added": "2026-08-17",
     "grad_date": "Spring 2027"
-  },
-  {
-    "company": "FTI Consulting",
-    "role": "2027 Entry Level Consultant - Economic Consulting",
-    "location": "United States",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/United-States/XMLNAME-2027-Entry-Level-Consultant---Economic-Consulting_JR260334-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17",
-    "grad_date": "Spring 2027"
-  },
-  {
-    "company": "FTI Consulting",
-    "role": "2027 Intern - Forensic & Litigation Consulting",
-    "location": "United States",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Forensic---Litigation-Consulting_JR260337?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
   },
   {
     "company": "FTI Consulting",
@@ -35582,7 +35469,7 @@
   {
     "company": "General Motors",
     "role": "Early Career Virtual/Computer Aided Engineer",
-    "location": "Warren, Michigan, United States of America",
+    "location": "Warren, MI",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -35595,7 +35482,7 @@
   {
     "company": "HP",
     "role": "Enterprise Operations Engineering Internship",
-    "location": "Spring, Texas, United States of America",
+    "location": "Spring, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35607,7 +35494,7 @@
   {
     "company": "Juniper Networks",
     "role": "Electrical Hardware Engineer \u2013 HPC/AI Platform Engineering - Early Career",
-    "location": "Spring, Texas, United States of America",
+    "location": "Spring, TX",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -36090,7 +35977,7 @@
   {
     "company": "Zscaler",
     "role": "Site Reliability Engineer Federal- SkillBridge Intern",
-    "location": "Remote - Virginia, USA",
+    "location": "Remote, VA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -36107,18 +35994,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://job-boards.greenhouse.io/zscaler/jobs/5045817007?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
-    "company": "Brunswick",
-    "role": "Brunswick Boat Group Technology Center-Advanced Research & Storytelling Intern",
-    "location": "Edgewater, FL",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Edgewater-FL/Brunswick-Boat-Group-Technology-Center-Advanced-Research---Storytelling-Intern_JR-051131?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-17"
