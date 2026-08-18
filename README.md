@@ -1054,6 +1054,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Formlabs | Print Production Intern (Fall 2026) | Somerville, MA | Fall 2026 | Undergrad | <a href="https://careers.formlabs.com/job/8138459/apply/?gh_jid=8138459" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
 | Ancestry | Product Design Co-op – International Growth | Remote (US) | Co-op | Undergrad | <a href="https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Product-Design-Co-op---International-Growth_R003417?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | Astranis Space Technologies | CAD Engineer/Librarian Intern (Spring 2027) | San Francisco | Spring 2027 | Undergrad | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704740006?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | ↳ | CAD Engineer/Librarian Intern (Winter 2027) | San Francisco | Winter 2027 | Undergrad | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704748006?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
