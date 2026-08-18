@@ -40137,5 +40137,53 @@
     "citizenship": "Unknown",
     "date_added": "2026-08-17",
     "grad_date": "Spring 2027"
+  },
+  {
+    "company": "Neuralink",
+    "role": "Embedded Software Engineer Intern, Implant Embedded Systems",
+    "location": "Austin, TX; South San Francisco, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6283663003?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-17"
+  },
+  {
+    "company": "Neuralink",
+    "role": "Software Engineer Intern, Implant",
+    "location": "Austin, TX; South San Francisco, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6569018003?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-17"
+  },
+  {
+    "company": "Neuralink",
+    "role": "Software Engineer Intern, Internal Apps",
+    "location": "Austin, TX; South San Francisco, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6083322003?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-17"
+  },
+  {
+    "company": "Neuralink",
+    "role": "Software Engineer Intern, Robotics",
+    "location": "Austin, TX; South San Francisco, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/5469305003?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-17"
   }
 ]
