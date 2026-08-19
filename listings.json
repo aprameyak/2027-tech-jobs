@@ -36398,5 +36398,31 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-18"
+  },
+  {
+    "company": "SpaceX",
+    "role": "New Graduate Engineer, Mechanical (Starship)",
+    "location": "Starbase, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8729117002?gh_jid=8729117002",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-19",
+    "grad_date": ""
+  },
+  {
+    "company": "SpaceX",
+    "role": "New Graduate Engineer, Propulsion (Starship)",
+    "location": "Starbase, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8729085002?gh_jid=8729085002",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-19",
+    "grad_date": ""
   }
 ]
