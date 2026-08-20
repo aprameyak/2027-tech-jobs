@@ -11720,5 +11720,8 @@
   "2027 etp intern - technology, operations, digital, and data - analytics": true,
   "lifesciences coop": false,
   "ai & automation engineering co-op": true,
-  "site reliability engineer intern": true
+  "site reliability engineer intern": true,
+  "tech art intern": false,
+  "tools programmer intern": false,
+  "new graduate engineer, civil/structural (starship)": true
 }
