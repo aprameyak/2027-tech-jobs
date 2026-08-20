@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Abbott Laboratories | Research Park Intern - Student Researcher | United States - Illinois - Champaign | Undergrad | <a href="https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Champaign/Research-Park-Intern---Student-Researcher_31128619" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | Verition Fund Management | Technology Intern | Chicago, IL | Undergrad | <a href="https://www.linkedin.com/jobs/view/2027-technology-internship-us-at-verition-4456190677" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | ↳ | Technology Intern | Houston, TX | Undergrad | <a href="https://www.linkedin.com/jobs/view/2027-technology-internship-us-at-verition-4456301569" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | ↳ | Technology Intern | Norwalk, CT | Undergrad | <a href="https://www.linkedin.com/jobs/view/2027-technology-internship-us-at-verition-4456197592" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
