@@ -11745,5 +11745,7 @@
   "talent accelerator program (2027 new college graduate)": false,
   "operations internship - galicia - start 2027": false,
   "community impact co-op": false,
-  "perception intern (summer 2027)": false
+  "perception intern (summer 2027)": false,
+  "contract student worker - data analyst": true,
+  "contract student worker - data scientist": true
 }
