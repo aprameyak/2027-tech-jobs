@@ -36761,5 +36761,29 @@
     "sponsorship": "No \u2014 does NOT offer sponsorship",
     "citizenship": "Unknown",
     "date_added": "2026-08-20"
+  },
+  {
+    "company": "JPMorgan Chase",
+    "role": "Software Engineer Program \u2014 February Start",
+    "location": "Palo Alto, CA; Houston, TX; Tampa, FL; Plano, TX; Chicago, IL; Jersey City, NJ; Columbus, OH; New York, NY; Wilmington, DE",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774102",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-20"
+  },
+  {
+    "company": "JPMorgan Chase",
+    "role": "Software Engineer Program \u2014 July Start",
+    "location": "Palo Alto, CA; Houston, TX; Tampa, FL; Plano, TX; Chicago, IL; Jersey City, NJ; Columbus, OH; New York, NY; Wilmington, DE",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774111",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-20"
   }
 ]
