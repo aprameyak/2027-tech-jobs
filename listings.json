@@ -36894,5 +36894,65 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-22"
+  },
+  {
+    "company": "SpaceX",
+    "role": "New Graduate Engineer, Software",
+    "location": "Hawthorne, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002&utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-22"
+  },
+  {
+    "company": "General Dynamics Information Technology",
+    "role": "Software Development Intern",
+    "location": "Falls Church, VA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237-1?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-22"
+  },
+  {
+    "company": "Zipline",
+    "role": "Software Engineer Intern",
+    "location": "South San Francisco, CA",
+    "type": "offcycle",
+    "season": "Spring 2027",
+    "education": "Undergrad",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7907191003&utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-22"
+  },
+  {
+    "company": "Zipline",
+    "role": "Applications Engineer Intern",
+    "location": "South San Francisco, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7909946003&utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-22"
+  },
+  {
+    "company": "Zipline",
+    "role": "Software Systems Validation Intern",
+    "location": "South San Francisco, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7894335003&utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-22"
   }
 ]
