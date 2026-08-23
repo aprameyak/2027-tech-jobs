@@ -804,19 +804,6 @@
     "date_added": "2026-07-09"
   },
   {
-    "company": "SpaceX",
-    "role": "New Graduate Engineer, Software (Starlink)",
-    "location": "Sunnyvale, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-09",
-    "grad_date": ""
-  },
-  {
     "company": "Palantir",
     "role": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
     "location": "New York, NY",
@@ -25484,18 +25471,6 @@
     "date_added": "2026-08-07"
   },
   {
-    "company": "SpaceX",
-    "role": "Software Engineering Internship/Co-op",
-    "location": "Bastrop, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07"
-  },
-  {
     "company": "Intel",
     "role": "AI Software Engineer Graduate Intern",
     "location": "Remote",
@@ -37083,6 +37058,42 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-22"
+  },
+  {
+    "company": "SpaceX",
+    "role": "New Graduate Engineer, Software (Starship)",
+    "location": "Starbase, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002&utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-22"
+  },
+  {
+    "company": "SpaceX",
+    "role": "Silicon Engineering Intern/Co-op",
+    "location": "Irvine, CA; Palo Alto, CA; Redmond, WA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002&utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-22"
+  },
+  {
+    "company": "SpaceX",
+    "role": "Silicon Engineering Internship/Co-op",
+    "location": "Irvine, CA; Palo Alto, CA; Redmond, WA",
+    "type": "offcycle",
+    "season": "Spring 2027",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002&utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-22"
