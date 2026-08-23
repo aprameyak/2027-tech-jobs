@@ -30,7 +30,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
-| Abbott Laboratories | Research Park Intern - Student Researcher | United States - Illinois - Champaign | Undergrad | <a href="https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Champaign/Research-Park-Intern---Student-Researcher_31128619" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | Leidos | Engineering Intern | Huntsville, AL | Undergrad | <a href="https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Engineering-Intern_R-00189691" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | Millennium | Applied AI Engineer Intern | New York, NY | Undergrad | <a href="https://career.mlp.com/careers/job/755957778821" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | ↳ | Quantitative Developer Intern | New York, NY | Undergrad | <a href="https://career.mlp.com/careers/job/755957819661" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
@@ -648,6 +647,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Tower Research Capital | Quantitative Trader Intern | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> | Undergrad | <a href="https://www.tower-research.com/open-positions/?gh_jid=8024128&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | ↳ | Quantitative Trader Intern, PhD | New York, NY | PhD | <a href="https://www.tower-research.com/open-positions/?gh_jid=8024138&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | ↳ | Quantitative Developer Intern | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> | Undergrad | <a href="https://www.tower-research.com/open-positions/?gh_jid=8044334&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
+| Abbott Laboratories | Research Park Intern - Student Researcher | United States - Illinois - Champaign | Undergrad | 🔒 | Aug 20 |
 | AMD 🛂 | Software Engineer Intern | <details><summary>**2 locations**</summary>San Jose, CA</br>Santa Clara, CA</details> | Undergrad | 🔒 | Aug 20 |
 | ↳ | Software Engineer Intern | <details><summary>**6 locations**</summary>Austin, TX</br>Boxborough, MA</br>Fort Collins, CO</br>Longmont, CO</br>Fishkill, NY</br>Rochester, NY</details> | Undergrad | 🔒 | Aug 20 |
 | ↳ | Software Engineer Intern | <details><summary>**2 locations**</summary>San Jose, CA</br>Santa Clara, CA</details> | Masters | 🔒 | Aug 20 |
@@ -1508,7 +1508,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Quantitative Researcher New Grad - Emerging Products - Application Fraud | Remote in |  | Undergrad | <a href="https://jobs.ashbyhq.com/sentilink/4e28d1a3-75a8-4031-85eb-82b7847d365a/application?embed=true&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
 | Symbotic | Software Engineer New Grad | Burlington, MA |  | Undergrad | <a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
 | Teledyne | Junior Software Engineer | Huntsville, AL |  | Undergrad | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
-| True Anomaly | Software Engineer 1 - QA | <details><summary>**2 locations**</summary>Long Beach, CA</br>Denver, CO</details> |  | Undergrad | <a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5152215007?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
 | Varsity Brands | Software Engineer 1 | Memphis, TN |  | Undergrad | <a href="https://careers.varsitybrands.com/global/en/job/JR113976" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
 | WallStreetQuants | Quantitative Trader New Grad | Chicago, IL |  | Undergrad | <a href="https://apply.workable.com/wallstreetquants/j/615D982644/apply" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
 | Wyetech | Software Engineer 1 | Halethorpe, MD |  | Undergrad | <a href="https://jobs.lever.co/wyetechllc/63a3c4e8-35a8-45b7-8e93-b5bef6894fa7/apply?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
@@ -1704,7 +1703,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Reframe Systems | Full Stack Software Engineer | Andover, MA |  | Undergrad | <a href="https://jobs.ashbyhq.com/reframesystems/c651981d-017b-4041-9e01-dbce5633b54d?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | Samsara | Software Engineer I - New Grad | San Francisco, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/samsara/jobs/8097343?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | Scout Motors | DevOps Engineer | Charlotte, NC |  | Undergrad | <a href="https://job-boards.greenhouse.io/scoutmotors/jobs/5201280007?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
-| Sony Interactive Entertainment | Software Engineer II, Data Platform | San Mateo, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6133926004?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | TransMarket Group | Junior Algorithmic Trader | Chicago, IL |  | Undergrad | <a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/5151575007?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | xAI | Software Engineer - Platform Core | Palo Alto, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/xai/jobs/5202187007?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | Zoom | Software Development Engineer | San Jose, CA |  | Undergrad | <a href="https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Development-Engineer_R19218?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
@@ -2217,6 +2215,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Backend Software Engineer New Grad - Trust & Safety | Seattle, WA |  | Undergrad | 🔒 | Aug 12 |
 | ↳ | Research Scientist New Grad - Trust and Safety | Seattle, WA |  | Undergrad | 🔒 | Aug 12 |
 | Tower Research Capital | New Grad: C++ Software Engineer | Montreal, QC |  | Undergrad | 🔒 | Aug 12 |
+| True Anomaly | Software Engineer 1 - QA | <details><summary>**2 locations**</summary>Long Beach, CA</br>Denver, CO</details> |  | Undergrad | 🔒 | Aug 12 |
 | Apple | Software Engineer - Information Systems | Austin, TX |  | Undergrad | 🔒 | Aug 11 |
 | Reliance | AI Software Engineer 1 | Chicago, IL |  | Undergrad | 🔒 | Aug 11 |
 | TransMarketGroup | Junior Software Engineer | Chicago, IL |  | Undergrad | 🔒 | Aug 11 |
@@ -2450,6 +2449,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Esri | Product Engineer I – ArcGIS Maps SDKs | Redlands, CA |  | Undergrad | 🔒 | Aug 4 |
 | Micron | AI Engineer | Boise, ID |  | Undergrad | 🔒 | Aug 4 |
 | Red Hat | Associate Software Engineer | Raleigh, NC |  | Undergrad | 🔒 | Aug 4 |
+| Sony Interactive Entertainment | Software Engineer II, Data Platform | San Mateo, CA |  | Undergrad | 🔒 | Aug 4 |
 | ↳ | Software Engineer | San Jose, CA |  | Undergrad | 🔒 | Aug 4 |
 | Salesforce | Associate Product Manager (starting summer 2027) | San Francisco, CA | Summer 2027 | Undergrad; Masters | 🔒 | Aug 3 |
 | TikTok | Backend Software Engineer Graduate (Feed Safety) - 2027 Start | Seattle, WA |  | Undergrad | 🔒 | Aug 3 |
