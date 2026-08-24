@@ -814,10 +814,18 @@ workday:
   tenant: evergreenix
   instance: wd1
   board: external-careers2
+- name: Excellus BCBS
+  tenant: lthc
+  instance: wd1
+  board: excellusbcbscareers
 - name: Expedia Group
   tenant: expedia
   instance: wd108
   board: search
+- name: Fannie Mae
+  tenant: fanniemae
+  instance: wd1
+  board: fanniemaecareers
 - name: Fidelity Investments
   tenant: fmr
   instance: wd1
