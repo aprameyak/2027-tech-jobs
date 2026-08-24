@@ -734,6 +734,10 @@ workday:
   tenant: comcast
   instance: wd5
   board: Comcast_Careers
+- name: Conagra Brands
+  tenant: conagrabrands
+  instance: wd1
+  board: careers_us
 - name: ConocoPhillips
   tenant: conocophillips
   instance: wd1
