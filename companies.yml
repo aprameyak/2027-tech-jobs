@@ -1290,6 +1290,10 @@ workday:
   tenant: vumc
   instance: wd1
   board: vumccareers
+- name: Vanguard
+  tenant: vanguard
+  instance: wd5
+  board: vanguard_external
 - name: VMware
   tenant: broadcom
   instance: wd1
