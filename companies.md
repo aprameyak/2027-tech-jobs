@@ -24,6 +24,7 @@ All companies actively scraped by the automated workflow.
 Allegion
 Allen Control Systems
 Alloy
+Ambrook
 AlphaGrep Securities
 Alphataraxia
 Altice USA
@@ -148,6 +149,7 @@ Color Health
 Comcast NBCUniversal
 Commure
 Composio
+Conagra Brands
 Confido
 Confluent
 ConocoPhillips
@@ -161,6 +163,7 @@ Cox Enterprises
 Cracker Barrel
 CreditGenie
 Cresta
+Crowe
 CrowdStrike
 Crusoe Energy Systems
 CTGT
@@ -186,6 +189,7 @@ Deepgram
 Dell Technologies
 DensityAI
 Descript
+Detroit Lions
 Deutsche Bank
 Dexcom
 DigiCert
@@ -219,11 +223,13 @@ Eulerity
 EV Realty
 Eventual
 Everfox
+Excellus BCBS
 Evolver
 Exowatt
 Expedia Group
 Experian
 Faire
+Fannie Mae
 Fanatics
 Faros AI
 Fidelity Investments
@@ -245,6 +251,7 @@ Formlabs
 FOX Corporation
 Franklin Templeton
 Freedom Technology Solutions Group
+Garda Capital Partners
 FreeWheel
 Freshworks
 FTI Consulting
@@ -431,6 +438,7 @@ Parsons
 PathAI
 Payoneer
 PayPal
+Philips
 PDT Partners
 Perpay
 Perplexity
@@ -575,6 +583,7 @@ Tenstorrent
 Terranova
 Tessera Labs
 The Nuclear Company
+The Mosaic Company
 The Trade Desk
 ThreatLocker
 Titan
@@ -607,6 +616,7 @@ Upstart
 UVIMCO
 Valkyrie Trading
 Vanderbilt University Medical Center
+Vanguard
 Vanta
 Varda Space
 Vast
@@ -630,6 +640,7 @@ Waymo
 Waystar
 Wealthfront
 Wealthsimple
+Weave
 Weaviate
 Webflow
 Wells Fargo
