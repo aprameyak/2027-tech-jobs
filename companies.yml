@@ -1106,6 +1106,10 @@ workday:
   tenant: paypal
   instance: wd1
   board: jobs
+- name: Philips
+  tenant: philips
+  instance: wd3
+  board: jobs-and-careers
 - name: PNC
   tenant: pnc
   instance: wd5
