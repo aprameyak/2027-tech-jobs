@@ -1262,6 +1262,10 @@ workday:
   tenant: tencent
   instance: wd1
   board: tencent_careers
+- name: The Mosaic Company
+  tenant: mosaic
+  instance: wd5
+  board: mosaic
 - name: Travelers
   tenant: travelers
   instance: wd5
