@@ -37097,5 +37097,18 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-22"
+  },
+  {
+    "company": "True Anomaly",
+    "role": "Software Engineer I, QA (New Grad)",
+    "location": "Denver, CO; Long Beach, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-24",
+    "grad_date": ""
   }
 ]
