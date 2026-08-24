@@ -33903,7 +33903,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - DRAM Design Engineer",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -33987,7 +33987,7 @@
   {
     "company": "mthree",
     "role": "Junior Software Engineer",
-    "location": "USA",
+    "location": "Remote",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -34309,7 +34309,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "CAD Engineer/Librarian Intern (Spring 2027)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Spring 2027",
     "education": "Undergrad",
@@ -34321,7 +34321,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "CAD Engineer/Librarian Intern (Summer 2027)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -34333,7 +34333,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "CAD Engineer/Librarian Intern (Winter 2027)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Winter 2027",
     "education": "Undergrad",
@@ -34345,7 +34345,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "Mechanical Associate Engineer (Spring 2027)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Spring 2027",
     "education": "Undergrad",
@@ -34357,7 +34357,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "Mechanical Associate Engineer (Winter 2027)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Winter 2027",
     "education": "Undergrad",
@@ -34417,7 +34417,7 @@
   {
     "company": "GlobalFoundries",
     "role": "Production Control Engineer (2027 New College Graduate)",
-    "location": "USA - New York - Malta",
+    "location": "Malta, NY",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -34430,7 +34430,7 @@
   {
     "company": "GlobalFoundries",
     "role": "Manufacturing Operations Engineer (2027 New College Graduate)",
-    "location": "USA - New York - Malta",
+    "location": "Malta, NY",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -34443,7 +34443,7 @@
   {
     "company": "GE Vernova",
     "role": "Entry Level Power Engineer - Associate Project Management",
-    "location": "Bellevue WA US",
+    "location": "Bellevue, WA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -34504,7 +34504,7 @@
   {
     "company": "NXP Semiconductors",
     "role": "Product/Test Engineer, Entry Level",
-    "location": "Austin (Oakhill, Office)",
+    "location": "Austin, TX",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -34529,7 +34529,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - Process Development Engineer, Thin Films",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -34541,7 +34541,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - Wet Etch Process Development Engineer",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -34553,7 +34553,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - Process Development Engineer, 3D DRAM CMP",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -34565,7 +34565,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - DRAM IP Circuits Design Engineer",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -34577,7 +34577,7 @@
   {
     "company": "Amazon",
     "role": "2027 MBA Leadership Development Program (MLDP) Intern",
-    "location": "US, WA, Seattle",
+    "location": "Seattle, WA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -34613,7 +34613,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "Assembly, Integration, and Test Associate Engineer (Fall 2026)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -34625,7 +34625,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "Avionics Engineer Associate (Fall 2026)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -34637,7 +34637,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "Avionics Engineer Intern (Fall 2026)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -34649,7 +34649,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "Electrical Reliability Associate (Fall 2026)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -34661,7 +34661,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "Electrical Reliability Intern (Fall 2026)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -34673,7 +34673,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "Embedded Software Developer, Network/Payload Software Intern (Fall 2026)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -34685,7 +34685,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "Environmental Test Engineer Associate (Fall 2026)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -34697,7 +34697,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "Environmental Test Engineer Intern (Fall 2026)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -34709,7 +34709,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "Network Planning Sales Engineer Associate (Fall 2026)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -34721,7 +34721,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "Network Planning Sales Engineer Intern (Fall 2026)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -34733,7 +34733,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "PCB Layout Engineer Intern (Fall 2026)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -34745,7 +34745,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "Radiation Effects Associate Engineer (Fall 2026)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -34757,7 +34757,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "Radiation Effects Engineer Intern (Fall 2026)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -34769,7 +34769,7 @@
   {
     "company": "Astranis Space Technologies",
     "role": "Reliability Test Intern (Fall 2026)",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -34781,7 +34781,7 @@
   {
     "company": "Cresta",
     "role": "Product Design Intern for AI and Human Agents Platform",
-    "location": "Toronto, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -34867,7 +34867,7 @@
   {
     "company": "mthree",
     "role": "Junior Data Scientist",
-    "location": "Canada",
+    "location": "Remote",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -34879,7 +34879,7 @@
   {
     "company": "mthree",
     "role": "Junior Production Support/SRE Analyst ",
-    "location": "Halifax, Nova Scotia, Canada",
+    "location": "Halifax, NS",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -34891,7 +34891,7 @@
   {
     "company": "mthree",
     "role": "Junior Production Support/SRE Analyst ",
-    "location": "Toronto, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35087,7 +35087,7 @@
   {
     "company": "Veeva Systems",
     "role": "Marketing Analytics - Data Analyst - July 2027 Start Date - ADP",
-    "location": "New York - New York City",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35147,7 +35147,7 @@
   {
     "company": "Aptiv",
     "role": "Engineering Intern - CD1",
-    "location": "CAN Kanata (2), ON - WR",
+    "location": "Kanata, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35171,7 +35171,7 @@
   {
     "company": "Campbell Soup Company",
     "role": "Data Engineer, DA&AI Co-Op",
-    "location": "USA - NJ - Camden",
+    "location": "Camden, NJ",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -35183,7 +35183,7 @@
   {
     "company": "Campbell Soup Company",
     "role": "Data Science Intern",
-    "location": "USA - NJ - Camden",
+    "location": "Camden, NJ",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35207,7 +35207,7 @@
   {
     "company": "Campbell Soup Company",
     "role": "Modeling and Visualization Engineer Co-Op",
-    "location": "USA - PA - Hanover",
+    "location": "Hanover, PA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -35270,7 +35270,7 @@
   {
     "company": "Copart",
     "role": "DevOps Engineering Intern",
-    "location": "Dallas, TX - Headquarters",
+    "location": "Dallas, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35282,7 +35282,7 @@
   {
     "company": "Copart",
     "role": "QA Engineering Intern",
-    "location": "Dallas, TX - Headquarters",
+    "location": "Dallas, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35294,7 +35294,7 @@
   {
     "company": "Copart",
     "role": "Field Engineering Intern",
-    "location": "Dallas, TX - Headquarters",
+    "location": "Dallas, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35318,7 +35318,7 @@
   {
     "company": "FTI Consulting",
     "role": "2027 Entry Level Consultant - Technology",
-    "location": "United States",
+    "location": "Remote",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -35331,7 +35331,7 @@
   {
     "company": "FTI Consulting",
     "role": "2027 Entry-Level Consultant - Corporate Finance",
-    "location": "United States",
+    "location": "Remote",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -35344,7 +35344,7 @@
   {
     "company": "GlobalFoundries",
     "role": "IP & Design Engineering Intern (Fall 2026)",
-    "location": "USA - Texas - Richardson",
+    "location": "Richardson, TX",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -35356,7 +35356,7 @@
   {
     "company": "GlobalFoundries",
     "role": "Factory Automation Engineering Intern (Fall 2026)",
-    "location": "USA - New York - Malta",
+    "location": "Malta, NY",
     "type": "offcycle",
     "season": "Fall 2026",
     "education": "Undergrad",
@@ -35368,7 +35368,7 @@
   {
     "company": "GlobalFoundries",
     "role": "Tapeout Engineer, 2026 New College Graduate",
-    "location": "USA - Texas - Austin",
+    "location": "Austin, TX",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -35394,7 +35394,7 @@
   {
     "company": "GlobalFoundries",
     "role": "3D Heterogeneous Integration Design Enablement Engineer (2026 New College Graduate)",
-    "location": "USA - New York - Malta",
+    "location": "Malta, NY",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -35432,7 +35432,7 @@
   {
     "company": "HNTB",
     "role": "Co-op Engineer: Structures - Fall/Winter 2026-2027",
-    "location": "Philadelphia, PA (Pennsylvania)",
+    "location": "Philadelphia, PA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -35494,7 +35494,7 @@
   {
     "company": "GE Vernova",
     "role": "GE Vernova Nuclear Engineering Co-Op/Intern - Spring 2027",
-    "location": "Wilmington NC USA",
+    "location": "Wilmington, NC",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -35506,7 +35506,7 @@
   {
     "company": "GE Vernova",
     "role": "GE Vernova Nuclear Engineering Intern - Summer 2027",
-    "location": "Wilmington NC USA",
+    "location": "Wilmington, NC",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35554,7 +35554,7 @@
   {
     "company": "Motorola Solutions",
     "role": "Junior Field Applications Engineer",
-    "location": "Reston, VA  (VA58)",
+    "location": "Reston, VA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35590,7 +35590,7 @@
   {
     "company": "Procter & Gamble",
     "role": "Northeastern University R&D Engineer Co-op- Northeastern Students Graduating in 2028/2029 ONLY",
-    "location": "BOSTON GO & TECH CENTER",
+    "location": "Boston, MA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -35602,7 +35602,7 @@
   {
     "company": "Regions Bank",
     "role": "2027 ETP Intern \u2013 Corporate Banking Group, Commercial Credit Products, Orlando, FL",
-    "location": "Orlando, FL - Orlando Main 111 North Orange Avenue Office",
+    "location": "Orlando, FL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35614,7 +35614,7 @@
   {
     "company": "Regions Bank",
     "role": "2027 ETP Intern \u2013 Corporate Banking Group, Commercial Credit Products, Clayton, MO",
-    "location": "Clayton, MO - Clayton Banking Building (St Louis, MO)",
+    "location": "Clayton, MO",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35626,7 +35626,7 @@
   {
     "company": "Regions Bank",
     "role": "2027 ETP Intern \u2013 Corporate Banking Group, Commercial Credit Products, New Orleans, LA",
-    "location": "New Orleans, LA - New Orleans Main Poydras Street Branch",
+    "location": "New Orleans, LA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35638,7 +35638,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - Digital IP Design Engineer, DRAM",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35650,7 +35650,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - Process Development Engineer, Planar DRAM CMP",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35662,7 +35662,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - Advanced DRAM Cell/Device Engineer",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35674,7 +35674,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - Process Development Engineer, 3D DRAM Metals",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35724,7 +35724,7 @@
   {
     "company": "Tencent",
     "role": "Hunyuan Multimodal Algorithm Researcher Intern(Omni-Modal)\u200b\u200b",
-    "location": "US-California-Palo Alto",
+    "location": "Palo Alto, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35736,7 +35736,7 @@
   {
     "company": "Northrop Grumman",
     "role": "2026 Entry Level Engineering Opportunities",
-    "location": "United States-Virginia-Falls Church",
+    "location": "Falls Church, VA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -35879,7 +35879,7 @@
   {
     "company": "Point72",
     "role": "Quantitative Developer Intern",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -35904,7 +35904,7 @@
   {
     "company": "SharkNinja",
     "role": "Digital/Sharks, Co-op d'affiliation Marketplace (ao\u00fbt \u00e0 d\u00e9cembre)/Digital/Sharks, Marketplace Affiliates Co-op (August to December)",
-    "location": "Canada",
+    "location": "Remote",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -35916,7 +35916,7 @@
   {
     "company": "SharkNinja",
     "role": "Fall 2026: Digital/Sharks, Sales Co-op, Marketplaces (August to December)",
-    "location": "Mississauga, Ontario, Canada",
+    "location": "Mississauga, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
