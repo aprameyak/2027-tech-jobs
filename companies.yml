@@ -1672,6 +1672,8 @@ ashby:
   slug: waabi
 - name: Wealthsimple
   slug: wealthsimple
+- name: Weave
+  slug: weave
 - name: Weaviate
   slug: weaviate
 - name: WhatNot
