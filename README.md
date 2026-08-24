@@ -293,7 +293,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Cybernetic Labs | Software Engineer Intern - Agent Platform | San Francisco, CA | Undergrad | <a href="https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | ↳ | Full-Stack Software Engineer Intern - Product | San Francisco, CA | Undergrad | <a href="https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | ↳ | Forward Deployed Engineer Intern | San Francisco, CA | Undergrad | <a href="https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
-| Databricks | Product Management Intern | Mountain View, CA | Undergrad | <a href="https://boards.greenhouse.io/embed/job_app?token=6883068002&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | DE Shaw | Software Developer Intern | New York, NY | Undergrad | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | Dexmate | Frontend Engineer Intern | Fremont, CA | Undergrad | <a href="https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
 | DRW | Quantitative Researcher Intern | Chicago, IL | Undergrad | <a href="https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 7 |
@@ -759,6 +758,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | ML Intern | Unknown | Undergrad | 🔒 | Aug 7 |
 | ↳ | Software Engineer Intern | Unknown | Undergrad | 🔒 | Aug 7 |
 | Corpay | Web Application Developer Intern | Louisville, KY | Undergrad | 🔒 | Aug 7 |
+| Databricks | Product Management Intern | Mountain View, CA | Undergrad | 🔒 | Aug 7 |
 | Eulerity | Website Developer & Content Marketing Intern - AI & Automation | New York City, NY | Undergrad | 🔒 | Aug 7 |
 | GDIT | Software Developer Internship | Remote (US) | Undergrad | 🔒 | Aug 7 |
 | GE Vernova | Digital Technology Intern | Atlanta, GA | Undergrad | 🔒 | Aug 7 |
