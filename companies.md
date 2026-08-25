@@ -46,6 +46,7 @@ Anyscale
 Appian
 Apple
 Applied Intuition
+Applied Materials
 Apex Fintech Solutions
 Apptronik
 Aptiv
