@@ -37374,5 +37374,30 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-25"
+  },
+  {
+    "company": "Konrad Group",
+    "role": "Mobile Developer (Entry Level)",
+    "location": "Toronto, ON",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.konrad.com/careers/job/7976082003?gh_jid=7976082003",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-25",
+    "grad_date": ""
+  },
+  {
+    "company": "Brunswick",
+    "role": "Mercury Marine: Facilities Engineering Intern",
+    "location": "Fond du Lac, WI",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Facilities-Engineering-Intern_JR-051223",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-25"
   }
 ]
