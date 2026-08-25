@@ -978,6 +978,10 @@ workday:
   tenant: kbr
   instance: wd5
   board: kbr_careers
+- name: KeyBank
+  tenant: keybank
+  instance: wd5
+  board: External_Career_Site
 - name: LEGO Group
   tenant: lego
   instance: wd103
