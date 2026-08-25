@@ -858,6 +858,10 @@ workday:
   tenant: fanniemae
   instance: wd1
   board: fanniemaecareers
+- name: Freddie Mac
+  tenant: freddiemac
+  instance: wd5
+  board: External
 - name: Fidelity Investments
   tenant: fmr
   instance: wd1
