@@ -1306,6 +1306,10 @@ workday:
   tenant: tencent
   instance: wd1
   board: tencent_careers
+- name: The Hartford
+  tenant: thehartford
+  instance: wd5
+  board: Careers_External
 - name: The Mosaic Company
   tenant: mosaic
   instance: wd5

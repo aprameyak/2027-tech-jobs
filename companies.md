@@ -594,6 +594,7 @@ Temporal
 Tenable
 Tencent
 Tenstorrent
+The Hartford
 Terranova
 Tessera Labs
 The Nuclear Company
