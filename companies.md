@@ -189,6 +189,7 @@ Databricks
 Datadog
 Datalab USA
 Decagon
+Dee Zee
 Deepgram
 Dell Technologies
 DensityAI
