@@ -650,6 +650,10 @@ workday:
   tenant: autodesk
   instance: wd1
   board: Ext
+- name: Applied Materials
+  tenant: amat
+  instance: wd1
+  board: External
 - name: AVEVA
   tenant: aveva
   instance: wd3
