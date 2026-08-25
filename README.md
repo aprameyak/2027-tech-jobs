@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Brunswick | Mercury Marine: Facilities Engineering Intern | Fond du Lac, WI | Undergrad | <a href="https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Facilities-Engineering-Intern_JR-051223" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | Crowe | Business Analyst Intern | Chicago IL USA | Undergrad | <a href="https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Business-Analyst-Intern_R-71638" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | Northrop Grumman | 2027 Software Test Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | Undergrad | <a href="https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | Brunswick | Software Engineering Intern | Champaign, IL | Undergrad | <a href="https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
@@ -1442,6 +1443,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Konrad Group | Mobile Developer (Entry Level) | Toronto, ON |  | Undergrad | <a href="https://www.konrad.com/careers/job/7976082003?gh_jid=7976082003" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Hawthorne, CA |  | Undergrad | <a href="https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | Ciena | Embedded Software Developer | Ottawa, ON |  | Undergrad | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA |  | Undergrad | <a href="https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
