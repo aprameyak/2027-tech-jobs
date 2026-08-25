@@ -38549,5 +38549,18 @@
     "citizenship": "No",
     "date_added": "2026-08-25",
     "grad_date": ""
+  },
+  {
+    "company": "Kikoff",
+    "role": "Software Engineer New Grad",
+    "location": "San Francisco, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-25",
+    "grad_date": ""
   }
 ]
