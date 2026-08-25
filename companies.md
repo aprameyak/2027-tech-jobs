@@ -576,6 +576,7 @@ Supabase
 Sybil
 Symbotic
 Synchrony
+Syska Hennessy Group
 T. Rowe Price
 Tailscale
 Take-Two Interactive
