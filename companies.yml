@@ -970,6 +970,10 @@ workday:
   tenant: hpe
   instance: wd5
   board: Jobsathpe
+- name: Johnson & Johnson
+  tenant: jj
+  instance: wd5
+  board: JJ
 - name: KBR
   tenant: kbr
   instance: wd5
