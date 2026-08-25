@@ -387,6 +387,8 @@ greenhouse:
   slug: stripe
 - name: StubHub
   slug: stubhubinc
+- name: Syska Hennessy Group
+  slug: syskahennessy
 - name: Take-Two Interactive
   slug: taketwo
 - name: Tenable
