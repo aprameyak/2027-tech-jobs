@@ -523,6 +523,7 @@ Runway
 SailPoint
 Salesforce
 Sallie Mae
+Sage
 Samaya AI
 Samsara
 SanDisk
