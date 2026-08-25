@@ -794,6 +794,10 @@ workday:
   tenant: danaher
   instance: wd1
   board: danaherjobs
+- name: Dee Zee
+  tenant: deezee
+  instance: wd108
+  board: DeeZee_Careers
 - name: Dell Technologies
   tenant: dell
   instance: wd1
