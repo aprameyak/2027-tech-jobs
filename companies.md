@@ -327,6 +327,7 @@ Kastle
 Katalyst Space Technologies
 KAYAK
 KBR
+Kikoff
 Klaviyo
 KnowBe4
 Kodiak Robotics
