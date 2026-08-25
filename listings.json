@@ -37888,5 +37888,18 @@
     "citizenship": "No",
     "date_added": "2026-08-25",
     "grad_date": ""
+  },
+  {
+    "company": "True Anomaly",
+    "role": "Software Engineer I, Data Science (New Grad)",
+    "location": "Denver, CO; Long Beach, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-25",
+    "grad_date": ""
   }
 ]
