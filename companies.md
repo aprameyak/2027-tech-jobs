@@ -325,6 +325,7 @@ Intercom
 InterDigital
 IXL Learning
 Jane Street
+Johnson & Johnson
 JPMorgan Chase
 Julius AI
 Jump Trading
