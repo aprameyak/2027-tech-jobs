@@ -253,6 +253,7 @@ Formlabs
 FOX Corporation
 Franklin Templeton
 Freedom Technology Solutions Group
+Freeform
 Garda Capital Partners
 FreeWheel
 Freshworks
