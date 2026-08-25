@@ -822,6 +822,10 @@ workday:
   tenant: draper
   instance: wd5
   board: draper_careers
+- name: DuCharme McMillen & Associates
+  tenant: dmainc
+  instance: wd5
+  board: dma
 - name: DXC Technology
   tenant: dxctechnology
   instance: wd1
