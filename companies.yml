@@ -838,6 +838,10 @@ workday:
   tenant: equifax
   instance: wd5
   board: UR_External
+- name: Ecolab
+  tenant: ecolab
+  instance: wd1
+  board: ecolab_external
 - name: Everfox
   tenant: evergreenix
   instance: wd1

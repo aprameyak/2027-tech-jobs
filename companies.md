@@ -212,6 +212,7 @@ Dune
 Duolingo
 DV Trading
 DXC Technology
+Ecolab
 Egra
 ElevenLabs
 EliseAI
