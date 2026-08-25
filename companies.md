@@ -46,6 +46,7 @@ Anyscale
 Appian
 Apple
 Applied Intuition
+Apex Fintech Solutions
 Apptronik
 Aptiv
 Aquatic

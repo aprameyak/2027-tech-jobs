@@ -578,6 +578,10 @@ workday:
   tenant: abbott
   instance: wd5
   board: abbottcareers
+- name: Apex Fintech Solutions
+  tenant: peak6group
+  instance: wd1
+  board: apexfintechsolutions
 - name: Accenture
   tenant: accenture
   instance: wd103
