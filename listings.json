@@ -38830,5 +38830,17 @@
     "citizenship": "Unknown",
     "date_added": "2026-08-26",
     "grad_date": ""
+  },
+  {
+    "company": "Zipline",
+    "role": "Embedded Software Engineer Intern (Spring 2027)",
+    "location": "South San Francisco, CA",
+    "type": "offcycle",
+    "season": "Spring 2027",
+    "education": "Undergrad",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7974890003",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-26"
   }
 ]
