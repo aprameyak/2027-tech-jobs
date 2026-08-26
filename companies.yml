@@ -551,6 +551,8 @@ smartrecruiters:
   identifier: Freshworks
 - name: Glean
   identifier: Glean
+- name: Honeywell
+  identifier: Honeywell
 - name: Manhattan Associates
   identifier: ManhattanAssociates
 - name: Rippling
