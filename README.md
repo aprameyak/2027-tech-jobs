@@ -30,6 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Northrop Grumman | 2027 Intern Software Engineer | Melbourne, FL | Undergrad | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | AbbVie | Business Technology Solutions Intern - Data & Software Engineering | North Chicago, IL | Undergrad | <a href="https://jobs.smartrecruiters.com/AbbVie/3743990014697918" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | Advanced Space | DevOps Summer Internship 2027 | Westminster, CO | Undergrad | <a href="https://job-boards.greenhouse.io/advancedspace/jobs/4333179009" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | ↳ | Software Engineering Summer Internship 2027 | Westminster, CO | Undergrad | <a href="https://job-boards.greenhouse.io/advancedspace/jobs/4324855009" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
