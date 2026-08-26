@@ -304,6 +304,7 @@ Hermeus
 Hipp Health
 Home Depot
 Homebase
+Honeywell
 Hootsuite
 HP
 HPR
