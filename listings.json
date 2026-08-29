@@ -40567,5 +40567,18 @@
     "citizenship": "No",
     "date_added": "2026-08-28",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "Freeform",
+    "role": "Software Engineer New Grad",
+    "location": "Los Angeles, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003?utm_source=Simplify&ref=Simplify",
+    "sponsorship": "unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-28",
+    "grad_date": ""
   }
 ]
