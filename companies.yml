@@ -105,6 +105,8 @@ greenhouse:
   slug: cohesityuniversityhiring
 - name: Coinbase
   slug: coinbase
+- name: Compeer Financial
+  slug: compeerfinancial
 - name: CoreWeave
   slug: coreweave
 - name: Coveo
@@ -171,10 +173,14 @@ greenhouse:
   slug: gardacp
 - name: Gemini
   slug: gemini
+- name: General Matter
+  slug: generalmatter
 - name: Geneva Trading
   slug: genevatrading
 - name: GitLab
   slug: gitlab
+- name: GlossGenius
+  slug: glossgenius
 - name: GoPro
   slug: goprocareers
 - name: Grafana Labs
@@ -580,6 +586,10 @@ workday:
   tenant: 3m
   instance: wd1
   board: Search
+- name: AB InBev
+  tenant: abinbev
+  instance: wd1
+  board: USA
 - name: Abbott Laboratories
   tenant: abbott
   instance: wd5
@@ -616,6 +626,10 @@ workday:
   tenant: aig
   instance: wd1
   board: aig
+- name: Air Products
+  tenant: airproducts
+  instance: wd5
+  board: AP0001
 - name: Alation
   tenant: alation
   instance: wd503
@@ -628,6 +642,10 @@ workday:
   tenant: ambarella
   instance: wd108
   board: ambarella
+- name: Ameren
+  tenant: ameren
+  instance: wd1
+  board: External
 - name: Amgen
   tenant: amgen
   instance: wd1
@@ -660,6 +678,10 @@ workday:
   tenant: amat
   instance: wd1
   board: External
+- name: Auto-Owners
+  tenant: aoins
+  instance: wd5
+  board: AutoOwners
 - name: AVEVA
   tenant: aveva
   instance: wd3
@@ -760,6 +782,10 @@ workday:
   tenant: comcast
   instance: wd5
   board: Comcast_Careers
+- name: Commerce Bank
+  tenant: commercebank
+  instance: wd1
+  board: CommerceJobs
 - name: Conagra Brands
   tenant: conagrabrands
   instance: wd1
@@ -948,6 +974,10 @@ workday:
   tenant: guidewire
   instance: wd5
   board: external
+- name: Hitachi
+  tenant: hitachi
+  instance: wd1
+  board: hitachi
 - name: HNTB
   tenant: hntb
   instance: wd5
@@ -1032,6 +1062,10 @@ workday:
   tenant: mtb
   instance: wd5
   board: Campus
+- name: Manulife
+  tenant: manulife
+  instance: wd3
+  board: MFCJH_Jobs
 - name: Maritz
   tenant: maritz
   instance: wd1
@@ -1160,6 +1194,10 @@ workday:
   tenant: philips
   instance: wd3
   board: jobs-and-careers
+- name: PIMCO
+  tenant: pimco
+  instance: wd1
+  board: pimco-careers
 - name: PNC
   tenant: pnc
   instance: wd5
@@ -1364,6 +1402,10 @@ workday:
   tenant: wf
   instance: wd1
   board: WellsFargoJobs
+- name: Workiva
+  tenant: workiva
+  instance: wd503
+  board: careers
 - name: Yahoo
   tenant: ouryahoo
   instance: wd5
@@ -1568,6 +1610,8 @@ ashby:
   slug: homebase
 - name: Human Computer Lab
   slug: human-computer-lab
+- name: Inductive Automation
+  slug: inductive-automation-llc
 - name: Interaction
   slug: interaction
 - name: Julius AI
@@ -1734,6 +1778,8 @@ ashby:
   slug: runsybil-jobs
 - name: Tailscale
   slug: tailscale
+- name: TELUS Digital
+  slug: telus-digital
 - name: Temporal
   slug: temporal
 - name: Terranova
@@ -1754,6 +1800,8 @@ ashby:
   slug: veeda-labs
 - name: Vercel
   slug: vercel
+- name: Voleon Group
+  slug: voleon
 - name: Waabi
   slug: waabi
 - name: Wealthsimple

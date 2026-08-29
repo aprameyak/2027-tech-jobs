@@ -1,6 +1,7 @@
 # Companies Covered by the Scraper
 1Password
 3M
+AB InBev
 Abbott Laboratories
 AbbVie
 Abnormal Security
@@ -15,6 +16,7 @@ AeroVironment
 Affirm
 Agilent Technologies
 AIG
+Air Products
 Airbnb
 Airtable
 Airwallex
@@ -30,6 +32,7 @@ AlphaGrep Securities
 Alphataraxia
 Altice USA
 Ambarella
+Ameren
 Amgen
 Amperity
 Amperon
@@ -65,6 +68,7 @@ Attentive
 Auctor
 Aurora Innovation
 Autodesk
+Auto-Owners
 AVEVA
 AvidXchange
 Axiomatic AI
@@ -149,9 +153,11 @@ Cognition AI
 Cohere
 Cohesity
 Coinbase
+Compeer Financial
 Collective
 Color Health
 Comcast NBCUniversal
+Commerce Bank
 Commure
 Composio
 Conagra Brands
@@ -175,6 +181,7 @@ CTGT
 Cursor
 CVS Health
 Cylake
+Hitachi
 HNTB
 Lennar Corporation
 Loblaw Companies
@@ -277,10 +284,12 @@ Gemini
 Gen Digital
 GenBio AI
 General Dynamics Information Technology
+General Matter
 General Motors
 Geneva Trading
 Giga AI
 GitLab
+GlossGenius
 Glean
 Global Payments
 GlobalFoundries
@@ -321,6 +330,7 @@ Impact
 Instacart
 InstaLILY
 Integra FEC
+Inductive Automation
 Intel
 Interaction
 Intercom
@@ -370,6 +380,7 @@ Lyft
 M&T Bank
 Mainspring Energy
 Manhattan Associates
+Manulife
 Maritz
 Marmon Holdings
 Marqeta
@@ -454,6 +465,7 @@ PathAI
 Payoneer
 PayPal
 Philips
+PIMCO
 PDT Partners
 Perpay
 Perplexity
@@ -590,6 +602,7 @@ Synchrony
 Syska Hennessy Group
 T. Rowe Price
 Tailscale
+TELUS Digital
 Take-Two Interactive
 Target Corporation
 TD Bank
@@ -648,6 +661,7 @@ Virtu Financial
 Visa
 VMware
 Volaris Group
+Voleon Group
 Voloridge Investment Management
 Waabi
 Walleye Capital
@@ -662,6 +676,7 @@ Weave
 Weaviate
 Webflow
 Wells Fargo
+Workiva
 Western Digital
 WhatNot
 WHOOP
