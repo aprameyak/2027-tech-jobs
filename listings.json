@@ -42356,5 +42356,18 @@
     "citizenship": "No",
     "date_added": "2026-08-28",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "Tesla",
+    "role": "Automation Controls Engineer, Megapack",
+    "location": "Palo Alto, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.tesla.com/careers/search/job/247595?utm_source=aprameyak",
+    "sponsorship": "unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-28",
+    "grad_date": ""
   }
 ]
