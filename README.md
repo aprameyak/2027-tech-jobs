@@ -485,6 +485,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Quadrillion Labs | Software Engineering Intern | Remote (US) | Undergrad | <a href="https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | Virtu Financial | 2027 Internship - Frontend & User Experience | New York, NY | Undergrad | <a href="https://job-boards.greenhouse.io/virtu/jobs/8657500002?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | Apex Technology, Inc. | Software Engineering Intern, Embedded Systems | Los Angeles, CA | Undergrad | <a href="https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
+| Apple | Software Undergrad Engineering Internships | Remote (US) | Undergrad | <a href="https://jobs.apple.com/en-us/details/200664785-3810?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
+| ↳ | Software Engineering Masters Internships | Remote (US) | Masters | <a href="https://jobs.apple.com/en-us/details/200664320-3810?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Aquatic Capital | Software Engineer Intern | Chicago, IL | Undergrad | <a href="https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Base Power Company | Quantitative Developer Intern | Austin, TX | Undergrad | <a href="https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Etched | Supercomputing Intern | San Jose, CA | Undergrad | <a href="https://jobs.ashbyhq.com/Etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
@@ -492,6 +494,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Palantir Technologies | Software Engineer Intern | Washington, DC | Undergrad | <a href="https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Al Warren Oil Company | Software Developer Intern | Bensenville, IL | Undergrad | <a href="https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Appian | Information Security Engineer Intern | McLean, VA | Undergrad | <a href="https://job-boards.greenhouse.io/appian/jobs/8088496?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
+| Apple | Software PhD Internships | Remote (US) | PhD | <a href="https://jobs.apple.com/en-us/details/200664323-3810?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | D. E. Shaw | Quantitative Analyst and Software Developer Intern | New York, NY | Undergrad | <a href="https://www.deshaw.com/careers/5906?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Etched | Infrastructure Intern | San Jose, CA | Undergrad | <a href="https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Ether.fi | GTM Engineer Intern | <details><summary>**2 locations**</summary>Denver, CO</br>New York, NY</details> | Undergrad | <a href="https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
@@ -681,6 +684,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Tools and Compilers Research and Development Internship | New York, NY | Masters; PhD | <a href="https://www.janestreet.com/join-jane-street/position/5869205002/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Pony.ai | Software Engineer Intern, Generalist | Fremont, CA | Undergrad | <a href="https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Pylon | Software Engineer Intern | San Francisco, CA | Undergrad | <a href="https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
+| Salesforce | Software Engineer Intern | <details><summary>**5 locations**</summary>Burlington, MA</br>New York, NY</br>Palo Alto, CA</br>San Francisco, CA</br>Seattle, WA</details> | Undergrad | <a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Sony | Software Engineer Intern | San Diego, CA | Undergrad | <a href="https://sonyglobal.wd1.myworkdayjobs.com/en-US/sonyglobalcareers/job/San-Diego/Software-Engineer-Intern_JR-119282?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Veeam Software | Software Engineering Intern, Policy Engineering | San Jose, CA | Undergrad | <a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | Software Engineering Intern, Platform, Security & AI | San Jose, CA | Undergrad | <a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
@@ -1024,10 +1028,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | General Dynamics Information Technology | Systems Engineer Intern | Albany, NY | Masters | 🔒 | Jul 29 |
 | Leidos | Data Science Intern | San Diego, CA | Undergrad | 🔒 | Jul 29 |
 | ↳ | Software Developer Intern | Annapolis Junction, MD | Undergrad | 🔒 | Jul 29 |
-| Apple | Software Engineer Intern, Undergrad | Remote (US) | Undergrad | 🔒 | Jul 28 |
+| ↳ | Software Engineer Intern, Undergrad | Remote (US) | Undergrad | 🔒 | Jul 28 |
 | ↳ | Software Engineering Intern, Masters | Remote (US) | Masters | 🔒 | Jul 28 |
-| ↳ | Software Undergrad Engineering Internships | Remote (US) | Undergrad | 🔒 | Jul 28 |
-| ↳ | Software Engineering Masters Internships | Remote (US) | Masters | 🔒 | Jul 28 |
 | Brunswick | Software Engineer Intern | Champaign, IL | Undergrad | 🔒 | Jul 28 |
 | IMC | Quantitative Research Intern | Chicago, IL | Undergrad | 🔒 | Jul 28 |
 | ↳ | Quantitative Research Intern (PHD) | Chicago, IL | PhD | 🔒 | Jul 28 |
@@ -1039,7 +1041,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ABC News | Product Management and Engineering Intern | New York, NY | Undergrad | 🔒 | Jul 27 |
 | Abundant | Software Engineering Intern, Research Focused | San Francisco, CA | Undergrad | 🔒 | Jul 27 |
 | Altasciences | Process Innovation - Software Engineering Intern | Overland Park, KS | Undergrad | 🔒 | Jul 27 |
-| Apple | Software PhD Internships | Remote (US) | PhD | 🔒 | Jul 27 |
 | Avanade | Software Engineering Intern | <details><summary>**2 locations**</summary>Los Angeles, CA</br>Seattle, WA</details> | Undergrad | 🔒 | Jul 27 |
 | Capital One | Data Analyst Intern | McLean, VA | Undergrad | 🔒 | Jul 27 |
 | Ciena | Software Engineering Intern (4 Months) | Ottawa, ON | Undergrad | 🔒 | Jul 27 |
@@ -1156,7 +1157,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | LiveRamp | Software Engineer Intern, Pixel Serving | New York, NY | Undergrad | 🔒 | Jul 10 |
 | Plus | Software Engineer Intern, Runtime & Robotics | Santa Clara, CA | Undergrad | 🔒 | Jul 10 |
 | Podium | Software Engineering Intern | Lehi, UT | Undergrad | 🔒 | Jul 10 |
-| Salesforce | Software Engineer Intern | <details><summary>**5 locations**</summary>Burlington, MA</br>New York, NY</br>Palo Alto, CA</br>San Francisco, CA</br>Seattle, WA</details> | Undergrad | 🔒 | Jul 10 |
 | Stoke Space | Software Engineer Intern | Kent, WA | Undergrad | 🔒 | Jul 10 |
 | TikTok | LLM Post-training Engineer Intern | San Jose, CA | Undergrad | 🔒 | Jul 10 |
 | Citadel | Software Engineer Intern | <details><summary>**4 locations**</summary>New York, NY</br>Miami, FL</br>Greenwich, CT</br>Houston, TX</details> | Undergrad | 🔒 | Jul 9 |
@@ -1830,6 +1830,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Associate Network Engineer | Bala Cynwyd, PA |  | Undergrad | <a href="https://careers-sig.icims.com/jobs/8137/job?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 5 |
 | Two Sigma | AI Research Scientist - New Grad (Campus Full-Time) | New York, NY |  | Masters; PhD | <a href="https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Campus-Full-Time/13671?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 5 |
 | Amerisure | Software Engineer I | Farmington Hills, MI |  | Undergrad | <a href="https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
+| Apple | Software Engineer - Early Career (Front-end) | Austin, TX |  | Undergrad | <a href="https://jobs.apple.com/en-us/details/200680752/Software-Engineer-Early-Career-Front-end-?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | Applied Intuition | Software Engineer - Real-Time Vehicle | Sunnyvale, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/applied/6e8e1c23-e470-4419-b06e-88197b448cb3?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | ↳ | Full-Stack Software Engineer | Sunnyvale, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/applied/341f8193-19ab-4261-bd20-da7d530fbf9c?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
 | Archer | Computer Vision Engineer | San Jose, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/archer56/jobs/7823270003?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 4 |
@@ -2595,7 +2596,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Associate Linux/Windows Engineer | Bala Cynwyd, PA |  | Undergrad | 🔒 | Aug 5 |
 | XPENG Motors | 2027 Campus Recruiting Robotics Center Full-Time Position | Santa Clara, CA | Spring 2027 | Undergrad | 🔒 | Aug 5 |
 | Airbnb | Software Engineer, Biztech | Remote (US) |  | Undergrad | 🔒 | Aug 4 |
-| Apple | Software Engineer - Early Career (Front-end) | Austin, TX |  | Undergrad | 🔒 | Aug 4 |
 | Capital One | Applied Researcher I, AI Foundations | New York, NY |  | Undergrad | 🔒 | Aug 4 |
 | CoreWeave | Data Center Security Engineer | Livingston, NJ |  | Undergrad | 🔒 | Aug 4 |
 | Esri | Product Engineer I – ArcGIS Maps SDKs | Redlands, CA |  | Undergrad | 🔒 | Aug 4 |
