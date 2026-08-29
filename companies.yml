@@ -482,6 +482,8 @@ lever:
   slug: belvederetrading
 - name: Blue Origin
   slug: blueorigin
+- name: CesiumAstro
+  slug: CesiumAstro
 - name: Coupa Software
   slug: coupa
 - name: Datalab USA
