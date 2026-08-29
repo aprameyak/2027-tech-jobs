@@ -39254,5 +39254,18 @@
     "citizenship": "No",
     "date_added": "2026-08-28",
     "grad_date": ""
+  },
+  {
+    "company": "ServiceNow",
+    "role": "Software Engineer",
+    "location": "Santa Clara, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.servicenow.com/jobs/744000092358511/software-engineer/?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-28",
+    "grad_date": ""
   }
 ]
