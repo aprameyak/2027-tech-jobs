@@ -387,6 +387,7 @@ Microsoft
 Milwaukee Tool
 Miro
 Mistral AI
+MITRE
 Mixpanel
 Mobileye
 Modal

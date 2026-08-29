@@ -555,6 +555,8 @@ smartrecruiters:
   identifier: Honeywell
 - name: Manhattan Associates
   identifier: ManhattanAssociates
+- name: MITRE
+  identifier: MITRE
 - name: Rippling
   identifier: Rippling
 - name: Roland Berger
