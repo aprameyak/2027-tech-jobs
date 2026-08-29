@@ -2037,6 +2037,22 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineer (2027 Graduates) | McLean, VA | Spring 2027 | Undergrad; Masters | <a href="https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Associate Application Engineer (2027 Graduates) | McLean, VA | Spring 2027 | Undergrad; Masters | <a href="https://careers.appian.com/jobs/8035372-associate-application-engineer--2027-graduates-?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Product Manager (2027 Graduates) | McLean, VA | Spring 2027 | Undergrad; Masters | <a href="https://careers.appian.com/jobs/8069612-product-manager--2027-graduates-?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| Apple | Junior UI Compositing Engineer | Cupertino, CA |  | Undergrad | <a href="https://jobs.apple.com/en-us/details/200636915-0836/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | Software Engineer, Customer Systems | Sunnyvale, CA |  | Undergrad | <a href="https://jobs.apple.com/en-us/details/200646547-3956/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | Software Engineer | Austin, TX |  | Undergrad | <a href="https://jobs.apple.com/en-us/details/200643885-0157/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | Software Engineer, IS&T Early Career | Sunnyvale, CA |  | Undergrad | <a href="https://jobs.apple.com/en-us/details/200627852-3956/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | AIML Resident - Siri Agent Modeling | Cupertino, CA |  | PhD | <a href="https://jobs.apple.com/en-us/details/200630837-0836/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | AIML Resident - Robot Learning | Santa Clara, CA |  | PhD | <a href="https://jobs.apple.com/en-us/details/200630834-3760/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | AIML Resident - Data Operations Capacity Planning & Analytics | <details><summary>**2 locations**</summary>Seattle, WA</br>Cupertino, CA</details> |  | PhD | <a href="https://jobs.apple.com/en-us/details/200630794-3337/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | AIML Resident - Knowledge Answer Quality & Richness | <details><summary>**2 locations**</summary>Seattle, WA</br>Santa Clara, CA</details> |  | PhD | <a href="https://jobs.apple.com/en-us/details/200630798-3337/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | AIML Resident - Input Experience NLP | Cupertino, CA |  | PhD | <a href="https://jobs.apple.com/en-us/details/200630840-0836/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | AIML Resident - Machine Learning Research | Seattle, WA |  | PhD | <a href="https://jobs.apple.com/en-us/details/200630783-3337/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | IS&T Early Career Engineering Program Manager | Austin, TX |  | Undergrad | <a href="https://jobs.apple.com/en-us/details/200626967-0157/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | Software Engineer, Xcode Intelligence Experience | Cupertino, CA |  | Undergrad | <a href="https://jobs.apple.com/en-us/details/200626941-0836/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | Camera Framework Engineer, Photo Capture | Cupertino, CA |  | Undergrad | <a href="https://jobs.apple.com/en-us/details/200622152-0836/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | Accessibility Engineer, IS&T, Early Career | Sunnyvale, CA |  | Undergrad | <a href="https://jobs.apple.com/en-us/details/200615794-3956/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | Software Engineer | Sunnyvale, CA |  | Undergrad | <a href="https://jobs.apple.com/en-us/details/200643886-3956/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | Wi-Fi Software Systems Performance Engineer | San Diego, CA |  | Undergrad | <a href="https://jobs.apple.com/en-us/details/200620177-3543/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | BlackEdge Capital | Graduate Quantitative Developer | Chicago, IL | Spring 2027 | Masters; PhD | <a href="https://job-boards.greenhouse.io/blackedgecapital/jobs/4703827005?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | BRM | Entry Level Software Engineer | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ByteDance | New Grad 2026: Software Development Engineer in Test Graduate | San Jose, CA | Spring 2026 | Undergrad | <a href="https://joinbytedance.com/search/7532657573800659218?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
@@ -2938,26 +2954,10 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | AMD | Graphics Software Development Engineer | Bellevue, WA |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2027: Associate Solution Engineer | McLean, VA | Spring 2027 | Undergrad | 🔒 | Jul 24 |
 | ↳ | Associate Solutions Consultant (2027 Graduates) | McLean, VA | Spring 2027 | Undergrad; Masters | 🔒 | Jul 24 |
-| Apple | Junior UI Compositing Engineer | Cupertino, CA |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | Software Engineer, Customer Systems | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | Software Engineer | Austin, TX |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | Software Engineer, IS&T Early Career | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | AIML Resident - Siri Agent Modeling | Cupertino, CA |  | PhD | 🔒 | Jul 24 |
-| ↳ | AIML Resident - Robot Learning | Santa Clara, CA |  | PhD | 🔒 | Jul 24 |
-| ↳ | AIML Resident - Data Operations Capacity Planning & Analytics | <details><summary>**2 locations**</summary>Seattle, WA</br>Cupertino, CA</details> |  | PhD | 🔒 | Jul 24 |
-| ↳ | AIML Resident - Knowledge Answer Quality & Richness | <details><summary>**2 locations**</summary>Seattle, WA</br>Santa Clara, CA</details> |  | PhD | 🔒 | Jul 24 |
-| ↳ | AIML Resident - Input Experience NLP | Cupertino, CA |  | PhD | 🔒 | Jul 24 |
-| ↳ | AIML Resident - Machine Learning Research | Seattle, WA |  | PhD | 🔒 | Jul 24 |
-| ↳ | IS&T Early Career Engineering Program Manager | Austin, TX |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | Software Engineer, Xcode Intelligence Experience | Cupertino, CA |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | Camera Framework Engineer, Photo Capture | Cupertino, CA |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | Accessibility Engineer, IS&T, Early Career | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Software Engineer, IS&T | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Cellular Platform Software Engineer, Embedded Analytics | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | IS&T Early Career Engineering Program Manager Opportunities | Austin, TX |  | Undergrad | 🔒 | Jul 24 |
 | ↳ | Software Engineer, IS&T | Austin, TX |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | Software Engineer | Sunnyvale, CA |  | Undergrad | 🔒 | Jul 24 |
-| ↳ | Wi-Fi Software Systems Performance Engineer | San Diego, CA |  | Undergrad | 🔒 | Jul 24 |
 | Atlassian | New Grad 2026: Machine Learning Engineer | San Francisco, CA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | ↳ | New Grad 2026: Software Engineer | Seattle, WA | Spring 2026 | Undergrad | 🔒 | Jul 24 |
 | Aurora Innovation | Software Engineer 1 | Pittsburgh, PA |  | Undergrad | 🔒 | Jul 24 |
