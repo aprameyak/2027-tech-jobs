@@ -42291,5 +42291,18 @@
     "citizenship": "No",
     "date_added": "2026-08-28",
     "grad_date": "Spring 2025"
+  },
+  {
+    "company": "Amazon",
+    "role": "Antenna Systems Engineer, Antenna Calibration, Kuiper",
+    "location": "Redmond, WA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.amazon.jobs/en/jobs/3064596/antenna-systems-engineer-antenna-calibration-kuiper?utm_source=aprameyak",
+    "sponsorship": "unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-28",
+    "grad_date": ""
   }
 ]
