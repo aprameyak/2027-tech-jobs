@@ -121,6 +121,7 @@ CarGurus
 Carta
 Centerfield
 Cerebras
+CesiumAstro
 Chainguard
 Chamberlain Group
 ChargePoint
