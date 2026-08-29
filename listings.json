@@ -42252,5 +42252,18 @@
     "citizenship": "No",
     "date_added": "2026-08-28",
     "grad_date": "Spring 2025"
+  },
+  {
+    "company": "Garmin",
+    "role": "Software Engineer I - Embedded Software",
+    "location": "Olathe, KS",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.garmin.com/jobs/16827?utm_source=aprameyak",
+    "sponsorship": "unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-28",
+    "grad_date": ""
   }
 ]
