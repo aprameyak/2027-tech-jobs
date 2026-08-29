@@ -39761,5 +39761,18 @@
     "citizenship": "No",
     "date_added": "2026-08-28",
     "grad_date": ""
+  },
+  {
+    "company": "Amazon",
+    "role": "Software Development Engineer - Early Career",
+    "location": "Vancouver, BC",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026?utm_source=Simplify&ref=Simplify",
+    "sponsorship": "unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-28",
+    "grad_date": "Spring 2026"
   }
 ]
