@@ -39215,5 +39215,18 @@
     "citizenship": "No",
     "date_added": "2026-08-28",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "IMC",
+    "role": "New Grad 2026: Software Engineer",
+    "location": "Chicago, IL",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.imc.com/us/careers/jobs/4580755101?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-28",
+    "grad_date": "Spring 2026"
   }
 ]
