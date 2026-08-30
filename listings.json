@@ -54843,5 +54843,29 @@
     "citizenship": "No",
     "date_added": "2026-08-30",
     "grad_date": ""
+  },
+  {
+    "company": "Advanced Space",
+    "role": "2027 Machine Learning Summer Internship",
+    "location": "Westminster, CO",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324875009?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-30"
+  },
+  {
+    "company": "Waymo",
+    "role": "2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion",
+    "location": "San Francisco, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "PhD",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8163364&utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-30"
   }
 ]
