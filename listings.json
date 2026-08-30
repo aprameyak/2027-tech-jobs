@@ -48205,5 +48205,18 @@
     "citizenship": "No",
     "date_added": "2026-08-29",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "EBSCO",
+    "role": "Software Dev Engineer I",
+    "location": "Remote (US)",
+    "type": "newgrad",
+    "season": "2027 (New Grad)",
+    "education": "Undergrad",
+    "url": "https://careers-ebscoind.icims.com/jobs/1834/job",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": ""
   }
 ]
