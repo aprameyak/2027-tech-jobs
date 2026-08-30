@@ -1864,6 +1864,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Booz Allen Hamilton | Digital Transformation Specialist, Junior | Arlington, VA |  | Undergrad | <a href="https://careers.boozallen.com/jobs/JobDetail/Arlington-Digital-Transformation-Specialist-Junior-R0248166/129589?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | IBM | Associate Data Scientist 2027 – AI & Data Analytics | New York, NY |  | Undergrad | <a href="https://careers.ibm.com/en_US/careers/JobDetail/Associate-Data-Scientist-2027-AI-Data-Analytics/129126" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | ↳ | Associate Data Engineer – AI & Analytics – 2027 | Buffalo, NY |  | Undergrad | <a href="https://careers.ibm.com/careers/JobDetail?jobId=128809" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | ↳ | Federal Associate Developer 2027 | Herndon, VA |  | Undergrad | <a href="https://careers.ibm.com/en_US/careers/JobDetail/Federal-Associate-Developer-2027/127789" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
