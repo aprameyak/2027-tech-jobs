@@ -368,7 +368,7 @@ def classify_titles_batch(title_list):
                 classified += 1
             else:
                 cache[title.lower()] = is_tech_title_keywords(title)
-                _confidence_cache[title.lower()] = 'low'
+                _confidence_cache[title.lower()] = 'medium'
                 classified += 1
 
     return classified
@@ -470,7 +470,8 @@ def classify_title(title):
     except Exception:
         pass
 
-    return is_tech_title_keywords(title), False
+    is_tech = is_tech_title_keywords(title)
+    return is_tech, True
 
 def is_candidate_title(title):
     t = title.lower()
@@ -818,13 +819,12 @@ def scrape_smartrecruiters(company, identifier):
                 relevant = is_candidate_title(title)
                 if relevant:
                     job_id = job.get('id', '')
-                    ref = job.get('ref', f'https://jobs.smartrecruiters.com/{identifier}/{job_id}')
                     jobs.append({
                         'id': f'smartrecruiters_{identifier}_{job_id}',
                         'company': company,
                         'title': title,
                         'location': location,
-                        'url': ref,
+                        'url': f'https://jobs.smartrecruiters.com/{identifier}/{job_id}',
                         'board': 'SmartRecruiters',
                         })
 
