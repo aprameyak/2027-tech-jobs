@@ -48192,5 +48192,18 @@
     "citizenship": "No",
     "date_added": "2026-08-29",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "Visa",
+    "role": "New Grad 2026: Software Engineer",
+    "location": "Bellevue, WA",
+    "type": "newgrad",
+    "season": "2027 (New Grad)",
+    "education": "Undergrad",
+    "url": "https://jobs.smartrecruiters.com/visa/744000080904205-software-engineer-new-college-grad-2026",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": "Spring 2026"
   }
 ]
