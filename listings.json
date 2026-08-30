@@ -48387,5 +48387,18 @@
     "citizenship": "No",
     "date_added": "2026-08-29",
     "grad_date": ""
+  },
+  {
+    "company": "IXL Learning",
+    "role": "New Grad: Software Engineer",
+    "location": "San Mateo, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad)",
+    "education": "Undergrad",
+    "url": "https://www.ixl.com/company/careers?gh_jid=8017366002",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": ""
   }
 ]
