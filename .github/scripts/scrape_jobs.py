@@ -758,7 +758,9 @@ def scrape_ashby(company, slug):
             print(f'  [{company}] Ashby HTTP {resp.status_code}')
             return []
         jobs = []
-        for job in resp.json().get('jobPostings', []):
+        data = resp.json()
+        postings = data.get('jobPostings') or data.get('jobs') or []
+        for job in postings:
             title = job.get('title', '')
             location = job.get('locationName', '') or job.get('location', '')
             relevant = is_candidate_title(title)
