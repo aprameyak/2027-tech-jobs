@@ -44772,5 +44772,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-29"
+  },
+  {
+    "company": "IBM",
+    "role": "Federal Associate Developer 2027",
+    "location": "Herndon, VA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.ibm.com/en_US/careers/JobDetail/Federal-Associate-Developer-2027/127789",
+    "sponsorship": "Unknown",
+    "citizenship": "yes \u2014 federal security clearance required; must be able to obtain and maintain clearance",
+    "date_added": "2026-08-29",
+    "grad_date": ""
   }
 ]
