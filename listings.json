@@ -47984,5 +47984,18 @@
     "citizenship": "No",
     "date_added": "2026-08-29",
     "grad_date": ""
+  },
+  {
+    "company": "Twitch",
+    "role": "Software Engineer I",
+    "location": "Seattle, WA; San Francisco, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad)",
+    "education": "Undergrad",
+    "url": "https://careers.twitch.com/en/career-posts/8360103002/",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": ""
   }
 ]
