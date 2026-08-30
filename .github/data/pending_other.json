@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "company": "SteerBridge",
+    "role": "Junior Software Engineer",
+    "location": "Vienna, VA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-30"
+  },
+  {
+    "company": "WeRide",
+    "role": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
+    "location": "San Jose, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-30",
+    "grad_date": ""
+  },
+  {
+    "company": "WeRide",
+    "role": "New Grads 2027 - Software Engineer, Algorithm",
+    "location": "San Jose, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-08-30",
+    "grad_date": ""
+  }
+]
