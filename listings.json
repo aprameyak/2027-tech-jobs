@@ -48994,5 +48994,18 @@
     "citizenship": "No",
     "date_added": "2026-08-29",
     "grad_date": ""
+  },
+  {
+    "company": "Tower Research Capital",
+    "role": "New Grad: C++ Software Engineer, MTL",
+    "location": "Montreal",
+    "type": "newgrad",
+    "season": "2027 (New Grad)",
+    "education": "Undergrad",
+    "url": "https://tower-research.com/open-positions/?gh_jid=6855851",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": ""
   }
 ]
