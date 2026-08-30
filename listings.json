@@ -48075,5 +48075,18 @@
     "citizenship": "No",
     "date_added": "2026-08-29",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "Nextdoor",
+    "role": "New Grad 2026: Machine Learning Engineer, Machine Learning",
+    "location": "Dallas, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad)",
+    "education": "Undergrad",
+    "url": "https://about.nextdoor.com/careers-list/?gh_jid=7264954",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": "Spring 2026"
   }
 ]
