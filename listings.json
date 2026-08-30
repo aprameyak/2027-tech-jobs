@@ -48348,5 +48348,18 @@
     "citizenship": "No",
     "date_added": "2026-08-29",
     "grad_date": ""
+  },
+  {
+    "company": "Twitch",
+    "role": "Software Engineer - Creator",
+    "location": "Seattle, WA; New York, NY; Irvine, CA; San Francisco, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad)",
+    "education": "Undergrad",
+    "url": "https://www.amazon.jobs/en/jobs/3019865/software-engineer-creator",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": ""
   }
 ]
