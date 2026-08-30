@@ -48127,5 +48127,18 @@
     "citizenship": "No",
     "date_added": "2026-08-29",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "Visa",
+    "role": "New Grad 2026: Site Reliability Engineer",
+    "location": "Austin, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad)",
+    "education": "Undergrad",
+    "url": "https://jobs.smartrecruiters.com/visa/744000080908246-site-reliability-engineer-new-college-grad-2026",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": "Spring 2026"
   }
 ]
