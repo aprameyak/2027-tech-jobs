@@ -48400,5 +48400,18 @@
     "citizenship": "No",
     "date_added": "2026-08-29",
     "grad_date": ""
+  },
+  {
+    "company": "Twitch",
+    "role": "Software Engineer",
+    "location": "Seattle, WA; San Francisco, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad)",
+    "education": "Undergrad",
+    "url": "https://www.amazon.jobs/en/jobs/2944002/software-engineer",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": ""
   }
 ]
