@@ -2023,6 +2023,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Aon | Data & Analytics Associate - Early Careers | Montreal, QC |  | Undergrad | <a href="https://jobs.aon.com/jobs/105952?icims=1" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | Atoms | Software Engineer New Grad | Seattle, WASFLANYCMountain View, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/cssmerge/jobs/8687930002?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | BAE Systems | Entry Level Software Engineer 🇺🇸 | Totowa, NJ |  | Undergrad | <a href="https://jobs.baesystems.com/global/en/job/BAE1US124432BREXTERNAL/Entry-Level-Software-Engineer" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | Bank of Montreal | Commercial Risk Data Analyst New Grad | Toronto, ON |  | Undergrad | <a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Commercial-Risk-Data--New-or-Recent-Graduate-Opportunity-_R260023422-1?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
