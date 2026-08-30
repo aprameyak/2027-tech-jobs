@@ -48049,5 +48049,18 @@
     "citizenship": "No",
     "date_added": "2026-08-29",
     "grad_date": ""
+  },
+  {
+    "company": "Databricks",
+    "role": "AI Tooling Program Engineer",
+    "location": "Remote (US)",
+    "type": "newgrad",
+    "season": "2027 (New Grad)",
+    "education": "Undergrad",
+    "url": "https://www.databricks.com/company/careers/professional-services-operations/ai-tooling-program-engineer--8295414002",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": ""
   }
 ]
