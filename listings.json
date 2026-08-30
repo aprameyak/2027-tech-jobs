@@ -48825,5 +48825,18 @@
     "citizenship": "No",
     "date_added": "2026-08-29",
     "grad_date": ""
+  },
+  {
+    "company": "Atlassian",
+    "role": "New Grad 2026: Software Engineer",
+    "location": "Remote (Canada)",
+    "type": "newgrad",
+    "season": "2027 (New Grad)",
+    "education": "Undergrad",
+    "url": "https://join.atlassian.com/atlassian-talent-community/jobs/20908?lang=en-us",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": "Spring 2026"
   }
 ]
