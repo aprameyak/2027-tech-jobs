@@ -49020,5 +49020,18 @@
     "citizenship": "No",
     "date_added": "2026-08-29",
     "grad_date": ""
+  },
+  {
+    "company": "Amazon",
+    "role": "New Grad 2025: Software Development Engineer I",
+    "location": "Vancouver, BC; Toronto",
+    "type": "newgrad",
+    "season": "2027 (New Grad)",
+    "education": "Undergrad",
+    "url": "https://amazon.jobs/en/jobs/2855790/software-development-engineer-i-2025-computer-science",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": "Spring 2025"
   }
 ]
