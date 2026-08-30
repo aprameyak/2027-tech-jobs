@@ -2193,6 +2193,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Waymo | Research Scientist, RL for Autonomous Planning & World Modeling | <details><summary>**4 locations**</summary>Mountain View, CA</br>San Francisco, CA</br>Kirkland, WA</br>New York, NY</details> |  | PhD | <a href="https://careers.withwaymo.com/jobs?gh_jid=8165872&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | AbbVie | Software Engineer - Information Secur... | North Chicago, IL |  | Undergrad | <a href="https://jobs.smartrecruiters.com/AbbVie/3743990013250184" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | ↳ | Security Engineer – Cybersecurity Pos... | Austin, TX |  | Undergrad | <a href="https://jobs.smartrecruiters.com/AbbVie/3743990013430236" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | ↳ | Agentic AI Security Engineer | North Chicago, IL |  | Undergrad | <a href="https://jobs.smartrecruiters.com/AbbVie/3743990014029467" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
