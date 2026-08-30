@@ -44747,5 +44747,18 @@
     "citizenship": "No",
     "date_added": "2026-08-29",
     "grad_date": ""
+  },
+  {
+    "company": "IBM",
+    "role": "Associate Data Engineer \u2013 AI & Analytics \u2013 2027",
+    "location": "Buffalo, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=128809",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": ""
   }
 ]
