@@ -48036,5 +48036,18 @@
     "citizenship": "No",
     "date_added": "2026-08-29",
     "grad_date": ""
+  },
+  {
+    "company": "Stripe",
+    "role": "Backend Engineer, Secure Endpoint Access",
+    "location": "South San Francisco, CA; Seattle, WA",
+    "type": "newgrad",
+    "season": "2027 (New Grad)",
+    "education": "Undergrad",
+    "url": "https://stripe.com/jobs/listing/backend-engineer-secure-endpoint-access/7396672",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": ""
   }
 ]
