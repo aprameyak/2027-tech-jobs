@@ -47919,5 +47919,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-29"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Software Engineering Associate",
+    "location": "Colorado Springs, CO",
+    "type": "newgrad",
+    "season": "2027 (New Grad)",
+    "education": "Undergrad",
+    "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80925/1414513700/?ats=successfactors",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": ""
   }
 ]
