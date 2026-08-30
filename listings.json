@@ -44798,5 +44798,41 @@
     "citizenship": "No",
     "date_added": "2026-08-29",
     "grad_date": ""
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineering Intern",
+    "location": "State College, PA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://careers.rtx.com/global/en/job/RAYTGLOBAL01868801EXTERNALENGLOBAL/Software-Engineering-Intern-Summer-2027?utm_source=aprameyak",
+    "sponsorship": "no \u2014 US citizenship required for security clearance",
+    "citizenship": "yes \u2014 TS/SCI clearance required (must be active after day 1)",
+    "date_added": "2026-08-29"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Platform Intern",
+    "location": "Richardson, TX",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://careers.rtx.com/global/en/job/RAYTGLOBAL01870211EXTERNALENGLOBAL/Software-Platform-Intern-Summer-2027?utm_source=aprameyak",
+    "sponsorship": "no \u2014 US citizenship required for security clearance",
+    "citizenship": "yes \u2014 TS/SCI with Polygraph clearance required (must be active after day 1)",
+    "date_added": "2026-08-29"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Platform Intern",
+    "location": "Aurora, CO",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://careers.rtx.com/global/en/job/RAYTGLOBAL01870216EXTERNALENGLOBAL/Software-Platform-Intern-Summer-2027?utm_source=aprameyak",
+    "sponsorship": "no \u2014 US citizenship required for security clearance",
+    "citizenship": "yes \u2014 TS/SCI with Polygraph clearance required (must be active after day 1)",
+    "date_added": "2026-08-29"
   }
 ]
