@@ -54,7 +54,8 @@ SENIOR_OK = re.compile(
     r'entry.?level.*lead|lead.*entry.?level|'
     r'entry.?level.*staff|staff.*entry.?level|'
     r'entry.?level.*senior|senior.*entry.?level|'
-    r'entry.?level.*architect|architect.*entry.?level',
+    r'entry.?level.*architect|architect.*entry.?level|'
+    r'\bproduct manager\b|\btechnical product manager\b',
     re.I,
 )
 NEWGRAD_IN_TITLE = re.compile(r'new grad|new-grad|entry', re.I)
@@ -114,6 +115,7 @@ def validate_entry(entry):
     table = entry.get('type', '')
     season = entry.get('season', '')
     company = entry.get('company', '')
+    is_closed = not entry.get('url', '').strip()
     violations = []
 
     missing = validate_metadata(entry)
@@ -121,6 +123,9 @@ def validate_entry(entry):
         violations.append(f'missing required field(s): {", ".join(missing)}')
 
     violations.extend(validate_field_values(entry))
+
+    if is_closed:
+        return [(company, role, v) for v in violations]
 
     if table == 'summer':
         if season != 'Summer 2027':
