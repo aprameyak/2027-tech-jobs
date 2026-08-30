@@ -50545,5 +50545,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-29"
+  },
+  {
+    "company": "Western Digital",
+    "role": "Software Engineer",
+    "location": "San Jose, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad)",
+    "education": "Undergrad",
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138717897",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": ""
   }
 ]
