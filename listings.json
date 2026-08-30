@@ -44734,5 +44734,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-29"
+  },
+  {
+    "company": "IBM",
+    "role": "Associate Data Scientist 2027 \u2013 AI & Data Analytics",
+    "location": "New York, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.ibm.com/en_US/careers/JobDetail/Associate-Data-Scientist-2027-AI-Data-Analytics/129126",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": ""
   }
 ]
