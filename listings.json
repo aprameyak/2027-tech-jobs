@@ -44785,5 +44785,18 @@
     "citizenship": "yes \u2014 federal security clearance required; must be able to obtain and maintain clearance",
     "date_added": "2026-08-29",
     "grad_date": ""
+  },
+  {
+    "company": "IBM",
+    "role": "Entry Level Software Developer 2027",
+    "location": "Houston, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=129784",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29",
+    "grad_date": ""
   }
 ]
