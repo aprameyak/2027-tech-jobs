@@ -520,6 +520,8 @@ lever:
   slug: make-rain
 - name: Shield AI
   slug: shieldai
+- name: SteerBridge
+  slug: steerbridge
 - name: SoloPulse
   slug: solopulseco
 - name: Spotify
@@ -532,6 +534,8 @@ lever:
   slug: veeva
 - name: Wattpad
   slug: wattpad
+- name: WeRide
+  slug: weride
 - name: Wealthfront
   slug: wealthfront
 - name: WHOOP
@@ -1572,6 +1576,8 @@ ashby:
   slug: etched
 - name: Eulerity
   slug: eulerity
+- name: Exa
+  slug: exa
 - name: Eventual
   slug: eventualcomputing
 - name: Faros AI
@@ -1584,6 +1590,8 @@ ashby:
   slug: flashpoint.io
 - name: Flock Safety
   slug: flock-safety
+- name: Flow Engineering
+  slug: flowengineering
 - name: Form Energy
   slug: formenergy
 - name: FurtherAI
@@ -1606,6 +1614,8 @@ ashby:
   slug: harvey
 - name: Heliux
   slug: heliux
+- name: Hypercubic
+  slug: hypercubic
 - name: Hipp Health
   slug: hipp
 - name: Homebase
@@ -1620,6 +1630,8 @@ ashby:
   slug: julius
 - name: Kastle
   slug: kastle
+- name: Koah
+  slug: koahlabs
 - name: kos.ai
   slug: kos.ai
 - name: Kraken
@@ -1638,6 +1650,8 @@ ashby:
   slug: lightspeedhq
 - name: Linear
   slug: linear
+- name: Maximor AI
+  slug: maximor
 - name: Melius
   slug: melius
 - name: MetroStar
@@ -1670,6 +1684,8 @@ ashby:
   slug: northslope-technologies
 - name: Northspyre
   slug: northspyre
+- name: Nooks
+  slug: nooks
 - name: Northwood Space
   slug: northwoodspace
 - name: Notion
@@ -1734,6 +1750,9 @@ ashby:
   slug: remodelhealth
 - name: Replit
   slug: replit
+- name: Retell AI
+  slug: retell-ai
+  slug: replit
 - name: Revel
   slug: revel
 - name: Rho
@@ -1796,6 +1815,8 @@ ashby:
   slug: tracebit
 - name: Uncountable
   slug: uncountable
+- name: Uniswap
+  slug: uniswap
 - name: Vanta
   slug: vanta
 - name: Veeda AI

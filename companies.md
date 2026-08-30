@@ -236,6 +236,7 @@ Eragon
 Esri
 Etched
 Eulerity
+Exa
 EV Realty
 Eventual
 Everfox
@@ -261,6 +262,7 @@ Five Rings
 Flashpoint
 Flexport
 Flock Safety
+Flow Engineering
 Flow Traders
 Form Energy
 Formlabs
@@ -312,6 +314,7 @@ Hawkeye 360
 Headlands Technologies
 Heliux
 Hermeus
+Hypercubic
 Hipp Health
 Home Depot
 Homebase
@@ -344,6 +347,7 @@ Julius AI
 Jump Trading
 Juniper Networks
 Kastle
+Koah
 Katalyst Space Technologies
 KAYAK
 KBR
@@ -388,6 +392,7 @@ Marqeta
 Marvell Technology
 Mastercard
 Maven Securities
+Maximor AI
 MedImpact
 Medtronic
 Melius
@@ -439,6 +444,7 @@ Northrop Grumman
 Northslope Technologies
 Northspyre
 Northwestern Mutual
+Nooks
 Northwood Space
 Notion
 NTT DATA AIVista
@@ -523,6 +529,7 @@ Reliable Robotics
 Remitly
 Remodel Health
 Rendezvous Robotics
+Retell AI
 Replit
 ResMed
 Revel
@@ -565,6 +572,7 @@ ServiceNow
 Seven Research
 SharkNinja
 Shield AI
+SteerBridge
 Sierra
 Sierra Nevada Corp
 Sigma Computing
@@ -644,6 +652,7 @@ Uare.ai
 UiPath
 Uline
 Uncountable
+Uniswap
 Upstart
 UVIMCO
 Valkyrie Trading
@@ -668,6 +677,7 @@ Waabi
 Walleye Capital
 Warp
 Wattpad
+WeRide
 Wayfair
 Waymo
 Waystar
