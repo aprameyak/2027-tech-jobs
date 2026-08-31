@@ -2336,6 +2336,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Physical Intelligence | Research Scientist | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/physicalintelligence/f83ba447-2261-4832-95db-a2f88454e0ba?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | Ambrook | Software Engineer | New York, NY |  | Undergrad | <a href="https://jobs.ashbyhq.com/ambrook/4e463062-c104-4349-b7c4-14825f3cc44b?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | ↳ | Software Engineer, AI | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/ambrook/6bfcac6b-6488-4144-ab57-da96758f839f?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | ↳ | Software Engineer, Growth | New York, NY |  | Undergrad | <a href="https://jobs.ashbyhq.com/ambrook/daedd869-78fb-4031-a4fe-9e07067398fc?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
