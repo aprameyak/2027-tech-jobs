@@ -1029,6 +1029,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Eragon | Applied AI Intern | San Francisco, CA | Undergrad | <a href="https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Evolver | Applied Data Science Intern | Palo Alto, CA | Undergrad; Masters; PhD | <a href="https://job-boards.greenhouse.io/evolver/jobs/4254540009?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Fortinet | Software Development Intern - GenAI | Santa Clara, CA | Undergrad | <a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22401?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
+| Google | Software Engineering Intern, MS | Mountain View, CA | Masters | <a href="https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Gritt Robotics | ML & Cloud Infrastructure Engineer Intern | South San Francisco, CA | Undergrad | <a href="https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Halo Industries | Software Engineer Intern - Machine Learning Workflow | Santa Clara, CA | Undergrad | <a href="https://apply.workable.com/halo-industries/j/29728B1DAF/?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | Human Computer Lab | Intern - Software/ML Engineering | San Francisco, CA | Undergrad | <a href="https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
@@ -1846,7 +1847,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Doctors Without Borders | Data Science Intern | New York, NY | Undergrad; Masters | 🔒 | Jul 23 |
 | GE HealthCare | Edison Engineering Development Program Intern - Software | Waukesha, WI | Undergrad | 🔒 | Jul 23 |
 | GE Vernova | Grid Automation & Software Intern | Remote (US) | Undergrad | 🔒 | Jul 23 |
-| Google | Software Engineering Intern, MS | Mountain View, CA | Masters | 🔒 | Jul 23 |
 | HP | Software Engineering Intern - Device Experiences | San Francisco, CA | Undergrad | 🔒 | Jul 23 |
 | IDEXX | Security Operations (Cybersecurity) Intern | Westbrook, ME | Undergrad | 🔒 | Jul 23 |
 | Institute for Foundation Models | AI Research Intern | Sunnyvale, CA | Masters; PhD | 🔒 | Jul 23 |
