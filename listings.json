@@ -56555,5 +56555,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-31"
+  },
+  {
+    "company": "Google",
+    "role": "Software Engineer, Systems Research, PhD, Early Career",
+    "location": "Sunnyvale, CA; Seattle, WA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "PhD",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/76908711519363782-software-engineer-systems-research-phd-early-career",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-31",
+    "grad_date": ""
   }
 ]
