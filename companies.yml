@@ -1336,6 +1336,10 @@ workday:
   tenant: statestreet
   instance: wd1
   board: Global
+- name: Sysco
+  tenant: sysco
+  instance: wd5
+  board: SyscoCareers
 - name: Symbotic
   tenant: symbotic
   instance: wd504
