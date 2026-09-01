@@ -61770,5 +61770,18 @@
     "citizenship": "No",
     "date_added": "2026-09-01",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "Cellular Sales",
+    "role": "Junior Data Engineer",
+    "location": "Knoxville, TN",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers-cellularsales.icims.com/jobs/19001/junior-data-engineer/job?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01",
+    "grad_date": ""
   }
 ]
