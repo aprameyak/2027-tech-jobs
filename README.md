@@ -1582,6 +1582,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Data Scientist Intern - Summer Games | Rome, NY | Undergrad | 🔒 | Sep 1 |
 | ↳ | Data Science Intern | Multiple Locations | Undergrad | 🔒 | Sep 1 |
 | Chamberlain Group | Community Product Management Intern - Summer 2027 | Oak Brook, IL | Undergrad | 🔒 | Sep 1 |
+| ↳ | Community Product Management Intern - Summer 2027 | Oak Brook, IL | Undergrad | <a href="https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | Fannie Mae | Data Science Intern - Analytics & Modeling Program | Washington, DC | Undergrad | 🔒 | Sep 1 |
 | ↳ | Applied AI Intern | Evendale, OH Atlanta, GA | Undergrad | 🔒 | Sep 1 |
 | Johnson & Johnson | Quality Data Science Co-op - MD Q&C Digital Solutions | Cincinnati, OH | Undergrad | 🔒 | Sep 1 |
