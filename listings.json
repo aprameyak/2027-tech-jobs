@@ -57127,5 +57127,18 @@
     "citizenship": "No",
     "date_added": "2026-09-01",
     "grad_date": "Spring 2027"
+  },
+  {
+    "company": "Cisco",
+    "role": "Software Engineer, Full Stack / Backend I",
+    "location": "San Jose, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose%2C-California%2C-US/Software-Engineer-Full-Stack---Backend-I--Full-Time----United-States_2024035?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01",
+    "grad_date": ""
   }
 ]
