@@ -1484,6 +1484,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineering Intern | Canada Santa Clara, CA | Undergrad | 🔒 | Sep 1 |
 | Philips | Data Scientist Co-op | Plymouth, MN | Undergrad | 🔒 | Sep 1 |
 | ↳ | Product and Institutional Client Intern - Multiple Teams | Newark, NJ | Undergrad | 🔒 | Sep 1 |
+| ↳ | Data Scientist Co-op | Plymouth, MN | Masters | <a href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | RTX | Software Engineer Intern | Aurora, CO | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer Intern | Cedar Rapids, IA | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer Intern | Cedar Rapids, IA | Undergrad | 🔒 | Sep 1 |
