@@ -1516,6 +1516,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineer Intern | Cedar Rapids, IA | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer Intern | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> | Undergrad | 🔒 | Sep 1 |
 | TD Bank | Quantitative Associate - Quantitative Rotation Program | New York, NY | Undergrad | 🔒 | Sep 1 |
+| ↳ | Quantitative Associate - Quantitative Rotation Program | New York, NY | Masters | <a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Associate---Quantitative-Rotation-Program_R_1508352?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | Teledyne | Software Engineer Intern - NHRC | Huntsville, AL | Undergrad | 🔒 | Sep 1 |
 | The Home Depot | Software Engineer Intern | Atlanta, GA | Undergrad | 🔒 | Sep 1 |
 | ↳ | Product Management Intern | Atlanta, GA | Undergrad | 🔒 | Sep 1 |
