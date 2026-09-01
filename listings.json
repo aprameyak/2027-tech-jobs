@@ -64057,5 +64057,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-01"
+  },
+  {
+    "company": "Textron",
+    "role": "Software Engineer 1 - Electronic Systems",
+    "location": "Hunt Valley, Cockeysville, MD",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342666",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01",
+    "grad_date": ""
   }
 ]
