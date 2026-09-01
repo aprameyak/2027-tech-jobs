@@ -60878,5 +60878,18 @@
     "citizenship": "No",
     "date_added": "2026-09-01",
     "grad_date": ""
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Software Engineer New Grad",
+    "location": "Salt Lake City, UT",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1425107000/?ats=successfactors&utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01",
+    "grad_date": ""
   }
 ]
