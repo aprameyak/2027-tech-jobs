@@ -57528,5 +57528,17 @@
     "citizenship": "No",
     "date_added": "2026-09-01",
     "grad_date": ""
+  },
+  {
+    "company": "Bayer",
+    "role": "DevOps Engineer Co-op",
+    "location": "Luling, LA",
+    "type": "offcycle",
+    "season": "Spring 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.bayer.com/job/Luling-DevOps-Engineer-Co-op-Loui/1424880433/",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01"
   }
 ]
