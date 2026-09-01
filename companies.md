@@ -610,6 +610,7 @@ Suno
 Supabase
 Sybil
 Symbotic
+Sysco
 Synchrony
 Syska Hennessy Group
 T. Rowe Price
