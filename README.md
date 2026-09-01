@@ -1594,6 +1594,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineer Intern - NHRC | Huntsville, AL | Undergrad | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | Uline | Software Development Intern | Multiple Locations | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer Intern | Multiple Locations | Undergrad | 🔒 | Sep 1 |
+| ↳ | Software Development Intern | Waukegan, IL | Undergrad | <a href="https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | Allegion | Summer Intern – Global Supply Management: New Product Development & Sourced Product | Carmel, IN | Undergrad | 🔒 | Aug 31 |
 | Copart | AI Engineer Intern | Dallas, TX - Headquarters | Undergrad | 🔒 | Aug 31 |
 | ↳ | 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) | <details><summary>**3 locations**</summary>North Chicago, IL</br>Irvine, CA</br>South San Francisco, CA</details> | Undergrad | 🔒 | Aug 30 |
