@@ -62524,5 +62524,18 @@
     "citizenship": "No",
     "date_added": "2026-09-01",
     "grad_date": "Spring 2025"
+  },
+  {
+    "company": "Citizen Health",
+    "role": "Software Engineer",
+    "location": "San Francisco, CASan Mateo, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01",
+    "grad_date": ""
   }
 ]
