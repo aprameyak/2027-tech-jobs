@@ -12225,5 +12225,12 @@
   "intern, agent development (summer 2027)": false,
   "apx (new grad 2027)": false,
   "intern, agent development (winter 2027)": false,
-  "design intern (winter 2027)": false
+  "design intern (winter 2027)": false,
+  "research associate intern": true,
+  "junior ai software engineer": true,
+  "junior data engineer": true,
+  "junior devsecops engineer ": true,
+  "level design intern": false,
+  "strategic finance intern (spring 2027)": false,
+  "strategic finance intern (summer 2027)": false
 }
