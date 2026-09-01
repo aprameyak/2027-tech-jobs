@@ -61330,5 +61330,30 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-01"
+  },
+  {
+    "company": "UPS",
+    "role": "Information Security Summer 2027 Internship",
+    "location": "Louisville, KY",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://www.jobs-ups.com/global/en/job/UPBUPSGLOBALR26029765EXTERNALENGLOBAL/UPS-Information-Security-Summer-2027-Internship-KY",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01"
+  },
+  {
+    "company": "Claim Health (X25)",
+    "role": "Founding Engineer",
+    "location": "New York, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.workatastartup.com/jobs/83842?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01",
+    "grad_date": ""
   }
 ]
