@@ -57489,5 +57489,18 @@
     "citizenship": "No",
     "date_added": "2026-09-01",
     "grad_date": ""
+  },
+  {
+    "company": "Textron",
+    "role": "2027 Entry Level \u2014 Software/Computer Science Engineering",
+    "location": "Fort Worth, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=1540252",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01",
+    "grad_date": "Spring 2027"
   }
 ]
