@@ -4226,6 +4226,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Bridger | Early Career Product Engineer | New York, NY |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Early Career Product Engineer | New York, NY |  | Undergrad | <a href="https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | Firetiger | Product Engineer New Grad | San Francisco, CA |  | Undergrad | 🔒 | Sep 1 |
+| ↳ | Product Engineer New Grad | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/firetiger/a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6/application?embed=true&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | Leidos | Junior Software Engineer - Intel Sector | Laurel, MD |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer 1 | Tucson, AZ |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer 1 | Cedar Rapids, IA |  | Undergrad | 🔒 | Sep 1 |
