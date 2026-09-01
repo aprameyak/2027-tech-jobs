@@ -64122,5 +64122,18 @@
     "citizenship": "No",
     "date_added": "2026-09-01",
     "grad_date": ""
+  },
+  {
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "role": "Machine Learning PhD New Grad - Artificial Intelligence",
+    "location": "Laurel, MD",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Masters",
+    "url": "https://careers.jhuapl.edu/jobs/59010",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01",
+    "grad_date": ""
   }
 ]
