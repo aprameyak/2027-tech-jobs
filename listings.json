@@ -60031,5 +60031,30 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-01"
+  },
+  {
+    "company": "Noom",
+    "role": "Agentic Engineer (New Grad)",
+    "location": "Princeton, NJ",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/noomgrowth/jobs/8092909?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01",
+    "grad_date": ""
+  },
+  {
+    "company": "MSA Safety",
+    "role": "Software Engineer Intern - Product Development - Summer 2027",
+    "location": "Cranberry Township, PA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://careers.msasafety.com/jobs/9993?icims=1&utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01"
   }
 ]
