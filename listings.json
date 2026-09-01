@@ -57401,5 +57401,18 @@
     "citizenship": "Yes",
     "date_added": "2026-09-01",
     "grad_date": ""
+  },
+  {
+    "company": "Lockheed Martin",
+    "role": "DevSecOps Software Engineer \u2014 Early Career",
+    "location": "Manassas, VA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://lockheedmartin.eightfold.ai/careers?pid=996476578145",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01",
+    "grad_date": ""
   }
 ]
