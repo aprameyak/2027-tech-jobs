@@ -1559,6 +1559,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Product Management Intern | Atlanta, GA | Undergrad | 🔒 | Sep 1 |
 | ↳ | Data Science & Analytics Intern | Atlanta, GA | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer Intern - NHRC | Huntsville, AL | Undergrad | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
+| ↳ | Software Engineer Intern - NHRC | Huntsville, AL | Undergrad | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | Uline | Software Development Intern | Multiple Locations | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer Intern | Multiple Locations | Undergrad | 🔒 | Sep 1 |
 | Allegion | Summer Intern – Global Supply Management: New Product Development & Sourced Product | Carmel, IN | Undergrad | 🔒 | Aug 31 |
