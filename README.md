@@ -4215,6 +4215,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Software Engineer 1 | Cedar Rapids, IA |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer New Grad - Agent | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer New Grad | Multiple Locations |  | Undergrad | 🔒 | Sep 1 |
+| ↳ | Junior Software Engineer - Intel Sector | Laurel, MD |  | Undergrad | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Laurel-MD/Junior-Software-Engineer_R-00190592?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | Capital One 🛂 | Technology Development Program Associate - February 2027 | <details><summary>**3 locations**</summary>McLean, VA</br>Richmond, VA</br>Plano, TX</details> |  | Undergrad | 🔒 | Aug 31 |
 | ↳ | Cyber Security Development Program Associate - 2027 | <details><summary>**2 locations**</summary>McLean, VA</br>Plano, TX</details> |  | Undergrad | 🔒 | Aug 31 |
 | Cybernetic Labs | Software Engineer - Agent Platform | San Francisco, CA |  | Undergrad | 🔒 | Aug 30 |
