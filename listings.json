@@ -54973,7 +54973,7 @@
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
-    "url": "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990014896329?utm_source=aprameyak",
+    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-30"
@@ -55505,7 +55505,7 @@
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
-    "url": "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990014860386?utm_source=aprameyak",
+    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-30"
@@ -56705,7 +56705,7 @@
   {
     "company": "General Motors",
     "role": "2027 Winter Co-Op - Student Production Group Leader (Evergreen)",
-    "location": "Oshawa, Ontario, Canada",
+    "location": "Oshawa, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -56717,7 +56717,7 @@
   {
     "company": "Home Depot",
     "role": "2027 Summer Internship - Data Science & Analytics",
-    "location": "STORE SUPPORT CENTER, ATLANTA - 9090",
+    "location": "Atlanta, GA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -56729,7 +56729,7 @@
   {
     "company": "Home Depot",
     "role": "2027 Summer Internship - Cybersecurity",
-    "location": "STORE SUPPORT CENTER, ATLANTA - 9090",
+    "location": "Atlanta, GA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -56741,7 +56741,7 @@
   {
     "company": "Home Depot",
     "role": "2027 Summer Internship - PhD Data Science",
-    "location": "STORE SUPPORT CENTER, ATLANTA - 9090",
+    "location": "Atlanta, GA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "PhD",
@@ -56753,7 +56753,7 @@
   {
     "company": "Home Depot",
     "role": "2027 Summer Internship - Software Engineering",
-    "location": "STORE SUPPORT CENTER, ATLANTA - 9090",
+    "location": "Atlanta, GA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -56765,7 +56765,7 @@
   {
     "company": "Home Depot",
     "role": "2027 Summer Internship - Product Management",
-    "location": "STORE SUPPORT CENTER, ATLANTA - 9090",
+    "location": "Atlanta, GA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -56897,7 +56897,7 @@
   {
     "company": "Philips",
     "role": "Co-op-Material Scientist-New Kensington, PA - January-June 2027",
-    "location": "Pittsburgh, Pennsylvania, United States",
+    "location": "Pittsburgh, PA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -56909,7 +56909,7 @@
   {
     "company": "Northrop Grumman",
     "role": "2027 Systems Engineering Intern- Roy UT",
-    "location": "United States-Utah-Roy",
+    "location": "Roy, UT",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Masters",
