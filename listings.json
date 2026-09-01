@@ -56929,5 +56929,18 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-31"
+  },
+  {
+    "company": "Stripe",
+    "role": "Software Engineer, New Grad",
+    "location": "San Francisco, CA; Seattle, WA; New York, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128744&utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01",
+    "grad_date": ""
   }
 ]
