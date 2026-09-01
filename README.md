@@ -1402,6 +1402,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Machine Learning Engineer Intern | Multiple Locations | Undergrad | 🔒 | Sep 1 |
 | ↳ | Data Scientist Intern - Summer Games | Rome, NY | Undergrad | 🔒 | Sep 1 |
 | Capital One | Data Science Intern | Multiple Locations | Undergrad | 🔒 | Sep 1 |
+| ↳ | Data Analyst Intern | Mclean, VA | Undergrad | <a href="https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | Chamberlain Group | Community Product Management Intern - Summer 2027 | Oak Brook, IL | Undergrad | 🔒 | Sep 1 |
 | Fannie Mae | Data Science Intern - Analytics & Modeling Program | Washington, DC | Undergrad | 🔒 | Sep 1 |
 | ↳ | Applied AI Intern | Evendale, OH Atlanta, GA | Undergrad | 🔒 | Sep 1 |
