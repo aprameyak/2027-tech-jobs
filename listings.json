@@ -57241,5 +57241,18 @@
     "citizenship": "No",
     "date_added": "2026-09-01",
     "grad_date": ""
+  },
+  {
+    "company": "Goldman Sachs",
+    "role": "Engineering New Analyst",
+    "location": "Salt Lake City, UT",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://higher.gs.com/roles/171570?type=students&utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01",
+    "grad_date": ""
   }
 ]
