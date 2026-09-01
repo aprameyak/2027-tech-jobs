@@ -2001,6 +2001,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Bayer | DevOps Engineer Co-op | Luling, LA | Spring 2027 | Undergrad | <a href="https://jobs.bayer.com/job/Luling-DevOps-Engineer-Co-op-Loui/1424880433/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | PepsiCo | IT Analytics & Automation Co-op | Mississauga, ON | Winter 2027 | Undergrad | <a href="https://globalcampus-pepsico.icims.com/jobs/469723/pepsico-canada-it-analytics-automation-winter-2027-co-op/job" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | ↳ | IT Analytics Co-op | Mississauga, ON | Winter 2027 | Undergrad | <a href="https://globalcampus-pepsico.icims.com/jobs/472047/pepsico-canada-it-analytics-winter-2027-co-op/job" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | ↳ | Data Science Co-op | Mississauga, ON | Winter 2027 | Undergrad | <a href="https://globalcampus-pepsico.icims.com/jobs/472046/pepsico-canada-data-science-winter-2027-co-op/job" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
