@@ -1610,6 +1610,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Fannie Mae | Data Science Intern - Analytics & Modeling Program | Washington, DC | Undergrad | 🔒 | Sep 1 |
 | ↳ | Applied AI Intern | Evendale, OH Atlanta, GA | Undergrad | 🔒 | Sep 1 |
 | Johnson & Johnson | Quality Data Science Co-op - MD Q&C Digital Solutions | Cincinnati, OH | Undergrad | 🔒 | Sep 1 |
+| ↳ | Quality Data Science Co-op - MD Q&C Digital Solutions | Cincinnati, OH | Undergrad | <a href="https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-op--Spring-2027_R-095792?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | Leidos | Computer Engineering Co-op | Bethesda, MD | Undergrad | 🔒 | Sep 1 |
 | Motorola | Android Application Developer Intern - Summer 2027 | Chicago, IL | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer Intern | Beaverton, OR | Undergrad | 🔒 | Sep 1 |
