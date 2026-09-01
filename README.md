@@ -4224,6 +4224,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Nuro | Software Engineer, AI Platform - New Grad | Mountain View, CA |  | Undergrad | <a href="https://nuro.ai/careersitem?gh_jid=7351066&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Tower Research Capital | Quantitative Trader | <details><summary>**2 locations**</summary>New York, NY</br>Chicago, IL</details> | Spring 2027 | Undergrad | <a href="https://www.tower-research.com/open-positions/?gh_jid=8024142&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 7 |
 | Bridger | Early Career Product Engineer | New York, NY |  | Undergrad | 🔒 | Sep 1 |
+| ↳ | Early Career Product Engineer | New York, NY |  | Undergrad | <a href="https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true&utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | Firetiger | Product Engineer New Grad | San Francisco, CA |  | Undergrad | 🔒 | Sep 1 |
 | Leidos | Junior Software Engineer - Intel Sector | Laurel, MD |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer 1 | Tucson, AZ |  | Undergrad | 🔒 | Sep 1 |
