@@ -1531,6 +1531,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Leidos | Computer Engineering Co-op | Bethesda, MD | Undergrad | 🔒 | Sep 1 |
 | Motorola | Android Application Developer Intern - Summer 2027 | Chicago, IL | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer Intern | Beaverton, OR | Undergrad | 🔒 | Sep 1 |
+| ↳ | Android Application Developer Intern - Summer 2027 | Chicago, IL | Undergrad | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | Northwestern Mutual | Quantitative Analyst Intern - Public Investments | Milwaukee, WI | Undergrad | 🔒 | Sep 1 |
 | Northwood Space | Software Engineer Intern | <details><summary>**2 locations**</summary>Los Angeles, CA</br>Torrance, CA</details> | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineering Intern | Canada Santa Clara, CA | Undergrad | 🔒 | Sep 1 |
