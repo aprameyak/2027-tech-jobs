@@ -1483,6 +1483,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | The Home Depot | Software Engineer Intern | Atlanta, GA | Undergrad | 🔒 | Sep 1 |
 | ↳ | Product Management Intern | Atlanta, GA | Undergrad | 🔒 | Sep 1 |
 | ↳ | Data Science & Analytics Intern | Atlanta, GA | Undergrad | 🔒 | Sep 1 |
+| ↳ | Data Science Intern | Atlanta, GA | Masters | <a href="https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---PhD-Data-Science_Req191948?utm_source=aprameyak" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 1 |
 | Uline | Software Development Intern | Multiple Locations | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer Intern | Multiple Locations | Undergrad | 🔒 | Sep 1 |
 | Allegion | Summer Intern – Global Supply Management: New Product Development & Sourced Product | Carmel, IN | Undergrad | 🔒 | Aug 31 |
