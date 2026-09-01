@@ -194,6 +194,7 @@ Teledyne
 d-Matrix
 D3
 Danaher Corporation
+Dark Wolf Solutions
 Databricks
 Datadog
 Datalab USA
@@ -230,6 +231,7 @@ Elwood Technologies
 Endava
 Enphase Energy
 Epic Games
+Everlaw
 Epirus
 Equifax
 Eragon
@@ -438,6 +440,7 @@ Niantic
 Nidec
 Nightwing
 Nike
+Nordstrom
 Northern Trust
 NorthMark Strategies
 Northrop Grumman

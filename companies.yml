@@ -121,6 +121,8 @@ greenhouse:
   slug: databricks
 - name: Datadog
   slug: datadog
+- name: Dark Wolf Solutions
+  slug: darkwolfsolutions
 - name: DensityAI
   slug: densityai
 - name: Descript
@@ -145,6 +147,8 @@ greenhouse:
   slug: dvtrading
 - name: Elwood Technologies
   slug: elwoodtechnologies
+- name: Everlaw
+  slug: everlaw
 - name: Epic Games
   slug: epicgames
 - name: Esri
@@ -1160,6 +1164,10 @@ workday:
   tenant: nike
   instance: wd1
   board: nke
+- name: Nordstrom
+  tenant: nordstrom
+  instance: wd501
+  board: nordstrom_careers
 - name: Northern Trust
   tenant: ntrs
   instance: wd1
