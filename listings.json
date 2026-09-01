@@ -57215,5 +57215,18 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-01"
+  },
+  {
+    "company": "Goldman Sachs",
+    "role": "Engineering New Analyst",
+    "location": "New York, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://higher.gs.com/roles/171569?type=students&utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01",
+    "grad_date": ""
   }
 ]
