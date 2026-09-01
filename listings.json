@@ -62498,5 +62498,18 @@
     "citizenship": "No",
     "date_added": "2026-09-01",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "PayPal",
+    "role": "New Grad: Software Engineer",
+    "location": "**5 locations**San Jose, CAChicago, ILOmaha, NEScottsdale, AZAustin, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://paypal.eightfold.ai/careers/job/274908747686?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-01",
+    "grad_date": ""
   }
 ]
