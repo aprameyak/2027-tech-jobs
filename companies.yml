@@ -976,6 +976,10 @@ workday:
   tenant: gdit
   instance: wd5
   board: external_career_site
+- name: Genuine Parts Company
+  tenant: genpt
+  instance: wd1
+  board: Careers
 - name: General Motors
   tenant: generalmotors
   instance: wd5
@@ -1016,6 +1020,10 @@ workday:
   tenant: idexx
   instance: wd1
   board: IDEXX
+- name: Ingredion
+  tenant: ingredion
+  instance: wd1
+  board: IngredionCareers
 - name: Intel
   tenant: intel
   instance: wd1

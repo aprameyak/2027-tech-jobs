@@ -293,6 +293,7 @@ Gen Digital
 GenBio AI
 General Dynamics Information Technology
 General Matter
+Genuine Parts Company
 General Motors
 Geneva Trading
 Giga AI
@@ -340,6 +341,7 @@ Instacart
 InstaLILY
 Integra FEC
 Inductive Automation
+Ingredion
 Intel
 Interaction
 Intercom
