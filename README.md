@@ -13,7 +13,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 - [☀️ Summer 2027 Internships](#️-summer-2027-internships)
 - [🔄 Off-Cycle Internships & Co-ops](#-off-cycle-internships--co-ops)
-- [🎓 New Grad 2027](#-new-grad-2027)
+- [🎓 New Grad 2027](#new-grad-2027)
 
 ---
 
