@@ -334,6 +334,7 @@ Human Computer Lab
 iCapital Network
 ICONIQ Capital
 IDEXX
+IEX
 iHerb
 IMC Trading
 Impact
