@@ -85,6 +85,22 @@ TECH_KEYWORDS = [
     'information technology', 'business analyst', 'business technology',
 ]
 
+# Titles containing any of these phrases are unambiguously tech — skip Claude, auto-approve at high confidence
+HIGH_CONFIDENCE_TECH_SIGNALS = [
+    'software engineer', 'software developer', 'software development',
+    'data engineer', 'data scientist', 'data analyst', 'data science',
+    'machine learning', 'ml engineer', 'ai engineer',
+    'devops', 'sre ', 'site reliability',
+    'backend engineer', 'frontend engineer', 'full-stack engineer', 'fullstack engineer',
+    'cloud engineer', 'platform engineer', 'infrastructure engineer',
+    'cybersecurity', 'security engineer', 'security analyst',
+    'mobile engineer', 'ios engineer', 'android engineer',
+    'quantitative researcher', 'quantitative analyst', 'quantitative developer',
+    'technology intern', 'technology associate', 'technology analyst',
+    'engineering development program', 'software engineering intern',
+    'software engineer intern', 'developer intern', 'data intern',
+]
+
 HARD_REJECT_SIGNALS = [
     'manufacturing engineer', 'process engineer', 'chemical engineer',
     'mechanical engineer', 'materials engineer', 'materials scientist',
@@ -283,8 +299,11 @@ def batch_classify_with_claude(titles):
         'false for manufacturing/process/chemical/mechanical/electrical engineering (non-chip), '
         'HR, supply chain, clinical research (non-ML), non-quant finance/accounting, legal, '
         'non-technical operations, logistics, facilities.\n'
-        '- "confidence": "high" (clearly one way), "medium", or "low" (genuinely ambiguous — '
-        'set is_tech true and flag low so a human reviews it)\n\n'
+        '- "confidence": "high" (clearly one way), "medium" (likely tech but less obvious), '
+        'or "low" (genuinely unclear — e.g. "Innovation Intern", "Program Associate", titles '
+        'with no tech signal at all). Only use low when you truly cannot tell. '
+        'Rotational programs, development programs, and named company programs (e.g. EDP, LDP, TDP) '
+        'should be "medium" if they mention any tech discipline in the subtitle or suffix.\n\n'
         f'Titles:\n{numbered}\n\n'
         f'Return a JSON array of exactly {len(titles)} objects in the same order. '
         'Respond with only the JSON array, no other text.'
@@ -344,6 +363,11 @@ def classify_titles_batch(title_list):
             continue
         if any(s in tl for s in HARD_REJECT_SIGNALS):
             cache[tl] = False
+            _confidence_cache[tl] = 'high'
+            seen_lower.add(tl)
+            continue
+        if any(s in tl for s in HIGH_CONFIDENCE_TECH_SIGNALS):
+            cache[tl] = True
             _confidence_cache[tl] = 'high'
             seen_lower.add(tl)
             continue
