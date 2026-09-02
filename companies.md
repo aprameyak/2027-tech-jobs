@@ -34,6 +34,7 @@ Alphataraxia
 Altice USA
 Ambarella
 Ameren
+Ameriprise Financial
 Amgen
 Amperity
 Amperon
@@ -257,6 +258,7 @@ Figma
 Figure
 Figure AI
 FINRA
+F.N.B. Corporation
 Firetiger
 First Orion
 Fiserv

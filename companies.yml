@@ -656,6 +656,10 @@ workday:
   tenant: ameren
   instance: wd1
   board: External
+- name: Ameriprise Financial
+  tenant: ameriprise
+  instance: wd5
+  board: Ameriprise
 - name: Amgen
   tenant: amgen
   instance: wd1
@@ -916,6 +920,10 @@ workday:
   tenant: finra
   instance: wd1
   board: FINRA
+- name: F.N.B. Corporation
+  tenant: fnbcorp
+  instance: wd501
+  board: FNBCORP
 - name: First Orion
   tenant: firstorion
   instance: wd1
