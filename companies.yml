@@ -91,6 +91,10 @@ greenhouse:
   slug: charlesriveranalytics90
 - name: Checkr
   slug: checkr
+- name: Chewy
+  tenant: chewy
+  instance: wd5
+  board: External
 - name: Chicago Trading Company
   slug: ctccampusboard
 - name: Chime

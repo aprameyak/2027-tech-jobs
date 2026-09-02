@@ -133,6 +133,7 @@ Chamberlain Group
 ChargePoint
 Charles River Analytics
 Checkr
+Chewy
 Chevron
 Chicago Trading Company
 Chime
