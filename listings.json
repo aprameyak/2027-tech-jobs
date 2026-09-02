@@ -67288,5 +67288,17 @@
     "citizenship": "No",
     "date_added": "2026-09-01",
     "grad_date": ""
+  },
+  {
+    "company": "Atlassian \ud83d\udec2",
+    "role": "Software Engineer Intern, 2027 Summer U.S.",
+    "location": "Seattle, WA; San Francisco, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad; Masters",
+    "url": "https://www.atlassian.com/company/careers/details/26266",
+    "sponsorship": "No",
+    "citizenship": "No",
+    "date_added": "2026-09-01"
   }
 ]
