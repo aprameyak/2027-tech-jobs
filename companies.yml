@@ -1044,6 +1044,10 @@ workday:
   tenant: kbr
   instance: wd5
   board: kbr_careers
+- name: KLA
+  tenant: kla
+  instance: wd1
+  board: Search
 - name: KeyBank
   tenant: keybank
   instance: wd5
