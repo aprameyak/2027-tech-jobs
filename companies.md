@@ -360,6 +360,7 @@ KAYAK
 KBR
 KeyBank
 Kikoff
+KLA
 Klaviyo
 KnowBe4
 Kodiak Robotics
