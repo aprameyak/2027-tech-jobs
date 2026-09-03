@@ -40,6 +40,7 @@ Amperity
 Amperon
 Amplitude
 Analog Devices
+AnaVation
 Anaplan
 Ancestry
 Anduril
@@ -80,6 +81,7 @@ Axos Bank
 Babel Street
 Backbone Systems
 Baker Hughes
+Barry-Wehmiller
 Base Power Company
 Beacon Software
 Belvedere Trading
@@ -90,6 +92,7 @@ BillionToOne
 Binance.US
 BitGo
 BlackEdge Capital
+Bloxd
 BlackRock
 Blackstone
 Block
@@ -116,6 +119,7 @@ CACI
 Cadence Design Systems
 CAE Inc.
 Campbell Soup Company
+Castleton Commodities International
 Canadian Tire
 Candid Health
 Canonical
@@ -207,6 +211,7 @@ Deepgram
 Dell Technologies
 DensityAI
 Descript
+Dev Technology Group
 Detroit Lions
 Deutsche Bank
 Dexcom
@@ -328,6 +333,7 @@ Homebase
 Honeywell
 Hootsuite
 HP
+HP IQ
 HPR
 HubSpot
 Hudl
@@ -347,6 +353,7 @@ Ingredion
 Intel
 Interaction
 Intercom
+InterSystems
 InterDigital
 IXL Learning
 Jane Street
@@ -631,6 +638,7 @@ Take-Two Interactive
 Target Corporation
 TD Bank
 Temporal
+Tebra
 Tenable
 Tencent
 Tenstorrent
@@ -671,6 +679,7 @@ Uniswap
 Upstart
 UVIMCO
 Valkyrie Trading
+Valon
 Vanderbilt University Medical Center
 Vanguard
 Vanta
