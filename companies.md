@@ -440,6 +440,7 @@ Netflix
 Netic
 Netlify
 Netsmart
+Newrez
 Neuralink
 NewsBreak
 Nextdoor
@@ -497,6 +498,7 @@ Pinterest
 Pipe17
 Plaid
 PlanetScale
+Plexus
 PlayStation
 Plus
 PNC

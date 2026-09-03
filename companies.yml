@@ -1182,6 +1182,10 @@ workday:
   tenant: ntst
   instance: wd1
   board: careers
+- name: Newrez
+  tenant: newrez
+  instance: wd1
+  board: NewrezCareers
 - name: Nidec
   tenant: nidec
   instance: wd1
@@ -1242,6 +1246,10 @@ workday:
   tenant: pimco
   instance: wd1
   board: pimco-careers
+- name: Plexus
+  tenant: plexus
+  instance: wd504
+  board: plexus_careers
 - name: PNC
   tenant: pnc
   instance: wd5
