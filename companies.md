@@ -58,6 +58,7 @@ Aptiv
 Aquatic
 Archer Aviation
 Ardian
+Armadin
 Arrowstreet Capital
 Artera
 Asana
