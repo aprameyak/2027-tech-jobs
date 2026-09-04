@@ -68392,5 +68392,31 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-04"
+  },
+  {
+    "company": "xAI",
+    "role": "Software Engineer, Ads Product",
+    "location": "Palo Alto, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5152408007?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-04",
+    "grad_date": ""
+  },
+  {
+    "company": "Amazon",
+    "role": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026",
+    "location": "Jessup, MD; Seattle, WA; Herndon, VA; Washington, DC; Arlington, VA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-04",
+    "grad_date": "Spring 2026"
   }
 ]
