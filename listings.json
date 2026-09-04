@@ -68418,5 +68418,18 @@
     "citizenship": "No",
     "date_added": "2026-09-04",
     "grad_date": "Spring 2026"
+  },
+  {
+    "company": "Apple",
+    "role": "Tooling & Infrastructure Engineer, Test Engineering & Efficiency",
+    "location": "Cupertino, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.apple.com/en-us/details/200652988/tooling-infrastructure-engineer-test-engineering-efficiency?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-04",
+    "grad_date": ""
   }
 ]
