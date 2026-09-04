@@ -12563,5 +12563,16 @@
   "launch & scale intern (spring 2027)": false,
   "launch & scale intern (summer 2027)": false,
   "partner success intern (summer 2027)": false,
-  "software engineer i, entry-level (graduation date: fall 2026-summer 2027) - us": true
+  "software engineer i, entry-level (graduation date: fall 2026-summer 2027) - us": true,
+  "software engineering intern (summer 2027) ": true,
+  "software engineer - new grad": true,
+  "2027 cybersecurity operations intern": true,
+  "2027 data science intern": true,
+  "2027 dmfi technology intern": true,
+  "2027 software engineering intern": true,
+  "servicenow engineer \u2013 junior": true,
+  "2027 business analytics intern": true,
+  "2027 core operations intern": false,
+  "2027 equity middle office intern": false,
+  "2027 systematic coo intern": false
 }
