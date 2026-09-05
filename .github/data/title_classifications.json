@@ -12657,5 +12657,12 @@
   "deal services- value acceleration solutions associate- fall 2027": false,
   "project coordinator intern (summer 2027)": false,
   "it support technician intern (summer 2026)": false,
-  "it support technician intern (summer 2027)": false
+  "it support technician intern (summer 2027)": false,
+  "automation software engineering intern - summer": true,
+  "embedded software engineering intern - summer": true,
+  "fab software engineering intern - summer": true,
+  "rust software engineering intern, chip design tools - summer": true,
+  "infrastructure software engineering intern - summer": true,
+  "packaging engineering intern - summer": true,
+  "founding engineer intern": true
 }
