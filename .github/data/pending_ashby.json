@@ -1,0 +1,39 @@
+[
+  {
+    "company": "Kustomer",
+    "role": "Software Engineer, Full Stack (Early Career)",
+    "location": "US - New York, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-08",
+    "grad_date": ""
+  },
+  {
+    "company": "Rivian and Volkswagen Group Technologies",
+    "role": "Data Engineering Intern - AI & Analytics (January - August 2027)",
+    "location": "Palo Alto, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322/application",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-08"
+  },
+  {
+    "company": "Rivian and Volkswagen Group Technologies",
+    "role": "Software Engineering Intern - Vehicle Controls (January - August 2027)",
+    "location": "Vancouver, BC",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b/application",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-08"
+  }
+]
