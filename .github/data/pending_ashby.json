@@ -1,28 +1,39 @@
 [
   {
-    "company": "Replit",
-    "role": "Software Engineer - New Grad (Summer 2027)",
-    "location": "Foster City, CA",
+    "company": "Cursor",
+    "role": "Software Engineer, New Grad 2027",
+    "location": "San Francisco",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application",
+    "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-09",
-    "grad_date": "Summer 2027"
+    "grad_date": "Spring 2027"
   },
   {
-    "company": "Retell AI",
-    "role": "Software Engineer - New Grad (Summer 2027)",
-    "location": "Foster City, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
+    "company": "Sierra",
+    "role": "Software Engineer Intern, Agent (Summer 2027)",
+    "location": "San Francisco, CA",
+    "type": "summer",
+    "season": "Summer 2027",
     "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application",
+    "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e/application",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
-    "date_added": "2026-09-09",
-    "grad_date": "Summer 2027"
+    "date_added": "2026-09-09"
+  },
+  {
+    "company": "Sierra",
+    "role": "Software Engineer Intern, Agent (Winter 2027)",
+    "location": "San Francisco, CA",
+    "type": "offcycle",
+    "season": "Winter 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4/application",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-09"
   }
 ]
