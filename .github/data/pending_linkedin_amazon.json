@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, ROBOTICS - 2027",
+    "location": "CA, ON, Toronto",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-09"
+  },
+  {
+    "company": "Amazon",
+    "role": "Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027",
+    "location": "US, MA, North Reading",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-09"
+  }
+]
