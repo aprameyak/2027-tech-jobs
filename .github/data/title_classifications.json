@@ -12803,5 +12803,16 @@
   "software engineer - new grad (summer 2027)": true,
   "hardware development engineer intern/co-op, robotics - 2027": true,
   "junior service desk analyst": false,
-  "contract student worker - data analyst (20 hrs/wk)": true
+  "contract student worker - data analyst (20 hrs/wk)": true,
+  "junior trader - fixed income": false,
+  "ui programmer intern": false,
+  "additive manufacturing intern spring 2027": false,
+  "additive manufacturing intern summer 2027": false,
+  "combustion devices intern summer 2027": false,
+  "fluid component intern summer 2027": false,
+  "gnc intern summer 2027": false,
+  "integration & test intern spring 2027": false,
+  "integration & test intern summer 2027": false,
+  "turbomachinery intern spring 2027": false,
+  "turbomachinery intern summer 2027": false
 }
