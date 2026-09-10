@@ -71168,5 +71168,42 @@
     "citizenship": "Unknown",
     "date_added": "2026-09-10",
     "grad_date": ""
+  },
+  {
+    "company": "DoorDash",
+    "role": "Product Design, Entry-Level (2027 start)",
+    "location": "San Francisco, CA; New York, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8188161",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-10",
+    "grad_date": ""
+  },
+  {
+    "company": "Zoox",
+    "role": "Contract Student Worker - Data Analyst (20 hrs/wk)",
+    "location": "Seattle, WA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.lever.co/zoox/ae2785ae-dfee-484b-8add-3cf32ca2d10e",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-10"
+  },
+  {
+    "company": "RSM",
+    "role": "Process Risk and Controls Consulting Intern - Summer 2027",
+    "location": "Raleigh",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Raleigh/Process-Risk-and-Controls-Consulting-Intern---Summer-2027_JR117254",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-10"
   }
 ]
