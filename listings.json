@@ -71107,5 +71107,66 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-09"
+  },
+  {
+    "company": "Epic Games",
+    "role": "Backend Services Programmer Intern",
+    "location": "Cary,North Carolina,United States",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-10"
+  },
+  {
+    "company": "Rocket Lab",
+    "role": "HITL Engineering Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990268003",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-10"
+  },
+  {
+    "company": "Rocket Lab",
+    "role": "Systems Engineering Intern Spring 2027",
+    "location": "Long Beach, CA",
+    "type": "offcycle",
+    "season": "Spring 2027",
+    "education": "Masters",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987044003",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-10"
+  },
+  {
+    "company": "Rocket Lab",
+    "role": "Systems Engineering Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Masters",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-10"
+  },
+  {
+    "company": "General Motors",
+    "role": "Software Engineer, AV Frameworks \u2013 Early Career",
+    "location": "Sunnyvale, California, United States of America",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-10",
+    "grad_date": ""
   }
 ]
