@@ -71902,5 +71902,90 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-11"
+  },
+  {
+    "company": "NewsBreak",
+    "role": "Nearby AI Internship Program - Engineering Track",
+    "location": "Mountain View, California, United States",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4712896006",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-11"
+  },
+  {
+    "company": "NewsBreak",
+    "role": "Nearby AI Internship Program - Marketing & Operation Track",
+    "location": "Mountain View, California, United States",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4712890006",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-11"
+  },
+  {
+    "company": "Perpay",
+    "role": "Data Engineering Internship, Summer 2027",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/perpay/jobs/4076965007",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-11"
+  },
+  {
+    "company": "Perpay",
+    "role": "Data Science Internship, Summer 2027",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/perpay/jobs/4076978007",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-11"
+  },
+  {
+    "company": "SpaceX",
+    "role": "New Graduate Engineer, Power Generation (Starship)",
+    "location": "Starbase, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-11",
+    "grad_date": ""
+  },
+  {
+    "company": "Amazon",
+    "role": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
+    "location": "CA, ON, Toronto",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Masters",
+    "url": "https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-11"
+  },
+  {
+    "company": "Philips",
+    "role": "Intern\u2013 Design Assurance Engineer \u2013 Colorado Springs, CO \u2013 Summer 2027",
+    "location": "Colorado Springs, Colorado, United States",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Colorado-Springs-Colorado-United-States/Intern--Design-Assurance-Engineer---Colorado-Springs--CO---Summer-2027_591948",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-11"
   }
 ]
