@@ -30,7 +30,10 @@ CLAUDE_USAGE_FILE = Path('.github/data/claude_usage.json')
 FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
 
 CLAUDE_MODEL = 'claude-haiku-4-5-20251001'
-CLAUDE_BATCH_SIZE = 40
+CLAUDE_BATCH_SIZE = 64
+CLAUDE_MAX_CALLS_PER_RUN = int(os.environ.get('CLAUDE_MAX_CALLS_PER_RUN', '24'))
+CLAUDE_MAX_CALLS_PER_DAY = int(os.environ.get('CLAUDE_MAX_CALLS_PER_DAY', '120'))
+TITLE_PROMPT_MAX_LEN = 100
 
 MAX_WORKDAY_PAGES_PER_TERM = 15
 SCRAPER_MAX_WORKERS = 12
@@ -305,34 +308,60 @@ def save_claude_usage():
     except Exception as e:
         print(f'  [Claude] Failed to save usage file: {e}')
 
+_claude_calls_this_run = 0
+
+
+def _claude_budget_ok():
+    if _claude_calls_today >= CLAUDE_MAX_CALLS_PER_DAY:
+        print(f'  [Claude] Daily cap reached ({CLAUDE_MAX_CALLS_PER_DAY}) — using keywords only')
+        return False
+    if _claude_calls_this_run >= CLAUDE_MAX_CALLS_PER_RUN:
+        print(f'  [Claude] Run cap reached ({CLAUDE_MAX_CALLS_PER_RUN}) — using keywords only')
+        return False
+    return True
+
+
+def _record_claude_call():
+    global _claude_calls_today, _claude_calls_this_run
+    _claude_calls_today += 1
+    _claude_calls_this_run += 1
+
+
+def _normalize_claude_row(row):
+    """Map compact t/c/a or legacy is_tech/confidence/a to a uniform dict."""
+    if not isinstance(row, dict):
+        return None
+    if 't' in row or 'c' in row:
+        conf_map = {'h': 'high', 'm': 'medium', 'l': 'low'}
+        c = str(row.get('c', 'm')).lower()
+        return {
+            'is_tech': bool(int(row.get('t', 0))),
+            'confidence': conf_map.get(c, c if c in conf_map.values() else 'medium'),
+            'a': int(row.get('a', 0)),
+        }
+    return {
+        'is_tech': bool(row.get('is_tech', False)),
+        'confidence': row.get('confidence', 'medium'),
+        'a': int(row.get('a', 0)) if 'a' in row else None,
+    }
+
+
 def batch_classify_with_claude(titles):
     global _claude_calls_today
 
     api_key = os.environ.get('ANTHROPIC_API_KEY')
-    if not api_key:
+    if not api_key or not _claude_budget_ok():
         return {}
 
-    numbered = '\n'.join(f'{i + 1}. "{t}"' for i, t in enumerate(titles))
+    numbered = '\n'.join(
+        f'{i + 1}. {titles[i][:TITLE_PROMPT_MAX_LEN]}' for i in range(len(titles))
+    )
+    n = len(titles)
     prompt = (
-        'You are a classifier for a tech job board targeting CS/software/data/quant/PM students.\n\n'
-        'For each job title return:\n'
-        '- "is_tech": true for software/data/ML/AI/quant/PM/cybersecurity/DevOps/SRE/cloud/mobile/'
-        'embedded/firmware/robotics/technical-PM/IT/business-analyst(tech)/solutions-engineering/'
-        'network-engineering/fintech/chip-design. '
-        'false for manufacturing/process/chemical/mechanical/electrical engineering (non-chip), '
-        'HR, supply chain, clinical research (non-ML), non-quant finance/accounting, legal, '
-        'non-technical operations, logistics, facilities.\n'
-        '- "confidence": "high" (clearly one way), "medium" (likely tech but less obvious), '
-        'or "low" (genuinely unclear — e.g. "Innovation Intern", "Program Associate", titles '
-        'with no tech signal at all). Only use low when you truly cannot tell. '
-        'Rotational programs, development programs, and named company programs (e.g. EDP, LDP, TDP) '
-        'should be "medium" if they mention any tech discipline in the subtitle or suffix.\n\n'
-        f'Titles:\n{numbered}\n\n'
-        f'Return a JSON array of exactly {len(titles)} objects in the same order. '
-        'Each object: {"is_tech":bool,"confidence":"high"|"medium"|"low","a":0|1}. '
-        '"a"=1 only for entry-level intern/co-op/new-grad tech roles worth listing; '
-        '0 for senior/staff/principal, non-tech, or wrong level. '
-        'Respond with only the JSON array, no other text.'
+        f'US/Canada CS intern/newgrad board. JSON array len {n}, same order.\n'
+        'Each item: {{"t":0|1,"c":"h"|"m"|"l","a":0|1}} — t=tech role, c=confidence, '
+        'a=1 only for entry-level intern/co-op/new-grad (not senior/staff/finance/HR/mfg/process/chem/embedded/firmware/support).\n'
+        f'{numbered}\nJSON only.'
     )
 
     for attempt in range(2):
@@ -340,24 +369,34 @@ def batch_classify_with_claude(titles):
             client = anthropic.Anthropic(api_key=api_key)
             message = client.messages.create(
                 model=CLAUDE_MODEL,
-                max_tokens=len(titles) * 20 + 96,
+                max_tokens=n * 12 + 32,
                 messages=[{'role': 'user', 'content': prompt}],
             )
 
-            _claude_calls_today += 1
+            _record_claude_call()
 
             text = message.content[0].text.strip()
             # Strip markdown code fences if present
             text = re.sub(r'^```(?:json)?\s*', '', text)
             text = re.sub(r'\s*```$', '', text)
-            results = json.loads(text)
+            raw = json.loads(text)
 
-            if not isinstance(results, list) or len(results) != len(titles):
-                print(f'  [Claude] Expected {len(titles)} results, got '
-                      f'{len(results) if isinstance(results, list) else type(results).__name__}')
+            if not isinstance(raw, list) or len(raw) != n:
+                print(f'  [Claude] Expected {n} results, got '
+                      f'{len(raw) if isinstance(raw, list) else type(raw).__name__}')
                 return {}
 
-            return {titles[i].lower(): results[i] for i in range(len(titles))}
+            results = {}
+            for i, row in enumerate(raw):
+                norm = _normalize_claude_row(row)
+                if norm is None:
+                    continue
+                if norm.get('a') is None:
+                    del norm['a']
+                else:
+                    norm['a'] = int(norm['a'])
+                results[titles[i].lower()] = norm
+            return results
 
         except json.JSONDecodeError as e:
             print(f'  [Claude] JSON parse error: {e}')
@@ -390,11 +429,13 @@ def classify_titles_batch(title_list):
         if any(s in tl for s in HARD_REJECT_SIGNALS):
             cache[tl] = False
             _confidence_cache[tl] = 'high'
+            _add_cache[tl] = False
             seen_lower.add(tl)
             continue
         if any(s in tl for s in HIGH_CONFIDENCE_TECH_SIGNALS):
             cache[tl] = True
             _confidence_cache[tl] = 'high'
+            _add_cache[tl] = is_auto_addable(t)
             seen_lower.add(tl)
             continue
         seen_lower.add(tl)
@@ -501,7 +542,7 @@ def is_tech_title_keywords(title):
         return False
     return any(kw in t for kw in TECH_KEYWORDS)
 
-def classify_title(title):
+def classify_title(title, allow_claude=True):
     t = title.lower()
 
     if any(s in t for s in HARD_REJECT_SIGNALS):
@@ -512,19 +553,20 @@ def classify_title(title):
         confidence = _confidence_cache.get(t, 'high')
         return cache[t], confidence != 'low'
 
-    try:
-        results = batch_classify_with_claude([title])
-        if results and t in results:
-            result = results[t]
-            is_tech = bool(result.get('is_tech', False))
-            confidence = result.get('confidence', 'medium')
-            cache[t] = is_tech
-            _confidence_cache[t] = confidence
-            if 'a' in result:
-                _add_cache[t] = bool(int(result.get('a', 0)))
-            return is_tech, confidence != 'low'
-    except Exception:
-        pass
+    if allow_claude:
+        try:
+            results = batch_classify_with_claude([title])
+            if results and t in results:
+                result = results[t]
+                is_tech = bool(result.get('is_tech', False))
+                confidence = result.get('confidence', 'medium')
+                cache[t] = is_tech
+                _confidence_cache[t] = confidence
+                if 'a' in result:
+                    _add_cache[t] = bool(int(result.get('a', 0)))
+                return is_tech, confidence != 'low'
+        except Exception:
+            pass
 
     is_tech = is_tech_title_keywords(title)
     return is_tech, True
@@ -642,43 +684,40 @@ def should_list_job(job):
 
 
 def batch_decide_add_jobs(jobs):
-    """One compact Haiku call for borderline jobs (company + title + location)."""
-    global _claude_calls_today
-
+    """Second-pass review only for titles without an cached add decision."""
     api_key = os.environ.get('ANTHROPIC_API_KEY')
-    if not api_key or not jobs:
+    if not api_key or not jobs or not _claude_budget_ok():
         return {}
 
     decisions = {}
     for i in range(0, len(jobs), CLAUDE_BATCH_SIZE):
         batch = jobs[i:i + CLAUDE_BATCH_SIZE]
         lines = '\n'.join(
-            f'{j + 1}. {batch[j]["company"][:28]} | {batch[j]["title"][:72]} | {batch[j]["location"][:36]}'
+            f'{j + 1}. {batch[j]["title"][:TITLE_PROMPT_MAX_LEN]}'
             for j in range(len(batch))
         )
         prompt = (
-            'US/Canada CS job board: 2027 new grad or intern/co-op only.\n'
-            f'JSON array len {len(batch)}: {{"a":1}} list, {{"a":0}} skip.\n'
-            'Skip: senior/staff/principal, finance/HR/legal, manufacturing/process/chemical, '
-            'support-only, events, wrong grad year.\n'
-            f'{lines}\n'
-            'JSON only.'
+            f'JSON array len {len(batch)}: {{"a":0|1}} — 1=list on CS intern/newgrad board, 0=skip.\n'
+            f'{lines}\nJSON only.'
         )
         try:
             client = anthropic.Anthropic(api_key=api_key)
             message = client.messages.create(
                 model=CLAUDE_MODEL,
-                max_tokens=len(batch) * 10 + 48,
+                max_tokens=len(batch) * 8 + 24,
                 messages=[{'role': 'user', 'content': prompt}],
             )
-            _claude_calls_today += 1
+            _record_claude_call()
             text = message.content[0].text.strip()
             text = re.sub(r'^```(?:json)?\s*', '', text)
             text = re.sub(r'\s*```$', '', text)
             parsed = json.loads(text)
             if isinstance(parsed, list) and len(parsed) == len(batch):
                 for j, row in enumerate(parsed):
-                    decisions[i + j] = bool(row.get('a', row.get('add', False)))
+                    if isinstance(row, dict):
+                        decisions[i + j] = bool(int(row.get('a', row.get('add', 0))))
+                    else:
+                        decisions[i + j] = bool(row)
             else:
                 print(f'  [Claude] add-batch size mismatch ({len(parsed) if isinstance(parsed, list) else 0})')
         except Exception as e:
@@ -1404,15 +1443,15 @@ def main():
     print(f'\nPass 1 complete: {len(candidate_jobs)} candidate job(s) to classify')
 
     if candidate_jobs:
-        all_titles = [j['title'] for j in candidate_jobs]
+        all_titles = list(dict.fromkeys(j['title'] for j in candidate_jobs))
         classified = classify_titles_batch(all_titles)
-        print(f'  [Claude] Classified {classified} new title(s); '
-              f'{_claude_calls_today} API call(s) used today')
+        print(f'  [Claude] Classified {classified} unique title(s); '
+              f'{_claude_calls_this_run} call(s) this run, {_claude_calls_today} today')
 
     new_jobs = []
     for job in candidate_jobs:
         try:
-            is_tech, confident = classify_title(job['title'])
+            is_tech, confident = classify_title(job['title'], allow_claude=False)
         except Exception as e:
             print(f'  [classify] Error on "{job["title"]}": {e} — skipping')
             continue
@@ -1429,10 +1468,20 @@ def main():
         if should_list_job(job):
             to_list.append(job)
             to_list_ids.add(job['id'])
-    borderline = [j for j in new_jobs if j['id'] not in to_list_ids]
+    borderline = []
+    for j in new_jobs:
+        if j['id'] in to_list_ids:
+            continue
+        tl = j['title'].lower()
+        if tl in _add_cache:
+            if _add_cache[tl]:
+                to_list.append(j)
+                to_list_ids.add(j['id'])
+            continue
+        borderline.append(j)
 
     if borderline:
-        print(f'  [Claude] Reviewing {len(borderline)} borderline job(s)...')
+        print(f'  [Claude] Reviewing {len(borderline)} undecided job(s)...')
         add_decisions = batch_decide_add_jobs(borderline)
         for idx, job in enumerate(borderline):
             approved = add_decisions.get(idx, False)
@@ -1490,7 +1539,8 @@ def main():
     save_seen_jobs(seen)
     save_title_cache()
     save_claude_usage()
-    print(f'Board group: {BOARD_GROUP or "all"} | Claude calls today: {_claude_calls_today}')
+    print(f'Board group: {BOARD_GROUP or "all"} | Claude: {_claude_calls_this_run} this run, '
+          f'{_claude_calls_today} today (caps {CLAUDE_MAX_CALLS_PER_RUN}/{CLAUDE_MAX_CALLS_PER_DAY})')
     print('Done')
 
 if __name__ == '__main__':
