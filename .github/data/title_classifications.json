@@ -52034,5 +52034,35 @@
     "t": true,
     "c": "high",
     "a": 0
+  },
+  "financial planning & wealth intern, summer 2027": {
+    "t": false,
+    "c": "low",
+    "a": 1
+  },
+  "distribution finance intern, fall 2026": {
+    "t": false,
+    "c": "low",
+    "a": 1
+  },
+  "intern- technician, process": {
+    "t": true,
+    "c": "medium",
+    "a": 1
+  },
+  "federal tax services intern - real estate  -  summer 2027": {
+    "t": false,
+    "c": "low",
+    "a": 1
+  },
+  "intern, enterprise risk management": {
+    "t": false,
+    "c": "low",
+    "a": 1
+  },
+  "ed registrar, clarksville (shift: wed: 1a-7a; thur/fri/sat: 7p-7a) - onsite main campus": {
+    "t": false,
+    "c": "low",
+    "a": 0
   }
 }
