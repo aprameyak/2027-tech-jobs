@@ -18,6 +18,7 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 from grad_date import infer_grad_date
+from validate_listings import validate_entry
 
 BOARD_GROUP = os.environ.get('BOARD_GROUP', '').strip()
 
@@ -113,7 +114,9 @@ HARD_REJECT_SIGNALS = [
     'supply chain', 'procurement',
     'legal intern', 'paralegal', 'accounting intern',
     'logistics', 'warehouse', 'shipping', 'receiving', 'inventory',
-    'facilities manager',
+    'facilities manager', 'facilities engineer', 'facilities intern',
+    'embedded software', 'embedded design', 'embedded engineer', 'embedded intern',
+    'firmware engineer', 'firmware intern',
     'tax director', 'tax manager',
     'legal counsel', 'general counsel', 'legal operations',
 ]
@@ -414,7 +417,7 @@ def classify_titles_batch(title_list):
                 cache[tl] = bool(result.get('is_tech', False))
                 _confidence_cache[tl] = result.get('confidence', 'medium')
                 if 'a' in result:
-                    _add_cache[tl] = bool(result.get('a'))
+                    _add_cache[tl] = bool(int(result.get('a', 0)))
                 classified += 1
             else:
                 tl = title.lower()
@@ -518,7 +521,7 @@ def classify_title(title):
             cache[t] = is_tech
             _confidence_cache[t] = confidence
             if 'a' in result:
-                _add_cache[t] = bool(result.get('a'))
+                _add_cache[t] = bool(int(result.get('a', 0)))
             return is_tech, confidence != 'low'
     except Exception:
         pass
@@ -1444,7 +1447,15 @@ def main():
     print(f'  Adding {len(to_list)} job(s) to pending')
 
     if PENDING_FILE is not None:
-        pending = [build_entry(j) for j in to_list]
+        pending = []
+        for j in to_list:
+            entry = build_entry(j)
+            violations = validate_entry(entry)
+            if violations:
+                print(f'  REJECT: {entry["company"]} — {entry["role"][:55]}')
+                print(f'    {violations[0][2]}')
+                continue
+            pending.append(entry)
         PENDING_FILE.parent.mkdir(parents=True, exist_ok=True)
         with open(PENDING_FILE, 'w') as f:
             json.dump(pending, f, indent=2)

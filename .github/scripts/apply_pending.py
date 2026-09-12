@@ -7,7 +7,13 @@ Called by the apply job after all board-group scrape jobs finish.
 import json
 import re
 import subprocess
+import sys
 from pathlib import Path
+
+_SCRIPTS_DIR = Path(__file__).resolve().parent
+if str(_SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(_SCRIPTS_DIR))
+from validate_listings import validate_entry
 
 LISTINGS_FILE = Path('listings.json')
 DATA_DIR = Path('.github/data')
@@ -41,6 +47,7 @@ def main():
 
     existing_urls = {_norm_url(e.get('url', '')) for e in listings}
     added = 0
+    skipped_invalid = 0
     total_pending = 0
 
     for pending_file in pending_files:
@@ -48,6 +55,12 @@ def main():
             pending = json.load(f)
         total_pending += len(pending)
         for entry in pending:
+            violations = validate_entry(entry)
+            if violations:
+                skipped_invalid += 1
+                print(f'  Skip (invalid): {entry.get("company")} — {entry.get("role", "")[:50]}')
+                print(f'    {violations[0][2]}')
+                continue
             if _norm_url(entry.get('url', '')) not in existing_urls:
                 listings.append(entry)
                 existing_urls.add(_norm_url(entry['url']))
@@ -57,6 +70,9 @@ def main():
                 print(f'  Skip (dup): {entry["company"]} — {entry["role"]}')
         pending_file.unlink()
         print(f'  Removed {pending_file.name}')
+
+    if skipped_invalid:
+        print(f'  Skipped {skipped_invalid} invalid pending entr(y/ies)')
 
     if added > 0:
         tmp = LISTINGS_FILE.with_suffix('.tmp')
@@ -70,12 +86,13 @@ def main():
         )
         if result.returncode != 0:
             print(f'rebuild_readme.py failed: {result.stderr[:300]}')
-        else:
-            print(f'README rebuilt — {added} listing(s) added')
+            sys.exit(1)
+
+        print(f'README rebuilt — {added} listing(s) added')
     elif total_pending == 0:
         print('No pending entries to apply — listings.json unchanged')
     else:
-        print('All pending entries were duplicates — listings.json unchanged')
+        print('All pending entries were duplicates or invalid — listings.json unchanged')
 
 if __name__ == '__main__':
     main()
