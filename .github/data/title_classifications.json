@@ -52024,5 +52024,15 @@
     "t": true,
     "c": "high",
     "a": 0
+  },
+  "principal/senior research scientist, foundation models for credit": {
+    "t": true,
+    "c": "high",
+    "a": 0
+  },
+  "principal or senior research scientist, causal and explainable credit risk": {
+    "t": true,
+    "c": "high",
+    "a": 0
   }
 }
