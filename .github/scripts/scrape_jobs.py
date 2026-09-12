@@ -36,6 +36,7 @@ SCRAPER_MAX_WORKERS = 12
 
 _title_cache = None
 _confidence_cache = {}
+_add_cache = {}
 _claude_calls_today = 0
 _claude_usage_date = None
 
@@ -238,7 +239,17 @@ def load_title_cache():
                 with open(TITLE_CACHE_FILE) as f:
                     data = json.load(f)
                 if isinstance(data, dict):
-                    _title_cache = {k: bool(v) for k, v in data.items() if isinstance(k, str)}
+                    _title_cache = {}
+                    for k, v in data.items():
+                        if not isinstance(k, str):
+                            continue
+                        if isinstance(v, dict):
+                            _title_cache[k] = bool(v.get('is_tech', v.get('t', False)))
+                            _confidence_cache[k] = v.get('confidence', v.get('c', 'medium'))
+                            if 'a' in v or 'add' in v:
+                                _add_cache[k] = bool(v.get('a', v.get('add')))
+                        else:
+                            _title_cache[k] = bool(v)
                 else:
                     print('  [Cache] Corrupt title cache — resetting')
                     _title_cache = {}
@@ -253,8 +264,17 @@ def save_title_cache():
     if _title_cache is not None:
         try:
             TITLE_CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
+            out = {}
+            for k, is_tech in _title_cache.items():
+                entry = {
+                    't': bool(is_tech),
+                    'c': _confidence_cache.get(k, 'medium'),
+                }
+                if k in _add_cache:
+                    entry['a'] = int(_add_cache[k])
+                out[k] = entry
             with open(TITLE_CACHE_FILE, 'w') as f:
-                json.dump(_title_cache, f, indent=2)
+                json.dump(out, f, indent=2)
         except Exception as e:
             print(f'  [Cache] Failed to save title cache: {e}')
 
@@ -306,6 +326,9 @@ def batch_classify_with_claude(titles):
         'should be "medium" if they mention any tech discipline in the subtitle or suffix.\n\n'
         f'Titles:\n{numbered}\n\n'
         f'Return a JSON array of exactly {len(titles)} objects in the same order. '
+        'Each object: {"is_tech":bool,"confidence":"high"|"medium"|"low","a":0|1}. '
+        '"a"=1 only for entry-level intern/co-op/new-grad tech roles worth listing; '
+        '0 for senior/staff/principal, non-tech, or wrong level. '
         'Respond with only the JSON array, no other text.'
     )
 
@@ -314,7 +337,7 @@ def batch_classify_with_claude(titles):
             client = anthropic.Anthropic(api_key=api_key)
             message = client.messages.create(
                 model=CLAUDE_MODEL,
-                max_tokens=len(titles) * 25 + 128,
+                max_tokens=len(titles) * 20 + 96,
                 messages=[{'role': 'user', 'content': prompt}],
             )
 
@@ -387,12 +410,16 @@ def classify_titles_batch(title_list):
         for title in batch:
             result = results.get(title.lower())
             if result is not None:
-                cache[title.lower()] = bool(result.get('is_tech', False))
-                _confidence_cache[title.lower()] = result.get('confidence', 'medium')
+                tl = title.lower()
+                cache[tl] = bool(result.get('is_tech', False))
+                _confidence_cache[tl] = result.get('confidence', 'medium')
+                if 'a' in result:
+                    _add_cache[tl] = bool(result.get('a'))
                 classified += 1
             else:
-                cache[title.lower()] = is_tech_title_keywords(title)
-                _confidence_cache[title.lower()] = 'medium'
+                tl = title.lower()
+                cache[tl] = is_tech_title_keywords(title)
+                _confidence_cache[tl] = 'medium'
                 classified += 1
 
     return classified
@@ -490,6 +517,8 @@ def classify_title(title):
             confidence = result.get('confidence', 'medium')
             cache[t] = is_tech
             _confidence_cache[t] = confidence
+            if 'a' in result:
+                _add_cache[t] = bool(result.get('a'))
             return is_tech, confidence != 'low'
     except Exception:
         pass
@@ -583,6 +612,76 @@ def infer_listing_type(title):
         return 'Internship', 'Summer 2027'
 
     return 'Internship', 'Summer 2027'
+
+def _title_is_tech(title):
+    tl = title.lower()
+    cache = load_title_cache()
+    if tl in cache:
+        return bool(cache[tl])
+    is_tech, _ = classify_title(title)
+    return is_tech
+
+
+def should_list_job(job):
+    """Whether a discovered job should be added to listings (no GitHub issues)."""
+    title = job['title']
+    tl = title.lower()
+    if not _title_is_tech(title):
+        return False
+    if tl in _add_cache:
+        return _add_cache[tl]
+    conf = _confidence_cache.get(tl, 'medium')
+    if conf == 'low':
+        return False
+    if is_auto_addable(title) and conf in ('high', 'medium'):
+        return True
+    return False
+
+
+def batch_decide_add_jobs(jobs):
+    """One compact Haiku call for borderline jobs (company + title + location)."""
+    global _claude_calls_today
+
+    api_key = os.environ.get('ANTHROPIC_API_KEY')
+    if not api_key or not jobs:
+        return {}
+
+    decisions = {}
+    for i in range(0, len(jobs), CLAUDE_BATCH_SIZE):
+        batch = jobs[i:i + CLAUDE_BATCH_SIZE]
+        lines = '\n'.join(
+            f'{j + 1}. {batch[j]["company"][:28]} | {batch[j]["title"][:72]} | {batch[j]["location"][:36]}'
+            for j in range(len(batch))
+        )
+        prompt = (
+            'US/Canada CS job board: 2027 new grad or intern/co-op only.\n'
+            f'JSON array len {len(batch)}: {{"a":1}} list, {{"a":0}} skip.\n'
+            'Skip: senior/staff/principal, finance/HR/legal, manufacturing/process/chemical, '
+            'support-only, events, wrong grad year.\n'
+            f'{lines}\n'
+            'JSON only.'
+        )
+        try:
+            client = anthropic.Anthropic(api_key=api_key)
+            message = client.messages.create(
+                model=CLAUDE_MODEL,
+                max_tokens=len(batch) * 10 + 48,
+                messages=[{'role': 'user', 'content': prompt}],
+            )
+            _claude_calls_today += 1
+            text = message.content[0].text.strip()
+            text = re.sub(r'^```(?:json)?\s*', '', text)
+            text = re.sub(r'\s*```$', '', text)
+            parsed = json.loads(text)
+            if isinstance(parsed, list) and len(parsed) == len(batch):
+                for j, row in enumerate(parsed):
+                    decisions[i + j] = bool(row.get('a', row.get('add', False)))
+            else:
+                print(f'  [Claude] add-batch size mismatch ({len(parsed) if isinstance(parsed, list) else 0})')
+        except Exception as e:
+            print(f'  [Claude] add-batch error: {e}')
+    return decisions
+
 
 def is_auto_addable(title):
     """Return False for titles that should not be auto-added without manual review."""
@@ -1185,92 +1284,6 @@ def scrape_amazon():
 
     return jobs
 
-def create_github_issue(job, token, repo):
-    listing_type, season = infer_listing_type(job['title'])
-    confident = job.get('confident', False)
-    issue_title = f'[JOB] {job["company"]} — {job["title"]}'
-
-    if confident:
-        labels = ['new listing', 'auto-discovered']
-        notes = f'Auto-discovered via {job["board"]} API.'
-    else:
-        labels = ['new listing', 'needs-review']
-        notes = (
-            f'Auto-discovered via {job["board"]} API. '
-            f'**Needs manual review** — AI classification was unavailable so this was classified by keyword matching only. '
-            f'Please verify this is a legitimate tech role before approving.'
-        )
-    body = f"""### Company Name
-
-{job['company']}
-
-### Role / Job Title
-
-{job['title']}
-
-### Listing Type
-
-{listing_type}
-
-### Season / Term
-
-{season}
-
-### Location
-
-{job['location']}
-
-### Visa Sponsorship?
-
-Unknown
-
-### U.S. Citizenship Required?
-
-No
-
-### Education Level
-
-{infer_education_level(job['title'])}
-
-### Direct Application Link
-
-{job['url']}
-
-### Application Deadline (Optional)
-
-_No response_
-
-### Additional Notes (Optional)
-
-{notes}
-
-### Checklist
-
-- [x] The role is in the United States, Canada, or is Remote (North America).
-- [x] The application link is publicly accessible (no login required to view the posting).
-- [x] I checked that this listing does not already exist in the repository.
-- [x] The information I provided is accurate to the best of my knowledge.
-"""
-    headers = {
-        'Authorization': f'token {token}',
-        'Accept': 'application/vnd.github.v3+json',
-    }
-    resp = requests.post(
-        f'https://api.github.com/repos/{repo}/issues',
-        json={
-            'title': issue_title,
-            'body': body,
-            'labels': labels,
-        },
-        headers=headers,
-        timeout=(10, 30),
-    )
-    if resp.status_code == 201:
-        review_flag = '' if confident else ' [NEEDS REVIEW]'
-        print(f'  Created issue{review_flag}: {issue_title}')
-    else:
-        print(f'  Failed ({resp.status_code}): {resp.text[:200]}')
-
 _BOARD_GROUP_BOARDS = {
     'greenhouse': {'greenhouse'},
     'ashby': {'ashby'},
@@ -1402,18 +1415,36 @@ def main():
             continue
         if is_tech:
             seen.add(job['id'])
-            if confident and not is_auto_addable(job['title']):
-                confident = False
-            job['confident'] = confident
             new_jobs.append(job)
-            flag = '' if confident else ' [NEEDS REVIEW]'
-            print(f'  NEW{flag}: {job["title"]} @ {job["location"]}')
+            print(f'  NEW: {job["title"]} @ {job["location"]}')
 
-    print(f'\nFound {len(new_jobs)} new job(s)')
+    print(f'\nFound {len(new_jobs)} new tech job(s)')
+
+    to_list = []
+    to_list_ids = set()
+    for job in new_jobs:
+        if should_list_job(job):
+            to_list.append(job)
+            to_list_ids.add(job['id'])
+    borderline = [j for j in new_jobs if j['id'] not in to_list_ids]
+
+    if borderline:
+        print(f'  [Claude] Reviewing {len(borderline)} borderline job(s)...')
+        add_decisions = batch_decide_add_jobs(borderline)
+        for idx, job in enumerate(borderline):
+            approved = add_decisions.get(idx, False)
+            tl = job['title'].lower()
+            _add_cache[tl] = approved
+            if approved:
+                to_list.append(job)
+                print(f'  LIST: {job["company"]} — {job["title"][:60]}')
+            else:
+                print(f'  SKIP: {job["company"]} — {job["title"][:60]}')
+
+    print(f'  Adding {len(to_list)} job(s) to pending')
 
     if PENDING_FILE is not None:
-        high_confidence_all = [j for j in new_jobs if j.get('confident') == True]
-        pending = [build_entry(j) for j in high_confidence_all]
+        pending = [build_entry(j) for j in to_list]
         PENDING_FILE.parent.mkdir(parents=True, exist_ok=True)
         with open(PENDING_FILE, 'w') as f:
             json.dump(pending, f, indent=2)
@@ -1428,18 +1459,13 @@ def main():
                 time.sleep(0.3)
 
         listings_file = Path('listings.json')
-        token = os.environ.get('GITHUB_TOKEN')
-        repo = os.environ.get('GITHUB_REPOSITORY')
-
-        high_confidence = [j for j in new_jobs if j.get('confident') == True]
-        low_confidence = [j for j in new_jobs if j.get('confident') != True]
 
         if PENDING_FILE is None:
-            for job in high_confidence:
+            for job in to_list:
                 add_job_directly(job, listings_file, rebuild=False)
                 time.sleep(0.5)
 
-            if high_confidence:
+            if to_list:
                 result = subprocess.run(
                     ['python3', '.github/scripts/rebuild_readme.py'],
                     capture_output=True,
@@ -1448,20 +1474,7 @@ def main():
                 if result.returncode != 0:
                     print(f'  [direct] rebuild_readme.py failed: {result.stderr[:200]}')
                 else:
-                    print(f'  [direct] README rebuilt ({len(high_confidence)} job(s) added)')
-
-        if low_confidence:
-            if not token or not repo:
-                print('ERROR: GITHUB_TOKEN or GITHUB_REPOSITORY not set')
-                for job in low_confidence:
-                    print(f'  - {job["company"]}: {job["title"]} | {job["location"]} | {job["url"]}')
-            else:
-                for job in low_confidence:
-                    try:
-                        create_github_issue(job, token, repo)
-                    except Exception as e:
-                        print(f'  [issue] Failed to create issue for "{job["title"]}": {e}')
-                    time.sleep(1)
+                    print(f'  [direct] README rebuilt ({len(to_list)} job(s) added)')
 
     save_seen_jobs(seen)
     save_title_cache()
