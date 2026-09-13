@@ -52064,5 +52064,15 @@
     "t": false,
     "c": "low",
     "a": 0
+  },
+  "materials intern (winter/spring 2027)": {
+    "t": false,
+    "c": "high",
+    "a": 1
+  },
+  "print process intern (winter/spring 2027)": {
+    "t": false,
+    "c": "high",
+    "a": 1
   }
 }
