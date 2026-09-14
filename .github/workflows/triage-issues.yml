@@ -1,0 +1,50 @@
+name: Triage Listing Issues
+
+on:
+  schedule:
+    - cron: '30 * * * *'
+  issues:
+    types: [opened, labeled]
+  workflow_dispatch:
+
+concurrency:
+  group: issue-triage
+  cancel-in-progress: false
+
+jobs:
+  triage:
+    if: >
+      github.event_name != 'issues' ||
+      contains(github.event.issue.labels.*.name, 'new listing')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.REPO_PAT }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests anthropic
+      - name: Configure git
+        run: |
+          git config user.name "Aprameya Kannan"
+          git config user.email "aprameyakannan@gmail.com"
+      - name: Claude triage open listing issues
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.REPO_PAT }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python .github/scripts/triage_issues.py
+      - name: Push any listing commits
+        run: |
+          if [ -n "$(git log origin/main..HEAD --oneline 2>/dev/null)" ]; then
+            for i in 1 2 3 4 5; do
+              git pull --rebase -X ours && git push && break
+              sleep $((i*5))
+            done
+          else
+            echo "No new commits to push"
+          fi

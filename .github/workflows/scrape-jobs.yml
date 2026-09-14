@@ -14,6 +14,10 @@ concurrency:
   group: readme-updates
   cancel-in-progress: false
 
+env:
+  CLAUDE_MAX_CALLS_PER_RUN: '48'
+  CLAUDE_MAX_CALLS_PER_DAY: '300'
+
 jobs:
   scrape-greenhouse:
     if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'greenhouse' }}
@@ -39,7 +43,7 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs_greenhouse.json .github/data/title_classifications.json .github/data/claude_usage.json .github/data/followed_companies.json .github/data/pending_greenhouse.json
+          git add .github/data/seen_jobs_greenhouse.json .github/data/title_classifications.json .github/data/claude_usage_greenhouse.json .github/data/followed_companies.json .github/data/pending_greenhouse.json
           if ! git diff --staged --quiet; then
             git commit -m "scraper data: greenhouse"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
@@ -69,7 +73,7 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs_ashby.json .github/data/title_classifications.json .github/data/claude_usage.json .github/data/pending_ashby.json
+          git add .github/data/seen_jobs_ashby.json .github/data/title_classifications.json .github/data/claude_usage_ashby.json .github/data/pending_ashby.json
           if ! git diff --staged --quiet; then
             git commit -m "scraper data: ashby"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
@@ -99,7 +103,7 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs_workday.json .github/data/title_classifications.json .github/data/claude_usage.json .github/data/pending_workday.json
+          git add .github/data/seen_jobs_workday.json .github/data/title_classifications.json .github/data/claude_usage_workday.json .github/data/pending_workday.json
           if ! git diff --staged --quiet; then
             git commit -m "scraper data: workday"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
@@ -130,7 +134,7 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs_linkedin_amazon.json .github/data/title_classifications.json .github/data/claude_usage.json .github/data/pending_linkedin_amazon.json
+          git add .github/data/seen_jobs_linkedin_amazon.json .github/data/title_classifications.json .github/data/claude_usage_linkedin_amazon.json .github/data/pending_linkedin_amazon.json
           if ! git diff --staged --quiet; then
             git commit -m "scraper data: linkedin_amazon"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
@@ -160,7 +164,7 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs_other.json .github/data/title_classifications.json .github/data/claude_usage.json .github/data/pending_other.json
+          git add .github/data/seen_jobs_other.json .github/data/title_classifications.json .github/data/claude_usage_other.json .github/data/pending_other.json
           if ! git diff --staged --quiet; then
             git commit -m "scraper data: other"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done

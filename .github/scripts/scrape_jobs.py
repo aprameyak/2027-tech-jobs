@@ -27,13 +27,18 @@ _seen_jobs_filename = f'seen_jobs_{BOARD_GROUP}.json' if BOARD_GROUP else 'seen_
 SEEN_JOBS_FILE = Path(f'.github/data/{_seen_jobs_filename}')
 PENDING_FILE = Path(f'.github/data/pending_{BOARD_GROUP}.json') if BOARD_GROUP else None
 TITLE_CACHE_FILE = Path('.github/data/title_classifications.json')
-CLAUDE_USAGE_FILE = Path('.github/data/claude_usage.json')
+# Per board-group usage files avoid parallel GHA jobs overwriting one shared counter.
+CLAUDE_USAGE_FILE = (
+    Path(f'.github/data/claude_usage_{BOARD_GROUP}.json')
+    if BOARD_GROUP else Path('.github/data/claude_usage.json')
+)
 FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
 
 CLAUDE_MODEL = 'claude-haiku-4-5-20251001'
 CLAUDE_BATCH_SIZE = 64
-CLAUDE_MAX_CALLS_PER_RUN = int(os.environ.get('CLAUDE_MAX_CALLS_PER_RUN', '24'))
-CLAUDE_MAX_CALLS_PER_DAY = int(os.environ.get('CLAUDE_MAX_CALLS_PER_DAY', '120'))
+# Parallel board-group jobs share one daily budget; keep headroom for hourly runs.
+CLAUDE_MAX_CALLS_PER_RUN = int(os.environ.get('CLAUDE_MAX_CALLS_PER_RUN', '48'))
+CLAUDE_MAX_CALLS_PER_DAY = int(os.environ.get('CLAUDE_MAX_CALLS_PER_DAY', '300'))
 TITLE_PROMPT_MAX_LEN = 100
 
 MAX_WORKDAY_PAGES_PER_TERM = 15
@@ -113,6 +118,8 @@ HIGH_CONFIDENCE_TECH_SIGNALS = [
     'technology intern', 'technology associate', 'technology analyst',
     'engineering development program', 'software engineering intern',
     'software engineer intern', 'developer intern', 'data intern',
+    'associate software', 'software engineering, associate', 'software engineer, associate',
+    'new grad', 'early career', 'university graduate',
 ]
 
 HARD_REJECT_SIGNALS = [
@@ -304,27 +311,48 @@ def save_title_cache():
         except Exception as e:
             print(f'  [Cache] Failed to save title cache: {e}')
 
+def _read_usage_calls(path, today):
+    try:
+        if not path.exists():
+            return 0
+        with open(path) as f:
+            data = json.load(f)
+        if isinstance(data, dict) and data.get('date') == today:
+            return int(data.get('calls', 0))
+    except Exception:
+        return 0
+    return 0
+
+
+def _total_claude_calls_today(today=None):
+    """Sum today's calls across all board-group usage files (and legacy shared file)."""
+    today = today or datetime.now().strftime('%Y-%m-%d')
+    data_dir = Path('.github/data')
+    total = 0
+    seen_paths = set()
+    for path in [CLAUDE_USAGE_FILE, *sorted(data_dir.glob('claude_usage*.json'))]:
+        resolved = str(path.resolve()) if path.exists() else str(path)
+        if resolved in seen_paths:
+            continue
+        seen_paths.add(resolved)
+        total += _read_usage_calls(path, today)
+    return total
+
+
 def load_claude_usage():
     global _claude_calls_today, _claude_usage_date
     today = datetime.now().strftime('%Y-%m-%d')
-    try:
-        if CLAUDE_USAGE_FILE.exists():
-            with open(CLAUDE_USAGE_FILE) as f:
-                data = json.load(f)
-            if isinstance(data, dict) and data.get('date') == today:
-                _claude_calls_today = int(data.get('calls', 0))
-                _claude_usage_date = today
-                return
-    except Exception as e:
-        print(f'  [Claude] Failed to load usage file: {e} — starting fresh')
-    _claude_calls_today = 0
     _claude_usage_date = today
+    _claude_calls_today = _read_usage_calls(CLAUDE_USAGE_FILE, today)
+
 
 def save_claude_usage():
     try:
         CLAUDE_USAGE_FILE.parent.mkdir(parents=True, exist_ok=True)
+        payload = {'date': _claude_usage_date or datetime.now().strftime('%Y-%m-%d'),
+                   'calls': _claude_calls_today}
         with open(CLAUDE_USAGE_FILE, 'w') as f:
-            json.dump({'date': _claude_usage_date, 'calls': _claude_calls_today}, f)
+            json.dump(payload, f)
     except Exception as e:
         print(f'  [Claude] Failed to save usage file: {e}')
 
@@ -332,8 +360,11 @@ _claude_calls_this_run = 0
 
 
 def _claude_budget_ok():
-    if _claude_calls_today >= CLAUDE_MAX_CALLS_PER_DAY:
-        print(f'  [Claude] Daily cap reached ({CLAUDE_MAX_CALLS_PER_DAY}) — using keywords only')
+    # Re-read this group's counter; daily budget = sum across all board groups.
+    load_claude_usage()
+    today_total = _total_claude_calls_today()
+    if today_total >= CLAUDE_MAX_CALLS_PER_DAY:
+        print(f'  [Claude] Daily cap reached ({today_total}/{CLAUDE_MAX_CALLS_PER_DAY}) — using keywords only')
         return False
     if _claude_calls_this_run >= CLAUDE_MAX_CALLS_PER_RUN:
         print(f'  [Claude] Run cap reached ({CLAUDE_MAX_CALLS_PER_RUN}) — using keywords only')
@@ -343,8 +374,10 @@ def _claude_budget_ok():
 
 def _record_claude_call():
     global _claude_calls_today, _claude_calls_this_run
+    load_claude_usage()
     _claude_calls_today += 1
     _claude_calls_this_run += 1
+    save_claude_usage()
 
 
 def _normalize_claude_row(row):
@@ -378,9 +411,13 @@ def batch_classify_with_claude(titles):
     )
     n = len(titles)
     prompt = (
-        f'US/Canada CS intern/newgrad board. JSON array len {n}, same order.\n'
-        'Each item: {{"t":0|1,"c":"h"|"m"|"l","a":0|1}} — t=tech role, c=confidence, '
-        'a=1 only for entry-level intern/co-op/new-grad (not senior/staff/finance/HR/mfg/process/chem/embedded/firmware/support).\n'
+        f'US/Canada CS intern + new-grad board. Return JSON array length {n}, same order.\n'
+        'Each item: {"t":0|1,"c":"h"|"m"|"l","a":0|1}\n'
+        '- t=1 if software/data/ML/quant/PM/cyber/DevOps/tech role\n'
+        '- c=confidence high/medium/low\n'
+        '- a=1 only if entry-level campus fit (intern, co-op, new grad, early career, '
+        'associate SWE/data without senior/staff/lead/principal). a=0 for senior, '
+        'finance-only, HR, manufacturing, process, chem, embedded/firmware, IT helpdesk.\n'
         f'{numbered}\nJSON only.'
     )
 
@@ -659,6 +696,16 @@ def infer_listing_type(title):
     ]):
         return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
 
+    # "Software Engineering, Associate" / "Associate Software Engineer" (not intern)
+    if not re.search(r'\bintern(ship)?\b|\bco-?op\b', t):
+        if re.search(
+            r'\bassociate\b.*\b(software|data|security|platform|devops|sre|product)\b'
+            r'|\b(software|data|security|platform|devops|cyber)\b.*\bassociate\b'
+            r'|\bjunior\b.*\b(software|engineer|developer|data)\b',
+            t,
+        ):
+            return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
+
     if re.search(r'\bgraduate (quantitative|software|trader|developer|engineer|researcher)\b', t):
         if not re.search(r'\bintern(ship)?\b', t):
             return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
@@ -719,7 +766,11 @@ def batch_decide_add_jobs(jobs):
             for j in range(len(batch))
         )
         prompt = (
-            f'JSON array len {len(batch)}: {{"a":0|1}} — 1=list on CS intern/newgrad board, 0=skip.\n'
+            f'Return JSON array length {len(batch)}, same order. Each {{"a":0|1}}.\n'
+            'a=1 to list on a US/Canada CS intern/new-grad board; a=0 to skip.\n'
+            'Approve: internships, co-ops, new-grad/early-career/associate software-data-ML-quant-PM-cyber.\n'
+            'Reject: senior/staff/lead/principal, non-tech, hardware/manufacturing/process, '
+            'embedded/firmware, pure IT support.\n'
             f'{lines}\nJSON only.'
         )
         try:
@@ -748,8 +799,16 @@ def batch_decide_add_jobs(jobs):
 
 
 def is_auto_addable(title):
-    """Return False for titles that should not be auto-added without manual review."""
+    """Return True when a title is safe to auto-list without a second Claude pass."""
     t = title.lower()
+
+    # Non-entry-level seniority — leave to Claude / skip.
+    # "leadership" programs are OK; bare "lead"/"tech lead" are not.
+    if re.search(r'\b(senior|staff|principal|director)\b', t) and 'intern' not in t:
+        return False
+    if re.search(r'\blead\b', t) and 'intern' not in t and 'leadership' not in t:
+        return False
+
     listing_type, season = infer_listing_type(title)
 
     if listing_type == 'New Grad (Full-Time)':
@@ -765,16 +824,10 @@ def is_auto_addable(title):
     ):
         return True
 
-    if re.search(r'research scientist', t):
-        return False
-    if re.search(r'\bgraduate (quantitative|software|trader|developer|engineer|researcher)\b', t):
-        return False
-    if any(kw in t for kw in ['new grad', 'new-grad', 'entry level', 'entry-level', 'early career']):
-        return False
-    if re.search(r'\bassociate\b|\bfull[- ]time\b', t) and 'intern' not in t:
+    if re.search(r'research scientist', t) and 'intern' not in t and 'early career' not in t:
         return False
 
-    return True
+    return False
 
 def table_for_listing(listing_type, season):
     if listing_type == 'New Grad (Full-Time)':
@@ -797,6 +850,13 @@ def build_entry(job):
     education = infer_education_level(job['title'])
     location = normalize_location(job.get('location', ''))
     table = table_for_listing(listing_type, season)
+    title_l = job['title'].lower()
+    citizenship = 'Unknown'
+    if any(k in title_l for k in (
+        'ts/sci', 'top secret', 'u.s. citizen', 'us citizen', 'us citizenship',
+        'security clearance', 'with poly', 'w/poly', 'w poly',
+    )):
+        citizenship = 'Yes — U.S. citizenship required'
     entry = {
         'company': job['company'],
         'role': job['title'],
@@ -806,11 +866,12 @@ def build_entry(job):
         'education': education,
         'url': job['url'],
         'sponsorship': 'Unknown',
-        'citizenship': 'Unknown',
+        'citizenship': citizenship,
         'date_added': datetime.now().strftime('%Y-%m-%d'),
     }
     if table == 'newgrad':
         entry['grad_date'] = infer_grad_date(entry['role'], entry['url'])
+    # Prefer Claude-provided add decision already applied upstream.
     return entry
 
 def add_job_directly(job, listings_file, rebuild=True):
@@ -1809,9 +1870,11 @@ def main():
             print(f'  [classify] Error on "{job["title"]}": {e} — skipping')
             continue
         if is_tech:
-            seen.add(job['id'])
             new_jobs.append(job)
             print(f'  NEW: {job["title"]} @ {job["location"]}')
+        elif confident:
+            # High-confidence non-tech: do not resurface next run.
+            seen.add(job['id'])
 
     print(f'\nFound {len(new_jobs)} new tech job(s)')
 
@@ -1830,6 +1893,9 @@ def main():
             if _add_cache[tl]:
                 to_list.append(j)
                 to_list_ids.add(j['id'])
+            else:
+                # Explicit prior reject — remember so we don't loop forever.
+                seen.add(j['id'])
             continue
         borderline.append(j)
 
@@ -1837,15 +1903,22 @@ def main():
         print(f'  [Claude] Reviewing {len(borderline)} undecided job(s)...')
         add_decisions = batch_decide_add_jobs(borderline)
         for idx, job in enumerate(borderline):
-            approved = add_decisions.get(idx, False)
+            if idx not in add_decisions:
+                # No Claude decision (budget/error) — leave unseen for retry.
+                print(f'  DEFER: {job["company"]} — {job["title"][:60]}')
+                continue
+            approved = add_decisions[idx]
             tl = job['title'].lower()
             _add_cache[tl] = approved
+            seen.add(job['id'])
             if approved:
                 to_list.append(job)
+                to_list_ids.add(job['id'])
                 print(f'  LIST: {job["company"]} — {job["title"][:60]}')
             else:
                 print(f'  SKIP: {job["company"]} — {job["title"][:60]}')
 
+    # Auto-listed jobs are consumed; mark seen only once pending/direct write succeeds below.
     print(f'  Adding {len(to_list)} job(s) to pending')
 
     if PENDING_FILE is not None:
@@ -1858,6 +1931,7 @@ def main():
                 print(f'    {violations[0][2]}')
                 continue
             pending.append(entry)
+            seen.add(j['id'])
         PENDING_FILE.parent.mkdir(parents=True, exist_ok=True)
         with open(PENDING_FILE, 'w') as f:
             json.dump(pending, f, indent=2)
@@ -1876,6 +1950,7 @@ def main():
         if PENDING_FILE is None:
             for job in to_list:
                 add_job_directly(job, listings_file, rebuild=False)
+                seen.add(job['id'])
                 time.sleep(0.5)
 
             if to_list:
@@ -1893,7 +1968,9 @@ def main():
     save_title_cache()
     save_claude_usage()
     print(f'Board group: {BOARD_GROUP or "all"} | Claude: {_claude_calls_this_run} this run, '
-          f'{_claude_calls_today} today (caps {CLAUDE_MAX_CALLS_PER_RUN}/{CLAUDE_MAX_CALLS_PER_DAY})')
+          f'{_claude_calls_today} in {CLAUDE_USAGE_FILE.name}, '
+          f'{_total_claude_calls_today()} today all groups '
+          f'(caps {CLAUDE_MAX_CALLS_PER_RUN}/{CLAUDE_MAX_CALLS_PER_DAY})')
     print('Done')
 
 if __name__ == '__main__':
