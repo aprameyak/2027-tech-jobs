@@ -76,11 +76,9 @@ def format_date(date_added):
 def apply_btn(url):
     if not url:
         return '🔒'
-    return (
-        f'<a href="{url}" target="_blank" rel="noopener noreferrer">'
-        f'<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">'
-        f'</a>'
-    )
+    # Markdown links keep table files under GitHub's ~512KB render limit and are
+    # more accessible than the old Apply image button.
+    return f'[Apply]({url})'
 
 
 def format_row(entry, company_col):
@@ -181,12 +179,14 @@ def update_readme_index(summer_n, offcycle_n, newgrad_n):
     )
 
     toc = (
+        f'**Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)\n\n'
         f'- [☀️ Summer 2027 Internships](./SUMMER.md) ({summer_n})\n'
         f'- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) ({offcycle_n})\n'
         f'- [🎓 New Grad 2027](./NEWGRAD.md) ({newgrad_n})\n'
     )
 
     toc_pattern = re.compile(
+        r'(?:\*\*Browse the searchable site:\*\* \[aprameyak-jobs\.vercel\.app\]\([^)]+\)\n\n)?'
         r'- \[☀️ Summer 2027 Internships\]\([^)]+\)(?:\s*\(\d+\))?\n'
         r'- \[🔄 Off-Cycle Internships & Co-ops\]\([^)]+\)(?:\s*\(\d+\))?\n'
         r'- \[🎓 New Grad 2027\]\([^)]+\)(?:\s*\(\d+\))?\n'

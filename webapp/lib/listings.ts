@@ -66,7 +66,7 @@ function formatDate(dateAdded: string): string {
 export function getListings(): Listing[] {
   const listingsPath =
     process.env.LISTINGS_PATH ||
-    path.resolve(process.cwd(), '..', 'listings.json');
+    path.join(/* turbopackIgnore: true */ process.cwd(), '..', 'listings.json');
   const raw = fs.readFileSync(listingsPath, 'utf-8');
   return JSON.parse(raw) as Listing[];
 }

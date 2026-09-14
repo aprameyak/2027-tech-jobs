@@ -13,4 +13,27 @@
     scrollbar-width: thin;
     scrollbar-color: #cbd5e1 transparent;
   }
+
+  .skip-link {
+    @apply sr-only;
+  }
+
+  .skip-link:focus {
+    position: absolute;
+    left: 1rem;
+    top: 1rem;
+    z-index: 50;
+    width: auto;
+    height: auto;
+    margin: 0;
+    padding: 0.5rem 0.75rem;
+    overflow: visible;
+    clip: auto;
+    white-space: normal;
+    border-radius: 0.25rem;
+    background: #fff;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+  }
 }

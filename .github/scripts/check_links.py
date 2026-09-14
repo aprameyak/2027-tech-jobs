@@ -143,7 +143,10 @@ HEADERS = {
 }
 
 APPLY_BTN_PATTERN = re.compile(
+    r'(?:'
     r'<a href="([^"]+)"[^>]*><img src="https://i\.imgur\.com/u1KNU8z\.png" width="118" alt="Apply"></a>'
+    r'|\[Apply\]\(([^)]+)\)'
+    r')'
 )
 
 WD_BARE = re.compile(r'^(https://([^.]+)\.(wd\d+)\.myworkdayjobs\.com)/job/')
