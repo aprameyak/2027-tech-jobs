@@ -4937,7 +4937,8 @@
   },
   "senior research scientist": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "senior research scientist ": {
     "t": true,
@@ -29614,7 +29615,8 @@
   },
   "research scientist 5/6 \u2013 ai for member systems": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "data engineer (l5)": {
     "t": true,
