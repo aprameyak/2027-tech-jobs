@@ -128,7 +128,7 @@ def save_listings(listings):
         json.dump(listings, f, indent=2)
 
 def normalize_location(location):
-    """Normalize issue-form locations to City, ST / City, Province."""
+                                                                      
     if not location:
         return location
     US = {

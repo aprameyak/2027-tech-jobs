@@ -37,7 +37,6 @@ def normalize_url(url):
     except Exception:
         return url
 
-
 def with_aprameyak_utm(url):
     if not url:
         return url
@@ -122,7 +121,7 @@ _COUNTRY_SUFFIX = re.compile(
 _CANADA_SUFFIX = re.compile(r',?\s*Canada\s*$', re.I)
 
 def _normalize_one_location(loc):
-    """Normalize a single location string to City, ST format."""
+                                                                
     loc = loc.strip()
     if re.match(r'^(USA|United States of America|United States)$', loc, re.I):
         return 'Remote (US)'

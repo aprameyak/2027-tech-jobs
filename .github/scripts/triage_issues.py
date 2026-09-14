@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""
-Claude-assisted triage for open listing issues.
-
-Approves clear in-scope US/Canada 2027 roles (adds via add_listing.py),
-rejects out-of-scope issues, and leaves ambiguous ones untouched.
-"""
+\
+\
+\
+\
+\
+   
 
 from __future__ import annotations
 
@@ -29,14 +29,12 @@ STRIP_PARAMS = {
     'source', 'src', 'ref', 'referer', 'lever-source', 'lever-origin', 'gh_src',
 }
 
-
 def gh_headers():
     return {
         'Authorization': f'Bearer {TOKEN}',
         'Accept': 'application/vnd.github+json',
         'X-GitHub-Api-Version': '2022-11-28',
     }
-
 
 def _is_listing_issue(issue: dict) -> bool:
     labels = {lbl.get('name', '').lower() for lbl in (issue.get('labels') or [])}
@@ -45,9 +43,8 @@ def _is_listing_issue(issue: dict) -> bool:
     body = issue.get('body') or ''
     return '### Company Name' in body and '### Direct Application Link' in body
 
-
 def list_open_listing_issues():
-    """All open issues that look like listing submissions (label optional)."""
+                                                                              
     issues = []
     page = 1
     while True:
@@ -75,7 +72,6 @@ def list_open_listing_issues():
         page += 1
     return issues
 
-
 def parse_issue_fields(body: str) -> dict:
     fields = {}
     for section in re.split(r'^### ', body or '', flags=re.M):
@@ -88,7 +84,6 @@ def parse_issue_fields(body: str) -> dict:
             value = ''
         fields[key] = value
     return fields
-
 
 def normalize_url(url: str) -> str:
     if not url:
@@ -119,7 +114,6 @@ def normalize_url(url: str) -> str:
     except Exception:
         return url
 
-
 def existing_urls():
     listings = json.loads(Path('listings.json').read_text())
     out = set()
@@ -127,7 +121,6 @@ def existing_urls():
         u = (e.get('url') or '').split('?')[0].rstrip('/').lower()
         out.add(u)
     return out
-
 
 def claude_decide(issue: dict, fields: dict) -> dict:
     api_key = os.environ.get('ANTHROPIC_API_KEY')
@@ -159,7 +152,6 @@ def claude_decide(issue: dict, fields: dict) -> dict:
     text = re.sub(r'\s*```$', '', text)
     return json.loads(text)
 
-
 def comment(issue_number: int, body: str):
     requests.post(
         f'{API}/repos/{REPO}/issues/{issue_number}/comments',
@@ -168,7 +160,6 @@ def comment(issue_number: int, body: str):
         timeout=30,
     )
 
-
 def close_issue(issue_number: int):
     requests.patch(
         f'{API}/repos/{REPO}/issues/{issue_number}',
@@ -176,7 +167,6 @@ def close_issue(issue_number: int):
         json={'state': 'closed'},
         timeout=30,
     )
-
 
 def add_via_script(decision: dict, url: str) -> bool:
     body = f'''### Company Name
@@ -231,7 +221,6 @@ Auto-triaged by Claude.
         return False
     return 'Successfully' in (result.stdout or '')
 
-
 def main():
     if not TOKEN or not REPO:
         print('GITHUB_TOKEN/REPO_PAT and GITHUB_REPOSITORY required')
@@ -285,7 +274,7 @@ def main():
             skipped += 1
             continue
 
-        # Prefer structured issue fields when present.
+                                                      
         for key, field in (
             ('company', 'Company Name'),
             ('role', 'Role / Job Title'),
@@ -319,7 +308,6 @@ def main():
             skipped += 1
 
     print(f'\nDone. added={added} rejected={rejected} skipped={skipped}')
-
 
 if __name__ == '__main__':
     main()

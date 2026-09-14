@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""
-Merge all pending_{group}.json discovery files into listings.json and rebuild README.
-Called by the apply job after all board-group scrape jobs finish.
-"""
+\
+\
+\
+   
 
 import json
 import re
@@ -23,7 +23,6 @@ _UTM_STRIP = {
     'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'utm_id',
     'source', 'src', 'ref', 'referer', 'lever-source', 'lever-origin', 'gh_src',
 }
-
 
 def _with_aprameyak_utm(url):
     if not url:
@@ -53,7 +52,6 @@ def _with_aprameyak_utm(url):
         ))
     except Exception:
         return url
-
 
 def _norm_url(u):
     if not u:

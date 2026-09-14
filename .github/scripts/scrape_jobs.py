@@ -28,7 +28,7 @@ _seen_jobs_filename = f'seen_jobs_{BOARD_GROUP}.json' if BOARD_GROUP else 'seen_
 SEEN_JOBS_FILE = Path(f'.github/data/{_seen_jobs_filename}')
 PENDING_FILE = Path(f'.github/data/pending_{BOARD_GROUP}.json') if BOARD_GROUP else None
 TITLE_CACHE_FILE = Path('.github/data/title_classifications.json')
-# Per board-group usage files avoid parallel GHA jobs overwriting one shared counter.
+                                                                                     
 CLAUDE_USAGE_FILE = (
     Path(f'.github/data/claude_usage_{BOARD_GROUP}.json')
     if BOARD_GROUP else Path('.github/data/claude_usage.json')
@@ -36,7 +36,7 @@ CLAUDE_USAGE_FILE = (
 FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
 
 CLAUDE_MODEL = 'claude-haiku-4-5-20251001'
-# Larger batches = fewer API round-trips; Haiku handles ~100 compact title rows well.
+                                                                                     
 CLAUDE_BATCH_SIZE = 100
 TITLE_PROMPT_MAX_LEN = 90
 _claude_client = None
@@ -104,7 +104,7 @@ TECH_KEYWORDS = [
     'information technology', 'business analyst', 'business technology',
 ]
 
-# Titles containing any of these phrases are unambiguously tech — skip Claude, auto-approve at high confidence
+                                                                                                              
 HIGH_CONFIDENCE_TECH_SIGNALS = [
     'software engineer', 'software developer', 'software development',
     'data engineer', 'data scientist', 'data analyst', 'data science',
@@ -231,12 +231,12 @@ def normalize_location(location):
             if abbr:
                 return f'{city}, {abbr}'
 
-        # iCIMS style: US-VA-Herndon
+                                    
         m = re.match(r'^US-([A-Z]{2})-(.+)$', part, re.I)
         if m:
             return f'{m.group(2).strip()}, {m.group(1).upper()}'
 
-        # Workday style: US-VA Arlington or US-VA Richmond - CoStar Tower
+                                                                         
         m = re.match(r'^US-([A-Z]{2})\s+(.+)$', part, re.I)
         if m:
             city = re.split(r'\s+-\s+', m.group(2).strip(), maxsplit=1)[0].strip()
@@ -323,9 +323,8 @@ def _read_usage_calls(path, today):
         return 0
     return 0
 
-
 def _total_claude_calls_today(today=None):
-    """Sum today's calls across all board-group usage files (and legacy shared file)."""
+                                                                                        
     today = today or datetime.now().strftime('%Y-%m-%d')
     data_dir = Path('.github/data')
     total = 0
@@ -338,13 +337,11 @@ def _total_claude_calls_today(today=None):
         total += _read_usage_calls(path, today)
     return total
 
-
 def load_claude_usage():
     global _claude_calls_today, _claude_usage_date
     today = datetime.now().strftime('%Y-%m-%d')
     _claude_usage_date = today
     _claude_calls_today = _read_usage_calls(CLAUDE_USAGE_FILE, today)
-
 
 def save_claude_usage():
     try:
@@ -358,9 +355,8 @@ def save_claude_usage():
 
 _claude_calls_this_run = 0
 
-
 def _get_claude_client():
-    """Reuse one Anthropic client per process (avoids repeated setup overhead)."""
+                                                                                  
     global _claude_client
     api_key = os.environ.get('ANTHROPIC_API_KEY')
     if not api_key:
@@ -369,18 +365,16 @@ def _get_claude_client():
         _claude_client = anthropic.Anthropic(api_key=api_key)
     return _claude_client
 
-
 def _record_claude_call():
-    """Telemetry only — no hard caps; efficiency comes from cache + batching."""
+                                                                                
     global _claude_calls_today, _claude_calls_this_run
     load_claude_usage()
     _claude_calls_today += 1
     _claude_calls_this_run += 1
     save_claude_usage()
 
-
 def _normalize_claude_row(row):
-    """Map compact t/c/a or legacy is_tech/confidence/a to a uniform dict."""
+                                                                             
     if not isinstance(row, dict):
         return None
     if 't' in row or 'c' in row:
@@ -396,7 +390,6 @@ def _normalize_claude_row(row):
         'confidence': row.get('confidence', 'medium'),
         'a': int(row.get('a', 0)) if 'a' in row else None,
     }
-
 
 def batch_classify_with_claude(titles):
     client = _get_claude_client()
@@ -434,7 +427,7 @@ def batch_classify_with_claude(titles):
             if not isinstance(raw, list) or len(raw) != n:
                 print(f'  [Claude] Expected {n} results, got '
                       f'{len(raw) if isinstance(raw, list) else type(raw).__name__}')
-                # Halve batch on size mismatch (too large for reliable JSON)
+                                                                            
                 if n > 20 and attempt < 3:
                     mid = n // 2
                     out = {}
@@ -648,7 +641,7 @@ def is_us_location(location):
     if not location or location.strip() == '':
         return False
 
-    # Normalize Workday/iCIMS location codes before checks
+                                                          
     location = normalize_location(location)
     loc = location.lower()
 
@@ -675,7 +668,7 @@ OFFCYCLE_SEASONS = (
 )
 
 def infer_listing_type(title):
-    """Map a job title to (listing_type, season) per CLAUDE.md table rules."""
+                                                                              
     t = title.lower()
 
     if any(kw in t for kw in ['co-op', 'coop', 'co op']):
@@ -702,7 +695,7 @@ def infer_listing_type(title):
     ]):
         return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
 
-    # "Software Engineering, Associate" / "Associate Software Engineer" (not intern)
+                                                                                    
     if not re.search(r'\bintern(ship)?\b|\bco-?op\b', t):
         if re.search(
             r'\bassociate\b.*\b(software|data|security|platform|devops|sre|product)\b'
@@ -741,9 +734,8 @@ def _title_is_tech(title):
     is_tech, _ = classify_title(title)
     return is_tech
 
-
 def should_list_job(job):
-    """Whether a discovered job should be added to listings (no GitHub issues)."""
+                                                                                  
     title = job['title']
     tl = title.lower()
     if not _title_is_tech(title):
@@ -757,14 +749,13 @@ def should_list_job(job):
         return True
     return False
 
-
 def batch_decide_add_jobs(jobs):
-    """Second-pass only for titles still missing an add decision after classify."""
+                                                                                   
     client = _get_claude_client()
     if not client or not jobs:
         return {}
 
-    # Dedupe by title so identical borderline titles share one Claude decision.
+                                                                               
     unique_titles = []
     title_to_indices = {}
     for idx, job in enumerate(jobs):
@@ -832,13 +823,12 @@ def batch_decide_add_jobs(jobs):
             decisions[idx] = title_decisions[tl]
     return decisions
 
-
 def is_auto_addable(title):
-    """Return True when a title is safe to auto-list without a second Claude pass."""
+                                                                                     
     t = title.lower()
 
-    # Non-entry-level seniority — leave to Claude / skip.
-    # "leadership" programs are OK; bare "lead"/"tech lead" are not.
+                                                         
+                                                                    
     if re.search(r'\b(senior|staff|principal|director)\b', t) and 'intern' not in t:
         return False
     if re.search(r'\blead\b', t) and 'intern' not in t and 'leadership' not in t:
@@ -879,7 +869,6 @@ def infer_education_level(title):
         return 'Masters'
     return 'Undergrad'
 
-
 _UTM_HOST_MARKERS = (
     'greenhouse.io', 'lever.co', 'ashbyhq.com', 'myworkdayjobs.com', 'workdaysite.com',
 )
@@ -888,9 +877,8 @@ _UTM_STRIP = {
     'source', 'src', 'ref', 'referer', 'lever-source', 'lever-origin', 'gh_src',
 }
 
-
 def with_aprameyak_utm(url):
-    """Tag Greenhouse/Lever/Ashby/Workday apply links with utm_source=aprameyak."""
+                                                                                   
     if not url:
         return url
     try:
@@ -903,7 +891,7 @@ def with_aprameyak_utm(url):
             kl = k.lower()
             if kl in _UTM_STRIP:
                 continue
-            # Drop Greenhouse tracking junk like t=gh_src= / empty values
+                                                                         
             cleaned = [x for x in v if x not in ('', 'gh_src=', 'gh_src')]
             if kl == 't' and (not cleaned or all(str(x).startswith('gh_src') for x in cleaned)):
                 continue
@@ -918,9 +906,8 @@ def with_aprameyak_utm(url):
     except Exception:
         return url
 
-
 def build_entry(job):
-    """Build a listings.json entry dict from a scraped job."""
+                                                              
     listing_type, season = infer_listing_type(job['title'])
     education = infer_education_level(job['title'])
     location = normalize_location(job.get('location', ''))
@@ -946,7 +933,7 @@ def build_entry(job):
     }
     if table == 'newgrad':
         entry['grad_date'] = infer_grad_date(entry['role'], entry['url'])
-    # Prefer Claude-provided add decision already applied upstream.
+                                                                   
     return entry
 
 def add_job_directly(job, listings_file, rebuild=True):
@@ -1369,7 +1356,7 @@ def scrape_workday(company, tenant, instance, board):
     return jobs
 
 def _parse_icims_locations(raw):
-    """Convert iCIMS location strings like 'US-VA-Herndon | US-VA-Blacksburg'."""
+                                                                                 
     if not raw:
         return ''
     parts = []
@@ -1384,9 +1371,8 @@ def _parse_icims_locations(raw):
             parts.append(piece)
     return normalize_location('; '.join(parts))
 
-
 def scrape_icims(company, host, keywords=None):
-    """Scrape public iCIMS HTML search pages (no official JSON API)."""
+                                                                       
     keywords = keywords or ['2027', 'intern', 'new grad', 'early career', 'associate']
     jobs = []
     seen_ids = set()
@@ -1452,7 +1438,7 @@ def scrape_icims(company, host, keywords=None):
                     )
                     location = _parse_icims_locations(loc_m.group(1).strip() if loc_m else '')
                     if not location:
-                        # Fall back to trailing " - City, ST" in the title when present
+                                                                                       
                         tm = re.search(r'\s[-–—]\s+([A-Za-z .]+,\s*[A-Z]{2})\s*$', title)
                         if tm:
                             location = tm.group(1).strip()
@@ -1477,9 +1463,8 @@ def scrape_icims(company, host, keywords=None):
 
     return jobs
 
-
 def scrape_avature(company, portal, keywords=None):
-    """Scrape Avature public SearchJobs HTML pages."""
+                                                      
     keywords = keywords or ['2027', 'Internship', 'Graduate', 'Student', 'Early Career', 'Intern']
     jobs = []
     seen_ids = set()
@@ -1514,7 +1499,7 @@ def scrape_avature(company, portal, keywords=None):
                 seen_ids.add(job_id)
                 if not is_candidate_title(title):
                     continue
-                # Grab a window after this anchor for location text
+                                                                   
                 rest = html[m.end():m.end() + 900]
                 loc = ''
                 lm = re.search(
@@ -1562,7 +1547,6 @@ def scrape_avature(company, portal, keywords=None):
 
     return jobs
 
-
 def _clean_google_location(raw):
     if not raw:
         return ''
@@ -1573,9 +1557,8 @@ def _clean_google_location(raw):
     first = loc.split(';')[0].strip(' ;,')
     return normalize_location(first)
 
-
 def scrape_google_careers():
-    """Scrape Google Careers HTML search results (no public JSON API)."""
+                                                                         
     queries = [
         'Software Engineer Intern 2027',
         'early career 2027',
@@ -1661,7 +1644,6 @@ def scrape_google_careers():
                 break
 
     return jobs
-
 
 def scrape_linkedin_apify(company, company_id):
     apify_token = os.environ.get('APIFY_TOKEN')
@@ -1948,7 +1930,7 @@ def main():
             new_jobs.append(job)
             print(f'  NEW: {job["title"]} @ {job["location"]}')
         elif confident:
-            # High-confidence non-tech: do not resurface next run.
+                                                                  
             seen.add(job['id'])
 
     print(f'\nFound {len(new_jobs)} new tech job(s)')
@@ -1969,7 +1951,7 @@ def main():
                 to_list.append(j)
                 to_list_ids.add(j['id'])
             else:
-                # Explicit prior reject — remember so we don't loop forever.
+                                                                            
                 seen.add(j['id'])
             continue
         borderline.append(j)
@@ -1979,7 +1961,7 @@ def main():
         add_decisions = batch_decide_add_jobs(borderline)
         for idx, job in enumerate(borderline):
             if idx not in add_decisions:
-                # No Claude decision (budget/error) — leave unseen for retry.
+                                                                             
                 print(f'  DEFER: {job["company"]} — {job["title"][:60]}')
                 continue
             approved = add_decisions[idx]
@@ -1993,7 +1975,7 @@ def main():
             else:
                 print(f'  SKIP: {job["company"]} — {job["title"][:60]}')
 
-    # Auto-listed jobs are consumed; mark seen only once pending/direct write succeeds below.
+                                                                                             
     print(f'  Adding {len(to_list)} job(s) to pending')
 
     if PENDING_FILE is not None:

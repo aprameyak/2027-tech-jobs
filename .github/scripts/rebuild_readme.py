@@ -36,11 +36,9 @@ TABLE_HEADERS = {
     ),
 }
 
-
 def _company_sort_key(name):
     name = re.sub(r'[\U0001F000-\U0001FFFF\u2600-\u26FF\u2700-\u27BF]', '', name)
     return name.strip().lower()
-
 
 def format_company(entry):
     name = entry['company'].strip()
@@ -51,7 +49,6 @@ def format_company(entry):
     if 'yes —' in citizenship.lower():
         name += ' 🇺🇸'
     return name
-
 
 def format_location(location):
     location = location.strip()
@@ -64,7 +61,6 @@ def format_location(location):
     inner = '</br>'.join(parts)
     return f'<details><summary>**{len(parts)} locations**</summary>{inner}</details>'
 
-
 def format_date(date_added):
     try:
         dt = datetime.strptime(date_added, '%Y-%m-%d')
@@ -72,14 +68,12 @@ def format_date(date_added):
     except Exception:
         return date_added
 
-
 def apply_btn(url):
     if not url:
         return '🔒'
-    # Markdown links keep table files under GitHub's ~512KB render limit and are
-    # more accessible than the old Apply image button.
+                                                                                
+                                                      
     return f'[Apply]({url})'
-
 
 def format_row(entry, company_col):
     company = company_col
@@ -99,7 +93,6 @@ def format_row(entry, company_col):
         return f'| {company} | {role} | {location} | {grad_date} | {education} | {btn} | {date} |'
     else:
         return f'| {company} | {role} | {location} | {education} | {btn} | {date} |'
-
 
 def build_table(entries):
     def sort_key(e):
@@ -131,7 +124,6 @@ def build_table(entries):
 
     return rows
 
-
 def write_table_file(marker, rows, count):
     title = TABLE_TITLES[marker]
     header = TABLE_HEADERS[marker]
@@ -147,7 +139,6 @@ def write_table_file(marker, rows, count):
     )
     TABLE_FILES[marker].write_text(content, encoding='utf-8')
 
-
 def update_readme_index(summer_n, offcycle_n, newgrad_n):
     if not README_FILE.exists():
         print('ERROR: README.md not found')
@@ -155,7 +146,7 @@ def update_readme_index(summer_n, offcycle_n, newgrad_n):
 
     content = README_FILE.read_text(encoding='utf-8')
 
-    # Drop inlined tables if still present from older README layout.
+                                                                    
     content = re.sub(
         r'\n## ☀️ Summer 2027 Internships\n.*?<!-- TABLE_END summer -->\n',
         '\n',
@@ -194,7 +185,7 @@ def update_readme_index(summer_n, offcycle_n, newgrad_n):
     if toc_pattern.search(content):
         content = toc_pattern.sub(toc, content, count=1)
     else:
-        # Fallback: replace any old hash-anchor TOC block.
+                                                          
         old_toc = re.compile(
             r'- \[☀️ Summer 2027 Internships\]\(#.*?\)\n'
             r'- \[🔄 Off-Cycle Internships & Co-ops\]\(#.*?\)\n'
@@ -206,11 +197,10 @@ def update_readme_index(summer_n, offcycle_n, newgrad_n):
             print('ERROR: Could not find TOC links to update in README.md')
             sys.exit(1)
 
-    # Collapse excess blank lines / leftover horizontal rules left after table removal.
+                                                                                       
     content = re.sub(r'(?:\n---){2,}\n', '\n---\n', content)
     content = re.sub(r'\n{3,}', '\n\n', content)
     README_FILE.write_text(content, encoding='utf-8')
-
 
 def main():
     if not LISTINGS_FILE.exists():
@@ -235,7 +225,6 @@ def main():
     update_readme_index(len(summer), len(offcycle), len(newgrad))
 
     print('Rebuilt SUMMER.md, OFFCYCLE.md, NEWGRAD.md, and README.md index')
-
 
 if __name__ == '__main__':
     main()

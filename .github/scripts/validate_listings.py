@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""
-Validate listings.json against CLAUDE.md table classification rules.
-Exits 0 if clean, 1 if violations are found.
-"""
+\
+\
+\
+   
 
 import json
 import re
@@ -59,15 +59,15 @@ SENIOR_OK = re.compile(
     re.I,
 )
 NEWGRAD_IN_TITLE = re.compile(r'new grad|new-grad|entry', re.I)
-# RS_OK: a research scientist title is allowed in newgrad if it has one of these markers
-# OR if there is no senior indicator (senior/lead/principal will be caught by SENIOR_PATTERNS anyway)
+                                                                                        
+                                                                                                     
 RS_OK = re.compile(
     r'intern|new college grad|university grad|phd early career|new grad|\bgraduate\b|/ engineer|research scientist',
     re.I,
 )
 
 def mark_listing_closed(entry):
-    """Mark a listing closed. Only clears url — all other metadata is preserved."""
+                                                                                   
     entry['url'] = ''
 
 VALID_EDUCATION = {'Undergrad', 'Masters', 'PhD',
@@ -79,7 +79,7 @@ VALID_SPONSORSHIP_PREFIXES = ('unknown', 'no —', 'yes —')
 COMPANY_EMOJI = re.compile(r'[🛂🇺🇸]')
 
 def validate_metadata(entry):
-    """Return list of missing required fields."""
+                                                 
     required = ['company', 'role', 'location', 'type', 'season', 'education',
                 'sponsorship', 'citizenship', 'date_added']
     missing = []
@@ -89,7 +89,7 @@ def validate_metadata(entry):
     return missing
 
 def validate_field_values(entry):
-    """Return list of field value violations."""
+                                                
     violations = []
 
     edu = entry.get('education', '')
@@ -157,7 +157,7 @@ def validate_entry(entry):
     return [(company, role, v) for v in violations]
 
 def validate_duplicate_urls(listings):
-    """Flag duplicate live URLs."""
+                                   
     seen = {}
     violations = []
     for entry in listings:

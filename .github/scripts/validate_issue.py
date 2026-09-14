@@ -45,7 +45,7 @@ BARE_COUNTRY_RE = re.compile(r'^(us|usa|united states|canada)$', re.IGNORECASE)
 CITY_STATE_RE = re.compile(r'^.+,\s*([A-Z]{2})$')
 
 def validate_location(location):
-    """Returns list of error strings, empty if valid."""
+                                                        
     parts = [p.strip() for p in location.split(';') if p.strip()]
     if not parts:
         return ['location is empty']
