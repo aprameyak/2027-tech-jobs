@@ -13,9 +13,13 @@ concurrency:
 
 jobs:
   triage:
+    # Scheduled/manual: scan all open listing-shaped issues.
+    # On issue events: run for new listing / approved, or bodies with the listing form.
     if: >
       github.event_name != 'issues' ||
-      contains(github.event.issue.labels.*.name, 'new listing')
+      contains(github.event.issue.labels.*.name, 'new listing') ||
+      contains(github.event.issue.labels.*.name, 'approved') ||
+      contains(github.event.issue.body, '### Direct Application Link')
     runs-on: ubuntu-latest
     permissions:
       contents: write

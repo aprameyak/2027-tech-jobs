@@ -37,6 +37,31 @@ def normalize_url(url):
     except Exception:
         return url
 
+
+def with_aprameyak_utm(url):
+    if not url:
+        return url
+    try:
+        p = urlparse(url.strip())
+        host = (p.netloc or '').lower()
+        if not any(m in host for m in (
+            'greenhouse.io', 'lever.co', 'ashbyhq.com', 'myworkdayjobs.com', 'workdaysite.com',
+        )):
+            return url
+        params = {
+            k: v for k, v in parse_qs(p.query, keep_blank_values=True).items()
+            if k.lower() not in STRIP_PARAMS
+        }
+        params['utm_source'] = ['aprameyak']
+        return urlunparse(p._replace(
+            scheme=p.scheme.lower() or 'https',
+            netloc=p.netloc.lower(),
+            query=urlencode(sorted(params.items()), doseq=True),
+            fragment='',
+        ))
+    except Exception:
+        return url
+
 LISTINGS_FILE = Path('listings.json')
 TABLE_FILES = {
     'summer': Path('SUMMER.md'),
@@ -278,7 +303,7 @@ def main():
     row = format_row(fields, table_type)
     print(f'Formatted row: {row}')
 
-    apply_link = fields.get('Direct Application Link', '').strip()
+    apply_link = with_aprameyak_utm(fields.get('Direct Application Link', '').strip())
 
     listings = []
     if LISTINGS_FILE.exists():

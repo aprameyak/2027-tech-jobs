@@ -9,6 +9,7 @@ import re
 import subprocess
 import sys
 from pathlib import Path
+from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
 
 _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
@@ -17,6 +18,35 @@ from validate_listings import validate_entry
 
 LISTINGS_FILE = Path('listings.json')
 DATA_DIR = Path('.github/data')
+
+_UTM_STRIP = {
+    'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'utm_id',
+    'source', 'src', 'ref', 'referer', 'lever-source', 'lever-origin', 'gh_src',
+}
+
+
+def _with_aprameyak_utm(url):
+    if not url:
+        return url
+    try:
+        p = urlparse(url.strip())
+        host = (p.netloc or '').lower()
+        if not any(m in host for m in (
+            'greenhouse.io', 'lever.co', 'ashbyhq.com', 'myworkdayjobs.com', 'workdaysite.com',
+        )):
+            return url
+        params = {
+            k: v for k, v in parse_qs(p.query, keep_blank_values=True).items()
+            if k.lower() not in _UTM_STRIP
+        }
+        params['utm_source'] = ['aprameyak']
+        return urlunparse(p._replace(
+            query=urlencode(sorted(params.items()), doseq=True),
+            fragment='',
+        ))
+    except Exception:
+        return url
+
 
 def _norm_url(u):
     if not u:
@@ -61,6 +91,7 @@ def main():
                 print(f'  Skip (invalid): {entry.get("company")} — {entry.get("role", "")[:50]}')
                 print(f'    {violations[0][2]}')
                 continue
+            entry['url'] = _with_aprameyak_utm(entry.get('url', ''))
             if _norm_url(entry.get('url', '')) not in existing_urls:
                 listings.append(entry)
                 existing_urls.add(_norm_url(entry['url']))

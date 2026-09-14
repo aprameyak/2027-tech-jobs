@@ -38,7 +38,16 @@ def gh_headers():
     }
 
 
+def _is_listing_issue(issue: dict) -> bool:
+    labels = {lbl.get('name', '').lower() for lbl in (issue.get('labels') or [])}
+    if 'new listing' in labels or 'approved' in labels:
+        return True
+    body = issue.get('body') or ''
+    return '### Company Name' in body and '### Direct Application Link' in body
+
+
 def list_open_listing_issues():
+    """All open issues that look like listing submissions (label optional)."""
     issues = []
     page = 1
     while True:
@@ -49,7 +58,6 @@ def list_open_listing_issues():
                 'state': 'open',
                 'per_page': 50,
                 'page': page,
-                'labels': 'new listing',
             },
             timeout=30,
         )
@@ -59,7 +67,11 @@ def list_open_listing_issues():
         batch = resp.json()
         if not batch:
             break
-        issues.extend([i for i in batch if 'pull_request' not in i])
+        for issue in batch:
+            if 'pull_request' in issue:
+                continue
+            if _is_listing_issue(issue):
+                issues.append(issue)
         page += 1
     return issues
 

@@ -8,6 +8,7 @@ import time
 import html as _html
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
+from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
 import anthropic
 import requests
 import yaml
@@ -844,6 +845,38 @@ def infer_education_level(title):
         return 'Masters'
     return 'Undergrad'
 
+
+_UTM_HOST_MARKERS = (
+    'greenhouse.io', 'lever.co', 'ashbyhq.com', 'myworkdayjobs.com', 'workdaysite.com',
+)
+_UTM_STRIP = {
+    'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'utm_id',
+    'source', 'src', 'ref', 'referer', 'lever-source', 'lever-origin', 'gh_src',
+}
+
+
+def with_aprameyak_utm(url):
+    """Tag Greenhouse/Lever/Ashby/Workday apply links with utm_source=aprameyak."""
+    if not url:
+        return url
+    try:
+        p = urlparse(url.strip())
+        host = (p.netloc or '').lower()
+        if not any(m in host for m in _UTM_HOST_MARKERS):
+            return url
+        params = {
+            k: v for k, v in parse_qs(p.query, keep_blank_values=True).items()
+            if k.lower() not in _UTM_STRIP
+        }
+        params['utm_source'] = ['aprameyak']
+        return urlunparse(p._replace(
+            query=urlencode(sorted(params.items()), doseq=True),
+            fragment='',
+        ))
+    except Exception:
+        return url
+
+
 def build_entry(job):
     """Build a listings.json entry dict from a scraped job."""
     listing_type, season = infer_listing_type(job['title'])
@@ -864,7 +897,7 @@ def build_entry(job):
         'type': table,
         'season': season,
         'education': education,
-        'url': job['url'],
+        'url': with_aprameyak_utm(job['url']),
         'sponsorship': 'Unknown',
         'citizenship': citizenship,
         'date_added': datetime.now().strftime('%Y-%m-%d'),
@@ -889,7 +922,7 @@ def add_job_directly(job, listings_file, rebuild=True):
             'type': table,
             'season': season,
             'education': education,
-            'url': job['url'],
+            'url': with_aprameyak_utm(job['url']),
             'sponsorship': 'Unknown',
             'citizenship': 'Unknown',
             'date_added': datetime.now().strftime('%Y-%m-%d'),
