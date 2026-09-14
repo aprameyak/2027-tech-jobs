@@ -52217,5 +52217,30 @@
   "vendor management intern (summer 2027)": {
     "t": false,
     "c": "medium"
+  },
+  "software engineering intern - connected systems (january - august 2027)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "software engineering intern - vehicle controls (january - august 2027)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "software engineering intern - applications, infotainment & mobile (january - august 2027)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "materials associate (san antonio)": {
+    "t": false,
+    "c": "high",
+    "a": 0
+  },
+  "electromechanical design engineering intern (january - august 2027)": {
+    "t": false,
+    "c": "high",
+    "a": 1
   }
 }
