@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-2814 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2847 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
