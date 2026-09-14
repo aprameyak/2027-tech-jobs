@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Klaviyo | Software Engineer Co-op - Spring 2027 | Boston, MA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003?utm_source=aprameyak) | Sep 14 |
 | Peraton 🇺🇸 | Spring 2027 Co-Op Engineer | <details><summary>**2 locations**</summary>Herndon, VA</br>Blacksburg, VA</details> | Spring 2027 | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/170319/job?utm_source=aprameyak) | Sep 14 |
 | Robinhood | Software Developer Intern/Co-op, Backend (Winter 2027) | Toronto, Canada | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/robinhood/jobs/8194428?t=gh_src=&gh_jid=8194428) | Sep 14 |
 | Disney | Disneyland Cybersecurity Intern | Anaheim, CA, USA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Cybersecurity-Intern--Spring-2027_FOS-0000451207-2?utm_source=aprameyak) | Sep 11 |
