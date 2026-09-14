@@ -19,14 +19,15 @@ Thank you for helping keep this list accurate and up to date!
 
 ### Canonical source: `listings.json`
 
-All listings live in `listings.json`. The README tables are **always rebuilt** from that file — never edit table rows in the README directly.
+All listings live in `listings.json`. The job tables in `SUMMER.md`, `OFFCYCLE.md`, and `NEWGRAD.md` are **always rebuilt** from that file — never edit table rows in those files (or the README) directly.
 
-After editing `listings.json`, rebuild the README:
+After editing `listings.json`, rebuild the tables:
 
 ```bash
 python3 .github/scripts/rebuild_readme.py
 ```
 
+The README index links to those three files (GitHub truncates giant single-file READMEs, which broke in-page anchors).
 ### Required fields
 
 Each entry in `listings.json` must include:

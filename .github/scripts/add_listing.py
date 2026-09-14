@@ -38,6 +38,11 @@ def normalize_url(url):
         return url
 
 LISTINGS_FILE = Path('listings.json')
+TABLE_FILES = {
+    'summer': Path('SUMMER.md'),
+    'offcycle': Path('OFFCYCLE.md'),
+    'newgrad': Path('NEWGRAD.md'),
+}
 
 def parse_issue_body(body):
     fields = {}
@@ -289,12 +294,17 @@ def main():
         print(f'SKIP: listing already exists (link found: {apply_link})')
         sys.exit(0)
 
-    with open('README.md', 'r') as f:
+    table_file = TABLE_FILES.get(table_type)
+    if not table_file or not table_file.exists():
+        print(f'ERROR: table file missing for type={table_type}: {table_file}')
+        sys.exit(1)
+
+    with open(table_file, 'r', encoding='utf-8') as f:
         content = f.read()
 
     new_content = insert_row(content, table_type, row)
 
-    with open('README.md', 'w') as f:
+    with open(table_file, 'w', encoding='utf-8') as f:
         f.write(new_content)
 
     entry = {
@@ -315,7 +325,7 @@ def main():
     with open(LISTINGS_FILE, 'w') as f:
         json.dump(listings, f, indent=2)
 
-    print('Successfully updated README.md and listings.json')
+    print(f'Successfully updated {table_file} and listings.json')
 
 if __name__ == '__main__':
     main()

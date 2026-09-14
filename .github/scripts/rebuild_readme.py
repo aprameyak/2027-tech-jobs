@@ -9,9 +9,38 @@ from pathlib import Path
 LISTINGS_FILE = Path('listings.json')
 README_FILE = Path('README.md')
 
+TABLE_FILES = {
+    'summer': Path('SUMMER.md'),
+    'offcycle': Path('OFFCYCLE.md'),
+    'newgrad': Path('NEWGRAD.md'),
+}
+
+TABLE_TITLES = {
+    'summer': '☀️ Summer 2027 Internships',
+    'offcycle': '🔄 Off-Cycle Internships & Co-ops',
+    'newgrad': '🎓 New Grad 2027',
+}
+
+TABLE_HEADERS = {
+    'summer': (
+        '| Company | Role | Location | Education | Application/Link | Date Added |\n'
+        '| ------- | ---- | -------- | --------- | ---------------- | ----------- |\n'
+    ),
+    'offcycle': (
+        '| Company | Role | Location | Season / Term | Education | Application/Link | Date Added |\n'
+        '| ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |\n'
+    ),
+    'newgrad': (
+        '| Company | Role | Location | Grad Date | Education | Application/Link | Date Added |\n'
+        '| ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |\n'
+    ),
+}
+
+
 def _company_sort_key(name):
     name = re.sub(r'[\U0001F000-\U0001FFFF\u2600-\u26FF\u2700-\u27BF]', '', name)
     return name.strip().lower()
+
 
 def format_company(entry):
     name = entry['company'].strip()
@@ -22,6 +51,7 @@ def format_company(entry):
     if 'yes —' in citizenship.lower():
         name += ' 🇺🇸'
     return name
+
 
 def format_location(location):
     location = location.strip()
@@ -34,12 +64,14 @@ def format_location(location):
     inner = '</br>'.join(parts)
     return f'<details><summary>**{len(parts)} locations**</summary>{inner}</details>'
 
+
 def format_date(date_added):
     try:
         dt = datetime.strptime(date_added, '%Y-%m-%d')
         return dt.strftime('%b %d').replace(' 0', ' ')
     except Exception:
         return date_added
+
 
 def apply_btn(url):
     if not url:
@@ -49,6 +81,7 @@ def apply_btn(url):
         f'<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply">'
         f'</a>'
     )
+
 
 def format_row(entry, company_col):
     company = company_col
@@ -68,6 +101,7 @@ def format_row(entry, company_col):
         return f'| {company} | {role} | {location} | {grad_date} | {education} | {btn} | {date} |'
     else:
         return f'| {company} | {role} | {location} | {education} | {btn} | {date} |'
+
 
 def build_table(entries):
     def sort_key(e):
@@ -99,34 +133,88 @@ def build_table(entries):
 
     return rows
 
-def replace_table(content, marker, rows):
-    start_marker = f'<!-- TABLE_START {marker} -->'
-    end_marker = f'<!-- TABLE_END {marker} -->'
-    start_idx = content.find(start_marker)
-    end_idx = content.find(end_marker)
-    if start_idx == -1 or end_idx == -1:
-        print(f'ERROR: Could not find markers for table: {marker}')
-        sys.exit(1)
 
-    after_start = content[start_idx:]
-    sep_match = re.search(r'\| [-| :]+\|\n', after_start)
-    if not sep_match:
-        print(f'ERROR: Could not find separator row for table: {marker}')
-        sys.exit(1)
-
-    header_end = start_idx + sep_match.end()
-    header = content[start_idx:header_end]
-    footer = content[end_idx:]
-
+def write_table_file(marker, rows, count):
+    title = TABLE_TITLES[marker]
+    header = TABLE_HEADERS[marker]
     body = '\n'.join(rows) + '\n' if rows else ''
-    return content[:start_idx] + header + body + footer
+    content = (
+        f'# {title}\n\n'
+        f'{count} listing(s). Canonical data lives in [`listings.json`](./listings.json). '
+        f'Back to [`README`](./README.md).\n\n'
+        f'<!-- TABLE_START {marker} -->\n\n'
+        f'{header}'
+        f'{body}'
+        f'<!-- TABLE_END {marker} -->\n'
+    )
+    TABLE_FILES[marker].write_text(content, encoding='utf-8')
+
+
+def update_readme_index(summer_n, offcycle_n, newgrad_n):
+    if not README_FILE.exists():
+        print('ERROR: README.md not found')
+        sys.exit(1)
+
+    content = README_FILE.read_text(encoding='utf-8')
+
+    # Drop inlined tables if still present from older README layout.
+    content = re.sub(
+        r'\n## ☀️ Summer 2027 Internships\n.*?<!-- TABLE_END summer -->\n',
+        '\n',
+        content,
+        count=1,
+        flags=re.S,
+    )
+    content = re.sub(
+        r'\n## 🔄 Off-Cycle Internships & Co-ops\n.*?<!-- TABLE_END offcycle -->\n',
+        '\n',
+        content,
+        count=1,
+        flags=re.S,
+    )
+    content = re.sub(
+        r'\n## 🎓 New Grad 2027\n.*?<!-- TABLE_END newgrad -->\n',
+        '\n',
+        content,
+        count=1,
+        flags=re.S,
+    )
+
+    toc = (
+        f'- [☀️ Summer 2027 Internships](./SUMMER.md) ({summer_n})\n'
+        f'- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) ({offcycle_n})\n'
+        f'- [🎓 New Grad 2027](./NEWGRAD.md) ({newgrad_n})\n'
+    )
+
+    toc_pattern = re.compile(
+        r'- \[☀️ Summer 2027 Internships\]\([^)]+\)(?:\s*\(\d+\))?\n'
+        r'- \[🔄 Off-Cycle Internships & Co-ops\]\([^)]+\)(?:\s*\(\d+\))?\n'
+        r'- \[🎓 New Grad 2027\]\([^)]+\)(?:\s*\(\d+\))?\n'
+    )
+    if toc_pattern.search(content):
+        content = toc_pattern.sub(toc, content, count=1)
+    else:
+        # Fallback: replace any old hash-anchor TOC block.
+        old_toc = re.compile(
+            r'- \[☀️ Summer 2027 Internships\]\(#.*?\)\n'
+            r'- \[🔄 Off-Cycle Internships & Co-ops\]\(#.*?\)\n'
+            r'- \[🎓 New Grad 2027\]\(#.*?\)\n'
+        )
+        if old_toc.search(content):
+            content = old_toc.sub(toc, content, count=1)
+        else:
+            print('ERROR: Could not find TOC links to update in README.md')
+            sys.exit(1)
+
+    # Collapse excess blank lines / leftover horizontal rules left after table removal.
+    content = re.sub(r'(?:\n---){2,}\n', '\n---\n', content)
+    content = re.sub(r'\n{3,}', '\n\n', content)
+    README_FILE.write_text(content, encoding='utf-8')
+
 
 def main():
     if not LISTINGS_FILE.exists():
         print('ERROR: listings.json not found')
-        sys.exit(1)
-    if not README_FILE.exists():
-        print('ERROR: README.md not found')
         sys.exit(1)
 
     with open(LISTINGS_FILE) as f:
@@ -136,19 +224,18 @@ def main():
     offcycle = [e for e in listings if e['type'] == 'offcycle']
     newgrad = [e for e in listings if e['type'] == 'newgrad']
 
-    print(f'Loaded {len(listings)} listings: {len(summer)} summer, {len(offcycle)} offcycle, {len(newgrad)} newgrad')
+    print(
+        f'Loaded {len(listings)} listings: '
+        f'{len(summer)} summer, {len(offcycle)} offcycle, {len(newgrad)} newgrad'
+    )
 
-    with open(README_FILE, encoding='utf-8') as f:
-        content = f.read()
+    write_table_file('summer', build_table(summer), len(summer))
+    write_table_file('offcycle', build_table(offcycle), len(offcycle))
+    write_table_file('newgrad', build_table(newgrad), len(newgrad))
+    update_readme_index(len(summer), len(offcycle), len(newgrad))
 
-    content = replace_table(content, 'summer', build_table(summer))
-    content = replace_table(content, 'offcycle', build_table(offcycle))
-    content = replace_table(content, 'newgrad', build_table(newgrad))
+    print('Rebuilt SUMMER.md, OFFCYCLE.md, NEWGRAD.md, and README.md index')
 
-    with open(README_FILE, 'w', encoding='utf-8') as f:
-        f.write(content)
-
-    print('README.md rebuilt successfully')
 
 if __name__ == '__main__':
     main()
