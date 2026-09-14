@@ -1,13 +1,15 @@
 # 🎓 New Grad 2027
 
-2578 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2581 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Abbott Laboratories | Associate Engineer (Product Engineering)  - Point of Care (Ottawa) | Canada - Ontario - Ottawa |  | Undergrad | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Canada---Ontario---Ottawa/Associate-Engineer--Product-Engineering-----Point-of-Care--Ottawa-_31162094-1?utm_source=aprameyak) | Sep 14 |
 | Barry-Wehmiller | Entry Level Controls Engineer | San Antonio, TX |  | Undergrad | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWConfidential/job/San-Antonio-TX/Entry-Level-Controls-Engineer_R022421?utm_source=aprameyak) | Sep 14 |
 | ↳ | Entry Level Controls Engineer | Abilene, TX USA |  | Undergrad | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWConfidential/job/Abilene-TX-USA/Entry-Level-Controls-Engineer_R022390?utm_source=aprameyak) | Sep 14 |
+| BlackEdge Capital | Graduate Quantitative Researcher 2027 | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/blackedgecapital/jobs/4732320005?utm_source=aprameyak) | Sep 14 |
 | BlackRock | Platform Reliability Engineer, Associate/VP – Aladdin | AT8 - 725 Ponce de Leon Ave NE, Atlanta |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/AT8---725-Ponce-de-Leon-Ave-NE-Atlanta/Platform-Reliability-Engineer--Associate---Aladdin_R265379?utm_source=aprameyak) | Sep 14 |
 | CACI | Junior Systems Engineer | King George, VA, US |  | Masters | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/King-George-VA-US/Junior-Systems-Engineer_332029?utm_source=aprameyak) | Sep 14 |
 | Capital One 🛂 | Technology Development Program Associate - August 2027 | <details><summary>**3 locations**</summary>McLean, VA</br>Richmond, VA</br>Plano, TX</details> |  | Undergrad | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Development-Program-Associate---August-2027_R244385-1?utm_source=aprameyak) | Sep 14 |
@@ -29,6 +31,7 @@
 | KBR | Junior Software Developer | Beavercreek Township, OH |  | Undergrad | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Township-Ohio/Junior-Software-Developer_R2129761-1?utm_source=aprameyak) | Sep 14 |
 | ↳ | Junior Reverse Engineer | Beavercreek, OH |  | Undergrad | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Ohio/Junior-Reverse-Engineer_R2127684?utm_source=aprameyak) | Sep 14 |
 | mthree | Développeur génie logiciel / Junior Software Developer  – Canada (Montreal) | Montréal, Quebec, Canada |  | Undergrad | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4713052006?utm_source=aprameyak) | Sep 14 |
+| ↳ | Junior Software Engineer | USA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4713126006?utm_source=aprameyak) | Sep 14 |
 | Okta | Developer Support Associate (New Grad) | Chicago, IL |  | Undergrad | [Apply](https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506) | Sep 14 |
 | Peraton 🇺🇸 | Software Engineering, Associate | Herndon, VA |  | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/170478/job?utm_source=aprameyak) | Sep 14 |
 | ↳ | Software Engineering, Associate (DevOps) | Herndon, VA |  | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/170477/job?utm_source=aprameyak) | Sep 14 |
