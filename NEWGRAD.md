@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-2576 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2578 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -18,6 +18,7 @@
 | ↳ | Associate Security Engineer - Arlington, VA | Arlington, VA |  | Undergrad | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Associate-Security-Engineer---Arlington--VA_R39724?utm_source=aprameyak) | Sep 14 |
 | Draper | Entry Level RF Engineer | Cambridge, MA |  | Undergrad | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626?utm_source=aprameyak) | Sep 14 |
 | General Motors | Entry Level - Wireless EF Design & Validation Engineer | Warren, Michigan, United States of America |  | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---Wireless-EF-Design---Validation-Engineer_JR-202619982?utm_source=aprameyak) | Sep 14 |
+| GlobalFoundries | System-on-Chip Design Engineer (2027 New College Graduate) | USA - Texas - Richardson | Spring 2027 | Undergrad | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/System-on-Chip-Design-Engineer--2027-New-College-Graduate-_JR-2604156?utm_source=aprameyak) | Sep 14 |
 | Google | Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start | Sunnyvale, CA | Spring 2027 | PhD | [Apply](https://www.google.com/about/careers/applications/jobs/results/123087196289671878) | Sep 14 |
 | ↳ | Software Engineer, Infrastructure, PhD, Early Career, 2027 Start | Sunnyvale, CA | Spring 2027 | PhD | [Apply](https://www.google.com/about/careers/applications/jobs/results/84680705375642310) | Sep 14 |
 | ↳ | Software Engineer, Early Career, Campus | Mountain View, CA |  | Undergrad | [Apply](https://www.google.com/about/careers/applications/jobs/results/78703249065943750) | Sep 14 |
@@ -28,6 +29,7 @@
 | KBR | Junior Software Developer | Beavercreek Township, OH |  | Undergrad | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Township-Ohio/Junior-Software-Developer_R2129761-1?utm_source=aprameyak) | Sep 14 |
 | ↳ | Junior Reverse Engineer | Beavercreek, OH |  | Undergrad | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Ohio/Junior-Reverse-Engineer_R2127684?utm_source=aprameyak) | Sep 14 |
 | mthree | Développeur génie logiciel / Junior Software Developer  – Canada (Montreal) | Montréal, Quebec, Canada |  | Undergrad | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4713052006?utm_source=aprameyak) | Sep 14 |
+| Okta | Developer Support Associate (New Grad) | Chicago, IL |  | Undergrad | [Apply](https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506) | Sep 14 |
 | Peraton 🇺🇸 | Software Engineering, Associate | Herndon, VA |  | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/170478/job?utm_source=aprameyak) | Sep 14 |
 | ↳ | Software Engineering, Associate (DevOps) | Herndon, VA |  | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/170477/job?utm_source=aprameyak) | Sep 14 |
 | ↳ | Data Science, Associate | Herndon, VA |  | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/170473/job?utm_source=aprameyak) | Sep 14 |
