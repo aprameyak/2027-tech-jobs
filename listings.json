@@ -32653,32 +32653,6 @@
     "grad_date": ""
   },
   {
-    "company": "Pariveda Solutions",
-    "role": "Entry Level Software Engineer",
-    "location": "Seattle, WA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-12",
-    "grad_date": ""
-  },
-  {
-    "company": "Lightfield",
-    "role": "Early Career Infrastructure Software Engineer",
-    "location": "Cambridge, MA; Boston, MA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-12",
-    "grad_date": ""
-  },
-  {
     "company": "RTX",
     "role": "Software Engineer 1",
     "location": "East Hartford, CT",
@@ -46890,30 +46864,6 @@
     "date_added": "2026-08-29"
   },
   {
-    "company": "Anthelion Capital",
-    "role": "Quant Developer / Quant Research Intern",
-    "location": "New York, NY",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
-    "company": "Hudson River Trading",
-    "role": "Algorithm Development Intern - Quant Research",
-    "location": "New York, NY",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
     "company": "Northwood Space",
     "role": "Embedded Software Engineer Intern",
     "location": "Los Angeles, CA; Torrance, CA",
@@ -47272,71 +47222,6 @@
     "grad_date": ""
   },
   {
-    "company": "RunSybil",
-    "role": "Software Engineer 1",
-    "location": "New York, NY",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29",
-    "grad_date": ""
-  },
-  {
-    "company": "Revel",
-    "role": "Software Engineer - Test - Entry-Junior",
-    "location": "San Francisco, CA; Los Angeles, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/revel/014c6445-bf8c-4213-ad97-faa83d129199/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29",
-    "grad_date": ""
-  },
-  {
-    "company": "Revel",
-    "role": "Full Stack Software Engineer - Entry-Junior",
-    "location": "Los Angeles, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/revel/49e46e96-e266-4ef6-8b62-e056d695dc52/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29",
-    "grad_date": ""
-  },
-  {
-    "company": "Strada",
-    "role": "Software Engineer New Grad",
-    "location": "San Francisco, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/stradahq/626411c6-808e-4eb2-b28d-76f5d88e0af6/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29",
-    "grad_date": ""
-  },
-  {
-    "company": "Hipp Health",
-    "role": "Software Engineer New Grad",
-    "location": "Remote (US)",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/hipp/ea04e914-674c-4c05-b40a-7e8a035bad14/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29",
-    "grad_date": ""
-  },
-  {
     "company": "Lightfield",
     "role": "Software Engineer New Grad - Applied AI",
     "location": "San Francisco, CA",
@@ -47383,19 +47268,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29",
-    "grad_date": ""
-  },
-  {
-    "company": "Mechanize",
-    "role": "Junior Software Engineer",
-    "location": "San Francisco, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://www.mechanize.work/apply/software-engineer/?role=junior",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-29",
@@ -49131,18 +49003,6 @@
     "date_added": "2026-08-29"
   },
   {
-    "company": "Notion",
-    "role": "Software Engineer Intern",
-    "location": "San Francisco, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
     "company": "ByteDance",
     "role": "Video/Image AI/ML Software Engineer I...",
     "location": "San Diego, CA",
@@ -49390,18 +49250,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145785190",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
-    "company": "Zip",
-    "role": "Software Engineer Intern",
-    "location": "San Francisco, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-29"
@@ -56944,19 +56792,6 @@
     "grad_date": ""
   },
   {
-    "company": "Stripe",
-    "role": "Software Engineer, New Grad",
-    "location": "Toronto, ON",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://stripe.com/jobs/search?gh_jid=8157838&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": ""
-  },
-  {
     "company": "DraftKings",
     "role": "Software Engineer Intern",
     "location": "Boston, MA",
@@ -57377,19 +57212,6 @@
     "grad_date": "Spring 2027"
   },
   {
-    "company": "UBS",
-    "role": "2027 Graduate Talent Program \u2014 Technology",
-    "location": "Raleigh, NC",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25008&siteid=5131&jobId=349412",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": "Spring 2027"
-  },
-  {
     "company": "RTX",
     "role": "Software Engineer I",
     "location": "Cedar Rapids, IA",
@@ -57686,19 +57508,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": ""
-  },
-  {
-    "company": "Inductive Automation",
-    "role": "Software Engineer 1",
-    "location": "Folsom, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/inductive-automation-llc/5413d62b-1f0c-4592-9ce6-b6f261674ecb?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-01",
@@ -58125,18 +57934,6 @@
     "date_added": "2026-09-01"
   },
   {
-    "company": "Westinghouse Electric Company",
-    "role": "Computer Engineering / Software Engineering Intern",
-    "location": "Cranberry Township, PA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/?ats=successfactors&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01"
-  },
-  {
     "company": "Medpace",
     "role": "Python Intern",
     "location": "Cincinnati, OH",
@@ -58144,18 +57941,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01"
-  },
-  {
-    "company": "Gulfstream",
-    "role": "Software Engineer Intern - IEF",
-    "location": "Savannah, GA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors&utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-01"
@@ -59757,18 +59542,6 @@
     "date_added": "2026-09-01"
   },
   {
-    "company": "Stripe",
-    "role": "Software Engineer, Intern (Summer or Winter)",
-    "location": "Toronto, ON",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://stripe.com/jobs/search?gh_jid=8130805&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01"
-  },
-  {
     "company": "Manulife Financial",
     "role": "Quantitative Analyst Co-op Intern - Derivative and Asset Modeling",
     "location": "Toronto, ON",
@@ -59884,18 +59657,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://twosigma.avature.net/careers/JobDetail/13945?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01"
-  },
-  {
-    "company": "AQR Capital Management",
-    "role": "Trading Analyst Intern",
-    "location": "Greenwich, CT",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110&utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-01"
@@ -60546,19 +60307,6 @@
     "grad_date": ""
   },
   {
-    "company": "Peraton",
-    "role": "Cloud Software Engineer 1",
-    "location": "Odenton, MD",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": ""
-  },
-  {
     "company": "IXL Learning",
     "role": "Associate Product Manager New Grad",
     "location": "San Mateo, CA",
@@ -60714,19 +60462,6 @@
     "grad_date": ""
   },
   {
-    "company": "Backbone Systems",
-    "role": "Founding Engineer - Applied Research",
-    "location": "San Francisco, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/backbone/cbfce5dc-e2c7-452e-bb23-2dac1198df7d/application?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": ""
-  },
-  {
     "company": "Crowdstrike",
     "role": "Engineer 1 New Grad - Data Scientist",
     "location": "Sunnyvale, CA",
@@ -60791,19 +60526,6 @@
     "grad_date": ""
   },
   {
-    "company": "Allen Control Systems",
-    "role": "Junior Computer Vision & Machine Learning Engineer",
-    "location": "Austin, TX",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/allen-control-systems/cfb348d0-ab31-4fa5-9bd5-def1de764ca9/application?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": ""
-  },
-  {
     "company": "GlobalFoundries",
     "role": "Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer",
     "location": "Austin, TX",
@@ -60815,19 +60537,6 @@
     "citizenship": "No",
     "date_added": "2026-09-01",
     "grad_date": "Spring 2026"
-  },
-  {
-    "company": "Parallel Web Systems",
-    "role": "Early Career Research Engineer",
-    "location": "Palo Alto, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/parallel/056e41f8-7d5f-41c1-99fd-bf002dc072fd/application?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": ""
   },
   {
     "company": "Citadel",
@@ -60953,19 +60662,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": ""
-  },
-  {
-    "company": "Corvus Robotics",
-    "role": "Product Implementation Engineer 1",
-    "location": "Mountain View, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/corvus-robotics/e180a9e8-6611-485b-b76a-bbf995b69e7f/application?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-01",
@@ -64251,30 +63947,6 @@
     "date_added": "2026-09-01"
   },
   {
-    "company": "WhatNot",
-    "role": "Software Engineer Intern",
-    "location": "Seattle, WA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01"
-  },
-  {
-    "company": "Sierra",
-    "role": "Software Engineer Intern",
-    "location": "San Francisco, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01"
-  },
-  {
     "company": "RTX",
     "role": "Software Engineer Intern",
     "location": "Cedar Rapids, IA",
@@ -64306,18 +63978,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01"
-  },
-  {
-    "company": "Qorvo",
-    "role": "Full-Stack Web Developer Intern",
-    "location": "Richardson, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://careers.qorvo.com/job/Richardson-Full-Stack-Web-Developer-Intern-TX-75080/1424716200/?ats=successfactors&utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-01"
@@ -65098,18 +64758,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01"
-  },
-  {
-    "company": "TELUS Digital",
-    "role": "Product Analyst Intern",
-    "location": "Columbus, OH",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application?embed=true&utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-01"
@@ -66315,45 +65963,6 @@
     "grad_date": "Spring 2026"
   },
   {
-    "company": "Color",
-    "role": "Software Engineer New Grad",
-    "location": "San Bruno, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": ""
-  },
-  {
-    "company": "Bridger",
-    "role": "Early Career Product Engineer",
-    "location": "New York, NY",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": ""
-  },
-  {
-    "company": "Firetiger",
-    "role": "Product Engineer New Grad",
-    "location": "San Francisco, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/firetiger/a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": ""
-  },
-  {
     "company": "Capital One",
     "role": "Software Engineer New Grad - Software Engineer",
     "location": "Toronto, ON",
@@ -66510,32 +66119,6 @@
     "grad_date": ""
   },
   {
-    "company": "Backbone Systems",
-    "role": "Founding Engineer - Applied Research",
-    "location": "San Francisco, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/backbone/cbfce5dc-e2c7-452e-bb23-2dac1198df7d/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": ""
-  },
-  {
-    "company": "Allen Control Systems",
-    "role": "Junior Computer Vision & Machine Learning Engineer",
-    "location": "Austin, TX",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/allen-control-systems/cfb348d0-ab31-4fa5-9bd5-def1de764ca9/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": ""
-  },
-  {
     "company": "WallStreetQuants",
     "role": "Quantitative Trader New Grad",
     "location": "New York, NY",
@@ -66582,19 +66165,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": ""
-  },
-  {
-    "company": "Corvus Robotics",
-    "role": "Product Implementation Engineer 1",
-    "location": "Mountain View, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/corvus-robotics/e180a9e8-6611-485b-b76a-bbf995b69e7f/application?embed=true&utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-01",

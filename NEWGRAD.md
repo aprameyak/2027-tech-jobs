@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-2598 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2576 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -95,16 +95,11 @@
 | KLA | Software Engineer | Milpitas, CA |  | Undergrad | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer_2638981?utm_source=aprameyak) | Sep 2 |
 | Accenture Federal Services | Associate Software Engineer-Hire-to-Train Program (Pega) | Washington, DC |  | Undergrad | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006?utm_source=aprameyak) | Sep 1 |
 | AIG | 2027 Early Careers: Analyst, Gen AI - Data Science – United States, Atlanta, GA | GA-Atlanta | Spring 2027 | Undergrad | [Apply](https://aig.wd1.myworkdayjobs.com/en-US/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI---Data-Science---United-States--Atlanta--GA_JR2603656-1?utm_source=aprameyak) | Sep 1 |
-| Allen Control Systems | Junior Computer Vision & Machine Learning Engineer | Austin, TX |  | Undergrad | [Apply](https://jobs.ashbyhq.com/allen-control-systems/cfb348d0-ab31-4fa5-9bd5-def1de764ca9/application?utm_source=aprameyak) | Sep 1 |
-| ↳ | Junior Computer Vision & Machine Learning Engineer | Austin, TX |  | Undergrad | [Apply](https://jobs.ashbyhq.com/allen-control-systems/cfb348d0-ab31-4fa5-9bd5-def1de764ca9/application?embed=true&utm_source=aprameyak) | Sep 1 |
 | Ambral | Member of Technical Staff (New Grad) | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/ambral/bfcfbd07-03b9-4e7c-82b1-b17d7c3a5e90?utm_source=aprameyak) | Sep 1 |
 | American Express | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services | Phoenix, AZ |  | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013259) | Sep 1 |
 | Anduril | Early Career Software Engineer | Newport Beach, CA |  | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?utm_source=aprameyak) | Sep 1 |
-| Backbone Systems | Founding Engineer - Applied Research | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/backbone/cbfce5dc-e2c7-452e-bb23-2dac1198df7d/application?utm_source=aprameyak) | Sep 1 |
-| ↳ | Founding Engineer - Applied Research | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/backbone/cbfce5dc-e2c7-452e-bb23-2dac1198df7d/application?embed=true&utm_source=aprameyak) | Sep 1 |
 | Blue Origin 🛂 | Software Development Engineer I - Early Career | Kent, WA | Spring 2027 | Undergrad | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326?utm_source=aprameyak) | Sep 1 |
 | Booz Allen Hamilton | University - Full-Stack Developer | Huntsville, AL |  | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---Full-Stack-Developer_R0248330?utm_source=aprameyak) | Sep 1 |
-| Bridger | Early Career Product Engineer | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true&utm_source=aprameyak) | Sep 1 |
 | ByteDance | New Grad 2026: Product Manager (SMB) | Austin, TX | Spring 2026 | Undergrad | [Apply](https://joinbytedance.com/search/7534966101852539144?utm_source=aprameyak) | Sep 1 |
 | Cadence Design Systems | Multibody Dynamics Application Software Developer New Grad - Adams | Livonia, MI | Spring 2026 | Undergrad | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2?utm_source=aprameyak) | Sep 1 |
 | ↳ | Application Software Developer New Grad | Livonia, MI | Spring 2026 | Undergrad | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2?utm_source=aprameyak) | Sep 1 |
@@ -115,11 +110,7 @@
 | Ciena | WaveLogic Software Developer - New Grad | Atlanta, GA |  | Undergrad | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608?utm_source=aprameyak) | Sep 1 |
 | Cisco | Software Engineer, Full Stack / Backend I | San Jose, CA |  | Undergrad | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose%2C-California%2C-US/Software-Engineer-Full-Stack---Backend-I--Full-Time----United-States_2024035?utm_source=aprameyak) | Sep 1 |
 | Citizen Health | Software Engineer | San Francisco, CASan Mateo, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764?utm_source=aprameyak) | Sep 1 |
-| Color | Software Engineer New Grad | San Bruno, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application?embed=true&utm_source=aprameyak) | Sep 1 |
-| Corvus Robotics | Product Implementation Engineer 1 | Mountain View, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/corvus-robotics/e180a9e8-6611-485b-b76a-bbf995b69e7f/application?utm_source=aprameyak) | Sep 1 |
-| ↳ | Product Implementation Engineer 1 | Mountain View, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/corvus-robotics/e180a9e8-6611-485b-b76a-bbf995b69e7f/application?embed=true&utm_source=aprameyak) | Sep 1 |
 | Everlaw | Software Engineer 1 | Oakland, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/everlaw/jobs/4705236006?utm_source=aprameyak) | Sep 1 |
-| Firetiger | Product Engineer New Grad | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/firetiger/a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6/application?embed=true&utm_source=aprameyak) | Sep 1 |
 | General Matter | Nuclear Engineer (New Grad) | Los Angeles, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375961008?utm_source=aprameyak) | Sep 1 |
 | General Motors | Entry Level Calibration Engineer | Milford, Michigan, United States of America |  | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Entry-Level-Calibration-Engineer_JR-202618746?utm_source=aprameyak) | Sep 1 |
 | GlobalFoundries | Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer | Austin, TX | Spring 2026 | Undergrad | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1?utm_source=aprameyak) | Sep 1 |
@@ -129,7 +120,6 @@
 | GTS | Quantitative Trader | New York, NY | Spring 2027 | Undergrad | [Apply](https://careers-gtsx.icims.com/jobs/1608/quantitative-trader---2027-graduates/job) | Sep 1 |
 | Hiive | Junior Analyst - Career Launch Program | Vancouver, BC |  | Undergrad | [Apply](https://jobs.ashbyhq.com/hiive/8e2a6a7b-a02a-4b51-8d4b-1ebd79027469/application?embed=true&utm_source=aprameyak) | Sep 1 |
 | Home Depot | Associate Product Manager Program | Atlanta, GA |  | Undergrad | [Apply](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Product-Manager-Program--Summer-2027-_Req192004?utm_source=aprameyak) | Sep 1 |
-| Inductive Automation | Software Engineer 1 | Folsom, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/inductive-automation-llc/5413d62b-1f0c-4592-9ce6-b6f261674ecb?utm_source=aprameyak) | Sep 1 |
 | Integrity | Software Engineer 1 | Grimes, IA |  | Undergrad | [Apply](https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Urbandale-IA/Software-Engineer-I_JR4072?utm_source=aprameyak) | Sep 1 |
 | IXL Learning | Associate Product Manager, New Grad | San Mateo, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/ixllearning/jobs/8765765002?utm_source=aprameyak) | Sep 1 |
 | ↳ | Software Engineer, New Grad | San Mateo, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/ixllearning/jobs/8765715002?utm_source=aprameyak) | Sep 1 |
@@ -149,8 +139,6 @@
 | Noom | Agentic Engineer (New Grad) | Princeton, NJ |  | Undergrad | [Apply](https://job-boards.greenhouse.io/noomgrowth/jobs/8092909?utm_source=aprameyak) | Sep 1 |
 | Nuvo | New Grad Product Engineer | <details><summary>**2 locations**</summary>New York, NY</br>San Francisco, CA</details> |  | Undergrad | [Apply](https://jobs.gem.com/nuvo/am9icG9zdDpVEVfFsFLv-Cz18Cw3-Ai8) | Sep 1 |
 | NVIDIA | Research Scientist New Grad - Efficient Deep Learning | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1?utm_source=aprameyak) | Sep 1 |
-| Parallel Web Systems | Early Career Research Engineer | Palo Alto, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/parallel/056e41f8-7d5f-41c1-99fd-bf002dc072fd/application?utm_source=aprameyak) | Sep 1 |
-| Peraton | Cloud Software Engineer 1 | Odenton, MD |  | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false&utm_source=aprameyak) | Sep 1 |
 | Precisely | Associate Software Engineer (Python AI) | Remote, US |  | Undergrad | [Apply](https://www.precisely.com/careers-and-culture/us-jobs/job/4722721005?gh_jid=4722721005&utm_source=aprameyak) | Sep 1 |
 | RELX | Software Engineer New Grad | Alpharetta, GA |  | Undergrad | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2?utm_source=aprameyak) | Sep 1 |
 | ↳ | Software Engineer New Grad | Alpharetta, GA |  | Undergrad | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1?utm_source=aprameyak) | Sep 1 |
@@ -163,7 +151,6 @@
 | ↳ | Software Engineer New Grad - Agent | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00/application?embed=true&utm_source=aprameyak) | Sep 1 |
 | Starbucks | Software Engineer | Seattle, WA |  | Undergrad | [Apply](https://starbucks.eightfold.ai/careers/job?pid=481078371803) | Sep 1 |
 | Stripe | Software Engineer, New Grad | <details><summary>**3 locations**</summary>San Francisco, CA</br>Seattle, WA</br>New York, NY</details> |  | Undergrad | [Apply](https://stripe.com/jobs/search?gh_jid=8128744&utm_source=aprameyak) | Sep 1 |
-| ↳ | Software Engineer, New Grad | Toronto, ON |  | Undergrad | [Apply](https://stripe.com/jobs/search?gh_jid=8157838&utm_source=aprameyak) | Sep 1 |
 | Tebra | Software Engineer I | Remote (US) |  | Undergrad | [Apply](https://job-boards.greenhouse.io/tebra/jobs/4726985005?utm_source=aprameyak) | Sep 1 |
 | Tesla | Software Security Engineer, Energy Product Software | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/253636?utm_source=aprameyak) | Sep 1 |
 | Texas Sports Academy | Junior Software Engineer - AI-Forward | Austin, TX |  | Undergrad | [Apply](https://apply.workable.com/texas-sports-academy-main/j/009164EC9C/apply?utm_source=aprameyak) | Sep 1 |
@@ -172,7 +159,6 @@
 | ↳ | Software Engineer 1 - Electronic Systems | Hunt Valley, Cockeysville, MD |  | Undergrad | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342666) | Sep 1 |
 | Travelers 🛂 | Engineering Development Program (EDP) - Software Engineering | <details><summary>**4 locations**</summary>Hartford, CT</br>Atlanta, GA</br>St. Paul, MN</br>Hunt Valley, MD</details> |  | Undergrad; Masters | [Apply](https://travelers.wd5.myworkdayjobs.com/en-US/external/job/Engineering-Development-Program--EDP----Software-Engineering_R-52271?utm_source=aprameyak) | Sep 1 |
 | UBS | 2027 Graduate Talent Program — Technology | <details><summary>**2 locations**</summary>New York, NY</br>Weehawken, NJ</details> | Spring 2027 | Undergrad | [Apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25008&siteid=5131&jobId=348622) | Sep 1 |
-| ↳ | 2027 Graduate Talent Program — Technology | Raleigh, NC | Spring 2027 | Undergrad | [Apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25008&siteid=5131&jobId=349412) | Sep 1 |
 | Valon | Software Engineer New Grad | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/valon/e08ad09a-4408-4210-8c1b-da6510f83324?utm_source=aprameyak) | Sep 1 |
 | VITAS Healthcare | Junior Strategy & Innovation Analyst | Miami, FL |  | Undergrad | [Apply](https://ejrz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/44324?utm_source=aprameyak) | Sep 1 |
 | WallStreetQuants | Quantitative Trader New Grad | New York, NY |  | Undergrad | [Apply](https://apply.workable.com/wallstreetquants/j/C611D9282B/apply?utm_source=aprameyak) | Sep 1 |
@@ -283,7 +269,6 @@
 | ↳ | Robotics Software - Perception ML Eng... | South San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/gritt/0c8c31da-118d-4b83-8228-be58203d5649?utm_source=aprameyak) | Aug 29 |
 | ↳ | ML & Cloud Infrastructure Engineer | South San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/gritt/f3b0809e-31ae-4b2e-a027-907c7cdb2e2d?utm_source=aprameyak) | Aug 29 |
 | ↳ | Robotics Software - Planning & Contro... | South San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/gritt/7b70d83a-ef09-43e4-906e-754afbb8a229?utm_source=aprameyak) | Aug 29 |
-| Hipp Health | Software Engineer New Grad | Remote (US) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/hipp/ea04e914-674c-4c05-b40a-7e8a035bad14/application?embed=true&utm_source=aprameyak) | Aug 29 |
 | Human Computer Lab | ML Engineer | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/human-computer-lab/eb62af20-f469-40dc-b0a1-8b7ec59c9225?utm_source=aprameyak) | Aug 29 |
 | IBM | Associate Data Scientist 2027 – AI & Data Analytics | New York, NY |  | Undergrad | [Apply](https://careers.ibm.com/en_US/careers/JobDetail/Associate-Data-Scientist-2027-AI-Data-Analytics/129126) | Aug 29 |
 | ↳ | Associate Data Engineer – AI & Analytics | Buffalo, NY |  | Undergrad | [Apply](https://careers.ibm.com/careers/JobDetail?jobId=128809) | Aug 29 |
@@ -318,7 +303,6 @@
 | Match Group | Software Engineer II, Backend | Los Angeles, CA |  | Undergrad | [Apply](https://jobs.lever.co/matchgroup/990882fc-4d03-4a49-b16c-4af72b8a2094?utm_source=aprameyak) | Aug 29 |
 | ↳ | Software Engineer, iOS | Los Angeles, CA |  | Undergrad | [Apply](https://jobs.lever.co/matchgroup/61e35c3c-3156-4760-a088-4a3765e37f8e?utm_source=aprameyak) | Aug 29 |
 | ↳ | Founding Full Stack Engineer, AI Incu... | Los Angeles, CA |  | Undergrad | [Apply](https://jobs.lever.co/matchgroup/e9ebbab0-2428-4651-828e-8c3af0dec1bf?utm_source=aprameyak) | Aug 29 |
-| Mechanize | Junior Software Engineer | San Francisco, CA |  | Undergrad | [Apply](https://www.mechanize.work/apply/software-engineer/?role=junior) | Aug 29 |
 | Mercor | Infrastructure Engineer | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/mercor/296c4031-5e98-4772-95f5-a9eb5bd7746d?utm_source=aprameyak) | Aug 29 |
 | ↳ | Security Engineer, Application Security | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> |  | Undergrad | [Apply](https://jobs.ashbyhq.com/mercor/cf6fcf5a-6348-4d60-beb3-43333a2c2bb9?utm_source=aprameyak) | Aug 29 |
 | ↳ | Security Engineer, Cloud Infrastructure | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> |  | Undergrad | [Apply](https://jobs.ashbyhq.com/mercor/f6ef82f1-c711-4a19-a9be-6bc04a2b776c?utm_source=aprameyak) | Aug 29 |
@@ -375,11 +359,8 @@
 | Replit | Product Security Engineer (PSIRT - Pr... | Foster City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/replit/1634b879-80c7-4064-be0a-8a4aecc81923?utm_source=aprameyak) | Aug 29 |
 | ↳ | Security Engineer - Vuln Management (... | Foster City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/replit/e2e3345e-251c-49c4-821b-6748d73efaeb?utm_source=aprameyak) | Aug 29 |
 | ↳ | Security Engineer - Vuln Management (... | Foster City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/replit/4b290489-9ce6-45f9-bbc8-e1baa4bd8b6f?utm_source=aprameyak) | Aug 29 |
-| Revel | Software Engineer - Test - Entry-Junior | <details><summary>**2 locations**</summary>San Francisco, CA</br>Los Angeles, CA</details> |  | Undergrad | [Apply](https://jobs.ashbyhq.com/revel/014c6445-bf8c-4213-ad97-faa83d129199/application?embed=true&utm_source=aprameyak) | Aug 29 |
-| ↳ | Full Stack Software Engineer - Entry-Junior | Los Angeles, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/revel/49e46e96-e266-4ef6-8b62-e056d695dc52/application?embed=true&utm_source=aprameyak) | Aug 29 |
 | Rover | Software Engineer, Price Experience | Seattle, WA |  | Undergrad | [Apply](https://jobs.lever.co/rover/a81ab324-969a-44f1-89b4-e7ff7487a735?utm_source=aprameyak) | Aug 29 |
 | RunPod | Site Reliability Engineer | Remote (US) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/runpod/1d14340c-c9bd-4754-80f4-5c83980cd413?utm_source=aprameyak) | Aug 29 |
-| RunSybil | Software Engineer 1 | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59/application?embed=true&utm_source=aprameyak) | Aug 29 |
 | Salesforce | Research Scientist - Salesforce AI Re... | Palo Alto, CA |  | Undergrad | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Research-Scientist---Salesforce-AI-Research_JR214107-1?utm_source=aprameyak) | Aug 29 |
 | Sandisk | Product Security Engineer - Hardware/... | Milpitas, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Sandisk/744000133420384) | Aug 29 |
 | Saronic Technologies | Security Engineer, Detection Engineering | Austin, TX |  | Undergrad | [Apply](https://jobs.ashbyhq.com/saronic/61770fb7-97a5-4be3-9556-32b2ff522e6d?utm_source=aprameyak) | Aug 29 |
@@ -411,7 +392,6 @@
 | ↳ | Infrastructure Engineer, Observe by S... | Menlo Park, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/snowflake/143a2248-564b-4cfa-85f5-d47bac911d74?utm_source=aprameyak) | Aug 29 |
 | ↳ | AI/ML Flex Solution Engineer | New York City, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/snowflake/89617e94-de24-4e5d-bdff-c42ee01ca3e6?utm_source=aprameyak) | Aug 29 |
 | ↳ | Forward Deployed Engineer, Applied AI | Menlo Park, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/snowflake/a6a3e9d2-b045-466a-8074-1613c07891fe?utm_source=aprameyak) | Aug 29 |
-| Strada | Software Engineer New Grad | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/stradahq/626411c6-808e-4eb2-b28d-76f5d88e0af6/application?embed=true&utm_source=aprameyak) | Aug 29 |
 | Stripe | Product Manager, Identity & Access Ma... | Chicago, IL |  | Undergrad | [Apply](https://stripe.com/jobs/search?gh_jid=8165137) | Aug 29 |
 | Sunwater Capital | DevOps Engineer | North Bethesda, MD |  | Undergrad | [Apply](https://jobs.lever.co/sunwatercapital/838587c4-9176-420a-a303-b5960e584282?utm_source=aprameyak) | Aug 29 |
 | Synergy ECP | Full Stack Software Engineer | Annapolis Junction, MD |  | Undergrad | [Apply](https://jobs.lever.co/synergyecp/24fe1741-c6c6-4265-8059-873f6c00d4b4?utm_source=aprameyak) | Aug 29 |
@@ -601,14 +581,12 @@
 | GM financial | Software Development Engineer 1 | <details><summary>**2 locations**</summary>Arlington, TX</br>Irving, TX</details> |  | Undergrad | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1991) | Aug 12 |
 | Guidehouse | Data Engineer 1 | Houston, TX |  | Undergrad | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_42995?utm_source=aprameyak) | Aug 12 |
 | Lennar Corporation | Software Engineer 1 | Miami, FL |  | Undergrad | [Apply](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003523?utm_source=aprameyak) | Aug 12 |
-| Lightfield | Early Career Infrastructure Software Engineer | <details><summary>**2 locations**</summary>Cambridge, MA</br>Boston, MA</details> |  | Undergrad | [Apply](https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application?embed=true&utm_source=aprameyak) | Aug 12 |
 | Lila Sciences | Software Engineer 1 - Instrument Software | Cambridge, MA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4186444009?utm_source=aprameyak) | Aug 12 |
 | LPL Financial Holdings | Product Management New Grad - Product | <details><summary>**3 locations**</summary>Austin, TX</br>Fort Mill, SC</br>Charlotte, NC</details> | Spring 2027 | Undergrad | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1?utm_source=aprameyak) | Aug 12 |
 | ↳ | Data Engineering New Grad | <details><summary>**3 locations**</summary>Austin, TX</br>Fort Mill, SC</br>Charlotte, NC</details> | Spring 2027 | Undergrad | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1?utm_source=aprameyak) | Aug 12 |
 | NCR Voyix | Software Engineer 1 | Atlanta, GA |  | Undergrad | [Apply](https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595?utm_source=aprameyak) | Aug 12 |
 | NVIDIA | Applied Machine Learning Engineer – New College Grad 2026 - Circuit Design | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517?utm_source=aprameyak) | Aug 12 |
 | Oracle | Systems Software Engineer 1 - Cloud Infrastructure | Nashville, TN |  | Undergrad | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342326) | Aug 12 |
-| Pariveda Solutions | Entry Level Software Engineer | Seattle, WA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0/application?embed=true&utm_source=aprameyak) | Aug 12 |
 | RBI | Data Engineer 1 | Miami, FL |  | Undergrad | [Apply](https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Miami-Corporate-Office/Data-Engineer-I--Burger-King_R3622?utm_source=aprameyak) | Aug 12 |
 | Salesforce | Software Engineer College Grad | Palo Alto, CA |  | Undergrad | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250?utm_source=aprameyak) | Aug 12 |
 | SentiLink | Research Scientist New Grad | Remote in |  | Undergrad | [Apply](https://jobs.ashbyhq.com/sentilink/f9a47314-c48a-4053-a113-6974b211559f/application?embed=true&utm_source=aprameyak) | Aug 12 |
@@ -1167,7 +1145,7 @@
 | BlackRock | Associate, Research Associate – SMA Solutions, Quantitative Investment Solutions (QIS) | Sausalito, CA |  | Undergrad | 🔒 | Sep 1 |
 | Boerboel | New Grad: Developer | New York, NYChicago, IL |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | New Grad: Quantitative Researcher | New York, NYChicago, IL |  | Undergrad | 🔒 | Sep 1 |
-| ↳ | Early Career Product Engineer | New York, NY |  | Undergrad | 🔒 | Sep 1 |
+| Bridger | Early Career Product Engineer | New York, NY |  | Undergrad | 🔒 | Sep 1 |
 | Cadence | Software Engineer I | San Jose, CA |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Application Software Developer New Grad | Livonia, MI | Spring 2026 | Undergrad | 🔒 | Sep 1 |
 | Capco | Junior AI / Data Engineering Analyst - Technology & Engineering | Orlando, FL |  | Undergrad | 🔒 | Sep 1 |
@@ -1194,7 +1172,7 @@
 | ↳ | New Grad: Associate, Software Engineer | Chicago, IL |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | New Grad 2025: Associate, Software Engineer | Irving, TX | Spring 2025 | Undergrad | 🔒 | Sep 1 |
 | Esri 🇺🇸 | Software Development Engineer 1 | St. Louis, MO |  | Undergrad | 🔒 | Sep 1 |
-| ↳ | Product Engineer New Grad | San Francisco, CA |  | Undergrad | 🔒 | Sep 1 |
+| Firetiger | Product Engineer New Grad | San Francisco, CA |  | Undergrad | 🔒 | Sep 1 |
 | FlexAI | Software Engineer – New Grad | San Jose, CA |  | Undergrad | 🔒 | Sep 1 |
 | Garmin | Software Engineer 1 - Aviation Backend Web | Chanhassen, MN |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer 1 | Yarmouth, ME |  | Undergrad | 🔒 | Sep 1 |
