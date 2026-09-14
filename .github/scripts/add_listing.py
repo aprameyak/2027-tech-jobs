@@ -48,10 +48,17 @@ def with_aprameyak_utm(url):
             'greenhouse.io', 'lever.co', 'ashbyhq.com', 'myworkdayjobs.com', 'workdaysite.com',
         )):
             return url
-        params = {
-            k: v for k, v in parse_qs(p.query, keep_blank_values=True).items()
-            if k.lower() not in STRIP_PARAMS
-        }
+        params = {}
+        for k, v in parse_qs(p.query, keep_blank_values=True).items():
+            kl = k.lower()
+            if kl in STRIP_PARAMS:
+                continue
+            cleaned = [x for x in v if x not in ('', 'gh_src=', 'gh_src')]
+            if kl == 't' and (not cleaned or all(str(x).startswith('gh_src') for x in cleaned)):
+                continue
+            if not cleaned and kl != 'gh_jid':
+                continue
+            params[k] = cleaned if cleaned else v
         params['utm_source'] = ['aprameyak']
         return urlunparse(p._replace(
             scheme=p.scheme.lower() or 'https',

@@ -95,10 +95,17 @@ def normalize_url(url: str) -> str:
         return ''
     try:
         p = urlparse(url.strip())
-        params = {
-            k: v for k, v in parse_qs(p.query, keep_blank_values=True).items()
-            if k.lower() not in STRIP_PARAMS
-        }
+        params = {}
+        for k, v in parse_qs(p.query, keep_blank_values=True).items():
+            kl = k.lower()
+            if kl in STRIP_PARAMS:
+                continue
+            cleaned = [x for x in v if x not in ('', 'gh_src=', 'gh_src')]
+            if kl == 't' and (not cleaned or all(str(x).startswith('gh_src') for x in cleaned)):
+                continue
+            if not cleaned and kl != 'gh_jid':
+                continue
+            params[k] = cleaned if cleaned else v
         if any(h in p.netloc.lower() for h in (
             'greenhouse', 'lever.co', 'ashbyhq', 'myworkdayjobs', 'workdaysite',
         )):

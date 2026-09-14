@@ -864,10 +864,18 @@ def with_aprameyak_utm(url):
         host = (p.netloc or '').lower()
         if not any(m in host for m in _UTM_HOST_MARKERS):
             return url
-        params = {
-            k: v for k, v in parse_qs(p.query, keep_blank_values=True).items()
-            if k.lower() not in _UTM_STRIP
-        }
+        params = {}
+        for k, v in parse_qs(p.query, keep_blank_values=True).items():
+            kl = k.lower()
+            if kl in _UTM_STRIP:
+                continue
+            # Drop Greenhouse tracking junk like t=gh_src= / empty values
+            cleaned = [x for x in v if x not in ('', 'gh_src=', 'gh_src')]
+            if kl == 't' and (not cleaned or all(str(x).startswith('gh_src') for x in cleaned)):
+                continue
+            if not cleaned and kl != 'gh_jid':
+                continue
+            params[k] = cleaned if cleaned else v
         params['utm_source'] = ['aprameyak']
         return urlunparse(p._replace(
             query=urlencode(sorted(params.items()), doseq=True),
