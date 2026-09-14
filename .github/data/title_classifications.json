@@ -52121,5 +52121,101 @@
   "systems engineering intern- onsite": {
     "t": true,
     "c": "medium"
+  },
+  "software developer intern, backend (summer 2027)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "software developer intern/co-op, backend (winter 2027)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "software developer intern, ios (summer 2027)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "software developer intern, web (summer 2027)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "software engineering intern, android (summer 2027)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "software engineering intern, backend (summer 2027)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "software engineering intern, ios (summer 2027)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "software engineering intern, web (summer 2027)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "associate product manager (new grad)": {
+    "t": true,
+    "c": "medium"
+  },
+  "brokerage operations intern (summer 2027)": {
+    "t": false,
+    "c": "medium"
+  },
+  "brokerage risk analyst intern (summer 2027)": {
+    "t": false,
+    "c": "medium"
+  },
+  "business analyst intern (summer 2027)": {
+    "t": true,
+    "c": "medium"
+  },
+  "crypto operations intern (summer 2027)": {
+    "t": false,
+    "c": "medium"
+  },
+  "crypto partnership intern (summer 2027)": {
+    "t": false,
+    "c": "medium"
+  },
+  "fraud operations intern (summer 2027)": {
+    "t": false,
+    "c": "medium"
+  },
+  "futures & prediction market operations intern (summer 2027)": {
+    "t": false,
+    "c": "medium"
+  },
+  "growth marketing intern (summer 2027)": {
+    "t": false,
+    "c": "medium"
+  },
+  "investment analyst intern (summer 2027)": {
+    "t": false,
+    "c": "medium"
+  },
+  "people partner intern (summer 2027)": {
+    "t": false,
+    "c": "medium"
+  },
+  "peoplex insights & analytics intern (summer 2027)": {
+    "t": true,
+    "c": "medium"
+  },
+  "special projects intern (summer 2027)": {
+    "t": false,
+    "c": "medium"
+  },
+  "vendor management intern (summer 2027)": {
+    "t": false,
+    "c": "medium"
   }
 }
