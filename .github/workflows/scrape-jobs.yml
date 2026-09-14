@@ -118,7 +118,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests pyyaml anthropic
-      - name: Scrape LinkedIn and Amazon
+      - name: Scrape LinkedIn, Amazon, and Google Careers
         timeout-minutes: 55
         env:
           BOARD_GROUP: linkedin_amazon
@@ -149,7 +149,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests pyyaml anthropic
-      - name: Scrape Lever / SmartRecruiters / Workable / Recruitee / Pinpoint
+      - name: Scrape Lever / SmartRecruiters / Workable / Recruitee / Pinpoint / iCIMS / Avature
         timeout-minutes: 40
         env:
           BOARD_GROUP: other

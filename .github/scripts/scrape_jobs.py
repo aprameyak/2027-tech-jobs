@@ -5,6 +5,7 @@ import os
 import re
 import subprocess
 import time
+import html as _html
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 import anthropic
@@ -47,6 +48,9 @@ _claude_usage_date = None
 DEFAULT_FOLLOWED_COMPANIES = [
     'Amazon',
     'Apple',
+    'Bloomberg',
+    'Capital One',
+    'CoStar Group',
     'Databricks',
     'Google',
     'Meta',
@@ -54,11 +58,14 @@ DEFAULT_FOLLOWED_COMPANIES = [
     'NVIDIA',
     'OpenAI',
     'Palantir',
+    'Peraton',
+    'Robinhood',
     'Salesforce',
     'SpaceX',
     'Stripe',
     'Tesla',
     'Waymo',
+    'Wells Fargo',
 ]
 
 BOUNDARY_KEYWORDS = [r'\bintern\b', r'\binternship\b', r'\bco-op\b', r'\bcoop\b', r'\bjunior\b',
@@ -74,6 +81,8 @@ SUBSTRING_KEYWORDS = [
     'summer 2026', 'fall 2026', 'spring 2026', 'winter 2026',
     'summer 2027', 'fall 2027', 'spring 2027',
     'phd early career', 'associate data scientist', 'associate product manager',
+    ', associate', 'associate (',
+    'engineering, associate', 'science, associate',
 ]
 
 TECH_KEYWORDS = [
@@ -214,6 +223,17 @@ def normalize_location(location):
             abbr = US_STATE_ABBRS.get(region.lower()) or CA_PROVINCE_ABBRS.get(region.lower())
             if abbr:
                 return f'{city}, {abbr}'
+
+        # iCIMS style: US-VA-Herndon
+        m = re.match(r'^US-([A-Z]{2})-(.+)$', part, re.I)
+        if m:
+            return f'{m.group(2).strip()}, {m.group(1).upper()}'
+
+        # Workday style: US-VA Arlington or US-VA Richmond - CoStar Tower
+        m = re.match(r'^US-([A-Z]{2})\s+(.+)$', part, re.I)
+        if m:
+            city = re.split(r'\s+-\s+', m.group(2).strip(), maxsplit=1)[0].strip()
+            return f'{city}, {m.group(1).upper()}'
 
         m = re.match(r'^(.+),\s*([^,]+),\s*USA$', part, re.I)
         if m:
@@ -585,6 +605,8 @@ def is_us_location(location):
     if not location or location.strip() == '':
         return False
 
+    # Normalize Workday/iCIMS location codes before checks
+    location = normalize_location(location)
     loc = location.lower()
 
     if any(s in loc for s in NON_US_SIGNALS):
@@ -1162,7 +1184,7 @@ def scrape_workday(company, tenant, instance, board):
     jobs = []
     seen_paths = set()
 
-    for search_term in ['intern', 'new grad', 'early career', 'university']:
+    for search_term in ['intern', 'internship', 'new grad', 'early career', 'university', '2027', 'co-op']:
         offset = 0
         pages_fetched = 0
         while True:
@@ -1187,7 +1209,7 @@ def scrape_workday(company, tenant, instance, board):
                         continue
                     seen_paths.add(external_path)
                     title = job.get('title', '')
-                    location = job.get('locationsText', '')
+                    location = normalize_location(job.get('locationsText', '') or '')
                     relevant = is_candidate_title(title)
                     if relevant and is_us_location(location):
                         jobs.append({
@@ -1209,6 +1231,301 @@ def scrape_workday(company, tenant, instance, board):
                 break
 
     return jobs
+
+def _parse_icims_locations(raw):
+    """Convert iCIMS location strings like 'US-VA-Herndon | US-VA-Blacksburg'."""
+    if not raw:
+        return ''
+    parts = []
+    for piece in re.split(r'\s*\|\s*', raw):
+        piece = piece.strip()
+        if not piece:
+            continue
+        m = re.match(r'^US-([A-Z]{2})-(.+)$', piece, re.I)
+        if m:
+            parts.append(f'{m.group(2).strip()}, {m.group(1).upper()}')
+        else:
+            parts.append(piece)
+    return normalize_location('; '.join(parts))
+
+
+def scrape_icims(company, host, keywords=None):
+    """Scrape public iCIMS HTML search pages (no official JSON API)."""
+    keywords = keywords or ['2027', 'intern', 'new grad', 'early career', 'associate']
+    jobs = []
+    seen_ids = set()
+    base = f'https://{host}'
+
+    for keyword in keywords:
+        for page in range(0, 8):
+            params = {
+                'ss': '1',
+                'searchKeyword': keyword,
+                'searchRelation': 'keyword_all',
+                'in_iframe': '1',
+                'pr': str(page),
+            }
+            try:
+                resp = requests.get(
+                    f'{base}/jobs/search',
+                    params=params,
+                    headers=HEADERS,
+                    timeout=(10, 30),
+                )
+                if resp.status_code != 200:
+                    print(f'  [{company}] iCIMS HTTP {resp.status_code} for "{keyword}" page {page}')
+                    break
+                html = resp.text
+                cards = re.findall(
+                    r'<li class="iCIMS_JobCardItem">(.*?)</li>',
+                    html,
+                    re.S | re.I,
+                )
+                if not cards:
+                    break
+                found_new = False
+                for card in cards:
+                    m = re.search(
+                        r'href="(https?://[^"]+/jobs/(\d+)/[^"]+/job)[^"]*"[^>]*'
+                        r'class="iCIMS_Anchor"[^>]*title="([^"]+)"',
+                        card,
+                        re.I,
+                    )
+                    if not m:
+                        m = re.search(
+                            r'href="(/jobs/(\d+)/[^"]+/job)[^"]*"[^>]*'
+                            r'class="iCIMS_Anchor"[^>]*title="([^"]+)"',
+                            card,
+                            re.I,
+                        )
+                    if not m:
+                        continue
+                    url, job_id, title_attr = m.group(1), m.group(2), m.group(3)
+                    if job_id in seen_ids:
+                        continue
+                    seen_ids.add(job_id)
+                    found_new = True
+                    title = re.sub(r'^\d+\s*-\s*', '', _html.unescape(title_attr)).strip()
+                    h3 = re.search(r'<h3[^>]*>(.*?)</h3>', card, re.S | re.I)
+                    if h3:
+                        title = re.sub(r'<[^>]+>', '', _html.unescape(h3.group(1))).strip() or title
+                    loc_m = re.search(
+                        r'Job Locations?</span>\s*<span[^>]*>\s*([^<]+)',
+                        card,
+                        re.I,
+                    )
+                    location = _parse_icims_locations(loc_m.group(1).strip() if loc_m else '')
+                    if not location:
+                        # Fall back to trailing " - City, ST" in the title when present
+                        tm = re.search(r'\s[-–—]\s+([A-Za-z .]+,\s*[A-Z]{2})\s*$', title)
+                        if tm:
+                            location = tm.group(1).strip()
+                    if url.startswith('/'):
+                        url = f'{base}{url}'
+                    url = re.sub(r'\?.*$', '', url)
+                    if is_candidate_title(title) and is_us_location(location):
+                        jobs.append({
+                            'id': f'icims_{host}_{job_id}',
+                            'company': company,
+                            'title': title,
+                            'location': location,
+                            'url': url,
+                            'board': 'iCIMS',
+                        })
+                if not found_new:
+                    break
+                time.sleep(0.15)
+            except Exception as e:
+                print(f'  [{company}] iCIMS error for "{keyword}" page {page}: {e}')
+                break
+
+    return jobs
+
+
+def scrape_avature(company, portal, keywords=None):
+    """Scrape Avature public SearchJobs HTML pages."""
+    keywords = keywords or ['2027', 'Internship', 'Graduate', 'Student', 'Early Career', 'Intern']
+    jobs = []
+    seen_ids = set()
+    base = f'https://{portal}.avature.net/careers'
+
+    for keyword in keywords:
+        try:
+            resp = requests.get(
+                f'{base}/SearchJobs/',
+                params={
+                    'listFilterMode': '1',
+                    'jobRecordsPerPage': '50',
+                    'search': keyword,
+                },
+                headers=HEADERS,
+                timeout=(10, 30),
+            )
+            if resp.status_code != 200:
+                print(f'  [{company}] Avature HTTP {resp.status_code} for "{keyword}"')
+                continue
+            html = resp.text
+            for m in re.finditer(
+                r'href="(https?://[^"]*?/JobDetail/([^/]+)/(\d+))"[^>]*>\s*([^<]+)\s*</a>',
+                html,
+                re.I,
+            ):
+                url, _slug, job_id, title = (
+                    m.group(1), m.group(2), m.group(3), m.group(4).strip(),
+                )
+                if title.lower() == 'apply' or job_id in seen_ids:
+                    continue
+                seen_ids.add(job_id)
+                if not is_candidate_title(title):
+                    continue
+                # Grab a window after this anchor for location text
+                rest = html[m.end():m.end() + 900]
+                loc = ''
+                lm = re.search(
+                    r'class="[^"]*(?:location|jobLocation)[^"]*"[^>]*>\s*([^<]+)',
+                    rest,
+                    re.I,
+                )
+                if lm:
+                    loc = lm.group(1).strip()
+                else:
+                    text = re.sub(r'<[^>]+>', ' ', rest)
+                    text = re.sub(r'\s+', ' ', text)
+                    lm = re.search(
+                        r'([A-Za-z .]+,\s*(?:New York|[A-Z]{2}|United States|USA|Canada)[^|]{0,40})',
+                        text,
+                    )
+                    if lm:
+                        loc = lm.group(1).strip()
+                location = normalize_location(loc) if loc else ''
+                title_l = title.lower()
+                if any(s in title_l for s in NON_US_SIGNALS):
+                    continue
+                if not location or not is_us_location(location):
+                    if any(s in title_l for s in (
+                        'new york', ', ny', 'united states', 'usa', 'new jersey', ', nj',
+                    )):
+                        location = 'New York, NY'
+                    elif any(s in title_l for s in ('toronto', 'canada', ', on', 'vancouver', ', bc')):
+                        location = 'Toronto, ON'
+                    else:
+                        location = 'United States'
+                if not is_us_location(location):
+                    continue
+                jobs.append({
+                    'id': f'avature_{portal}_{job_id}',
+                    'company': company,
+                    'title': title,
+                    'location': location,
+                    'url': url.split('?')[0],
+                    'board': 'Avature',
+                })
+            time.sleep(0.2)
+        except Exception as e:
+            print(f'  [{company}] Avature error for "{keyword}": {e}')
+
+    return jobs
+
+
+def _clean_google_location(raw):
+    if not raw:
+        return ''
+    loc = re.sub(r'\s*;\s*\+\d+\s+more\b.*$', '', raw, flags=re.I)
+    loc = re.sub(r'\s*(?:bar_chart|share|link|content_copy).*$', '', loc, flags=re.I)
+    loc = loc.replace('USA', '').replace('United States', '')
+    loc = re.sub(r'\s+', ' ', loc).strip(' ;,')
+    first = loc.split(';')[0].strip(' ;,')
+    return normalize_location(first)
+
+
+def scrape_google_careers():
+    """Scrape Google Careers HTML search results (no public JSON API)."""
+    queries = [
+        'Software Engineer Intern 2027',
+        'early career 2027',
+        'Student Researcher 2027',
+        'Software Engineer Early Career',
+        'intern 2027',
+    ]
+    jobs = []
+    seen_ids = set()
+    skip_headings = {
+        'locations', 'experience', 'skills & qualifications', 'degree',
+        'job types', 'organizations', 'sort by', 'search sidebar',
+    }
+
+    for query in queries:
+        for page in range(1, 6):
+            params = {
+                'q': query,
+                'location': 'United States',
+                'page': str(page),
+            }
+            try:
+                resp = requests.get(
+                    'https://www.google.com/about/careers/applications/jobs/results/',
+                    params=params,
+                    headers={
+                        **HEADERS,
+                        'Accept': 'text/html,application/xhtml+xml',
+                    },
+                    timeout=(10, 30),
+                )
+                if resp.status_code != 200:
+                    print(f'  [Google] HTTP {resp.status_code} for "{query}" page {page}')
+                    break
+                html = resp.text
+                page_jobs = 0
+                for m in re.finditer(r'<h3[^>]*>(.*?)</h3>', html, re.S | re.I):
+                    title = _html.unescape(re.sub(r'<[^>]+>', '', m.group(1)))
+                    title = re.sub(r'\s+', ' ', title).strip()
+                    if not title or title.lower() in skip_headings:
+                        continue
+                    chunk = html[m.end():m.end() + 4000]
+                    ids = re.findall(r'jobs/results/(\d+)', chunk)
+                    if not ids:
+                        continue
+                    job_id = ids[0]
+                    if job_id in seen_ids:
+                        continue
+                    text = re.sub(r'<[^>]+>', ' ', chunk)
+                    text = re.sub(r'\s+', ' ', text)
+                    loc = ''
+                    lm = re.search(
+                        r'place\s+(.+?)(?:\s+share|\s+link|\s+content_copy|\s+schedule|'
+                        r'\s+Full-time|\s+Temporary|\s+Learn more|\s+bar_chart)',
+                        text,
+                    )
+                    if lm:
+                        loc = _clean_google_location(lm.group(1).strip())
+                    if not loc:
+                        loc = 'United States'
+                    if not is_candidate_title(title):
+                        continue
+                    if not (is_us_location(loc) or loc == 'United States'):
+                        continue
+                    seen_ids.add(job_id)
+                    page_jobs += 1
+                    jobs.append({
+                        'id': f'google_{job_id}',
+                        'company': 'Google',
+                        'title': title,
+                        'location': loc,
+                        'url': (
+                            'https://www.google.com/about/careers/applications/'
+                            f'jobs/results/{job_id}'
+                        ),
+                        'board': 'Google Careers',
+                    })
+                if page_jobs == 0:
+                    break
+                time.sleep(0.25)
+            except Exception as e:
+                print(f'  [Google] Error for "{query}" page {page}: {e}')
+                break
+
+    return jobs
+
 
 def scrape_linkedin_apify(company, company_id):
     apify_token = os.environ.get('APIFY_TOKEN')
@@ -1330,8 +1647,11 @@ _BOARD_GROUP_BOARDS = {
     'greenhouse': {'greenhouse'},
     'ashby': {'ashby'},
     'workday': {'workday'},
-    'linkedin_amazon': {'linkedin', 'amazon'},
-    'other': {'lever', 'smartrecruiters', 'workable', 'recruitee', 'pinpoint'},
+    'linkedin_amazon': {'linkedin', 'amazon', 'google'},
+    'other': {
+        'lever', 'smartrecruiters', 'workable', 'recruitee', 'pinpoint',
+        'icims', 'avature',
+    },
 }
 
 def main():
@@ -1374,6 +1694,26 @@ def main():
             for entry in config.get(board_key, []):
                 scrape_tasks.append((scraper, entry['name'], entry[slug_field], board_key))
 
+    if included_boards is None or 'icims' in included_boards:
+        for entry in config.get('icims', []):
+            scrape_tasks.append((
+                scrape_icims,
+                entry['name'],
+                entry['host'],
+                entry.get('keywords'),
+                'icims',
+            ))
+
+    if included_boards is None or 'avature' in included_boards:
+        for entry in config.get('avature', []):
+            scrape_tasks.append((
+                scrape_avature,
+                entry['name'],
+                entry['portal'],
+                entry.get('keywords'),
+                'avature',
+            ))
+
     if included_boards is None or 'workday' in included_boards:
         for entry in config.get('workday', []):
             scrape_tasks.append((
@@ -1389,6 +1729,9 @@ def main():
     if included_boards is None or 'amazon' in included_boards:
         scrape_tasks.append(('amazon_special', scrape_amazon))
 
+    if included_boards is None or 'google' in included_boards:
+        scrape_tasks.append(('google_special', scrape_google_careers))
+
     def _run_task(task):
         fn, *args = task
         board_label = args[-1]
@@ -1403,7 +1746,7 @@ def main():
 
     def _run_workday_task(task):
         _, company, tenant, instance, board_name, _label = task
-        print(f'Checking {company} (workday/{tenant})...')
+        print(f'Checking {company} (workday/{tenant}/{board_name})...')
         try:
             return scrape_workday(company, tenant, instance, board_name)
         except Exception as e:
@@ -1418,6 +1761,14 @@ def main():
             print(f'  [Amazon] Scraper crashed: {e}')
             return []
 
+    def _run_google_task():
+        print('Checking Google (careers.google.com)...')
+        try:
+            return scrape_google_careers()
+        except Exception as e:
+            print(f'  [Google] Scraper crashed: {e}')
+            return []
+
     candidate_jobs = []
     print(f'Scraping {len(scrape_tasks)} sources concurrently (max {SCRAPER_MAX_WORKERS} workers)...')
 
@@ -1427,6 +1778,8 @@ def main():
             fn = task[0]
             if fn == 'amazon_special':
                 futures[executor.submit(_run_amazon_task)] = task
+            elif fn == 'google_special':
+                futures[executor.submit(_run_google_task)] = task
             elif fn is scrape_workday:
                 futures[executor.submit(_run_workday_task, task)] = task
             else:

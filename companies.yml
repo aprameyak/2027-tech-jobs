@@ -845,9 +845,13 @@ workday:
   instance: wd12
   board: copart
 - name: CoStar Group
-  tenant: CoStar
+  tenant: costar
   instance: wd1
   board: CoStarCareers
+- name: CoStar Group
+  tenant: costar
+  instance: wd1
+  board: Costar_Campus
 - name: Cox Enterprises
   tenant: cox
   instance: wd1
@@ -1500,15 +1504,33 @@ workday:
   tenant: zoom
   instance: wd5
   board: zoom
+icims:
+- name: Peraton
+  host: careers-peraton.icims.com
+  # Campus / early-career oriented keyword searches (iCIMS has no public JSON API)
+  keywords:
+  - '2027'
+  - '#PeratonEarlyCareer'
+  - intern
+  - associate
+  - 'early career'
+
+avature:
+- name: Bloomberg
+  portal: bloomberg
+  keywords:
+  - '2027'
+  - Internship
+  - Graduate
+  - Student
+  - 'Early Career'
+  - Intern
+
 linkedin:
 - name: Apple
   company_id: 162479
-- name: Bloomberg
-  company_id: 3096
 - name: Goldman Sachs
   company_id: 1067
-- name: Google
-  company_id: 1441
 - name: Jane Street
   company_id: 11482
 - name: JPMorgan Chase
