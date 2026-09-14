@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-2547 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2552 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
