@@ -36,11 +36,10 @@ CLAUDE_USAGE_FILE = (
 FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
 
 CLAUDE_MODEL = 'claude-haiku-4-5-20251001'
-CLAUDE_BATCH_SIZE = 64
-# Parallel board-group jobs share one daily budget; keep headroom for hourly runs.
-CLAUDE_MAX_CALLS_PER_RUN = int(os.environ.get('CLAUDE_MAX_CALLS_PER_RUN', '48'))
-CLAUDE_MAX_CALLS_PER_DAY = int(os.environ.get('CLAUDE_MAX_CALLS_PER_DAY', '300'))
-TITLE_PROMPT_MAX_LEN = 100
+# Larger batches = fewer API round-trips; Haiku handles ~100 compact title rows well.
+CLAUDE_BATCH_SIZE = 100
+TITLE_PROMPT_MAX_LEN = 90
+_claude_client = None
 
 MAX_WORKDAY_PAGES_PER_TERM = 15
 SCRAPER_MAX_WORKERS = 12
@@ -360,20 +359,19 @@ def save_claude_usage():
 _claude_calls_this_run = 0
 
 
-def _claude_budget_ok():
-    # Re-read this group's counter; daily budget = sum across all board groups.
-    load_claude_usage()
-    today_total = _total_claude_calls_today()
-    if today_total >= CLAUDE_MAX_CALLS_PER_DAY:
-        print(f'  [Claude] Daily cap reached ({today_total}/{CLAUDE_MAX_CALLS_PER_DAY}) — using keywords only')
-        return False
-    if _claude_calls_this_run >= CLAUDE_MAX_CALLS_PER_RUN:
-        print(f'  [Claude] Run cap reached ({CLAUDE_MAX_CALLS_PER_RUN}) — using keywords only')
-        return False
-    return True
+def _get_claude_client():
+    """Reuse one Anthropic client per process (avoids repeated setup overhead)."""
+    global _claude_client
+    api_key = os.environ.get('ANTHROPIC_API_KEY')
+    if not api_key:
+        return None
+    if _claude_client is None:
+        _claude_client = anthropic.Anthropic(api_key=api_key)
+    return _claude_client
 
 
 def _record_claude_call():
+    """Telemetry only — no hard caps; efficiency comes from cache + batching."""
     global _claude_calls_today, _claude_calls_this_run
     load_claude_usage()
     _claude_calls_today += 1
@@ -401,10 +399,8 @@ def _normalize_claude_row(row):
 
 
 def batch_classify_with_claude(titles):
-    global _claude_calls_today
-
-    api_key = os.environ.get('ANTHROPIC_API_KEY')
-    if not api_key or not _claude_budget_ok():
+    client = _get_claude_client()
+    if not client or not titles:
         return {}
 
     numbered = '\n'.join(
@@ -412,19 +408,16 @@ def batch_classify_with_claude(titles):
     )
     n = len(titles)
     prompt = (
-        f'US/Canada CS intern + new-grad board. Return JSON array length {n}, same order.\n'
-        'Each item: {"t":0|1,"c":"h"|"m"|"l","a":0|1}\n'
-        '- t=1 if software/data/ML/quant/PM/cyber/DevOps/tech role\n'
-        '- c=confidence high/medium/low\n'
-        '- a=1 only if entry-level campus fit (intern, co-op, new grad, early career, '
-        'associate SWE/data without senior/staff/lead/principal). a=0 for senior, '
-        'finance-only, HR, manufacturing, process, chem, embedded/firmware, IT helpdesk.\n'
+        f'US/Canada CS intern+new-grad board. JSON array length {n}, same order.\n'
+        'Each: {"t":0|1,"c":"h"|"m"|"l","a":0|1}\n'
+        't=1 tech (SWE/data/ML/quant/PM/cyber/DevOps). '
+        'a=1 only entry-level campus fit (intern/co-op/newgrad/early-career/associate '
+        'SWE-data); a=0 senior/staff/lead/principal/non-tech/hardware/firmware/helpdesk.\n'
         f'{numbered}\nJSON only.'
     )
 
-    for attempt in range(2):
+    for attempt in range(4):
         try:
-            client = anthropic.Anthropic(api_key=api_key)
             message = client.messages.create(
                 model=CLAUDE_MODEL,
                 max_tokens=n * 12 + 32,
@@ -434,7 +427,6 @@ def batch_classify_with_claude(titles):
             _record_claude_call()
 
             text = message.content[0].text.strip()
-            # Strip markdown code fences if present
             text = re.sub(r'^```(?:json)?\s*', '', text)
             text = re.sub(r'\s*```$', '', text)
             raw = json.loads(text)
@@ -442,6 +434,13 @@ def batch_classify_with_claude(titles):
             if not isinstance(raw, list) or len(raw) != n:
                 print(f'  [Claude] Expected {n} results, got '
                       f'{len(raw) if isinstance(raw, list) else type(raw).__name__}')
+                # Halve batch on size mismatch (too large for reliable JSON)
+                if n > 20 and attempt < 3:
+                    mid = n // 2
+                    out = {}
+                    out.update(batch_classify_with_claude(titles[:mid]))
+                    out.update(batch_classify_with_claude(titles[mid:]))
+                    return out
                 return {}
 
             results = {}
@@ -458,11 +457,17 @@ def batch_classify_with_claude(titles):
 
         except json.JSONDecodeError as e:
             print(f'  [Claude] JSON parse error: {e}')
+            if n > 20 and attempt < 3:
+                mid = n // 2
+                out = {}
+                out.update(batch_classify_with_claude(titles[:mid]))
+                out.update(batch_classify_with_claude(titles[mid:]))
+                return out
             return {}
         except anthropic.APIStatusError as e:
             if e.status_code == 429:
-                wait = (2 ** attempt) * 5
-                print(f'  [Claude] 429 rate limit — waiting {wait}s (attempt {attempt + 1}/2)')
+                wait = min((2 ** attempt) * 5, 60)
+                print(f'  [Claude] 429 rate limit — waiting {wait}s (attempt {attempt + 1}/4)')
                 time.sleep(wait)
                 continue
             print(f'  [Claude] API error {e.status_code}: {e.message}')
@@ -754,48 +759,77 @@ def should_list_job(job):
 
 
 def batch_decide_add_jobs(jobs):
-    """Second-pass review only for titles without an cached add decision."""
-    api_key = os.environ.get('ANTHROPIC_API_KEY')
-    if not api_key or not jobs or not _claude_budget_ok():
+    """Second-pass only for titles still missing an add decision after classify."""
+    client = _get_claude_client()
+    if not client or not jobs:
         return {}
 
-    decisions = {}
-    for i in range(0, len(jobs), CLAUDE_BATCH_SIZE):
-        batch = jobs[i:i + CLAUDE_BATCH_SIZE]
+    # Dedupe by title so identical borderline titles share one Claude decision.
+    unique_titles = []
+    title_to_indices = {}
+    for idx, job in enumerate(jobs):
+        tl = job['title'].lower()
+        if tl in title_to_indices:
+            title_to_indices[tl].append(idx)
+        else:
+            title_to_indices[tl] = [idx]
+            unique_titles.append(job['title'])
+
+    title_decisions = {}
+    for i in range(0, len(unique_titles), CLAUDE_BATCH_SIZE):
+        batch = unique_titles[i:i + CLAUDE_BATCH_SIZE]
         lines = '\n'.join(
-            f'{j + 1}. {batch[j]["title"][:TITLE_PROMPT_MAX_LEN]}'
-            for j in range(len(batch))
+            f'{j + 1}. {batch[j][:TITLE_PROMPT_MAX_LEN]}' for j in range(len(batch))
         )
         prompt = (
-            f'Return JSON array length {len(batch)}, same order. Each {{"a":0|1}}.\n'
-            'a=1 to list on a US/Canada CS intern/new-grad board; a=0 to skip.\n'
-            'Approve: internships, co-ops, new-grad/early-career/associate software-data-ML-quant-PM-cyber.\n'
-            'Reject: senior/staff/lead/principal, non-tech, hardware/manufacturing/process, '
-            'embedded/firmware, pure IT support.\n'
+            f'JSON array length {len(batch)}, same order. Each {{"a":0|1}}.\n'
+            'a=1 list on US/Canada CS intern/new-grad board; a=0 skip.\n'
+            'Approve intern/co-op/newgrad/early-career/associate SWE-data-ML-quant-PM-cyber. '
+            'Reject senior/staff/lead/principal/non-tech/hardware/firmware/IT support.\n'
             f'{lines}\nJSON only.'
         )
-        try:
-            client = anthropic.Anthropic(api_key=api_key)
-            message = client.messages.create(
-                model=CLAUDE_MODEL,
-                max_tokens=len(batch) * 8 + 24,
-                messages=[{'role': 'user', 'content': prompt}],
-            )
-            _record_claude_call()
-            text = message.content[0].text.strip()
-            text = re.sub(r'^```(?:json)?\s*', '', text)
-            text = re.sub(r'\s*```$', '', text)
-            parsed = json.loads(text)
-            if isinstance(parsed, list) and len(parsed) == len(batch):
-                for j, row in enumerate(parsed):
-                    if isinstance(row, dict):
-                        decisions[i + j] = bool(int(row.get('a', row.get('add', 0))))
-                    else:
-                        decisions[i + j] = bool(row)
-            else:
-                print(f'  [Claude] add-batch size mismatch ({len(parsed) if isinstance(parsed, list) else 0})')
-        except Exception as e:
-            print(f'  [Claude] add-batch error: {e}')
+        for attempt in range(4):
+            try:
+                message = client.messages.create(
+                    model=CLAUDE_MODEL,
+                    max_tokens=len(batch) * 8 + 24,
+                    messages=[{'role': 'user', 'content': prompt}],
+                )
+                _record_claude_call()
+                text = message.content[0].text.strip()
+                text = re.sub(r'^```(?:json)?\s*', '', text)
+                text = re.sub(r'\s*```$', '', text)
+                parsed = json.loads(text)
+                if isinstance(parsed, list) and len(parsed) == len(batch):
+                    for j, row in enumerate(parsed):
+                        if isinstance(row, dict):
+                            title_decisions[batch[j].lower()] = bool(
+                                int(row.get('a', row.get('add', 0)))
+                            )
+                        else:
+                            title_decisions[batch[j].lower()] = bool(row)
+                else:
+                    print(f'  [Claude] add-batch size mismatch '
+                          f'({len(parsed) if isinstance(parsed, list) else 0})')
+                break
+            except anthropic.APIStatusError as e:
+                if e.status_code == 429 and attempt < 3:
+                    wait = min((2 ** attempt) * 5, 60)
+                    print(f'  [Claude] add-batch 429 — waiting {wait}s')
+                    time.sleep(wait)
+                    continue
+                print(f'  [Claude] add-batch error: {e}')
+                break
+            except Exception as e:
+                print(f'  [Claude] add-batch error: {e}')
+                break
+
+    decisions = {}
+    for tl, indices in title_to_indices.items():
+        if tl not in title_decisions:
+            continue
+        for idx in indices:
+            decisions[idx] = title_decisions[tl]
     return decisions
 
 
@@ -2010,8 +2044,7 @@ def main():
     save_claude_usage()
     print(f'Board group: {BOARD_GROUP or "all"} | Claude: {_claude_calls_this_run} this run, '
           f'{_claude_calls_today} in {CLAUDE_USAGE_FILE.name}, '
-          f'{_total_claude_calls_today()} today all groups '
-          f'(caps {CLAUDE_MAX_CALLS_PER_RUN}/{CLAUDE_MAX_CALLS_PER_DAY})')
+          f'{_total_claude_calls_today()} today all groups (no hard caps; cache+batch)')
     print('Done')
 
 if __name__ == '__main__':

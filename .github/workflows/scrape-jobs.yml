@@ -14,10 +14,6 @@ concurrency:
   group: readme-updates
   cancel-in-progress: false
 
-env:
-  CLAUDE_MAX_CALLS_PER_RUN: '48'
-  CLAUDE_MAX_CALLS_PER_DAY: '300'
-
 jobs:
   scrape-greenhouse:
     if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'greenhouse' }}
