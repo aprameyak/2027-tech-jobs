@@ -30,6 +30,7 @@
 | Philips | Intern – Software Engineering – Plymouth, MN – Summer 2027 | Plymouth, Minnesota, United States | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403) | Sep 14 |
 | Rivian | Software Engineering Intern - Vehicle Controls - January - August 2027 | Irvine, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/f5aa59d9-4fdc-42d5-931d-efd9e6d96f2f?utm_source=aprameyak) | Sep 14 |
 | ↳ | Software Engineering Intern - Applications - Infotainment & Mobile - January - August 2027 | Irvine, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69?utm_source=aprameyak) | Sep 14 |
+| ↳ | Software Engineering Intern - Connected Systems - January - August 2027 | Irvine, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/13eeb795-a5dd-4b5a-9b98-808e5ec357c2?utm_source=aprameyak) | Sep 14 |
 | Robinhood | Business Analyst Intern (Summer 2027) | Washington, DC | Undergrad | [Apply](https://boards.greenhouse.io/robinhood/jobs/8123238?t=gh_src=&gh_jid=8123238) | Sep 14 |
 | ↳ | PeopleX Insights & Analytics Intern (Summer 2027) | Menlo Park, CA | Undergrad | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255) | Sep 14 |
 | ↳ | Software Developer Intern, Backend (Summer 2027) | Toronto, Canada | Undergrad | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930) | Sep 14 |
