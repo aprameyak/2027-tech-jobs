@@ -25753,7 +25753,8 @@
   },
   "solutions engineering director, associate program": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "solutions engineering manager, emea ": {
     "t": true,
@@ -44189,7 +44190,8 @@
   },
   "analyste au soutien \u00e0 la production / graduate production support analyst \u2013 canada (montreal)": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "area maintenance manager intern - summer 2027 (nationwide)": {
     "t": false,
