@@ -52079,5 +52079,47 @@
     "t": false,
     "c": "low",
     "a": 1
+  },
+  "ai and machine learning engineering graduate": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "intern \u2013 software engineering \u2013 plymouth, mn \u2013 summer 2027": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "resorts revenue management intern, spring 2027": {
+    "t": false,
+    "c": "medium"
+  },
+  "2027 summer intern - student corps program specialist intern": {
+    "t": false,
+    "c": "medium"
+  },
+  "electrical hardware engineer i graduate": {
+    "t": true,
+    "c": "medium"
+  },
+  "plm program manager graduate": {
+    "t": true,
+    "c": "medium"
+  },
+  "l&d design & development graduate": {
+    "t": false,
+    "c": "medium"
+  },
+  "business planning analyst graduate": {
+    "t": false,
+    "c": "medium"
+  },
+  "oracle netsuite consulting intern- summer 2027": {
+    "t": true,
+    "c": "medium"
+  },
+  "systems engineering intern- onsite": {
+    "t": true,
+    "c": "medium"
   }
 }
