@@ -74620,5 +74620,18 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-15"
+  },
+  {
+    "company": "Atlassian \ud83d\udec2",
+    "role": "Software Engineer, 2027 Graduate U.S.",
+    "location": "Seattle, WA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad; Masters",
+    "url": "https://www.atlassian.com/company/careers/details/25813",
+    "sponsorship": "No \u2014 sponsorship not offered",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-15",
+    "grad_date": "Spring 2027"
   }
 ]
