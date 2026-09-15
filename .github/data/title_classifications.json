@@ -43940,7 +43940,8 @@
   },
   "business development associate, early career": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "junior accountant": {
     "t": false,
@@ -44142,7 +44143,8 @@
   },
   "client advisor intern": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "assistant branch manager intern": {
     "t": false,
@@ -47019,7 +47021,8 @@
   },
   "associate product manager": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "software engineering intern, dynamo - fall 2026": {
     "t": true,
@@ -49167,7 +49170,8 @@
   },
   "claims representative internship - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "personal lines underwriting internship - summer 2027": {
     "t": false,
@@ -49949,7 +49953,8 @@
   },
   "summer intern 2027 - retirement sales": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "summer intern 2027 - general accounts": {
     "t": false,
