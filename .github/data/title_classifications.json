@@ -53144,5 +53144,96 @@
     "t": false,
     "c": "low",
     "a": 0
+  },
+  "excellence in action - finance rotation program associate (new graduate opportunity)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "2027 wealth & investment management analyst program - early careers": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "software engineering co-op (summer/fall 2027)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "internship - 2027 undergraduate business analytics intern \u2013 consumer business group (cbg)": {
+    "t": true,
+    "c": "medium"
+  },
+  "internship - 2027 undergraduate field sales intern \u2013 consumer business group (cbg)": {
+    "t": false,
+    "c": "medium"
+  },
+  "2027 quantitative masters internship program - sales & relationship management - institutional wealth - chicago": {
+    "t": true,
+    "c": "medium"
+  },
+  "2027 mba internship program - client & product functions - research & markets advisory - new york": {
+    "t": true,
+    "c": "medium"
+  },
+  "2027 mba internship program - client & product functions - sales & relationship management - institutional & wealth - new york": {
+    "t": true,
+    "c": "medium"
+  },
+  "2027 quantitative masters internship program - investments - global capital markets - new york": {
+    "t": true,
+    "c": "medium"
+  },
+  "2027 quantitative masters internship program - investments - global capital markets - san francisco": {
+    "t": true,
+    "c": "medium"
+  },
+  "2027 quantitative masters internship program - investments - portfolio management - atlanta": {
+    "t": true,
+    "c": "medium"
+  },
+  "2027 quantitative masters internship program - investments - portfolio management - new york": {
+    "t": true,
+    "c": "medium"
+  },
+  "2027 quantitative masters internship program - investments - portfolio management - san francisco": {
+    "t": true,
+    "c": "medium"
+  },
+  "2027 quantitative masters internship program - investments - quantitative investing - new york": {
+    "t": true,
+    "c": "medium"
+  },
+  "2027 quantitative masters internship program - investments - quantitative investing - san francisco": {
+    "t": true,
+    "c": "medium"
+  },
+  "2027 quantitative masters internship program - technology - analytics & modeling - new york": {
+    "t": true,
+    "c": "medium"
+  },
+  "2027 quantitative masters internship program - technology - analytics & modeling - san francisco": {
+    "t": true,
+    "c": "medium"
+  },
+  "soup, sandwich, chill and grill student part time evening": {
+    "t": false,
+    "c": "medium"
+  },
+  "2027 spring/summer co-op opportunities - malvern/philly": {
+    "t": false,
+    "c": "medium"
+  },
+  "raytheon finance  intern (summer 2027)": {
+    "t": false,
+    "c": "medium"
+  },
+  "raytheon finance intern  (summer 2027)": {
+    "t": false,
+    "c": "medium"
+  },
+  "raytheon finance intern (summer 2027)": {
+    "t": false,
+    "c": "medium"
   }
 }
