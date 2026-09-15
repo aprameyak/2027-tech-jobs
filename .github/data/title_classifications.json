@@ -89,7 +89,8 @@
   },
   "director, people business partner": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "director, product management (shopping & offers)": {
     "t": true,
@@ -117,7 +118,8 @@
   },
   "key accounts account executive ii": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "lead, customer advocacy": {
     "t": false,
@@ -425,7 +427,8 @@
   },
   "talent acquisition experience specialist ii": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "talent brand specialist ii": {
     "t": false,
@@ -757,11 +760,13 @@
   },
   "senior account executive, hotels (london-based)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior account executive, hotels (milan-based)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior analyst, treasury operations": {
     "t": false,
@@ -1209,11 +1214,13 @@
   },
   "major enterprise account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "major enterprise account executive - dach": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "manager, corporate accounting": {
     "t": false,
@@ -1301,7 +1308,8 @@
   },
   "strategic account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "technical support engineer": {
     "t": true,
@@ -1337,7 +1345,8 @@
   },
   "2026 total rewards/people operations specialist - early career rotation program": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 early career software engineer ": {
     "t": true,
@@ -1404,8 +1413,9 @@
     "c": "medium"
   },
   "ai solutions engineer, talent acquisition": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "ai sorcerer": {
     "t": true,
@@ -1680,8 +1690,9 @@
     "c": "medium"
   },
   "data analyst, talent acquisition": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "data engineer, infrastructure finops": {
     "t": true,
@@ -2024,8 +2035,9 @@
     "c": "medium"
   },
   "embedded software engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "embedded systems software engineer": {
     "t": true,
@@ -2052,8 +2064,9 @@
     "c": "medium"
   },
   "engineering manager, embedded systems engineering": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "engineering program manager, actuation systems": {
     "t": true,
@@ -2204,16 +2217,19 @@
     "c": "medium"
   },
   "firmware engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "firmware engineer ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "firmware engineer, embedded systems": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "flight computer hardware lead, core technology": {
     "t": true,
@@ -2769,7 +2785,8 @@
   },
   "manager, people shared services": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "manager, production maintenance": {
     "t": true,
@@ -3177,7 +3194,8 @@
   },
   "people business partner": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "perception engineer, machine learning": {
     "t": true,
@@ -3864,8 +3882,9 @@
     "c": "medium"
   },
   "senior analytics engineer, people data": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior automation engineer, intelligence systems": {
     "t": true,
@@ -4068,8 +4087,9 @@
     "c": "medium"
   },
   "senior director of talent acquisition, production": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior director, production operations - imaging": {
     "t": true,
@@ -4116,12 +4136,14 @@
     "c": "medium"
   },
   "senior embedded engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior embedded engineer, ew": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior embedded linux engineer": {
     "t": true,
@@ -4132,16 +4154,19 @@
     "c": "medium"
   },
   "senior embedded software engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior embedded software engineer, ew": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior embedded software engineer, intelligence systems ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior embedded systems software engineer": {
     "t": true,
@@ -4184,8 +4209,9 @@
     "c": "medium"
   },
   "senior facilities engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior federal materials manager, aerospace & defense": {
     "t": false,
@@ -4200,32 +4226,39 @@
     "c": "medium"
   },
   "senior firmware engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior firmware engineer (bare-metal)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior firmware engineer, counter intrusion": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior firmware engineer, embedded systems": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior firmware engineer, motor controls": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior firmware engineer (rtos)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior firmware engineer, wireless ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior flight performance engineer, air vehicles": {
     "t": true,
@@ -4493,7 +4526,8 @@
   },
   "senior manager, m&a people integration": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior manager, packaging engineering operations": {
     "t": true,
@@ -4521,11 +4555,13 @@
   },
   "senior manager, talent acquisition, manufacturing": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior manager, talent acquisition, mission readiness": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior manager, tax provision": {
     "t": false,
@@ -4721,7 +4757,8 @@
   },
   "senior people business partner": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior platform engineer / senior devops engineer / senior infrastructure engineer / senior site reliability engineer": {
     "t": true,
@@ -5441,8 +5478,9 @@
     "c": "medium"
   },
   "senior technical architect, people solutions": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior technical program manager": {
     "t": true,
@@ -5969,8 +6007,9 @@
     "c": "medium"
   },
   "staff firmware engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "staff flight avionics specialist": {
     "t": false,
@@ -6357,8 +6396,9 @@
     "c": "medium"
   },
   "support systems engineering lead, omen": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "support systems lead, copperhead": {
     "t": true,
@@ -6429,8 +6469,9 @@
     "c": "medium"
   },
   "systems engineering lead, air vehicle systems": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "systems engineer, launched effects ": {
     "t": true,
@@ -6501,8 +6542,9 @@
     "c": "medium"
   },
   "talent acquisition operations manager, analytics": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "team lead - production": {
     "t": true,
@@ -6837,20 +6879,24 @@
     "c": "medium"
   },
   "account executive, ai native ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive - asean": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, nonprofits & higher education -  apac": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, public sector": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "amazon gtm partnership, startups": {
     "t": false,
@@ -7134,67 +7180,83 @@
   },
   "enterprise account executive, conglomerate": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - cpg": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, dod/ic": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - energy & utilities": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, financial services & insurance": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - fsi": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, industries": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, industries generalist": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - life sciences": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, manufacturing": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, retail": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, system integrators": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, tech": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, telecommunications": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, transportation & utilities": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - transport & travel": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise community lead": {
     "t": false,
@@ -7245,12 +7307,14 @@
     "c": "medium"
   },
   "growth account executive, ai native": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "growth account executive, startups": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "head of anz, applied ai": {
     "t": true,
@@ -7326,11 +7390,13 @@
   },
   "manager, account executive - gsis": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "manager, account executives, startups": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "manager, applied ai engineering": {
     "t": true,
@@ -7346,7 +7412,8 @@
   },
   "manager, enterprise account executive, tech": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "manager of applied ai architecture, enterprise tech": {
     "t": true,
@@ -7374,11 +7441,13 @@
   },
   "mid-market account executive, industries": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mid-market account executive, tech": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "ml/research engineer, safeguards": {
     "t": true,
@@ -7422,15 +7491,18 @@
   },
   "people partner, tokyo": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "people programs, m&a lead": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "people research scientist, recruiting": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "performance engineer": {
     "t": true,
@@ -7718,7 +7790,8 @@
   },
   "scaled enterprise account executive, industries": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "security controls assurance lead": {
     "t": true,
@@ -7742,7 +7815,8 @@
   },
   "senior account executive, beneficial deployments ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior business systems analyst, finance systems": {
     "t": true,
@@ -8022,39 +8096,48 @@
   },
   "strategic account executive, asset & wealth management - fsi": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive, canada financial services - fsi": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive, gsi ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive, healthcare": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive, insurance - fsi": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive, investment banking & capital markets - fsi": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive, life sciences": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive, retail & commercial banking - fsi": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive, tech": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic deals lead, compute, networking & memory": {
     "t": true,
@@ -8165,8 +8248,9 @@
     "c": "medium"
   },
   "workday business systems analyst, people systems": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "quantitative researcher": {
     "t": true,
@@ -8230,11 +8314,13 @@
   },
   "corporate account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "corporate account executive, dach": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "corporate strategy and planning lead": {
     "t": false,
@@ -8266,19 +8352,23 @@
   },
   "enterprise account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, service management": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, sled": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, vertical markets": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise product manager": {
     "t": true,
@@ -8362,11 +8452,13 @@
   },
   "people partner": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "people partner, apj": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "performance creative designer": {
     "t": false,
@@ -8510,7 +8602,8 @@
   },
   "smb account executive, client management": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "smb solutions engineer, client management": {
     "t": true,
@@ -8578,11 +8671,13 @@
   },
   "account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, public sector ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "accounting manager": {
     "t": false,
@@ -8618,7 +8713,8 @@
   },
   "commercial account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "corporate finance manager": {
     "t": false,
@@ -8654,19 +8750,23 @@
   },
   "enterprise account executive, financial services (san francisco, ca)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, greenfield financial services (new york, ny)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, insurance (chicago, il)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, insurance (new york, ny)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise solutions engineer": {
     "t": true,
@@ -8678,19 +8778,23 @@
   },
   "junior people operations specialist (18 months fixed-term contract)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "large enterprise account executive (chicago, il)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "large enterprise account executive, financial services (new york, ny)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "large enterprise account executive (san francisco, ca)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "lead generation representative": {
     "t": false,
@@ -8706,7 +8810,8 @@
   },
   "mid-market account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mid-market solutions engineer": {
     "t": true,
@@ -8910,7 +9015,8 @@
   },
   "account executive, mid market": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "accounting channel partner manager": {
     "t": false,
@@ -8977,12 +9083,14 @@
     "c": "medium"
   },
   "enterprise account executive i, embedded finance": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive ii": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise implementation consultant": {
     "t": true,
@@ -9045,8 +9153,9 @@
     "c": "medium"
   },
   "people business partner director, engineering": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "product and regulatory counsel": {
     "t": true,
@@ -9190,11 +9299,13 @@
   },
   "account executive, emerging firm": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, smb": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "associate fund controller": {
     "t": false,
@@ -9246,7 +9357,8 @@
   },
   "senior account executive, private equity, fund administration": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior associate, tax delivery": {
     "t": false,
@@ -9354,7 +9466,8 @@
   },
   "senior account executive, insurance": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior engineering manager, data engineering": {
     "t": true,
@@ -9398,7 +9511,8 @@
   },
   "sr. hr business partner, g&a": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "sr. strategic partner manager \u2013 alliance partnerships": {
     "t": false,
@@ -9466,11 +9580,13 @@
   },
   "commercial account executive - canada": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "commercial account executive - uk": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "core software engineer (c++) - remote": {
     "t": true,
@@ -9502,15 +9618,18 @@
   },
   "enterprise account executive - chicago": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - mumbai": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - new england": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "full stack software engineer - billing team": {
     "t": true,
@@ -9530,7 +9649,8 @@
   },
   "people business partner lead - apj": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "principal product manager - clickhouse cloud": {
     "t": true,
@@ -9694,19 +9814,22 @@
   },
   "strategic account executive - financial services": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "support engineer - china (alibaba cloud strategic accounts) \u652f\u6301\u5de5\u7a0b\u5e08 - \u4e2d\u56fd\uff08\u963f\u91cc\u4e91\u6218\u7565\u5ba2\u6237\uff09": {
     "t": true,
     "c": "medium"
   },
   "workday & people systems lead": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive, sled (austin)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   " business development representative (bdr) ": {
     "t": false,
@@ -9730,7 +9853,8 @@
   },
   "commercial account executive (german speaking)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "country director, india": {
     "t": false,
@@ -9790,7 +9914,8 @@
   },
   "director of talent acquisition, apjc": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "director, strategic finance & investor relations": {
     "t": false,
@@ -9870,7 +9995,8 @@
   },
   "major account executive, france": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "manager, bdr - saarc": {
     "t": false,
@@ -9882,19 +10008,23 @@
   },
   "named account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "named account executive, fsi (hong kong)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "named account executive, public sector & enterprise": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "named account executive, thailand": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "network reliability engineer": {
     "t": true,
@@ -9910,7 +10040,8 @@
   },
   "principal account executive, sled west (r1 institutions and higher ed) ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "principal engineer - cloudforce one": {
     "t": true,
@@ -9922,7 +10053,8 @@
   },
   "principal named account executive, federal (cocom/stratcom/transcom)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "principal partner solutions engineer, saarc (based in bangalore)": {
     "t": true,
@@ -9930,15 +10062,18 @@
   },
   "principal people team business partner - gtm": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "principal people team business partner - m&a / strategy": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "principal people team business partner - r&d": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "principal software engineer: distributed systems (config, test, & deployment)": {
     "t": true,
@@ -9974,31 +10109,38 @@
   },
   "senior account executive, latam": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior account executive, startups (austin)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior account executive, startups (bay area)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior account executive, startups (denver)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior account executive, start-ups (nyc or boston)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior account executive, startups(nyc or boston)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior account executive, startups (san francisco)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior administrative assistant": {
     "t": false,
@@ -10013,12 +10155,14 @@
     "c": "medium"
   },
   "senior digital native named account executive, nyc": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior digital native named account executive, socal": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior director, gtm intelligence": {
     "t": false,
@@ -10038,7 +10182,8 @@
   },
   "senior enterprise account executive - brazil": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior field solutions engineer ": {
     "t": true,
@@ -10054,47 +10199,58 @@
   },
   "senior majors account executive - houston": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior majors account executive (ibm), new york": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior majors account executive - los angeles": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior majors account executive - new jersey": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior majors account executive, new jersey (pharma)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior majors account executive, new york": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior majors account executive - philadelphia, pa or new jersey": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior majors account executive - pittsburgh": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior majors account executive - san francisco, bay area": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior majors account executive - st. louis, mo": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior majors account executive, toronto ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior manager, customer engineering, india": {
     "t": true,
@@ -10106,83 +10262,103 @@
   },
   "senior named account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, benelux": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, bengaluru": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, boston": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, dallas": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive -digital native": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, digital natives": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, fedciv": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, houston": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, japan": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, melbourne": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, montreal": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, nashville": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, nordics": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, public sector, canada": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive (public sector - federal), canberra": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, salt lake city ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, spain": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, toronto": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior named account executive, western michigan ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior network engineer": {
     "t": true,
@@ -10338,39 +10514,48 @@
   },
   "senior talent acquisition business partner (go to market) ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior talent acquisition partner": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior territory account executive, digital native (hong kong)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior territory account executive, egypt": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior territory account executive - igaming (asean)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior territory account executive, korea": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior territory account executive - north china ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior territory account executive (ny)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior territory account executive - south china ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior threat intelligence engineer": {
     "t": true,
@@ -10446,43 +10631,53 @@
   },
   "territory account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "territory account executive   ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "territory account executive, digital native (hong kong)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "territory account executive, digital native (indonesia)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "territory account executive, digital native (singapore)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "territory account executive, igaming": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "territory account executive, igaming (thailand)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "territory account executive - latin america": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "territory account executive, vancouver": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "territory account executive, vietnam": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "threat intelligence software engineer, cloudforce one": {
     "t": true,
@@ -10490,7 +10685,8 @@
   },
   "vp, talent acquisition & strategy": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "vulnerability management engineer": {
     "t": true,
@@ -10498,7 +10694,8 @@
   },
   "account executive, singapore": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "director, product management": {
     "t": true,
@@ -10666,7 +10863,8 @@
   },
   "hr business partner": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "insider threat analyst": {
     "t": false,
@@ -10958,15 +11156,18 @@
   },
   "account executive ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive - federal": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive - public sector": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "ai engineer - fde (forward deployed engineer)": {
     "t": true,
@@ -10997,12 +11198,14 @@
     "c": "medium"
   },
   "core account executive, nordics (digital natives)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "core account executive - public sector": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "customer enablement specialist": {
     "t": false,
@@ -11049,8 +11252,9 @@
     "c": "medium"
   },
   "digital native account executive": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "digital native go-to-market (gtm) leader": {
     "t": true,
@@ -11102,11 +11306,13 @@
   },
   "emerging enterprise account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "emerging enterprise core account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "engagement manager": {
     "t": false,
@@ -11162,63 +11368,78 @@
   },
   "enterprise account executive, benelux": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, federal financials": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - financial services": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - hunter (new logo)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - manufacturing ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - media": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, nordics": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - public sector": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - qatar": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - retail/cpg": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise core account executive, public sector": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise hunter account executive - fsi south": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise hunter account executive - fsi west": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise hunter account executive, nordics": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise hunter account executive - west": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "executive assistant ": {
     "t": false,
@@ -11254,15 +11475,18 @@
   },
   "geo core account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "geo hunter account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "geo hunter account executive - south africa": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "global learning operations & transformation manager ": {
     "t": false,
@@ -11294,7 +11518,8 @@
   },
   "hunter account executive - philippines ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "industry lead solutions architect - financial services": {
     "t": false,
@@ -11406,31 +11631,38 @@
   },
   "named core account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "named core account executive - cmeg": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "named enterprise account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "named enterprise account executive - cpg": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "named enterprise account executive, fsi": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "named hunter account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "named hunter account executive - abu dhabi public sector": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   " partner solutions architect": {
     "t": false,
@@ -12106,7 +12338,8 @@
   },
   "sr. geo core account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "sr. isv & partner solutions architect": {
     "t": false,
@@ -12782,63 +13015,78 @@
   },
   "startup account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "startup core account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive - retail ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive-telco": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive, uae": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic core account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic core account executive - banking, m/f/d": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic core account executive - cmeg - telco ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic core account executive - cpg": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic core account executive - digital native": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "strategic core account executive - discrete manufacturing": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic core account executive - insurance, m/f/d": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic core account executive, mexico city": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic core account executive, monterrey": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic core account executive - retail ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic customer advisor ": {
     "t": false,
@@ -12850,39 +13098,48 @@
   },
   "strategic enterprise  account executive - cmeg": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic enterprise account executive - financial services": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic enterprise account executive - financial services ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic enterprise account executive, financial services": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic enterprise hunter account executive, financial services": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic enterprise hunter account executive, telco": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic hunter account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic hunter account executive - oil & gas": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic hunter enterprise account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategy & execution ai specialist": {
     "t": true,
@@ -12926,47 +13183,58 @@
   },
   "commercial account executive - boston": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "commercial account executive (france)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "commercial account executive (hong kong market)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "commercial account executive (indonesia market)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "commercial account executive - israel": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "commercial account executive - latam (portuguese speaking) - denver": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "commercial account executive - latam (spanish speaking) - boston": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "commercial account executive - sao paulo (portuguese speaking)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "commercial account executive (saudi arabia)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "commercial account executive (spanish speaking) - mexico city": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "commercial account executive uki/nordics": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "coordinator, business recruiting - contract": {
     "t": false,
@@ -13070,15 +13338,18 @@
   },
   "enterprise account executive - denmark": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - uki": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (uki) - public sector": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise it support technician i": {
     "t": false,
@@ -13254,23 +13525,28 @@
   },
   "mid market account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mid-market account executive - boston": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mid-market account executive (dach)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mid-market account executive - san francisco": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mid-market account executive - (turkey)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "network engineer ii": {
     "t": true,
@@ -13334,15 +13610,18 @@
   },
   "people business partner - nyc": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "people business partner - paris": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "people operations apprentice": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "people systems developer": {
     "t": true,
@@ -13490,7 +13769,8 @@
   },
   "senior mid market account executive - san francisco": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior partner enablement manager": {
     "t": false,
@@ -13518,7 +13798,8 @@
   },
   "senior people business partner - nyc": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior platform product manager - ai sdlc trusted throughput": {
     "t": true,
@@ -13577,8 +13858,9 @@
     "c": "medium"
   },
   "senior program manager, people team (nyc)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior security engineer - cloud siem": {
     "t": true,
@@ -13730,55 +14012,68 @@
   },
   "strategic account executive (benelux)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive (dach)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive (fed)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive (iberia)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive - paris": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive, public sector japan, fed": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive, public sector japan, sled": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive (rome - italy) ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive (saudi arabia)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive (sled)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive (uki)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive (uki) - public sector": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive (vietnam market)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "systems engineer 3, technical solutions (us-east)": {
     "t": true,
@@ -13826,11 +14121,13 @@
   },
   "account executive - japan": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive - tech": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "director, customer experience": {
     "t": false,
@@ -14034,7 +14331,8 @@
   },
   "account executive - cpg ads": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "agent, critical incident response team - san francisco, ca": {
     "t": false,
@@ -14057,8 +14355,9 @@
     "c": "medium"
   },
   "applications engineer, full stack - people ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "assistant site manager": {
     "t": false,
@@ -14389,8 +14688,9 @@
     "c": "medium"
   },
   "embedded software engineer - labs": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "engineering manager, advertiser experience ": {
     "t": true,
@@ -14421,8 +14721,9 @@
     "c": "medium"
   },
   "engineering manager, people applications": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "engineering manager, proactive security": {
     "t": true,
@@ -14442,11 +14743,13 @@
   },
   "enterprise account executive - cpg ads": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, doordash for business": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise security engineer": {
     "t": true,
@@ -14818,7 +15121,8 @@
   },
   "senior enterprise account executive, doordash for business": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior grc analyst, hipaa": {
     "t": false,
@@ -15398,7 +15702,8 @@
   },
   "senior account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior ai engineering manager ": {
     "t": true,
@@ -15486,95 +15791,118 @@
   },
   "account executive, emerging enterprise (berlin, germany)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, enterprise": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, enterprise (bengaluru, india)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, enterprise (berlin, germany)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, enterprise (london, united kingdom)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, enterprise (paris, france) ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, enterprise (singapore)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, enterprise (sydney or melbourne, australia)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, enterprise (tokyo, japan) ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive - figma weave (london, united kingdom)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive - figma weave (new york, united states)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, mid-market": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, mid-market (london, united kingdom)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, mid-market (paris, france)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, smb ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, smb (berlin, germany)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, smb (london, united kingdom)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, smb (paris, france)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, smb, spanish & portuguese speaking (s\u00e3o paulo, brazil)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, smb (tokyo, japan) ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, strategic": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, strategic (paris, france) ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, strategic (tokyo, japan)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "ai applied scientist": {
     "t": true,
@@ -15698,7 +16026,8 @@
   },
   "executive assistant, people": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "field enablement manager": {
     "t": false,
@@ -15790,19 +16119,23 @@
   },
   "people operations coordinator": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "people partner, engineering": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "people partner, japan & apac (singapore)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "people partner, product & design": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "privacy counsel": {
     "t": false,
@@ -15854,11 +16187,13 @@
   },
   "senior account executive, smb": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior account executive, uk government (london, united kingdom)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior credit & collections analyst": {
     "t": false,
@@ -15982,7 +16317,8 @@
   },
   "account executive iii (farmer)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "accounting analyst": {
     "t": false,
@@ -16058,11 +16394,13 @@
   },
   "enterprise account executive ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive  ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "global operations specialist": {
     "t": false,
@@ -16210,11 +16548,13 @@
   },
   "commercial account executive, acquisition | east | remote": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "commercial account executive, acquisition | melbourne | remote": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "director, product management - data collection, transformation, and ingest | canada | remote": {
     "t": true,
@@ -16246,11 +16586,13 @@
   },
   " enterprise account executive, acquisition | carolinas | remote": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, growth | southeast | remote": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "finance and strategy director | usa | remote": {
     "t": false,
@@ -16318,15 +16660,18 @@
   },
   "senior enterprise account executive, acquisition | bay area | remote": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior enterprise account executive, acquisition | tokyo, japan": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior enterprise account executive, growth | singapore | remote": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior executive assistant, global customer solutions | united states | pst or mst | remote": {
     "t": false,
@@ -16613,8 +16958,9 @@
     "c": "medium"
   },
   "application systems engineering manager": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "benefit customer care advocate ": {
     "t": false,
@@ -16670,7 +17016,8 @@
   },
   "future opportunities: hr constultant": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "future opportunities: licensed benefits advisor ": {
     "t": false,
@@ -16713,8 +17060,9 @@
     "c": "medium"
   },
   "hr consultant": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "payment operations": {
     "t": false,
@@ -16722,11 +17070,13 @@
   },
   "people partner lead, cx": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "people partner lead, engineering": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "principal product manager, customer onboarding ": {
     "t": true,
@@ -17054,7 +17404,8 @@
   },
   "hr coordinator": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "index options volatility trader": {
     "t": false,
@@ -17273,8 +17624,9 @@
     "c": "medium"
   },
   "senior data analyst \u2013 people analytics": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior equity options volatility trader": {
     "t": false,
@@ -17414,7 +17766,8 @@
   },
   "eversight senior account executive, enterprise team": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "finance transformation senior manager": {
     "t": false,
@@ -17469,8 +17822,9 @@
     "c": "medium"
   },
   "people experience program manager - san francisco": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "program manager ii": {
     "t": true,
@@ -17478,7 +17832,8 @@
   },
   "senior account executive, eversight": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior android engineer, shopper activation and engagement": {
     "t": true,
@@ -17549,8 +17904,9 @@
     "c": "medium"
   },
   "senior people data scientist": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior product manager, fraud & trust": {
     "t": true,
@@ -17726,7 +18082,8 @@
   },
   "enterprise account executive - germany ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "fp&a analyst - apac": {
     "t": false,
@@ -17758,11 +18115,13 @@
   },
   "mid-market account executive - australia / singapore": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mid-market acquisition account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mid-market executive - emea": {
     "t": false,
@@ -17778,7 +18137,8 @@
   },
   "senior enterprise account executive - east": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior manager, it (hybrid)": {
     "t": false,
@@ -17794,7 +18154,8 @@
   },
   "small enterprise account executive - emea": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "staff engineer \u2013 experimentation team": {
     "t": true,
@@ -17917,8 +18278,9 @@
     "c": "medium"
   },
   "data analyst, people analytics": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "data analyst, smb self-serve": {
     "t": true,
@@ -18290,11 +18652,13 @@
   },
   "senior people operations specialist": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior people partner generalist - risk & banking ops": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior product designer - accounting systems": {
     "t": true,
@@ -18462,35 +18826,42 @@
   },
   "account executive, acquisition": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, acquisition/growth": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive ( bahasa, thai or vietnamese speaker)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive, growth": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "advisory solutions architect": {
     "t": false,
     "c": "medium"
   },
   "ai natives enterprise account executive ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "associate hr shared services": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "associate, hr shared services": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "associate tse i": {
     "t": false,
@@ -18510,11 +18881,13 @@
   },
   "commercial growth account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "commercial growth account executive (spanish speaker)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "director, corporate development & ventures": {
     "t": false,
@@ -18574,51 +18947,63 @@
   },
   "enterprise account executive\t": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, acquisition": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - bahasa speaker": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (bahasa, vietnamese and thai speaker)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (cyber)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, federal": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, growth": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, growth ( bahasa speaker)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, growth (defence & mha)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, growth (digital native)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, growth (fsi)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, ksa public sector (arabic speaker)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "equity and executive compensation director": {
     "t": false,
@@ -18646,7 +19031,8 @@
   },
   "inside account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "lead, bus sys engineering - ps + csm + ts": {
     "t": true,
@@ -18738,7 +19124,8 @@
   },
   "public sector enterprise account executive, growth": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "regional director, enterprise, growth": {
     "t": false,
@@ -18761,12 +19148,14 @@
     "c": "medium"
   },
   "senior account executive, acquisition - digital native": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior account executive, acquisition ( digital native)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior administrator - business systems": {
     "t": true,
@@ -18774,11 +19163,13 @@
   },
   "senior commercial growth account executive, acquisition": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior commercial growth account executive, acquisition ( bahasa speaker)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior consulting engineer": {
     "t": true,
@@ -18802,7 +19193,8 @@
   },
   "senior director, hr business partnering": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior director, partner specialists (greater china + korea)": {
     "t": false,
@@ -18834,19 +19226,23 @@
   },
   "senior enterprise account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior enterprise account executive - banking ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior enterprise account executive, growth": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior/ enterprise account executive - strategic account": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior lead, engineering": {
     "t": true,
@@ -19266,7 +19662,8 @@
   },
   "account executive (denver)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "assistant market manager - retail direct engagement program (charlotte, nc)": {
     "t": false,
@@ -19389,12 +19786,14 @@
     "c": "medium"
   },
   "head of systems engineering": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "head of talent acquisition": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "machine learning research scientist, behavior planning and prediction ": {
     "t": true,
@@ -19662,15 +20061,18 @@
   },
   "account executive, auth0": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive large enterprise - dach": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, okta": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "ai trainer": {
     "t": true,
@@ -19762,31 +20164,38 @@
   },
   "enterprise account executive (alabama, mississippi)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (auth0)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, auth0": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, brazil ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, minnesota": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, okta": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, okta - uki": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise architect, finance & legal systems": {
     "t": true,
@@ -19830,11 +20239,13 @@
   },
   "key account executive, auth0": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "large enterprise account executive okta": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "manager, customer experience technology": {
     "t": false,
@@ -19905,8 +20316,9 @@
     "c": "medium"
   },
   "principal people business partner, r&d engineering": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "principal product manager, ai ": {
     "t": true,
@@ -19982,7 +20394,8 @@
   },
   "public sector account executive, okta": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   " regional alliance managers": {
     "t": false,
@@ -20062,7 +20475,8 @@
   },
   "senior enterprise account executive, okta": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior forward deployed engineer - okta for ai agents": {
     "t": true,
@@ -20242,7 +20656,8 @@
   },
   "smb account executive - benelux": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "social media designer": {
     "t": false,
@@ -20302,15 +20717,18 @@
   },
   "sr. commercial account executive, brazil ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "sr. commercial account executive, north latam ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "sr. commercial account executive, south cone": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "sr. director, technical development and delivery": {
     "t": true,
@@ -20570,15 +20988,18 @@
   },
   "strategic account executive, auth0": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive okta": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive uk/i": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic solutions engineer": {
     "t": true,
@@ -20678,7 +21099,8 @@
   },
   "client account executive, mid-market (goods)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "client partner, mid-market (b2b services acquisitions)": {
     "t": false,
@@ -20806,11 +21228,13 @@
   },
   "senior account executive, mid-market (dach)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior agile client account executive - emea": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior android engineer, media foundation": {
     "t": true,
@@ -21689,8 +22113,9 @@
     "c": "medium"
   },
   "credit business analyst, growth": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "customer experience associate (new grad)": {
     "t": false,
@@ -21990,35 +22415,43 @@
   },
   "account executive, commercial": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, commercial - mexico": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, majors (select) - uk&i": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, mid market (midwest)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, mid market (northeast)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, mid market (southeast)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, mid market (tola)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, mid market (west)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "ai engineer": {
     "t": true,
@@ -22034,43 +22467,53 @@
   },
   "commercial account executive ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "core enterprise account executive est/cst - remote": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "core enterprise account executive est/cst - remote - alabama": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "core enterprise account executive est/cst - remote - arkansas": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "core enterprise account executive est/cst - remote - austin, tx": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "core enterprise account executive est/cst - remote - dallas, tx": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "core enterprise account executive est/cst - remote - houston, tx": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "core enterprise account executive est/cst - remote - louisiana": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "core enterprise account executive est/cst - remote - mississippi": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "core enterprise account executive est/cst - remote - oklahoma": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "cx strategy solutions lead": {
     "t": false,
@@ -22110,19 +22553,23 @@
   },
   "enterprise account executive-major accounts": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - public sector, west": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise core account executive - public sector": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise core account executive, uk": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise implementation consultant - public sector": {
     "t": true,
@@ -22222,31 +22669,38 @@
   },
   "mid market account executive - benelux": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mid market account executive - dach": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mid-market account executive - france": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mid-market account executive -  french fluent": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mid-market account executive - mexico": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mid-market account executive - public sector": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mid-market account executive - uk&i": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "partner operations analyst": {
     "t": false,
@@ -22257,8 +22711,9 @@
     "c": "medium"
   },
   "people analytics ai engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "pricing and revenue planner": {
     "t": false,
@@ -22286,19 +22741,23 @@
   },
   "public sector major account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   " select major account executive (cst)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "select major account executive (cst)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "select major account executive (est)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior ai engineer, platform": {
     "t": true,
@@ -22474,7 +22933,8 @@
   },
   "sr. partner account executive, emea fmc": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "sr. production designer": {
     "t": true,
@@ -22537,8 +22997,9 @@
     "c": "medium"
   },
   "staff systems engineering program manager": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "strategic implementation consultant": {
     "t": true,
@@ -22658,11 +23119,13 @@
   },
   "enterprise account executive (financial services)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (healthcare & life sciences)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise ai development strategist": {
     "t": true,
@@ -23246,123 +23709,153 @@
   },
   "account executive, commercial grower (japanese fluency)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, commercial hunter (japanese fluency)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, cross border china": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive - enterprise, grower": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, enterprise - grower": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, enterprise grower (australia)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive - enterprise, growth": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, enterprise - hunter": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, enterprise hunter (dach market)  ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, enterprise hunter (french fluency)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, enterprise hunter (japanese fluency)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, enterprise platforms (grower)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive, enterprise platforms, hunter": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive, existing business, platforms": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive, funded startups - expansion": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, funded startups, hunter": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, fx and multi-currency": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, hunter (portuguese speaking)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, mid market (hunter)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, platforms": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive, platforms grower (aunz)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive, platforms hunter (french fluency)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive, platforms (new business) ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive, smb (grower)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, smb (hunter)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, smb hunter (french fluency) ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, ssmb - existing business (french fluency)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, startup platforms ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive - startups, hunter anz": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, velocity hunter (spanish speaking), iberia": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "accounting technical solutions lead": {
     "t": true,
@@ -23678,7 +24171,8 @@
   },
   "enterprise account executive (hunter fsi)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise product support manager": {
     "t": true,
@@ -23806,7 +24300,8 @@
   },
   "global people support - team lead": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "global strategic alliances lead, emerging gsis": {
     "t": false,
@@ -23954,7 +24449,8 @@
   },
   "manager, startups account executives - existing business": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "manager, tam (greater china)": {
     "t": false,
@@ -24053,16 +24549,19 @@
     "c": "medium"
   },
   "people consultant": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "people project manager": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "people solutions program manager": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "portfolio pricing strategist": {
     "t": false,
@@ -24301,8 +24800,9 @@
     "c": "medium"
   },
   "senior account executive, platforms hunter (french fluency)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior staff product designer, risk": {
     "t": true,
@@ -24310,7 +24810,8 @@
   },
   "services account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "short-form video & social, community comms": {
     "t": false,
@@ -24834,11 +25335,13 @@
   },
   "account executive 4": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive new business": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "applications engineer 2": {
     "t": true,
@@ -24910,11 +25413,13 @@
   },
   "new business account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "new business account executive ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "partner program manager": {
     "t": true,
@@ -24922,7 +25427,8 @@
   },
   "people operations specialist": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "personalized support expert 2": {
     "t": false,
@@ -25014,7 +25520,8 @@
   },
   "senior strategic account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior technical talent advisor": {
     "t": true,
@@ -25122,31 +25629,38 @@
   },
   "strategic account executive 3": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive 3 - isv": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive 4": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive 4 - isv": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive 4 - twilio.org": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive (german speaking)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive (german speaking) ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "supportability engineer 3": {
     "t": true,
@@ -25182,55 +25696,68 @@
   },
   "account executive, france": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, nordics ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive (osaka, japan)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, select, austin": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, select, phoenix": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, select, salt lake city (mid-market)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   " account executive, select, san mateo": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, seoul": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, sydney": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, territory, chicago": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, territory (mid-market)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, tokyo": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, uk": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "associate, pricing & commercial operations": {
     "t": false,
@@ -25277,8 +25804,9 @@
     "c": "medium"
   },
   "director of firmware engineering, cameras": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "director of global security": {
     "t": true,
@@ -25314,107 +25842,133 @@
   },
   "enterprise account executive (calgary)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (chicago - sled)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive - france": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (houston - sled)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   " enterprise account executive (idaho)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (illinois)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (ky)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (la - corporate)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, latam": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (nashville)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (new jersey - muni)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (new york city - muni)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (new york - corporate)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (northeast - state)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (nova/md - muni)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (ohio - sled)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (osaka)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive , quebec": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (rio grande valley - sled)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (southern california - sled)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (tennessee)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive, tokyo": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (toronto)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (washington)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (washington - sled)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise account executive (wisconsin)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise development representative": {
     "t": false,
@@ -25462,7 +26016,8 @@
   },
   "global enterprise account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "global monitoring operations lead": {
     "t": false,
@@ -25525,8 +26080,9 @@
     "c": "medium"
   },
   "linux embedded software engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "manager, strategic finance & business operations ": {
     "t": false,
@@ -25654,7 +26210,8 @@
   },
   "senior people partner": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior privacy counsel": {
     "t": false,
@@ -25790,8 +26347,9 @@
     "c": "medium"
   },
   "staff embedded software engineer - camera firmware": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "staff frontend engineer - design systems": {
     "t": true,
@@ -25863,23 +26421,28 @@
   },
   "account executive, emea": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "corporate account executive - east": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "corporate account executive - west": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "growth account executive - east": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "growth account executive - washington d.c. ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "lead solutions engineer - west": {
     "t": true,
@@ -26279,7 +26842,8 @@
   },
   "people relations specialist": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "platform intelligence engineer": {
     "t": true,
@@ -26667,7 +27231,8 @@
   },
   "senior hr generalist": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior machine learning engineer - ads r&d": {
     "t": true,
@@ -27122,8 +27687,9 @@
     "c": "medium"
   },
   "hardware systems engineering technical leader": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic physical design engineer": {
     "t": true,
@@ -27154,8 +27720,9 @@
     "c": "medium"
   },
   "embedded software test engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "hardware (power) engineer": {
     "t": true,
@@ -27307,7 +27874,8 @@
   },
   "account executive - higher education": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "engineering project specialist": {
     "t": true,
@@ -27323,7 +27891,8 @@
   },
   "account executive, portfolio - sled - st louis": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "leader, solutions engineer - us commercial - chicago": {
     "t": true,
@@ -27347,7 +27916,8 @@
   },
   "account executive - splunk - sled pa": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "relevance engineer \u2013 enterprise search & ai north carolina hybrid": {
     "t": true,
@@ -27363,7 +27933,8 @@
   },
   "account executive portfolio - us commercial - cleveland": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "agentic solutions architect - splunk (remote)": {
     "t": false,
@@ -27395,7 +27966,8 @@
   },
   "account executive - portfolio sled": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "product manager - network": {
     "t": true,
@@ -27503,7 +28075,8 @@
   },
   "people & communities - country support representative": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "director, data operations": {
     "t": true,
@@ -27555,7 +28128,8 @@
   },
   "account executive - architecture": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "software engineer, solutions engineering": {
     "t": true,
@@ -27563,11 +28137,13 @@
   },
   "account executive - splunk commercial (remote)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive - splunk commercial (austin)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "consulting engineer | (sda/sdwan/aci) | 5+ years": {
     "t": true,
@@ -27611,7 +28187,8 @@
   },
   "nz account executive - splunk": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "consulting engineer | enterprise (sdwan/sda/aci) | 5+ years": {
     "t": true,
@@ -27627,19 +28204,23 @@
   },
   "account executive \u2013 sky (london)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive - isovalent (cloud native security)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "federal civilian security account executive - architecture": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "cybersecurity account executive - commercial (dfw)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "test development engineering technical leader": {
     "t": true,
@@ -27647,11 +28228,13 @@
   },
   "account executive - portfolio": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "inside account executive - architecture": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "solutions engineer - service provider - morocco": {
     "t": true,
@@ -27659,11 +28242,13 @@
   },
   "partner account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive - splunk - higher ed midatlantic": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "cleared devops lead engineer hybrid": {
     "t": true,
@@ -27735,7 +28320,8 @@
   },
   "account executive - splunk": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "technical leader- sdwan/routing escalations": {
     "t": true,
@@ -27778,12 +28364,14 @@
     "c": "medium"
   },
   "senior embedded software engineer | c, device driver, linux , spi/i2c/pci - 8 to 12 years": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive - splunk (m/f/d)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "leader, customer delivery": {
     "t": false,
@@ -27807,11 +28395,13 @@
   },
   "account executive - splunk commercial (tampa)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive - ai defense": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "associate solutions engineer - csap - united arab emirates (uae)": {
     "t": true,
@@ -27831,7 +28421,8 @@
   },
   "account executive - portfolio, ges - chicago": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "component engineering technical leader": {
     "t": true,
@@ -27874,8 +28465,9 @@
     "c": "medium"
   },
   "embedded software engineer - c, linux, networking (5+ yrs)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "leader, software engineering, cygnus platforms": {
     "t": true,
@@ -27982,8 +28574,9 @@
     "c": "medium"
   },
   "cyber security account executive \u2013 enterprise": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic dft sta technical lead": {
     "t": true,
@@ -27995,7 +28588,8 @@
   },
   "account executive - portfolio, east bay sled": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior solutions engineer cybersecurity - splunk dubai": {
     "t": true,
@@ -28003,7 +28597,8 @@
   },
   "account executive - acacia": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "principal customer program manager": {
     "t": true,
@@ -28038,8 +28633,9 @@
     "c": "medium"
   },
   "inside partner account executive, security": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "business development manager (cisco networking academy program)": {
     "t": true,
@@ -28051,11 +28647,13 @@
   },
   "account executive - services": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "partner account executive - services": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior solutions engineer, splunk": {
     "t": true,
@@ -28094,8 +28692,9 @@
     "c": "medium"
   },
   "embedded software technical leader - acacia (onsite)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "product management leader, client optics - acacia (remote)": {
     "t": true,
@@ -28123,7 +28722,8 @@
   },
   "account executive - services, vodafone account": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "distinguished engineer - chief architect": {
     "t": true,
@@ -28167,7 +28767,8 @@
   },
   "account executive - sase market capture & expansion": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "software consulting engineer | 5+ years, java/python": {
     "t": true,
@@ -28175,7 +28776,8 @@
   },
   "director, people and communities": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "service delivery manager - optus": {
     "t": false,
@@ -28474,8 +29076,9 @@
     "c": "medium"
   },
   "account executive - services & software buying programs": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior system test engineer \u2013 python & network security from 8+ years": {
     "t": true,
@@ -28514,8 +29117,9 @@
     "c": "medium"
   },
   "embedded software engineer - c program/i2c,uart,spi,pcie/bsp/boot loader - 8 to 12 years - bangalore": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "package mechanical design engineer": {
     "t": true,
@@ -28539,7 +29143,8 @@
   },
   "account executive - kddi": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior kubernetes platform engineer - ai/ml infrastructure": {
     "t": true,
@@ -28683,7 +29288,8 @@
   },
   "account executive - splunk (new england)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "graduate business operations analyst, norway": {
     "t": false,
@@ -28763,7 +29369,8 @@
   },
   "account executive - public sector splunk, ireland": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "solutions engineer(network & data center)": {
     "t": true,
@@ -28803,7 +29410,8 @@
   },
   "account executive - splunk (global pharma)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior software engineer - c/c++ networking & security": {
     "t": true,
@@ -28843,7 +29451,8 @@
   },
   "account executive - splunk (florida)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "distinguished hardware engineer": {
     "t": true,
@@ -28859,7 +29468,8 @@
   },
   "account executive - global": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "junior c++ software engineer - serbia - etr": {
     "t": true,
@@ -28878,8 +29488,9 @@
     "c": "medium"
   },
   "inside account executive - security (turkey and cis region)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software qa automation engineer (multi-cloud networking & automation)": {
     "t": true,
@@ -28931,7 +29542,8 @@
   },
   "\u3010\u969c\u788d\u8005\u63a1\u7528\u67a0\u3011hr operations support": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "consulting engineer - japan cx": {
     "t": true,
@@ -29023,7 +29635,8 @@
   },
   "telco account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior network support engineer | thousandeyes federal": {
     "t": true,
@@ -29059,7 +29672,8 @@
   },
   "account executive - industrial iot": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategy, operations and investment programme lead - higher education": {
     "t": false,
@@ -29087,7 +29701,8 @@
   },
   "account executive (public sector) - splunk": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "solutions engineer (gse) - splunk": {
     "t": true,
@@ -29162,12 +29777,14 @@
     "c": "medium"
   },
   "embedded software engineer - 4 to 8 yrs": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "leader, hardware engineering | power electronics, power systems, power design, buck-boost, fly-back, buck, allegro, ltspice, pspice, people leadership | 14+ years, bangalore": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "qa engineer | l2/l3 protocols, networking , python , testing, manual testing | 8-12 years": {
     "t": true,
@@ -29206,8 +29823,9 @@
     "c": "medium"
   },
   "embedded software engineering technical leader": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "director, hardware engineering | photonics ic, serdes, eic, pic, high speed wireline | 15+ years, bangalore": {
     "t": true,
@@ -29311,7 +29929,8 @@
   },
   "strategic account executive (\u5927\u624b\u65e2\u5b58\u30b0\u30eb\u30fc\u30d7\u4f01\u696d\u62c5\u5f53) - splunk": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic pursuit lead (strategic engagement team) - cisco": {
     "t": false,
@@ -29323,7 +29942,8 @@
   },
   "inside account executive-smb": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "asic design engineering technical leader": {
     "t": true,
@@ -29398,8 +30018,9 @@
     "c": "medium"
   },
   "embedded software engineer wireless": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "phy system": {
     "t": false,
@@ -29499,7 +30120,8 @@
   },
   "account executive - sled central": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "staff it asset architect": {
     "t": false,
@@ -30040,7 +30662,8 @@
   },
   "director, hr business partner - film": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "software engineer 6 - creative studio": {
     "t": true,
@@ -30868,7 +31491,8 @@
   },
   "senior manager, hr shared services": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "administrative assistant - production apac": {
     "t": true,
@@ -31236,7 +31860,8 @@
   },
   "hr business partner , eyeline - korea": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "full-stack engineer 5 \u2013  ai insights & visualizations, ai platform": {
     "t": true,
@@ -32044,7 +32669,8 @@
   },
   "team lead, es people services": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "forward deployed engineer - greek speaker": {
     "t": true,
@@ -32087,8 +32713,9 @@
     "c": "medium"
   },
   "revenue cloud account executive - norway": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. software engineer, cloud network - slack": {
     "t": true,
@@ -32107,8 +32734,9 @@
     "c": "medium"
   },
   "service cloud account executive": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "solution architect / senior solution architect - missionforce (cleared)": {
     "t": false,
@@ -32167,8 +32795,9 @@
     "c": "medium"
   },
   "software architect - wifi protocol stacks/embedded software": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior manager - software design wi-fi": {
     "t": true,
@@ -32247,8 +32876,9 @@
     "c": "medium"
   },
   "senior software engineer - c/c++/embedded software": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior staff/ staff design engineer": {
     "t": true,
@@ -32263,8 +32893,9 @@
     "c": "medium"
   },
   "senior software engineer - iot embedded software (matter)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "engineer i - software qa": {
     "t": true,
@@ -32392,7 +33023,8 @@
   },
   "project manager - people (12 -18 months ftc)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "oracle fusion technical support consultant": {
     "t": true,
@@ -32444,7 +33076,8 @@
   },
   "senior analyst, business process risk and controls": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior outsourcing aml relationship manager": {
     "t": true,
@@ -32512,7 +33145,8 @@
   },
   "principal account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior customer solutions engineer": {
     "t": true,
@@ -32540,7 +33174,8 @@
   },
   "enterprise account executive-ohio/kentucky": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior solutions consultant": {
     "t": true,
@@ -32552,7 +33187,8 @@
   },
   "strategic account executive - agentic technology specialist": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "manager, engineering - features": {
     "t": true,
@@ -32592,7 +33228,8 @@
   },
   "public sector account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "advisory solutions consultant": {
     "t": true,
@@ -32759,8 +33396,9 @@
     "c": "medium"
   },
   "research associate, biology": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "research operations lead, biology": {
     "t": true,
@@ -32852,7 +33490,8 @@
   },
   "named enterprise account executive - oil, gas & energy": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "sr. forward deployed engineer - fde - digital native business ": {
     "t": true,
@@ -32868,7 +33507,8 @@
   },
   "strategic account executive - consumer goods industry ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "manager i, engineering - ai platform - evaluation & annotation": {
     "t": true,
@@ -33951,8 +34591,9 @@
     "c": "medium"
   },
   "facilities engineer ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "finance analytics engineer": {
     "t": true,
@@ -34644,7 +35285,8 @@
   },
   "mid-market account executive - canada": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "sr. software engineer i, cloud security platform ": {
     "t": true,
@@ -34903,12 +35545,14 @@
     "c": "medium"
   },
   "avionics systems engineer (starship) ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "avionics systems engineer (starship)   ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "avionics test engineer (starshield)": {
     "t": true,
@@ -35027,8 +35671,9 @@
     "c": "medium"
   },
   "business analyst (starlink growth)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "business operations analyst (starlink)": {
     "t": false,
@@ -35575,28 +36220,34 @@
     "c": "medium"
   },
   "embedded software engineer, laser mesh routing (starlink)   ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "embedded software engineer, os/platform  (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "embedded software engineer, os/platform (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "embedded software engineer, os/platform (starshield)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "embedded software engineer, satellite antenna (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "embedded software engineer (starlink) ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "emc/emi test specialist ": {
     "t": false,
@@ -35763,24 +36414,29 @@
     "c": "medium"
   },
   "facilities engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "facilities engineer, electrical (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "facilities engineer, mechanical (starlink) ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "facilities engineer, mep": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "facilities engineer, solar cell factory (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "facilities infrastructure engineer": {
     "t": true,
@@ -36240,11 +36896,13 @@
   },
   "hr business partner (employee relations)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "hr generalist": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "hvac design engineer (facilities)": {
     "t": true,
@@ -37711,8 +38369,9 @@
     "c": "medium"
   },
   "propulsion fluids analyst (raptor systems engineering)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "propulsion technician (raptor)": {
     "t": false,
@@ -38115,12 +38774,14 @@
     "c": "medium"
   },
   "software engineer, embedded software (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineer, embedded software (starshield)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineer, engineering simulation & automation (vehicle engineering)": {
     "t": true,
@@ -38547,16 +39208,19 @@
     "c": "medium"
   },
   "sr. business analyst (starlink enterprise)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. business analyst (starlink growth)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. business analyst, workforce planning (starlink) ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. cam engineer, pcb (starlink)": {
     "t": true,
@@ -38671,16 +39335,19 @@
     "c": "medium"
   },
   "sr. embedded software engineer, laser mesh routing (starlink)   ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. embedded software engineer, os/platform (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. embedded software engineer (starlink) ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. environmental health & safety engineer": {
     "t": true,
@@ -38707,16 +39374,19 @@
     "c": "medium"
   },
   "sr. facilities engineer (fluids & cryogenics) ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. facilities engineer, solar cell factory (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. facilities engineer (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. financial systems analyst (d365)": {
     "t": true,
@@ -38784,7 +39454,8 @@
   },
   "sr. hr investigator (employee relations)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "sr. hvac and mechanical piping superintendent": {
     "t": false,
@@ -38975,8 +39646,9 @@
     "c": "medium"
   },
   "sr. propulsion fluids analyst (raptor systems engineering)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. propulsion thermal analyst (raptor combustion devices)": {
     "t": false,
@@ -39359,8 +40031,9 @@
     "c": "medium"
   },
   "sr. wireless firmware engineer (starlink mobile)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. wireless software engineer (starlink)": {
     "t": true,
@@ -39995,8 +40668,9 @@
     "c": "medium"
   },
   "wireless firmware engineer (starlink mobile)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "wireless software engineer (starlink)": {
     "t": true,
@@ -40016,11 +40690,13 @@
   },
   "account executive, hunter, iberia ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive, product (link and financial connections)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "creative producer, link": {
     "t": false,
@@ -40087,8 +40763,9 @@
     "c": "medium"
   },
   "program manager - culture & people development": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior label relations manager": {
     "t": false,
@@ -40179,8 +40856,9 @@
     "c": "medium"
   },
   "business analyst": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "business continuity charging infrastructure manager": {
     "t": true,
@@ -40231,8 +40909,9 @@
     "c": "medium"
   },
   "embedded software technical lead & manager, simulation": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "emergency management program manager ": {
     "t": true,
@@ -40343,8 +41022,9 @@
     "c": "medium"
   },
   "head of technical talent acquisition": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "head of workplace strategy and services": {
     "t": false,
@@ -40451,12 +41131,14 @@
     "c": "medium"
   },
   "people business partner - engineering": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "people development operations specialist": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "perception machine learning engineer": {
     "t": true,
@@ -41451,8 +42133,9 @@
     "c": "medium"
   },
   "technical program manager, systems engineering": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "technical training manager (wra/rs)": {
     "t": true,
@@ -41496,7 +42179,8 @@
   },
   "account executive - regional accounts": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "territory accounts representative": {
     "t": false,
@@ -41567,8 +42251,9 @@
     "c": "medium"
   },
   "critical facilities engineering program manager": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "junior physical design engineer - israel - etr": {
     "t": true,
@@ -41588,7 +42273,8 @@
   },
   "partner account executive - architecture": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "applied ai scientist": {
     "t": true,
@@ -41615,8 +42301,9 @@
     "c": "medium"
   },
   "inside account executive - cybersecurity": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "hardware engineer ii (co-op) - united states": {
     "t": true,
@@ -41627,8 +42314,9 @@
     "c": "medium"
   },
   "business analyst i (full time) united states": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "automation ai ops engineer hybrid": {
     "t": true,
@@ -41648,7 +42336,8 @@
   },
   "account executive, portfolio - us commercial - des moines": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "system signal & power integrity hardware asic simulation engineer lead (remote)": {
     "t": true,
@@ -41667,12 +42356,14 @@
     "c": "medium"
   },
   "leader, people consulting": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive - americas service providers - thousandeyes": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "security engineer (remote)": {
     "t": true,
@@ -41932,7 +42623,8 @@
   },
   "senior account executive \u2013 integration solutions, army": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "software engineering lmts - tableau": {
     "t": true,
@@ -41943,8 +42635,9 @@
     "c": "medium"
   },
   "cloud account executive  - sweden": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "deployment strategist - polish speking": {
     "t": false,
@@ -41952,31 +42645,38 @@
   },
   "informatica account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account executive - manufacturing / construction enterprise": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior account executive enterprise - financial services": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "prime account executive - data foundation": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "platform account executive": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive - agentforce service": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "strategic account executive (consumer goods) - data foundation": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineering smts - ai cloud": {
     "t": true,
@@ -42028,7 +42728,8 @@
   },
   "ecs account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "oracle fusion lead consultant \u2013 contract to fulfilment (c2f)": {
     "t": true,
@@ -42071,8 +42772,9 @@
     "c": "medium"
   },
   "business analyst intern": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "executive assistant intern ": {
     "t": false,
@@ -42080,7 +42782,8 @@
   },
   "hr assistant intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "software development intern, intech": {
     "t": true,
@@ -42155,8 +42858,9 @@
     "c": "medium"
   },
   "business analyst intern, gm cn bi": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "associate solutions architect intern - uae national": {
     "t": false,
@@ -42164,15 +42868,17 @@
   },
   "design intern , amazon university talent acquisition ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2026 software dev engineer intern - ireland": {
     "t": true,
     "c": "medium"
   },
   "business analyst intern, agl cn bi": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "2026 program manager intern , prime video": {
     "t": true,
@@ -42183,8 +42889,9 @@
     "c": "medium"
   },
   "2026 applied scientist intern, amazon university talent acquisition": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "demand generation rep intern - vietnam market": {
     "t": false,
@@ -42192,7 +42899,8 @@
   },
   "project intern, amazon university talent acquisition ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "network development engineer intern - fall 2026": {
     "t": true,
@@ -42204,7 +42912,8 @@
   },
   "instock intern, amazon university talent acquisition ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "quality assurance eng. intern, 2026 beijing": {
     "t": false,
@@ -42215,8 +42924,9 @@
     "c": "medium"
   },
   "business analyst intern, amazon university talent acquisition ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "demand generation rep intern - philippines market": {
     "t": false,
@@ -42224,7 +42934,8 @@
   },
   "business development intern, amazon university talent acquisition ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2026 software dev engineer intern - haifa, israel": {
     "t": true,
@@ -42244,7 +42955,8 @@
   },
   "aws tech intern, amazon university talent acquisition ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2026 safety specialist intern, workplace , health & safety": {
     "t": false,
@@ -42260,11 +42972,13 @@
   },
   "business intelligence intern, amazon university talent acquisition ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "product management intern, amazon university talent acquisition ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software dev engineer intern, (devices) 2026 beijing": {
     "t": true,
@@ -42276,23 +42990,28 @@
   },
   "hr intern - s\u00e3o paulo, amazon university talent acquisition ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "software development engineer intern, amazon university talent acquisition ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "business intelligence intern - cajamar, amazon university talent acquisition ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "operations intern - cajamar, amazon university talent acquisition ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "project intern - aws, amazon university talent acquisition ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "software development engineer fall intern - military veteran": {
     "t": true,
@@ -42300,7 +43019,8 @@
   },
   "operations intern - s\u00e3o paulo, amazon university talent acquisition ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2026 software dev engineer intern - tel-aviv, israel": {
     "t": true,
@@ -42336,7 +43056,8 @@
   },
   "operations intern - nova santa rita (rs), amazon university talent acquisition ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "software development engineer intern, aws data services - fall 2026 (us)": {
     "t": true,
@@ -42344,11 +43065,13 @@
   },
   "operations intern - belford roxo (rj), amazon university talent acquisition ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "deu business development intern - 12 months, amazon university talent acquisition": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 applied science intern (computer vision), amazon international machine learning": {
     "t": true,
@@ -42356,7 +43079,8 @@
   },
   "deu business development intern - 6 months, amazon university talent acquisition": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "tech ops engineer intern  - fall 2026, aws data center commissioning": {
     "t": true,
@@ -42364,11 +43088,13 @@
   },
   "operations intern - cabo de santo agostinho (pe), amazon university talent acquisition ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "manager, global intern evaluations & offboarding experience, amazon university talent acquisition (auta)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 applied science intern (machine learning, recommender systems), amazon international machine learning": {
     "t": true,
@@ -42376,7 +43102,8 @@
   },
   "aws tech intern (vaga afirmativa para pessoas com defici\u00eancia), amazon university talent acquisition ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "information technology/computer hardware internship (2026 intern-to-full-time pathway), saudi arabia, aws": {
     "t": true,
@@ -42399,8 +43126,9 @@
     "c": "medium"
   },
   "2026 data scientist internship , amazon university talent acquisition": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "fall 2026 applied science internship - canada, phd student science recruiting": {
     "t": true,
@@ -42440,7 +43168,8 @@
   },
   "senior manager, recruiting, amazon university talent acquisition ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "jr. software development engineer - santa barbara, ca, jr. developer program": {
     "t": true,
@@ -42483,8 +43212,9 @@
     "c": "medium"
   },
   "embedded software student , annapurna labs": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "2026 fall applied science internship - information & knowledge management (machine learning) - united states, phd student science recruiting": {
     "t": true,
@@ -42536,7 +43266,8 @@
   },
   "business development intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "deep learning intern": {
     "t": false,
@@ -42732,7 +43463,8 @@
   },
   "field marketing intern (fall 2026)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "financial analyst intern (fall 2026)": {
     "t": false,
@@ -42744,7 +43476,8 @@
   },
   "holiday marketing intern (fall 2026)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "maps intern (fall 2026)": {
     "t": false,
@@ -42772,7 +43505,8 @@
   },
   "marketing intern, social & creative - summer 2026 (hybrid @ bellevue, wa)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "internship inquiries ": {
     "t": false,
@@ -42876,7 +43610,8 @@
   },
   "lead, integrated marketing, nelnet campus commerce": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "intern corporate accounts payable": {
     "t": false,
@@ -42940,7 +43675,8 @@
   },
   "sales intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 commercial banking summer internship \u2013 early careers (ny)": {
     "t": false,
@@ -43219,8 +43955,9 @@
     "c": "medium"
   },
   "systems engineering intern": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "flight software engineering intern - fall 2026": {
     "t": true,
@@ -43348,7 +44085,8 @@
   },
   "fall 2026: social sharks latin america (latam) marketing co-op (july/august to december)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "gestionnaire de la communaut\u00e9 social sharks (co-op) // fall 2026: social sharks community manager co-op (july through december) ": {
     "t": false,
@@ -43423,8 +44161,9 @@
     "c": "medium"
   },
   "summer 2027 systems engineering intern": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "secondaries & primaries intern - summer 2027 | sf": {
     "t": false,
@@ -43448,7 +44187,8 @@
   },
   "hr total rewards intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "risk management intern, fall 2026": {
     "t": false,
@@ -43472,7 +44212,8 @@
   },
   "marketing operations co-op": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "vetting analyst intern": {
     "t": false,
@@ -43492,7 +44233,8 @@
   },
   "tmz affiliate marketing intern - fall 2026": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "tmz news desk intern - fall 2026": {
     "t": false,
@@ -43532,7 +44274,8 @@
   },
   "marketing operation intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "it operations intern": {
     "t": false,
@@ -43579,8 +44322,9 @@
     "c": "medium"
   },
   "product management/marketing intern \u2013 summer 2026": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "new product development intern \u2013 summer 2026": {
     "t": true,
@@ -43664,7 +44408,8 @@
   },
   "mba hr intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 financial audit intern": {
     "t": false,
@@ -43892,7 +44637,8 @@
   },
   "2027 pharmaceutical sales intern (undergraduate)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 business technology solutions intern (undergraduate)": {
     "t": true,
@@ -43936,7 +44682,8 @@
   },
   "intern, hr employee resource group": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "it intern - summer 2027": {
     "t": false,
@@ -43956,7 +44703,8 @@
   },
   "firmware intern [fall 2026]": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "hardware test intern [fall 2026]": {
     "t": false,
@@ -43983,8 +44731,9 @@
     "c": "medium"
   },
   "embedded software engineer intern - fall 2026": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineer intern - fall 2026": {
     "t": true,
@@ -44020,7 +44769,8 @@
   },
   "category marketing intern - personal work solutions": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "accelerated computing solutions analyst - early career": {
     "t": false,
@@ -44028,11 +44778,13 @@
   },
   "marketing intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "co-op custom design marketing": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "nidec aerospace internship & graduate opportunities": {
     "t": false,
@@ -44044,7 +44796,8 @@
   },
   "outside sales internship - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 mba leadership development program (mldp) intern": {
     "t": true,
@@ -44213,7 +44966,8 @@
   },
   "fall 2026: social/sharks latin america (latam) marketing co-op (july/august to december)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "intern \u2013 graphic designer": {
     "t": false,
@@ -44425,7 +45179,8 @@
   },
   "junior account executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "associate software engineer intern": {
     "t": true,
@@ -44512,8 +45267,9 @@
     "c": "medium"
   },
   "digital/sharks - digital marketing associate - content & digital shelf (early careers)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineer intern (winter 2027)": {
     "t": true,
@@ -44692,8 +45448,9 @@
     "c": "medium"
   },
   "embedded software developer - new grad": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "acres - customer success intern": {
     "t": false,
@@ -44701,7 +45458,8 @@
   },
   "business development intern - acres": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "web & graphic design intern - serve2perform": {
     "t": false,
@@ -44988,8 +45746,9 @@
     "c": "medium"
   },
   "intern, research associate (hci)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "new grad- integration specialist": {
     "t": false,
@@ -45464,8 +46223,9 @@
     "c": "medium"
   },
   "firmware engineer intern, robotics and surgery engineering": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "machine learning engineer intern": {
     "t": true,
@@ -45788,8 +46548,9 @@
     "c": "medium"
   },
   "marketing analytics - client services associate - july 2027 start date - adp": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "marketing analytics - data analyst - july 2027 start date - adp": {
     "t": true,
@@ -45820,8 +46581,9 @@
     "c": "medium"
   },
   "embedded software developer, network/payload software intern (fall 2026)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "environmental test engineer associate (fall 2026)": {
     "t": true,
@@ -46404,8 +47166,9 @@
     "c": "medium"
   },
   "fall 2026: digital/sharks, sales co-op, marketplaces (august to december)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "contract student  worker: analyst (full-time)": {
     "t": false,
@@ -46492,8 +47255,9 @@
     "c": "medium"
   },
   "strategy consulting intern - summer 2027": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "early career nasa space reactor \u2013 1 freedom flight software development engineer": {
     "t": true,
@@ -46528,8 +47292,9 @@
     "c": "medium"
   },
   "junior business analyst": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "2027 winter student opportunities rbc borealis -machine learning software engineer, 4 months\u00a0- montreal": {
     "t": true,
@@ -46560,8 +47325,9 @@
     "c": "medium"
   },
   "long range platform embedded firmware intern (summer 2027)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "long range platform hardware engineering intern (summer 2027)": {
     "t": true,
@@ -46849,7 +47615,8 @@
   },
   "summer 2027 hr programs & associate experience intern - onsite carmel, in": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "ge vernova commercial internship \u2013 us \u2013 summer 2027-1": {
     "t": false,
@@ -46945,11 +47712,13 @@
   },
   "graphic design marketing externship summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "marketing externship summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise data office college co-op - fall 2026 - cincinnati": {
     "t": true,
@@ -47180,8 +47949,9 @@
     "c": "medium"
   },
   "business analyst (new grad) ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "devops engineer i (new grad)": {
     "t": true,
@@ -47285,7 +48055,8 @@
   },
   "sales internship - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "fp&a internship - sales & trade finance - summer 2027": {
     "t": false,
@@ -47461,7 +48232,8 @@
   },
   "marketing strategy intern, walt disney world resort, spring 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "wdi show control hardware intern, spring 2027": {
     "t": false,
@@ -47493,11 +48265,13 @@
   },
   "mercury marine: sales intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mercury marine: retail sales intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mercury marine: experience management intern": {
     "t": false,
@@ -47568,8 +48342,9 @@
     "c": "medium"
   },
   "embedded software engineer - new grad": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "wdi communications intern, orlando, spring 2027": {
     "t": false,
@@ -47605,7 +48380,8 @@
   },
   "marketing intern (spring 2027)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "bmo capital markets winter 2027 investment banking analyst, real estate brokerage, toronto (co-op/ internship)": {
     "t": false,
@@ -47657,11 +48433,13 @@
   },
   "summer 2027 intern wellness and people focus intern - hybrid \u2013 (carmel, in or chicago, il)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "summer 2027 marketing brand development intern - remote from any us based location": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "cybersecurity intern (summer 2027)": {
     "t": true,
@@ -47724,8 +48502,9 @@
     "c": "medium"
   },
   "mercury marine: facilities engineering intern": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "mercury marine: advanced manufacturing/operations analytics engineering co-op": {
     "t": true,
@@ -47784,8 +48563,9 @@
     "c": "medium"
   },
   "embedded software engineering intern 2027": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "frontend software engineering intern 2027": {
     "t": true,
@@ -47808,8 +48588,9 @@
     "c": "medium"
   },
   "embedded software engineer intern (spring 2027)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "2026 legal & contracts fall internship": {
     "t": false,
@@ -47840,8 +48621,9 @@
     "c": "medium"
   },
   "2027 systems engineering summer internship": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "futures & options trading analyst intern - summer 2027": {
     "t": false,
@@ -47917,11 +48699,13 @@
   },
   "business development intern - spring 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "business development intern - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "transaction tax intern - summer 2027": {
     "t": false,
@@ -48216,16 +49000,19 @@
     "c": "medium"
   },
   "intern - marketing research": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "intern - cdbu marketing": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "corporate marketing storytelling intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 elevate program and 2028 assurance intern": {
     "t": false,
@@ -48256,12 +49043,14 @@
     "c": "medium"
   },
   "embedded engineering intern (summer 2027)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "fall 2026: brand marketing co-op, shark (july to december)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "principal research scientist ii, gastroenterology, immunology discovery research": {
     "t": true,
@@ -48273,11 +49062,13 @@
   },
   "marketing intern (summer 2027)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "fall 2026: brand marketing co-op, shark (september to december)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "fall 2026: consumer insights co-op (september to december)": {
     "t": false,
@@ -48501,7 +49292,8 @@
   },
   "intern - corporate marketing storytelling": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "summer intern 2027 - cpa": {
     "t": false,
@@ -48509,7 +49301,8 @@
   },
   "summer intern 2027 - marketing": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "summer intern 2027 \u2013 actuarial us": {
     "t": false,
@@ -48677,11 +49470,13 @@
   },
   "b2c marketing (part-time) intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "growth & marketing intern / new-grad": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "campus project cost control manager": {
     "t": false,
@@ -48805,7 +49600,8 @@
   },
   "pgim: 2027 global wealth, sales internship program": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "pgim: 2027 operations, internship program": {
     "t": false,
@@ -48849,7 +49645,8 @@
   },
   "spring 2027 intern - marketing (mba)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "spring & summer intern - sales analytics": {
     "t": true,
@@ -48861,7 +49658,8 @@
   },
   "spring & summer 2027 intern - marketing": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "spring 2027 intern - commercial strategy": {
     "t": false,
@@ -48912,8 +49710,9 @@
     "c": "medium"
   },
   "research associate intern": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "junior ai software engineer": {
     "t": true,
@@ -48961,7 +49760,8 @@
   },
   "corporate marketing internship - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "crm clinical field intern - summer 2027": {
     "t": false,
@@ -49016,12 +49816,14 @@
     "c": "medium"
   },
   "embedded software engineering co-op - spring 2027": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "embedded software engineering co-op - fall 2027": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "electro-mechanical instrument co-op (spring 2027)": {
     "t": false,
@@ -49073,7 +49875,8 @@
   },
   "2027 summer internship - marketing": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 summer internship - business operations & management": {
     "t": false,
@@ -49113,7 +49916,8 @@
   },
   "summer intern 2027 - hr": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "summer intern 2027 - retirement sales": {
     "t": false,
@@ -49153,7 +49957,8 @@
   },
   "winter co-op 2027 - marketing": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "winter co-op 2027 - venture capital": {
     "t": false,
@@ -49173,7 +49978,8 @@
   },
   "winter co-op 2027 - hr": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "summer intern 2027 \u2013 investment management sales desk (boston, ma)": {
     "t": false,
@@ -49316,8 +50122,9 @@
     "c": "medium"
   },
   "2027 intern - systems engineering": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "mba internship \u2013 general management:": {
     "t": false,
@@ -49461,7 +50268,8 @@
   },
   "abbott nutrition inside sales internship health care professionals (hcp) summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "business/quality analyst internship - summer 2027": {
     "t": false,
@@ -49788,8 +50596,9 @@
     "c": "medium"
   },
   "firmware engineering co-op - spring 2027": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "ge vernova hitachi - nuclear licensing intern - summer 2027": {
     "t": false,
@@ -49900,8 +50709,9 @@
     "c": "medium"
   },
   "finance automation consulting intern - summer 2027": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "associate engineer electrical/engineer electrical (level 1/2)": {
     "t": true,
@@ -49932,8 +50742,9 @@
     "c": "medium"
   },
   "undergraduate co-op student \u2013 business analyst": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "r&d formulation co-op": {
     "t": false,
@@ -49949,7 +50760,8 @@
   },
   "global inclusion/internal communication hr intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 corporate summer internship program- consumer default servicing": {
     "t": false,
@@ -49977,7 +50789,8 @@
   },
   "2027 etp intern - marketing and communications, multiple opportunities, birmingham, al": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 etp intern - community engagement, birmingham, al": {
     "t": false,
@@ -50065,7 +50878,8 @@
   },
   "summer 2027 intern - sales & marketing": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "finance intern - undergrad summer 2027": {
     "t": false,
@@ -50084,8 +50898,9 @@
     "c": "medium"
   },
   "summer 2027 internship - embedded software engineering": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineering intern, aml platform (summer 2027)": {
     "t": true,
@@ -50168,16 +50983,18 @@
     "c": "medium"
   },
   "digital marketing intern": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "exchange generalist intern": {
     "t": false,
     "c": "medium"
   },
   "marketing analytics intern": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "market operations intern ": {
     "t": false,
@@ -50349,7 +51166,8 @@
   },
   "marketing & sales education & training internship - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 blackstone bxpe summer analyst": {
     "t": false,
@@ -50393,11 +51211,13 @@
   },
   "marketing strategy intern, latin america consumer direct, spring 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "sales & marketing strategy intern, latin america trade market, spring 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "disney live entertainment costume development intern, spring 2027": {
     "t": false,
@@ -50425,7 +51245,8 @@
   },
   "experience design marketing externship summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 summer intern - supplier quality": {
     "t": false,
@@ -50453,7 +51274,8 @@
   },
   "channel sales/marketing intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "ge vernova nuclear - manufacturing intern (summer 2027)": {
     "t": false,
@@ -50493,7 +51315,8 @@
   },
   "2027 summer marketing internship - cleveland, oh": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 keybank consumer analyst development program - brooklyn, oh": {
     "t": false,
@@ -50601,7 +51424,8 @@
   },
   "sales & marketing internship/co-op summer 2027/ stage ou programme coop\u00e9ratif en ventes et marketing \u00e9t\u00e9 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "finance internship/co-op summer 2027/ stage ou programme coop\u00e9ratif en finance \u00e9t\u00e9 2027": {
     "t": false,
@@ -50644,8 +51468,9 @@
     "c": "medium"
   },
   "embedded software engineering intern - summer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "fab software engineering intern - summer": {
     "t": true,
@@ -50716,20 +51541,24 @@
     "c": "medium"
   },
   "business analyst, data and change management , winter 2027 (co-op/internship) - 4 months": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "business analyst, winter 2027 (co-op/internship) - 12 months": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "business analyst, winter 2027 (co-op/internship) - 4 months": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "business analyst, winter 2027 (co-op/internship) - 8 months": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "business management coordinator, winter 2027 (co-op/internship) - 4 months": {
     "t": false,
@@ -50849,7 +51678,8 @@
   },
   "summer intern - channel marketing, respro": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "athens manufacturing plant 2027 co-op": {
     "t": false,
@@ -50909,11 +51739,13 @@
   },
   "beauty marketing co-op student": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "brand marketing - health & pharmacy - cp-op student": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "community management - co-op student": {
     "t": false,
@@ -50925,7 +51757,8 @@
   },
   "in-store marketing - co-op student": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "insights analyst - co-op student": {
     "t": false,
@@ -50973,7 +51806,8 @@
   },
   "marketing graduate leadership associate": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 summer analyst - corporate banking (toronto)": {
     "t": false,
@@ -51132,8 +51966,9 @@
     "c": "medium"
   },
   "people analytics intern": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "product design intern": {
     "t": true,
@@ -51401,7 +52236,8 @@
   },
   "marketing coordinator, winter 2027 (co-op/internship) - 4 months": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "investment team intern, summer 2027 (co-op/internship) - 4 months": {
     "t": false,
@@ -51461,7 +52297,8 @@
   },
   "marketing intern - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mba, investment banking summer associate - summer 2027": {
     "t": false,
@@ -51509,7 +52346,8 @@
   },
   "2027 summer intern - sales intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 summer intern - gm fleet forecasting intern": {
     "t": false,
@@ -51521,7 +52359,8 @@
   },
   "2027 summer intern - gm fleet marketing and sales enablement intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 summer intern - field sales operations internship \u2013 district manager, parts & service": {
     "t": false,
@@ -51529,7 +52368,8 @@
   },
   "returning new grad marketing specialist i- great lakes division (for current/former hntb interns only)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "junior officer leadership program": {
     "t": false,
@@ -51577,7 +52417,8 @@
   },
   "pss life cycle marketing intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 summer real estate capital internship - cleveland": {
     "t": false,
@@ -51617,7 +52458,8 @@
   },
   "summer sales intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 jax r&d internship (stem, eng/chem)": {
     "t": false,
@@ -51677,7 +52519,8 @@
   },
   "global commercial sales intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "commercial programs analyst intern": {
     "t": false,
@@ -51697,7 +52540,8 @@
   },
   "na field marketing - ecosystem marketing intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "junior solution architect": {
     "t": false,
@@ -51797,7 +52641,8 @@
   },
   "2027 marketing summer intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 business banking summer intern": {
     "t": false,
@@ -51873,11 +52718,13 @@
   },
   "influencer marketing services co-op": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "influencer marketing strategy co-op": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "social media content creator co-op - client services": {
     "t": false,
@@ -51889,7 +52736,8 @@
   },
   "people & culture intern summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "propulsion design intern spring 2027": {
     "t": false,
@@ -51905,7 +52753,8 @@
   },
   "campaign marketing intern - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "coe program & content intern - summer 2027": {
     "t": false,
@@ -51921,11 +52770,13 @@
   },
   "field marketing intern - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "launch strategy marketing intern - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "services portfolio management intern- summer 2027": {
     "t": false,
@@ -52005,7 +52856,8 @@
   },
   "intern-philips people services-nashville, tn-summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "global markets - institutional equities intern/ co-op": {
     "t": false,
@@ -52119,12 +52971,14 @@
     "c": "medium"
   },
   "oracle netsuite consulting intern- summer 2027": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "systems engineering intern- onsite": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software developer intern, backend (summer 2027)": {
     "t": true,
@@ -52179,8 +53033,9 @@
     "c": "medium"
   },
   "business analyst intern (summer 2027)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "crypto operations intern (summer 2027)": {
     "t": false,
@@ -52200,7 +53055,8 @@
   },
   "growth marketing intern (summer 2027)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "investment analyst intern (summer 2027)": {
     "t": false,
@@ -52208,11 +53064,13 @@
   },
   "people partner intern (summer 2027)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "peoplex insights & analytics intern (summer 2027)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "special projects intern (summer 2027)": {
     "t": false,
@@ -52275,7 +53133,7 @@
   "business development intern (fall 2026)": {
     "t": false,
     "c": "high",
-    "a": 1
+    "a": 0
   },
   "software engineer, applied emerging talent (2027)": {
     "t": true,

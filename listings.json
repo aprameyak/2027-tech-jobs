@@ -1086,19 +1086,6 @@
     "date_added": "2026-07-09"
   },
   {
-    "company": "Capital One",
-    "role": "Business Analyst Associate",
-    "location": "McLean, VA; Chicago, IL; New York, NY; Plano, TX; Richmond, VA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "No \u2014 does NOT offer sponsorship",
-    "citizenship": "No",
-    "date_added": "2026-07-06",
-    "grad_date": ""
-  },
-  {
     "company": "Citadel",
     "role": "Software Engineer Intern",
     "location": "New York, NY; Miami, FL; Greenwich, CT; Houston, TX",
@@ -4494,18 +4481,6 @@
   },
   {
     "company": "Solar Turbines",
-    "role": "2027 Business Analyst Intern",
-    "location": "San Diego, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Business-Analyst-Intern_R0000381902?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-07-20"
-  },
-  {
-    "company": "Solar Turbines",
     "role": "2027 Solutions Platforms Engineering Intern",
     "location": "San Diego, CA",
     "type": "summer",
@@ -6556,18 +6531,6 @@
     "grad_date": ""
   },
   {
-    "company": "D. E. Shaw",
-    "role": "Systems Engineering Intern",
-    "location": "New York, NY",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-07-14"
-  },
-  {
     "company": "Akuna Capital",
     "role": "Software Engineer (Entry-Level) - Python",
     "location": "Chicago, IL",
@@ -6762,18 +6725,6 @@
     "citizenship": "No",
     "date_added": "2026-07-21",
     "grad_date": ""
-  },
-  {
-    "company": "Plus",
-    "role": "Systems Engineering Intern",
-    "location": "Santa Clara, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-21"
   },
   {
     "company": "MongoDB",
@@ -7759,18 +7710,6 @@
   {
     "company": "NXP Semiconductors",
     "role": "AI / Software Engineering Intern",
-    "location": "Austin, TX",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-23"
-  },
-  {
-    "company": "Cirrus Logic",
-    "role": "Co-Op - Embedded Software AI Intern",
     "location": "Austin, TX",
     "type": "offcycle",
     "season": "Fall 2026",
@@ -12721,18 +12660,6 @@
   },
   {
     "company": "Oracle",
-    "role": "GDI Business Analyst Intern - OVIP",
-    "location": "Austin, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334390?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-23"
-  },
-  {
-    "company": "Oracle",
     "role": "Product Manager Intern - OVIP",
     "location": "Kansas City, MO",
     "type": "summer",
@@ -13358,18 +13285,6 @@
     "citizenship": "Yes \u2014 U.S. citizenship required",
     "date_added": "2026-07-26",
     "grad_date": ""
-  },
-  {
-    "company": "PDT Partners",
-    "role": "Systems Engineering Intern",
-    "location": "New York, NY",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad; Masters; PhD",
-    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-26"
   },
   {
     "company": "Moog",
@@ -17381,19 +17296,6 @@
     "grad_date": ""
   },
   {
-    "company": "RTX",
-    "role": "Embedded Software Engineer I",
-    "location": "El Segundo, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Yes \u2014 U.S. citizenship required",
-    "date_added": "2026-07-28",
-    "grad_date": ""
-  },
-  {
     "company": "Google",
     "role": "Software Engineer II, Early Career",
     "location": "Mountain View, CA; Kirkland, WA; Los Angeles, CA; Madison, WI; New York, NY; Palo Alto, CA; Pittsburgh, PA; Raleigh, NC; Durham, NC; San Bruno, CA; Seattle, WA; Sunnyvale, CA",
@@ -19275,18 +19177,6 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-30"
-  },
-  {
-    "company": "Cirrus Logic",
-    "role": "Co-Op, Embedded Software Test Engineer",
-    "location": "Austin, TX",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-31"
   },
   {
     "company": "Trexquant",
@@ -22307,42 +22197,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5203023007?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-05"
-  },
-  {
-    "company": "RSM",
-    "role": "Oracle NetSuite Consulting Associate",
-    "location": "San Francisco, CA",
-    "type": "offcycle",
-    "season": "Fall 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-05"
-  },
-  {
-    "company": "RSM",
-    "role": "Oracle NetSuite Consulting Associate",
-    "location": "Dallas, TX",
-    "type": "offcycle",
-    "season": "Fall 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-05"
-  },
-  {
-    "company": "RSM",
-    "role": "Oracle NetSuite Consulting Associate",
-    "location": "New York, NY",
-    "type": "offcycle",
-    "season": "Fall 2027",
-    "education": "Undergrad",
-    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-05"
@@ -25555,30 +25409,6 @@
     "date_added": "2026-08-07"
   },
   {
-    "company": "Blackstar Computers",
-    "role": "Embedded Systems Engineering Intern",
-    "location": "San Francisco, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/blackstar/2599ef82-3105-4a12-a1d6-63b9f6ed567a?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07"
-  },
-  {
-    "company": "Eulerity",
-    "role": "Website Developer & Content Marketing Intern - AI & Automation",
-    "location": "New York City, NY",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07"
-  },
-  {
     "company": "Palantir",
     "role": "Year at Palantir - Forward Deployed Software Engineer - Internship - Commercial",
     "location": "Chicago, IL",
@@ -26973,19 +26803,6 @@
     "grad_date": ""
   },
   {
-    "company": "LiveScore Group",
-    "role": "Junior Data Scientist - Marketing Analytics",
-    "location": "London, UK",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
     "company": "Varsity Brands",
     "role": "Data Engineer 1",
     "location": "Farmers Branch, TX",
@@ -27409,19 +27226,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/Med-Sch-Richards-Building---5th-Floor/Neuroimaging-Data-Analyst-Junior_JR00121050-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
-    "company": "Babel Street",
-    "role": "Data Warehouse Software Engineer 1",
-    "location": "Solon, OH",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-07",
@@ -31547,19 +31351,6 @@
     "date_added": "2026-08-11"
   },
   {
-    "company": "Ciena",
-    "role": "Embedded Software Developer - New Grad",
-    "location": "Ottawa, ON",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R031490?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-11",
-    "grad_date": ""
-  },
-  {
     "company": "PathAI",
     "role": "Software Engineering Co-op: September - December",
     "location": "Boston, MA",
@@ -33494,18 +33285,6 @@
     "date_added": "2026-08-14"
   },
   {
-    "company": "Autodesk",
-    "role": "Intern, Research Associate (HCI)",
-    "location": "Toronto, ON",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-14"
-  },
-  {
     "company": "TransMarket Group",
     "role": "Software Engineering Intern",
     "location": "Chicago, IL",
@@ -34008,18 +33787,6 @@
     "date_added": "2026-08-17"
   },
   {
-    "company": "Redwood Materials",
-    "role": "Embedded Software Engineer Intern",
-    "location": "San Francisco, CA",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
     "company": "SpaceX",
     "role": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
     "location": "Bastrop, TX",
@@ -34252,18 +34019,6 @@
     "season": "Co-op",
     "education": "Undergrad",
     "url": "https://jobs.lever.co/solopulseco/663eecca-0951-4354-9a0f-14b52aa72ab9?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
-    "company": "SoloPulse",
-    "role": "Systems Engineering Intern",
-    "location": "Peachtree Corners, GA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-17"
@@ -34646,18 +34401,6 @@
   },
   {
     "company": "Astranis Space Technologies",
-    "role": "Embedded Software Developer, Network/Payload Software Intern",
-    "location": "San Francisco, CA",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
-    "company": "Astranis Space Technologies",
     "role": "Environmental Test Engineer Associate",
     "location": "San Francisco, CA",
     "type": "offcycle",
@@ -34894,18 +34637,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
-    "company": "Neuralink",
-    "role": "Firmware Engineer Intern, Robotics and Surgery Engineering",
-    "location": "South San Francisco, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003&utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-17"
@@ -35888,18 +35619,6 @@
     "date_added": "2026-08-17"
   },
   {
-    "company": "SharkNinja",
-    "role": "Fall 2026: Digital/Sharks, Sales Co-op, Marketplaces (August to December)",
-    "location": "Mississauga, ON",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
     "company": "Zscaler",
     "role": "Detection Engineer- SkillBridge Intern",
     "location": "Remote - USA",
@@ -36011,18 +35730,6 @@
     "citizenship": "Unknown",
     "date_added": "2026-08-17",
     "grad_date": "Spring 2027"
-  },
-  {
-    "company": "Neuralink",
-    "role": "Embedded Software Engineer Intern, Implant Embedded Systems",
-    "location": "Austin, TX; South San Francisco, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/neuralink/jobs/6283663003?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
   },
   {
     "company": "Neuralink",
@@ -36905,18 +36612,6 @@
     "date_added": "2026-08-22"
   },
   {
-    "company": "Ciena",
-    "role": "Embedded Software Developer",
-    "location": "Ottawa, ON",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-22"
-  },
-  {
     "company": "General Motors",
     "role": "Lighting Software Development & Test Co-op",
     "location": "Markham, ON",
@@ -37326,18 +37021,6 @@
     "date_added": "2026-08-24"
   },
   {
-    "company": "Crowe",
-    "role": "Business Analyst Intern",
-    "location": "Chicago, IL",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Business-Analyst-Intern_R-71638?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-25"
-  },
-  {
     "company": "Northrop Grumman",
     "role": "2027 Software Test Engineering Intern- Huntsville AL",
     "location": "United States-Alabama-Huntsville",
@@ -37361,18 +37044,6 @@
     "citizenship": "Unknown",
     "date_added": "2026-08-25",
     "grad_date": ""
-  },
-  {
-    "company": "Brunswick",
-    "role": "Mercury Marine: Facilities Engineering Intern",
-    "location": "Fond du Lac, WI",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Facilities-Engineering-Intern_JR-051223?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-25"
   },
   {
     "company": "Crowe",
@@ -37679,19 +37350,6 @@
     "date_added": "2026-08-25"
   },
   {
-    "company": "Ciena",
-    "role": "Embedded Software Engineer - New Grad",
-    "location": "Ottawa, ON",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-25",
-    "grad_date": ""
-  },
-  {
     "company": "Brunswick",
     "role": "Computer Graphics Engineering Intern",
     "location": "Champaign, IL",
@@ -37897,18 +37555,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-25"
-  },
-  {
-    "company": "Verkada",
-    "role": "Embedded Software Engineering Intern",
-    "location": "San Mateo, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-25"
@@ -38804,30 +38450,6 @@
     "citizenship": "Unknown",
     "date_added": "2026-08-26",
     "grad_date": ""
-  },
-  {
-    "company": "Zipline",
-    "role": "Embedded Software Engineer Intern",
-    "location": "South San Francisco, CA",
-    "type": "offcycle",
-    "season": "Spring 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-26"
-  },
-  {
-    "company": "Leidos",
-    "role": "Systems Engineering Intern",
-    "location": "Odenton, MD",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-26"
   },
   {
     "company": "Brunswick",
@@ -40322,19 +39944,6 @@
     "grad_date": "Fall 2026"
   },
   {
-    "company": "RTX",
-    "role": "Embedded Software Engineer 1",
-    "location": "Cedar Rapids, IA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
     "company": "United Launch Alliance",
     "role": "Embedded Flight Software Engineer 1",
     "location": "Centennial, CO",
@@ -40342,19 +39951,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600/?ats=successfactors&utm_source=aprameyak&ref=Simplify",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
-    "company": "Alarm.com",
-    "role": "Embedded Software Engineer 1",
-    "location": "Tysons, VA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8622530002?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-28",
@@ -40374,45 +39970,6 @@
     "grad_date": ""
   },
   {
-    "company": "Micron Technology",
-    "role": "Embedded Firmware Engineer New Grad",
-    "location": "Boise, ID",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
-    "company": "Ciena",
-    "role": "Embedded Software Engineer New Grad",
-    "location": "Ottawa, ON",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
-    "company": "Resideo",
-    "role": "Firmware Engineer 1",
-    "location": "Aurora, IL",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19224?utm_source=aprameyak&ref=Simplify",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
     "company": "Freeform",
     "role": "Software Engineer New Grad",
     "location": "Los Angeles, CA",
@@ -40424,32 +39981,6 @@
     "citizenship": "No",
     "date_added": "2026-08-28",
     "grad_date": "Summer 2027"
-  },
-  {
-    "company": "Ciena",
-    "role": "Embedded Software Developer New Grad",
-    "location": "Ottawa, ON",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
-    "company": "Applied Intuition",
-    "role": "Embedded Software Engineer New Grad",
-    "location": "Sunnyvale, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
   },
   {
     "company": "SpaceX",
@@ -40504,19 +40035,6 @@
     "grad_date": ""
   },
   {
-    "company": "Ciena",
-    "role": "Embedded Software Developer New Grad",
-    "location": "Ottawa, ON",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
     "company": "AeroVironment",
     "role": "Software Engineer 1 - Embedded",
     "location": "Sunrise, FL",
@@ -40528,19 +40046,6 @@
     "citizenship": "No",
     "date_added": "2026-08-28",
     "grad_date": ""
-  },
-  {
-    "company": "Blue Origin",
-    "role": "Avionics / Embedded Software Engineer 1 - Early Career",
-    "location": "Los Angeles, CA; Kent, WA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": "Spring 2026"
   },
   {
     "company": "Freeform",
@@ -40556,71 +40061,6 @@
     "grad_date": ""
   },
   {
-    "company": "TP-Link Systems",
-    "role": "Early Career Embedded Software Engineer",
-    "location": "Irvine, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
-    "company": "Garmin",
-    "role": "Embedded Software Engineer 1",
-    "location": "Chandler, AZ",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
-    "company": "Observable Space",
-    "role": "Junior Embedded Software Engineer",
-    "location": "Los Angeles, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/observable-space/97e8073f-a23e-4360-ba9c-a3869ad58ab1/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
-    "company": "Revel",
-    "role": "Embedded Software Engineer - Entry-Junior",
-    "location": "Los Angeles, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/revel/444b5704-3840-4b0a-ba34-f82eab8c430f/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
-    "company": "Anduril",
-    "role": "Early Career Firmware Engineer",
-    "location": "Newport Beach, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
     "company": "Weatherford",
     "role": "Field Engineer 1 - Production Automation",
     "location": "Williston, ND",
@@ -40628,32 +40068,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/106656?utm_source=aprameyak&ref=Simplify",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
-    "company": "Honeywell",
-    "role": "Embedded Engineer 1 New Grad",
-    "location": "St. Charles, IL",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055?utm_source=aprameyak&ref=Simplify",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
-    "company": "Zone 5 Technologies",
-    "role": "Embedded Software Engineer 1/2",
-    "location": "San Luis Obispo, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-28",
@@ -41992,30 +41406,6 @@
     "date_added": "2026-08-28"
   },
   {
-    "company": "Axon",
-    "role": "Embedded Engineer Intern",
-    "location": "Boston, MA; Seattle, WA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28"
-  },
-  {
-    "company": "Vertiv",
-    "role": "Firmware Engineer Intern",
-    "location": "Delaware, OH",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "PhD",
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957?utm_source=aprameyak&ref=Simplify",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28"
-  },
-  {
     "company": "QTS",
     "role": "Data Center Infrastructure Management Intern - DCIM",
     "location": "Ashburn, VA; Suwanee, GA",
@@ -42023,18 +41413,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Suwanee-GA/Summer-2027-Internship--Data-Center-Infrastructure-Management--DCIM-_R2026-1892?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28"
-  },
-  {
-    "company": "Honeywell",
-    "role": "Embedded Engineer Intern",
-    "location": "Remote (US)",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561?utm_source=aprameyak&ref=Simplify",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-28"
@@ -42228,19 +41606,6 @@
     "grad_date": "Spring 2025"
   },
   {
-    "company": "Garmin",
-    "role": "Software Engineer I - Embedded Software",
-    "location": "Olathe, KS",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
     "company": "Tesla",
     "role": "Software Integration Engineer, Factory Firmware",
     "location": "Fremont, CA",
@@ -42345,19 +41710,6 @@
     "grad_date": ""
   },
   {
-    "company": "Emerson",
-    "role": "Embedded Software Engineer",
-    "location": "Shakopee, MN",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024266?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
     "company": "TikTok",
     "role": "New Grad 2025: Product Manager",
     "location": "San Jose, CA",
@@ -42404,19 +41756,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://www.tesla.com/careers/search/job/239333?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
-  },
-  {
-    "company": "Tesla",
-    "role": "Firmware Engineer, Silicon Development",
-    "location": "Palo Alto, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://www.tesla.com/careers/search/job/244793?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-28",
@@ -42698,18 +42037,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28"
-  },
-  {
-    "company": "Etched",
-    "role": "Firmware Intern",
-    "location": "San Jose, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-28"
@@ -45616,18 +44943,6 @@
     "date_added": "2026-08-29"
   },
   {
-    "company": "Vertiv",
-    "role": "Product Management Intern - Product Marketing",
-    "location": "Delaware, OH",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279047",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
     "company": "Datadog",
     "role": "Product Management Intern",
     "location": "New York, NY",
@@ -45707,18 +45022,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
-    "company": "Northwood Space",
-    "role": "Supply Chain Data & Analytics Intern",
-    "location": "Los Angeles, CA; Torrance, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true&utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-29"
@@ -45959,18 +45262,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155554",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
-    "company": "Cigna Group",
-    "role": "Legal Operations Financial Data & AI Analytics Intern",
-    "location": "St. Louis, MO",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-29"
@@ -46301,18 +45592,6 @@
   },
   {
     "company": "TikTok",
-    "role": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD",
-    "location": "Seattle, WA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "PhD",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
-    "company": "TikTok",
     "role": "Machine Learning Engineer Intern",
     "location": "Seattle, WA",
     "type": "summer",
@@ -46492,18 +45771,6 @@
     "date_added": "2026-08-29"
   },
   {
-    "company": "BerryDunn",
-    "role": "Consulting Intern - Healthcare Data Management and Strategy",
-    "location": "Portland, ME",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
     "company": "Vertiv",
     "role": "Sales Data Analytics Intern",
     "location": "Westerville, OH",
@@ -46570,18 +45837,6 @@
     "type": "summer",
     "season": "Summer 2027",
     "education": "Masters",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
-    "company": "Motorola",
-    "role": "Supply Chain Data Analyst Intern",
-    "location": "Chicago, IL",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
     "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
@@ -46859,18 +46114,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://www.quantbot.com/careers/4299767009?gh_jid=4299767009",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
-    "company": "Northwood Space",
-    "role": "Embedded Software Engineer Intern",
-    "location": "Los Angeles, CA; Torrance, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true&utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-29"
@@ -48587,18 +47830,6 @@
     "date_added": "2026-08-29"
   },
   {
-    "company": "TikTok",
-    "role": "Data Science Project Intern - TikTok Shop-Supply Chain & Logistics - 2026 Start - BS/MS",
-    "location": "Seattle, WA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
     "company": "Microsoft",
     "role": "Research Intern - Self-Improving AI",
     "location": "Cambridge, MA",
@@ -49051,18 +48282,6 @@
     "date_added": "2026-08-29"
   },
   {
-    "company": "Northwood Space",
-    "role": "Embedded Software Engineering Intern ...",
-    "location": "Torrance, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/northwoodspace/d0cca9dd-ea90-4c3b-94b4-17761932d11c?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
     "company": "Motorola Solutions",
     "role": "Mission Critical Networks Software En...",
     "location": "Schaumburg, IL",
@@ -49255,18 +48474,6 @@
     "date_added": "2026-08-29"
   },
   {
-    "company": "Zipline",
-    "role": "Embedded Software Engineer Intern (Sp...",
-    "location": "South San Francisco, C...",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
     "company": "AMD",
     "role": "2027 Masters Software Test Engineerin...",
     "location": "Remote (US)",
@@ -49375,18 +48582,6 @@
     "date_added": "2026-08-29"
   },
   {
-    "company": "Jabil",
-    "role": "Supply Chain Data Analyst Intern",
-    "location": "St. Petersburg/Tampa, FL",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
     "company": "Analog Devices",
     "role": "AI/ML Engineer Intern",
     "location": "Wilmington, MA",
@@ -49394,18 +48589,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
-    "company": "Northwood Space",
-    "role": "Supply Chain Data & Analytics Intern ...",
-    "location": "Torrance, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/northwoodspace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-29"
@@ -49442,18 +48625,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Data-Engineering_JR26081679?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
-    "company": "Motorola Solutions",
-    "role": "Supply Chain Applied AI Engineering I...",
-    "location": "Chicago, IL",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-29"
@@ -49783,18 +48954,6 @@
     "date_added": "2026-08-29"
   },
   {
-    "company": "Brunswick",
-    "role": "Industrial Engineering Intern",
-    "location": "Menomonee Falls, WI",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Industrial-Engineering-Intern_JR-051429?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
     "company": "Schweitzer Engineering Laboratories",
     "role": "Engineering Intern",
     "location": "Pullman, WA",
@@ -49855,18 +49014,6 @@
     "date_added": "2026-08-29"
   },
   {
-    "company": "Zipline",
-    "role": "Embedded Engineering Intern (Summer 2...",
-    "location": "South San Francisco, C...",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
     "company": "Microsoft",
     "role": "Silicon Engineering INTERN",
     "location": "Santa Clara, CA",
@@ -49874,18 +49021,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556958170",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
-    "company": "Magna",
-    "role": "Equipment Engineering Intern",
-    "location": "Warren, MI, US",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Warren-Michigan-US/Equipment-Engineering-Intern_R00257912?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-29"
@@ -50143,18 +49278,6 @@
     "date_added": "2026-08-29"
   },
   {
-    "company": "Kognitos",
-    "role": "Marketing Intern (AI-Native)",
-    "location": "San Jose, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/kognitos/f36e4854-46c4-4a56-81db-597afb82bce8?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
     "company": "Crowe",
     "role": "Risk Intern",
     "location": "Chicago, IL",
@@ -50174,18 +49297,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Third-Party-Risk-Intern_R-71033?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
-    "company": "Cadence",
-    "role": "AI & Strategic Marketing Intern",
-    "location": "AUSTIN",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-29"
@@ -50258,30 +49369,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
-    "company": "Machina Labs",
-    "role": "Robotic Process Engineer, Intern",
-    "location": "Chatsworth, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
-    "company": "Machina Labs",
-    "role": "Robotic Process Engineer, Intern",
-    "location": "Chatsworth, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.lever.co/MachinaLabs/da8632d8-5a1d-4d1b-8270-b8e6209f0cc1?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-29"
@@ -51071,19 +50158,6 @@
     "grad_date": ""
   },
   {
-    "company": "Qrypt",
-    "role": "Embedded Software Engineer",
-    "location": "Germantown, MD",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.lever.co/qrypt/c1ed6b7c-eadd-4476-9abc-b4b1e1272573?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29",
-    "grad_date": ""
-  },
-  {
     "company": "Whatnot",
     "role": "Software Engineer, Data Foundations",
     "location": "San Francisco, CA",
@@ -51169,19 +50243,6 @@
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
     "url": "https://jobs.lever.co/pingwind/50ed87eb-c3ce-4db3-bf46-2f88b81cc780?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29",
-    "grad_date": ""
-  },
-  {
-    "company": "Pivotal Software",
-    "role": "Embedded Software Engineer II",
-    "location": "Palo Alto, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.lever.co/pivotal/e38dc745-b5cf-4baa-82e0-60a6782a00f7?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-29",
@@ -53788,19 +52849,6 @@
     "grad_date": ""
   },
   {
-    "company": "Bosch Group",
-    "role": "Industrial Engineering Intern",
-    "location": "Fort Lauderdale, FL",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29",
-    "grad_date": ""
-  },
-  {
     "company": "WeRide",
     "role": "Perception Engineer \u2013 ML/CV and Algor...",
     "location": "San Jose, CA",
@@ -54661,18 +53709,6 @@
     "location": "Allen Park, MI",
     "type": "summer",
     "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-30"
-  },
-  {
-    "company": "Zipline",
-    "role": "Embedded Software Engineer Intern",
-    "location": "South San Francisco, CA",
-    "type": "offcycle",
-    "season": "Spring 2027",
     "education": "Undergrad",
     "url": "",
     "sponsorship": "Unknown",
@@ -55566,18 +54602,6 @@
     "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
-    "date_added": "2026-08-30"
-  },
-  {
-    "company": "Atomic Semi",
-    "role": "Embedded Software Engineering Intern - Winter",
-    "location": "Austin, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da/application?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
     "date_added": "2026-08-30"
   },
   {
@@ -56624,18 +55648,6 @@
   },
   {
     "company": "KeyBank",
-    "role": "2027 HR Analytics Rotational Analyst Program",
-    "location": "Brooklyn, OH",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-HR-Analytics-Rotational-Analyst-Program_R-41402?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-31"
-  },
-  {
-    "company": "KeyBank",
     "role": "2027 Equity Research Summer Analyst - Portland, OR",
     "location": "Portland, OR",
     "type": "summer",
@@ -56750,18 +55762,6 @@
     "season": "Co-op",
     "education": "Undergrad",
     "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Pittsburgh-Pennsylvania-United-States/Co-op-Material-Scientist-New-Kensington--PA---Fall-2026_585816?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-31"
-  },
-  {
-    "company": "Northrop Grumman",
-    "role": "2027 Systems Engineering Intern- Roy UT",
-    "location": "Roy, UT",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-31"
@@ -56912,19 +55912,6 @@
     "citizenship": "No",
     "date_added": "2026-09-01",
     "grad_date": "Spring 2027"
-  },
-  {
-    "company": "Robinhood",
-    "role": "Business Analyst, New Grad",
-    "location": "Washington, DC",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/robinhood/jobs/8123231?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": ""
   },
   {
     "company": "DraftKings",
@@ -62314,18 +61301,6 @@
     "grad_date": "Spring 2026"
   },
   {
-    "company": "BillionToOne",
-    "role": "Research Associate Intern",
-    "location": "Menlo Park, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-01"
-  },
-  {
     "company": "Dark Wolf Solutions",
     "role": "Junior DevSecOps Engineer",
     "location": "Chantilly/Herndon, VA",
@@ -62393,18 +61368,6 @@
     "season": "Summer 2027",
     "education": "PhD",
     "url": "https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-01"
-  },
-  {
-    "company": "RSM",
-    "role": "Deal Services Financial Due Diligence Consulting Intern",
-    "location": "Chicago, IL",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-01"
@@ -62531,30 +61494,6 @@
     "date_added": "2026-09-01"
   },
   {
-    "company": "CACI",
-    "role": "Embedded Software Engineering Co-op",
-    "location": "Danbury, CT, US",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-01"
-  },
-  {
-    "company": "CACI",
-    "role": "Embedded Software Engineering Co-Op",
-    "location": "Danbury, CT, US",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-01"
-  },
-  {
     "company": "General Motors",
     "role": "2027 Winter Co-op Mechatronic Infrastructure Diagnostic Systems",
     "location": "Markham, Ontario, Canada",
@@ -62645,18 +61584,6 @@
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-01"
-  },
-  {
-    "company": "Northrop Grumman",
-    "role": "2027 Intern - Systems Engineering",
-    "location": "United States-Oklahoma-Oklahoma City",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
     "url": "",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
@@ -67371,18 +66298,6 @@
     "date_added": "2026-09-02"
   },
   {
-    "company": "LEGO Group",
-    "role": "Firmware Engineering Co-Op",
-    "location": "United States of America",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Undergrad",
-    "url": "https://lego.wd103.myworkdayjobs.com/en-US/lego_executive/job/Boston-Hub/Firmware-Engineering-Co-Op---Spring-2027_0000037765?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-02"
-  },
-  {
     "company": "KLA",
     "role": "Software Engineer",
     "location": "Milpitas, CA",
@@ -67627,18 +66542,6 @@
     "grad_date": ""
   },
   {
-    "company": "RSM",
-    "role": "Enterprise Data Integration and Migration Consulting Intern",
-    "location": "USA-TX-Dallas-13155 Noel Road",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/USA-TX-Dallas-13155-Noel-Road/Enterprise-Data-Integration-and-Migration-Consulting-Intern---Summer-2027_JR116784?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-03"
-  },
-  {
     "company": "Hermeus",
     "role": "GNC & Flight Software Intern - Spring/Summer",
     "location": "Atlanta, GA",
@@ -67845,42 +66748,6 @@
   },
   {
     "company": "Sierra Nevada Corp",
-    "role": "Systems Engineering Intern",
-    "location": "Hagerstown, MD",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Systems-Engineering-Intern--Summer-2027-_R0030753?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-03"
-  },
-  {
-    "company": "Sierra Nevada Corp",
-    "role": "Systems Engineering Intern",
-    "location": "Lone Tree, CO",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0030750?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-03"
-  },
-  {
-    "company": "Sierra Nevada Corp",
-    "role": "Systems Engineering Intern",
-    "location": "Plano, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Plano-TX/Systems-Engineering-Intern--Summer-2027-_R0030752?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-03"
-  },
-  {
-    "company": "Sierra Nevada Corp",
     "role": "Systems Engineer Intern",
     "location": "Dayton, OH",
     "type": "summer",
@@ -68016,20 +66883,6 @@
     "grad_date": ""
   },
   {
-    "company": "Viasat",
-    "role": "Embedded Software Engineer, Early Career",
-    "location": "Carlsbad, CA; Tempe, AZ; Marlborough, MA",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Yes \u2014 US Citizen required (clearance)",
-    "date_added": "2026-09-04",
-    "grad_date": "",
-    "us_citizen": null
-  },
-  {
     "company": "DV Trading LLC",
     "role": "Software Developer",
     "location": "Chicago, IL",
@@ -68159,18 +67012,6 @@
     "date_added": "2026-09-04"
   },
   {
-    "company": "General Matter",
-    "role": "Summer 2027 Internship - Embedded Software Engineering",
-    "location": "Los Angeles, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377131008?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-04"
-  },
-  {
     "company": "HP IQ",
     "role": "Software Engineering Intern, Connectivity",
     "location": "San Francisco, CA",
@@ -68190,30 +67031,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8173713?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-04"
-  },
-  {
-    "company": "IEX",
-    "role": "Digital Marketing Intern",
-    "location": "New York",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8173694?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-04"
-  },
-  {
-    "company": "IEX",
-    "role": "Marketing Analytics Intern",
-    "location": "New York",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8173636?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-04"
@@ -68524,18 +67341,6 @@
   },
   {
     "company": "Allegion",
-    "role": "Digital Marketing Intern, Summer 2027 - Carmel, IN",
-    "location": "Carmel, IN",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Digital-Marketing-Intern--Summer-2027---Carmel--IN_JR37502?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-04"
-  },
-  {
-    "company": "Allegion",
     "role": "Summer Intern - Market Research, Research & Design team",
     "location": "Carmel, IN",
     "type": "summer",
@@ -68716,72 +67521,12 @@
   },
   {
     "company": "RSM",
-    "role": "Strategy & Management Consulting Intern",
-    "location": "Toronto, ON",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Toronto/Strategy---Management-Consulting-Intern---Summer-2027_JR117330?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-04"
-  },
-  {
-    "company": "RSM",
-    "role": "Process Risk and Controls Consulting Intern",
-    "location": "New York",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/New-York/Process-Risk-and-Controls-Consulting-Intern---Summer-2027_JR117261-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-04"
-  },
-  {
-    "company": "RSM",
     "role": "Technology Risk Consulting Intern",
     "location": "New York",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/New-York/Technology-Risk-Consulting-Intern---Summer-2027_JR116441-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-04"
-  },
-  {
-    "company": "RSM",
-    "role": "Financial Services Risk Consulting Intern",
-    "location": "New York",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/New-York/Financial-Services-Risk-Consulting-Intern---Summer-2027_JR116439?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-04"
-  },
-  {
-    "company": "RSM",
-    "role": "Strategy & Management Consulting Intern",
-    "location": "New York",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/New-York/Strategy---Management-Consulting-Intern--Summer-2027_JR117321?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-04"
-  },
-  {
-    "company": "RSM",
-    "role": "Strategy & Management Consulting Intern",
-    "location": "Chicago, IL",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Chicago/Strategy---Management-Consulting-Intern--Summer-2027_JR117322?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-04"
@@ -69041,18 +67786,6 @@
     "grad_date": "Spring 2027"
   },
   {
-    "company": "Marvell Technology",
-    "role": "Firmware Engineer Intern, MS",
-    "location": "Santa Clara, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-04"
-  },
-  {
     "company": "Sierra Nevada Corp",
     "role": "Integrated Product Support Intern",
     "location": "Hagerstown, MD",
@@ -69072,18 +67805,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://jobs.ashbyhq.com/fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475/application?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-05"
-  },
-  {
-    "company": "Atomic Semi",
-    "role": "Embedded Software Engineering Intern - Summer",
-    "location": "Austin, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/fab2/15020e6e-be1c-4455-95a3-aa798474cec4/application?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-05"
@@ -69168,54 +67889,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Test-Structure-Design-and-Layout-Engineering_JR110341?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-07"
-  },
-  {
-    "company": "BMO Financial Group",
-    "role": "Business Analyst, Data and Change Management , Winter 2027 (Co-op/Internship) - 4 Months",
-    "location": "Toronto, ON, CAN",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Undergrad",
-    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Business-Analyst--Data-and-Change-Management---Winter-2027--Co-op-Internship----4-Months_R260024737-2?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-07"
-  },
-  {
-    "company": "BMO Financial Group",
-    "role": "Business Analyst, Winter 2027 (Co-op/Internship) - 12 Months",
-    "location": "Toronto, ON, CAN",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Undergrad",
-    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Business-Analyst--Winter-2027--Co-op-Internship----12-Months_R260024675-3?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-07"
-  },
-  {
-    "company": "BMO Financial Group",
-    "role": "Business Analyst, Winter 2027 (Co-op/Internship) - 4 Months",
-    "location": "Toronto, ON, CAN",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Undergrad",
-    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Business-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024635-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-07"
-  },
-  {
-    "company": "BMO Financial Group",
-    "role": "Business Analyst, Winter 2027 (Co-op/Internship) - 8 Months",
-    "location": "Toronto, ON, CAN",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Undergrad",
-    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Business-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024637-1?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-07"
@@ -69570,18 +68243,6 @@
     "date_added": "2026-09-08"
   },
   {
-    "company": "Red Hat",
-    "role": "Business Analyst Intern",
-    "location": "Raleigh",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raleigh/Business-Analyst-Intern_R-059054?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-08"
-  },
-  {
     "company": "RSM",
     "role": "Technology Risk Consulting Intern",
     "location": "San Francisco",
@@ -69606,30 +68267,6 @@
     "date_added": "2026-09-08"
   },
   {
-    "company": "RSM",
-    "role": "Process Risk and Controls Consulting Intern",
-    "location": "San Francisco",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/San-Francisco/Process-Risk-and-Controls-Consulting-Intern---Summer-2027_JR116821?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-08"
-  },
-  {
-    "company": "RSM",
-    "role": "D365 Business Central Consulting Intern",
-    "location": "San Francisco",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/San-Francisco/D365-Business-Central-Consulting-Intern---Summer-2027_JR117169?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-08"
-  },
-  {
     "company": "Northrop Grumman",
     "role": "2027 Systems Safety Engineering Intern - Roy UT",
     "location": "United States-Utah-Roy",
@@ -69645,18 +68282,6 @@
     "company": "Northrop Grumman",
     "role": "2027  Systems Engineer Intern - Colorado Springs CO",
     "location": "United States-Colorado-Colorado Springs",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-08"
-  },
-  {
-    "company": "Northrop Grumman",
-    "role": "2027 Systems Engineering Intern- Huntsville AL",
-    "location": "United States-Alabama-Huntsville",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Masters",
@@ -69733,18 +68358,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314/application?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-08"
-  },
-  {
-    "company": "Revel",
-    "role": "Internship: Embedded Software Engineer",
-    "location": "Los Angeles",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889/application?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-08"
@@ -69956,18 +68569,6 @@
   },
   {
     "company": "Red Hat",
-    "role": "Finance Business Analyst Intern",
-    "location": "Raleigh",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raleigh/Finance-Business-Analyst-Intern_R-059058?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-08"
-  },
-  {
-    "company": "Red Hat",
     "role": "Digital Strategist Intern",
     "location": "Raleigh",
     "type": "summer",
@@ -70142,18 +68743,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-08"
-  },
-  {
-    "company": "Coinbase",
-    "role": "People Analytics Intern",
-    "location": "Hybrid - New York, NY",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-08"
@@ -70349,18 +68938,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-09"
-  },
-  {
-    "company": "Formlabs",
-    "role": "Embedded Software Intern (Winter/Spring 2027)",
-    "location": "Somerville, MA",
-    "type": "offcycle",
-    "season": "Spring 2027",
-    "education": "Undergrad",
-    "url": "https://careers.formlabs.com/job/8188578/apply/?gh_jid=8188578",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-09"
@@ -70703,30 +69280,6 @@
     "date_added": "2026-09-10"
   },
   {
-    "company": "Rocket Lab",
-    "role": "Systems Engineering Intern",
-    "location": "Long Beach, CA",
-    "type": "offcycle",
-    "season": "Spring 2027",
-    "education": "Masters",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987044003?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-10"
-  },
-  {
-    "company": "Rocket Lab",
-    "role": "Systems Engineering Intern",
-    "location": "Long Beach, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-10"
-  },
-  {
     "company": "General Motors",
     "role": "Software Engineer, AV Frameworks \u2013 Early Career",
     "location": "Sunnyvale, California, United States of America",
@@ -70760,18 +69313,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://jobs.lever.co/zoox/ae2785ae-dfee-484b-8add-3cf32ca2d10e?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-10"
-  },
-  {
-    "company": "RSM",
-    "role": "Process Risk and Controls Consulting Intern",
-    "location": "Raleigh",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Raleigh/Process-Risk-and-Controls-Consulting-Intern---Summer-2027_JR117254?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-10"
@@ -71018,18 +69559,6 @@
     "date_added": "2026-09-10"
   },
   {
-    "company": "Ingredion",
-    "role": "Digital HR Intern",
-    "location": "Westchester, IL",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/Westchester-IL/Digital-HR-Intern_Req-39911-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-10"
-  },
-  {
     "company": "Johnson & Johnson",
     "role": "New Product Development Engineering Co-Op",
     "location": "Raynham, Massachusetts, United States of America",
@@ -71061,18 +69590,6 @@
     "season": "Co-op",
     "education": "Undergrad",
     "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Waterloo-Ontario-Canada/Co-op--Technical-Sales--OTTO-by-Rockwell-Automation-_R26-6218-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-10"
-  },
-  {
-    "company": "RSM",
-    "role": "Strategy & Management Consulting Intern",
-    "location": "Boston, MA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Boston/Strategy---Management-Consulting-Intern---Summer-2027_JR117320?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-10"
@@ -71127,48 +69644,12 @@
   },
   {
     "company": "AeroVironment",
-    "role": "Systems Engineering Intern",
-    "location": "Petaluma, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Petaluma-CA/Systems-Engineering-Intern_8592?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-10"
-  },
-  {
-    "company": "AeroVironment",
     "role": "Software Engineering Intern",
     "location": "Centreville, VA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Centreville-VA/Software-Engineering-Intern_8593?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-10"
-  },
-  {
-    "company": "AeroVironment",
-    "role": "Summer 2027 Systems Engineering/Test Intern",
-    "location": "Moorpark, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Summer-2027-Systems-Engineering-Test-Intern_8552?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-10"
-  },
-  {
-    "company": "AeroVironment",
-    "role": "Summer 2027 Embedded Software Engineering Intern",
-    "location": "Simi Valley, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-10"
@@ -71289,42 +69770,6 @@
     "season": "Winter 2027",
     "education": "Undergrad",
     "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Boston/Managed-IT-Services-Service-Desk-Consulting-Intern---Winter-2027_JR117032?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-10"
-  },
-  {
-    "company": "RSM",
-    "role": "Oracle NetSuite Consulting Intern",
-    "location": "New York",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/New-York/Oracle-NetSuite-Consulting-Intern--Summer-2027_JR117192?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-10"
-  },
-  {
-    "company": "RSM",
-    "role": "Oracle NetSuite Consulting Intern",
-    "location": "San Francisco",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/San-Francisco/Oracle-NetSuite-Consulting-Intern--Summer-2027_JR117157?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-10"
-  },
-  {
-    "company": "RSM",
-    "role": "Oracle NetSuite Consulting Intern",
-    "location": "Dallas",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Dallas/Oracle-NetSuite-Consulting-Intern--Summer-2027_JR117162?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-10"
@@ -71609,18 +70054,6 @@
     "date_added": "2026-09-12"
   },
   {
-    "company": "HP",
-    "role": "Product Marketing / Portfolio Strategy Intern : Insight & Strategy (Agentic AI Focus)",
-    "location": "Spring, Texas, United States of America",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Quality-Engineering-Intern_UNI4756-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-12"
-  },
-  {
     "company": "Clera",
     "role": "Research Engineer / Research Scientist Intern, Robotics and Physical AI",
     "location": "San Francisco, CA",
@@ -71878,30 +70311,6 @@
     "date_added": "2026-09-14"
   },
   {
-    "company": "RSM",
-    "role": "Oracle NetSuite Consulting Intern- Summer 2027",
-    "location": "Boston, MA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Boston/Oracle-NetSuite-Consulting-Intern--Summer-2027_JR121242?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RTX",
-    "role": "Systems Engineering Intern- Onsite",
-    "location": "US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern--Onsite_01873911?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
     "company": "Robinhood",
     "role": "Associate Product Manager (New Grad)",
     "location": "Menlo Park, CA; New York, NY",
@@ -71913,30 +70322,6 @@
     "citizenship": "Unknown",
     "date_added": "2026-09-14",
     "grad_date": ""
-  },
-  {
-    "company": "Robinhood",
-    "role": "Business Analyst Intern (Summer 2027)",
-    "location": "Washington, DC",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8123238?gh_jid=8123238&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "Robinhood",
-    "role": "PeopleX Insights & Analytics Intern (Summer 2027)",
-    "location": "Menlo Park, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8198255?gh_jid=8198255&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
   },
   {
     "company": "Robinhood",
@@ -72307,19 +70692,6 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-14"
-  },
-  {
-    "company": "Peraton",
-    "role": "Systems Engineering, Associate",
-    "location": "St. Louis, MO",
-    "type": "newgrad",
-    "season": "2027 (New Grad \u2014 no specific season)",
-    "education": "Undergrad",
-    "url": "https://careers-peraton.icims.com/jobs/170471/job?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Yes \u2014 U.S. citizenship required",
-    "date_added": "2026-09-14",
-    "grad_date": ""
   },
   {
     "company": "Klaviyo",
@@ -73424,18 +71796,6 @@
   },
   {
     "company": "Ameriprise Financial",
-    "role": "Digital Marketing Content Co-op",
-    "location": "Boston, MA",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Undergrad",
-    "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Digital-Marketing-Content-Co-op_R26_3534?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "Ameriprise Financial",
     "role": "Quantitative Investment Research Co-op (Equities)",
     "location": "Boston, MA",
     "type": "offcycle",
@@ -74083,18 +72443,6 @@
   },
   {
     "company": "Nidec",
-    "role": "Product Marketing Co-Op",
-    "location": "North America/USA/Missouri/St. Louis - WPA, MO",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Undergrad",
-    "url": "https://nidec.wd1.myworkdayjobs.com/en-US/nidec/job/North-AmericaUSAMissouriSt-Louis---WPA-MO/Product-Marketing-Co-Op_R0017008?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "Nidec",
     "role": "Test Lab Engineer Co-op",
     "location": "North America/USA/Missouri/St. Louis - WPE, MO",
     "type": "offcycle",
@@ -74125,18 +72473,6 @@
     "season": "Co-op",
     "education": "Undergrad",
     "url": "https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Associate-Product-Manager---Co-op-Student_R2000694175-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "Loblaw Companies",
-    "role": "Business Analyst Co-op Student",
-    "location": "1685 Tech Ave, Mississauga, ON",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Undergrad",
-    "url": "https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/1685-Tech-Ave-Mississauga-ON/Business-Analyst-Co-op-Student_R2000697512-2?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-14"
@@ -74562,18 +72898,6 @@
     "date_added": "2026-09-14"
   },
   {
-    "company": "RSM",
-    "role": "Process Risk and Controls Consulting Intern - Summer 2027",
-    "location": "Miami",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Miami/Process-Risk-and-Controls-Consulting-Intern---Summer-2027_JR117221-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
     "company": "Solar Turbines",
     "role": "2027 Internship- Overhaul Engineer",
     "location": "Desoto, TX",
@@ -74835,18 +73159,6 @@
     "date_added": "2026-09-14"
   },
   {
-    "company": "Tencent",
-    "role": "Tencent Cloud Business Development Intern - United States",
-    "location": "US-California-Los Angeles",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Los-Angeles/Tencent-Cloud-Business-Development-Intern---United-States_R108127?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
     "company": "Vanguard",
     "role": "Entry Level Application Engineer  - 2027 Start Date",
     "location": "Charlotte, NC",
@@ -74884,18 +73196,6 @@
     "citizenship": "Unknown",
     "date_added": "2026-09-14",
     "grad_date": ""
-  },
-  {
-    "company": "RTX",
-    "role": "Systems Engineering Intern (Summer 2027)",
-    "location": "TUCSON-848 ~ 1151 E Hermans Rd ~ BLDG 848, AZ",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Systems-Engineering-Intern--Summer-2027-_01870304?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
   },
   {
     "company": "RTX",
@@ -74947,18 +73247,6 @@
   },
   {
     "company": "RTX",
-    "role": "Systems Engineering Intern- Onsite",
-    "location": "PORTSMOUTH-PS1 ~ 1847 W Main Rd ~ NIMITZ BLDG, RI",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Systems-Engineering-Intern--Onsite_01874495?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RTX",
     "role": "Mechanical Design Engineering Co-op (Winter/Spring 2027)",
     "location": "JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1, ND",
     "type": "offcycle",
@@ -74977,18 +73265,6 @@
     "season": "Co-op",
     "education": "Undergrad",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Mechanical-Design-Engineering-Co-op--Summer-Fall-2027-_01871739?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RTX",
-    "role": "Systems Engineering Intern- Onsite",
-    "location": "TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG, MA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Systems-Engineering-Intern--Onsite_01874255?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-14"
@@ -75164,18 +73440,6 @@
   },
   {
     "company": "RTX",
-    "role": "Avionics Systems Engineering Intern - Hybrid",
-    "location": "BOTHELL-3350 ~ 3350 Monte Villa Pkwy ~ CREEKVIEW BLDG, Ste 210, WA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-WA-BOTHELL-3350--3350-Monte-Villa-Pkwy--CREEKVIEW-BLDG-Ste-210/Avionics-Systems-Engineering-Intern---Hybrid_01872126?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RTX",
     "role": "Advanced Measurement Str Data Recording Summer Intern (Onsite)",
     "location": "MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A, CT",
     "type": "summer",
@@ -75242,18 +73506,6 @@
     "season": "Co-op",
     "education": "Masters",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/SOA-Platform-Systems-Co-Op---2027-Spring-Summer---Onsite-_01871362?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RTX",
-    "role": "Systems Engineering Co-op - Systems Integration (Summer/Fall 2027) - Onsite",
-    "location": "CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182, IA",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineering-Co-op---Systems-Integration--Summer-Fall-2027----Onsite_01871552?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-14"
@@ -75392,60 +73644,12 @@
   },
   {
     "company": "RTX",
-    "role": "KC-135 Platform Systems Engineering Co-Op (Spring/Summer) - Onsite",
-    "location": "CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192, IA",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/KC-135-Platform-Systems-Engineering-Co-Op--Spring-Summer----Onsite_01870355?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RTX",
-    "role": "CH-53K Systems Engineering Coop (Spring/Summer 2027) - Onsite",
-    "location": "CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182, IA",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Coop--Spring-Summer-2027----Onsite_01872668?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RTX",
-    "role": "CH-53K Systems Engineering Coop (Spring/Summer 2027) - Onsite",
-    "location": "CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182, IA",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Coop--Spring-Summer-2027----Onsite_01872916?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RTX",
     "role": "Platform System Engineering Co-op (2027) - Onsite",
     "location": "CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130, IA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RTX",
-    "role": "Systems Engineering Co-op (Summer/Fall 2027) - Onsite",
-    "location": "CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130, IA",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872651?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-14"
@@ -75470,42 +73674,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/RF-Design-Engineer-Intern--Summer-2027--Onsite-_01872014?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RTX",
-    "role": "Systems Engineering Intern (Onsite)",
-    "location": "HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401, AL",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Systems-Engineering-Intern--Onsite-_01871921?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RTX",
-    "role": "Systems Engineering Intern (Summer 2027) - Onsite",
-    "location": "CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137, IA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RTX",
-    "role": "Systems Engineering \u2013 Intern (Onsite)",
-    "location": "HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401, AL",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Systems-Engineering---Intern--Onsite-_01870675?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-14"
@@ -75626,18 +73794,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000186286?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "Royal Bank of Canada",
-    "role": "2027 Winter - CLAO, Business Analyst Intern (4 months)",
-    "location": "TORONTO, Ontario, Canada",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---CLAO--Business-Analyst-Intern--4-months-_R-0000186984?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-14"
@@ -75775,30 +73931,6 @@
     "date_added": "2026-09-14"
   },
   {
-    "company": "Royal Bank of Canada",
-    "role": "Business Analyst, RBC Amplify 2027, Toronto",
-    "location": "TORONTO, Ontario, Canada",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/Business-Analyst--RBC-Amplify-2027--Toronto_R-0000187109?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "Royal Bank of Canada",
-    "role": "Business Analyst, RBC Amplify 2027, Halifax",
-    "location": "HALIFAX, Nova Scotia, Canada",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Business-Analyst--RBC-Amplify-2027--Halifax_R-0000187116?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
     "company": "Figma",
     "role": "Data Science Intern (2027)",
     "location": "San Francisco, CA; New York, NY",
@@ -75928,42 +74060,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Validation-Engineering---Product-Safety--Certification---Validation---Onsite-_01864406-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RTX",
-    "role": "Systems Engineering Intern (Summer 2027)",
-    "location": "WHITE SANDS-LC38 ~ Bldg. 23626, LC-38 Nike Ave ~ BLDG LC38 (External Site), NM",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-NM-WHITE-SANDS-LC38--Bldg-23626-LC-38-Nike-Ave--BLDG-LC38-External-Site/Systems-Engineering-Intern--Summer-2027-_01872539?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RTX",
-    "role": "Systems Engineering Intern (Onsite)",
-    "location": "MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A, CT",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Systems-Engineering-Intern--Onsite-_01871782?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RTX",
-    "role": "Head-up Guidance Systems Engineering Co-op, Spring/Summer 2027 (Onsite)",
-    "location": "WILSONVILLE-596 ~ 27500 SW Parkway Ave ~ BLDG 596, OR",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Head-up-Guidance-Systems-Engineering-Co-op--Spring-Summer-2027--Onsite-_01872670?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-14"
@@ -76164,30 +74260,6 @@
     "date_added": "2026-09-14"
   },
   {
-    "company": "RSM",
-    "role": "Process Risk and Controls Consulting Intern - Summer 2027",
-    "location": "Atlanta Metro Area",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Atlanta-Metro-Area/Process-Risk-and-Controls-Consulting-Intern---Summer-2027_JR117220?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RSM",
-    "role": "Process Risk and Controls Consulting Intern - Summer 2027",
-    "location": "Boston, MA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Boston/Process-Risk-and-Controls-Consulting-Intern---Summer-2027_JR116338?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
     "company": "Tencent",
     "role": "Cyber Security Engineer Intern",
     "location": "US-California-Palo Alto",
@@ -76273,18 +74345,6 @@
   },
   {
     "company": "RTX",
-    "role": "Systems Engineering Summer Intern- Onsite",
-    "location": "WINDSOR LOCKS-B1A ~ 1 Hamilton Rd ~ BLDG 1A, CT",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Systems-Engineering-Summer-Intern--Onsite_01872942?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "RTX",
     "role": "Systems Security Engineering Intern (Summer 2027)",
     "location": "TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site), AZ",
     "type": "summer",
@@ -76320,30 +74380,6 @@
     "date_added": "2026-09-14"
   },
   {
-    "company": "RTX",
-    "role": "Systems Engineering Intern \u2013 Integration and Test, Onsite",
-    "location": "ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG, MA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Systems-Engineering-Intern---Integration-and-Test--Onsite_01874598?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "BillionToOne",
-    "role": "Research Associate Intern",
-    "location": "Menlo Park, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4733845005?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-15"
-  },
-  {
     "company": "DoorDash",
     "role": "Software Engineer, Intern (Summer 2027) - US",
     "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA",
@@ -76363,18 +74399,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-15"
-  },
-  {
-    "company": "RTX",
-    "role": "Safety and Reliability Intern (Onsite)",
-    "location": "EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC, CT",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Safety-and-Reliability-Intern--Onsite-_01873849?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-15"

@@ -119,7 +119,6 @@ HIGH_CONFIDENCE_TECH_SIGNALS = [
     'engineering development program', 'software engineering intern',
     'software engineer intern', 'developer intern', 'data intern',
     'associate software', 'software engineering, associate', 'software engineer, associate',
-    'new grad', 'early career', 'university graduate',
 ]
 
 HARD_REJECT_SIGNALS = [
@@ -129,16 +128,56 @@ HARD_REJECT_SIGNALS = [
     'environmental engineer', 'civil engineer', 'structural engineer',
     'electrical engineer', 'process integration', 'photolithography',
     'metrology', 'failure analysis', 'yield engineer', 'etch engineer',
-    'human resources', 'recruiter', 'talent acquisition',
+    'human resources', 'recruiter', 'talent acquisition', 'peoplex',
+    'people ops', 'people operations', 'people analytics', 'people partner',
     'supply chain', 'procurement',
     'legal intern', 'paralegal', 'accounting intern',
-    'logistics', 'warehouse', 'shipping', 'receiving', 'inventory',
+    'logistics', 'warehouse', 'shipping clerk', 'receiving clerk',
+    'inventory management', 'inventory specialist', 'inventory analyst',
     'facilities manager', 'facilities engineer', 'facilities intern',
     'embedded software', 'embedded design', 'embedded engineer', 'embedded intern',
     'firmware engineer', 'firmware intern',
     'tax director', 'tax manager',
     'legal counsel', 'general counsel', 'legal operations',
+    'digital marketing', 'product marketing', 'marketing intern', 'marketing co-op',
+    'marketing co op', 'content marketing', 'brand marketing',
+    'netsuite consulting', 'process risk and controls', 'risk and controls consulting',
+    'sales intern', 'sales co-op', 'account executive', 'business development intern',
+    'avionics systems', 'safety and reliability',
 ]
+
+_SCOPE_TECH_HINT = re.compile(
+    r'software|developer|programming|computer science|\bcs\b|data science|data engineer|'
+    r'data analyst|data analytics|machine learning|\bml\b|\bai\b|artificial intelligence|'
+    r'quantitative|quant|cyber|devops|sre|backend|frontend|full-?stack|platform engineer|'
+    r'cloud engineer|information technology|\bit\b|security engineer|product manager|'
+    r'product engineer|technology|\btech\b|technical program|business technology|'
+    r'digital technology|\berp\b',
+    re.I,
+)
+
+
+def is_out_of_scope_title(title):
+    t = (title or '').lower()
+    if not t:
+        return True
+    if any(s in t for s in HARD_REJECT_SIGNALS):
+        return True
+    if re.search(r'research associate', t) and not _SCOPE_TECH_HINT.search(t):
+        return True
+    if re.search(r'\bsystems engineering\b', t):
+        if not re.search(r'software|computer|cyber|digital|information technology|\bit\b', t):
+            return True
+    if re.search(r'\bbusiness analyst\b', t) and not _SCOPE_TECH_HINT.search(t):
+        return True
+    if re.search(r'\bconsulting intern\b|\bconsulting co-?op\b', t) and not _SCOPE_TECH_HINT.search(t):
+        return True
+    if re.search(r'\bmarketing\b', t) and not _SCOPE_TECH_HINT.search(t):
+        return True
+    if re.search(r'\b(people|hr)\b', t) and not _SCOPE_TECH_HINT.search(t):
+        return True
+    return False
+
 
 _US_STATE_ABBRS = {
     'al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de', 'fl', 'ga', 'hi',
@@ -276,6 +315,11 @@ def load_title_cache():
                     for k, v in data.items():
                         if not isinstance(k, str):
                             continue
+                        if is_out_of_scope_title(k):
+                            _title_cache[k] = False
+                            _confidence_cache[k] = 'high'
+                            _add_cache[k] = False
+                            continue
                         if isinstance(v, dict):
                             _title_cache[k] = bool(v.get('is_tech', v.get('t', False)))
                             _confidence_cache[k] = v.get('confidence', v.get('c', 'medium'))
@@ -403,9 +447,13 @@ def batch_classify_with_claude(titles):
     prompt = (
         f'US/Canada CS intern+new-grad board. JSON array length {n}, same order.\n'
         'Each: {"t":0|1,"c":"h"|"m"|"l","a":0|1}\n'
-        't=1 tech (SWE/data/ML/quant/PM/cyber/DevOps). '
-        'a=1 only entry-level campus fit (intern/co-op/newgrad/early-career/associate '
-        'SWE-data); a=0 senior/staff/lead/principal/non-tech/hardware/firmware/helpdesk.\n'
+        't=1 only core tech: SWE/data/ML/quant/cyber/DevOps/platform/cloud OR tech PM.\n'
+        'a=1 only entry-level campus fit for those tech roles '
+        '(intern/co-op/newgrad/early-career/associate SWE-data).\n'
+        'Set t=0 and a=0 for: marketing/HR/people/sales, NetSuite or risk consulting, '
+        'generic business analyst (no AI/data/tech), research associate (non-CS), '
+        'systems engineering without software/computer, safety/reliability without software, '
+        'hardware/firmware/manufacturing, senior/staff/lead/principal, IT helpdesk.\n'
         f'{numbered}\nJSON only.'
     )
 
@@ -482,16 +530,21 @@ def classify_titles_batch(title_list):
         tl = t.lower()
         if tl in seen_lower or tl in cache:
             continue
-        if any(s in tl for s in HARD_REJECT_SIGNALS):
+        if any(s in tl for s in HARD_REJECT_SIGNALS) or is_out_of_scope_title(t):
             cache[tl] = False
             _confidence_cache[tl] = 'high'
             _add_cache[tl] = False
             seen_lower.add(tl)
             continue
         if any(s in tl for s in HIGH_CONFIDENCE_TECH_SIGNALS):
-            cache[tl] = True
-            _confidence_cache[tl] = 'high'
-            _add_cache[tl] = is_auto_addable(t)
+            if is_out_of_scope_title(t):
+                cache[tl] = False
+                _confidence_cache[tl] = 'high'
+                _add_cache[tl] = False
+            else:
+                cache[tl] = True
+                _confidence_cache[tl] = 'high'
+                _add_cache[tl] = is_auto_addable(t)
             seen_lower.add(tl)
             continue
         seen_lower.add(tl)
@@ -594,14 +647,14 @@ def send_followed_company_webhook_alert(job):
 
 def is_tech_title_keywords(title):
     t = title.lower()
-    if any(s in t for s in HARD_REJECT_SIGNALS):
+    if is_out_of_scope_title(title):
         return False
     return any(kw in t for kw in TECH_KEYWORDS)
 
 def classify_title(title, allow_claude=True):
     t = title.lower()
 
-    if any(s in t for s in HARD_REJECT_SIGNALS):
+    if is_out_of_scope_title(title):
         return False, True
 
     cache = load_title_cache()
@@ -735,9 +788,10 @@ def _title_is_tech(title):
     return is_tech
 
 def should_list_job(job):
-                                                                                  
     title = job['title']
     tl = title.lower()
+    if is_out_of_scope_title(title):
+        return False
     if not _title_is_tech(title):
         return False
     if tl in _add_cache:
@@ -774,9 +828,12 @@ def batch_decide_add_jobs(jobs):
         )
         prompt = (
             f'JSON array length {len(batch)}, same order. Each {{"a":0|1}}.\n'
-            'a=1 list on US/Canada CS intern/new-grad board; a=0 skip.\n'
-            'Approve intern/co-op/newgrad/early-career/associate SWE-data-ML-quant-PM-cyber. '
-            'Reject senior/staff/lead/principal/non-tech/hardware/firmware/IT support.\n'
+            'a=1 only for US/Canada CS/tech campus roles: SWE, data, ML/AI, quant, cyber, '
+            'DevOps/SRE, platform/cloud, tech PM, technology analyst.\n'
+            'a=0 for marketing/HR/people/sales, NetSuite or process-risk consulting, '
+            'generic business analyst, research associate (non-CS), systems engineering '
+            'without software/computer, safety/reliability without software, '
+            'hardware/firmware/manufacturing, senior/staff/lead/principal, IT helpdesk.\n'
             f'{lines}\nJSON only.'
         )
         for attempt in range(4):
@@ -824,11 +881,11 @@ def batch_decide_add_jobs(jobs):
     return decisions
 
 def is_auto_addable(title):
-                                                                                     
     t = title.lower()
 
-                                                         
-                                                                    
+    if is_out_of_scope_title(title):
+        return False
+
     if re.search(r'\b(senior|staff|principal|director)\b', t) and 'intern' not in t:
         return False
     if re.search(r'\blead\b', t) and 'intern' not in t and 'leadership' not in t:
