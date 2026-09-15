@@ -44225,11 +44225,13 @@
   },
   "tmz podcast intern - fall 2026": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "tmz social media intern - fall 2026": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "tmz affiliate marketing intern - fall 2026": {
     "t": false,
@@ -44238,11 +44240,13 @@
   },
   "tmz news desk intern - fall 2026": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "foreign pharmacy grad - international pharmacy intern": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "entry-level wheel designer": {
     "t": false,
@@ -44250,7 +44254,8 @@
   },
   "off campus property manager": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "campus rec communications coordinator": {
     "t": false,
@@ -44537,7 +44542,8 @@
   },
   "2027 public affairs summer internship - early careers": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "intern, full stack software engineer - fall 2026": {
     "t": true,
@@ -44569,7 +44575,8 @@
   },
   "apprentice - it helpdesk campus support": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "recovery coach internship | part time - days | vanderbilt health": {
     "t": false,
@@ -44691,7 +44698,8 @@
   },
   "finance intern - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "applied ai engineering intern (m/f/d)": {
     "t": true,
@@ -46947,7 +46955,8 @@
   },
   "junior systems engineer": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "ge vernova nuclear engineering co-op/intern - spring 2027": {
     "t": true,
@@ -47115,7 +47124,8 @@
   },
   "associate engineer quality": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "senior agentic ai research scientist": {
     "t": true,
@@ -47367,7 +47377,8 @@
   },
   "director of student affairs": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "fleet issue risk intern 2027": {
     "t": false,
@@ -48540,7 +48551,8 @@
   },
   "design build intern technician - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "audit associate - fall 2027": {
     "t": false,
@@ -48643,7 +48655,8 @@
   },
   "software engineering intern (summer 2027)": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "software engineer (new grad december 2026)": {
     "t": true,
@@ -48813,7 +48826,8 @@
   },
   "sustainability engagement coop": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "medtech surgery analytical characterization intern": {
     "t": false,
@@ -48825,11 +48839,13 @@
   },
   "summer 2027 finance internship \u2013 el paso, tx/juarez, mx": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "2027 finance leadership development program (fldp) - full time \u2013 el paso, tx / juarez, mx": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "strategy & execution, prostate co-op": {
     "t": false,
@@ -48921,7 +48937,8 @@
   },
   "intern engineer - summer 2027": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "analog test engineer (2027 new college graduate)": {
     "t": true,
@@ -48993,7 +49010,8 @@
   },
   "design and development, co-op spring 2027": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "junior program control analyst": {
     "t": false,
@@ -49987,11 +50005,13 @@
   },
   "global oncology market access co-op": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "2027 mba finance leadership development program (mba fldp) - full time": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "intern - euv lithography": {
     "t": false,
@@ -50493,7 +50513,8 @@
   },
   "2027 keybanc capital markets full time analyst": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "2027 management development program - internal audit (buffalo, ny)": {
     "t": false,
@@ -50505,11 +50526,13 @@
   },
   "r&d mis spring 2027 co-op": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "design and development co-op, summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "catalyst internship": {
     "t": false,
@@ -50785,7 +50808,8 @@
   },
   "operational excellence co-op": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "2027 etp intern - marketing and communications, multiple opportunities, birmingham, al": {
     "t": false,
@@ -51376,19 +51400,23 @@
   },
   "wound closure r&d summer 2027 intern": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "customer solutions medtech channel ops co-op": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "r&d spring co-op": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "early stage innovation r&d co-op": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "intern, operations": {
     "t": false,
@@ -51683,7 +51711,8 @@
   },
   "athens manufacturing plant 2027 co-op": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "business intelligence and infrastructure analysts  intern": {
     "t": true,
@@ -52454,7 +52483,8 @@
   },
   "pmo summer intern": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "summer sales intern": {
     "t": false,
@@ -52463,11 +52493,13 @@
   },
   "2027 jax r&d internship (stem, eng/chem)": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "r&d co-op": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "intern - instructional design and training development - starting spring 2027": {
     "t": false,
@@ -52844,7 +52876,8 @@
   },
   "2027 r&d lcm co-op": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "ge vernova hitachi - licensing intern - summer 2027": {
     "t": false,
