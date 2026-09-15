@@ -42761,7 +42761,8 @@
   },
   "engineering intern": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "public policy intern": {
     "t": false,
@@ -43566,7 +43567,8 @@
   },
   "emerging sales associate - august 2027": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "2027 technology internship program": {
     "t": false,
@@ -43651,7 +43653,8 @@
   },
   "pharmacy intern": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "5k new hire bonus! case manager behavioral health - lcsw or lcpc (field - chinatown area)": {
     "t": false,
@@ -44596,7 +44599,8 @@
   },
   "intern, engineering": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "junior application security engineer": {
     "t": true,
@@ -45615,7 +45619,8 @@
   },
   "pharmacy student": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "pharmacy student - co op": {
     "t": false,
@@ -45872,7 +45877,8 @@
   },
   "assurance associate - fall 2027": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "production control engineer (2027 new college graduate)": {
     "t": true,
@@ -47631,7 +47637,8 @@
   },
   "ge vernova commercial internship \u2013 us \u2013 summer 2027-1": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "2027 etp intern - corporate banking group, commercial credit products, huntsville, al": {
     "t": true,
@@ -47945,7 +47952,8 @@
   },
   "software engineer intern (summer 2027)": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "research scientist i/ii, computational organic electronics": {
     "t": true,
@@ -50763,7 +50771,8 @@
   },
   "undergraduate co-op student \u2013 r&d biologics discovery": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "undergraduate co-op student \u2013 business analyst": {
     "t": false,
@@ -51421,7 +51430,8 @@
   },
   "intern, operations": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "sr campus recruitment specialist": {
     "t": false,
