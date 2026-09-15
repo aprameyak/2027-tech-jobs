@@ -74711,5 +74711,18 @@
     "citizenship": "No",
     "date_added": "2026-09-15",
     "grad_date": ""
+  },
+  {
+    "company": "MITRE",
+    "role": "Software Developer, Associate",
+    "location": "Sumter, SC",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers.mitre.org/us/en/job/R117425/Software-Developer-Associate",
+    "sponsorship": "No \u2014 does NOT offer sponsorship",
+    "citizenship": "Yes \u2014 U.S. citizenship required",
+    "date_added": "2026-09-15",
+    "grad_date": ""
   }
 ]
