@@ -53350,5 +53350,10 @@
     "t": true,
     "c": "medium",
     "a": 1
+  },
+  "software engineering co-op": {
+    "t": true,
+    "c": "high",
+    "a": 1
   }
 }
