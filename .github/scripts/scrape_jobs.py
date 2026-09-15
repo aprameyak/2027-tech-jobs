@@ -21,6 +21,7 @@ if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 from grad_date import infer_grad_date
 from validate_listings import validate_entry
+from scope_rules import HARD_REJECT_SIGNALS, is_out_of_scope_title
 
 BOARD_GROUP = os.environ.get('BOARD_GROUP', '').strip()
 
@@ -36,10 +37,10 @@ CLAUDE_USAGE_FILE = (
 FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
 
 CLAUDE_MODEL = 'claude-haiku-4-5-20251001'
-                                                                                     
-CLAUDE_BATCH_SIZE = 100
-TITLE_PROMPT_MAX_LEN = 90
+CLAUDE_BATCH_SIZE = 120
+TITLE_PROMPT_MAX_LEN = 80
 _claude_client = None
+_claude_usage_dirty = False
 
 MAX_WORKDAY_PAGES_PER_TERM = 15
 SCRAPER_MAX_WORKERS = 12
@@ -120,64 +121,6 @@ HIGH_CONFIDENCE_TECH_SIGNALS = [
     'software engineer intern', 'developer intern', 'data intern',
     'associate software', 'software engineering, associate', 'software engineer, associate',
 ]
-
-HARD_REJECT_SIGNALS = [
-    'manufacturing engineer', 'process engineer', 'chemical engineer',
-    'mechanical engineer', 'materials engineer', 'materials scientist',
-    'quality engineer', 'equipment engineer', 'industrial engineer',
-    'environmental engineer', 'civil engineer', 'structural engineer',
-    'electrical engineer', 'process integration', 'photolithography',
-    'metrology', 'failure analysis', 'yield engineer', 'etch engineer',
-    'human resources', 'recruiter', 'talent acquisition', 'peoplex',
-    'people ops', 'people operations', 'people analytics', 'people partner',
-    'supply chain', 'procurement',
-    'legal intern', 'paralegal', 'accounting intern',
-    'logistics', 'warehouse', 'shipping clerk', 'receiving clerk',
-    'inventory management', 'inventory specialist', 'inventory analyst',
-    'facilities manager', 'facilities engineer', 'facilities intern',
-    'embedded software', 'embedded design', 'embedded engineer', 'embedded intern',
-    'firmware engineer', 'firmware intern',
-    'tax director', 'tax manager',
-    'legal counsel', 'general counsel', 'legal operations',
-    'digital marketing', 'product marketing', 'marketing intern', 'marketing co-op',
-    'marketing co op', 'content marketing', 'brand marketing',
-    'netsuite consulting', 'process risk and controls', 'risk and controls consulting',
-    'sales intern', 'sales co-op', 'account executive', 'business development intern',
-    'avionics systems', 'safety and reliability',
-]
-
-_SCOPE_TECH_HINT = re.compile(
-    r'software|developer|programming|computer science|\bcs\b|data science|data engineer|'
-    r'data analyst|data analytics|machine learning|\bml\b|\bai\b|artificial intelligence|'
-    r'quantitative|quant|cyber|devops|sre|backend|frontend|full-?stack|platform engineer|'
-    r'cloud engineer|information technology|\bit\b|security engineer|product manager|'
-    r'product engineer|technology|\btech\b|technical program|business technology|'
-    r'digital technology|\berp\b',
-    re.I,
-)
-
-
-def is_out_of_scope_title(title):
-    t = (title or '').lower()
-    if not t:
-        return True
-    if any(s in t for s in HARD_REJECT_SIGNALS):
-        return True
-    if re.search(r'research associate', t) and not _SCOPE_TECH_HINT.search(t):
-        return True
-    if re.search(r'\bsystems engineering\b', t):
-        if not re.search(r'software|computer|cyber|digital|information technology|\bit\b', t):
-            return True
-    if re.search(r'\bbusiness analyst\b', t) and not _SCOPE_TECH_HINT.search(t):
-        return True
-    if re.search(r'\bconsulting intern\b|\bconsulting co-?op\b', t) and not _SCOPE_TECH_HINT.search(t):
-        return True
-    if re.search(r'\bmarketing\b', t) and not _SCOPE_TECH_HINT.search(t):
-        return True
-    if re.search(r'\b(people|hr)\b', t) and not _SCOPE_TECH_HINT.search(t):
-        return True
-    return False
-
 
 _US_STATE_ABBRS = {
     'al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de', 'fl', 'ga', 'hi',
@@ -388,19 +331,20 @@ def load_claude_usage():
     _claude_calls_today = _read_usage_calls(CLAUDE_USAGE_FILE, today)
 
 def save_claude_usage():
+    global _claude_usage_dirty
     try:
         CLAUDE_USAGE_FILE.parent.mkdir(parents=True, exist_ok=True)
         payload = {'date': _claude_usage_date or datetime.now().strftime('%Y-%m-%d'),
                    'calls': _claude_calls_today}
         with open(CLAUDE_USAGE_FILE, 'w') as f:
             json.dump(payload, f)
+        _claude_usage_dirty = False
     except Exception as e:
         print(f'  [Claude] Failed to save usage file: {e}')
 
 _claude_calls_this_run = 0
 
 def _get_claude_client():
-                                                                                  
     global _claude_client
     api_key = os.environ.get('ANTHROPIC_API_KEY')
     if not api_key:
@@ -410,12 +354,17 @@ def _get_claude_client():
     return _claude_client
 
 def _record_claude_call():
-                                                                                
-    global _claude_calls_today, _claude_calls_this_run
-    load_claude_usage()
+    global _claude_calls_today, _claude_calls_this_run, _claude_usage_dirty
+    if _claude_usage_date != datetime.now().strftime('%Y-%m-%d'):
+        load_claude_usage()
     _claude_calls_today += 1
     _claude_calls_this_run += 1
-    save_claude_usage()
+    _claude_usage_dirty = True
+
+def _derive_add_decision(title, is_tech):
+    if not is_tech or is_out_of_scope_title(title):
+        return False
+    return is_auto_addable(title)
 
 def _normalize_claude_row(row):
                                                                              
@@ -445,15 +394,12 @@ def batch_classify_with_claude(titles):
     )
     n = len(titles)
     prompt = (
-        f'US/Canada CS intern+new-grad board. JSON array length {n}, same order.\n'
-        'Each: {"t":0|1,"c":"h"|"m"|"l","a":0|1}\n'
-        't=1 only core tech: SWE/data/ML/quant/cyber/DevOps/platform/cloud OR tech PM.\n'
-        'a=1 only entry-level campus fit for those tech roles '
-        '(intern/co-op/newgrad/early-career/associate SWE-data).\n'
-        'Set t=0 and a=0 for: marketing/HR/people/sales, NetSuite or risk consulting, '
-        'generic business analyst (no AI/data/tech), research associate (non-CS), '
-        'systems engineering without software/computer, safety/reliability without software, '
-        'hardware/firmware/manufacturing, senior/staff/lead/principal, IT helpdesk.\n'
+        f'CS intern/new-grad board. JSON array len {n}, same order.\n'
+        'Each {{"t":0|1,"c":"h"|"m"|"l","a":0|1}}. '
+        't=1 core tech (SWE/data/ML/quant/cyber/DevOps/tech-PM). '
+        'a=1 only entry campus fit for those. '
+        'a=0 marketing/HR/people/sales/generic-BA/systems-eng(no software)/'
+        'non-CS research associate/hardware/senior.\n'
         f'{numbered}\nJSON only.'
     )
 
@@ -528,7 +474,12 @@ def classify_titles_batch(title_list):
     uncached = []
     for t in title_list:
         tl = t.lower()
-        if tl in seen_lower or tl in cache:
+        if tl in seen_lower:
+            continue
+        if tl in cache:
+            if tl not in _add_cache:
+                _add_cache[tl] = _derive_add_decision(t, bool(cache[tl]))
+            seen_lower.add(tl)
             continue
         if any(s in tl for s in HARD_REJECT_SIGNALS) or is_out_of_scope_title(t):
             cache[tl] = False
@@ -554,26 +505,31 @@ def classify_titles_batch(title_list):
         return 0
 
     print(f'  [Claude] Batch-classifying {len(uncached)} uncached titles '
-          f'({len(uncached) // CLAUDE_BATCH_SIZE + 1} call(s))...')
+          f'({(len(uncached) + CLAUDE_BATCH_SIZE - 1) // CLAUDE_BATCH_SIZE} call(s))...')
     classified = 0
 
     for i in range(0, len(uncached), CLAUDE_BATCH_SIZE):
         batch = uncached[i:i + CLAUDE_BATCH_SIZE]
         results = batch_classify_with_claude(batch)
         for title in batch:
-            result = results.get(title.lower())
+            tl = title.lower()
+            result = results.get(tl)
             if result is not None:
-                tl = title.lower()
-                cache[tl] = bool(result.get('is_tech', False))
+                is_tech = bool(result.get('is_tech', False))
+                cache[tl] = is_tech
                 _confidence_cache[tl] = result.get('confidence', 'medium')
-                if 'a' in result:
-                    _add_cache[tl] = bool(int(result.get('a', 0)))
-                classified += 1
+                if is_out_of_scope_title(title):
+                    _add_cache[tl] = False
+                elif 'a' in result:
+                    _add_cache[tl] = bool(int(result.get('a', 0))) and is_tech
+                else:
+                    _add_cache[tl] = _derive_add_decision(title, is_tech)
             else:
-                tl = title.lower()
-                cache[tl] = is_tech_title_keywords(title)
+                is_tech = is_tech_title_keywords(title)
+                cache[tl] = is_tech
                 _confidence_cache[tl] = 'medium'
-                classified += 1
+                _add_cache[tl] = _derive_add_decision(title, is_tech)
+            classified += 1
 
     return classified
 
@@ -802,83 +758,6 @@ def should_list_job(job):
     if is_auto_addable(title) and conf in ('high', 'medium'):
         return True
     return False
-
-def batch_decide_add_jobs(jobs):
-                                                                                   
-    client = _get_claude_client()
-    if not client or not jobs:
-        return {}
-
-                                                                               
-    unique_titles = []
-    title_to_indices = {}
-    for idx, job in enumerate(jobs):
-        tl = job['title'].lower()
-        if tl in title_to_indices:
-            title_to_indices[tl].append(idx)
-        else:
-            title_to_indices[tl] = [idx]
-            unique_titles.append(job['title'])
-
-    title_decisions = {}
-    for i in range(0, len(unique_titles), CLAUDE_BATCH_SIZE):
-        batch = unique_titles[i:i + CLAUDE_BATCH_SIZE]
-        lines = '\n'.join(
-            f'{j + 1}. {batch[j][:TITLE_PROMPT_MAX_LEN]}' for j in range(len(batch))
-        )
-        prompt = (
-            f'JSON array length {len(batch)}, same order. Each {{"a":0|1}}.\n'
-            'a=1 only for US/Canada CS/tech campus roles: SWE, data, ML/AI, quant, cyber, '
-            'DevOps/SRE, platform/cloud, tech PM, technology analyst.\n'
-            'a=0 for marketing/HR/people/sales, NetSuite or process-risk consulting, '
-            'generic business analyst, research associate (non-CS), systems engineering '
-            'without software/computer, safety/reliability without software, '
-            'hardware/firmware/manufacturing, senior/staff/lead/principal, IT helpdesk.\n'
-            f'{lines}\nJSON only.'
-        )
-        for attempt in range(4):
-            try:
-                message = client.messages.create(
-                    model=CLAUDE_MODEL,
-                    max_tokens=len(batch) * 8 + 24,
-                    messages=[{'role': 'user', 'content': prompt}],
-                )
-                _record_claude_call()
-                text = message.content[0].text.strip()
-                text = re.sub(r'^```(?:json)?\s*', '', text)
-                text = re.sub(r'\s*```$', '', text)
-                parsed = json.loads(text)
-                if isinstance(parsed, list) and len(parsed) == len(batch):
-                    for j, row in enumerate(parsed):
-                        if isinstance(row, dict):
-                            title_decisions[batch[j].lower()] = bool(
-                                int(row.get('a', row.get('add', 0)))
-                            )
-                        else:
-                            title_decisions[batch[j].lower()] = bool(row)
-                else:
-                    print(f'  [Claude] add-batch size mismatch '
-                          f'({len(parsed) if isinstance(parsed, list) else 0})')
-                break
-            except anthropic.APIStatusError as e:
-                if e.status_code == 429 and attempt < 3:
-                    wait = min((2 ** attempt) * 5, 60)
-                    print(f'  [Claude] add-batch 429 — waiting {wait}s')
-                    time.sleep(wait)
-                    continue
-                print(f'  [Claude] add-batch error: {e}')
-                break
-            except Exception as e:
-                print(f'  [Claude] add-batch error: {e}')
-                break
-
-    decisions = {}
-    for tl, indices in title_to_indices.items():
-        if tl not in title_decisions:
-            continue
-        for idx in indices:
-            decisions[idx] = title_decisions[tl]
-    return decisions
 
 def is_auto_addable(title):
     t = title.lower()
@@ -1995,44 +1874,16 @@ def main():
     to_list = []
     to_list_ids = set()
     for job in new_jobs:
+        tl = job['title'].lower()
+        if tl not in _add_cache:
+            _add_cache[tl] = _derive_add_decision(job['title'], True)
         if should_list_job(job):
             to_list.append(job)
             to_list_ids.add(job['id'])
-    borderline = []
-    for j in new_jobs:
-        if j['id'] in to_list_ids:
             continue
-        tl = j['title'].lower()
-        if tl in _add_cache:
-            if _add_cache[tl]:
-                to_list.append(j)
-                to_list_ids.add(j['id'])
-            else:
-                                                                            
-                seen.add(j['id'])
-            continue
-        borderline.append(j)
-
-    if borderline:
-        print(f'  [Claude] Reviewing {len(borderline)} undecided job(s)...')
-        add_decisions = batch_decide_add_jobs(borderline)
-        for idx, job in enumerate(borderline):
-            if idx not in add_decisions:
-                                                                             
-                print(f'  DEFER: {job["company"]} — {job["title"][:60]}')
-                continue
-            approved = add_decisions[idx]
-            tl = job['title'].lower()
-            _add_cache[tl] = approved
+        if tl in _add_cache and not _add_cache[tl]:
             seen.add(job['id'])
-            if approved:
-                to_list.append(job)
-                to_list_ids.add(job['id'])
-                print(f'  LIST: {job["company"]} — {job["title"][:60]}')
-            else:
-                print(f'  SKIP: {job["company"]} — {job["title"][:60]}')
 
-                                                                                             
     print(f'  Adding {len(to_list)} job(s) to pending')
 
     if PENDING_FILE is not None:
@@ -2080,10 +1931,11 @@ def main():
 
     save_seen_jobs(seen)
     save_title_cache()
-    save_claude_usage()
+    if _claude_usage_dirty:
+        save_claude_usage()
     print(f'Board group: {BOARD_GROUP or "all"} | Claude: {_claude_calls_this_run} this run, '
           f'{_claude_calls_today} in {CLAUDE_USAGE_FILE.name}, '
-          f'{_total_claude_calls_today()} today all groups (no hard caps; cache+batch)')
+          f'{_total_claude_calls_today()} today all groups (single-pass+cache)')
     print('Done')
 
 if __name__ == '__main__':

@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-\
-\
-\
-\
-\
-   
 
 from __future__ import annotations
 
@@ -19,15 +13,22 @@ from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
 import anthropic
 import requests
 
+_SCRIPTS_DIR = Path(__file__).resolve().parent
+if str(_SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(_SCRIPTS_DIR))
+from scope_rules import is_out_of_scope_title
+
 CLAUDE_MODEL = 'claude-haiku-4-5-20251001'
 REPO = os.environ.get('GITHUB_REPOSITORY', '')
 TOKEN = os.environ.get('GITHUB_TOKEN') or os.environ.get('REPO_PAT') or ''
 API = 'https://api.github.com'
+_claude_client = None
 
 STRIP_PARAMS = {
     'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'utm_id',
     'source', 'src', 'ref', 'referer', 'lever-source', 'lever-origin', 'gh_src',
 }
+
 
 def gh_headers():
     return {
@@ -36,26 +37,33 @@ def gh_headers():
         'X-GitHub-Api-Version': '2022-11-28',
     }
 
-def _is_listing_issue(issue: dict) -> bool:
+
+def _get_client():
+    global _claude_client
+    api_key = os.environ.get('ANTHROPIC_API_KEY')
+    if not api_key:
+        return None
+    if _claude_client is None:
+        _claude_client = anthropic.Anthropic(api_key=api_key)
+    return _claude_client
+
+
+def _is_listing_issue(issue):
     labels = {lbl.get('name', '').lower() for lbl in (issue.get('labels') or [])}
     if 'new listing' in labels or 'approved' in labels:
         return True
     body = issue.get('body') or ''
     return '### Company Name' in body and '### Direct Application Link' in body
 
+
 def list_open_listing_issues():
-                                                                              
     issues = []
     page = 1
     while True:
         resp = requests.get(
             f'{API}/repos/{REPO}/issues',
             headers=gh_headers(),
-            params={
-                'state': 'open',
-                'per_page': 50,
-                'page': page,
-            },
+            params={'state': 'open', 'per_page': 50, 'page': page},
             timeout=30,
         )
         if resp.status_code != 200:
@@ -72,7 +80,8 @@ def list_open_listing_issues():
         page += 1
     return issues
 
-def parse_issue_fields(body: str) -> dict:
+
+def parse_issue_fields(body):
     fields = {}
     for section in re.split(r'^### ', body or '', flags=re.M):
         if not section.strip():
@@ -85,7 +94,8 @@ def parse_issue_fields(body: str) -> dict:
         fields[key] = value
     return fields
 
-def normalize_url(url: str) -> str:
+
+def normalize_url(url):
     if not url:
         return ''
     try:
@@ -114,6 +124,7 @@ def normalize_url(url: str) -> str:
     except Exception:
         return url
 
+
 def existing_urls():
     listings = json.loads(Path('listings.json').read_text())
     out = set()
@@ -122,39 +133,52 @@ def existing_urls():
         out.add(u)
     return out
 
-def claude_decide(issue: dict, fields: dict) -> dict:
-    api_key = os.environ.get('ANTHROPIC_API_KEY')
-    if not api_key:
-        return {'action': 'skip', 'reason': 'no API key'}
 
+def claude_decide_batch(items):
+    client = _get_client()
+    if not client or not items:
+        return {}
+
+    lines = []
+    for i, it in enumerate(items):
+        fields = it['fields']
+        lines.append(
+            f'{i + 1}. title={it["issue"].get("title","")[:120]} | '
+            f'company={fields.get("Company Name","")[:60]} | '
+            f'role={fields.get("Role / Job Title","")[:80]} | '
+            f'type={fields.get("Listing Type","")} | '
+            f'loc={fields.get("Location","")[:60]}'
+        )
+    n = len(items)
     prompt = (
-        'You triage GitHub issues for a US/Canada CS internship + new-grad job board.\n'
-        'Return JSON only: {"action":"add"|"reject"|"skip","reason":"short",'
+        f'Triage {n} GitHub listing issues for a US/Canada CS intern/new-grad board.\n'
+        f'Return JSON array length {n}, same order. Each '
+        '{"action":"add"|"reject"|"skip","reason":"short",'
         '"company":"","role":"","type":"Internship"|"New Grad (Full-Time)",'
         '"season":"","location":"","education":"Undergrad"|"Masters"|"PhD",'
         '"citizenship":"Unknown"|"Yes — U.S. citizenship required",'
         '"sponsorship":"Unknown"|"No — sponsorship not offered"}\n'
-        'Rules:\n'
-        '- add: SWE/data/ML/quant/cyber/DevOps/platform/tech-PM campus roles, US/Canada\n'
-        '- reject: marketing/HR/people/sales, NetSuite or risk consulting, generic BA, '
-        'research associate (non-CS), systems eng without software, hardware/firmware/'
-        'manufacturing, senior, international-only\n'
-        '- skip: missing URL, unclear timing, needs human judgment\n'
-        f'Title: {issue.get("title","")}\n'
-        f'Fields: {json.dumps(fields)[:2500]}\n'
+        'add=SWE/data/ML/quant/cyber/DevOps/tech-PM campus US/Canada. '
+        'reject=marketing/HR/people/sales/generic-BA/systems-eng(no software)/'
+        'hardware/senior/intl-only. skip=unclear.\n'
+        + '\n'.join(lines)
+        + '\nJSON only.'
     )
-    client = anthropic.Anthropic(api_key=api_key)
     msg = client.messages.create(
         model=CLAUDE_MODEL,
-        max_tokens=400,
+        max_tokens=min(400 * n, 8000),
         messages=[{'role': 'user', 'content': prompt}],
     )
     text = msg.content[0].text.strip()
     text = re.sub(r'^```(?:json)?\s*', '', text)
     text = re.sub(r'\s*```$', '', text)
-    return json.loads(text)
+    parsed = json.loads(text)
+    if not isinstance(parsed, list) or len(parsed) != n:
+        raise ValueError(f'expected {n} decisions, got {type(parsed).__name__}')
+    return {items[i]['issue']['number']: parsed[i] for i in range(n)}
 
-def comment(issue_number: int, body: str):
+
+def comment(issue_number, body):
     requests.post(
         f'{API}/repos/{REPO}/issues/{issue_number}/comments',
         headers=gh_headers(),
@@ -162,7 +186,8 @@ def comment(issue_number: int, body: str):
         timeout=30,
     )
 
-def close_issue(issue_number: int):
+
+def close_issue(issue_number):
     requests.patch(
         f'{API}/repos/{REPO}/issues/{issue_number}',
         headers=gh_headers(),
@@ -170,7 +195,8 @@ def close_issue(issue_number: int):
         timeout=30,
     )
 
-def add_via_script(decision: dict, url: str) -> bool:
+
+def add_via_script(decision, url):
     body = f'''### Company Name
 {decision.get("company","").strip()}
 
@@ -223,6 +249,7 @@ Auto-triaged by Claude.
         return False
     return 'Successfully' in (result.stdout or '')
 
+
 def main():
     if not TOKEN or not REPO:
         print('GITHUB_TOKEN/REPO_PAT and GITHUB_REPOSITORY required')
@@ -236,10 +263,12 @@ def main():
     known = existing_urls()
     added = rejected = skipped = 0
 
+    needs_claude = []
     for issue in issues:
         number = issue['number']
         fields = parse_issue_fields(issue.get('body') or '')
         url = normalize_url(fields.get('Direct Application Link', ''))
+        role = fields.get('Role / Job Title', '') or issue.get('title', '')
         print(f'\n#{number}: {issue.get("title")}')
 
         if url and url.split('?')[0].rstrip('/').lower() in known:
@@ -248,16 +277,40 @@ def main():
             skipped += 1
             continue
 
+        if is_out_of_scope_title(role):
+            comment(number, 'Out of scope for this board — closing.')
+            close_issue(number)
+            rejected += 1
+            print('  local reject (out of scope)')
+            continue
+
+        needs_claude.append({'issue': issue, 'fields': fields, 'url': url})
+
+    decisions = {}
+    if needs_claude:
+        print(f'\n[Claude] Batch-triaging {len(needs_claude)} issue(s) in one call...')
         try:
-            decision = claude_decide(issue, fields)
+            decisions = claude_decide_batch(needs_claude)
         except Exception as e:
-            print(f'  Claude error: {e}')
+            print(f'  Claude batch error: {e}')
+            for it in needs_claude:
+                skipped += 1
+            print(f'\nDone. added={added} rejected={rejected} skipped={skipped}')
+            return
+
+    for it in needs_claude:
+        issue = it['issue']
+        fields = it['fields']
+        url = it['url']
+        number = issue['number']
+        decision = decisions.get(number) or {}
+        if not isinstance(decision, dict):
             skipped += 1
             continue
 
         action = (decision.get('action') or 'skip').lower()
         reason = decision.get('reason') or ''
-        print(f'  decision={action} ({reason})')
+        print(f'#{number} decision={action} ({reason})')
 
         if action == 'reject':
             comment(number, f'Out of scope / not a fit for this board — closing.\n\n{reason}')
@@ -276,7 +329,6 @@ def main():
             skipped += 1
             continue
 
-                                                      
         for key, field in (
             ('company', 'Company Name'),
             ('role', 'Role / Job Title'),
@@ -290,11 +342,14 @@ def main():
             if fields.get(field):
                 decision[key] = fields[field]
 
+        if is_out_of_scope_title(decision.get('role') or ''):
+            comment(number, 'Out of scope for this board — closing.')
+            close_issue(number)
+            rejected += 1
+            continue
+
         if add_via_script(decision, url):
-            subprocess.run(
-                ['python3', '.github/scripts/rebuild_readme.py'],
-                check=False,
-            )
+            subprocess.run(['python3', '.github/scripts/rebuild_readme.py'], check=False)
             subprocess.run(
                 ['git', 'add', 'listings.json', 'SUMMER.md', 'OFFCYCLE.md', 'NEWGRAD.md', 'README.md'],
                 check=False,
@@ -310,6 +365,7 @@ def main():
             skipped += 1
 
     print(f'\nDone. added={added} rejected={rejected} skipped={skipped}')
+
 
 if __name__ == '__main__':
     main()
