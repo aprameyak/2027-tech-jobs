@@ -53285,5 +53285,60 @@
     "t": false,
     "c": "low",
     "a": 0
+  },
+  "junior data analyst ": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "software engineer, intern": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "software engineer, thrive intern": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "winter 2027 software engineer co-op": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "d\u00e9veloppeur de logiciels c++ nouvellement dipl\u00f4m\u00e9 / new grad c++ software developer": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "research science intern (phd)": {
+    "t": true,
+    "c": "medium",
+    "a": 1
+  },
+  "associate product manager, intern": {
+    "t": true,
+    "c": "medium",
+    "a": 1
+  },
+  "summer 2027 - trading operations engineer intern": {
+    "t": true,
+    "c": "medium",
+    "a": 1
+  },
+  "winter 2027 systems engineer co-op": {
+    "t": true,
+    "c": "medium",
+    "a": 1
+  },
+  "winter 2027 technical program management co-op": {
+    "t": true,
+    "c": "medium",
+    "a": 1
+  },
+  "winter 2027 test automation engineer co-op": {
+    "t": true,
+    "c": "medium",
+    "a": 1
   }
 }
