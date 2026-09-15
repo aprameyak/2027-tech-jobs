@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-2553 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2562 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -9,14 +9,15 @@
 | Atlassian 🛂 | Software Engineer, 2027 Graduate U.S. | Seattle, WA | Spring 2027 | Undergrad; Masters | [Apply](https://www.atlassian.com/company/careers/details/25813) | Sep 15 |
 | ↳ | Software Engineer, 2027 Graduate Canada | <details><summary>**3 locations**</summary>Burnaby, BC</br>Richmond, BC</br>Vancouver, BC</details> | Spring 2027 | Undergrad; Masters | [Apply](https://www.atlassian.com/company/careers/details/26070) | Sep 15 |
 | BMO Financial Group | Excellence in Action - Finance Rotation Program Associate (New Graduate Opportunity) | Toronto, ON, CAN |  | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Excellence-in-Action---Finance-Rotation-Program-Associate--New-Graduate-Opportunity-_R260022482-1?utm_source=aprameyak) | Sep 15 |
+| KBR | Junior Systems Engineer | Beavercreek, OH |  | Masters | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2127554?utm_source=aprameyak) | Sep 15 |
 | MITRE 🛂 🇺🇸 | Software Developer, Associate | Sumter, SC |  | Undergrad | [Apply](https://careers.mitre.org/us/en/job/R117425/Software-Developer-Associate) | Sep 15 |
 | ↳ | Associate Data Scientist | <details><summary>**2 locations**</summary>McLean, VA</br>Bedford, MA</details> |  | Undergrad | [Apply](https://careers.mitre.org/us/en/job/R117471/Associate-Data-Scientist) | Sep 15 |
 | ↳ | Cyber New Professionals Program | <details><summary>**4 locations**</summary>McLean, VA</br>Bedford, MA</br>Annapolis Junction, MD</br>Huntsville, AL</details> |  | Undergrad; Masters | [Apply](https://careers.mitre.org/us/en/job/R117365/Cyber-New-Professionals-Program) | Sep 15 |
-| OpenAI | Software Engineer, Applied Emerging Talent (2027) | San Francisco, CA |  | Undergrad; Masters | [Apply](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | Sep 15 |
-| Solace Health | Associate Software Engineer (College Grad 2027) | Redwood City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f) | Sep 15 |
-| ↳ | Associate Platform Engineer (College Grad 2027) | Redwood City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd) | Sep 15 |
-| ↳ | Associate Data Scientist (College Grad 2027) | Redwood City, CA |  | Undergrad; Masters | [Apply](https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443) | Sep 15 |
-| ↳ | Associate Product Manager (College Grad 2027) | Redwood City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/solace/ee8ee239-ad20-4c1e-868d-3357799589ea) | Sep 15 |
+| OpenAI | Software Engineer, Applied Emerging Talent (2027) | San Francisco, CA |  | Undergrad; Masters | [Apply](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511?utm_source=aprameyak) | Sep 15 |
+| Solace Health | Associate Software Engineer (College Grad 2027) | Redwood City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f?utm_source=aprameyak) | Sep 15 |
+| ↳ | Associate Platform Engineer (College Grad 2027) | Redwood City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd?utm_source=aprameyak) | Sep 15 |
+| ↳ | Associate Data Scientist (College Grad 2027) | Redwood City, CA |  | Undergrad; Masters | [Apply](https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443?utm_source=aprameyak) | Sep 15 |
+| ↳ | Associate Product Manager (College Grad 2027) | Redwood City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/solace/ee8ee239-ad20-4c1e-868d-3357799589ea?utm_source=aprameyak) | Sep 15 |
 | Wells Fargo | 2027 Wealth & Investment Management Analyst Program - Early Careers | SAINT LOUIS, MO | Spring 2027 | Undergrad | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAINT-LOUIS-MO/XMLNAME-2027-Wealth---Investment-Management-Analyst-Program---Early-Careers_R-575207?utm_source=aprameyak) | Sep 15 |
 | Abbott Laboratories | Associate Engineer (Product Engineering)  - Point of Care (Ottawa) | Canada - Ontario - Ottawa |  | Undergrad | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Canada---Ontario---Ottawa/Associate-Engineer--Product-Engineering-----Point-of-Care--Ottawa-_31162094-1?utm_source=aprameyak) | Sep 14 |
 | Barry-Wehmiller | Entry Level Controls Engineer | San Antonio, TX |  | Undergrad | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWConfidential/job/San-Antonio-TX/Entry-Level-Controls-Engineer_R022421?utm_source=aprameyak) | Sep 14 |
