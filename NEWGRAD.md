@@ -1,13 +1,13 @@
 # 🎓 New Grad 2027
 
-2551 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2553 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
-| Atlassian 🛂 🛂 | Software Engineer, 2027 Graduate U.S. | Seattle, WA |  | Undergrad; Masters | [Apply](https://www.atlassian.com/company/careers/details/25813) | Sep 15 |
-| ↳ | Software Engineer, 2027 Graduate Canada | <details><summary>**3 locations**</summary>Burnaby, BC</br>Richmond, BC</br>Vancouver, BC</details> |  | Undergrad; Masters | [Apply](https://www.atlassian.com/company/careers/details/26070) | Sep 15 |
+| Atlassian 🛂 | Software Engineer, 2027 Graduate U.S. | Seattle, WA | Spring 2027 | Undergrad; Masters | [Apply](https://www.atlassian.com/company/careers/details/25813) | Sep 15 |
+| ↳ | Software Engineer, 2027 Graduate Canada | <details><summary>**3 locations**</summary>Burnaby, BC</br>Richmond, BC</br>Vancouver, BC</details> | Spring 2027 | Undergrad; Masters | [Apply](https://www.atlassian.com/company/careers/details/26070) | Sep 15 |
 | BMO Financial Group | Excellence in Action - Finance Rotation Program Associate (New Graduate Opportunity) | Toronto, ON, CAN |  | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Excellence-in-Action---Finance-Rotation-Program-Associate--New-Graduate-Opportunity-_R260022482-1?utm_source=aprameyak) | Sep 15 |
 | Wells Fargo | 2027 Wealth & Investment Management Analyst Program - Early Careers | SAINT LOUIS, MO | Spring 2027 | Undergrad | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAINT-LOUIS-MO/XMLNAME-2027-Wealth---Investment-Management-Analyst-Program---Early-Careers_R-575207?utm_source=aprameyak) | Sep 15 |
 | Abbott Laboratories | Associate Engineer (Product Engineering)  - Point of Care (Ottawa) | Canada - Ontario - Ottawa |  | Undergrad | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Canada---Ontario---Ottawa/Associate-Engineer--Product-Engineering-----Point-of-Care--Ottawa-_31162094-1?utm_source=aprameyak) | Sep 14 |
