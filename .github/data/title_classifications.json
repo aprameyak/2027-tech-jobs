@@ -53166,7 +53166,8 @@
   },
   "internship - 2027 undergraduate field sales intern \u2013 consumer business group (cbg)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 quantitative masters internship program - sales & relationship management - institutional wealth - chicago": {
     "t": true,
@@ -53235,5 +53236,20 @@
   "raytheon finance intern (summer 2027)": {
     "t": false,
     "c": "medium"
+  },
+  "inventory associate (dallas-fort worth)": {
+    "t": false,
+    "c": "low",
+    "a": 0
+  },
+  "receiving associate (dallas-fort worth)": {
+    "t": false,
+    "c": "low",
+    "a": 0
+  },
+  "shipping associate (dallas-fort worth)": {
+    "t": false,
+    "c": "low",
+    "a": 0
   }
 }
