@@ -1,11 +1,13 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-532 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+534 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| RTX | Software Engineering Co-op (Summer/Fall 2027) | WILSONVILLE-596 ~ 27500 SW Parkway Ave ~ BLDG 596, OR | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01873970?utm_source=aprameyak) | Sep 15 |
+| ↳ | Software Engineering Co-op (Summer/Fall 2027) | WILSONVILLE-596 ~ 27500 SW Parkway Ave ~ BLDG 596, OR | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01870236?utm_source=aprameyak) | Sep 15 |
 | Ameriprise Financial | Quantitative Investment Research Co-op (Equities) | Boston, MA | Co-op | Undergrad | [Apply](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Quantitative-Investment-Research-Co-op--Equities-_R26_3532?utm_source=aprameyak) | Sep 14 |
 | Baker Hughes | Intern/Co-op - Field Engineer - Spring 2027 Opportunities | MIDLAND-2105 MARKET STREET, TX | Co-op | Undergrad | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/US-TX-MIDLAND-2105-MARKET-STREET/Intern-Co-op---Field-Engineer---Spring-2027-Opportunities_R168914?utm_source=aprameyak) | Sep 14 |
 | ↳ | Intern/Co-op - Engineering & Technology - Spring 2027 Opportunities | HOUSTON-2001 RANKIN ROAD, TX | Co-op | Undergrad | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/US-TX-HOUSTON-2001-RANKIN-ROAD/Intern-Co-op---Engineering---Technology---Spring-2027-Opportunities_R168898?utm_source=aprameyak) | Sep 14 |
