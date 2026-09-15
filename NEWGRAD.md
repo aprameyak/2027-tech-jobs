@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-2568 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2570 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -16,9 +16,11 @@
 | Hitachi | NC A&T Career Fair (Only) - Automation Junior Engineer | Raleigh, North Carolina, United States |  | Undergrad | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Raleigh-North-Carolina-United-States/NC-A-T-Career-Fair--Only----Automation-Junior-Engineer_R0145337?utm_source=aprameyak) | Sep 15 |
 | KBR | Junior Systems Engineer | Beavercreek, OH |  | Masters | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2127554?utm_source=aprameyak) | Sep 15 |
 | Leidos | Associate Relay Settings Engineer - Entry Level BSEE | Framingham, MA |  | Undergrad | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Framingham-MA/Associate-Relay-Settings-Engineer---Entry-Level-BSEE_R-00191839?utm_source=aprameyak) | Sep 15 |
+| Loblaw Companies | Associate Product Manager | 1 Presidents Choice Circle, Brampton, ON |  | Undergrad | [Apply](https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Associate-Product-Manager_R2000704685-1?utm_source=aprameyak) | Sep 15 |
 | MITRE 🛂 🇺🇸 | Software Developer, Associate | Sumter, SC |  | Undergrad | [Apply](https://careers.mitre.org/us/en/job/R117425/Software-Developer-Associate) | Sep 15 |
 | ↳ | Associate Data Scientist | <details><summary>**2 locations**</summary>McLean, VA</br>Bedford, MA</details> |  | Undergrad | [Apply](https://careers.mitre.org/us/en/job/R117471/Associate-Data-Scientist) | Sep 15 |
 | ↳ | Cyber New Professionals Program | <details><summary>**4 locations**</summary>McLean, VA</br>Bedford, MA</br>Annapolis Junction, MD</br>Huntsville, AL</details> |  | Undergrad; Masters | [Apply](https://careers.mitre.org/us/en/job/R117365/Cyber-New-Professionals-Program) | Sep 15 |
+| Northrop Grumman | Associate Data Scientist/Data Scientist | United States-California-Palmdale |  | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Palmdale/Associate-Data-Scientist-Data-Scientist_R10238493?utm_source=aprameyak) | Sep 15 |
 | OpenAI | Software Engineer, Applied Emerging Talent (2027) | San Francisco, CA |  | Undergrad; Masters | [Apply](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511?utm_source=aprameyak) | Sep 15 |
 | Solace Health | Associate Software Engineer (College Grad 2027) | Redwood City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f?utm_source=aprameyak) | Sep 15 |
 | ↳ | Associate Platform Engineer (College Grad 2027) | Redwood City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd?utm_source=aprameyak) | Sep 15 |

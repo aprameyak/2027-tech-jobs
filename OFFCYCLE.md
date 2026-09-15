@@ -1,11 +1,12 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-545 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+546 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Ambrook | Software Engineering Co-op | New York | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/ambrook/29ffbcea-17c3-4488-9d57-a9f7249b49a5/application?utm_source=aprameyak) | Sep 15 |
 | Anduril | Winter 2027 Software Engineer Co-op | Quincy, Massachusetts, United States | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007&utm_source=aprameyak) | Sep 15 |
 | ↳ | Winter 2027 Systems Engineer Co-op | Quincy, Massachusetts, United States | Co-op | Masters | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007&utm_source=aprameyak) | Sep 15 |
 | ↳ | Winter 2027 Technical Program Management Co-op | Washington, District of Columbia, United States | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007&utm_source=aprameyak) | Sep 15 |
