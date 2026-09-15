@@ -10,6 +10,7 @@
 | ↳ | Software Engineer, 2027 Graduate Canada | <details><summary>**3 locations**</summary>Burnaby, BC</br>Richmond, BC</br>Vancouver, BC</details> | Spring 2027 | Undergrad; Masters | [Apply](https://www.atlassian.com/company/careers/details/26070) | Sep 15 |
 | BMO Financial Group | Excellence in Action - Finance Rotation Program Associate (New Graduate Opportunity) | Toronto, ON, CAN |  | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Excellence-in-Action---Finance-Rotation-Program-Associate--New-Graduate-Opportunity-_R260022482-1?utm_source=aprameyak) | Sep 15 |
 | MITRE 🛂 🇺🇸 | Software Developer, Associate | Sumter, SC |  | Undergrad | [Apply](https://careers.mitre.org/us/en/job/R117425/Software-Developer-Associate) | Sep 15 |
+| ↳ | Associate Data Scientist | <details><summary>**2 locations**</summary>McLean, VA</br>Bedford, MA</details> |  | Undergrad | [Apply](https://careers.mitre.org/us/en/job/R117471/Associate-Data-Scientist) | Sep 15 |
 | OpenAI | Software Engineer, Applied Emerging Talent (2027) | San Francisco, CA |  | Undergrad; Masters | [Apply](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | Sep 15 |
 | Solace Health | Associate Software Engineer (College Grad 2027) | Redwood City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f) | Sep 15 |
 | ↳ | Associate Platform Engineer (College Grad 2027) | Redwood City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd) | Sep 15 |
