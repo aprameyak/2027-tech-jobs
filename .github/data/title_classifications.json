@@ -52276,5 +52276,15 @@
     "t": false,
     "c": "high",
     "a": 1
+  },
+  "software engineer, applied emerging talent (2027)": {
+    "t": true,
+    "c": "high",
+    "a": 0
+  },
+  "customer experience associate (evening shift)": {
+    "t": false,
+    "c": "low",
+    "a": 0
   }
 }
