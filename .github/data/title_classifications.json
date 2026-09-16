@@ -43872,7 +43872,8 @@
   },
   "2027 investment fellowship program": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "research department coordinator - new grad (bs/ba) / entry level": {
     "t": true,
@@ -48172,7 +48173,8 @@
   },
   "informational technology co-op/intern - spring 2027": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "college to corporate internship - application development (pa)": {
     "t": false,
@@ -48848,7 +48850,8 @@
   },
   "synthetics external planning co-op": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "summer 2027 finance internship \u2013 el paso, tx/juarez, mx": {
     "t": false,
