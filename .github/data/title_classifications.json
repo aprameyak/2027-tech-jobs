@@ -44136,7 +44136,8 @@
   },
   "financial advisor intern": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "banking advisor intern": {
     "t": false,
@@ -45342,7 +45343,8 @@
   },
   "intern, product engineering": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "commercial banking advisor intern": {
     "t": false,
@@ -49183,7 +49185,8 @@
   },
   "underwriting internship - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "life/health underwriting intern - summer 2027": {
     "t": false,
