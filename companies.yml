@@ -1945,6 +1945,13 @@ ashby:
   slug: Zello
 - name: Zip
   slug: zip
+oracle:
+- name: American Express
+  host: egug.fa.us2.oraclecloud.com
+  site: CX_1
+- name: BNY
+  host: eofe.fa.us2.oraclecloud.com
+  site: CX_1001
 workable:
 - name: Pony.ai
   slug: pony-dot-ai

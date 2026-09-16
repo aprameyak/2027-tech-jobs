@@ -136,6 +136,36 @@ jobs:
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
           fi
 
+  scrape-oracle:
+    if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'oracle' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.REPO_PAT }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests pyyaml anthropic
+      - name: Scrape Oracle HCM
+        timeout-minutes: 40
+        env:
+          BOARD_GROUP: oracle
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
+        run: python .github/scripts/scrape_jobs.py
+      - name: Commit data files
+        run: |
+          git config user.name "Aprameya Kannan"
+          git config user.email "aprameyakannan@gmail.com"
+          git add .github/data/seen_jobs_oracle.json .github/data/title_classifications.json .github/data/claude_usage_oracle.json .github/data/pending_oracle.json
+          if ! git diff --staged --quiet; then
+            git commit -m "scraper data: oracle"
+            for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
+          fi
+
   scrape-other:
     if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'other' }}
     runs-on: ubuntu-latest
@@ -167,7 +197,7 @@ jobs:
           fi
 
   apply:
-    needs: [scrape-greenhouse, scrape-ashby, scrape-workday, scrape-linkedin-amazon, scrape-other]
+    needs: [scrape-greenhouse, scrape-ashby, scrape-workday, scrape-oracle, scrape-linkedin-amazon, scrape-other]
     if: always()
     runs-on: ubuntu-latest
     permissions:

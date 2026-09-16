@@ -34,6 +34,7 @@ Alphataraxia
 Altice USA
 Ambarella
 Ameren
+American Express
 Ameriprise Financial
 Amgen
 Amperity
@@ -101,6 +102,7 @@ Blockhouse
 Bloomberg
 Blue Origin
 BMO Financial Group
+BNY
 Boeing
 Boerboel
 Bolt

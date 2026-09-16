@@ -11,6 +11,8 @@ on:
       - 'README.md'
       - '.github/scripts/validate_listings.py'
       - '.github/scripts/quality_gate.py'
+      - '.github/scripts/scrape_jobs.py'
+      - '.github/scripts/test_infer_listing_type.py'
   pull_request:
     branches: [main]
     paths:
@@ -21,6 +23,8 @@ on:
       - 'README.md'
       - '.github/scripts/validate_listings.py'
       - '.github/scripts/quality_gate.py'
+      - '.github/scripts/scrape_jobs.py'
+      - '.github/scripts/test_infer_listing_type.py'
 
 jobs:
   validate:
@@ -34,3 +38,5 @@ jobs:
         run: python .github/scripts/validate_listings.py
       - name: Quality / regression gate
         run: python .github/scripts/quality_gate.py
+      - name: Title classification regression tests
+        run: python .github/scripts/test_infer_listing_type.py

@@ -43,6 +43,12 @@ _claude_client = None
 _claude_usage_dirty = False
 
 MAX_WORKDAY_PAGES_PER_TERM = 15
+MAX_ORACLE_PAGES_PER_TERM = 20
+ORACLE_PAGE_SIZE = 50
+ORACLE_SEARCH_TERMS = (
+    '2027', 'Intern', 'Internship', 'Campus', 'Graduate', 'New Grad',
+    'Analyst Program', 'co-op', 'university', 'entry level', 'early career',
+)
 SCRAPER_MAX_WORKERS = 12
 
 _title_cache = None
@@ -228,6 +234,26 @@ def normalize_location(location):
         if m:
             city, region = m.group(1).strip(), m.group(2).strip().lower()
             abbr = US_STATE_ABBRS.get(region)
+            if abbr:
+                return f'{city}, {abbr}'
+
+        # Oracle HCM: "Phoenix, AZ, United States" / "Toronto, ON, Canada"
+        m = re.match(
+            r'^(.+),\s*([A-Za-z]{2}),\s*(United States(?: of America)?|USA|Canada)$',
+            part,
+            re.I,
+        )
+        if m:
+            return f'{m.group(1).strip()}, {m.group(2).upper()}'
+
+        m = re.match(
+            r'^(.+),\s*([^,]+),\s*(United States(?: of America)?|USA|Canada)$',
+            part,
+            re.I,
+        )
+        if m:
+            city, region = m.group(1).strip(), m.group(2).strip().lower()
+            abbr = US_STATE_ABBRS.get(region) or CA_PROVINCE_ABBRS.get(region)
             if abbr:
                 return f'{city}, {abbr}'
 
@@ -1245,6 +1271,97 @@ def _workday_job_url(base_url, board, external_path):
         return f'{base_url}/en-US/{board}{path}'
     return f'{base_url}{path}'
 
+def _oracle_job_url(host, site_number, job_id):
+    return (
+        f'https://{host}/hcmUI/CandidateExperience/en/sites/'
+        f'{site_number}/job/{job_id}'
+    )
+
+def scrape_oracle(company, host, site_number, keywords=None):
+    """Scrape Oracle HCM Candidate Experience (CE) recruiting API."""
+    host = host.strip().removeprefix('https://').removeprefix('http://').rstrip('/')
+    site_number = site_number.strip()
+    search_terms = list(keywords) if keywords else list(ORACLE_SEARCH_TERMS)
+
+    api_base = (
+        f'https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions'
+    )
+    headers = {
+        **HEADERS,
+        'Accept': 'application/json',
+    }
+
+    jobs = []
+    seen_ids = set()
+
+    for search_term in search_terms:
+        offset = 0
+        pages_fetched = 0
+        while pages_fetched < MAX_ORACLE_PAGES_PER_TERM:
+            finder = (
+                f'findReqs;siteNumber={site_number},'
+                'facetsList=LOCATIONS;WORK_LOCATIONS;WORKPLACE_TYPES;TITLES;'
+                'CATEGORIES;ORGANIZATIONS;JOB_FAMILY;JOB_FUNCTION;WORK_LEVEL;'
+                f'WORKER_TYPES,limit={ORACLE_PAGE_SIZE},offset={offset},'
+                f'keyword={search_term}'
+            )
+            try:
+                resp = requests.get(
+                    api_base,
+                    params={
+                        'onlyData': 'true',
+                        'expand': 'requisitionList.secondaryLocations',
+                        'finder': finder,
+                    },
+                    headers=headers,
+                    timeout=(10, 45),
+                )
+                if resp.status_code != 200:
+                    print(f'  [{company}] Oracle HTTP {resp.status_code} ({search_term})')
+                    break
+                data = resp.json()
+                items = data.get('items') or []
+                block = items[0] if items else {}
+                reqs = block.get('requisitionList') or []
+                if not reqs:
+                    break
+
+                for job in reqs:
+                    job_id = str(job.get('Id') or '').strip()
+                    if not job_id or job_id in seen_ids:
+                        continue
+                    title = (job.get('Title') or '').strip()
+                    location = (job.get('PrimaryLocation') or '').strip()
+                    if not title:
+                        continue
+                    if not is_candidate_title(title):
+                        continue
+                    if not is_us_location(location):
+                        continue
+                    seen_ids.add(job_id)
+                    jobs.append({
+                        'id': f'oracle_{site_number}_{job_id}',
+                        'company': company,
+                        'title': title,
+                        'location': location,
+                        'url': _oracle_job_url(host, site_number, job_id),
+                        'board': 'Oracle HCM',
+                    })
+
+                total = block.get('TotalJobsCount') or block.get('totalJobsCount')
+                offset += len(reqs)
+                pages_fetched += 1
+                if total is not None and offset >= int(total):
+                    break
+                if len(reqs) < ORACLE_PAGE_SIZE:
+                    break
+                time.sleep(0.2)
+            except Exception as e:
+                print(f'  [{company}] Oracle error ({search_term}): {e}')
+                break
+
+    return jobs
+
 def scrape_workday(company, tenant, instance, board):
     if board:
         api_url = f'https://{tenant}.{instance}.myworkdayjobs.com/wday/cxs/{tenant}/{board}/jobs'
@@ -1719,6 +1836,7 @@ _BOARD_GROUP_BOARDS = {
     'greenhouse': {'greenhouse'},
     'ashby': {'ashby'},
     'workday': {'workday'},
+    'oracle': {'oracle'},
     'linkedin_amazon': {'linkedin', 'amazon', 'google'},
     'other': {
         'lever', 'smartrecruiters', 'workable', 'recruitee', 'pinpoint',
@@ -1786,6 +1904,17 @@ def main():
                 'avature',
             ))
 
+    if included_boards is None or 'oracle' in included_boards:
+        for entry in config.get('oracle', []):
+            scrape_tasks.append((
+                scrape_oracle,
+                entry['name'],
+                entry['host'],
+                entry['site'],
+                entry.get('keywords'),
+                'oracle',
+            ))
+
     if included_boards is None or 'workday' in included_boards:
         for entry in config.get('workday', []):
             scrape_tasks.append((
@@ -1825,6 +1954,15 @@ def main():
             print(f'  [{company}] Scraper crashed: {e}')
             return []
 
+    def _run_oracle_task(task):
+        _, company, host, site_number, keywords, _label = task
+        print(f'Checking {company} (oracle/{host}/{site_number})...')
+        try:
+            return scrape_oracle(company, host, site_number, keywords)
+        except Exception as e:
+            print(f'  [{company}] Scraper crashed: {e}')
+            return []
+
     def _run_amazon_task():
         print('Checking Amazon (amazon.jobs)...')
         try:
@@ -1854,6 +1992,8 @@ def main():
                 futures[executor.submit(_run_google_task)] = task
             elif fn is scrape_workday:
                 futures[executor.submit(_run_workday_task, task)] = task
+            elif fn is scrape_oracle:
+                futures[executor.submit(_run_oracle_task, task)] = task
             else:
                 futures[executor.submit(_run_task, task)] = task
 
