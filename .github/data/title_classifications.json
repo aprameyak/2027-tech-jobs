@@ -54517,5 +54517,70 @@
     "t": false,
     "c": "medium",
     "a": 0
+  },
+  "junior quantitative researcher (ph.d.)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "junior trading operations/devops engineer": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "quantitative researcher (ph.d.) - 2027 graduate program - (august start)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "software engineer \u2013 2027 graduate program (august start)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "software engineer \u2013 2027 internship program (june start)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "2027 summer intern, ms/phd, software engineer": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "2027 summer intern, phd, machine learning, computer vision": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "compliance analyst co-op": {
+    "t": false,
+    "c": "low",
+    "a": 0
+  },
+  "floor trader - 2027 graduate program (august start)": {
+    "t": false,
+    "c": "high",
+    "a": 0
+  },
+  "fundamental research analyst - 2027 graduate program - (august start)": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "junior quantitative trader (asian market hours)   ": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "security risk management intern (summer 2027)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "rf engineering intern": {
+    "t": false,
+    "c": "high",
+    "a": 0
   }
 }
