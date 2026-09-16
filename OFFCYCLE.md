@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-549 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+548 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -332,7 +332,6 @@
 | ↳ | Disney Live Entertainment Music Production Intern | Orlando, FL, USA | Spring 2027 | Undergrad | 🔒 | Sep 4 |
 | ↳ | Disney Live Entertainment Audio Systems Design Intern | Kissimmee, FL, USA | Spring 2027 | Masters | 🔒 | Sep 4 |
 | ↳ | Disney Live Entertainment Production Assistant Intern | Kissimmee, FL, USA | Spring 2027 | Undergrad | 🔒 | Sep 4 |
-| DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | <details><summary>**5 locations**</summary>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Seattle, WA</details> | Fall 2026 | Undergrad | 🔒 | Sep 4 |
 | RSM | CATT Technical Delivery AI Software Engineer | Atlanta Metro Area | Fall 2027 | Undergrad | 🔒 | Sep 4 |
 | Zipline | Aircraft Software Integration Intern | South San Francisco, CA | Spring 2027 | Undergrad | 🔒 | Sep 4 |
 | ↳ | Intern - Product Engineer | Neenah, WI | Spring 2027 | Undergrad | 🔒 | Sep 3 |

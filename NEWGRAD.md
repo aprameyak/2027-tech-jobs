@@ -1,17 +1,17 @@
 # 🎓 New Grad 2027
 
-2552 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2559 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
-| BNY 🛂 | 2027 BNY Analyst Program - Engineering (Developer) | New York, NY |  | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82247) | Sep 16 |
-| ↳ | 2027 BNY Analyst Program - Engineering (Developer) | Pittsburgh, PA |  | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82248) | Sep 16 |
-| ↳ | 2027 BNY Analyst Program - Engineering (Data Science) | New York, NY |  | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82245) | Sep 16 |
-| ↳ | 2027 BNY Analyst Program - Engineering (Data Science) | Pittsburgh, PA |  | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246) | Sep 16 |
-| ↳ | 2027 BNY Analyst Program - Product Management | New York, NY |  | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80895) | Sep 16 |
-| ↳ | 2027 BNY Analyst Program - Trading | New York, NY |  | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80897) | Sep 16 |
+| BNY 🛂 | 2027 BNY Analyst Program - Engineering (Developer) | New York, NY | Spring 2027 | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82247) | Sep 16 |
+| ↳ | 2027 BNY Analyst Program - Engineering (Developer) | Pittsburgh, PA | Spring 2027 | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82248) | Sep 16 |
+| ↳ | 2027 BNY Analyst Program - Engineering (Data Science) | New York, NY | Spring 2027 | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82245) | Sep 16 |
+| ↳ | 2027 BNY Analyst Program - Engineering (Data Science) | Pittsburgh, PA | Spring 2027 | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246) | Sep 16 |
+| ↳ | 2027 BNY Analyst Program - Product Management | New York, NY | Spring 2027 | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80895) | Sep 16 |
+| ↳ | 2027 BNY Analyst Program - Trading | New York, NY | Spring 2027 | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80897) | Sep 16 |
 | NVIDIA | Research Scientist, Human‑AI Perception and Interaction Research - PhD New College Grad 2026 | Santa Clara, CA | Spring 2026 | PhD | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Human-AI-Perception-and-Interaction-Research---PhD-New-College-Grad-2026_JR2011804-1?utm_source=aprameyak) | Sep 16 |
 | Rakuten International | Early Career AI Engineer (Contract) | Bellevue, WA |  | Undergrad | [Apply](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437?utm_source=aprameyak) | Sep 16 |
 | SingleStore | Software Engineer-New Grad 2027 | Remote (US) | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8205389?utm_source=aprameyak) | Sep 16 |
@@ -102,6 +102,7 @@
 | ↳ | New Graduate Engineer, Security Software (Starshield) | Hawthorne, CA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002&utm_source=aprameyak) | Sep 12 |
 | TD Bank | AI2 Data Science Associate (Graduate) | Toronto, ON |  | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Associate--Graduate-_R_1506343?utm_source=aprameyak) | Sep 12 |
 | SpaceX | New Graduate Engineer, Power Generation (Starship) | Starbase, TX |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002&utm_source=aprameyak) | Sep 11 |
+| DoorDash | Product Design, Entry-Level (2027 start) | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8188161?utm_source=aprameyak) | Sep 10 |
 | General Motors | Software Engineer, AV Frameworks – Early Career | Sunnyvale, CA |  | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943?utm_source=aprameyak) | Sep 10 |
 | SpaceX | New Graduate Engineer, Mechanical Design (Starshield) | Hawthorne, CA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8766964002?gh_jid=8766964002&utm_source=aprameyak) | Sep 10 |
 | Cursor | Software Engineer, New Grad | San Francisco, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?utm_source=aprameyak) | Sep 9 |
@@ -112,6 +113,7 @@
 | NXP Semiconductors | Entry Level DFT Design Engineer | Austin, TX |  | Undergrad | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065554?utm_source=aprameyak) | Sep 7 |
 | Amazon | Software Development Engineer, Amazon Dedicated Cloud, Early Career | <details><summary>**5 locations**</summary>Jessup, MD</br>Seattle, WA</br>Herndon, VA</br>Washington, DC</br>Arlington, VA</details> | Spring 2026 | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026) | Sep 4 |
 | Canadian Tire | New Graduate Program - 2027 Data Science Associate, Finance Rotational Program | Toronto, ON | Spring 2027 | Undergrad | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983?utm_source=aprameyak) | Sep 4 |
+| DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | <details><summary>**5 locations**</summary>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Seattle, WA</details> |  | Undergrad; Masters | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709?utm_source=aprameyak) | Sep 4 |
 | Notability | Engineer, Backend | San Francisco, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/gingerlabsinc/jobs/5410136008?utm_source=aprameyak) | Sep 4 |
 | Roblox | [2027] Associate Product Designer, Early Career | San Mateo, CA | Spring 2027 | Undergrad | [Apply](https://careers.roblox.com/jobs/8143982?gh_jid=8143982) | Sep 4 |
 | ↳ | [2027] Associate Product Manager, Early Career | San Mateo, CA | Spring 2027 | Undergrad | [Apply](https://careers.roblox.com/jobs/8143976?gh_jid=8143976) | Sep 4 |
@@ -1106,7 +1108,6 @@
 | ↳ | Junior Software Developer | Beavercreek Township, OH |  | Undergrad | 🔒 | Sep 14 |
 | ↳ | Associate Software Engineer – Hire-to-Train Program (Pega) | Washington, DC |  | Undergrad | 🔒 | Sep 12 |
 | Northrop Grumman | 2026 Associate Software Dev Analyst / Software Dev Analyst - Remote | Remote (US) | Spring 2026 | Undergrad | 🔒 | Sep 12 |
-| DoorDash | Product Design, Entry-Level (2027 start) | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> |  | Undergrad | 🔒 | Sep 10 |
 | Apple | Tooling & Infrastructure Engineer, Test Engineering & Efficiency | Cupertino, CA |  | Undergrad | 🔒 | Sep 4 |
 | Cognizant | Full Stack Software Developer | Plano, TX |  | Undergrad | 🔒 | Sep 4 |
 | DV Trading LLC | Software Developer | Chicago, IL |  | Undergrad | 🔒 | Sep 4 |
