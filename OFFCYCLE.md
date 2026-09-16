@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-548 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+549 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -8,6 +8,7 @@
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
 | Johnson & Johnson | Product Management Co-Op | Jacksonville, FL | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Product-Management-Co-Op_R-098262?utm_source=aprameyak) | Sep 16 |
 | ↳ | Business Excellence Engineer Co-Op | Gurabo, PR | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Business-Excellence-Engineer-Co-Op_R-097386?utm_source=aprameyak) | Sep 16 |
+| The Mosaic Company | Operations Engineering Co-op/Intern - Summer 2027 | US - Bartow, FL | Co-op | Undergrad | [Apply](https://mosaic.wd5.myworkdayjobs.com/en-US/mosaic/job/US---Bartow-FL/Operations-Engineering-Co-op-Intern_64862?utm_source=aprameyak) | Sep 16 |
 | Ambrook | Software Engineering Co-op | New York, NY | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/ambrook/29ffbcea-17c3-4488-9d57-a9f7249b49a5/application?utm_source=aprameyak) | Sep 15 |
 | Anduril | Winter 2027 Software Engineer Co-op | Quincy, MA | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007&utm_source=aprameyak) | Sep 15 |
 | ↳ | Winter 2027 Systems Engineer Co-op | Quincy, MA | Co-op | Masters | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007&utm_source=aprameyak) | Sep 15 |
