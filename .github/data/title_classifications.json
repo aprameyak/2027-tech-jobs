@@ -49308,7 +49308,8 @@
   },
   "opex co-op": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "intern - instructional design and training development": {
     "t": false,
