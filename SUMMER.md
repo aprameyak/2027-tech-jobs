@@ -1,11 +1,24 @@
 # ☀️ Summer 2027 Internships
 
-2981 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2994 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Pricing Strategy, Global Merchant & Network Services - New York, NY | New York, NY | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012154) | Sep 16 |
+| ↳ | Campus Undergraduate Summer Internship Program - 2027 Product & Capabilities, Enterprise Shared Services- New York, NY | New York, NY | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012228) | Sep 16 |
+| ↳ | Campus Graduate Masters Summer Internship Program - 2027 Operational Risk Management Control Management, Global Merchant & Network Services - New York, NY | New York, NY | Masters | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012518) | Sep 16 |
+| ↳ | Campus Graduate Masters Summer Internship Program - 2027 Pricing Deal Work, Global Merchant & Network Services - New York, NY | New York, NY | Masters | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012635) | Sep 16 |
+| ↳ | Campus Graduate Masters Summer Internship Program - 2027 Business Development, Global Merchant & Network Services - New York, NY | New York, NY | Masters | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012861) | Sep 16 |
+| ↳ | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA | Atlanta, GA | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011908) | Sep 16 |
+| ↳ | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL | Sunrise, FL | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011914) | Sep 16 |
+| ↳ | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY | New York, NY | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011878) | Sep 16 |
+| ↳ | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA | Atlanta, GA | Masters | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011913) | Sep 16 |
+| ↳ | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL | Sunrise, FL | Masters | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012444) | Sep 16 |
+| ↳ | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY | New York, NY | Masters | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011893) | Sep 16 |
+| BNY | 2027 BNY Summer Internship Program - Engineering (Production Services) - Pittsburgh, PA | Pittsburgh, PA | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81266) | Sep 16 |
+| ↳ | 2027 BNY Summer Internship Program - Engineering (Production Services) - Lake Mary, FL | Lake Mary, FL | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81287) | Sep 16 |
 | CACI | Software Test Engineer Intern - Summer 2027 | Colorado Springs, CO, US | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Colorado-Springs-CO-US/Software-Test-Engineer-Intern---Summer-2027_332003?utm_source=aprameyak) | Sep 16 |
 | Gecko Robotics | AI/Machine Learning Engineering Intern | New York City | Undergrad | [Apply](https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?utm_source=aprameyak) | Sep 16 |
 | ↳ | Full Stack Software Engineering Intern | New York City | Undergrad | [Apply](https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application?utm_source=aprameyak) | Sep 16 |
