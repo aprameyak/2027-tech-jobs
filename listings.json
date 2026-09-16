@@ -51057,7 +51057,7 @@
   {
     "company": "CACI",
     "role": "Data Engineer",
-    "location": "Chantilly, VA, US",
+    "location": "Chantilly, VA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -55505,7 +55505,7 @@
   {
     "company": "CACI",
     "role": "Software Engineering Intern",
-    "location": "Sarasota, FL, US",
+    "location": "Sarasota, FL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -55517,7 +55517,7 @@
   {
     "company": "CACI",
     "role": "Software Engineering Co-op - Summer &",
-    "location": "Danbury, CT, US",
+    "location": "Danbury, CT",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -55529,7 +55529,7 @@
   {
     "company": "CACI",
     "role": "Software Engineering Co-op - Spring &",
-    "location": "Danbury, CT, US",
+    "location": "Danbury, CT",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -59705,7 +59705,7 @@
   {
     "company": "Akuna Capital",
     "role": "Quantitative Research Intern",
-    "location": "Chicago",
+    "location": "Chicago, IL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -61327,7 +61327,7 @@
   {
     "company": "PIMCO",
     "role": "2027 Summer Intern - Masters Quant Research Analyst, Client Solutions & Analytics, US",
-    "location": "Newport Beach, CA USA",
+    "location": "Newport Beach, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Masters",
@@ -61339,7 +61339,7 @@
   {
     "company": "PIMCO",
     "role": "2027 PhD Summer Intern \u2013 Portfolio Management, Quantitative Research Analyst",
-    "location": "Newport Beach, CA USA",
+    "location": "Newport Beach, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "PhD",
@@ -61351,7 +61351,7 @@
   {
     "company": "PIMCO",
     "role": "2027 Summer Intern \u2013 PhD Quant Research Analyst, Client Solutions & Analytics, US",
-    "location": "Newport Beach, CA USA",
+    "location": "Newport Beach, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "PhD",
@@ -61363,7 +61363,7 @@
   {
     "company": "PIMCO",
     "role": "2027 PhD Summer Intern \u2013 Quantitative Portfolio Management",
-    "location": "Newport Beach, CA USA",
+    "location": "Newport Beach, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "PhD",
@@ -61484,7 +61484,7 @@
   {
     "company": "CACI",
     "role": "AWS Cloud Engineering Intern",
-    "location": "Sarasota, FL, US",
+    "location": "Sarasota, FL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -61532,7 +61532,7 @@
   {
     "company": "Philips",
     "role": "Co-op \u2013 Software Engineering (APM) - Cambridge, MA - Jan - Aug",
-    "location": "Cambridge (US), Massachusetts, United States",
+    "location": "Cambridge, MA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -61544,7 +61544,7 @@
   {
     "company": "Philips",
     "role": "Co-op \u2013 Design Release Engineer - Cambridge, MA - Jan - Aug",
-    "location": "Cambridge (US), Massachusetts, United States",
+    "location": "Cambridge, MA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -65137,7 +65137,7 @@
   {
     "company": "AIG",
     "role": "2027 Early Careers: Analyst, Gen AI - Data Science \u2013 United States, Atlanta, GA",
-    "location": "GA-Atlanta",
+    "location": "Atlanta, GA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -65283,7 +65283,7 @@
   {
     "company": "HNTB",
     "role": "Intern Engineer",
-    "location": "Nashville, TN (City Center)",
+    "location": "Nashville, TN",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -65295,7 +65295,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "Software Engineering Co-Op.",
-    "location": "Cincinnati, Ohio, United States of America",
+    "location": "Cincinnati, OH",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -65307,7 +65307,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "Data Science Co-Op",
-    "location": "Cincinnati, Ohio, United States of America",
+    "location": "Cincinnati, OH",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -65343,7 +65343,7 @@
   {
     "company": "PIMCO",
     "role": "2027 MBA Summer Intern \u2013 Credit Research Analyst, US",
-    "location": "Newport Beach, CA USA",
+    "location": "Newport Beach, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -65379,7 +65379,7 @@
   {
     "company": "Tencent",
     "role": "AI Business Analyst Intern",
-    "location": "US-California-Palo Alto",
+    "location": "Palo Alto, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -65391,7 +65391,7 @@
   {
     "company": "Tencent",
     "role": "Tencent Cloud CPaaS Product Management Intern",
-    "location": "US-California-Palo Alto",
+    "location": "Palo Alto, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -65403,7 +65403,7 @@
   {
     "company": "Tencent",
     "role": "Tencent Cloud CPaaS Product Management Intern",
-    "location": "US-California-Los Angeles",
+    "location": "Los Angeles, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -65427,7 +65427,7 @@
   {
     "company": "Perpay",
     "role": "Analytics Internship",
-    "location": "Philadelphia, Pennsylvania, United States",
+    "location": "Philadelphia, PA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -65619,7 +65619,7 @@
   {
     "company": "Danaher Corporation",
     "role": "Research & Development Graduate Intern",
-    "location": "Waltham, Massachusetts, United States",
+    "location": "Waltham, MA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -65631,7 +65631,7 @@
   {
     "company": "Danaher Corporation",
     "role": "Research and Development Intern",
-    "location": "Fargo, North Dakota, United States",
+    "location": "Fargo, ND",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -65643,7 +65643,7 @@
   {
     "company": "General Motors",
     "role": "Entry Level Calibration Engineer",
-    "location": "Milford, Michigan, United States of America",
+    "location": "Milford, MI",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -65716,7 +65716,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - DRAM Technology DTCO & PPA Assessment Engineer",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -66108,7 +66108,7 @@
   {
     "company": "Verkada",
     "role": "Hardware Engineer (Winter Co-op)",
-    "location": "San Mateo, CA United States",
+    "location": "San Mateo, CA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -66192,7 +66192,7 @@
   {
     "company": "Genuine Parts Company",
     "role": "Platform Engineering Intern",
-    "location": "Birmingham, AL, USA",
+    "location": "Birmingham, AL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -66204,7 +66204,7 @@
   {
     "company": "Genuine Parts Company",
     "role": "Software Developer Intern",
-    "location": "Birmingham, AL, USA",
+    "location": "Birmingham, AL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -66216,7 +66216,7 @@
   {
     "company": "Genuine Parts Company",
     "role": "GRC/Cybersecurity Analyst Intern",
-    "location": "Birmingham, AL, USA",
+    "location": "Birmingham, AL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -66228,7 +66228,7 @@
   {
     "company": "Genuine Parts Company",
     "role": "Cloud SRE Intern",
-    "location": "Birmingham, AL, USA",
+    "location": "Birmingham, AL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -66240,7 +66240,7 @@
   {
     "company": "Genuine Parts Company",
     "role": "Cloud Developer Intern",
-    "location": "Birmingham, AL, USA",
+    "location": "Birmingham, AL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -66252,7 +66252,7 @@
   {
     "company": "Genuine Parts Company",
     "role": "Business Application Support Engineer Intern",
-    "location": "Birmingham, AL, USA",
+    "location": "Birmingham, AL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -66288,7 +66288,7 @@
   {
     "company": "Genuine Parts Company",
     "role": "Software Engineer - QA Analyst Intern",
-    "location": "Birmingham, AL, USA",
+    "location": "Birmingham, AL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -66581,7 +66581,7 @@
   {
     "company": "Philips",
     "role": "Co-op - Material Scientist - New Kensington, PA - January-June",
-    "location": "New Kensington, Pennsylvania, United States",
+    "location": "New Kensington, PA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -66617,7 +66617,7 @@
   {
     "company": "Motorola Solutions",
     "role": "Junior Field Applications Engineer",
-    "location": "Reston, VA  (VA58)",
+    "location": "Reston, VA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -66809,7 +66809,7 @@
   {
     "company": "Skydio",
     "role": "Autonomy Engineer Intern, Computer Vision / Deep Learning",
-    "location": "San Mateo, California, United States",
+    "location": "San Mateo, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -66821,7 +66821,7 @@
   {
     "company": "Amazon",
     "role": "Software Development Engineer Intern, ROBOTICS",
-    "location": "US, MA, North Reading",
+    "location": "North Reading, MA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67026,7 +67026,7 @@
   {
     "company": "IEX",
     "role": "Cyber Security Analyst Intern",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67038,7 +67038,7 @@
   {
     "company": "IEX",
     "role": "Network & Data Center Engineer Co-op",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -67050,7 +67050,7 @@
   {
     "company": "IEX",
     "role": "Platform Engineer Intern",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67062,7 +67062,7 @@
   {
     "company": "IEX",
     "role": "Software Engineer Intern",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67074,7 +67074,7 @@
   {
     "company": "IEX",
     "role": "Systems Reliability Engineer Intern",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Masters",
@@ -67086,7 +67086,7 @@
   {
     "company": "mthree",
     "role": "Junior Java Developer",
-    "location": "Halifax, Nova Scotia, Canada",
+    "location": "Halifax, NS",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67098,7 +67098,7 @@
   {
     "company": "Roblox",
     "role": "[2027] Associate Product Designer, Early Career",
-    "location": "San Mateo, CA, United States",
+    "location": "San Mateo, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -67111,7 +67111,7 @@
   {
     "company": "Roblox",
     "role": "[2027] Associate Product Manager, Early Career",
-    "location": "San Mateo, CA, United States",
+    "location": "San Mateo, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -67124,7 +67124,7 @@
   {
     "company": "Roblox",
     "role": "[Summer 2027] Product Design Intern",
-    "location": "San Mateo, CA, United States",
+    "location": "San Mateo, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67136,7 +67136,7 @@
   {
     "company": "Roblox",
     "role": "[Summer 2027] Product Management Intern",
-    "location": "San Mateo, CA, United States",
+    "location": "San Mateo, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67148,7 +67148,7 @@
   {
     "company": "TransMarket Group",
     "role": "Junior Data Engineer",
-    "location": "Chicago, Illinois, United States",
+    "location": "Chicago, IL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67197,7 +67197,7 @@
   {
     "company": "GE Vernova",
     "role": "GE Vernova Nuclear Edison Engineering Development Program - US",
-    "location": "Wilmington NC USA",
+    "location": "Wilmington, NC",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67270,7 +67270,7 @@
   {
     "company": "Schonfeld Strategic Advisors",
     "role": "2027 Business Analytics Intern",
-    "location": "New York, New York, United States",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67282,7 +67282,7 @@
   {
     "company": "Schonfeld Strategic Advisors",
     "role": "2027 Cybersecurity Operations Intern",
-    "location": "New York, New York, United States",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67294,7 +67294,7 @@
   {
     "company": "Schonfeld Strategic Advisors",
     "role": "2027 Data Science Intern",
-    "location": "New York, New York, United States",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67306,7 +67306,7 @@
   {
     "company": "Schonfeld Strategic Advisors",
     "role": "2027 DMFI Technology Intern",
-    "location": "New York, New York, United States",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67318,7 +67318,7 @@
   {
     "company": "Schonfeld Strategic Advisors",
     "role": "2027 Software Engineering Intern",
-    "location": "New York, New York, United States",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67486,7 +67486,7 @@
   {
     "company": "Procter & Gamble",
     "role": "Digital Technologies Internship/Co-op / Stage ou programme coop\u00e9ratif en en technologies digitales",
-    "location": "TORONTO GO",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -67498,7 +67498,7 @@
   {
     "company": "Procter & Gamble",
     "role": "Product Supply Internship/Co-op Summer 2027/ Stage ou programme coop\u00e9ratif en cha\u00eene d'approvisionnement \u00c9t\u00e9",
-    "location": "TORONTO GO",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -67510,7 +67510,7 @@
   {
     "company": "Procter & Gamble",
     "role": "Analytics & Insights Internship/Co-op Summer 2027/ Stage ou programme coop\u00e9ratif en Analyse et veille strat\u00e9gique \u00c9t\u00e9",
-    "location": "TORONTO GO",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -67522,7 +67522,7 @@
   {
     "company": "RSM",
     "role": "Technology Risk Consulting Intern",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67546,7 +67546,7 @@
   {
     "company": "Skydio",
     "role": "Product Design Engineer Intern",
-    "location": "San Mateo, California, United States",
+    "location": "San Mateo, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67618,7 +67618,7 @@
   {
     "company": "CACI",
     "role": "Software Engineer Intern",
-    "location": "Ypsilanti, MI, US",
+    "location": "Ypsilanti, MI",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67751,7 +67751,7 @@
   {
     "company": "Schonfeld Strategic Advisors",
     "role": "2027 PhD Quantitative Research Intern",
-    "location": "New York, New York, United States",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "PhD",
@@ -67763,7 +67763,7 @@
   {
     "company": "Schonfeld Strategic Advisors",
     "role": "2027 PhD Quantitative Research Intern",
-    "location": "Miami, Florida, United States",
+    "location": "Miami, FL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "PhD",
@@ -67860,7 +67860,7 @@
   {
     "company": "Clera",
     "role": "Founding Engineer Intern",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67872,7 +67872,7 @@
   {
     "company": "Juniper Networks",
     "role": "HPC AI Systems Administrator Intern",
-    "location": "Bloomington, Minnesota, United States of America",
+    "location": "Bloomington, MN",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Masters",
@@ -67884,7 +67884,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - DRAM Test Structure Design and Layout Engineering",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -67896,7 +67896,7 @@
   {
     "company": "BMO Financial Group",
     "role": "Cloud Business & Strategy Analytics Analyst, Winter 2027 (Co-op/Internship) - 4 Months",
-    "location": "Toronto, ON, CAN",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -67908,7 +67908,7 @@
   {
     "company": "BMO Financial Group",
     "role": "Data Analytics Intern, Winter 2027 (Co-op/Internship) - 8 months",
-    "location": "Toronto, ON, CAN",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -67920,7 +67920,7 @@
   {
     "company": "BMO Financial Group",
     "role": "Data Science Analyst - Audit AI & Analytics, Winter 2027 (Co-op/Internship) - 4 Months",
-    "location": "Toronto, ON, CAN",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -67932,7 +67932,7 @@
   {
     "company": "BMO Financial Group",
     "role": "Data Science Risk Analyst, Winter 2027 (Co-op/Internship) - 4 Months",
-    "location": "Toronto, ON, CAN",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -67944,7 +67944,7 @@
   {
     "company": "BMO Financial Group",
     "role": "Database Analyst, Winter 2027 (Co-op/Internship) - 8 months",
-    "location": "Toronto, ON, CAN",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -67956,7 +67956,7 @@
   {
     "company": "BMO Financial Group",
     "role": "Junior Cybersecurity Intern, Winter 2027 (Co-op/Internship) - 4 Months",
-    "location": "Toronto, ON, CAN",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -67968,7 +67968,7 @@
   {
     "company": "BMO Financial Group",
     "role": "Junior Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-    "location": "Toronto, ON, CAN",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -67980,7 +67980,7 @@
   {
     "company": "BMO Financial Group",
     "role": "Product Control Analyst, Winter 2027 (Co-op/Internship) - 4 Months",
-    "location": "Toronto, ON, CAN",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -67992,7 +67992,7 @@
   {
     "company": "BMO Financial Group",
     "role": "Software Developer, Winter 2027 (Co-op/Internship) - 12 Months",
-    "location": "Toronto, ON, CAN",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -68004,7 +68004,7 @@
   {
     "company": "BMO Financial Group",
     "role": "Software Developer, Winter 2027 (Co-op/Internship) - 4 Months",
-    "location": "Toronto, ON, CAN",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -68016,7 +68016,7 @@
   {
     "company": "BMO Financial Group",
     "role": "Software Developer, Winter 2027 (Co-op/Internship) - 8 Months",
-    "location": "Toronto, ON, CAN",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -68028,7 +68028,7 @@
   {
     "company": "General Motors",
     "role": "Packaging Engineering Intern",
-    "location": "Burton, Michigan, United States of America",
+    "location": "Burton, MI",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68040,7 +68040,7 @@
   {
     "company": "NXP Semiconductors",
     "role": "Digital Validation Intern",
-    "location": "Austin (Oakhill, Office)",
+    "location": "Austin, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68052,7 +68052,7 @@
   {
     "company": "NXP Semiconductors",
     "role": "Digital Verification Intern",
-    "location": "Austin (Oakhill, Office)",
+    "location": "Austin, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68064,7 +68064,7 @@
   {
     "company": "NXP Semiconductors",
     "role": "Data Analytics Engineer Intern",
-    "location": "Austin (Oakhill, Office)",
+    "location": "Austin, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68076,7 +68076,7 @@
   {
     "company": "NXP Semiconductors",
     "role": "Entry Level DFT Design Engineer",
-    "location": "Austin (Oakhill, Office)",
+    "location": "Austin, TX",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -68101,7 +68101,7 @@
   {
     "company": "HP",
     "role": "Software Product Security Engineer Intern",
-    "location": "Spring, Texas, United States of America",
+    "location": "Spring, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68113,7 +68113,7 @@
   {
     "company": "HP",
     "role": "Business Intelligence and Infrastructure Analysts  Intern",
-    "location": "Vancouver, Washington, United States of America",
+    "location": "Vancouver, WA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68125,7 +68125,7 @@
   {
     "company": "Cox Enterprises",
     "role": "Product Management Intern - Summer 2027 (Austin, TX)",
-    "location": "Austin TX",
+    "location": "Austin, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68137,7 +68137,7 @@
   {
     "company": "Cox Enterprises",
     "role": "Software Engineering Intern - Summer 2027 (Austin, TX)",
-    "location": "Austin TX",
+    "location": "Austin, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68149,7 +68149,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - DRAM Customer Enablement Engineering",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68161,7 +68161,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - DRAM Customer Enablement Engineering",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68173,7 +68173,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - Photomask Sustaining Engineering",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68185,7 +68185,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - Software Engineer",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68221,7 +68221,7 @@
   {
     "company": "Adobe",
     "role": "2027 Intern - Solutions Consulting Analyst",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68245,7 +68245,7 @@
   {
     "company": "RSM",
     "role": "Technology Risk Consulting Intern",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68329,7 +68329,7 @@
   {
     "company": "Revel",
     "role": "Internship: Forward Deployed Engineer, Software",
-    "location": "Los Angeles",
+    "location": "Los Angeles, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68341,7 +68341,7 @@
   {
     "company": "Revel",
     "role": "Internship: Software Engineer, Test",
-    "location": "Los Angeles",
+    "location": "Los Angeles, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68353,7 +68353,7 @@
   {
     "company": "Revel",
     "role": "Internship: Full Stack Software Engineer",
-    "location": "Los Angeles",
+    "location": "Los Angeles, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68365,7 +68365,7 @@
   {
     "company": "Revel",
     "role": "Internship: Forward Deployed Engineer, Test",
-    "location": "Los Angeles",
+    "location": "Los Angeles, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68485,7 +68485,7 @@
   {
     "company": "BMO Financial Group",
     "role": "AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months",
-    "location": "Toronto, ON, CAN",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -68510,7 +68510,7 @@
   {
     "company": "Danaher Corporation",
     "role": "Research and Development Intern - Analytical Method Development",
-    "location": "Fargo, North Dakota, United States",
+    "location": "Fargo, ND",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68522,7 +68522,7 @@
   {
     "company": "Disney",
     "role": "Games Audio Production Intern",
-    "location": "Glendale, CA, USA",
+    "location": "Glendale, CA",
     "type": "offcycle",
     "season": "Spring 2027",
     "education": "Undergrad",
@@ -68798,7 +68798,7 @@
   {
     "company": "Verkada",
     "role": "Technical Support Engineering Intern",
-    "location": "San Mateo, CA United States",
+    "location": "San Mateo, CA",
     "type": "offcycle",
     "season": "Spring 2027",
     "education": "Undergrad",
@@ -68810,7 +68810,7 @@
   {
     "company": "Verkada",
     "role": "Technical Support Engineering Intern",
-    "location": "San Mateo, CA United States",
+    "location": "San Mateo, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68822,7 +68822,7 @@
   {
     "company": "Verkada",
     "role": "Technical Support Engineer - University Graduate",
-    "location": "San Mateo, CA United States",
+    "location": "San Mateo, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -68835,7 +68835,7 @@
   {
     "company": "Disney",
     "role": "Lucasfilm Games Production Intern",
-    "location": "San Francisco, CA, USA",
+    "location": "San Francisco, CA",
     "type": "offcycle",
     "season": "Spring 2027",
     "education": "Undergrad",
@@ -68847,7 +68847,7 @@
   {
     "company": "Amazon",
     "role": "Operations Engineering Field Execution Internship - Spring and Summer 2027 (CA, CT, GA, TX)",
-    "location": "US, TX, Cleburne",
+    "location": "Cleburne, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68859,7 +68859,7 @@
   {
     "company": "NVIDIA",
     "role": "Research Scientist, AI Accelerator Design and VLSI - New College Grad",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -68872,7 +68872,7 @@
   {
     "company": "NVIDIA",
     "role": "Research Scientist, AI for Graphics and Gaming - New College Grad",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -68957,7 +68957,7 @@
   {
     "company": "CACI",
     "role": "DevOps/Software Engineering Intern",
-    "location": "Denver, CO, US",
+    "location": "Denver, CO",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -68981,7 +68981,7 @@
   {
     "company": "Danaher Corporation",
     "role": "Manufacturing Project Engineer Intern",
-    "location": "Logan, Utah, United States",
+    "location": "Logan, UT",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69017,7 +69017,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "R&D Engineering Co-op, Trauma",
-    "location": "West Chester, Pennsylvania, United States of America",
+    "location": "West Chester, PA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -69053,7 +69053,7 @@
   {
     "company": "Cursor",
     "role": "Software Engineer, New Grad",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -69162,7 +69162,7 @@
   {
     "company": "Amazon",
     "role": "Hardware Development Engineer Intern/Co-Op, ROBOTICS",
-    "location": "US, MA, North Reading",
+    "location": "North Reading, MA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -69246,7 +69246,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "MSAT Engineer Co-op",
-    "location": "Wilson, North Carolina, United States of America",
+    "location": "Wilson, NC",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -69258,7 +69258,7 @@
   {
     "company": "Epic Games",
     "role": "Backend Services Programmer Intern",
-    "location": "Cary,North Carolina,United States",
+    "location": "Cary, NC",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69282,7 +69282,7 @@
   {
     "company": "General Motors",
     "role": "Software Engineer, AV Frameworks \u2013 Early Career",
-    "location": "Sunnyvale, California, United States of America",
+    "location": "Sunnyvale, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -69332,7 +69332,7 @@
   {
     "company": "NXP Semiconductors",
     "role": "Digital Design Intern",
-    "location": "Austin (Oakhill, Office)",
+    "location": "Austin, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69356,7 +69356,7 @@
   {
     "company": "DV Trading",
     "role": "Client Platforms Engineer Intern",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Masters",
@@ -69368,7 +69368,7 @@
   {
     "company": "Hudl",
     "role": "Product Management Intern",
-    "location": "Lincoln, NE, United States",
+    "location": "Lincoln, NE",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69380,7 +69380,7 @@
   {
     "company": "Perpay",
     "role": "Software Engineering Internship",
-    "location": "Philadelphia, Pennsylvania, United States",
+    "location": "Philadelphia, PA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69392,7 +69392,7 @@
   {
     "company": "CACI",
     "role": "Software Engineering Intern",
-    "location": "Denver, CO, US",
+    "location": "Denver, CO",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69404,7 +69404,7 @@
   {
     "company": "CACI",
     "role": "Configuration Control/Data Management Co-op - Spring &",
-    "location": "Danbury, CT, US",
+    "location": "Danbury, CT",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -69416,7 +69416,7 @@
   {
     "company": "Cox Enterprises",
     "role": "Cybersecurity Intern",
-    "location": "Atlanta GA",
+    "location": "Atlanta, GA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69452,7 +69452,7 @@
   {
     "company": "Schonfeld Strategic Advisors",
     "role": "2027 Platform Engineering Intern",
-    "location": "New York, New York, United States",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69501,7 +69501,7 @@
   {
     "company": "Hudl",
     "role": "Quality Assurance Engineering Intern",
-    "location": "Lincoln, NE, United States",
+    "location": "Lincoln, NE",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69513,7 +69513,7 @@
   {
     "company": "Hudl",
     "role": "Software Engineering Intern",
-    "location": "Lincoln, NE, United States",
+    "location": "Lincoln, NE",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69549,7 +69549,7 @@
   {
     "company": "Cox Enterprises",
     "role": "Infrastructure Automation Intern",
-    "location": "Atlanta GA",
+    "location": "Atlanta, GA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69561,7 +69561,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "New Product Development Engineering Co-Op",
-    "location": "Raynham, Massachusetts, United States of America",
+    "location": "Raynham, MA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -69585,7 +69585,7 @@
   {
     "company": "Rockwell Automation",
     "role": "Co-op, Technical Sales (OTTO by Rockwell Automation)",
-    "location": "Waterloo, Ontario, Canada",
+    "location": "Waterloo, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -69621,7 +69621,7 @@
   {
     "company": "Amazon",
     "role": "Industrial Development Engineer Intern/Co-op, ROBOTICS",
-    "location": "US, MA, North Reading",
+    "location": "North Reading, MA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -69657,7 +69657,7 @@
   {
     "company": "Adobe",
     "role": "2027 Intern - Digital Strategy Analyst",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69693,7 +69693,7 @@
   {
     "company": "Cox Enterprises",
     "role": "Quality Assurance Engineering Intern",
-    "location": "Atlanta GA",
+    "location": "Atlanta, GA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69705,7 +69705,7 @@
   {
     "company": "Cox Enterprises",
     "role": "Application Support Engineering Intern",
-    "location": "Atlanta GA",
+    "location": "Atlanta, GA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69717,7 +69717,7 @@
   {
     "company": "Cox Enterprises",
     "role": "Infrastructure Operations Intern",
-    "location": "Atlanta GA",
+    "location": "Atlanta, GA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69729,7 +69729,7 @@
   {
     "company": "Cox Enterprises",
     "role": "Data Governance and Management Intern",
-    "location": "Atlanta GA",
+    "location": "Atlanta, GA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69741,7 +69741,7 @@
   {
     "company": "Disney",
     "role": "Disney Consumer Products Public Relations Intern",
-    "location": "Glendale, CA, USA",
+    "location": "Glendale, CA",
     "type": "offcycle",
     "season": "Spring 2027",
     "education": "Undergrad",
@@ -69789,7 +69789,7 @@
   {
     "company": "Northrop Grumman",
     "role": "2027 Engineering Intern - Huntsville AL",
-    "location": "United States-Alabama-Huntsville",
+    "location": "Huntsville, AL",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69801,7 +69801,7 @@
   {
     "company": "Vast",
     "role": "Emerging Talent - Mechanical/Aerospace Engineering Internship",
-    "location": "Long Beach, California, United States",
+    "location": "Long Beach, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69873,7 +69873,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "2027 Winter - ECCO, Data Intern (4 Months)",
-    "location": "TORONTO, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69885,7 +69885,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "2027 Winter - GRM, Data Scientist Intern (8 Months)",
-    "location": "TORONTO, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69909,7 +69909,7 @@
   {
     "company": "Disney",
     "role": "Disneyland Cybersecurity Intern",
-    "location": "Anaheim, CA, USA",
+    "location": "Anaheim, CA",
     "type": "offcycle",
     "season": "Spring 2027",
     "education": "Undergrad",
@@ -69921,7 +69921,7 @@
   {
     "company": "NewsBreak",
     "role": "Nearby AI Internship Program - Engineering Track",
-    "location": "Mountain View, California, United States",
+    "location": "Mountain View, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69933,7 +69933,7 @@
   {
     "company": "NewsBreak",
     "role": "Nearby AI Internship Program - Marketing & Operation Track",
-    "location": "Mountain View, California, United States",
+    "location": "Mountain View, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69945,7 +69945,7 @@
   {
     "company": "Perpay",
     "role": "Data Engineering Internship",
-    "location": "Philadelphia, Pennsylvania, United States",
+    "location": "Philadelphia, PA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69957,7 +69957,7 @@
   {
     "company": "Perpay",
     "role": "Data Science Internship",
-    "location": "Philadelphia, Pennsylvania, United States",
+    "location": "Philadelphia, PA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -69994,7 +69994,7 @@
   {
     "company": "Philips",
     "role": "Intern\u2013 Design Assurance Engineer \u2013 Colorado Springs, CO",
-    "location": "Colorado Springs, Colorado, United States",
+    "location": "Colorado Springs, CO",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -70289,7 +70289,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern- Technician, Process",
-    "location": "Boise, ID - ID1",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -71152,7 +71152,7 @@
   {
     "company": "mthree",
     "role": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer  \u2013 Canada (Montreal)",
-    "location": "Montr\u00e9al, Quebec, Canada",
+    "location": "Montreal, QC",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -71845,7 +71845,7 @@
   {
     "company": "Analog Devices",
     "role": "Algorithm Development Engineer Intern",
-    "location": "US, MA, Wilmington",
+    "location": "Wilmington, MA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -71870,7 +71870,7 @@
   {
     "company": "Barry-Wehmiller",
     "role": "Entry Level Controls Engineer",
-    "location": "Abilene, TX USA",
+    "location": "Abilene, TX",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -71981,7 +71981,7 @@
   {
     "company": "CACI",
     "role": "Junior Systems Engineer",
-    "location": "King George, VA, US",
+    "location": "King George, VA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Masters",
@@ -72007,7 +72007,7 @@
   {
     "company": "General Motors",
     "role": "Entry Level - Wireless EF Design & Validation Engineer",
-    "location": "Warren, Michigan, United States of America",
+    "location": "Warren, MI",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -72044,7 +72044,7 @@
   {
     "company": "HNTB",
     "role": "Construction Engineering & Inspection Intern (Co-Op)",
-    "location": "Houston, TX (Fannin)",
+    "location": "Houston, TX",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -72056,7 +72056,7 @@
   {
     "company": "Juniper Networks",
     "role": "Junior UI developer / D\u00e9veloppeur UI junior",
-    "location": "St. Laurent, Quebec, Canada",
+    "location": "St. Laurent, QC",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -72069,7 +72069,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "Mentor Research and Development CoOp",
-    "location": "Raritan, New Jersey, United States of America",
+    "location": "Raritan, NJ",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -72216,7 +72216,7 @@
   {
     "company": "Hitachi",
     "role": "2027 Summer Engineering Intern - Alamo",
-    "location": "Alamo, Tennessee, United States of America",
+    "location": "Alamo, TN",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -72228,7 +72228,7 @@
   {
     "company": "Hitachi",
     "role": "2027 Summer Engineering Internship - Jefferson City",
-    "location": "Jefferson City, Missouri, United States of America",
+    "location": "Jefferson City, MO",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -72636,7 +72636,7 @@
   {
     "company": "NXP Semiconductors",
     "role": "Digital Design Intern - Spring 2027",
-    "location": "Austin (Oakhill, Office)",
+    "location": "Austin, TX",
     "type": "offcycle",
     "season": "Spring 2027",
     "education": "Undergrad",
@@ -72648,7 +72648,7 @@
   {
     "company": "NXP Semiconductors",
     "role": "Digital Physical Design Intern - Spring 2027",
-    "location": "Austin (Oakhill, Office)",
+    "location": "Austin, TX",
     "type": "offcycle",
     "season": "Spring 2027",
     "education": "Undergrad",
@@ -72660,7 +72660,7 @@
   {
     "company": "NXP Semiconductors",
     "role": "Digital Physical Design Intern - Summer 2027",
-    "location": "Austin (Oakhill, Office)",
+    "location": "Austin, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -72672,7 +72672,7 @@
   {
     "company": "NXP Semiconductors",
     "role": "Microcontrollers System Engineering Intern - Summer 2027",
-    "location": "Austin (Oakhill, Office)",
+    "location": "Austin, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -72780,7 +72780,7 @@
   {
     "company": "Palo Alto Networks",
     "role": "Sales Engineer - Intern",
-    "location": "Office - USA - TX",
+    "location": "Office - USA -, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -72792,7 +72792,7 @@
   {
     "company": "Palo Alto Networks",
     "role": "Sales Engineer - Intern",
-    "location": "Office - USA - TX",
+    "location": "Office - USA -, TX",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -72828,7 +72828,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - IT Software Engineer",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -72864,7 +72864,7 @@
   {
     "company": "Philips",
     "role": "Co-op-Data Engineering-Reedsville, PA-July-December 2027",
-    "location": "Reedsville, Pennsylvania, United States",
+    "location": "Reedsville, PA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -72876,7 +72876,7 @@
   {
     "company": "Philips",
     "role": "Co-op-Data Engineering-Reedsville, PA-January-June 2027",
-    "location": "Reedsville, Pennsylvania, United States",
+    "location": "Reedsville, PA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -72888,7 +72888,7 @@
   {
     "company": "Philips",
     "role": "Co-op - Software Development Engineer - Cambridge, MA - Jan-Aug 2027",
-    "location": "Cambridge (US), Massachusetts, United States",
+    "location": "Cambridge, MA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -73053,7 +73053,7 @@
   {
     "company": "Teledyne",
     "role": "LiDAR Data Analyst (Co-op)",
-    "location": "Canada - Concord, ON (TDY)",
+    "location": "Canada - Concord, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -73693,7 +73693,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "2027 Winter - ECCO, Data Scientist Intern (4 Months)",
-    "location": "TORONTO, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -73705,7 +73705,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "2027 Winter \u2013 GRM, MCCR Policy AI Applications Intern (4 Months)",
-    "location": "TORONTO, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -73717,7 +73717,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "2027 Winter - GRM, Portfolio Risk Data & AI Analyst Intern (4 Months)",
-    "location": "TORONTO, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -73729,7 +73729,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "2027 Winter \u2013 GRM, Commercial Portfolio Risk & Credit Analytics Intern (4 Months)",
-    "location": "TORONTO, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -73741,7 +73741,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "Winter 2027 - GRM, BSLR Liquidity Data & AI Intern (4 Months)",
-    "location": "TORONTO, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Winter 2027",
     "education": "Undergrad",
@@ -73753,7 +73753,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "2027 Winter \u2013 GRM, Portfolio Risk & Credit Analytics Intern (4 Months)",
-    "location": "TORONTO, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -73765,7 +73765,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "2027 Winter - GRM, AI & Stress Testing Analytics Intern (4 Months)",
-    "location": "TORONTO, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -73777,7 +73777,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "2027 Winter - GRM, Quantitative Risk Intern (4 Months)",
-    "location": "TORONTO, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -73789,7 +73789,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "2027 Winter - GRM, Data Analyst Intern (4 Months)",
-    "location": "TORONTO, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -73801,7 +73801,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "2027 Winter - CLAO, Data Analyst Intern (4 months)",
-    "location": "TORONTO, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -73813,7 +73813,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "2027 Winter - GRM, AI Business Analyst Intern (4 Months)",
-    "location": "TORONTO, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -73825,7 +73825,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "2027 Winter - GRM, Data Analyst Developer Intern (8 Months)",
-    "location": "TORONTO, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -73837,7 +73837,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "2027 Winter - CDO, Data Traceability & Controls Intern (4 Months - Bedford, NS)",
-    "location": "HALIFAX, Nova Scotia, Canada",
+    "location": "Halifax, NS",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -73849,7 +73849,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "2027 Winter - GRM, ALM Risk Data & Automation Analyst Intern (4 Months)",
-    "location": "TORONTO, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -73909,7 +73909,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "Developer, RBC Amplify 2027, Halifax",
-    "location": "HALIFAX, Nova Scotia, Canada",
+    "location": "Halifax, NS",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -73921,7 +73921,7 @@
   {
     "company": "Royal Bank of Canada",
     "role": "Developer, RBC Amplify 2027, Toronto",
-    "location": "TORONTO, Ontario, Canada",
+    "location": "Toronto, ON",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -73994,7 +73994,7 @@
   {
     "company": "Danaher Corporation",
     "role": "Continues Improvement Engineering Intern summer 2027",
-    "location": "Logan, Utah, United States",
+    "location": "Logan, UT",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -74006,7 +74006,7 @@
   {
     "company": "Danaher Corporation",
     "role": "Data Analytics Intern Summer 2027",
-    "location": "Logan, Utah, United States",
+    "location": "Logan, UT",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -74018,7 +74018,7 @@
   {
     "company": "Danaher Corporation",
     "role": "Product Development Engineering Co-op",
-    "location": "Vancouver, British Columbia, Canada",
+    "location": "Vancouver, BC",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -74043,7 +74043,7 @@
   {
     "company": "Philips",
     "role": "CO-OP \u2013 Data Management \u2013 Cleveland, OH \u2013 January 2027",
-    "location": "Orange (OH), Ohio, United States",
+    "location": "Orange, OH",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -74127,7 +74127,7 @@
   {
     "company": "Graham Capital Management",
     "role": "2027 Graham Capital Summer Internship \u2013 CT / NYC",
-    "location": "New York, New York, United States; Norwalk, Connecticut, United States",
+    "location": "New York, NY; Norwalk, CT",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -74178,7 +74178,7 @@
   {
     "company": "BMO Financial Group",
     "role": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
-    "location": "Toronto, ON, CAN",
+    "location": "Toronto, ON",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -74190,7 +74190,7 @@
   {
     "company": "Campbell Soup Company",
     "role": "Information Technology Internship Program - Summer 2027",
-    "location": "USA - NJ - Camden",
+    "location": "Camden, NJ",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -74202,7 +74202,7 @@
   {
     "company": "Disney",
     "role": "Disney Live Entertainment Costume Production Intern, Spring 2027",
-    "location": "Anaheim, CA, USA",
+    "location": "Anaheim, CA",
     "type": "offcycle",
     "season": "Spring 2027",
     "education": "Undergrad",
@@ -74214,7 +74214,7 @@
   {
     "company": "General Motors",
     "role": "2027 Summer Intern, Global Customer Research Intern (Master/MBA Degree)",
-    "location": "Warren, Michigan, United States of America",
+    "location": "Warren, MI",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Masters",
@@ -74226,7 +74226,7 @@
   {
     "company": "General Motors",
     "role": "2027 Summer Intern \u2013 IndyCar Trackside Engineering",
-    "location": "Concord, North Carolina, United States of America",
+    "location": "Concord, NC",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -74262,7 +74262,7 @@
   {
     "company": "Tencent",
     "role": "Cyber Security Engineer Intern",
-    "location": "US-California-Palo Alto",
+    "location": "Palo Alto, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -74562,7 +74562,7 @@
   {
     "company": "BMO Financial Group",
     "role": "Excellence in Action - Finance Rotation Program Associate (New Graduate Opportunity)",
-    "location": "Toronto, ON, CAN",
+    "location": "Toronto, ON",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -74575,7 +74575,7 @@
   {
     "company": "Tencent",
     "role": "Machine Learning Intern",
-    "location": "US-California-Palo Alto",
+    "location": "Palo Alto, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -74754,7 +74754,7 @@
   {
     "company": "General Motors",
     "role": "2027 Summer Intern \u2013 Motorsports Aero-Thermal Engineering",
-    "location": "Milford, Michigan, United States of America",
+    "location": "Milford, MI",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -74766,7 +74766,7 @@
   {
     "company": "General Motors",
     "role": "2027 Summer Intern \u2013 IndyCar Race Strategy & Analytics",
-    "location": "Concord, North Carolina, United States of America",
+    "location": "Concord, NC",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -74778,7 +74778,7 @@
   {
     "company": "HNTB",
     "role": "Intern Engineer - Summer 2027",
-    "location": "Rocky Hill, CT (Hartford)",
+    "location": "Rocky Hill, CT",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -74790,7 +74790,7 @@
   {
     "company": "HNTB",
     "role": "Intern Engineer - Summer 2027",
-    "location": "Scott Depot, WV (Charleston)",
+    "location": "Scott Depot, WV",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -74851,7 +74851,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "Co-Op Automation Engineer",
-    "location": "Wilson, North Carolina, United States of America",
+    "location": "Wilson, NC",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -74863,7 +74863,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "Process/Project Engineering Co-op",
-    "location": "Wilson, North Carolina, United States of America",
+    "location": "Wilson, NC",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -74875,7 +74875,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "Reliability Maintenance Technician Co-op",
-    "location": "Wilson, North Carolina, United States of America",
+    "location": "Wilson, NC",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -74899,7 +74899,7 @@
   {
     "company": "NVIDIA",
     "role": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "PhD",
@@ -74935,7 +74935,7 @@
   {
     "company": "Northrop Grumman",
     "role": "2027 Cyber Systems Engineer Intern - Roy UT",
-    "location": "United States-Utah-Roy",
+    "location": "Roy, UT",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Masters",
@@ -74947,7 +74947,7 @@
   {
     "company": "Northrop Grumman",
     "role": "2027 Intern Engineer - Product Support",
-    "location": "United States-Oklahoma-Oklahoma City",
+    "location": "Oklahoma City, OK",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75057,7 +75057,7 @@
   {
     "company": "Five Rings",
     "role": "Summer 2027 - Trading Operations Engineer Intern",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75069,7 +75069,7 @@
   {
     "company": "Anduril",
     "role": "Winter 2027 Software Engineer Co-op",
-    "location": "Quincy, Massachusetts, United States",
+    "location": "Quincy, MA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -75081,7 +75081,7 @@
   {
     "company": "Anduril",
     "role": "Winter 2027 Systems Engineer Co-op",
-    "location": "Quincy, Massachusetts, United States",
+    "location": "Quincy, MA",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Masters",
@@ -75093,7 +75093,7 @@
   {
     "company": "Anduril",
     "role": "Winter 2027 Technical Program Management Co-op",
-    "location": "Washington, District of Columbia, United States",
+    "location": "Washington, DC",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -75105,7 +75105,7 @@
   {
     "company": "Anduril",
     "role": "Winter 2027 Test Automation Engineer Co-op",
-    "location": "Washington, District of Columbia, United States",
+    "location": "Washington, DC",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -75117,7 +75117,7 @@
   {
     "company": "Autodesk",
     "role": "Intern, Software Developer, Stagiaire en D\u00e9veloppement Logiciel",
-    "location": "Montreal, QC, CAN",
+    "location": "Montreal, QC",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75129,7 +75129,7 @@
   {
     "company": "Campbell Soup Company",
     "role": "Packaging Engineer Co-Op",
-    "location": "USA - NJ - Camden",
+    "location": "Camden, NJ",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -75141,7 +75141,7 @@
   {
     "company": "Cox Enterprises",
     "role": "Entry Level Software Engineer - Austin, TX",
-    "location": "Austin TX",
+    "location": "Austin, TX",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -75167,7 +75167,7 @@
   {
     "company": "General Dynamics Information Technology",
     "role": "Summer 2027 Software Development Internship",
-    "location": "USA VA Falls Church",
+    "location": "Falls Church, VA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75179,7 +75179,7 @@
   {
     "company": "General Dynamics Information Technology",
     "role": "Summer 2027 Software Development Internship",
-    "location": "USA VA Falls Church",
+    "location": "Falls Church, VA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75191,7 +75191,7 @@
   {
     "company": "General Dynamics Information Technology",
     "role": "Summer 2027 Software Development Internship",
-    "location": "USA VA Falls Church",
+    "location": "Falls Church, VA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75215,7 +75215,7 @@
   {
     "company": "Hitachi",
     "role": "Intern - Onboard Software Developer",
-    "location": "Pittsburgh, Pennsylvania, United States",
+    "location": "Pittsburgh, PA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75227,7 +75227,7 @@
   {
     "company": "Hitachi",
     "role": "NC A&T Career Fair (Only) - Automation Junior Engineer",
-    "location": "Raleigh, North Carolina, United States",
+    "location": "Raleigh, NC",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -75265,7 +75265,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "Mechatronics & Systems Integration Intern - R&D",
-    "location": "Santa Clara, California, United States of America",
+    "location": "Santa Clara, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Masters",
@@ -75277,7 +75277,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "MAKE Engineering Co-op",
-    "location": "Jacksonville, Florida, United States of America",
+    "location": "Jacksonville, FL",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -75301,7 +75301,7 @@
   {
     "company": "NVIDIA",
     "role": "Physical Design and Timing Engineer Intern - Summer 2027",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75313,7 +75313,7 @@
   {
     "company": "NVIDIA",
     "role": "Research Intern, Fundamental Generative AI - 2027",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75349,7 +75349,7 @@
   {
     "company": "Micron Technology",
     "role": "Intern - Node Development Product Engineer - DRAM Technology",
-    "location": "Boise, ID - Main Site",
+    "location": "Boise, ID",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75385,7 +75385,7 @@
   {
     "company": "Northrop Grumman",
     "role": "2027 Cyber Software Engineer\u00a0Intern - Cincinnati OH",
-    "location": "United States-Ohio-Cincinnati",
+    "location": "Cincinnati, OH",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75493,7 +75493,7 @@
   {
     "company": "Ambrook",
     "role": "Software Engineering Co-op",
-    "location": "New York",
+    "location": "New York, NY",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -75505,7 +75505,7 @@
   {
     "company": "Cox Enterprises",
     "role": "Tax Technology Intern",
-    "location": "Atlanta GA",
+    "location": "Atlanta, GA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75517,7 +75517,7 @@
   {
     "company": "Cox Enterprises",
     "role": "Business Analytics Intern",
-    "location": "Atlanta GA",
+    "location": "Atlanta, GA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75541,7 +75541,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "Software Engineering Intern - Robotics R&D",
-    "location": "Santa Clara, California, United States of America",
+    "location": "Santa Clara, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75566,7 +75566,7 @@
   {
     "company": "Philips",
     "role": "Intern- AI Business Operations-Nashville, TN-Summer 2027",
-    "location": "Nashville, Tennessee, United States",
+    "location": "Nashville, TN",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75578,7 +75578,7 @@
   {
     "company": "Northrop Grumman",
     "role": "Associate Data Scientist/Data Scientist",
-    "location": "United States-California-Palmdale",
+    "location": "Palmdale, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
@@ -75653,7 +75653,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "Oncology TR Scientist Intern",
-    "location": "Spring House, Pennsylvania, United States of America",
+    "location": "Spring House, PA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75665,7 +75665,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "Oncology Discovery Scientist Intern",
-    "location": "Spring House, Pennsylvania, United States of America",
+    "location": "Spring House, PA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75677,7 +75677,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "Oncology Clinical Scientist Intern",
-    "location": "Spring House, Pennsylvania, United States of America",
+    "location": "Spring House, PA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75689,7 +75689,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "Robotics Controls & Autonomy Intern - Robotics R&D",
-    "location": "Santa Clara, California, United States of America",
+    "location": "Santa Clara, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75701,7 +75701,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "Clinical Engineering & Human Factors Intern - Robotics R&D",
-    "location": "Santa Clara, California, United States of America",
+    "location": "Santa Clara, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75713,7 +75713,7 @@
   {
     "company": "Johnson & Johnson",
     "role": "Product Management Co-Op",
-    "location": "Jacksonville, Florida, United States of America",
+    "location": "Jacksonville, FL",
     "type": "offcycle",
     "season": "Co-op",
     "education": "Undergrad",
@@ -75737,7 +75737,7 @@
   {
     "company": "NVIDIA",
     "role": "PhD Research Intern, Generative AI for Physical AI - 2027",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "PhD",
@@ -75749,7 +75749,7 @@
   {
     "company": "NVIDIA",
     "role": "Product Management MBA Intern, Data Center GPU - Summer 2027",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75761,7 +75761,7 @@
   {
     "company": "NVIDIA",
     "role": "Research Scientist, Human\u2011AI Perception and Interaction Research - PhD New College Grad 2026",
-    "location": "US, CA, Santa Clara",
+    "location": "Santa Clara, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "PhD",
@@ -75787,7 +75787,7 @@
   {
     "company": "Philips",
     "role": "Intern \u2013 R&D Engineer \u2013 Plymouth, MN \u2013 Summer 2027",
-    "location": "Plymouth, Minnesota, United States",
+    "location": "Plymouth, MN",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -75799,7 +75799,7 @@
   {
     "company": "Philips",
     "role": "Intern \u2013 New Product Development Engineer \u2013 Colorado Springs, CO \u2013 Summer 2027",
-    "location": "Colorado Springs, Colorado, United States",
+    "location": "Colorado Springs, CO",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
