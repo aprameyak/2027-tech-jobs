@@ -5,12 +5,22 @@ on:
     branches: [main]
     paths:
       - 'listings.json'
+      - 'SUMMER.md'
+      - 'OFFCYCLE.md'
+      - 'NEWGRAD.md'
+      - 'README.md'
       - '.github/scripts/validate_listings.py'
+      - '.github/scripts/quality_gate.py'
   pull_request:
     branches: [main]
     paths:
       - 'listings.json'
+      - 'SUMMER.md'
+      - 'OFFCYCLE.md'
+      - 'NEWGRAD.md'
+      - 'README.md'
       - '.github/scripts/validate_listings.py'
+      - '.github/scripts/quality_gate.py'
 
 jobs:
   validate:
@@ -22,3 +32,5 @@ jobs:
           python-version: '3.11'
       - name: Validate listings
         run: python .github/scripts/validate_listings.py
+      - name: Quality / regression gate
+        run: python .github/scripts/quality_gate.py
