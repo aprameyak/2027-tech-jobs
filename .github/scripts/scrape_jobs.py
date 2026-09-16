@@ -679,9 +679,39 @@ OFFCYCLE_SEASONS = (
 def infer_listing_type(title):
                                                                               
     t = title.lower()
+    is_intern = bool(re.search(r'\bintern(ship)?\b|\bco-?op\b', t))
 
     if any(kw in t for kw in ['co-op', 'coop', 'co op']):
         return 'Internship', 'Co-op'
+
+    # Full-time new-grad signals beat graduation-window seasons embedded in titles
+    # e.g. "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027)"
+    if not is_intern and any(kw in t for kw in [
+        'new grad', 'new-grad', 'entry level', 'entry-level', 'early career',
+        'university graduate', 'new college grad', 'college grad',
+        'full-time', ' full time', 'campus undergraduate', 'campus graduate',
+    ]):
+        return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
+
+    # Bank / consulting style graduate & analyst programs (non-intern)
+    if not is_intern:
+        if re.search(r'\bgraduate (program|programme)\b', t) and any(
+            k in t for k in (
+                'technolog', 'developer', 'engineer', 'software', 'data',
+                'quant', 'product', 'trading', 'analyst',
+            )
+        ):
+            return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
+        if re.search(r'\banalyst program\b', t) and any(
+            k in t for k in (
+                'engineering', 'developer', 'data science', 'technolog',
+                'trading', 'product', 'software', 'quant',
+            )
+        ):
+            return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
+        if re.search(r'\bgraduate (quantitative|software|trader|developer|engineer|researcher)\b', t):
+            return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
+
     if any(kw in t for kw in ['fall 2027', 'autumn 2027']):
         return 'Internship', 'Fall 2027'
     if 'spring 2027' in t:
@@ -697,15 +727,7 @@ def infer_listing_type(title):
     if 'summer 2026' in t:
         return 'Internship', 'Summer 2026'
 
-    if any(kw in t for kw in [
-        'new grad', 'new-grad', 'entry level', 'entry-level', 'early career',
-        'university graduate', 'new college grad', 'college grad',
-        'full-time', ' full time',
-    ]):
-        return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
-
-                                                                                    
-    if not re.search(r'\bintern(ship)?\b|\bco-?op\b', t):
+    if not is_intern:
         if re.search(
             r'\bassociate\b.*\b(software|data|security|platform|devops|sre|product)\b'
             r'|\b(software|data|security|platform|devops|cyber)\b.*\bassociate\b'
@@ -714,17 +736,13 @@ def infer_listing_type(title):
         ):
             return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
 
-    if re.search(r'\bgraduate (quantitative|software|trader|developer|engineer|researcher)\b', t):
-        if not re.search(r'\bintern(ship)?\b', t):
-            return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
-
     if re.search(r'research scientist', t):
-        if re.search(r'\bintern(ship)?\b', t):
+        if is_intern:
             return 'Internship', 'Summer 2027'
         if any(kw in t for kw in ['new college grad', 'university grad', 'phd early career']):
             return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
 
-    if re.search(r'\bintern(ship)?\b', t):
+    if is_intern:
         return 'Internship', 'Summer 2027'
     if re.search(
         r'summer analyst|technology intern|leadership rotation|undergraduate student|'

@@ -82,6 +82,7 @@ Babel Street
 Backbone Systems
 Baker Hughes
 Barry-Wehmiller
+Barclays
 Base Power Company
 Beacon Software
 Belvedere Trading
