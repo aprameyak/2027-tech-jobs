@@ -232,8 +232,6 @@
 | Base Power | Data Engineer | Austin, TX |  | Undergrad | [Apply](https://jobs.ashbyhq.com/base-power/e0c632cd-2375-4e0f-8a9f-11dbb820e885?utm_source=aprameyak) | Aug 29 |
 | Baseten | Site Reliability Engineer | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/baseten/ff008b8e-b38d-4941-b24f-9a48c970e7fb?utm_source=aprameyak) | Aug 29 |
 | ↳ | Product Manager, Developer Experience | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/baseten/2d78fdcf-53e1-45d3-a047-2aefb5ad3153?utm_source=aprameyak) | Aug 29 |
-| Blue Origin | Data Solutions Engineer - Blue Nation... | Seattle, WA |  | Undergrad | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Data-Solutions-Engineer---Blue-National-Security_R71354?utm_source=aprameyak) | Aug 29 |
-| Blueprint Technologies | AI/ML Engineer - Automation/Robotics | Redmond, WA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/bpcs/jobs/8160825?utm_source=aprameyak) | Aug 29 |
 | Booz Allen Hamilton | Digital Transformation Specialist, Junior | Arlington, VA |  | Undergrad | [Apply](https://careers.boozallen.com/jobs/JobDetail/Arlington-Digital-Transformation-Specialist-Junior-R0248166/129589?utm_source=aprameyak) | Aug 29 |
 | ↳ | Full Stack Software Engineer, Junior | McLean, VA |  | Undergrad | [Apply](https://careers.boozallen.com/jobs/JobDetail/McLean-Full-Stack-Software-Engineer-Junior-R0248060/129547?utm_source=aprameyak) | Aug 29 |
 | ↳ | Data Scientist, Mid | Reston, VA |  | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/Data-Scientist--Mid_R0247936?utm_source=aprameyak) | Aug 29 |
@@ -744,7 +742,6 @@
 | ↳ | Associate Engineer - 2027 Start | <details><summary>**2 locations**</summary>Chicago, IL</br>New York, NY</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005?utm_source=aprameyak) | Jul 31 |
 | Luma AI | Research Scientist / Engineer - Data | Remote (US) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/luma-ai/f41a9fc6-40b5-4063-b093-b50ffe919ad8?utm_source=aprameyak) | Jul 31 |
 | NewsBreak | Software Engineer, ML Infra (Junior & New Grad) | Mountain View, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006?utm_source=aprameyak) | Jul 31 |
-| Woven by Toyota | Software Engineer, Analysis/Tool | Ann Arbor, MI |  | Undergrad | [Apply](https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190?utm_source=aprameyak) | Jul 31 |
 | Canonical | Software Engineer - Python - Cloud | Remote (US) |  | Undergrad | [Apply](https://job-boards.greenhouse.io/canonical/jobs/3257589?utm_source=aprameyak) | Jul 30 |
 | Cloudflare | Software Engineer, Cloudflare Network | Austin, TX |  | Undergrad | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8088751?utm_source=aprameyak) | Jul 30 |
 | D2L | Software Developer Rotation Program | <details><summary>**4 locations**</summary>Winnipeg, MB</br>Toronto, ON</br>Kitchener, ON</br>Vancouver, BC</details> |  | Undergrad | [Apply](https://www.d2l.com/careers/jobs/?job_id=7336031&gh_jid=7336031&utm_source=aprameyak) | Jul 30 |
@@ -1320,6 +1317,8 @@
 | Bank of Montreal | Commercial Risk Data Analyst New Grad | Toronto, ON |  | Undergrad | 🔒 | Aug 29 |
 | ↳ | Commercial Risk Data Analyst New Grad | Toronto, ON |  | Undergrad | 🔒 | Aug 29 |
 | Barry-Wehmiller | Entry Level Software Engineer | Eau Claire, WIDallas, TXRaleigh, NCSt. Louis, MODenver, CO |  | Undergrad | 🔒 | Aug 29 |
+| Blue Origin | Data Solutions Engineer - Blue Nation... | Seattle, WA |  | Undergrad | 🔒 | Aug 29 |
+| Blueprint Technologies | AI/ML Engineer - Automation/Robotics | Redmond, WA |  | Undergrad | 🔒 | Aug 29 |
 | ↳ | Data Analyst, Mid | Millington, TN |  | Undergrad | 🔒 | Aug 29 |
 | ↳ | AI Engineer, Junior | San Antonio, TX |  | Undergrad | 🔒 | Aug 29 |
 | Bristol Myers Squibb | Product Manager, Global Medical Affai... | NJ |  | Undergrad | 🔒 | Aug 29 |
@@ -1499,6 +1498,7 @@
 | L3Harris Technologies | Software Engineer New Grad - Software Engineering | Salt Lake City, UT |  | Undergrad | 🔒 | Aug 28 |
 | ↳ | Software Engineer 1 | Melbourne, FL |  | Undergrad | 🔒 | Aug 28 |
 | Leidos | Junior Software Engineer - Intel Sector | Laurel, MD |  | Undergrad | 🔒 | Aug 28 |
+| Lennar | Software Engineer 1 | <details><summary>**2 locations**</summary>Miami, FL</br>Irving, TX</details> |  | Undergrad | 🔒 | Aug 28 |
 | LexisNexis Risk Solutions | Software Engineer 1 | Raleigh, NC |  | Undergrad | 🔒 | Aug 28 |
 | LinkedIn | Associate Product Builder (APB) - Rotational Program | <details><summary>**2 locations**</summary>Mountain View, CA</br>San Francisco, CA</details> |  | Undergrad | 🔒 | Aug 28 |
 | Marathon Petroleum | Operations Research Engineer 1 | Findlay, OH |  | Undergrad | 🔒 | Aug 28 |
@@ -1957,6 +1957,7 @@
 | ↳ | Product Designer, New Grad - US Government | New York, NY | Spring 2027 | Undergrad | 🔒 | Jul 31 |
 | Reverb | Software Engineer, Shipping | Chicago, IL |  | Undergrad | 🔒 | Jul 31 |
 | Trexquant | Quantitative Researcher - Early Career | Stamford, CT |  | Undergrad | 🔒 | Jul 31 |
+| Woven by Toyota | Software Engineer, Analysis/Tool | Ann Arbor, MI |  | Undergrad | 🔒 | Jul 31 |
 | AMD | ROCm AI - GPU Software Engineer | Markham, ON |  | Undergrad | 🔒 | Jul 30 |
 | ↳ | Software Developer - GPU IO Libraries | <details><summary>**2 locations**</summary>Calgary, AB</br>Remote (Canada)</details> |  | Undergrad | 🔒 | Jul 30 |
 | Applied Systems | Software Engineer | Toronto, ON |  | Undergrad | 🔒 | Jul 30 |
