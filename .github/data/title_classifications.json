@@ -8275,7 +8275,8 @@
   },
   "software engineer, intern (summer 2027) ": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "administrative business partner": {
     "t": false,
@@ -54585,5 +54586,15 @@
     "t": false,
     "c": "high",
     "a": 0
+  },
+  " member of technical staff - new grad (2027 start)": {
+    "t": true,
+    "c": "medium",
+    "a": 0
+  },
+  "engineering intern (summer 2027)": {
+    "t": true,
+    "c": "medium",
+    "a": 1
   }
 }
