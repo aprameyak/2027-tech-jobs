@@ -34,6 +34,7 @@
 | ↳ | Business Analytics Intern | Atlanta, GA | Undergrad | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Business-Analytics-Intern_R202682428?utm_source=aprameyak) | Sep 15 |
 | Datadog | Research Science Intern (PhD) | <details><summary>**2 locations**</summary>New York, NY</br>Pittsburgh, PA</details> | PhD | [Apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) | Sep 15 |
 | DoorDash | Software Engineer, Intern (Summer 2027) - US | <details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Los Angeles, CA</br>Seattle, WA</details> | Undergrad; Masters | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041?utm_source=aprameyak) | Sep 15 |
+| ↳ | Software Engineer, Intern (Summer 2027) - TOR | Toronto, ON | Undergrad; Masters | [Apply](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944?utm_source=aprameyak) | Sep 15 |
 | Duolingo | Associate Product Manager, Intern | Pittsburgh, PA | Undergrad | [Apply](https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002) | Sep 15 |
 | ↳ | Software Engineer, Intern | <details><summary>**6 locations**</summary>New York, NY</br>New York, NY</br>Pittsburgh, PA</br>Pittsburgh, PA</br>Seattle, WA</br>Seattle, WA</details> | Undergrad | [Apply](https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002) | Sep 15 |
 | ↳ | Software Engineer, Thrive Intern | Pittsburgh, PA | Undergrad | [Apply](https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002) | Sep 15 |
