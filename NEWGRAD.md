@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-2586 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2588 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -33,6 +33,8 @@
 | ↳ | Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ |  | Masters | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013264) | Sep 16 |
 | Barclays | 2027 Technology Developer Graduate Program Whippany | Whippany, NJ | Spring 2027 | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244?utm_source=aprameyak) | Sep 16 |
 | ↳ | 2027 Technology Developer Expert Graduate Program Wilmington | Wilmington, DE | Spring 2027 | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Expert-Graduate-Program-Wilmington_JR-0000123440?utm_source=aprameyak) | Sep 16 |
+| ↳ | 2027 Quantitative Analytics Analyst Graduate Program New York | New York, 745 7th Avenue | Spring 2027 | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/XMLNAME-2027-Quantitative-Analytics-Analyst-Graduate-Program-New-York_JR-0000131452?utm_source=aprameyak) | Sep 16 |
+| BMO Financial Group | Excellence in Action - Finance Rotation Program Associate (New Graduate Opportunity) | Chicago, IL |  | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Excellence-in-Action---Finance-Rotation-Program-Associate--New-Graduate-Opportunity-_R260022485-1?utm_source=aprameyak) | Sep 16 |
 | BNY 🛂 | 2027 BNY Analyst Program - Engineering (Developer) | New York, NY | Spring 2027 | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82247) | Sep 16 |
 | ↳ | 2027 BNY Analyst Program - Engineering (Developer) | Pittsburgh, PA | Spring 2027 | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82248) | Sep 16 |
 | ↳ | 2027 BNY Analyst Program - Engineering (Data Science) | New York, NY | Spring 2027 | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82245) | Sep 16 |
