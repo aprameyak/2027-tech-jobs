@@ -53384,5 +53384,30 @@
     "t": false,
     "c": "high",
     "a": 0
+  },
+  "business analyst graduate programme": {
+    "t": false,
+    "c": "high",
+    "a": 0
+  },
+  "walt disney world costuming project analyst intern, spring 2027": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "2027 associate program cost schedule control analyst/program cost schedule control analyst": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "pharmacy student (pt)": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "advanced measurements research and development intern (summer 2027) (onsite)": {
+    "t": true,
+    "c": "medium",
+    "a": 1
   }
 }
