@@ -43890,7 +43890,8 @@
   },
   "pharmacy intern - grad": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "part-time student worker system test engineer": {
     "t": true,
