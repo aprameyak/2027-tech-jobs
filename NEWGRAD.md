@@ -1,11 +1,15 @@
 # 🎓 New Grad 2027
 
-2570 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2574 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| NVIDIA | Research Scientist, Human‑AI Perception and Interaction Research - PhD New College Grad 2026 | US, CA, Santa Clara | Spring 2026 | PhD | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Human-AI-Perception-and-Interaction-Research---PhD-New-College-Grad-2026_JR2011804-1?utm_source=aprameyak) | Sep 16 |
+| Rakuten International | Early Career AI Engineer (Contract) | Bellevue, WA |  | Undergrad | [Apply](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437?utm_source=aprameyak) | Sep 16 |
+| SingleStore | Software Engineer-New Grad 2027 | United States | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8205389?utm_source=aprameyak) | Sep 16 |
+| ↳ | Software Engineer-New Grad 2027 | United States | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8205427?utm_source=aprameyak) | Sep 16 |
 | Atlassian 🛂 | Software Engineer, 2027 Graduate U.S. | Seattle, WA | Spring 2027 | Undergrad; Masters | [Apply](https://www.atlassian.com/company/careers/details/25813) | Sep 15 |
 | ↳ | Software Engineer, 2027 Graduate Canada | <details><summary>**3 locations**</summary>Burnaby, BC</br>Richmond, BC</br>Vancouver, BC</details> | Spring 2027 | Undergrad; Masters | [Apply](https://www.atlassian.com/company/careers/details/26070) | Sep 15 |
 | BMO Financial Group | Excellence in Action - Finance Rotation Program Associate (New Graduate Opportunity) | Toronto, ON, CAN |  | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Excellence-in-Action---Finance-Rotation-Program-Associate--New-Graduate-Opportunity-_R260022482-1?utm_source=aprameyak) | Sep 15 |

@@ -1,11 +1,21 @@
 # ☀️ Summer 2027 Internships
 
-2973 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2983 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Johnson & Johnson | Oncology TR Scientist Intern | Spring House, Pennsylvania, United States of America | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-TR-Scientist-Intern_R-099901?utm_source=aprameyak) | Sep 16 |
+| ↳ | Oncology Discovery Scientist Intern | Spring House, Pennsylvania, United States of America | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Discovery-Scientist-Intern_R-099898?utm_source=aprameyak) | Sep 16 |
+| ↳ | Oncology Clinical Scientist Intern | Spring House, Pennsylvania, United States of America | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Clinical-Scientist-Intern_R-099892?utm_source=aprameyak) | Sep 16 |
+| ↳ | Robotics Controls & Autonomy Intern - Robotics R&D | Santa Clara, California, United States of America | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1?utm_source=aprameyak) | Sep 16 |
+| ↳ | Clinical Engineering & Human Factors Intern - Robotics R&D | Santa Clara, California, United States of America | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Clinical-Engineering---Human-Factors-Intern---Robotics-R-D_R-099931?utm_source=aprameyak) | Sep 16 |
+| NVIDIA | PhD Research Intern, Generative AI for Physical AI - 2027 | US, CA, Santa Clara | PhD | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025?utm_source=aprameyak) | Sep 16 |
+| ↳ | Product Management MBA Intern, Data Center GPU - Summer 2027 | US, CA, Santa Clara | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1?utm_source=aprameyak) | Sep 16 |
+| Philips | Intern – R&D Engineer – Plymouth, MN – Summer 2027 | Plymouth, Minnesota, United States | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---R-D-Engineer---Plymouth--MN---Summer-2027_591610?utm_source=aprameyak) | Sep 16 |
+| ↳ | Intern – New Product Development Engineer – Colorado Springs, CO – Summer 2027 | Colorado Springs, Colorado, United States | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Colorado-Springs-Colorado-United-States/Intern---New-Product-Development-Engineer---Colorado-Springs--CO---Summer-2027_591779?utm_source=aprameyak) | Sep 16 |
+| SingleStore | Software Engineer Intern | United States | Undergrad | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8205514?utm_source=aprameyak) | Sep 16 |
 | 3M | Internship - 2027 Undergraduate Business Analytics Intern – Consumer Business Group (CBG) | Maplewood, MN | Undergrad | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049?utm_source=aprameyak) | Sep 15 |
 | Autodesk | Intern, Software Developer, Stagiaire en Développement Logiciel | Montreal, QC, CAN | Undergrad | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2?utm_source=aprameyak) | Sep 15 |
 | BlackRock | 2027 Quantitative Masters Internship Program - Sales & Relationship Management - Institutional Wealth - Chicago | Chicago, IL | Masters | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Chicago-IL/XMLNAME-2027-Quantitative-Masters-Internship-Program---Sales---Relationship-Management---Institutional-Wealth---Chicago_R266475?utm_source=aprameyak) | Sep 15 |
