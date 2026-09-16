@@ -19,8 +19,8 @@
 | 3M | Internship - 2027 Undergraduate Business Analytics Intern – Consumer Business Group (CBG) | Maplewood, MN | Undergrad | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049?utm_source=aprameyak) | Sep 15 |
 | Autodesk | Intern, Software Developer, Stagiaire en Développement Logiciel | Montreal, QC, CAN | Undergrad | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2?utm_source=aprameyak) | Sep 15 |
 | BlackRock | 2027 Quantitative Masters Internship Program - Sales & Relationship Management - Institutional Wealth - Chicago | Chicago, IL | Masters | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Chicago-IL/XMLNAME-2027-Quantitative-Masters-Internship-Program---Sales---Relationship-Management---Institutional-Wealth---Chicago_R266475?utm_source=aprameyak) | Sep 15 |
-| ↳ | 2027 MBA Internship Program - Client & Product Functions - Research & Markets Advisory - New York | New York, NY | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Research---Markets-Advisory---New-York_R266467?utm_source=aprameyak) | Sep 15 |
-| ↳ | 2027 MBA Internship Program - Client & Product Functions - Sales & Relationship Management - Institutional & Wealth - New York | New York, NY | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Sales---Relationship-Management---Institutional---Wealth---New-York_R266466?utm_source=aprameyak) | Sep 15 |
+| ↳ | 2027 MBA Internship Program - Client & Product Functions - Research & Markets Advisory - New York | New York, NY | Masters | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Research---Markets-Advisory---New-York_R266467?utm_source=aprameyak) | Sep 15 |
+| ↳ | 2027 MBA Internship Program - Client & Product Functions - Sales & Relationship Management - Institutional & Wealth - New York | New York, NY | Masters | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Sales---Relationship-Management---Institutional---Wealth---New-York_R266466?utm_source=aprameyak) | Sep 15 |
 | ↳ | 2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York | New York, NY | Masters | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468?utm_source=aprameyak) | Sep 15 |
 | ↳ | 2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - San Francisco | San Francisco, CA | Masters | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469?utm_source=aprameyak) | Sep 15 |
 | ↳ | 2027 Quantitative Masters Internship Program - Investments - Portfolio Management - Atlanta | Atlanta, GA | Masters | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---Atlanta_R266470?utm_source=aprameyak) | Sep 15 |
@@ -33,7 +33,7 @@
 | Cox Enterprises | Tax Technology Intern | Atlanta GA | Undergrad | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Tax-Technology-Intern_R202682421?utm_source=aprameyak) | Sep 15 |
 | ↳ | Business Analytics Intern | Atlanta GA | Undergrad | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Business-Analytics-Intern_R202682428?utm_source=aprameyak) | Sep 15 |
 | Datadog | Research Science Intern (PhD) | <details><summary>**2 locations**</summary>New York, NY</br>Pittsburgh, PA</details> | PhD | [Apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) | Sep 15 |
-| DoorDash | Software Engineer, Intern (Summer 2027) - US | <details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Los Angeles, CA</br>Seattle, WA</details> | Undergrad | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041?utm_source=aprameyak) | Sep 15 |
+| DoorDash | Software Engineer, Intern (Summer 2027) - US | <details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Los Angeles, CA</br>Seattle, WA</details> | Undergrad; Masters | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041?utm_source=aprameyak) | Sep 15 |
 | Duolingo | Associate Product Manager, Intern | Pittsburgh, PA | Undergrad | [Apply](https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002) | Sep 15 |
 | ↳ | Software Engineer, Intern | <details><summary>**6 locations**</summary>New York, NY</br>New York, NY</br>Pittsburgh, PA</br>Pittsburgh, PA</br>Seattle, WA</br>Seattle, WA</details> | Undergrad | [Apply](https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002) | Sep 15 |
 | ↳ | Software Engineer, Thrive Intern | Pittsburgh, PA | Undergrad | [Apply](https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002) | Sep 15 |
@@ -460,7 +460,7 @@
 | ↳ | Product Design Engineer Intern | San Mateo, California, United States | Undergrad | [Apply](https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f/application?utm_source=aprameyak) | Sep 4 |
 | T. Rowe Price | 2027 Digital Assets Strategy Internship Program | Baltimore, MD | Undergrad | [Apply](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Digital-Assets-Strategy-Internship-Program_83497?utm_source=aprameyak) | Sep 4 |
 | TransMarket Group | Junior Data Engineer | Chicago, Illinois, United States | Undergrad | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151492007?gh_jid=5151492007&utm_source=aprameyak) | Sep 4 |
-| Waymo | 2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer | San Francisco, CA | Undergrad | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8177651) | Sep 4 |
+| Waymo | 2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer | San Francisco, CA | Undergrad; Masters | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8177651) | Sep 4 |
 | Hermeus | Software Engineering Intern (Command & Control) - Spring/Summer | Atlanta, GA | Undergrad | [Apply](https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796?utm_source=aprameyak) | Sep 3 |
 | ↳ | GNC & Flight Software Intern - Spring/Summer | Atlanta, GA | Undergrad | [Apply](https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7?utm_source=aprameyak) | Sep 3 |
 | Motorola Solutions | Android Platform Software Engineering Intern | Plantation, FL, More... | Undergrad | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363?utm_source=aprameyak) | Sep 3 |
@@ -1812,7 +1812,7 @@
 | ↳ | Data Analyst Intern/Co-op | San Jose, CA | Undergrad | 🔒 | Sep 1 |
 | Apple | Software Engineer Intern, Undergrad | Remote (US) | Undergrad | 🔒 | Sep 1 |
 | Arthur J. Gallagher & Co. | Data Analytics Intern | Rolling Meadows, IL | Undergrad | 🔒 | Sep 1 |
-| Atoms | Software Engineer Intern | **5 locations**New York, NYSeattle, WALos Angeles, CAMountain View, CASan Francisco, CA | Undergrad | 🔒 | Sep 1 |
+| Atoms | Software Engineer Intern | <details><summary>**5 locations**</summary>New York, NY</br>Seattle, WA</br>Los Angeles, CA</br>Mountain View, CA</br>San Francisco, CA</details> | Undergrad | 🔒 | Sep 1 |
 | ↳ | Data Scientist Intern - Summer Games | Rome, NY | Undergrad | 🔒 | Sep 1 |
 | ↳ | AI RAN Telecommunications Engineer Intern | McLean, VA | Undergrad | 🔒 | Sep 1 |
 | C3.ai | Software Engineer Intern | Redwood City, CA | Undergrad | 🔒 | Sep 1 |
@@ -1822,7 +1822,7 @@
 | ↳ | Data Analyst Intern | Mclean, VA | Undergrad | 🔒 | Sep 1 |
 | ↳ | Community Product Management Intern | Oak Brook, IL | Undergrad | 🔒 | Sep 1 |
 | Citadel | Sector Data Scientist Intern | New York, NY | Undergrad | 🔒 | Sep 1 |
-| ↳ | Software Engineer Intern | **4 locations**New York, NYGreenwich, CTMiami, FLHouston, TX | Undergrad | 🔒 | Sep 1 |
+| ↳ | Software Engineer Intern | <details><summary>**4 locations**</summary>New York, NY</br>Greenwich, CT</br>Miami, FL</br>Houston, TX</details> | Undergrad | 🔒 | Sep 1 |
 | ↳ | UX/UI/Technical Content Intern | New York, NY | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Development Intern | Chicago, IL | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Development Intern | Chicago, IL | Undergrad | 🔒 | Sep 1 |

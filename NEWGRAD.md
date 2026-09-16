@@ -1166,7 +1166,7 @@
 | Dayton Freight Lines | Entry Level Software Developer | Dayton, OH |  | Undergrad | 🔒 | Sep 1 |
 | DeepGrove | ML Technical Staff | San Francisco, CA |  | Undergrad | 🔒 | Sep 1 |
 | Disney | Software Engineer I | Glendale, CANew York, NY |  | Undergrad | 🔒 | Sep 1 |
-| DoorDash | New Grad: Software Engineer I | **5 locations**New York, NYSan Francisco, CALos Angeles, CASeattle, WASunnyvale, CA | Spring 2025 | Undergrad | 🔒 | Sep 1 |
+| DoorDash | New Grad: Software Engineer I | <details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Los Angeles, CA</br>Seattle, WA</br>Sunnyvale, CA</details> | Spring 2025 | Undergrad | 🔒 | Sep 1 |
 | Duolingo | New Grad: Software Engineer | Pittsburgh, PA |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | New Grad: Data Scientist | Pittsburgh, PA |  | Undergrad | 🔒 | Sep 1 |
 | EBSCO | Software Dev Engineer I | Remote in |  | Undergrad | 🔒 | Sep 1 |
@@ -1211,7 +1211,7 @@
 | Nordstrom | Engineer 1 — Customer Experience Platform | Seattle, WA |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Engineer 1, Full Stack, Store POS+ Team | Seattle, WA |  | Undergrad | 🔒 | Sep 1 |
 | Nutanix | Software Engineer 1 / Early Career - Backend C++/Linux/AWS-S3 | Durham, NC |  | Undergrad | 🔒 | Sep 1 |
-| PayPal | New Grad: Software Engineer | **5 locations**San Jose, CAChicago, ILOmaha, NEScottsdale, AZAustin, TX |  | Undergrad | 🔒 | Sep 1 |
+| PayPal | New Grad: Software Engineer | <details><summary>**5 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>Austin, TX</details> |  | Undergrad | 🔒 | Sep 1 |
 | Pinterest | New Grad 2026: Software Engineer | Palo Alto, CASeattle, WASF | Spring 2026 | Undergrad | 🔒 | Sep 1 |
 | Planbase 🇺🇸 | Founding Engineer (Full-Stack) | San Francisco, CA |  | Undergrad | 🔒 | Sep 1 |
 | Publicis Groupe | Junior Data Analyst | Toronto, ON |  | Undergrad | 🔒 | Sep 1 |
@@ -1239,7 +1239,7 @@
 | Stamp 🇺🇸 | Founding Full Stack Engineer | San Francisco, CA |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Founding Machine Learning Engineer | San Francisco, CA |  | Undergrad | 🔒 | Sep 1 |
 | Stamp (W25) 🇺🇸 | Founding Mobile Engineer | San Francisco, CA |  | Undergrad | 🔒 | Sep 1 |
-| StarSling (X25) 🇺🇸 | New Grad: Full-Stack Software Engineer | **5 locations**San Francisco, CASan Mateo, CAPalo Alto, CAMenlo Park, CARedwood City, CA |  | Undergrad | 🔒 | Sep 1 |
+| StarSling (X25) 🇺🇸 | New Grad: Full-Stack Software Engineer | <details><summary>**5 locations**</summary>San Francisco, CA</br>San Mateo, CA</br>Palo Alto, CA</br>Menlo Park, CA</br>Redwood City, CA</details> |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | New Grad: Software Engineer | South San Francisco, CASeattle, WA |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer - New Grad | Seattle, WASF |  | Undergrad | 🔒 | Sep 1 |
 | Supernova Technology | Junior Software Engineer | Chicago, IL |  | Undergrad | 🔒 | Sep 1 |
