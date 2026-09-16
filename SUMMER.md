@@ -17,6 +17,7 @@
 | ↳ | Intern – New Product Development Engineer – Colorado Springs, CO – Summer 2027 | Colorado Springs, CO | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Colorado-Springs-Colorado-United-States/Intern---New-Product-Development-Engineer---Colorado-Springs--CO---Summer-2027_591779?utm_source=aprameyak) | Sep 16 |
 | SingleStore | Software Engineer Intern | Remote (US) | Undergrad | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8205514?utm_source=aprameyak) | Sep 16 |
 | 3M | Internship - 2027 Undergraduate Business Analytics Intern – Consumer Business Group (CBG) | Maplewood, MN | Undergrad | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049?utm_source=aprameyak) | Sep 15 |
+| Apple | Software Engineering Masters Internships | Remote (US) | Masters | [Apply](https://jobs.apple.com/en-us/details/200664320?utm_source=aprameyak) | Sep 15 |
 | Autodesk | Intern, Software Developer, Stagiaire en Développement Logiciel | Montreal, QC | Undergrad | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2?utm_source=aprameyak) | Sep 15 |
 | BlackRock | 2027 Quantitative Masters Internship Program - Sales & Relationship Management - Institutional Wealth - Chicago | Chicago, IL | Masters | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Chicago-IL/XMLNAME-2027-Quantitative-Masters-Internship-Program---Sales---Relationship-Management---Institutional-Wealth---Chicago_R266475?utm_source=aprameyak) | Sep 15 |
 | ↳ | 2027 MBA Internship Program - Client & Product Functions - Research & Markets Advisory - New York | New York, NY | Masters | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Research---Markets-Advisory---New-York_R266467?utm_source=aprameyak) | Sep 15 |
@@ -2975,3 +2976,4 @@
 | Scale AI | AI Builder Intern | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> | Undergrad | 🔒 | Jul 7 |
 | ↳ | Quantitative Trader Intern, PhD | New York, NY | PhD | 🔒 | Jul 7 |
 <!-- TABLE_END summer -->
+-->
