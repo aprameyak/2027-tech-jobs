@@ -492,7 +492,6 @@
 | Inductive Automation | Software Engineer 1 | Folsom, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/inductive-automation-llc/5413d62b-1f0c-4592-9ce6-b6f261674ecb/application?embed=true&utm_source=aprameyak) | Aug 28 |
 | KBR | Junior Data Engineer | Chantilly, VA |  | Undergrad | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer--JR_R2128783?utm_source=aprameyak) | Aug 28 |
 | Koah | Software Engineer - Early Career | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808/application?embed=true&utm_source=aprameyak) | Aug 28 |
-| Lennar | Software Engineer 1 | <details><summary>**2 locations**</summary>Miami, FL</br>Irving, TX</details> |  | Undergrad | [Apply](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003608?utm_source=aprameyak) | Aug 28 |
 | LMI | Junior Android Engineer - RFID | Remote (US) |  | Undergrad | [Apply](https://careers-lmi.icims.com/jobs/14418/job?mobile=true&needsRedirect=false&utm_source=aprameyak) | Aug 28 |
 | Mach Industries | Software Engineer New Grad - Software - GNC | Huntington Beach, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb/application?embed=true&utm_source=aprameyak) | Aug 28 |
 | Maximor AI | Software Engineer New Grad | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true&utm_source=aprameyak) | Aug 28 |

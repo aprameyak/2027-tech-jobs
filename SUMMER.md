@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-2970 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2971 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -15,6 +15,7 @@
 | ↳ | Product Management MBA Intern, Data Center GPU - Summer 2027 | Santa Clara, CA | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1?utm_source=aprameyak) | Sep 16 |
 | Philips | Intern – R&D Engineer – Plymouth, MN – Summer 2027 | Plymouth, MN | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---R-D-Engineer---Plymouth--MN---Summer-2027_591610?utm_source=aprameyak) | Sep 16 |
 | ↳ | Intern – New Product Development Engineer – Colorado Springs, CO – Summer 2027 | Colorado Springs, CO | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Colorado-Springs-Colorado-United-States/Intern---New-Product-Development-Engineer---Colorado-Springs--CO---Summer-2027_591779?utm_source=aprameyak) | Sep 16 |
+| RTX | Software Engineering Intern (Summer 2027) | ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D, FL | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01874926?utm_source=aprameyak) | Sep 16 |
 | SingleStore | Software Engineer Intern | Remote (US) | Undergrad | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8205514?utm_source=aprameyak) | Sep 16 |
 | 3M | Internship - 2027 Undergraduate Business Analytics Intern – Consumer Business Group (CBG) | Maplewood, MN | Undergrad | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049?utm_source=aprameyak) | Sep 15 |
 | Adobe | Software Engineer Intern | <details><summary>**7 locations**</summary>Seattle, WA</br>San Francisco, CA</br>Austin, TX</br>San Jose, CA</br>Waltham, MA</br>New York, NY</br>Lehi, UT</details> | Undergrad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666?utm_source=aprameyak) | Sep 15 |
