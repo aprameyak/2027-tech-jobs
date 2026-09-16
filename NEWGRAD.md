@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-2588 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2590 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -41,6 +41,8 @@
 | ↳ | 2027 BNY Analyst Program - Engineering (Data Science) | Pittsburgh, PA | Spring 2027 | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246) | Sep 16 |
 | ↳ | 2027 BNY Analyst Program - Product Management | New York, NY | Spring 2027 | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80895) | Sep 16 |
 | ↳ | 2027 BNY Analyst Program - Trading | New York, NY | Spring 2027 | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80897) | Sep 16 |
+| Disney | Associate Data Analyst | Burbank, CA |  | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Associate-Data-Analyst_10159853?utm_source=aprameyak) | Sep 16 |
+| HNTB | New Grad Engineer I: Rail & Transit – Summer 2027 | Chelmsford, MA (Lexington) | Summer 2027 | Undergrad | [Apply](https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Chelmsford-MA-Lexington/New-Grad-Engineer-I--Rail---Transit---Summer-2027_R-31631?utm_source=aprameyak) | Sep 16 |
 | NVIDIA | Research Scientist, Human‑AI Perception and Interaction Research - PhD New College Grad 2026 | Santa Clara, CA | Spring 2026 | PhD | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Human-AI-Perception-and-Interaction-Research---PhD-New-College-Grad-2026_JR2011804-1?utm_source=aprameyak) | Sep 16 |
 | Rakuten International | Early Career AI Engineer (Contract) | Bellevue, WA |  | Undergrad | [Apply](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437?utm_source=aprameyak) | Sep 16 |
 | SingleStore | Software Engineer-New Grad 2027 | Remote (US) | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8205389?utm_source=aprameyak) | Sep 16 |

@@ -1,17 +1,23 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-554 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+560 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Baker Hughes | Intern/Co-op - Field Engineering - Spring 2027 Opportunities | BROUSSARD-1064 BAKER HUGHES DR, LA | Co-op | Undergrad | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/US-LA-BROUSSARD-1064-BAKER-HUGHES-DR/Intern-Co-op---Field-Engineering---Spring-2027-Opportunities_R169112?utm_source=aprameyak) | Sep 16 |
+| ↳ | Intern/Co-op - Field Engineering - Spring 2027 Opportunities | HOUSTON-11150 EQUITY DRIVE, TX | Co-op | Undergrad | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/US-TX-HOUSTON-11150-EQUITY-DRIVE/Intern-Co-op---Field-Engineering---Spring-2027-Opportunities_R169120?utm_source=aprameyak) | Sep 16 |
 | BMO Financial Group | AI Intern, Winter 2027 (Internship) - 4 months | Chicago, IL | Winter 2027 | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/AI-Intern--Winter-2027--Internship----4-months_R260026562-3?utm_source=aprameyak) | Sep 16 |
+| Ciena | AI Engineer Intern (Winter 2027) | Ottawa, ON | Winter 2027 | Undergrad | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/AI-Engineer-Intern--Winter-2027-_R031667?utm_source=aprameyak) | Sep 16 |
 | Disney | Infrastructure Services Intern, Spring 2027 | Burbank, CA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957?utm_source=aprameyak) | Sep 16 |
 | Johnson & Johnson | Product Management Co-Op | Jacksonville, FL | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Product-Management-Co-Op_R-098262?utm_source=aprameyak) | Sep 16 |
 | ↳ | Business Excellence Engineer Co-Op | Gurabo, PR | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Business-Excellence-Engineer-Co-Op_R-097386?utm_source=aprameyak) | Sep 16 |
 | Marmon Holdings | Sales Engineering Co-op: Medical and Laboratory (Spring 2027) | USA_TN_Mt. Juliet_100 Mundy Memorial Dr. | Co-op | Undergrad | [Apply](https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_MSIP_Internships/job/USA_TN_Mt-Juliet_100-Mundy-Memorial-Dr/Sales-Engineering-Co-op--Spring-2026-_JR0000045807?utm_source=aprameyak) | Sep 16 |
 | ↳ | Sales Engineering Co-op: Transportation (Spring 2027) | USA_TN_Mt. Juliet_100 Mundy Memorial Dr. | Co-op | Undergrad | [Apply](https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_MSIP_Internships/job/USA_TN_Mt-Juliet_100-Mundy-Memorial-Dr/Sales-Engineering-Co-op--Transportation--Spring-2027-_JR0000045819-1?utm_source=aprameyak) | Sep 16 |
+| Rocket Lab | Security Analyst Intern Spring 2027 | Albuquerque, NM | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986872003?utm_source=aprameyak) | Sep 16 |
+| ↳ | Security Analyst Intern Spring 2027 | Wallops Island, VA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986959003?utm_source=aprameyak) | Sep 16 |
+| ↳ | Security Analyst Intern Spring 2027 | Long Beach, CA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986954003?utm_source=aprameyak) | Sep 16 |
 | RTX | Certification Engineering Co-op (Summer/Fall 2027) | WINSTON SALEM-190 ~ 190 Oak Plaza Blvd ~ BLDG 190, NC | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-NC-WINSTON-SALEM-190--190-Oak-Plaza-Blvd--BLDG-190/Certification-Engineering-Co-op--Summer-Fall-2027-_01874662?utm_source=aprameyak) | Sep 16 |
 | ↳ | Software Engineering Co-op (Winter/Spring 2027) | CEDAR RAPIDS-124 ~ 400 Collins Rd NE ~ BLDG 124, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464?utm_source=aprameyak) | Sep 16 |
 | The Mosaic Company | Operations Engineering Co-op/Intern - Summer 2027 | US - Bartow, FL | Co-op | Undergrad | [Apply](https://mosaic.wd5.myworkdayjobs.com/en-US/mosaic/job/US---Bartow-FL/Operations-Engineering-Co-op-Intern_64862?utm_source=aprameyak) | Sep 16 |
