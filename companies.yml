@@ -728,14 +728,14 @@ workday:
   tenant: bakerhughes
   instance: wd5
   board: BakerHughes
-- name: Barry-Wehmiller
-  tenant: barrywehmiller
-  instance: wd1
-  board: BWConfidential
 - name: Barclays
   tenant: barclays
   instance: wd3
   board: External_Career_Site_Barclays
+- name: Barry-Wehmiller
+  tenant: barrywehmiller
+  instance: wd1
+  board: BWConfidential
 - name: BlackRock
   tenant: blackrock
   instance: wd1

@@ -81,8 +81,8 @@ Axos Bank
 Babel Street
 Backbone Systems
 Baker Hughes
-Barry-Wehmiller
 Barclays
+Barry-Wehmiller
 Base Power Company
 Beacon Software
 Belvedere Trading
