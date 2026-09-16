@@ -53409,5 +53409,15 @@
     "t": true,
     "c": "medium",
     "a": 1
+  },
+  "ai/machine learning engineering intern": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "full stack software engineering intern": {
+    "t": true,
+    "c": "high",
+    "a": 1
   }
 }
