@@ -44488,7 +44488,8 @@
   },
   "software engineer intern": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "associate software engineer \u2014 cloud services & api platform (c#/azure track)": {
     "t": true,
@@ -53361,5 +53362,15 @@
     "t": true,
     "c": "high",
     "a": 1
+  },
+  "software engineer-new grad 2027": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "product manager: new grad accelerator": {
+    "t": false,
+    "c": "high",
+    "a": 0
   }
 }
