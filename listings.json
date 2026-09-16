@@ -75344,6 +75344,18 @@
   },
   {
     "company": "Apple",
+    "role": "Software Undergrad Engineering Internships",
+    "location": "Remote (US)",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.apple.com/en-us/details/200664785?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-09-15"
+  },
+  {
+    "company": "Apple",
     "role": "Software Engineering Masters Internships",
     "location": "Remote (US)",
     "type": "summer",
@@ -75354,5 +75366,4 @@
     "citizenship": "No",
     "date_added": "2026-09-15"
   }
-] }
 ]
