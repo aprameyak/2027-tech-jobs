@@ -51983,7 +51983,8 @@
   },
   "data engineer intern": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "accelerations programs intern": {
     "t": false,
