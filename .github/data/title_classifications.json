@@ -37328,7 +37328,8 @@
   },
   "machine maintenance associate (starlink)": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "machine maintenance specialist, solar cells (starlink)": {
     "t": false,
