@@ -43644,7 +43644,8 @@
   },
   "cyberspace operations planner, junior": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "junior energy advisor": {
     "t": false,
