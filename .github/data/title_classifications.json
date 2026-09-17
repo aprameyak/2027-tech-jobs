@@ -43884,7 +43884,8 @@
   },
   "technology product analyst intern": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "intern - project management - facilities": {
     "t": false,
@@ -47848,7 +47849,8 @@
   },
   "r&d food science co-op - fall term": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "r&d food science co-op - spring term": {
     "t": false,
