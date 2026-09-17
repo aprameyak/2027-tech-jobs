@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-570 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+571 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -10,6 +10,7 @@
 | Johnson & Johnson | Spring 2027 Biomaterials Research Co-op | Warsaw, IN | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Warsaw-Indiana-United-States-of-America/Spring-2027-Biomaterials-Research-Co-op_R-097640?utm_source=aprameyak) | Sep 17 |
 | ↳ | Process Excellence & AI Co-op | Milpitas, CA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Milpitas-California-United-States-of-America/Process-Excellence---AI-Co-op_R-099367?utm_source=aprameyak) | Sep 17 |
 | Rocket Lab | Security Analyst Intern Spring 2027 | Middle River, MD | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986965003?utm_source=aprameyak) | Sep 17 |
+| Rockwell Automation | Co-op, User Experience - Robotics (OTTO by Rockwell Automation) | Waterloo, ON | Co-op | Undergrad | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-6732-1?utm_source=aprameyak) | Sep 17 |
 | RTX | Project Engineering Co-op (Winter/Spring 2027) | TROY-101 ~ 101 Waco St ~ WACO, OH | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Co-op--Winter-Spring-2027-_01874635?utm_source=aprameyak) | Sep 17 |
 | ↳ | Project Engineering Co-op (Summer/Fall 2027) | TROY-101 ~ 101 Waco St ~ WACO, OH | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Co-op--Summer-Fall-2027-_01874650?utm_source=aprameyak) | Sep 17 |
 | SharkNinja | Applied AI & Analytics Co-op Opportunities | <details><summary>**3 locations**</summary>Miami, FL</br>Needham, MA</br>New York, NY</details> | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713793006?utm_source=aprameyak) | Sep 17 |
