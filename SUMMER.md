@@ -1,20 +1,23 @@
 # ☀️ Summer 2027 Internships
 
-3036 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+3039 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | Amazon | Solutions Architect Intern, AWSI - 2027 | US, TX, Dallas | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10550494/solutions-architect-intern-awsi-2027) | Sep 17 |
+| ↳ | Software Development Engineer Internship - Summer -2027 (USA) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa) | Sep 17 |
 | Autodesk | Intern, Software Developer/ Stagiaire en Développement Logiciel | Montreal, QC, CAN | Undergrad | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1?utm_source=aprameyak) | Sep 17 |
 | Copart | Technology Product Analyst Intern | Dallas, TX - Headquarters | Undergrad | [Apply](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR111532?utm_source=aprameyak) | Sep 17 |
 | Geneva Trading | AI Engineer Internship - Summer 2027 | Chicago Office | Undergrad | [Apply](https://job-boards.greenhouse.io/genevatrading/jobs/5240107007?utm_source=aprameyak) | Sep 17 |
 | IEX | Data Engineer Intern | New York | Undergrad | [Apply](https://job-boards.greenhouse.io/iex-interns/jobs/8210998?utm_source=aprameyak) | Sep 17 |
+| Johnson & Johnson | R&D Intern - Biostatistics | Jacksonville, FL | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/R-D-Intern---Biostatistics_R-099394?utm_source=aprameyak) | Sep 17 |
 | LSEG | Engineering Summer Internship Programme | Greater Charlotte Area, United States | Undergrad | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Greater-Charlotte-Area-United-States/Engineering-Summer-Internship-Programme_R0123571-1?utm_source=aprameyak) | Sep 17 |
 | ↳ | Engineering Summer Internship Programme | Boston, MA | Undergrad | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-2?utm_source=aprameyak) | Sep 17 |
 | ↳ | Engineering Summer Internship Programme | New York City, United States | Undergrad | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569-1?utm_source=aprameyak) | Sep 17 |
 | Manulife | Summer Intern 2027 - Infrastructure Equity Internship | Toronto, ON | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Infrastructure-Equity-Internship_JR26081107?utm_source=aprameyak) | Sep 17 |
+| ↳ | Summer Intern 2027 - Software Engineering (12 Months) | Waterloo, ON | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053?utm_source=aprameyak) | Sep 17 |
 | Marvell Technology | SRAM Software Engineer Intern, BS - Summer 2027 | Burlington, VT | Undergrad | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1?utm_source=aprameyak) | Sep 17 |
 | Northwestern Mutual | Investment Data & Analytics Intern, Summer 2027 | Milwaukee, WI Corporate | Undergrad | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/en-US/CORPORATE-CAREERS/job/Milwaukee-WI-Corporate/Investment-Data---Analytics-Intern--Summer-2027_JR-46050?utm_source=aprameyak) | Sep 17 |
 | Rocket Lab | Security Analyst Intern Summer 2027 | Middle River, MD | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986963003?utm_source=aprameyak) | Sep 17 |
