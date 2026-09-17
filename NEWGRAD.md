@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-2592 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2593 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -8,6 +8,7 @@
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | Bloomberg | Bloomberg Intelligence Strategic Data & Content Associate (12 Months Contract) | United States |  | Undergrad | [Apply](https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-Strategic-Data-Content-Associate-12-Months-Contract/22127) | Sep 17 |
 | CoStar Group | Associate Software Engineer - San Diego, CA | San Diego, CA |  | Undergrad | [Apply](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R39674?utm_source=aprameyak) | Sep 17 |
+| Peraton | Junior Data Engineer / Active Secret | <details><summary>**2 locations**</summary>Beltsville, MD</br>Washington, DC</details> |  | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/170925/junior-data-engineer---active-secret/job) | Sep 17 |
 | American Express | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services | New York, NY |  | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796) | Sep 16 |
 | ↳ | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services | Charlotte, NC |  | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012869) | Sep 16 |
 | ↳ | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services | Sunrise, FL |  | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012801) | Sep 16 |

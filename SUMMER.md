@@ -1,14 +1,23 @@
 # ☀️ Summer 2027 Internships
 
-3020 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+3029 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | Amazon | Solutions Architect Intern, AWSI - 2027 | US, TX, Dallas | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10550494/solutions-architect-intern-awsi-2027) | Sep 17 |
+| Autodesk | Intern, Software Developer/ Stagiaire en Développement Logiciel | Montreal, QC, CAN | Undergrad | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1?utm_source=aprameyak) | Sep 17 |
+| Copart | Technology Product Analyst Intern | Dallas, TX - Headquarters | Undergrad | [Apply](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR111532?utm_source=aprameyak) | Sep 17 |
+| IEX | Data Engineer Intern | New York | Undergrad | [Apply](https://job-boards.greenhouse.io/iex-interns/jobs/8210998?utm_source=aprameyak) | Sep 17 |
+| Manulife | Summer Intern 2027 - Infrastructure Equity Internship | Toronto, ON | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Infrastructure-Equity-Internship_JR26081107?utm_source=aprameyak) | Sep 17 |
 | Rocket Lab | Security Analyst Intern Summer 2027 | Middle River, MD | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986963003?utm_source=aprameyak) | Sep 17 |
 | RTX | Project Engineering Intern (Summer 2027) | TROY-101 ~ 101 Waco St ~ WACO, OH | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Intern--Summer-2027-_01874642?utm_source=aprameyak) | Sep 17 |
+| ↳ | Software Development Intern (Summer 2027) | TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord, MA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01875413?utm_source=aprameyak) | Sep 17 |
+| SharkNinja | Applied AI & Analytics Intern Opportunities | <details><summary>**2 locations**</summary>Miami, FL</br>Needham, MA</details> | Undergrad | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713808006?utm_source=aprameyak) | Sep 17 |
+| ↳ | Engineering & Technology Intern Opportunities | Needham, MA | Undergrad | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713857006?utm_source=aprameyak) | Sep 17 |
+| ↳ | Product Design Engineering Intern Opportunities | Needham, MA | Undergrad | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006?utm_source=aprameyak) | Sep 17 |
+| ↳ | Product Development, Design & Consumer Insights Intern Opportunities | Needham, MA | Undergrad | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713878006?utm_source=aprameyak) | Sep 17 |
 | AeroVironment | Test Product Engineering Intern | Simi Valley, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Test-Product-Engineering-Intern_8537?utm_source=aprameyak) | Sep 16 |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Pricing Strategy, Global Merchant & Network Services - New York, NY | New York, NY | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012154) | Sep 16 |
 | ↳ | Campus Undergraduate Summer Internship Program - 2027 Product & Capabilities, Enterprise Shared Services- New York, NY | New York, NY | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012228) | Sep 16 |
