@@ -39,7 +39,15 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs_greenhouse.json .github/data/title_classifications.json .github/data/claude_usage_greenhouse.json .github/data/followed_companies.json .github/data/pending_greenhouse.json
+          for f in \
+            .github/data/seen_jobs_greenhouse.json \
+            .github/data/title_classifications.json \
+            .github/data/claude_usage_greenhouse.json \
+            .github/data/followed_companies.json \
+            .github/data/pending_greenhouse.json
+          do
+            [ -e "$f" ] && git add "$f"
+          done
           if ! git diff --staged --quiet; then
             git commit -m "scraper data: greenhouse"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
@@ -69,7 +77,14 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs_ashby.json .github/data/title_classifications.json .github/data/claude_usage_ashby.json .github/data/pending_ashby.json
+          for f in \
+            .github/data/seen_jobs_ashby.json \
+            .github/data/title_classifications.json \
+            .github/data/claude_usage_ashby.json \
+            .github/data/pending_ashby.json
+          do
+            [ -e "$f" ] && git add "$f"
+          done
           if ! git diff --staged --quiet; then
             git commit -m "scraper data: ashby"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
@@ -99,7 +114,14 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs_workday.json .github/data/title_classifications.json .github/data/claude_usage_workday.json .github/data/pending_workday.json
+          for f in \
+            .github/data/seen_jobs_workday.json \
+            .github/data/title_classifications.json \
+            .github/data/claude_usage_workday.json \
+            .github/data/pending_workday.json
+          do
+            [ -e "$f" ] && git add "$f"
+          done
           if ! git diff --staged --quiet; then
             git commit -m "scraper data: workday"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
@@ -130,7 +152,14 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs_linkedin_amazon.json .github/data/title_classifications.json .github/data/claude_usage_linkedin_amazon.json .github/data/pending_linkedin_amazon.json
+          for f in \
+            .github/data/seen_jobs_linkedin_amazon.json \
+            .github/data/title_classifications.json \
+            .github/data/claude_usage_linkedin_amazon.json \
+            .github/data/pending_linkedin_amazon.json
+          do
+            [ -e "$f" ] && git add "$f"
+          done
           if ! git diff --staged --quiet; then
             git commit -m "scraper data: linkedin_amazon"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
@@ -160,7 +189,14 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs_oracle.json .github/data/title_classifications.json .github/data/claude_usage_oracle.json .github/data/pending_oracle.json
+          for f in \
+            .github/data/seen_jobs_oracle.json \
+            .github/data/title_classifications.json \
+            .github/data/claude_usage_oracle.json \
+            .github/data/pending_oracle.json
+          do
+            [ -e "$f" ] && git add "$f"
+          done
           if ! git diff --staged --quiet; then
             git commit -m "scraper data: oracle"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
@@ -190,7 +226,14 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add .github/data/seen_jobs_other.json .github/data/title_classifications.json .github/data/claude_usage_other.json .github/data/pending_other.json
+          for f in \
+            .github/data/seen_jobs_other.json \
+            .github/data/title_classifications.json \
+            .github/data/claude_usage_other.json \
+            .github/data/pending_other.json
+          do
+            [ -e "$f" ] && git add "$f"
+          done
           if ! git diff --staged --quiet; then
             git commit -m "scraper data: other"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
