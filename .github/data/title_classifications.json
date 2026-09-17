@@ -45353,7 +45353,8 @@
   },
   "commercial banking advisor intern": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "full-stack developer (junior) - java/oracle/mongo/spring/angular": {
     "t": true,
@@ -49902,7 +49903,8 @@
   },
   "2027 winter co-op - maintenance group leader ga": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "2027 winter co-op mechatronic infrastructure diagnostic systems": {
     "t": true,
