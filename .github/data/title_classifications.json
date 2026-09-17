@@ -49144,7 +49144,8 @@
   },
   "mission operator - entry level": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "summer 2027 internship - environmental, health & safety (ehs)": {
     "t": false,
@@ -54619,5 +54620,10 @@
     "t": false,
     "c": "low",
     "a": 0
+  },
+  "junior data engineer / active secret": {
+    "t": true,
+    "c": "high",
+    "a": 1
   }
 }
