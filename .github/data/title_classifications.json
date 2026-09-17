@@ -50913,7 +50913,8 @@
   },
   "research engineer / research scientist, robotics and physical ai": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "credit & fraud analytics intern (winter 2027)": {
     "t": true,
