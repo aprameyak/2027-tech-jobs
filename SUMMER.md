@@ -1,11 +1,14 @@
 # ☀️ Summer 2027 Internships
 
-3017 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+3020 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Amazon | Solutions Architect Intern, AWSI - 2027 | US, TX, Dallas | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10550494/solutions-architect-intern-awsi-2027) | Sep 17 |
+| Rocket Lab | Security Analyst Intern Summer 2027 | Middle River, MD | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986963003?utm_source=aprameyak) | Sep 17 |
+| RTX | Project Engineering Intern (Summer 2027) | TROY-101 ~ 101 Waco St ~ WACO, OH | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Intern--Summer-2027-_01874642?utm_source=aprameyak) | Sep 17 |
 | AeroVironment | Test Product Engineering Intern | Simi Valley, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Test-Product-Engineering-Intern_8537?utm_source=aprameyak) | Sep 16 |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Pricing Strategy, Global Merchant & Network Services - New York, NY | New York, NY | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012154) | Sep 16 |
 | ↳ | Campus Undergraduate Summer Internship Program - 2027 Product & Capabilities, Enterprise Shared Services- New York, NY | New York, NY | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012228) | Sep 16 |

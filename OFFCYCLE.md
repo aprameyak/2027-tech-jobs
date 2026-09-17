@@ -1,11 +1,16 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-560 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+565 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Ancestry | Data Science - AI Document Understanding, Co-op | Remote (US) | Co-op | Undergrad | [Apply](https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449?utm_source=aprameyak) | Sep 17 |
+| Johnson & Johnson | Spring 2027 Biomaterials Research Co-op | Warsaw, IN | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Warsaw-Indiana-United-States-of-America/Spring-2027-Biomaterials-Research-Co-op_R-097640?utm_source=aprameyak) | Sep 17 |
+| Rocket Lab | Security Analyst Intern Spring 2027 | Middle River, MD | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986965003?utm_source=aprameyak) | Sep 17 |
+| RTX | Project Engineering Co-op (Winter/Spring 2027) | TROY-101 ~ 101 Waco St ~ WACO, OH | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Co-op--Winter-Spring-2027-_01874635?utm_source=aprameyak) | Sep 17 |
+| ↳ | Project Engineering Co-op (Summer/Fall 2027) | TROY-101 ~ 101 Waco St ~ WACO, OH | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Co-op--Summer-Fall-2027-_01874650?utm_source=aprameyak) | Sep 17 |
 | Baker Hughes | Intern/Co-op - Field Engineering - Spring 2027 Opportunities | BROUSSARD-1064 BAKER HUGHES DR, LA | Co-op | Undergrad | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/US-LA-BROUSSARD-1064-BAKER-HUGHES-DR/Intern-Co-op---Field-Engineering---Spring-2027-Opportunities_R169112?utm_source=aprameyak) | Sep 16 |
 | ↳ | Intern/Co-op - Field Engineering - Spring 2027 Opportunities | HOUSTON-11150 EQUITY DRIVE, TX | Co-op | Undergrad | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/US-TX-HOUSTON-11150-EQUITY-DRIVE/Intern-Co-op---Field-Engineering---Spring-2027-Opportunities_R169120?utm_source=aprameyak) | Sep 16 |
 | BMO Financial Group | AI Intern, Winter 2027 (Internship) - 4 months | Chicago, IL | Winter 2027 | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/AI-Intern--Winter-2027--Internship----4-months_R260026562-3?utm_source=aprameyak) | Sep 16 |
