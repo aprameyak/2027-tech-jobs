@@ -15,7 +15,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 - [☀️ Summer 2027 Internships](./SUMMER.md) (3020)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (565)
-- [🎓 New Grad 2027](./NEWGRAD.md) (2590)
+- [🎓 New Grad 2027](./NEWGRAD.md) (2592)
 
 ---
 
