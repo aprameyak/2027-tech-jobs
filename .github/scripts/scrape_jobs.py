@@ -9,7 +9,6 @@ import html as _html
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
-import anthropic
 import requests
 import yaml
 from pathlib import Path
@@ -376,6 +375,7 @@ def _get_claude_client():
     if not api_key:
         return None
     if _claude_client is None:
+        import anthropic
         _claude_client = anthropic.Anthropic(api_key=api_key)
     return _claude_client
 

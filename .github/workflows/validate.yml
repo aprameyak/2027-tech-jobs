@@ -34,6 +34,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+      - name: Install test dependencies
+        run: pip install requests pyyaml
       - name: Validate listings
         run: python .github/scripts/validate_listings.py
       - name: Quality / regression gate
