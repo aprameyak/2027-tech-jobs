@@ -1,11 +1,12 @@
 # ☀️ Summer 2027 Internships
 
-3039 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+3040 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| XPENG Motors | AI Research Intern – Predictive World Model | Santa Clara, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002?utm_source=aprameyak) | Sep 18 |
 | Amazon | Solutions Architect Intern, AWSI - 2027 | US, TX, Dallas | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10550494/solutions-architect-intern-awsi-2027) | Sep 17 |
 | ↳ | Software Development Engineer Internship - Summer -2027 (USA) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa) | Sep 17 |
 | Autodesk | Intern, Software Developer/ Stagiaire en Développement Logiciel | Montreal, QC, CAN | Undergrad | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1?utm_source=aprameyak) | Sep 17 |
