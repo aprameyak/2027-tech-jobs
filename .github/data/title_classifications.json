@@ -54827,5 +54827,10 @@
     "t": false,
     "c": "low",
     "a": 0
+  },
+  "member of technical staff, ai products (early career)": {
+    "t": true,
+    "c": "high",
+    "a": 1
   }
 }
