@@ -1,11 +1,13 @@
 # 🎓 New Grad 2027
 
-2599 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2601 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| AIG | 2027 Early Careers: Analyst, Gen AI Engineering – United States, Atlanta, GA | GA-Atlanta | Spring 2027 | Undergrad | [Apply](https://aig.wd1.myworkdayjobs.com/en-US/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI-Data-Engineering---United-States--Atlanta--GA_JR2603744-1?utm_source=aprameyak) | Sep 18 |
+| Boeing | Entry Level ASIC/FPGA Design Engineer – Space Electronics - MTV | USA - Mountain View, CA |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433-1?utm_source=aprameyak) | Sep 18 |
 | CACI | Junior Engineer - Various Disciplines | Washington, DC, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Washington-DC-US/Junior-Engineer---Various-Disciplines_323041?utm_source=aprameyak) | Sep 18 |
 | KBR | Junior Software Developer | Beavercreek Township, OH |  | Undergrad | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Township-Ohio/Junior-Software-Developer_R2130253?utm_source=aprameyak) | Sep 18 |
 | Northrop Grumman | Associate Software Engineer / Software Engineer | United States-Alabama-Huntsville |  | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10249088?utm_source=aprameyak) | Sep 18 |
