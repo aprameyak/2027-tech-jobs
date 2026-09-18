@@ -44276,7 +44276,8 @@
   },
   "student engagement specialist": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "administrative graduate assistant (aga) for school of education": {
     "t": false,
@@ -51865,7 +51866,8 @@
   },
   "commercial banking intern / co-op (winter 2027)": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "governance & control intern / co-op (winter 2027)": {
     "t": false,
