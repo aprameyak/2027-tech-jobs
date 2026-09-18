@@ -45064,11 +45064,13 @@
   },
   "business development representative intern  (summer 2027 internship)": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "it system administrator intern  (summer 2027 internship)": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "client alignment representative future  (summer 2027 internship)": {
     "t": false,
@@ -54684,6 +54686,56 @@
   "mba finance & accounting rotation program (2027 graduates) ": {
     "t": false,
     "c": "high",
+    "a": 0
+  },
+  "marketing program coordinator intern (summer 2027 internship": {
+    "t": false,
+    "c": "high",
+    "a": 0
+  },
+  "flight controls systems engineering intern (summer 2027) - onsite": {
+    "t": false,
+    "c": "high",
+    "a": 0
+  },
+  "production associate (waltham, ma)": {
+    "t": false,
+    "c": "low",
+    "a": 0
+  },
+  "kabc-tv (abc7) broadcast technology/it intern, spring 2027": {
+    "t": true,
+    "c": "high",
+    "a": 0
+  },
+  "kgo-tv (abc7) 7 on your side intern, spring 2027": {
+    "t": false,
+    "c": "low",
+    "a": 0
+  },
+  "kgo-tv (abc7) assignment desk news intern, spring 2027": {
+    "t": false,
+    "c": "low",
+    "a": 0
+  },
+  "sales operations intern(summer 2027 internship)": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "client experience- program coordinator intern(summer 2027 internship)": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "revenue cycle management (rcm) operations analyst intern(summer 2027 internship)": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "flight controls systems intern (summer 2027) - onsite": {
+    "t": false,
+    "c": "low",
     "a": 0
   }
 }
