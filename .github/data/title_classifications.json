@@ -44376,7 +44376,8 @@
   },
   "junior software developer": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "junior software engineer  (swe0)": {
     "t": true,
@@ -54736,6 +54737,81 @@
   "flight controls systems intern (summer 2027) - onsite": {
     "t": false,
     "c": "low",
+    "a": 0
+  },
+  "associate software engineer / software engineer": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "intern/co-op - finance- spring 2027 opportunities": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "junior engineer - various disciplines": {
+    "t": true,
+    "c": "medium",
+    "a": 1
+  },
+  "disney live entertainment character content creator intern, spring 2027": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "transportation planning intern - summer 2027": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "hp salesedge rotational internship job description": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "phd research intern": {
+    "t": true,
+    "c": "medium",
+    "a": 1
+  },
+  "research engineer intern": {
+    "t": true,
+    "c": "medium",
+    "a": 1
+  },
+  "naval architecture intern": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "student, franchise part time day": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "carvery student part time day": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "(palm) and artificial intelligence co-op": {
+    "t": true,
+    "c": "medium",
+    "a": 1
+  },
+  "get co-op": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "innovation excellence co-op": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "assurance intern- summer 2027": {
+    "t": false,
+    "c": "medium",
     "a": 0
   }
 }
