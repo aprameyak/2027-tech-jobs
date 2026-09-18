@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-2597 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2599 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -9,6 +9,8 @@
 | CACI | Junior Engineer - Various Disciplines | Washington, DC, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Washington-DC-US/Junior-Engineer---Various-Disciplines_323041?utm_source=aprameyak) | Sep 18 |
 | KBR | Junior Software Developer | Beavercreek Township, OH |  | Undergrad | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Township-Ohio/Junior-Software-Developer_R2130253?utm_source=aprameyak) | Sep 18 |
 | Northrop Grumman | Associate Software Engineer / Software Engineer | United States-Alabama-Huntsville |  | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10249088?utm_source=aprameyak) | Sep 18 |
+| SteerBridge | Junior Data Engineer | Vienna, VA |  | Undergrad | [Apply](https://jobs.lever.co/steerbridge/a49cfd8c-c7ec-4378-9233-412eb16dd96a?utm_source=aprameyak) | Sep 18 |
+| Together AI | Software Engineer, New Grad (2027) | San Francisco |  | Undergrad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5211582007?utm_source=aprameyak) | Sep 18 |
 | Bloomberg | Bloomberg Intelligence Strategic Data & Content Associate (12 Months Contract) | United States |  | Undergrad | [Apply](https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-Strategic-Data-Content-Associate-12-Months-Contract/22127) | Sep 17 |
 | Boeing | Mission Analysis Engineer (Entry level) - Millennium Space Systems | USA - El Segundo, CA |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Mission-Analysis-Engineer--Entry-level----Millennium-Space-Systems_JR2026524528-2?utm_source=aprameyak) | Sep 17 |
 | CoStar Group | Associate Software Engineer - San Diego, CA | San Diego, CA |  | Undergrad | [Apply](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R39674?utm_source=aprameyak) | Sep 17 |

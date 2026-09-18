@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-3042 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+3050 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -8,6 +8,14 @@
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | Juniper Networks | PhD Research Intern | Milpitas, CA | PhD | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Milpitas-California-United-States-of-America/PhD-Research-Intern_1213426?utm_source=aprameyak) | Sep 18 |
 | Leidos | Research Engineer Intern | Pittsburgh, PA | Undergrad | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500?utm_source=aprameyak) | Sep 18 |
+| Northrop Grumman | 2027 Intern Tooling Engineer | United States-Utah-Clearfield | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Tooling-Engineer_R10251728?utm_source=aprameyak) | Sep 18 |
+| ↳ | 2027 Intern Tooling Engineer | United States-Utah-Clearfield | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Clearfield/XMLNAME-2026-Intern-Tooling-Engineer_R10251724?utm_source=aprameyak) | Sep 18 |
+| Royal Bank of Canada | Summer 2027 Wealth Management Technology Internship | Minneapolis, MN | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852?utm_source=aprameyak) | Sep 18 |
+| Rubrik | Software Engineering Winter Internship | Palo Alto, CA | Undergrad | [Apply](https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088) | Sep 18 |
+| Together AI | Research Intern, Inference (Summer 2027) | San Francisco | Undergrad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238462007?utm_source=aprameyak) | Sep 18 |
+| ↳ | Software Development In Test Intern (Summer 2027) | San Francisco | Undergrad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238472007?utm_source=aprameyak) | Sep 18 |
+| ↳ | Software Engineer Intern (Summer 2027) | San Francisco | Undergrad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5232036007?utm_source=aprameyak) | Sep 18 |
+| ↳ | Systems Research Engineer Intern - GPU Programming (Summer 2027) | San Francisco | Masters | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238460007?utm_source=aprameyak) | Sep 18 |
 | XPENG Motors | AI Research Intern – Predictive World Model | Santa Clara, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002?utm_source=aprameyak) | Sep 18 |
 | Amazon | Solutions Architect Intern, AWSI - 2027 | US, TX, Dallas | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10550494/solutions-architect-intern-awsi-2027) | Sep 17 |
 | ↳ | Software Development Engineer Internship - Summer -2027 (USA) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa) | Sep 17 |

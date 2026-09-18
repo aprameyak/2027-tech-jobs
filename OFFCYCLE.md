@@ -1,13 +1,21 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-575 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+583 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
 | Johnson & Johnson | (PALM) and Artificial Intelligence Co-Op | Titusville, NJ | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/XMLNAME--PALM--and-Artificial-Intelligence-Co-Op_R-099389?utm_source=aprameyak) | Sep 18 |
+| Rockwell Automation | Co-op, Robotics Integration and Development (OTTO by Rockwell Automation) | Waterloo, ON | Co-op | Undergrad | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Waterloo-Ontario-Canada/Co-op--Robotics-Integration-and-Development--OTTO-by-Rockwell-Automation-_R26-6721-1?utm_source=aprameyak) | Sep 18 |
+| ↳ | Co-op, Robotics Research – Data Engineering (OTTO at Rockwell Automation) | Waterloo, ON | Co-op | Undergrad | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871-1?utm_source=aprameyak) | Sep 18 |
+| RTX | Digital Hardware Design Engineer Co-op (Summer/Fall 2027)(Onsite) | CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519?utm_source=aprameyak) | Sep 18 |
+| ↳ | Digital Hardware Design Engineer Co-op (Winter/Spring)(Onsite) | CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1?utm_source=aprameyak) | Sep 18 |
 | TD Bank | L&H Product Management Intern/Co-op (Winter 2027) | Toronto, ON | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506427?utm_source=aprameyak) | Sep 18 |
+| Together AI | Research Intern, Frontier Agents (Winter 2027) | San Francisco | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238467007?utm_source=aprameyak) | Sep 18 |
+| ↳ | Research Intern, Inference (Winter 2027) | San Francisco | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238461007?utm_source=aprameyak) | Sep 18 |
+| ↳ | Software Engineer Intern (Winter 2027) | San Francisco | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238031007?utm_source=aprameyak) | Sep 18 |
+| ↳ | Systems Research Engineer Intern - GPU Programming (Winter 2027) | San Francisco | Winter 2027 | Masters | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238411007?utm_source=aprameyak) | Sep 18 |
 | Ancestry | Data Science - AI Document Understanding, Co-op | Remote (US) | Co-op | Undergrad | [Apply](https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449?utm_source=aprameyak) | Sep 17 |
 | Disney | Disney Live Entertainment Production Specialist Intern, Spring 2027 | Anaheim, CA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disney-Live-Entertainment-Production-Specialist-Intern--Spring-2027_10159388-2?utm_source=aprameyak) | Sep 17 |
 | Johnson & Johnson | Spring 2027 Biomaterials Research Co-op | Warsaw, IN | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Warsaw-Indiana-United-States-of-America/Spring-2027-Biomaterials-Research-Co-op_R-097640?utm_source=aprameyak) | Sep 17 |
