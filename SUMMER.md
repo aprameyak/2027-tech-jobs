@@ -1,11 +1,13 @@
 # ☀️ Summer 2027 Internships
 
-3040 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+3042 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Juniper Networks | PhD Research Intern | Milpitas, CA | PhD | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Milpitas-California-United-States-of-America/PhD-Research-Intern_1213426?utm_source=aprameyak) | Sep 18 |
+| Leidos | Research Engineer Intern | Pittsburgh, PA | Undergrad | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500?utm_source=aprameyak) | Sep 18 |
 | XPENG Motors | AI Research Intern – Predictive World Model | Santa Clara, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002?utm_source=aprameyak) | Sep 18 |
 | Amazon | Solutions Architect Intern, AWSI - 2027 | US, TX, Dallas | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10550494/solutions-architect-intern-awsi-2027) | Sep 17 |
 | ↳ | Software Development Engineer Internship - Summer -2027 (USA) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa) | Sep 17 |
