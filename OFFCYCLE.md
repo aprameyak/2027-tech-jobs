@@ -1,14 +1,16 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-586 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+588 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Astranis Space Technologies | Finance Systems Associate (Winter 2027) | San Francisco | Winter 2027 | Masters | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4710166006?utm_source=aprameyak) | Sep 18 |
 | BMO Financial Group | Software Developer, Winter 2027 (Internship) - 4 months | San Ramon, CA | Winter 2027 | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2?utm_source=aprameyak) | Sep 18 |
 | Disney | Global Security Design & Engineering Intern, Spring 2027 | Glendale, CA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Global-Security-Design---Engineering-Intern--Spring-2027_10160013?utm_source=aprameyak) | Sep 18 |
 | Johnson & Johnson | (PALM) and Artificial Intelligence Co-Op | Titusville, NJ | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/XMLNAME--PALM--and-Artificial-Intelligence-Co-Op_R-099389?utm_source=aprameyak) | Sep 18 |
+| Philips | Co-op - Design Engineering - Latham, NY - January-June 2027 | Latham, NY | Co-op | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Latham-New-York-United-States/Co-op---Design-Engineering---Latham--NY---January-June-2027_590362?utm_source=aprameyak) | Sep 18 |
 | Procter & Gamble | Social Media & Digital Content Intern/Co-op / Stage ou programme coopératif en médias sociaux et contenu numérique | TORONTO GO | Co-op | Undergrad | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/TORONTO-GO/Social-Media---Digital-Content-Intern-Co-op---Stage-ou-programme-coopratif-en-mdias-sociaux-et-contenu-numrique_R000159482?utm_source=aprameyak) | Sep 18 |
 | Rockwell Automation | Co-op, Robotics Integration and Development (OTTO by Rockwell Automation) | Waterloo, ON | Co-op | Undergrad | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Waterloo-Ontario-Canada/Co-op--Robotics-Integration-and-Development--OTTO-by-Rockwell-Automation-_R26-6721-1?utm_source=aprameyak) | Sep 18 |
 | ↳ | Co-op, Robotics Research – Data Engineering (OTTO at Rockwell Automation) | Waterloo, ON | Co-op | Undergrad | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871-1?utm_source=aprameyak) | Sep 18 |

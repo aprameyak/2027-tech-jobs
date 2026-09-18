@@ -13,9 +13,9 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (3058)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (586)
-- [🎓 New Grad 2027](./NEWGRAD.md) (2601)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (3063)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (588)
+- [🎓 New Grad 2027](./NEWGRAD.md) (2602)
 
 ---
 
