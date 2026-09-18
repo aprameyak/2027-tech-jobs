@@ -49775,7 +49775,8 @@
   },
   "junior data engineer": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "junior devsecops engineer ": {
     "t": true,
