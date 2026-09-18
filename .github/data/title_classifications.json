@@ -47272,7 +47272,8 @@
   },
   "product management intern": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "software engineering intern (winter)": {
     "t": true,
