@@ -48887,7 +48887,8 @@
   },
   "game design intern": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "external planning intern": {
     "t": false,
