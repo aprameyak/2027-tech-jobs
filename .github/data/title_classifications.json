@@ -45301,7 +45301,8 @@
   },
   "software engineer intern (winter 2027)": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "junior it operations administrator": {
     "t": false,
