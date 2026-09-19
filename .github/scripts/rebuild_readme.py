@@ -36,9 +36,17 @@ TABLE_HEADERS = {
     ),
 }
 
+TOC_ANCHORS = {
+    'summer': '#️-summer-2027-internships',
+    'offcycle': '#-off-cycle-internships--co-ops',
+    'newgrad': '#-new-grad-2027',
+}
+
+
 def _company_sort_key(name):
     name = re.sub(r'[\U0001F000-\U0001FFFF\u2600-\u26FF\u2700-\u27BF]', '', name)
     return name.strip().lower()
+
 
 def format_company(entry):
     name = entry['company'].strip()
@@ -49,6 +57,7 @@ def format_company(entry):
     if 'yes —' in citizenship.lower():
         name += ' 🇺🇸'
     return name
+
 
 def format_location(location):
     location = location.strip()
@@ -61,6 +70,7 @@ def format_location(location):
     inner = '</br>'.join(parts)
     return f'<details><summary>**{len(parts)} locations**</summary>{inner}</details>'
 
+
 def format_date(date_added):
     try:
         dt = datetime.strptime(date_added, '%Y-%m-%d')
@@ -68,12 +78,12 @@ def format_date(date_added):
     except Exception:
         return date_added
 
+
 def apply_btn(url):
     if not url:
         return '🔒'
-                                                                                
-                                                      
     return f'[Apply]({url})'
+
 
 def format_row(entry, company_col):
     company = company_col
@@ -93,6 +103,7 @@ def format_row(entry, company_col):
         return f'| {company} | {role} | {location} | {grad_date} | {education} | {btn} | {date} |'
     else:
         return f'| {company} | {role} | {location} | {education} | {btn} | {date} |'
+
 
 def build_table(entries):
     def sort_key(e):
@@ -124,6 +135,19 @@ def build_table(entries):
 
     return rows
 
+
+def format_table_block(marker, rows):
+    header = TABLE_HEADERS[marker]
+    body = '\n'.join(rows) + '\n' if rows else ''
+    return (
+        f'## {TABLE_TITLES[marker]}\n\n'
+        f'<!-- TABLE_START {marker} -->\n\n'
+        f'{header}'
+        f'{body}'
+        f'<!-- TABLE_END {marker} -->\n'
+    )
+
+
 def write_table_file(marker, rows, count):
     title = TABLE_TITLES[marker]
     header = TABLE_HEADERS[marker]
@@ -139,41 +163,29 @@ def write_table_file(marker, rows, count):
     )
     TABLE_FILES[marker].write_text(content, encoding='utf-8')
 
-def update_readme_index(summer_n, offcycle_n, newgrad_n):
+
+def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n, newgrad_n):
     if not README_FILE.exists():
         print('ERROR: README.md not found')
         sys.exit(1)
 
     content = README_FILE.read_text(encoding='utf-8')
 
-                                                                    
-    content = re.sub(
-        r'\n## ☀️ Summer 2027 Internships\n.*?<!-- TABLE_END summer -->\n',
-        '\n',
-        content,
-        count=1,
-        flags=re.S,
-    )
-    content = re.sub(
-        r'\n## 🔄 Off-Cycle Internships & Co-ops\n.*?<!-- TABLE_END offcycle -->\n',
-        '\n',
-        content,
-        count=1,
-        flags=re.S,
-    )
-    content = re.sub(
-        r'\n## 🎓 New Grad 2027\n.*?<!-- TABLE_END newgrad -->\n',
-        '\n',
-        content,
-        count=1,
-        flags=re.S,
-    )
+    # Drop any previously embedded tables (so rebuild is idempotent).
+    for marker in ('summer', 'offcycle', 'newgrad'):
+        content = re.sub(
+            rf'\n## {re.escape(TABLE_TITLES[marker])}\n.*?<!-- TABLE_END {marker} -->\n?',
+            '\n',
+            content,
+            count=1,
+            flags=re.S,
+        )
 
     toc = (
         f'**Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)\n\n'
-        f'- [☀️ Summer 2027 Internships](./SUMMER.md) ({summer_n})\n'
-        f'- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) ({offcycle_n})\n'
-        f'- [🎓 New Grad 2027](./NEWGRAD.md) ({newgrad_n})\n'
+        f'- [☀️ Summer 2027 Internships]({TOC_ANCHORS["summer"]}) ({summer_n})\n'
+        f'- [🔄 Off-Cycle Internships & Co-ops]({TOC_ANCHORS["offcycle"]}) ({offcycle_n})\n'
+        f'- [🎓 New Grad 2027]({TOC_ANCHORS["newgrad"]}) ({newgrad_n})\n'
     )
 
     toc_pattern = re.compile(
@@ -185,22 +197,37 @@ def update_readme_index(summer_n, offcycle_n, newgrad_n):
     if toc_pattern.search(content):
         content = toc_pattern.sub(toc, content, count=1)
     else:
-                                                          
-        old_toc = re.compile(
-            r'- \[☀️ Summer 2027 Internships\]\(#.*?\)\n'
-            r'- \[🔄 Off-Cycle Internships & Co-ops\]\(#.*?\)\n'
-            r'- \[🎓 New Grad 2027\]\(#.*?\)\n'
-        )
-        if old_toc.search(content):
-            content = old_toc.sub(toc, content, count=1)
-        else:
-            print('ERROR: Could not find TOC links to update in README.md')
-            sys.exit(1)
+        print('ERROR: Could not find TOC links to update in README.md')
+        sys.exit(1)
 
-                                                                                       
-    content = re.sub(r'(?:\n---){2,}\n', '\n---\n', content)
+    # Collapse leftover separators from prior table removals.
+    content = re.sub(r'(?:\n---\s*){2,}\n', '\n---\n', content)
+    content = re.sub(r'\n{3,}', '\n\n', content)
+
+    tables = (
+        format_table_block('summer', summer_rows)
+        + '\n'
+        + format_table_block('offcycle', offcycle_rows)
+        + '\n'
+        + format_table_block('newgrad', newgrad_rows)
+    )
+
+    # Insert tables after Legend, before Disclaimer (or License).
+    disclaimer = re.search(r'\n## Disclaimer\n', content)
+    license_h = re.search(r'\n## License\n', content)
+    if disclaimer:
+        insert_at = disclaimer.start()
+        content = content[:insert_at] + '\n' + tables + content[insert_at:]
+    elif license_h:
+        insert_at = license_h.start()
+        content = content[:insert_at] + '\n' + tables + content[insert_at:]
+    else:
+        content = content.rstrip() + '\n\n' + tables
+
+    content = re.sub(r'(?:\n---\s*){2,}\n', '\n---\n', content)
     content = re.sub(r'\n{3,}', '\n\n', content)
     README_FILE.write_text(content, encoding='utf-8')
+
 
 def main():
     if not LISTINGS_FILE.exists():
@@ -219,12 +246,20 @@ def main():
         f'{len(summer)} summer, {len(offcycle)} offcycle, {len(newgrad)} newgrad'
     )
 
-    write_table_file('summer', build_table(summer), len(summer))
-    write_table_file('offcycle', build_table(offcycle), len(offcycle))
-    write_table_file('newgrad', build_table(newgrad), len(newgrad))
-    update_readme_index(len(summer), len(offcycle), len(newgrad))
+    summer_rows = build_table(summer)
+    offcycle_rows = build_table(offcycle)
+    newgrad_rows = build_table(newgrad)
 
-    print('Rebuilt SUMMER.md, OFFCYCLE.md, NEWGRAD.md, and README.md index')
+    write_table_file('summer', summer_rows, len(summer))
+    write_table_file('offcycle', offcycle_rows, len(offcycle))
+    write_table_file('newgrad', newgrad_rows, len(newgrad))
+    update_readme(
+        summer_rows, offcycle_rows, newgrad_rows,
+        len(summer), len(offcycle), len(newgrad),
+    )
+
+    print('Rebuilt README.md tables plus SUMMER.md, OFFCYCLE.md, and NEWGRAD.md')
+
 
 if __name__ == '__main__':
     main()
