@@ -13,9 +13,11 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](#️-summer-2027-internships) (2974)
-- [🔄 Off-Cycle Internships & Co-ops](#-off-cycle-internships--co-ops) (566)
-- [🎓 New Grad 2027](#-new-grad-2027) (2314)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (2974)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (566)
+- [🎓 New Grad 2027](./NEWGRAD.md) (2314)
+
+> GitHub truncates very large READMEs on the repo homepage. If a table looks cut off, open the links above — each file has the full list.
 
 ---
 
@@ -27,6 +29,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 ---
 
 ## ☀️ Summer 2027 Internships
+
+2974 listing(s) · [View as standalone page](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -3010,6 +3014,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
+566 listing(s) · [View as standalone page](./OFFCYCLE.md)
+
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
@@ -3583,6 +3589,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027
+
+2314 listing(s) · [View as standalone page](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 

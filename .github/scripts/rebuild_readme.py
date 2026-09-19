@@ -36,10 +36,12 @@ TABLE_HEADERS = {
     ),
 }
 
-TOC_ANCHORS = {
-    'summer': '#️-summer-2027-internships',
-    'offcycle': '#-off-cycle-internships--co-ops',
-    'newgrad': '#-new-grad-2027',
+# Link TOC to standalone files — GitHub truncates oversized READMEs mid-table,
+# so in-page anchors to later sections never resolve on the repo homepage.
+TOC_HREFS = {
+    'summer': './SUMMER.md',
+    'offcycle': './OFFCYCLE.md',
+    'newgrad': './NEWGRAD.md',
 }
 
 
@@ -136,11 +138,12 @@ def build_table(entries):
     return rows
 
 
-def format_table_block(marker, rows):
+def format_table_block(marker, rows, count, href):
     header = TABLE_HEADERS[marker]
     body = '\n'.join(rows) + '\n' if rows else ''
     return (
         f'## {TABLE_TITLES[marker]}\n\n'
+        f'{count} listing(s) · [View as standalone page]({href})\n\n'
         f'<!-- TABLE_START {marker} -->\n\n'
         f'{header}'
         f'{body}'
@@ -183,9 +186,18 @@ def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n
 
     toc = (
         f'**Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)\n\n'
-        f'- [☀️ Summer 2027 Internships]({TOC_ANCHORS["summer"]}) ({summer_n})\n'
-        f'- [🔄 Off-Cycle Internships & Co-ops]({TOC_ANCHORS["offcycle"]}) ({offcycle_n})\n'
-        f'- [🎓 New Grad 2027]({TOC_ANCHORS["newgrad"]}) ({newgrad_n})\n'
+        f'- [☀️ Summer 2027 Internships]({TOC_HREFS["summer"]}) ({summer_n})\n'
+        f'- [🔄 Off-Cycle Internships & Co-ops]({TOC_HREFS["offcycle"]}) ({offcycle_n})\n'
+        f'- [🎓 New Grad 2027]({TOC_HREFS["newgrad"]}) ({newgrad_n})\n\n'
+        f'> GitHub truncates very large READMEs on the repo homepage. '
+        f'If a table looks cut off, open the links above — each file has the full list.\n'
+    )
+
+    # Remove prior truncation notes so TOC replace stays idempotent.
+    content = re.sub(
+        r'\n*> GitHub truncates very large READMEs[^\n]*\n?',
+        '\n',
+        content,
     )
 
     toc_pattern = re.compile(
@@ -205,11 +217,11 @@ def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n
     content = re.sub(r'\n{3,}', '\n\n', content)
 
     tables = (
-        format_table_block('summer', summer_rows)
+        format_table_block('summer', summer_rows, summer_n, TOC_HREFS['summer'])
         + '\n'
-        + format_table_block('offcycle', offcycle_rows)
+        + format_table_block('offcycle', offcycle_rows, offcycle_n, TOC_HREFS['offcycle'])
         + '\n'
-        + format_table_block('newgrad', newgrad_rows)
+        + format_table_block('newgrad', newgrad_rows, newgrad_n, TOC_HREFS['newgrad'])
     )
 
     # Insert tables after Legend, before Disclaimer (or License).
