@@ -47704,7 +47704,8 @@
   },
   "tools programmer intern": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "new graduate engineer, civil/structural (starship)": {
     "t": true,
@@ -47883,7 +47884,8 @@
   },
   "area manager - new grad": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "software engineering intern (2027 start) - winter": {
     "t": true,
@@ -54832,5 +54834,45 @@
     "t": true,
     "c": "high",
     "a": 1
+  },
+  "environmental test engineer associate (winter 2027)": {
+    "t": true,
+    "c": "medium",
+    "a": 1
+  },
+  "environmental test engineer intern (winter 2027)": {
+    "t": true,
+    "c": "medium",
+    "a": 1
+  },
+  "harness manufacturing associate (summer 2027)": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "harness manufacturing intern (summer 2027)": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "production quality intern (summer 2027)": {
+    "t": true,
+    "c": "medium",
+    "a": 1
+  },
+  "production quality intern (winter 2027)": {
+    "t": true,
+    "c": "medium",
+    "a": 1
+  },
+  "propulsion manufacturing intern (summer 2027)": {
+    "t": false,
+    "c": "medium",
+    "a": 0
+  },
+  "propulsion manufacturing intern (winter 2027)": {
+    "t": false,
+    "c": "medium",
+    "a": 0
   }
 }
