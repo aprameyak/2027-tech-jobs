@@ -1,12 +1,12 @@
 # ☀️ Summer 2027 Internships — Software Engineering
 
-**763** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**752** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | AeroVironment | Software Engineer Intern | Melbourne, FL | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550?utm_source=aprameyak) | Sep 19 |
 | Allied Solutions | Software Engineer Intern | Carmel, IN | Undergrad | [Apply](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087?utm_source=aprameyak) | Sep 19 |
-| American Express | Software Engineer Intern - Undergraduate | Burgess Hill, UK | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771) | Sep 19 |
+| American Express | Software Engineer Intern - Undergraduate | Burgess Hill | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771) | Sep 19 |
 | ↳ | Software Engineer Intern - Technology | NYC | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970) | Sep 19 |
 | ↳ | Software Engineer 1 Intern - Enterprise Technology Services | Phoenix, AZ | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013259) | Sep 19 |
 | Amgen | Software Engineer Intern - Technology & Medical Organizations | Remote in | Undergrad | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719?utm_source=aprameyak) | Sep 19 |
@@ -26,16 +26,15 @@
 | Avis Budget Group | IT Engineering Intern - Accelerate | Parsippany-Troy Hills, NJ | Undergrad | [Apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Engineering-Intern-Summer-2027_R0190463?utm_source=aprameyak) | Sep 19 |
 | Axiom Space | Software Engineer Intern | Houston, TX | Undergrad | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Software-Engineering-Intern--Summer-2026-_JR100691?utm_source=aprameyak) | Sep 19 |
 | Baird | Software Developer Intern | Madison, WIMilwaukee, WI | Undergrad | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20261024-1?utm_source=aprameyak) | Sep 19 |
-| Barclays | Technology Developer Intern | Glasgow, UK | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387?utm_source=aprameyak) | Sep 19 |
-| ↳ | Technology Developer Intern - Programme | Northampton, UK | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379?utm_source=aprameyak) | Sep 19 |
+| Barclays | Technology Developer Intern | Glasgow | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387?utm_source=aprameyak) | Sep 19 |
+| ↳ | Technology Developer Intern - Programme | Northampton | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379?utm_source=aprameyak) | Sep 19 |
 | ↳ | Technology Developer Intern - Technology | Hanover, NJ | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Whippany_JR-0000123234?utm_source=aprameyak) | Sep 19 |
-| ↳ | Technology Analyst Intern | Glasgow, UK | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Glasgow_JR-0000129503?utm_source=aprameyak) | Sep 19 |
+| ↳ | Technology Analyst Intern | Glasgow | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Glasgow_JR-0000129503?utm_source=aprameyak) | Sep 19 |
 | Barnes & Thornburg | Information Technology Data Intern | Indianapolis, IN | Undergrad | [Apply](https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Bass Pro Shops | IT Developer Intern | Springfield, MO | Undergrad | [Apply](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1?utm_source=aprameyak) | Sep 19 |
 | Bedrock Robotics | Software Engineer Intern - Fleet Platform | NYC | Undergrad | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application?embed=true&utm_source=aprameyak) | Sep 19 |
-| Blackstone | Software Engineer Summer Analyst - Technology and Innovations | London, UK | Undergrad | [Apply](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358?utm_source=aprameyak) | Sep 19 |
 | Blue Origin | Software Developer Intern - Undergraduate | Seattle, WA LA Denver, CO | Undergrad | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Undergraduate_R71425?utm_source=aprameyak) | Sep 19 |
-| BNY | Engineering Intern - Developer | Greater Manchester, UK | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318) | Sep 19 |
+| BNY | Engineering Intern - Developer | Greater Manchester | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318) | Sep 19 |
 | Booz Allen | Software Developer Intern | Huntsville, AL | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394?utm_source=aprameyak) | Sep 19 |
 | British Columbia Investment | Software Engineer Co-op Intern - Investment Tech/Data & Analytics | Victoria, BC, CanadaVancouver, BC | Undergrad | [Apply](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596?utm_source=aprameyak) | Sep 19 |
 | ByteDance | Software Engineer Intern - Relational Database | San Jose, CA | Undergrad | [Apply](https://jobs.bytedance.com/en/position/7678449088065997109/detail) | Sep 19 |
@@ -48,7 +47,6 @@
 | Citizens Financial Group | Software Engineer Intern | Plano, TXJohnston, RIPhoenix, AZ | Undergrad | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286) | Sep 19 |
 | CME Group | Software Engineering Intern - Summer 2027 | Chicago, IL | Undergrad | [Apply](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821?utm_source=aprameyak) | Sep 19 |
 | CoBank | Software Engineer Intern | Greenwood Village, CO | Undergrad | [Apply](https://careers.cobank.com/jobs/7940?icims=1) | Sep 19 |
-| Cogna | Software Engineer Intern | London, UK | Masters | [Apply](https://apply.workable.com/cogna/j/45A6283F88/apply) | Sep 19 |
 | Collier Aerospace | Software Engineer Intern | Newport News, VA | Undergrad | [Apply](https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51) | Sep 19 |
 | ↳ | Software Engineer Intern - Web Applications - Summer 2027 | Newport News, VA | Undergrad | [Apply](https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77) | Sep 19 |
 | Constellation Energy | Information Technology Software Development Intern | Baltimore, MD | Undergrad | [Apply](https://jobs.constellationenergy.com/jobs/138708?icims=1) | Sep 19 |
@@ -61,14 +59,12 @@
 | Domino Data Lab | Software Engineer Intern | NYC | Undergrad | [Apply](https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560) | Sep 19 |
 | Duolingo | Software Engineer Intern - Thrive | Pittsburgh, PA | Undergrad | [Apply](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002?utm_source=aprameyak) | Sep 19 |
 | ↳ | Software Engineer Intern | Seattle, WAPittsburgh, PANYC | Undergrad | [Apply](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806878002?utm_source=aprameyak) | Sep 19 |
-| DV Trading | Software Engineer Intern - DV Commodities | London, UK | Undergrad | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005?utm_source=aprameyak) | Sep 19 |
 | ENFOS | Software Engineer Intern - Summer 2027 | Durham, NC | Undergrad | [Apply](https://apply.workable.com/enfos-inc/j/CA15908E0A/apply) | Sep 19 |
 | Enterprise Holdings | Software Engineer Intern - Summer 2027 | St. Louis, MO | Undergrad | [Apply](https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false) | Sep 19 |
 | Epic Games | Tools Programmer Intern | Cary, NC | Undergrad | [Apply](https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004) | Sep 19 |
 | EquipmentShare | Software Engineer Intern | Columbia, MO | Undergrad | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8188926) | Sep 19 |
 | Eulerity | Backend Developer Intern | NYC | Undergrad | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4709040006?utm_source=aprameyak) | Sep 19 |
 | Fidelity National Information Services | Software Engineer Intern - FIS University Program | Milwaukee, WIJacksonville, FLAtlanta, GA | Undergrad | [Apply](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512?utm_source=aprameyak) | Sep 19 |
-| Figma | Software Engineer Intern - Multiple Teams | London, UK | Undergrad | [Apply](https://boards.greenhouse.io/figma/jobs/6152695004?utm_source=aprameyak) | Sep 19 |
 | Gallup | Software Engineer Intern - Summer 2027 | SF | Undergrad | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4395897009?utm_source=aprameyak) | Sep 19 |
 | GE Aerospace | Engines Engineering Intern - Computer or Software Engineering | Lynn, MAEvendale, OH | Undergrad | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1?utm_source=aprameyak) | Sep 19 |
 | Gecko Robotics | Full Stack Software Engineer Intern | NYC | Undergrad | [Apply](https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application?embed=true&utm_source=aprameyak) | Sep 19 |
@@ -76,7 +72,6 @@
 | General Dynamics Mission Systems | Payload Control System Software/Systems Engineering Intern - Summer 2027 | Middletown, RIManassas, VA | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/74848/job?mobile=true&needsRedirect=false) | Sep 19 |
 | ↳ | Software Engineer Intern | Pittsfield, MA | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/74687/job?mobile=true&needsRedirect=false) | Sep 19 |
 | GM financial | Software Development Engineer Intern | Arlington, TX | Undergrad | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260818) | Sep 19 |
-| Google | Software Engineering or Site Reliability Engineering PhD Intern | London, UK | PhD | [Apply](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) | Sep 19 |
 | Gordon Food Service | Software Engineer Intern | Wyoming, MI | Undergrad | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377?utm_source=aprameyak) | Sep 19 |
 | ↳ | Software Engineer Intern - Low Code | Wyoming, MI | Undergrad | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375?utm_source=aprameyak) | Sep 19 |
 | Hadrian | Software Engineer Intern | LATorrance, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application?embed=true&utm_source=aprameyak) | Sep 19 |
@@ -96,8 +91,8 @@
 | ↳ | Software Development Intern | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/59745?icims=1) | Sep 19 |
 | ↳ | Engineer/SW Developer/Analyst Intern - Maritime Force Engagement Control | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/59598?icims=1) | Sep 19 |
 | Johnson & Johnson | Software Engineer Intern - Robotics R&D | Santa Clara, CA | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919?utm_source=aprameyak) | Sep 19 |
-| JP Morgan Chase | Software Engineer Intern - Immersion Program | Glasgow, UK | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813) | Sep 19 |
-| ↳ | Software Engineer Intern - Summer Internship | London, UKGlasgow, UK | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716) | Sep 19 |
+| JP Morgan Chase | Software Engineer Intern - Immersion Program | Glasgow | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813) | Sep 19 |
+| ↳ | Software Engineer Intern - Summer Internship | Glasgow | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716) | Sep 19 |
 | Kensho | Software Engineer Intern - Summer 2027 | Cambridge, MANYC | Undergrad | [Apply](https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1?utm_source=aprameyak) | Sep 19 |
 | Kinder Morgan | Information Technology Intern - Application Development | Houston, TX | Undergrad | [Apply](https://careers.kindermorgan.com/jobs/6032?icims=1) | Sep 19 |
 | LexisNexis Legal & Professional | Software Engineer Intern | Raleigh, NC | Undergrad | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692?utm_source=aprameyak) | Sep 19 |
@@ -107,7 +102,6 @@
 | Lyft | Software Engineer Intern - Backend | SF | Undergrad | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) | Sep 19 |
 | ↳ | Software Engineer Intern | Toronto, ON | Undergrad | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002) | Sep 19 |
 | ↳ | Software Engineer Intern - Fullstack | Toronto, ON | Undergrad | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002) | Sep 19 |
-| Maven Securities | Software Developer Intern | London, UK | Undergrad | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987?utm_source=aprameyak) | Sep 19 |
 | McKesson | Software Engineer Intern | Irving, TXAtlanta, GA | Undergrad | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2027_JR0153235?utm_source=aprameyak) | Sep 19 |
 | ↳ | Software Development Intern - Summer 2027 | Irving, TX | Undergrad | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635?utm_source=aprameyak) | Sep 19 |
 | Momentive | Software Development Intern | Niskayuna, NY | Undergrad | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756?utm_source=aprameyak) | Sep 19 |
@@ -130,7 +124,6 @@
 | Pella | Software Intern | Pella, IAUrbandale, IA | Undergrad | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253299) | Sep 19 |
 | Peraton | Software Engineer Intern | Blacksburg, VAHerndon, VA | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/169665/job?mobile=true&needsRedirect=false) | Sep 19 |
 | Persona | Software Engineer Intern | SF | Undergrad | [Apply](https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3/application?embed=true&utm_source=aprameyak) | Sep 19 |
-| PIMCO | Software Engineering Intern - Technology Analyst | London, UK | Undergrad | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800?utm_source=aprameyak) | Sep 19 |
 | Planview | Software Engineer Intern | Austin, TX | Undergrad | [Apply](https://careers.planview.com/jobs/5128?icims=1) | Sep 19 |
 | Plastipak | Software Engineer Intern | Plymouth, MI | Undergrad | [Apply](https://plastipak.wd1.myworkdayjobs.com/en-US/Plastipak/job/Plastipak-GBTC---Plymouth-MI/Software-Engineering-Intern---Summer-2027_REQ24512?utm_source=aprameyak) | Sep 19 |
 | Primer | Software Engineer Intern - Full Stack | SF | Undergrad | [Apply](https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application?embed=true&utm_source=aprameyak) | Sep 19 |
@@ -159,7 +152,6 @@
 | ↳ | Software Development Intern - Summer 2027 | Tewksbury, MA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01875413?utm_source=aprameyak) | Sep 19 |
 | ↳ | Software Engineer Intern - Receiver Exciter and Processing Architecture | Marlborough, MA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484?utm_source=aprameyak) | Sep 19 |
 | Saronic | Software Engineer Intern | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2/application?embed=true&utm_source=aprameyak) | Sep 19 |
-| Scale AI | Software Engineer Intern - Summer 2027 | London, UK | Undergrad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730846005?utm_source=aprameyak) | Sep 19 |
 | SECURE | Software Developer Intern | Calgary, AB | Undergrad | [Apply](https://careers-canada-secure.icims.com/jobs/1934/job?mobile=true&needsRedirect=false) | Sep 19 |
 | Semgrep | Software Engineer Intern - Cloud Platform | SF | Undergrad | [Apply](https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | SEP | Software Engineer Intern | Westfield, IN | Undergrad | [Apply](https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178/apply?utm_source=aprameyak) | Sep 19 |
@@ -192,12 +184,10 @@
 | Thrivent | Associate Software Engineer Intern | Minnesota | Undergrad | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457?utm_source=aprameyak) | Sep 19 |
 | Tokyo Electron | Software Engineer Intern | Chaska, MN | Undergrad | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Software-Engineer-2027-Summer-Intern_R26-01573?utm_source=aprameyak) | Sep 19 |
 | ↳ | Automation Developer/Analyst Intern | Austin, TX | Undergrad | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Automation-Developer-Analyst-Intern_R26-01497?utm_source=aprameyak) | Sep 19 |
-| Tradeweb | Java Developer Intern | London, UK | Undergrad | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301901) | Sep 19 |
-| ↳ | C++ Developer Intern | London, UK | Undergrad | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301899) | Sep 19 |
 | Transcard Payments | Software Engineer Intern | Chattanooga, TN | Undergrad | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288) | Sep 19 |
 | TRC Companies | Software Engineer Intern | Calgary, AB | Undergrad | [Apply](https://careers.trccompanies.com/jobs/26840?icims=1) | Sep 19 |
 | Trimble | Software Engineer Intern | 8 locationsDayton, OHKnoxville, TNPortsmouth, NHPrinceton, NJLake Oswego, ORWestminster, COSunnyvale, CAAtlanta, GA | Undergrad | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=aprameyak) | Sep 19 |
-| TTP | Software Engineering Intern | Melbourn, Royston, UK | Undergrad | [Apply](https://jobs.smartrecruiters.com/TTP1/744000149038758) | Sep 19 |
+| TTP | Software Engineering Intern | Melbourn, Royston | Undergrad | [Apply](https://jobs.smartrecruiters.com/TTP1/744000149038758) | Sep 19 |
 | Two Sigma | Software Engineering Intern - Summer 2027 | NYC | Undergrad | [Apply](https://twosigma.avature.net/careers/JobDetail/14016) | Sep 19 |
 | Tyler Technologies | Software Development Intern | Lawrenceville, GA | Undergrad | [Apply](https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false) | Sep 19 |
 | ↳ | Software Development Intern - Summer 2027 | Lakewood, CO | Undergrad | [Apply](https://jobs.jobvite.com/tylertech/job/oqQJAfwj?nl=1&nl=1&fr=false) | Sep 19 |
@@ -212,7 +202,6 @@
 | ↳ | Software Engineering Intern - Maneuvering Tech | SF | Undergrad | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8203200) | Sep 19 |
 | ↳ | Software Engineer Intern - BS/MS | SF | Undergrad; Masters | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8193731) | Sep 19 |
 | ↳ | Software Engineering Intern - Behavior Test - MS | SF | Masters | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8174504) | Sep 19 |
-| ↳ | Software Engineering Intern - Multiple Teams | London, UK | Masters | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8208465) | Sep 19 |
 | Wellmark | Software Engineer Intern | Des Moines, IA | Undergrad | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000149684819) | Sep 19 |
 | Wells Fargo | Software Engineer Intern - Early Careers - Software Engineering | 6 locationsIselin, Woodbridge Township, NJCharlotte, NCSt. Louis, MOPhoenix, AZChandler, AZIrving, TX | Undergrad | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering-_R-574285?utm_source=aprameyak) | Sep 19 |
 | Western & Southern Financial Group | Software Development Intern | Cincinnati, OH | Undergrad | [Apply](https://careers-westernsouthern.icims.com/jobs/25245/job?mobile=true&needsRedirect=false) | Sep 19 |

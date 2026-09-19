@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships — Data Science, AI & Machine Learning
 
-**537** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**528** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -13,8 +13,7 @@
 | ↳ | AI Model Optimization & Software Engineer Intern/Co-op | San Jose, CASanta Clara, CA | Masters | [Apply](https://careers.amd.com/jobs/92522?icims=1) | Sep 19 |
 | ↳ | AI Systems & GPU Performance Engineer Intern | San Jose, CASanta Clara, CA | Masters | [Apply](https://careers.amd.com/jobs/92354?icims=1) | Sep 19 |
 | ↳ | Machine Learning System Engineering Intern/Co-op | San Jose, CASanta Clara, CA | Masters | [Apply](https://careers.amd.com/jobs/92342?icims=1) | Sep 19 |
-| American Express | AI Engineer Intern | London, UK | Masters | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013758) | Sep 19 |
-| ↳ | AI Engineer Intern - Undergraduate | Burgess Hill, UK | Undergrad; Masters | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756) | Sep 19 |
+| American Express | AI Engineer Intern - Undergraduate | Burgess Hill | Undergrad; Masters | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756) | Sep 19 |
 | ↳ | Data Science Intern - Global Decision Science - Credit & Fraud Risk | NYC | Masters | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013265) | Sep 19 |
 | Amgen | Machine Learning Engineer Intern | Remote in | Masters | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743?utm_source=aprameyak) | Sep 19 |
 | ↳ | Machine Learning Engineer Intern - Technology & Medical Organizations | Remote in | Undergrad | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709?utm_source=aprameyak) | Sep 19 |
@@ -25,7 +24,6 @@
 | APEX Analytix | Data Science Intern | Greensboro, NC | Undergrad | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53) | Sep 19 |
 | ↳ | Data Analyst Intern - Summer 2027 | Greensboro, NC | Undergrad | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef) | Sep 19 |
 | ↳ | Data Engineering Intern - Summer 2027 | Greensboro, NC | Undergrad | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9) | Sep 19 |
-| Applied Materials | Data Analyst Intern - Global Technical Learning Center | Albany, NY | Undergrad | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551?utm_source=aprameyak) | Sep 19 |
 | AspenTech | Data Science Intern | Bedford, MA | Masters | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459?utm_source=aprameyak) | Sep 19 |
 | AtkinsRéalis | Data Scientist Intern - Summer 2027 | Tempe, AZ | Undergrad | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1?utm_source=aprameyak) | Sep 19 |
 | Avis Budget Group | Data Analytics Intern | Parsippany-Troy Hills, NJ | Undergrad | [Apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Data-Analytics-Intern-Summer-2027_R0190389?utm_source=aprameyak) | Sep 19 |
@@ -33,7 +31,7 @@
 | Barnes & Thornburg | Information Technology AI Intern | Indianapolis, IN | Undergrad | [Apply](https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Barr | Data Science Intern | Minneapolis, MN | Undergrad | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342?utm_source=aprameyak) | Sep 19 |
 | Bedrock Robotics | Behavior Machine Learning Engineer Intern - World Models | SF | Undergrad | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application?embed=true&utm_source=aprameyak) | Sep 19 |
-| BNY | Engineering Intern - Data Science | Manchester, UK | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81322) | Sep 19 |
+| BNY | Engineering Intern - Data Science | Manchester | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81322) | Sep 19 |
 | Boeing | Artificial Intelligence Software Engineer Intern - Graduate Researcher Program | Tukwila, WA | Masters | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687?utm_source=aprameyak) | Sep 19 |
 | Booz Allen | Data Scientist Intern | Huntsville, AL | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Data-Scientist-Intern---Huntsville--AL_R0248407?utm_source=aprameyak) | Sep 19 |
 | ↳ | Data Scientist Intern - 2027 Summer Games | Honolulu, HI | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406?utm_source=aprameyak) | Sep 19 |
@@ -43,8 +41,6 @@
 | C3.ai | Data Scientist Intern - Summer 2027 | Redwood City, CA | Masters | [Apply](https://c3.ai/job-description/8738918002?gh_jid=8738918002) | Sep 19 |
 | CAI | Data Engineer Intern | Pennsylvania | Undergrad | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Engineering-Intern_R8481?utm_source=aprameyak) | Sep 19 |
 | ↳ | Data Analyst Intern | Pennsylvania | Undergrad | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8452?utm_source=aprameyak) | Sep 19 |
-| Capital One | AI Engineering Intern | San Jose, CAMcLean, VANYC | Masters | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1?utm_source=aprameyak) | Sep 19 |
-| ↳ | AI Engineer Intern | San Jose, CAMcLean, VANYC | Masters | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1?utm_source=aprameyak) | Sep 19 |
 | Cigna Group | AI Engineer Intern | Austin, TX | Undergrad | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535?utm_source=aprameyak) | Sep 19 |
 | ↳ | Artificial Intelligence Innovation Development Intern | Raleigh, NC | Undergrad | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712?utm_source=aprameyak) | Sep 19 |
 | Citizens Financial Group | Data Science Intern - Multiple Teams | Boston, MAJohnston, RIColumbus, OH | Undergrad | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276) | Sep 19 |
@@ -82,16 +78,12 @@
 | First National Bank | Data Engineer Intern | Pittsburgh, PAHermitage, PA | Undergrad | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01714?utm_source=aprameyak) | Sep 19 |
 | ↳ | Data Engineering Intern | Pittsburgh, PAHermitage, PA | Undergrad | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713?utm_source=aprameyak) | Sep 19 |
 | ↳ | Data Science Intern | Pittsburgh, PA | Undergrad | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016?utm_source=aprameyak) | Sep 19 |
-| G-Research | Data Science Intern | London, UK | Undergrad | [Apply](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679?utm_source=aprameyak) | Sep 19 |
-| ↳ | Machine Learning Research Intern | London, UK | Undergrad | [Apply](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682?utm_source=aprameyak) | Sep 19 |
 | Gallup | Data Science Intern - Summer 2027 | SF | Undergrad | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4395491009?utm_source=aprameyak) | Sep 19 |
 | ↳ | Data Engineering Intern | Omaha, NE | Undergrad | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4395454009?utm_source=aprameyak) | Sep 19 |
 | ↳ | Artificial Intelligence/Machine Learning Research Intern | SF | Undergrad | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4395921009?utm_source=aprameyak) | Sep 19 |
 | Gecko Robotics | AI/Machine Learning Engineer Intern | NYC | Undergrad | [Apply](https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Generac | Data Science Intern - Summer 2027 | Pewaukee, WIWaukesha, WI | Undergrad | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001?utm_source=aprameyak) | Sep 19 |
 | GM financial | Data Science Intern | Fort Worth, TX | Undergrad | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839) | Sep 19 |
-| Google | Research Scientist PhD Intern | London, UK | PhD | [Apply](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) | Sep 19 |
-| ↳ | Data Science PhD Intern | London, UK | PhD | [Apply](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | Sep 19 |
 | Gordon Food Service | Data Engineering Intern - Atlanta Tech Hub - Data Engineering | Atlanta, GA | Undergrad | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330?utm_source=aprameyak) | Sep 19 |
 | ↳ | Data Science Engineer Intern | Atlanta, GA | Undergrad | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1?utm_source=aprameyak) | Sep 19 |
 | Guardian Life | Summer Intern - Digital & Technology - AI & Machine Learning | Holmdel, NJNYCBethlehem, PA | Undergrad | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205?utm_source=aprameyak) | Sep 19 |
@@ -109,7 +101,7 @@
 | ↳ | AI & Data Science Intern - Analytic Capabilities | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/60008?icims=1) | Sep 19 |
 | ↳ | Sensor Systems Intern - Data Analytics | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/59958?icims=1) | Sep 19 |
 | JP Morgan Chase | Machine Learning Engineer Summer Associate Intern - Asset and Wealth Management | Jersey City, NJ | Masters | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790885) | Sep 19 |
-| ↳ | Data & AI Intern - Data & AI Program | London, UKGlasgow, UK | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745) | Sep 19 |
+| ↳ | Data & AI Intern - Data & AI Program | Glasgow | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745) | Sep 19 |
 | Kensho | Machine Learning Engineer Intern | Cambridge, MANYC | Undergrad | [Apply](https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714?utm_source=aprameyak) | Sep 19 |
 | Ketjen | Data Science Intern | Houston, TX | Undergrad | [Apply](https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411?utm_source=aprameyak) | Sep 19 |
 | Lawrence Livermore National Laboratory (LLNL) | Data Science Undergraduate Student Intern - Summer 2027 | Livermore, CA | Undergrad; Masters | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990015289136) | Sep 19 |
@@ -184,7 +176,6 @@
 | Thermo Fisher Scientific | Senior Operations Data Analytics Intern | Remote (US) | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Ho-Chi-Minh-City-Vietnam/Sr-Operations-Data-Analytics-Intern_R-01366619?utm_source=aprameyak) | Sep 19 |
 | Tokyo Electron | Decision Analysis & AI Intern | Chaska, MN | Undergrad | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Decision-Analysis---AI-Summer-2027-Intern_R26-01574?utm_source=aprameyak) | Sep 19 |
 | ↳ | Software Engineer Intern - AI Research | San Jose, CA | Undergrad | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531?utm_source=aprameyak) | Sep 19 |
-| Tradeweb | AI Engineering Intern | London, UK | Undergrad | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301900) | Sep 19 |
 | Transcard Payments | Artificial Intelligence Intern | Chattanooga, TN | Undergrad | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476416) | Sep 19 |
 | TWG Global | AI Engineer Intern - Summer 2027 | Santa Monica, CA | Undergrad | [Apply](https://apply.workable.com/twgai/j/772CD136FF/apply) | Sep 19 |
 | ↳ | Data Science Intern - SOLT | Santa Monica, CA | Masters | [Apply](https://apply.workable.com/twgai/j/263B34D737/apply) | Sep 19 |
@@ -209,7 +200,7 @@
 | ↳ | Backend Software Engineer Intern - Java & AI - Master's | Remote in | Masters | [Apply](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547?utm_source=aprameyak) | Sep 19 |
 | ↳ | Backend Software Engineer Intern - Cloud Security & AI - Undergraduate | Remote in | Undergrad | [Apply](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589?utm_source=aprameyak) | Sep 19 |
 | ↳ | AI & Data Platform Engineering Intern - Undergraduate | Remote in | Undergrad | [Apply](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055?utm_source=aprameyak) | Sep 19 |
-| WTW | Data Scientist Intern - P&C Insurance | London, UKReigate, UK | Undergrad | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997) | Sep 19 |
+| WTW | Data Scientist Intern - P&C Insurance | Reigate | Undergrad | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997) | Sep 19 |
 | Xcel Energy | AI Solutions Development Intern | Minneapolis, MNDenver, CO | Undergrad | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Solutions-Development-Intern-CO--MN_JR116329-1?utm_source=aprameyak) | Sep 19 |
 | ↳ | AI & Automation Intern - Regulatory | Denver, CO | Undergrad | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1?utm_source=aprameyak) | Sep 19 |
 | ↳ | AI and Analytics Intern | Minneapolis, MNDenver, CO | Undergrad | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AI-and-Analytics-Intern-MN--CO_JR115877-1?utm_source=aprameyak) | Sep 19 |

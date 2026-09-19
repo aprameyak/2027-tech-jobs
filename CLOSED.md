@@ -1,13 +1,49 @@
 # Closed Listings
 
-**2680** closed listing(s) (🔒). Kept for history — roles existed but are no longer accepting applications. Back to [`README`](./README.md).
+**2755** closed listing(s) (🔒). Kept for history — roles existed but are no longer accepting applications. Back to [`README`](./README.md).
 
 ## ☀️ Summer 2027 Internships
 
-1189 closed
+1226 closed
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| American Express | AI Engineer Intern | London, UK | Masters | 🔒 | Sep 19 |
+| ↳ | Product Manager Intern - Undergraduate | London, UK | Undergrad | 🔒 | Sep 19 |
+| Applied Materials | Data Analyst Intern - Global Technical Learning Center | Albany, NY | Undergrad | 🔒 | Sep 19 |
+| Barclays | Data and Analytics Intern - Customer and Digital | London, UK | Undergrad | 🔒 | Sep 19 |
+| BlackRock | Quantitative Master's Intern - Investments - Quantitative Investing | London, UK | Masters | 🔒 | Sep 19 |
+| Blackstone | Software Engineer Summer Analyst - Technology and Innovations | London, UK | Undergrad | 🔒 | Sep 19 |
+| Capital One | AI Engineering Intern | San Jose, CAMcLean, VANYC | Masters | 🔒 | Sep 19 |
+| ↳ | AI Engineer Intern | San Jose, CAMcLean, VANYC | Masters | 🔒 | Sep 19 |
+| Capula | Trading and Research Intern | London, UK | Undergrad | 🔒 | Sep 19 |
+| Chicago Trading Company | Quant Trading Intern | London, UK | Undergrad | 🔒 | Sep 19 |
+| Cogna | Software Engineer Intern | London, UK | Masters | 🔒 | Sep 19 |
+| DV Trading | Software Engineer Intern - DV Commodities | London, UK | Undergrad | 🔒 | Sep 19 |
+| Figma | Software Engineer Intern - Multiple Teams | London, UK | Undergrad | 🔒 | Sep 19 |
+| G-Research | Data Science Intern | London, UK | Undergrad | 🔒 | Sep 19 |
+| ↳ | Machine Learning Research Intern | London, UK | Undergrad | 🔒 | Sep 19 |
+| ↳ | Quantitative Research Internship | London, UK | Masters | 🔒 | Sep 19 |
+| Google | Software Engineering or Site Reliability Engineering PhD Intern | London, UK | PhD | 🔒 | Sep 19 |
+| ↳ | Research Scientist PhD Intern | London, UK | PhD | 🔒 | Sep 19 |
+| ↳ | Data Science PhD Intern | London, UK | PhD | 🔒 | Sep 19 |
+| Howden | Analytics Intern | London, UK | Undergrad | 🔒 | Sep 19 |
+| Marshall Wace | Quantitative Research Intern | London, UK | Masters | 🔒 | Sep 19 |
+| Maven Securities | Software Developer Intern | London, UK | Undergrad | 🔒 | Sep 19 |
+| ↳ | Quant Trader Intern | London, UK | Undergrad | 🔒 | Sep 19 |
+| PIMCO | Software Engineering Intern - Technology Analyst | London, UK | Undergrad | 🔒 | Sep 19 |
+| ↳ | Quantitative Research Analyst Intern - Client Solutions & Analytics | London, UK | Masters | 🔒 | Sep 19 |
+| Rothesay | Quantitative Strategist Intern | London, UK | Undergrad | 🔒 | Sep 19 |
+| Scale AI | Software Engineer Intern - Summer 2027 | London, UK | Undergrad | 🔒 | Sep 19 |
+| Schonfeld | Quant Developer Intern - Discretionary Macro Fixed Income | London, UK | Undergrad | 🔒 | Sep 19 |
+| ↳ | Quantitative Researcher Intern | London, UK | Masters | 🔒 | Sep 19 |
+| Susquehanna International Group | Trading Systems Engineer Intern | London, UK | Undergrad | 🔒 | Sep 19 |
+| Talos | Software Engineer Intern - Trading | London, UK | Undergrad | 🔒 | Sep 19 |
+| Tradeweb | Java Developer Intern | London, UK | Undergrad | 🔒 | Sep 19 |
+| ↳ | C++ Developer Intern | London, UK | Undergrad | 🔒 | Sep 19 |
+| ↳ | AI Engineering Intern | London, UK | Undergrad | 🔒 | Sep 19 |
+| Waymo | MS/PhD Intern - Sim-Realism ML Infrastructure | London, UK | Masters; PhD | 🔒 | Sep 19 |
+| ↳ | Software Engineering Intern - Multiple Teams | London, UK | Masters | 🔒 | Sep 19 |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA | Atlanta, GA | Undergrad | 🔒 | Sep 16 |
 | ↳ | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL | Sunrise, FL | Undergrad | 🔒 | Sep 16 |
 | ↳ | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY | New York, NY | Undergrad | 🔒 | Sep 16 |
@@ -120,6 +156,7 @@
 | ↳ | Data Scientist Intern | Redwood City, CA | Undergrad | 🔒 | Sep 1 |
 | Capital One | Data Science Intern | Multiple Locations | Undergrad | 🔒 | Sep 1 |
 | ↳ | Data Analyst Intern | Mclean, VA | Undergrad | 🔒 | Sep 1 |
+| Cardinal Health | Data and Analytics Intern | Dublin, OH | Undergrad | 🔒 | Sep 1 |
 | Chamberlain Group | Community Product Management Intern | Oak Brook, IL | Undergrad | 🔒 | Sep 1 |
 | Citadel | Sector Data Scientist Intern | New York, NY | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer Intern | <details><summary>**4 locations**</summary>New York, NY</br>Greenwich, CT</br>Miami, FL</br>Houston, TX</details> | Undergrad | 🔒 | Sep 1 |
@@ -1200,10 +1237,33 @@
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-196 closed
+219 closed
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Barclays | Quantitative Finance Associate Intern - Off Cycle Internship Programme | London, UK | Fall 2026 | Masters | 🔒 | Sep 19 |
+| Blackstone | Quant and Portfolio Analytics Intern - Credit and Insurance | London, UK | Fall 2026 | Masters | 🔒 | Sep 19 |
+| Citadel | Sector Data Analyst Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| Clearwater Analytics | Software Developer Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| Dmg Media | AI Engineer Intern - Innovation Team | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| Ekimetrics | Data Science & Marketing Effectiveness Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| Epic Games | Engine Programmer Intern - Unreal Engine | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| Fanvue | Software Engineer Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| Fasanara | Quant Trading Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| Helsing | AI Research Intern - 3D Computer Vision | London, UK Paris, France Berlin, Germany Sant Cugat del Valles, Barcelona, Spain Munich, Germany | Fall 2026 | Masters | 🔒 | Sep 19 |
+| JD.com | Product Management Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| JP Morgan Chase | Quantitative Research Markets Analyst Intern - Quantitative Trading & Research Markets | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| ↳ | Quantitative Research Markets Associate Intern - Quantitative Trading & Research Markets | London, UK | Fall 2026 | Masters | 🔒 | Sep 19 |
+| LEGO | Employee Engagement & Analytics Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| Levi Strauss & Co. | Analytics Intern - eCommerce | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| Man Group | Quantitative Researcher Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| Palantir | Software Engineer Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| ↳ | Forward Deployed Software Engineer Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| SPAICE Technology | Software Engineer Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| Stripe | Software Engineer Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| Swift | Standards Strategy & Product Management Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| The Voleon Group | Research Intern | London, UK | Fall 2026 | Masters | 🔒 | Sep 19 |
+| TWG Global | AI Data Science Intern - AI/ML Center of Excellence | London, UK Remote in UK | Fall 2026 | Masters | 🔒 | Sep 19 |
 | Anduril | Winter 2027 Test Automation Engineer Co-op | Washington, DC | Co-op | Undergrad | 🔒 | Sep 15 |
 | RTX | Software Engineering Co-op (Summer/Fall 2027) | ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6, IL | Co-op | Undergrad | 🔒 | Sep 15 |
 | RTX | Software Engineering Co-op (Summer/ Fall 2027) | CEDAR RAPIDS-124 ~ 400 Collins Rd NE ~ BLDG 124, IA | Co-op | Undergrad | 🔒 | Sep 14 |
@@ -1403,10 +1463,25 @@
 
 ## 🎓 New Grad 2027
 
-1295 closed
+1310 closed
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Accordience | Junior AI & Automation Specialist | London, UK |  | Undergrad | 🔒 | Sep 19 |
+| American Express | Software Engineer New Grad | London, UK | Spring 2027 | Undergrad | 🔒 | Sep 19 |
+| Arondite | Deployed Software Engineer New Grad | London, UK | Spring 2027 | Undergrad | 🔒 | Sep 19 |
+| Blenheim Chalcot | Junior Software Engineer | London, UK |  | Undergrad | 🔒 | Sep 19 |
+| Bloxd | Software Engineer New Grad | London, UK | Spring 2027 | Undergrad | 🔒 | Sep 19 |
+| Citadel Securities | Software Engineer – University Graduate | London, UK | Spring 2027 | Undergrad | 🔒 | Sep 19 |
+| ↳ | Quantitative Trader New Grad | London, UK | Spring 2027 | Undergrad | 🔒 | Sep 19 |
+| ↳ | Quantitative Research Analyst – University Graduate | London, UK Dublin, Ireland |  | Undergrad | 🔒 | Sep 19 |
+| Homey | Junior Software Engineer - AI-Native | London, UK |  | Undergrad | 🔒 | Sep 19 |
+| LexisNexis Risk Solutions | Software Engineer 1 - Risk Solutions Technology Graduate Program | London, UK | Spring 2027 | Undergrad | 🔒 | Sep 19 |
+| Palantir | Software Engineer – New Grad | London, UK | Spring 2027 | Undergrad | 🔒 | Sep 19 |
+| ↳ | Forward Deployed Software Engineer New Grad - UK Government | London, UK |  | Undergrad | 🔒 | Sep 19 |
+| RELX | Software Engineer 1 - Risk Solutions Technology Graduate Program | London, UK | Spring 2027 | Undergrad | 🔒 | Sep 19 |
+| Scale AI | Software Engineer New Grad | London, UK | Spring 2027 | Undergrad | 🔒 | Sep 19 |
+| WallStreetQuants | Quantitative Researcher New Grad | London, UK | Spring 2027 | Undergrad | 🔒 | Sep 19 |
 | American Express | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services | New York, NY |  | Undergrad | 🔒 | Sep 16 |
 | ↳ | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services | Charlotte, NC |  | Undergrad | 🔒 | Sep 16 |
 | ↳ | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services | Sunrise, FL |  | Undergrad | 🔒 | Sep 16 |

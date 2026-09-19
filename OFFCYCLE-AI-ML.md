@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops — Data Science, AI & Machine Learning
 
-**338** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
+**333** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
@@ -44,7 +44,6 @@
 | Chemours | Generative AI and Data Science Intern - AI & Data Science | Wilmington, DE | Fall 2026 | Undergrad | [Apply](https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/AI---Data-Science-Intern_JR15013?utm_source=aprameyak) | Sep 19 |
 | Church & Dwight | AI Developer Co-op - Graduate Program | Ewing Township, NJ | Co-op | Masters | [Apply](https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686?utm_source=aprameyak) | Sep 19 |
 | Ciena | AI Engineer Intern - Winter 2027 | Ottawa, ON | Winter 2027 | Undergrad | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Engineer-Intern--Winter-2027-_R031667?utm_source=aprameyak) | Sep 19 |
-| Citadel | Sector Data Analyst Intern | London, UK | Fall 2026 | Undergrad | [Apply](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/) | Sep 19 |
 | Clearwater Analytics | Generative AI Intern | Seattle, WA | Fall 2026 | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Seattle/Gen-AI-Intern_R12193?utm_source=aprameyak) | Sep 19 |
 | Cole Engineering Services | AI Intern | Orlando, FL | Fall 2026 | Undergrad | [Apply](https://jobs-cesi.icims.com/jobs/11219/job?mobile=true&needsRedirect=false) | Sep 19 |
 | Commercial Metals | AI Intern | Irving, TX | Fall 2026 | Undergrad | [Apply](https://jobs.cmc.com/job/Irving-AI-Intern-SIOP-TX-75039/1417644400/?ats=successfactors) | Sep 19 |
@@ -60,9 +59,7 @@
 | Dell Technologies | Global Marketing AI & Data Intern | Round Rock, TX | Fall 2026 | Masters | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299054) | Sep 19 |
 | DiligenceVault | AI Engineer Intern | NYC | Fall 2026 | Undergrad | [Apply](https://diligencevault.applytojob.com/apply/Yo3RhxiDyM/AI-Engineer-Intern) | Sep 19 |
 | Direct Supply | AI Engineer Intern | Milwaukee, WI | Fall 2026 | Undergrad | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553?utm_source=aprameyak) | Sep 19 |
-| Dmg Media | AI Engineer Intern - Innovation Team | London, UK | Fall 2026 | Undergrad | [Apply](https://www.dmgmedia.co.uk/careers/jobs/id/8130352?gh_jid=8130352) | Sep 19 |
-| Eaton | Data Analyst Intern - Marketing | Slough, UK | Fall 2026 | Undergrad | [Apply](https://eaton.eightfold.ai/careers/job/687238373522) | Sep 19 |
-| Ekimetrics | Data Science & Marketing Effectiveness Intern | London, UK | Fall 2026 | Undergrad | [Apply](https://jobs.lever.co/ekimetrics/8df1a768-c6b0-4082-9c41-b3171c0fb548/apply?utm_source=aprameyak) | Sep 19 |
+| Eaton | Data Analyst Intern - Marketing | Slough | Fall 2026 | Undergrad | [Apply](https://eaton.eightfold.ai/careers/job/687238373522) | Sep 19 |
 | Emerson Electric | AI Engineering Co-op | Marshalltown, IA | Co-op | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007510) | Sep 19 |
 | ↳ | Data Analytics Intern | Shakopee, MN | Fall 2026 | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009657) | Sep 19 |
 | ↳ | Machine Learning Co-op | Marshalltown, IA | Co-op | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008762) | Sep 19 |
@@ -100,7 +97,6 @@
 | Great American Insurance Company | Catastrophe Modeling & Data Analytics Intern | Cincinnati, OH | Fall 2026 | Undergrad | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Catastrophe-Modeling---Data-Analytics-Intern--Spring-2027-_R9576?utm_source=aprameyak) | Sep 19 |
 | Grow Financial Federal Credit Union | Collections Data Analyst Intern | Remote in | Fall 2026 | Undergrad | [Apply](https://careers-growfinancial.icims.com/jobs/2755/job?mobile=true&needsRedirect=false) | Sep 19 |
 | Healthesystems | Artificial Intelligence Engineer Intern | Remote in | Fall 2026 | Undergrad | [Apply](https://www.healthesystems.com/unassigned/careers-list?gh_jid=7928315003) | Sep 19 |
-| Helsing | AI Research Intern - 3D Computer Vision | London, UK Paris, France Berlin, Germany Sant Cugat del Valles, Barcelona, Spain Munich, Germany | Fall 2026 | Masters | [Apply](https://helsing.ai/jobs/4941957101?gh_jid=4941957101) | Sep 19 |
 | Hoffman Construction | Data Analyst Intern | Amarillo, TX | Fall 2026 | Undergrad | [Apply](https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1521) | Sep 19 |
 | Honeywell | Data Science Co-op | Pittsford, NY | Co-op | Undergrad | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157903) | Sep 19 |
 | Ingredion | Artificial Intelligence & Data Scientist Intern | Westchester, IL | Fall 2026 | Undergrad | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40220?utm_source=aprameyak) | Sep 19 |
@@ -138,7 +134,7 @@
 | Loblaw Companies | Applied Machine Learning Co-op | Brampton, ON | Co-op | Undergrad | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Applied-Machine-Learning---Co-op-Student_R2000697038?utm_source=aprameyak) | Sep 19 |
 | Loram | Machine Learning / Artificial Intelligence Intern | Hamel, Medina, MN | Fall 2026 | Undergrad | [Apply](https://jobs.smartrecruiters.com/Loram1/3743990015082845) | Sep 19 |
 | Louisiana Blue | Healthcare Data Science Intern - Spring 2027 | Baton Rouge, LA | Spring 2027 | Undergrad | [Apply](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151?utm_source=aprameyak) | Sep 19 |
-| Luminance | AI Engineering Intern | Cambridge, UK | Fall 2026 | Undergrad | [Apply](https://apply.workable.com/luminance-1/j/E045EF5A7A/apply) | Sep 19 |
+| Luminance | AI Engineering Intern | Cambridge | Fall 2026 | Undergrad | [Apply](https://apply.workable.com/luminance-1/j/E045EF5A7A/apply) | Sep 19 |
 | M3USA | AI Engineering Intern | Fort Washington, PA | Fall 2026 | Undergrad | [Apply](https://jobs.smartrecruiters.com/M3USA/744000148244649) | Sep 19 |
 | Mackenzie Investments | Data Science Intern | Toronto, ON | Fall 2026 | Undergrad | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/5977/job?mobile=true&needsRedirect=false) | Sep 19 |
 | Marmon Holdings | AI Intern | Sauget, IL | Fall 2026 | Undergrad | [Apply](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Sauget-IL/AI-Intern_JR0000045510?utm_source=aprameyak) | Sep 19 |
@@ -214,7 +210,7 @@
 | RTX | Business & Data Analyst Intern | Longueuil, QC | Fall 2026 | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027----Analyste-d-affaires-et-de-Donnes---Internship---Winter-2027----Business---Data-Analyst_01863946?utm_source=aprameyak) | Sep 19 |
 | ↳ | Advanced Analytics Products & Change Management Intern - Advanced Analytics AI Evolution Project | Longueuil, QC | Fall 2026 | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-systmes-d-affaires-et-transformation---Internship---Winter-2027---Analyst-Business-Systems-and-Transformation_01869327?utm_source=aprameyak) | Sep 19 |
 | ↳ | Data Analyst Intern - Spare Parts Services | Longueuil, QC | Fall 2026 | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-de-donnes--Services-de-pices-de-rechange---Internship---Winter-2027---Data-Analyst--Spare-Parts-Services_01872182?utm_source=aprameyak) | Sep 19 |
-| Ryan | AI-Enabled Business Solutions Intern | London, UKManchester, UK | Fall 2026 | Undergrad | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/London/AI-Enabled-Business-Solutions-Intern_R0020589-1?utm_source=aprameyak) | Sep 19 |
+| Ryan | AI-Enabled Business Solutions Intern | Manchester | Fall 2026 | Undergrad | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/London/AI-Enabled-Business-Solutions-Intern_R0020589-1?utm_source=aprameyak) | Sep 19 |
 | Scale AI | Machine Learning Fellow - Human Frontier Collective (Canada) | Canada | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4661650005?utm_source=aprameyak) | Sep 19 |
 | ↳ | Machine Learning Fellow - Human Frontier Collective (US) | United States | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4660340005?utm_source=aprameyak) | Sep 19 |
 | SCOR | Data Science Intern | Charlotte, NC | Fall 2026 | Undergrad | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5393) | Sep 19 |
@@ -247,7 +243,6 @@
 | Thomson Reuters | Applied Research Intern - NLP/ML/GenAI | Toronto, ON | Fall 2026 | Masters | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812?utm_source=aprameyak) | Sep 19 |
 | Toyota Research Institute | Human-Centered AI Research Intern - Causal Reasoning Models | Los Altos, CA | Fall 2026 | Masters | [Apply](https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f/apply?utm_source=aprameyak) | Sep 19 |
 | Transamerica | Data Analytics Intern | Cedar Rapids, IA | Fall 2026 | Undergrad | [Apply](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Data-Analytics-Intern--Spring-2027--Full-time-Hours-_R20062776?utm_source=aprameyak) | Sep 19 |
-| TWG Global | AI Data Science Intern - AI/ML Center of Excellence | London, UK Remote in UK | Fall 2026 | Masters | [Apply](https://apply.workable.com/twgai/j/1206BF981C/apply) | Sep 19 |
 | Verdantas | Environmental Data Analytics Intern - Geographic Information Systems | Syracuse, NY | Fall 2026 | Undergrad | [Apply](https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Syracuse-NY/Data-Analytics-and-GIS-Intern_R-101135?utm_source=aprameyak) | Sep 19 |
 | Vermeer | Data Engineer Intern - IT | Pella, IA | Fall 2026 | Undergrad | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171?utm_source=aprameyak) | Sep 19 |
 | Visa | Research Scientist Intern - Quantum | Foster City, CA | Fall 2026 | Masters | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Staff-Research-Scientist--Intern---PhD-Quantum_REF088578W-2?utm_source=aprameyak) | Sep 19 |

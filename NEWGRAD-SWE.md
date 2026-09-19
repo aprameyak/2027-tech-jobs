@@ -1,35 +1,30 @@
 # 🎓 New Grad 2027 — Software Engineering
 
-**656** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**646** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | AeroVironment | Software Engineer 1 | Sunrise, FL |  | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I_8682?utm_source=aprameyak) | Sep 19 |
 | Affirm | Software Engineer 1 - Frontend - Upfunnel | Remote in |  | Undergrad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7985907003?utm_source=aprameyak) | Sep 19 |
 | Alation | UX Software Engineer 1 - Contractor | Redwood City, CA |  | Undergrad | [Apply](https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770?utm_source=aprameyak) | Sep 19 |
-| American Express | Software Engineer New Grad | London, UK | Spring 2027 | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013782) | Sep 19 |
-| ↳ | Software Engineer 1 - Enterprise Technology Services | NYC |  | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796) | Sep 19 |
+| American Express | Software Engineer 1 - Enterprise Technology Services | NYC |  | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796) | Sep 19 |
 | Anduril | Early Career Flight Software Engineer | Costa Mesa, CA | Spring 2027 | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?utm_source=aprameyak) | Sep 19 |
 | Anysphere | Software Engineer New Grad - 2027 | SFNYC |  | Undergrad | [Apply](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Applied Materials | Software Engineer - New College Grad-Master's | Chandler, AZ |  | Masters | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911?utm_source=aprameyak) | Sep 19 |
 | Arch | Software Engineer - Early Careers | NYC |  | Undergrad | [Apply](https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application?embed=true&utm_source=aprameyak) | Sep 19 |
-| Arondite | Deployed Software Engineer New Grad | London, UK | Spring 2027 | Undergrad | [Apply](https://apply.workable.com/arondite/j/5C5C551ADA/apply) | Sep 19 |
 | Atlassian | Software Engineer New Grad - 2027 Graduate | Burnaby, BC, CanadaVancouver, BC, CanadaRichmond, BC | Spring 2027 | Undergrad | [Apply](https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job) | Sep 19 |
 | Autostore | Entry Level Software Engineer | Atlanta, GA |  | Undergrad | [Apply](https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691?utm_source=aprameyak) | Sep 19 |
-| Blenheim Chalcot | Junior Software Engineer | London, UK |  | Undergrad | [Apply](https://job-boards.greenhouse.io/blenheimchalcot/jobs/8207847?utm_source=aprameyak) | Sep 19 |
-| Bloxd | Software Engineer New Grad | London, UK | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/bloxd/1c9d0167-b9b4-4aaa-af4f-8eccd89bf8a3/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | C3.ai | Platform Full-Stack Engineer New Grad | Redwood City, CA | Spring 2027 | Undergrad | [Apply](https://c3.ai/job-description/8801434002?gh_jid=8801434002) | Sep 19 |
 | Cadence Design Systems | Software Engineer New Grad | San Jose, CA | Spring 2027 | Undergrad | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738?utm_source=aprameyak) | Sep 19 |
 | Ciena | Software Developer New Grad | Atlanta, GA | Spring 2027 | Undergrad | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608?utm_source=aprameyak) | Sep 19 |
-| Citadel Securities | Software Engineer – University Graduate | London, UK | Spring 2027 | Undergrad | [Apply](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-europe/) | Sep 19 |
 | Commure | Software Engineer - Early Career | LAMountain View, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/Commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | CTG | Software Engineer 1 | Painted Post, NY |  | Undergrad | [Apply](https://careers.ctg.com/jobs/17557?icims=1) | Sep 19 |
 | Dell Technologies | Software Engineer 1 - IT | Texas |  | Undergrad | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298784) | Sep 19 |
 | Domino Data Lab | Software Engineer New Grad | NYC | Spring 2027 | Undergrad | [Apply](https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556) | Sep 19 |
-| Eaton | Junior Software Engineer - Research & Development Engineering | Wimborne Minster, Wimborne, UK |  | Undergrad | [Apply](https://eaton.eightfold.ai/careers/job/687239270493) | Sep 19 |
+| Eaton | Junior Software Engineer - Research & Development Engineering | Wimborne Minster, Wimborne |  | Undergrad | [Apply](https://eaton.eightfold.ai/careers/job/687239270493) | Sep 19 |
 | Garmin | Software Engineer 1 - Android | Yarmouth, ME |  | Undergrad | [Apply](https://careers.garmin.com/jobs/16587?icims=1) | Sep 19 |
 | General Dynamics Mission Systems | Software Engineer Entry Level | Taunton, MA |  | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/74828/job?mobile=true&needsRedirect=false) | Sep 19 |
-| General Dynamics UK | Junior Software Engineer | Blackwood, UK |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000145530335) | Sep 19 |
+| General Dynamics UK | Junior Software Engineer | Blackwood |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000145530335) | Sep 19 |
 | General Motors | Software Engineer - Early Careers | Seattle, WAAustin, TXWarren, MI |  | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer--Data-Software-Engineering-and-Cloud-Platforms--Early-Careers_JR-202620418?utm_source=aprameyak) | Sep 19 |
 | ↳ | Entry Level Software Engineer | Milford, MIWarren, MI |  | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618756?utm_source=aprameyak) | Sep 19 |
 | ↳ | Software Engineer Early Career - AV Launch | Sunnyvale, CA | Spring 2027 | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/oftware-Engineer--AV-Launch---Early-Career_JR-202619888?utm_source=aprameyak) | Sep 19 |
@@ -44,23 +39,18 @@
 | ↳ | Software Developer New Grad - Engagement Optimization | Laurel, MD |  | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/59510?icims=1) | Sep 19 |
 | Klaviyo | Software Engineer 1 | Boston, MA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003?utm_source=aprameyak) | Sep 19 |
 | LexisNexis Legal & Professional | Software Engineer 1 - Aspire Graduate Program | Raleigh, NC | Spring 2027 | Undergrad | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R118694?utm_source=aprameyak) | Sep 19 |
-| LexisNexis Risk Solutions | Software Engineer 1 - Risk Solutions Technology Graduate Program | London, UK | Spring 2027 | Undergrad | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Tech-Accelerate-Grad-Program-Software-Engineer_R118618?utm_source=aprameyak) | Sep 19 |
 | Meow | Software Engineer New Grad | NYC | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Mimecast | Software Engineer 1 - Endpoint Sensor | Minneapolis, MN |  | Undergrad | [Apply](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6708-1?utm_source=aprameyak) | Sep 19 |
-| Palantir | Software Engineer – New Grad | London, UK | Spring 2027 | Undergrad | [Apply](https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply?utm_source=aprameyak) | Sep 19 |
-| ↳ | Forward Deployed Software Engineer New Grad - UK Government | London, UK |  | Undergrad | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a/apply?utm_source=aprameyak) | Sep 19 |
 | Perpay | Software Engineer – New Grad | Philadelphia, PA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/perpay/jobs/4034578007?utm_source=aprameyak) | Sep 19 |
 | Perseus Group | Software Engineer 1 | Sharon, PAJacksonville, FL |  | Undergrad | [Apply](https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Sharon-Pennsylvania---USA/Software-Engineer-I_R54341?utm_source=aprameyak) | Sep 19 |
 | PROS Holdings, Inc. | Software Engineer 1 | Houston, TX |  | Undergrad | [Apply](https://pros.wd5.myworkdayjobs.com/pros_careers/job/USA-TX-Houston-Office/Software-Engineer-I_R3608?utm_source=aprameyak) | Sep 19 |
 | Radiant | Software Engineer New Grad | El Segundo, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/radiant-industries/1ec29cec-d18f-417d-adc6-31adda87c687/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | RELX | Software Engineer 1 | Alpharetta, GA |  | Undergrad | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Software-Engineer-1_R117973-1?utm_source=aprameyak) | Sep 19 |
-| ↳ | Software Engineer 1 - Risk Solutions Technology Graduate Program | London, UK | Spring 2027 | Undergrad | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/London-Wall/Tech-Accelerate-Grad-Program-Software-Engineer_R118618-1?utm_source=aprameyak) | Sep 19 |
 | Replit | Software Engineer New Grad - Summer 2027 | Foster City, CA | Summer 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Rocket Lab USA | Flight Software Engineer 1 | Littleton, CO |  | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992129003?utm_source=aprameyak) | Sep 19 |
 | RTX | Software Engineer New Grad | Arlington County, Arlington, VA | Spring 2027 | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618?utm_source=aprameyak) | Sep 19 |
 | ↳ | Raytheon Software Engineer 1 - Electro-Optical/Infrared Advanced Products and Solutions | McKinney, TX |  | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718?utm_source=aprameyak) | Sep 19 |
 | ↳ | Flight Control Software Engineer 1 | Cedar Rapids, IA |  | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871083?utm_source=aprameyak) | Sep 19 |
-| Scale AI | Software Engineer New Grad | London, UK | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730862005?utm_source=aprameyak) | Sep 19 |
 | SIFT | Software Engineer New Grad | Marina Del Rey, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Silicon Laboratories | Software Engineer 1 - RAIL team | Austin, TX |  | Masters | [Apply](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Software-Engineer-I_21011-1?utm_source=aprameyak) | Sep 19 |
 | SpaceX | Software Engineer New Grad - Software - Starship | Hawthorne, CA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8743362002?utm_source=aprameyak) | Sep 19 |

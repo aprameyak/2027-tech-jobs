@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships — Other Tech
 
-**347** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**343** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -15,8 +15,7 @@
 | Amgen | Digital Product Intern - Digital Product - Technology & Medical Organizations | Remote in | Undergrad | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744?utm_source=aprameyak) | Sep 19 |
 | Baird | IT Data & Analytics Intern | Madison, WIMilwaukee, WI | Undergrad | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Data---Analytics--Year-Round-_R20261012-1?utm_source=aprameyak) | Sep 19 |
 | ↳ | Capital Markets Compliance Data & Analytics Intern | Milwaukee, WI | Undergrad | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Capital-Markets-Compliance-Data---Analytics--Year-Round-_R2026962-2?utm_source=aprameyak) | Sep 19 |
-| Barclays | Customer and Digital Data and Analytics Intern | Glasgow, UK | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278?utm_source=aprameyak) | Sep 19 |
-| ↳ | Data and Analytics Intern - Customer and Digital | London, UK | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-London_JR-0000129280?utm_source=aprameyak) | Sep 19 |
+| Barclays | Customer and Digital Data and Analytics Intern | Glasgow | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278?utm_source=aprameyak) | Sep 19 |
 | Bedrock Robotics | Onboard Infrastructure Engineer Intern - ML Inference | SF | Undergrad | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | BlueCross BlueShield of Nebraska | Healthcare Analytics Intern | Omaha, NE | Undergrad | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Healthcare-Analytics-Intern--Starts-Summer-2027_JR101437?utm_source=aprameyak) | Sep 19 |
 | ↳ | Healthcare Reimbursement Analytics Intern - Summer 2027 | Omaha, NE | Undergrad | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Healthcare-Reimbursement-Analytics-Intern---Summer-2027_JR101410?utm_source=aprameyak) | Sep 19 |
@@ -61,7 +60,6 @@
 | ↳ | Category Technology Intern - MMSC | Wyoming, MI | Undergrad | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/MMSC-Category-Technology-Internship_R-57187?utm_source=aprameyak) | Sep 19 |
 | Guardian Life | Application Development Intern - Digital & Technology | Holmdel, NJNYCBethlehem, PA | Undergrad | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209?utm_source=aprameyak) | Sep 19 |
 | HF Sinclair | Reporting & Analytics Intern | Dallas, TX | Undergrad | [Apply](https://careers.hfsinclair.com/job/Dallas-Reporting-&-Analytics-Intern-TX-75219/1430067400/?ats=successfactors) | Sep 19 |
-| Howden | Analytics Intern | London, UK | Undergrad | [Apply](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Analytics-Summer-Internship-2027_R0019272?utm_source=aprameyak) | Sep 19 |
 | Humana | Analytics Intern | 6 locationsLouisville, KYNashville, TNChicago, ILFort Lauderdale, FLArlington County, Arlington, VANYC | Masters | [Apply](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Graduate-Analytics-Internship---Summer-2027_R-429772?utm_source=aprameyak) | Sep 19 |
 | Immuta | Product Research Intern | College Park, MD | Undergrad | [Apply](https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply?utm_source=aprameyak) | Sep 19 |
 | J.M. Smucker | Sensory and Products Research Intern - Summer 2027 | Orrville, OH | Undergrad | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Sensory-and-Products-Research-Intern--Summer-2027_115677?utm_source=aprameyak) | Sep 19 |
@@ -121,8 +119,7 @@
 | ↳ | Design Engineer Intern - Graduate-Level - Summer 2027 | Delaware, OHFort Lauderdale, FLHuntsville, AL | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279217) | Sep 19 |
 | ↳ | Design Engineering Intern | Delaware, OHFort Lauderdale, FL | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279250) | Sep 19 |
 | ↳ | Design Engineering Intern - Summer 2027 | Delaware, OHFort Lauderdale, FLHuntsville, AL | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279211) | Sep 19 |
-| Waymo | MS/PhD Intern - Sim-Realism ML Infrastructure | London, UK | Masters; PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8205680) | Sep 19 |
-| ↳ | Human Behavior Analytics Intern - Safety Research | Mountain View, CA | Undergrad | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8197899) | Sep 19 |
+| Waymo | Human Behavior Analytics Intern - Safety Research | Mountain View, CA | Undergrad | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8197899) | Sep 19 |
 | Wellington Management | Technology Undergraduate Intern | Boston, MA | Undergrad | [Apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778?utm_source=aprameyak) | Sep 19 |
 | Western & Southern Financial Group | Digital Analytics Intern - Spring or Summer 2027 | Cincinnati, OH | Undergrad | [Apply](https://careers-westernsouthern.icims.com/jobs/25195/job?mobile=true&needsRedirect=false) | Sep 19 |
 | Wipfli | Data and Analytics Consulting Intern - Summer 2027 | Milwaukee, WI | Undergrad | [Apply](https://careers-wipfli.icims.com/jobs/8295/job?mobile=true&needsRedirect=false) | Sep 19 |
@@ -233,7 +230,6 @@
 | ↳ | University - 2027 Summer Games Systems Engineer Intern - Rome, NY | Rome, NY | Masters | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386?utm_source=aprameyak) | Sep 1 |
 | ↳ | University - 2027 Summer Games, Systems Engineer Intern - Atlanta, GA | Atlanta, GA | Masters | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381?utm_source=aprameyak) | Sep 1 |
 | ↳ | University - 2027 Summer Games Systems Engineer Intern - Annapolis Junction, MD | Annapolis Junction, MD | Masters | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0248384?utm_source=aprameyak) | Sep 1 |
-| Cardinal Health | Data and Analytics Intern | Dublin, OH | Undergrad | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Data---Analytics-Internship--Summer-2027-_20185913?utm_source=aprameyak) | Sep 1 |
 | Clearwater Analytics | UX/UI/Technical Content Intern | New York, NY | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/UX-UI-Technical-Content-Intern_R12195?utm_source=aprameyak) | Sep 1 |
 | Crowe | Risk Technology Intern | Remote (US) | Undergrad | [Apply](https://careers.crowe.com/job/CROCROUSR71051EXTERNALENUS/Risk-Technology-Intern) | Sep 1 |
 | DraftKings | Analytics Intern | Boston, MA | Undergrad | [Apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR14926?utm_source=aprameyak) | Sep 1 |

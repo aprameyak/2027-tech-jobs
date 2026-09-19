@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops — Other Tech
 
-**142** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
+**139** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
@@ -56,9 +56,7 @@
 | Johnson & Johnson | Technology and Digital Quality Co-op | Horsham, PARaritan, NJ | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/TDQ-Co-Op_R-098461?utm_source=aprameyak) | Sep 19 |
 | ↳ | Strategic Insights & Analytics Co-op | Horsham, PAHopewell Township, NJ | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insights---Analytics-Co-Op_R-095717?utm_source=aprameyak) | Sep 19 |
 | Keysight Technologies | Integrated Photonics Research Intern | Santa Clara, CA | Fall 2026 | Undergrad | [Apply](https://jobs.keysight.com/jobs/54138?icims=1) | Sep 19 |
-| LEGO | Employee Engagement & Analytics Intern | London, UK | Fall 2026 | Undergrad | [Apply](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/London/Employee-Engagement---Analytics-Intern_0000036941?utm_source=aprameyak) | Sep 19 |
 | Lennox International | Mobile Applications Intern | Richardson, TX | Fall 2026 | Undergrad | [Apply](https://uscareers-lennox.icims.com/jobs/54691/job?mobile=true&needsRedirect=false) | Sep 19 |
-| Levi Strauss & Co. | Analytics Intern - eCommerce | London, UK | Fall 2026 | Undergrad | [Apply](https://levistraussandco.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Analytics-Intern_R-0155618-1?utm_source=aprameyak) | Sep 19 |
 | Loblaw Companies | Technology Transformation Co-op - Technology Transformation | Brampton, ON | Co-op | Undergrad | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Loblaw-Brands--Technology-Transformation---Co-op-Student_R2000695051?utm_source=aprameyak) | Sep 19 |
 | ↳ | Replenishment Optimization Data & Analytics Co-op | Brampton, ON | Co-op | Undergrad | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Replenishment-Optimization-Data---Analytics---Co-op-Student_R2000697074?utm_source=aprameyak) | Sep 19 |
 | ↳ | Technical Analyst Co-op | Mississauga, ON | Co-op | Undergrad | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1685-Tech-Ave-Mississauga-ON/Business-Analyst-Co-op-Student_R2000697512-2?utm_source=aprameyak) | Sep 19 |
@@ -92,7 +90,6 @@
 | ↳ | Internship - System Integration & Test Automation Engineer - Energy Engineering - Winter/Spring 2027 | Palo Alto, CA | Spring 2027 | Undergrad | [Apply](https://www.tesla.com/careers/search/job/284026) | Sep 19 |
 | ↳ | System Integration and Test Automation Engineer Intern - Energy Engineering | Palo Alto, CA | Fall 2026 | Undergrad | [Apply](https://www.tesla.com/careers/search/job/283396) | Sep 19 |
 | Texas Instruments | Digital IC Design Engineer Intern | Knoxville, TNDallas, TXTucson, AZ | Fall 2026 | Masters | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017548) | Sep 19 |
-| The Voleon Group | Research Intern | London, UK | Fall 2026 | Masters | [Apply](https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Toyota Research Institute | Robotics Research Intern - Post-Training | Los Altos, CA | Fall 2026 | Masters | [Apply](https://jobs.lever.co/tri/186808f9-464c-4f22-9d7d-4372ef272ff0/apply?utm_source=aprameyak) | Sep 19 |
 | Tyson Foods | Analytics Intern - Transportation Services | Springdale, AR | Fall 2026 | Undergrad | [Apply](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Year-round-Intern---Transportation-Services_R0483113-2?utm_source=aprameyak) | Sep 19 |
 | University of Rochester | Student Researcher Co-op | Rochester, NY | Co-op | Undergrad | [Apply](https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Student-Researcher-I_R273459?utm_source=aprameyak) | Sep 19 |

@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops — Software Engineering
 
-**348** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
+**341** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
@@ -45,7 +45,6 @@
 | ↳ | Data Platform Engineer Intern - Global Engineering CDN | San Jose, CA | Fall 2026 | Undergrad | [Apply](https://jobs.bytedance.com/en/position/7538139519473092882/detail) | Sep 19 |
 | CIBC | Software Engineer Co-op | Chicago, IL | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Spring-Term-Software-Engineer-Co-op---Chicago--Northeastern-University-_2617782-1?utm_source=aprameyak) | Sep 19 |
 | Ciena | Software Engineering Intern - Optical Transport and IP Networking | Ottawa, ON | Fall 2026 | Undergrad | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631?utm_source=aprameyak) | Sep 19 |
-| Clearwater Analytics | Software Developer Intern | London, UK | Fall 2026 | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---London/Software-Development-Intern_R12096?utm_source=aprameyak) | Sep 19 |
 | Clerkie | Software Engineer Intern | Remote in | Fall 2026 | Undergrad | [Apply](http://getfiber.ai/careers?gh_jid=5225258007) | Sep 19 |
 | Clockwork Systems | Software Engineer Intern | Palo Alto, CA | Fall 2026 | Undergrad | [Apply](https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004?utm_source=aprameyak) | Sep 19 |
 | Composio | Fullstack Engineer Intern - Product Team | SF | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d/application?embed=true&utm_source=aprameyak) | Sep 19 |
@@ -67,13 +66,11 @@
 | Encephalo Investments | Software Developer Intern | Woodbury, MN | Fall 2026 | Undergrad | [Apply](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349) | Sep 19 |
 | Entrust | Software Developer Intern | Ottawa, ON | Fall 2026 | Undergrad | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern---Software-Developer---8-months-Hybrid-in-Ottawa_R004358?utm_source=aprameyak) | Sep 19 |
 | Epic Games | UI Programmer Intern - Games | Cary, NC | Fall 2026 | Undergrad | [Apply](https://epicgames.com/careers/jobs/6183401004?gh_jid=6183401004) | Sep 19 |
-| ↳ | Engine Programmer Intern - Unreal Engine | London, UK | Fall 2026 | Undergrad | [Apply](https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004) | Sep 19 |
 | Equifax | Technology Intern - Software Development - Site Reliability Engineering | Alpharetta, GA | Fall 2026 | Undergrad | [Apply](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Intern_J00178784?utm_source=aprameyak) | Sep 19 |
 | Exegy | Software Developer Intern | Montreal, QC | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Fab2 | Software Engineering Intern - Winter | SFAustin, TX | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/fab2/0c4dc4f4-01c9-4138-a666-e7234cda7e95/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | ↳ | Automation Software Engineer Intern - Winter | SFAustin, TX | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Fable | Software Engineer Intern | SF | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf/application?embed=true&utm_source=aprameyak) | Sep 19 |
-| Fanvue | Software Engineer Intern | London, UK | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/fanvue.com/9ba53c5b-dcc7-4e6c-8ecc-0647a62761ce/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Felix Magazine | Web Developer/Programmer Intern | Chicago, IL | Fall 2026 | Undergrad | [Apply](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967) | Sep 19 |
 | Fidelity Investments | Software Full Stack Engineer Co-op | Boston, MAMerrimack, NH | Co-op | Undergrad | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Software-Full-Stack-Engineer_2135236?utm_source=aprameyak) | Sep 19 |
 | ↳ | Software Engineer Co-op - Fidelity Center for Applied Technology | Boston, MA | Co-op | Undergrad | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Software-Engineer_2135200?utm_source=aprameyak) | Sep 19 |
@@ -159,8 +156,6 @@
 | NVIDIA | Systems Software Engineering Intern | Santa Clara, CA | Fall 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492?utm_source=aprameyak) | Sep 19 |
 | Oshkosh | Software Engineer Intern | SF | Fall 2026 | Undergrad | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493?utm_source=aprameyak) | Sep 19 |
 | Paccar | Software Developer Intern | Renton, WA | Fall 2026 | Undergrad | [Apply](https://jobs.paccar.com/job/Renton-2027-Winter-Internship-Software-Developer-Intern-WA-98057/1435928733/?ats=successfactors) | Sep 19 |
-| Palantir | Software Engineer Intern | London, UK | Fall 2026 | Undergrad | [Apply](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply?utm_source=aprameyak) | Sep 19 |
-| ↳ | Forward Deployed Software Engineer Intern | London, UK | Fall 2026 | Undergrad | [Apply](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf/apply?utm_source=aprameyak) | Sep 19 |
 | Persona AI | Autonomy Software Engineer Intern - World Modeling | Houston, TX | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Philips | Software Systems Engineering Co-op - Image Guided Therapy Devices - IVUS Clinical Imaging Software Application | Plymouth, MN | Co-op | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406?utm_source=aprameyak) | Sep 19 |
 | Phoebe | Software Engineer Intern | NYC | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca/application?embed=true&utm_source=aprameyak) | Sep 19 |
@@ -192,12 +187,10 @@
 | Sequence Holdings | Software Engineer Intern | NYC | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/seqholdings/9dc9a7f3-198a-43c0-be75-a3aba228bf2c/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | SightCall | Web Developer Intern | SF | Fall 2026 | Undergrad | [Apply](https://jobs.smartrecruiters.com/SightCall/80298252) | Sep 19 |
 | Simon Property Group | Front End Developer Intern | Indianapolis, IN | Fall 2026 | Undergrad | [Apply](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975?utm_source=aprameyak) | Sep 19 |
-| SPAICE Technology | Software Engineer Intern | London, UK | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/spaice-tech/16468d27-11e9-498c-87b6-3469f5f4ee12/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Specialisterne | Software Engineer Intern - Neurodiversity Hiring Initiative | Dallas, TX | Fall 2026 | Undergrad | [Apply](https://specialisterne.applytojob.com/apply/gOkVN8zGTL/Software-Engineer-Intern-Neurodiversity-Hiring-Initiative) | Sep 19 |
 | Specter Aerospace | Front-End Software Developer Co-op | Boston, MAPeabody, MA | Co-op | Undergrad | [Apply](https://specteraerospace.bamboohr.com/careers/120/) | Sep 19 |
 | Stellar Science | Scientific Software Developer Intern Co-op | Albuquerque, NM | Co-op | Undergrad | [Apply](https://stellarscience.applytojob.com/apply/my4AC4VXHI/Scientific-Software-Developer-Paid-CoopInternship) | Sep 19 |
-| Stripe | Software Engineer Intern | London, UK | Fall 2026 | Undergrad | [Apply](https://stripe.com/jobs/search?gh_jid=8130867) | Sep 19 |
-| ↳ | Software Engineer Intern - Summer or Winter | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) | Sep 19 |
+| Stripe | Software Engineer Intern - Summer or Winter | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) | Sep 19 |
 | Stryker | Commercial Operations Software Engineer Intern | Flower Mound, TX | Fall 2026 | Undergrad | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941?utm_source=aprameyak) | Sep 19 |
 | SWBC | Software Engineer Intern | San Antonio, TX | Fall 2026 | Undergrad | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-2?utm_source=aprameyak) | Sep 19 |
 | TD Bank | Software Engineer Co-op - Global Technology & Solutions | Mt Laurel Township, NJ | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773?utm_source=aprameyak) | Sep 19 |

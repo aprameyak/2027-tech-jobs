@@ -68,12 +68,15 @@ class InferListingTypeTests(unittest.TestCase):
             'Technology Graduate Intern',
             'Software Engineering Internships',
             'Software PhD Internships',
-            'Engineering Interns',
         ]
         for title in cases:
             with self.subTest(title=title):
                 self.assert_type(title, INTERNSHIP)
                 self.assertTrue(is_auto_addable(title))
+
+        # Bare engineering titles are campus-shaped but out of CS/IS scope.
+        self.assert_type('Engineering Interns', INTERNSHIP)
+        self.assertFalse(is_auto_addable('Engineering Interns'))
 
 
 if __name__ == '__main__':

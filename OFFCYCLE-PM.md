@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops — Product Management
 
-**47** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
+**45** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
@@ -21,7 +21,6 @@
 | Geotab | Product Management Intern | Oakville, ON | Fall 2026 | Undergrad | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008?utm_source=aprameyak) | Sep 19 |
 | Hewlett Packard | Personal Systems Product Management Intern | Austin, TX | Fall 2026 | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755?utm_source=aprameyak) | Sep 19 |
 | ITT | Product Management Co-op - Spring/Summer 2027 | Seneca Falls, NY | Co-op | Undergrad | [Apply](https://careersenus-itt-inc.icims.com/jobs/17451/job?mobile=true&needsRedirect=false) | Sep 19 |
-| JD.com | Product Management Intern | London, UK | Fall 2026 | Undergrad | [Apply](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/JD-Young-Product-Management-Internship_JR103809?utm_source=aprameyak) | Sep 19 |
 | Johnson & Johnson | Product Management Co-Op | Danvers, MA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757?utm_source=aprameyak) | Sep 19 |
 | ↳ | Product Management Co-op - Patient Management Solutions | Danvers, MA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757?utm_source=aprameyak) | Sep 19 |
 | Klaviyo | Product Manager Co-op - Spring 2027 | Boston, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7990059003?utm_source=aprameyak) | Sep 19 |
@@ -36,7 +35,6 @@
 | Red Hat | Product Manager Intern | Boston, MARaleigh, NC | Fall 2026 | Undergrad | [Apply](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Product-Manager-Intern_R-059060?utm_source=aprameyak) | Sep 19 |
 | Rundoo | Product Manager Intern | Redwood City, CA | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Skydio | Product Management Intern | San Mateo, CA | Fall 2026 | Masters | [Apply](https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true&utm_source=aprameyak) | Sep 19 |
-| Swift | Standards Strategy & Product Management Intern | London, UK | Fall 2026 | Undergrad | [Apply](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Standards-Strategy---Product-Management-Intern_2026-16374?utm_source=aprameyak) | Sep 19 |
 | TD Bank | Product Management Intern Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506427?utm_source=aprameyak) | Sep 19 |
 | ↳ | Product Management Intern/Co-op - Personal Savings & Investing | Toronto, ON | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Personal-Savings---Investing--PS-I--Product-Management-Intern-Co-op_R_1504373?utm_source=aprameyak) | Sep 19 |
 | Tencent | Communications Platform as a Service Product Management Intern | Palo Alto, CA | Fall 2026 | Undergrad | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019?utm_source=aprameyak) | Sep 19 |

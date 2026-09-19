@@ -1,18 +1,12 @@
 # 🔄 Off-Cycle Internships & Co-ops — Quantitative Finance
 
-**22** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
+**16** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
-| Barclays | Quantitative Finance Associate Intern - Off Cycle Internship Programme | London, UK | Fall 2026 | Masters | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Finance-Associate-Off-Cycle-Internship-Programme-2027-London_JR-0000124685?utm_source=aprameyak) | Sep 19 |
-| Blackstone | Quant and Portfolio Analytics Intern - Credit and Insurance | London, UK | Fall 2026 | Masters | [Apply](https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/Berkeley-Square-House-London/XMLNAME-2026-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Off-Cycle-Intern--London-_40090-1?utm_source=aprameyak) | Sep 19 |
-| Fasanara | Quant Trading Intern | London, UK | Fall 2026 | Undergrad | [Apply](https://apply.workable.com/fasanara/j/FC82BCC5C5/apply) | Sep 19 |
 | Fidelity Investments | Quantitative Analyst Co-op | 4 locationsBoston, MAWestlake, TXSmithfield, RIMerrimack, NH | Co-op | Undergrad | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Quantitative-Analyst_2135235?utm_source=aprameyak) | Sep 19 |
 | Hudson River Trading | Trading and Technology Internship - Witti | NYC | Fall 2026 | Undergrad | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637) | Sep 19 |
-| JP Morgan Chase | Quantitative Research Markets Analyst Intern - Quantitative Trading & Research Markets | London, UK | Fall 2026 | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788659) | Sep 19 |
-| ↳ | Quantitative Research Markets Associate Intern - Quantitative Trading & Research Markets | London, UK | Fall 2026 | Masters | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780) | Sep 19 |
 | Mackenzie Investments | Quantitative Developer Intern - Investment Management - Fixed Income Platform Engineering | Ontario | Fall 2026 | Undergrad | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/5998/job?mobile=true&needsRedirect=false) | Sep 19 |
-| Man Group | Quantitative Researcher Intern | London, UK | Fall 2026 | Undergrad | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101?utm_source=aprameyak) | Sep 19 |
 | Ontario Teachers' Pension Plan | Capital Markets Intern - Quantitative Strategies and Research | Toronto, ON | Fall 2026 | Undergrad | [Apply](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Capital-Markets--Quantitative-Strategies-and-Research--May-2027---4-months-_7168?utm_source=aprameyak) | Sep 19 |
 | Royal Bank of Canada | Algorithmic Trading Developer Co-op - Global Equities | Toronto, ON | Co-op | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Algorithmic-Trading-Developer--16-Months--Co-op-_R-0000187792?utm_source=aprameyak) | Sep 19 |
 | ↳ | Quantitative Risk Intern - Grm | Toronto, ON | Fall 2026 | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Quantitative-Risk-Intern--4-Months-_R-0000186003-2?utm_source=aprameyak) | Sep 19 |

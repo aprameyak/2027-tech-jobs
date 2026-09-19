@@ -1,16 +1,14 @@
 # 🎓 New Grad 2027 — Data Science, AI & Machine Learning
 
-**221** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**219** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
-| Accordience | Junior AI & Automation Specialist | London, UK |  | Undergrad | [Apply](https://accordience.com/jobs/?gh_jid=4934501101) | Sep 19 |
 | American Express | Data Engineer 1 - Enterprise Technology Services | Phoenix, AZ |  | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013286) | Sep 19 |
 | Canadian Tire | Data Science Associate New Grad - Finance Rotational Program | Toronto, ON |  | Undergrad | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983?utm_source=aprameyak) | Sep 19 |
 | Capital One | Data Scientist New Grad | Toronto, ON | Spring 2027 | Undergrad | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1?utm_source=aprameyak) | Sep 19 |
 | ↳ | Data Analyst New Grad - Data Analyst | Toronto, ON |  | Undergrad | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1?utm_source=aprameyak) | Sep 19 |
-| Hewlett Packard | Junior Data Analyst / Project Coordinator | Cambridge, UK |  | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Data-Analyst_3160884-1?utm_source=aprameyak) | Sep 19 |
-| Homey | Junior Software Engineer - AI-Native | London, UK |  | Undergrad | [Apply](https://apply.workable.com/homey/j/50DF9B3D53/apply) | Sep 19 |
+| Hewlett Packard | Junior Data Analyst / Project Coordinator | Cambridge |  | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Data-Analyst_3160884-1?utm_source=aprameyak) | Sep 19 |
 | ID.me | Data Scientist New Grad | Mountain View, CA | Spring 2027 | Masters | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003?utm_source=aprameyak) | Sep 19 |
 | Johns Hopkins Applied Physics Laboratory | Data Scientist New Grad - Computer Scientist - Decision Systems | Laurel, MD |  | Masters | [Apply](https://careers.jhuapl.edu/jobs/59918?icims=1) | Sep 19 |
 | ↳ | Data Analyst New Grad - Engagement Optimization | Laurel, MD |  | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/59507?icims=1) | Sep 19 |
@@ -30,7 +28,7 @@
 | Study.com | Software Engineer New Grad - AI-Native | Mountain View, CA |  | Undergrad | [Apply](https://study.com/pages/jobApplication.html/?gh_jid=5429313008) | Sep 19 |
 | Sun Life | Junior Security Data Analyst | Toronto, ON |  | Undergrad | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Junior-Security-Data-Analyst_JR00126983?utm_source=aprameyak) | Sep 19 |
 | Waymo | Applied Research Scientist – New Grad - Perception Large Language Model/Vision-Language Model - PhD | SFMountain View, CA |  | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7488508) | Sep 19 |
-| WTW | Data Scientist New Grad - Insurance Consulting | London, UKReigate, UK |  | Undergrad | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605389) | Sep 19 |
+| WTW | Data Scientist New Grad - Insurance Consulting | Reigate |  | Undergrad | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605389) | Sep 19 |
 | AIG | 2027 Early Careers: Analyst, Gen AI Engineering – United States, Atlanta, GA | GA-Atlanta | Spring 2027 | Undergrad | [Apply](https://aig.wd1.myworkdayjobs.com/en-US/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI-Data-Engineering---United-States--Atlanta--GA_JR2603744-1?utm_source=aprameyak) | Sep 18 |
 | Perplexity | Member of Technical Staff, AI Products (Early Career) | San Francisco |  | Undergrad | [Apply](https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409/application?utm_source=aprameyak) | Sep 18 |
 | SteerBridge | Junior Data Engineer | Vienna, VA |  | Undergrad | [Apply](https://jobs.lever.co/steerbridge/a49cfd8c-c7ec-4378-9233-412eb16dd96a?utm_source=aprameyak) | Sep 18 |

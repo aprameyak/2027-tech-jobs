@@ -103,11 +103,16 @@ def main() -> int:
 
     for t, path in TABLE_FILES.items():
         text = path.read_text()
-        m = re.search(r'(\d+) listing', text)
+        # Hub files report open counts: "**N** open listing(s)"
+        m = re.search(r'\*\*(\d+)\*\*\s+open listing', text)
+        if not m:
+            m = re.search(r'(\d+)\s+listing', text)
         header = int(m.group(1)) if m else -1
-        count = sum(1 for e in listings if e.get('type') == t)
-        if header != count:
-            errors.append(f'{path.name} count mismatch: header={header} json={count}')
+        open_count = sum(1 for e in listings if e.get('type') == t and e.get('url'))
+        if header != open_count:
+            errors.append(
+                f'{path.name} open-count mismatch: header={header} json_open={open_count}'
+            )
 
     seen: dict[str, dict] = {}
     for e in listings:

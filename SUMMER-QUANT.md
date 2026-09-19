@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships — Quantitative Finance
 
-**165** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**153** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -8,34 +8,22 @@
 | AXQ Capital | Quantitative Research Intern - Summer 2027 | NYC | Undergrad | [Apply](https://job-boards.greenhouse.io/axq/jobs/6181069004?utm_source=aprameyak) | Sep 19 |
 | Bank of Montreal | Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams | Toronto, ON | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2?utm_source=aprameyak) | Sep 19 |
 | Barclays | Quantitative Finance Associate Intern | NYC | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099?utm_source=aprameyak) | Sep 19 |
-| BlackRock | Quantitative Master's Intern - Investments - Quantitative Investing | London, UK | Masters | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465?utm_source=aprameyak) | Sep 19 |
 | Brevan Howard | Summer Internship Program - Systematic Trading Technology Software Engineer | NYC | Undergrad | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597?utm_source=aprameyak) | Sep 19 |
 | ↳ | Quantitative Analyst Intern - AI | NYC | Undergrad | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602?utm_source=aprameyak) | Sep 19 |
-| Capula | Trading and Research Intern | London, UK | Undergrad | [Apply](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply) | Sep 19 |
-| Chicago Trading Company | Quant Trading Intern | London, UK | Undergrad | [Apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4718710005?utm_source=aprameyak) | Sep 19 |
 | DV Trading | Quantitative Research Intern - DV Equities | NYC | Undergrad | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005?utm_source=aprameyak) | Sep 19 |
 | ↳ | Quantitative Trading Intern - DV Equities | NYC | Undergrad | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005?utm_source=aprameyak) | Sep 19 |
 | Freddie Mac | Quantitative Risk Management Intern | McLean, VA | Undergrad | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553?utm_source=aprameyak) | Sep 19 |
-| G-Research | Quantitative Research Internship | London, UK | Masters | [Apply](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691?utm_source=aprameyak) | Sep 19 |
-| Marshall Wace | Quantitative Research Intern | London, UK | Masters | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002?utm_source=aprameyak) | Sep 19 |
-| Maven Securities | Quant Trader Intern | London, UK | Undergrad | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552?utm_source=aprameyak) | Sep 19 |
 | OCC | Quantitative Risk Management Intern | Chicago, IL | Undergrad | [Apply](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4864?utm_source=aprameyak) | Sep 19 |
 | Optiver | Quantitative Intern - Summer 2027 | Austin, TX | Undergrad | [Apply](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) | Sep 19 |
-| PIMCO | Quantitative Research Analyst Intern - Client Solutions & Analytics | London, UK | Masters | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804?utm_source=aprameyak) | Sep 19 |
-| Rothesay | Quantitative Strategist Intern | London, UK | Undergrad | [Apply](https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811533002?utm_source=aprameyak) | Sep 19 |
 | Royal Bank of Canada | Capital Markets Quantitative Technology Services Summer Analyst | Jersey City, NJ | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer-Analyst_R-0000187859?utm_source=aprameyak) | Sep 19 |
 | ↳ | Quantitative Trading Summer Analyst - Global Markets | NYC | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468-1?utm_source=aprameyak) | Sep 19 |
 | ↳ | Quantitative Analyst Summer Associate - Quantitative Technology Services | NYC | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729?utm_source=aprameyak) | Sep 19 |
-| Schonfeld | Quant Developer Intern - Discretionary Macro Fixed Income | London, UK | Undergrad | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8207942?utm_source=aprameyak) | Sep 19 |
-| ↳ | Quantitative Researcher Intern | London, UK | Masters | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8187178?utm_source=aprameyak) | Sep 19 |
-| Susquehanna International Group | Trading Systems Engineer Intern | London, UK | Undergrad | [Apply](https://careers-sig.icims.com/jobs/11334/job?mobile=true&needsRedirect=false) | Sep 19 |
-| Talos | Software Engineer Intern - Trading | London, UK | Undergrad | [Apply](https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d/application?embed=true&utm_source=aprameyak) | Sep 19 |
-| ↳ | Quantitative Analyst Intern | NYC | Masters | [Apply](https://jobs.ashbyhq.com/Talos-Trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b/application?embed=true&utm_source=aprameyak) | Sep 19 |
+| Talos | Quantitative Analyst Intern | NYC | Masters | [Apply](https://jobs.ashbyhq.com/Talos-Trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | U.S. Bank | Quantitative Modeling Intern | Charlotte, NC | Masters | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Summer-Intern_2026-0027558?utm_source=aprameyak) | Sep 19 |
 | USAA | Quantitative Risk Analyst Intern | San Antonio, TX | Undergrad | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-Intern_R0120753?utm_source=aprameyak) | Sep 19 |
 | Waymo | Quantitative Software Engineer Intern | SFMountain View, CA | Masters | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8197554) | Sep 19 |
-| Xantium | Quantitative Developer Intern | London, UK NYC | Undergrad | [Apply](https://job-boards.greenhouse.io/xantium/jobs/4360768009?utm_source=aprameyak) | Sep 19 |
-| ↳ | Quantitative Researcher Intern | London, UK NYC | Undergrad | [Apply](https://job-boards.greenhouse.io/xantium/jobs/4371217009?utm_source=aprameyak) | Sep 19 |
+| Xantium | Quantitative Developer Intern | NYC | Undergrad | [Apply](https://job-boards.greenhouse.io/xantium/jobs/4360768009?utm_source=aprameyak) | Sep 19 |
+| ↳ | Quantitative Researcher Intern | NYC | Undergrad | [Apply](https://job-boards.greenhouse.io/xantium/jobs/4371217009?utm_source=aprameyak) | Sep 19 |
 | Zions Bank | Quantitative Modeling Analyst Intern - Corporate Quantitative Analytics | Remote (US) | Undergrad | [Apply](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071620) | Sep 19 |
 | BlackRock | 2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York | New York, NY | Masters | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468?utm_source=aprameyak) | Sep 15 |
 | ↳ | 2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - San Francisco | San Francisco, CA | Masters | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469?utm_source=aprameyak) | Sep 15 |

@@ -1,15 +1,12 @@
 # 🎓 New Grad 2027 — Quantitative Finance
 
-**50** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**47** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | Akuna Capital University | Junior Quantitative Researcher | Chicago, IL |  | Undergrad | [Apply](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) | Sep 19 |
 | ↳ | Junior Quantitative Researcher - Prediction Markets | Chicago, IL |  | Undergrad | [Apply](https://www.akunacapital.com/careers/job/7863348/?gh_jid=7863348) | Sep 19 |
-| Citadel Securities | Quantitative Trader New Grad | London, UK | Spring 2027 | Undergrad | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-europe/) | Sep 19 |
-| ↳ | Quantitative Trader – University Graduate | Miami, FL | Spring 2027 | Undergrad | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/) | Sep 19 |
-| ↳ | Quantitative Research Analyst – University Graduate | London, UK Dublin, Ireland |  | Undergrad | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/) | Sep 19 |
-| WallStreetQuants | Quantitative Researcher New Grad | London, UK | Spring 2027 | Undergrad | [Apply](https://apply.workable.com/wallstreetquants/j/62537809CA/apply) | Sep 19 |
+| Citadel Securities | Quantitative Trader – University Graduate | Miami, FL | Spring 2027 | Undergrad | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/) | Sep 19 |
 | Barclays | 2027 Quantitative Analytics Analyst Graduate Program New York | New York, 745 7th Avenue | Spring 2027 | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/XMLNAME-2027-Quantitative-Analytics-Analyst-Graduate-Program-New-York_JR-0000131452?utm_source=aprameyak) | Sep 16 |
 | BlackEdge Capital | Graduate Quantitative Researcher 2027 | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/blackedgecapital/jobs/4732320005?utm_source=aprameyak) | Sep 14 |
 | GTS | Quantitative Trader | New York, NY | Spring 2027 | Undergrad | [Apply](https://careers-gtsx.icims.com/jobs/1608/quantitative-trader---2027-graduates/job) | Sep 1 |
