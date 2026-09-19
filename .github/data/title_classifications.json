@@ -1650,8 +1650,9 @@
     "c": "medium"
   },
   "controls engineer, manufacturing automation ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "controls system software engineer": {
     "t": true,
@@ -1815,8 +1816,9 @@
     "c": "medium"
   },
   "digital hardware engineering lead": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "director, business development": {
     "t": false,
@@ -1935,8 +1937,9 @@
     "c": "medium"
   },
   "divisional production recruiting lead": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "division operations analyst, counter intrusion": {
     "t": false,
@@ -1959,8 +1962,9 @@
     "c": "medium"
   },
   "electrical hardware engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "electrical harness design engineer": {
     "t": true,
@@ -2149,8 +2153,9 @@
     "c": "medium"
   },
   "facilities controls engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "facilities strategy & operations, frontier systems": {
     "t": true,
@@ -2296,12 +2301,14 @@
     "c": "medium"
   },
   "fpga dsp engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "fpga verification engineer, air vehicles": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "frontend software engineer": {
     "t": true,
@@ -2628,8 +2635,9 @@
     "c": "medium"
   },
   "lead hardware engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "lead maintenance engineer (electrical)": {
     "t": true,
@@ -2652,8 +2660,9 @@
     "c": "medium"
   },
   "lead pcb design engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "lead production technician": {
     "t": true,
@@ -2962,7 +2971,8 @@
   },
   "mechanical designer": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mechanical technician, launch team": {
     "t": false,
@@ -3181,8 +3191,9 @@
     "c": "medium"
   },
   "pcb designer, air dominance and strike ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "pcb layout designer, intelligence systems": {
     "t": true,
@@ -3210,8 +3221,9 @@
     "c": "medium"
   },
   "(pipeline) tooling engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "planning analyst": {
     "t": false,
@@ -3246,8 +3258,9 @@
     "c": "medium"
   },
   "principal digital hardware engineer (pcbs/fpgas/hdl)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "principal global sourcing manager, critical minerals & mining (germanium)": {
     "t": false,
@@ -3358,8 +3371,9 @@
     "c": "medium"
   },
   "production recruiting lead, connected warfare": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "production scheduler": {
     "t": true,
@@ -3723,11 +3737,13 @@
   },
   "recruiting coordinator (contractor)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "recruiting lead - advanced manufacturing and production": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "regional manager": {
     "t": false,
@@ -3972,16 +3988,19 @@
     "c": "medium"
   },
   "senior controls engineer, manufacturing automation": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior controls engineer, manufacturing automation ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior controls engineer, rocket motor systems": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior cost accountant": {
     "t": false,
@@ -4306,12 +4325,14 @@
     "c": "medium"
   },
   "senior fpga engineer, space": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   " senior fpga test engineer, intelligence systems": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior front end software engineer, react": {
     "t": true,
@@ -4438,8 +4459,9 @@
     "c": "medium"
   },
   "senior hardware design engineer (schematic & systems focus)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior harness engineer, omen": {
     "t": true,
@@ -4669,8 +4691,9 @@
     "c": "medium"
   },
   "senior motor controls engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior mrb engineer": {
     "t": true,
@@ -4734,23 +4757,28 @@
   },
   "senior pcb designer": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior pcb designer, air dominance and strike ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior pcb designer (altium/orcad/kicad)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior pcb designer, high-speed digital": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior pcb designer, power electronics ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior pcb layout designer, intelligence systems": {
     "t": true,
@@ -4959,7 +4987,8 @@
   },
   "senior recruiting manager": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior reliability engineer": {
     "t": true,
@@ -5996,12 +6025,14 @@
     "c": "medium"
   },
   "staff controls engineer, rocket motor systems": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "staff digital hardware engineer ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "staff equipment maintenance technician": {
     "t": false,
@@ -6033,12 +6064,14 @@
     "c": "medium"
   },
   "staff fpga engineer, ew": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "staff fpga engineer, intelligence systems": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "staff global sourcing manager, casting": {
     "t": false,
@@ -6082,7 +6115,8 @@
   },
   "staff pcb designer (relocation provided!) ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "staff platform engineer / staff site reliability engineer": {
     "t": true,
@@ -6776,8 +6810,9 @@
     "c": "medium"
   },
   "tooling engineer, sentry ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "tracking software engineer, space": {
     "t": true,
@@ -8833,11 +8868,13 @@
   },
   "recruiting operations analyst": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "recruiting programs generalist": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior backend engineer, content creation": {
     "t": true,
@@ -9144,7 +9181,8 @@
   },
   "manager, gtm recruiting": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "partner manager, private equity": {
     "t": false,
@@ -9240,8 +9278,9 @@
     "c": "medium"
   },
   "senior technical recruiting manager": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineer, forward deployed agent builder": {
     "t": true,
@@ -13240,7 +13279,8 @@
   },
   "coordinator, business recruiting - contract": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "country manager": {
     "t": false,
@@ -13399,7 +13439,8 @@
   },
   "head of executive search, business recruiting": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "hris manager": {
     "t": false,
@@ -14514,8 +14555,9 @@
     "c": "medium"
   },
   "controls engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "corporate development manager": {
     "t": false,
@@ -14962,8 +15004,9 @@
     "c": "medium"
   },
   "radio frequency hardware engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "regional merchant lead": {
     "t": false,
@@ -15175,8 +15218,9 @@
     "c": "medium"
   },
   "senior mechanical design engineer \u2014 electric motors": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior operations specialist, robot": {
     "t": false,
@@ -17226,11 +17270,13 @@
   },
   "2027 - fpga intern - iit bombay": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 - fpga intern - iit madras": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 - quant research intern - iit bombay ": {
     "t": true,
@@ -17345,8 +17391,9 @@
     "c": "medium"
   },
   "graduate hardware engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   " graduate machine learning researcher": {
     "t": true,
@@ -17381,12 +17428,14 @@
     "c": "medium"
   },
   "hardware engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "hardware engineer intern - summer 2027": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "hardware machine learning engineer": {
     "t": true,
@@ -18353,8 +18402,9 @@
     "c": "medium"
   },
   "ios tooling engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "learning operations specialist": {
     "t": false,
@@ -18437,8 +18487,9 @@
     "c": "medium"
   },
   "senior ios tooling engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior machine learning engineer, recommendations": {
     "t": true,
@@ -19252,7 +19303,8 @@
   },
   "senior manager, early talent recruiting": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior manager, emea payroll": {
     "t": false,
@@ -22922,8 +22974,9 @@
     "c": "medium"
   },
   "sr. image quality hardware engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. knowledge developer": {
     "t": true,
@@ -22947,8 +23000,9 @@
     "c": "medium"
   },
   "sr. rf hardware systems engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. security engineer - enterprise security": {
     "t": true,
@@ -23194,12 +23248,14 @@
     "c": "medium"
   },
   "icml 2026 - recruiting": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "icml 2026 - university recruiting": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "infrastructure software engineer, enterprise genai": {
     "t": true,
@@ -25184,8 +25240,9 @@
     "c": "medium"
   },
   "hardware engineer iii": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "ing\u00e9nieur de logiciels chevronn\u00e9 (c++) / experienced software developer (c++)": {
     "t": true,
@@ -25288,8 +25345,9 @@
     "c": "medium"
   },
   "senior hardware engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior index options trader": {
     "t": false,
@@ -26046,16 +26104,19 @@
     "c": "medium"
   },
   "hardware engineer (fall co-op)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "hardware engineering program manager": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "hardware engineering program specialist": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "head of channel uki ": {
     "t": false,
@@ -26503,36 +26564,44 @@
     "c": "medium"
   },
   "employer brand and recruiting events program manager": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "recruiting coordination lead": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "recruiting coordinator": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "recruiting manager": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "recruiting partner": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior hardware recruiting partner": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior recruiting partner": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior recruiting partner - high volume": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior software recruiting partner": {
     "t": true,
@@ -26543,8 +26612,9 @@
     "c": "medium"
   },
   "technical recruiting manager": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "administrative business partner - security": {
     "t": true,
@@ -27589,16 +27659,19 @@
     "c": "medium"
   },
   "asic dft technical leader": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic dft technical leader- mbist": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic dft technical leader - cdc": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineering technical leader": {
     "t": true,
@@ -27617,8 +27690,9 @@
     "c": "medium"
   },
   "asic engineering technical leader - dft": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "customer relibility engineer - isovalent": {
     "t": true,
@@ -27633,8 +27707,9 @@
     "c": "medium"
   },
   "asic engineering design technical leader": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "dft technical leader": {
     "t": true,
@@ -27645,8 +27720,9 @@
     "c": "medium"
   },
   "asic dft engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "silicon photonics senior design engineer- (hybrid)": {
     "t": true,
@@ -27658,7 +27734,8 @@
   },
   "asic dfx & test architect lead": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "software engineer - mobile": {
     "t": true,
@@ -27673,12 +27750,14 @@
     "c": "medium"
   },
   "hardware engineer (transceiver module group)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic technical lead- dft": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "engineering program manager - webex client engineering": {
     "t": true,
@@ -27694,8 +27773,9 @@
     "a": 0
   },
   "asic physical design engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "frontend software engineering technical leader- angular v20+": {
     "t": true,
@@ -27710,8 +27790,9 @@
     "c": "medium"
   },
   "hardware design engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "ic package design technical team leader": {
     "t": true,
@@ -27747,8 +27828,9 @@
     "c": "medium"
   },
   "asic design verification engineer  - 5 years to 13years - bangalore": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "technical program manager- ip/pdk": {
     "t": true,
@@ -27759,8 +27841,9 @@
     "c": "medium"
   },
   "asic engineering technical leader- dft": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "full-chip physical design engineer": {
     "t": true,
@@ -27771,56 +27854,68 @@
     "c": "medium"
   },
   "asic design verification engineering technical leader": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic engineering technical leader- sta": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic dft engineering technical leader | scan, atpg, mbist": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic technical leader- dft": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic dft cad technical leader": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic high speed ams technical leader": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic engineering technical lead - dft": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic design engineer | exp 8+ years": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic design verification engineer | uvm | exp. 8+ years": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic design verification engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic link modeling technical leader": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior sta timing engineer": {
     "t": true,
     "c": "medium"
   },
   "asic design verification technical leader": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "photonic packaging engineer": {
     "t": true,
@@ -27996,8 +28091,9 @@
     "c": "medium"
   },
   "hardware engineer- hw board design": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "kubernetes platform engineer \u2013 ai infrastructure": {
     "t": true,
@@ -28044,16 +28140,18 @@
     "c": "medium"
   },
   "asic engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "associate solutions engineer \u2013 australia": {
     "t": true,
     "c": "medium"
   },
   "asic engineer :: physical design": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "consulting engineer | collaboration (japanese speaking)": {
     "t": true,
@@ -28334,12 +28432,14 @@
     "c": "medium"
   },
   "hardware engineering technical leader": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic engineering technical leader": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior database engineer (dbre)": {
     "t": true,
@@ -28484,8 +28584,9 @@
     "c": "medium"
   },
   "junior asic engineer - israel - etr": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineer, silicon one software- customer experience - sdk - l2/l3": {
     "t": true,
@@ -28516,20 +28617,23 @@
     "c": "medium"
   },
   "asic design engineer, sta": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic engineering program manager": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "principal product manager, ai - hybrid": {
     "t": true,
     "c": "medium"
   },
   "hardware engineering technical leader (onsite) - 2014979": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior data engineer \u2013 big data & streaming platforms - java/scala or python | spark, kafka | flink, iceberg / lakehouse, trino | 8 to 12 years": {
     "t": true,
@@ -28556,8 +28660,9 @@
     "c": "medium"
   },
   "fpga design technical leader- ethernet,pcie, system verilog, xilinx- 12+ years": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "audio software developer": {
     "t": true,
@@ -28581,12 +28686,14 @@
     "a": 0
   },
   "asic dft sta technical lead": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic dft sta engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive - portfolio, east bay sled": {
     "t": false,
@@ -28619,8 +28726,9 @@
     "c": "medium"
   },
   "senior fpga/asic verification engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineer - backend engineer ,  python/go , kubernetes, database - 5 to 8 years": {
     "t": true,
@@ -28678,20 +28786,23 @@
     "c": "medium"
   },
   "asic physical design technical lead": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior asic physical design engineering technical lead": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineering technical leader, control systems - acacia (onsite)": {
     "t": true,
     "c": "medium"
   },
   "hardware engineering technical leader - acacia (hybrid)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "embedded software technical leader - acacia (onsite)": {
     "t": false,
@@ -28703,8 +28814,9 @@
     "c": "medium"
   },
   "optical hardware engineering technical leader, acacia (hybrid)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "test automation engineer - acacia (onsite)": {
     "t": true,
@@ -28715,8 +28827,9 @@
     "c": "medium"
   },
   "asic physical design principal engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior manager, product management: smart cameras": {
     "t": true,
@@ -28732,8 +28845,9 @@
     "c": "medium"
   },
   "asic design verification engineer, technical leader": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "ehs regional project manager": {
     "t": false,
@@ -28850,8 +28964,9 @@
     "c": "medium"
   },
   "asic packaging signal/power integrity hardware engineer (hybrid)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "supplier commodity manager": {
     "t": false,
@@ -28890,12 +29005,14 @@
     "c": "medium"
   },
   "asic packaging signal/power integrity hardware engineering technical lead (remote)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior eda tools and systems support hardware engineer (remote)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "operations manager, crisis response - san jose, ca": {
     "t": false,
@@ -28974,8 +29091,9 @@
     "c": "medium"
   },
   "asic engineer g08 | physical implementation | floor planning | clock and power distribution | exp 4-8 years | 2008252": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior manager, site reliability engineering (fedramp) - thousandeyes": {
     "t": true,
@@ -29015,7 +29133,8 @@
   },
   "senior director, sourcing & supplier management \u2013 asic (silicon one)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "software engineer sf": {
     "t": true,
@@ -29030,8 +29149,9 @@
     "c": "medium"
   },
   "leader, hardware engineering - eda tool, support team, python, lsf": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "security consulting engineer": {
     "t": true,
@@ -29058,16 +29178,18 @@
     "c": "medium"
   },
   "power design hardware engineer - acacia (hybrid)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior analog/mixed-signal ic developer - acacia (hybrid)": {
     "t": true,
     "c": "medium"
   },
   "senior asic physical design engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior analog/mixed-signal ic design engineer - acacia (hybrid)": {
     "t": true,
@@ -29124,8 +29246,9 @@
     "a": 0
   },
   "package mechanical design engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineering manager \u2013 networking & data plane": {
     "t": true,
@@ -29165,8 +29288,9 @@
     "c": "medium"
   },
   "asic verification engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineering technical leader \u2013 routing, c, linux": {
     "t": true,
@@ -29177,8 +29301,9 @@
     "c": "medium"
   },
   "technical leader- quantum networking hardware engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "business operations analyst": {
     "t": false,
@@ -29330,20 +29455,24 @@
     "c": "medium"
   },
   "hardware engineer- (power electronics/ analog design) - blr , 8 to 15 yrs": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "hardware engineer- (power electronics/ analog design) - blr , 4 to 8 yrs": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic engineering technical leader - emulation": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic design verification emulation engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "technical leader, dpu networking and ai infrastructure": {
     "t": true,
@@ -29407,8 +29536,9 @@
     "c": "medium"
   },
   "asic design engineer technical lead": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive - splunk (global pharma)": {
     "t": false,
@@ -29436,16 +29566,18 @@
     "c": "medium"
   },
   "hardware engineering technical leader (onsite) - 2014270": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "lead site reliability engineer, network assurance data platform - cisco thousandeyes": {
     "t": true,
     "c": "medium"
   },
   "asic design verification technical leader - acacia (hybrid)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "integrated photonic test engineer": {
     "t": true,
@@ -29457,8 +29589,9 @@
     "a": 0
   },
   "distinguished hardware engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineer - graduate - sweden": {
     "t": true,
@@ -29482,8 +29615,9 @@
     "c": "medium"
   },
   "asic dft engineer || dft/atpg/mbist/scan/jtag || 8+ years": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "service delivery manager": {
     "t": false,
@@ -29584,36 +29718,43 @@
     "c": "medium"
   },
   "asic packaging development technical leader": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "principal hardware engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic dft engineer - 7 to 10 yrs": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic engineering design verification leader (systemverilog, python, c and uvm |8-12 years| pune)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior software development engineer in test (sdet), hybrid, rtp, nc": {
     "t": true,
     "c": "medium"
   },
   "asic engineering digital designer/ leader ( digital design, fsm, cpu sub-systems, complex socs, fpga validation | 8-12 years | pune)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic engineering digital design leader ( digital design, fsm, cpu sub-systems, complex socs, fpga validation | 12-16 years | pune)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic engineering design verification leader (systemverilog, python, c and uvm |12-16 years| pune)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior software engineer, wireless radio / firmware - 7+ yrs | blr": {
     "t": true,
@@ -29632,8 +29773,9 @@
     "c": "medium"
   },
   "hardware engineer (high-speed io/testing) (onsite)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "telco account executive": {
     "t": false,
@@ -29657,20 +29799,23 @@
     "c": "medium"
   },
   "asic design verification engineer | uvm | exp 8+ years": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "technical leader, software engineer (ai canvas)": {
     "t": true,
     "c": "medium"
   },
   "asic engineering analog design leader:asic engineering analog design leader | high-speed optical transceiver circuits (modulator drivers, tias, cdrs, plls, adc/dac) | 10+ years": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "junior hardware engineer - signal & power integrity - israel - etr": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "account executive - industrial iot": {
     "t": false,
@@ -29682,12 +29827,14 @@
     "c": "medium"
   },
   "asic engineering technical leader | rtl development (verilog, systemverilog, vcs, spyglass, cdc, formal verification) | exp - 12+ years": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic engineering technical leader | design verification | verilog, system verilog, uvm, testbench | exp-  12+ years": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "kubernetes platform engineer - ai infrastructure ( golang/python) - (8+ years)": {
     "t": true,
@@ -29711,28 +29858,32 @@
     "c": "medium"
   },
   "asic design hardware engineer - sdc/sta (hybrid)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineer graduate - israel- etr": {
     "t": true,
     "c": "medium"
   },
   "asic - signal and power integrity technical leader - 10 to 16 years - bangalore/chennai": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "solutions engineer - service provider": {
     "t": true,
     "c": "medium"
   },
   "senior asic physical design cad engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "leader, hardware engineering": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "solutions engineering intern - czechia": {
     "t": true,
@@ -29759,16 +29910,18 @@
     "c": "medium"
   },
   "asic physical design cad engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "physical design technical leader": {
     "t": true,
     "c": "medium"
   },
   "asic package engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "technical leader component & laser reliability engineer": {
     "t": true,
@@ -29830,36 +29983,41 @@
     "a": 0
   },
   "director, hardware engineering | photonics ic, serdes, eic, pic, high speed wireline | 15+ years, bangalore": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior physical design engineer": {
     "t": true,
     "c": "medium"
   },
   "asic emulation engineer / technical leader": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineering manager - cilium - isovalent": {
     "t": true,
     "c": "medium"
   },
   "asic design & verification engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineering technical leader | c, c++, bsp, sonic, device driver, linux, kernel | 12 + years": {
     "t": true,
     "c": "medium"
   },
   "hardware engineer - ic package design team leader (12+ years)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic leader": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "solutions engineer - public sector - cisco": {
     "t": true,
@@ -29890,8 +30048,9 @@
     "c": "medium"
   },
   "asic engineering lead": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "product management specialist - graduate - norway": {
     "t": true,
@@ -29914,8 +30073,9 @@
     "c": "medium"
   },
   "asic verification engineer - cag - taiwan, taipei": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "performance architect": {
     "t": false,
@@ -29926,8 +30086,9 @@
     "c": "medium"
   },
   "asic engineer | physical design | 4+ years |": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "strategic account executive (\u5927\u624b\u65e2\u5b58\u30b0\u30eb\u30fc\u30d7\u4f01\u696d\u62c5\u5f53) - splunk": {
     "t": false,
@@ -29948,24 +30109,28 @@
     "a": 0
   },
   "asic design engineering technical leader": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic digital design engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "strategic solutions engineer - splunk": {
     "t": true,
     "c": "medium"
   },
   "asic dft dv technical leader": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "asic verification engineer - 5 to 13 years - bangalore": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "solutions engineer (network&data center) - cisco": {
     "t": true,
@@ -30017,7 +30182,8 @@
   },
   "senior asic design  - cisco silicon one": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "embedded software engineer wireless": {
     "t": false,
@@ -30029,8 +30195,9 @@
     "c": "medium"
   },
   "asic design engineer  - cisco silicon one": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior verification engineer - cisco silicon one": {
     "t": true,
@@ -30053,8 +30220,9 @@
     "c": "medium"
   },
   "senior rtl design engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "mbist design engineer": {
     "t": true,
@@ -32494,24 +32662,27 @@
     "c": "medium"
   },
   "asic verification engineer - new college grad 2026": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "principal open-source networking architect": {
     "t": true,
     "c": "medium"
   },
   "senior asic verification engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior software engineer, agentic engineering": {
     "t": true,
     "c": "medium"
   },
   "soc design engineer, asic tools and methodology development": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "manager, field application engineering - odm support": {
     "t": true,
@@ -32866,8 +33037,9 @@
     "c": "medium"
   },
   "staff hardware engineer - hw tools iot": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior validation engineer": {
     "t": true,
@@ -33439,8 +33611,9 @@
     "c": "medium"
   },
   "head of technical recruiting": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "associate technical support engineer": {
     "t": true,
@@ -33569,8 +33742,9 @@
     "c": "medium"
   },
   "sr. radio frequency hardware engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "corporate and business communications lead": {
     "t": false,
@@ -34910,12 +35084,14 @@
     "c": "medium"
   },
   "senior hardware engineer - gpu & ai infrastructure": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior hardware engineer - infrastructure": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior machine learning - avatar, core ai": {
     "t": true,
@@ -35435,48 +35611,59 @@
     "c": "medium"
   },
   "automation & controls engineer (asset engineering)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "automation & controls engineer (facilities)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "automation & controls engineer, infrastructure & utility (starship)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "automation & controls engineer, insource manufacturing (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "automation & controls engineer, launch pad (starship)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "automation & controls engineer (raptor manufacturing systems) ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "automation & controls engineer, solar cell factory (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "automation & controls engineer (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "automation & controls engineer (starlink production)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "automation & controls engineer (starship)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "automation & controls engineer (starship launch hardware)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "automation & controls specialist": {
     "t": false,
@@ -36114,24 +36301,28 @@
     "c": "medium"
   },
   "electrical design engineer, gateways & customer hardware (starlink) ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "electrical design engineer (starlink mobile)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "electrical design engineer (starshield)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "electrical foreman": {
     "t": false,
     "c": "medium"
   },
   "electrical hardware engineer, satellites (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "electrical maintenance supervisor": {
     "t": false,
@@ -36573,8 +36764,9 @@
     "c": "medium"
   },
   "fpga/asic design engineer (silicon engineering)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "fulfillment buyer (starship)": {
     "t": false,
@@ -36833,12 +37025,14 @@
     "c": "medium"
   },
   "hardware engineer - electrical, satellites (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "hardware engineer, gateways & customer hardware (starlink) ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "hardware reliability engineer, components (starshield)": {
     "t": true,
@@ -36987,8 +37181,9 @@
     "c": "medium"
   },
   "instrumentation & controls engineer, solar cell factory (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "instrumentation & controls technician": {
     "t": false,
@@ -37231,8 +37426,9 @@
     "c": "medium"
   },
   "lead asic design verification engineer (starshield satellite engineering)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "lead automation and controls engineer, silicon technology (starlink)": {
     "t": true,
@@ -37268,7 +37464,8 @@
   },
   "lead pcb designer (starshield)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "lead scheduler (starship production)": {
     "t": true,
@@ -37404,8 +37601,9 @@
     "c": "medium"
   },
   "manager, asic design engineering (starshield silicon)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "manager, benefits": {
     "t": false,
@@ -37628,28 +37826,34 @@
     "c": "medium"
   },
   "mechanical design engineer, consumer hardware (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "mechanical design engineer, gateways (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "mechanical design engineer, pcb (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "mechanical design engineer (starship components)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "mechanical designer, automation & controls (starship launch pad)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "mechanical design specialist, pcba production - 1st shift (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "mechanical development test engineer, satellites (starlink)": {
     "t": true,
@@ -37792,8 +37996,9 @@
     "c": "medium"
   },
   "new graduate engineer, asic design (starshield)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "new graduate engineer, electrical - satellites (starlink) ": {
     "t": true,
@@ -37953,19 +38158,23 @@
   },
   "pcb designer, avionics (falcon & dragon)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "pcb designer (starlink)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "pcb designer (starshield)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "pcb designer (starship)   ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "pcb materials lab technician (starlink) ": {
     "t": false,
@@ -38068,8 +38277,9 @@
     "c": "medium"
   },
   "principal asic design engineer (starshield)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "principal design verification engineer (silicon engineering)": {
     "t": true,
@@ -38080,8 +38290,9 @@
     "c": "medium"
   },
   "principal electrical design engineer, gateways & customer hardware (starlink) ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "principal network engineer (starlink ground network)": {
     "t": true,
@@ -38092,8 +38303,9 @@
     "c": "medium"
   },
   "principal rf engineer (starshield)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "principal rfic engineer (starshield silicon)": {
     "t": true,
@@ -38124,8 +38336,9 @@
     "c": "medium"
   },
   "process controls engineer, solar cell factory (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "process development engineer ": {
     "t": true,
@@ -38461,8 +38674,9 @@
     "c": "medium"
   },
   "radiation effects engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "ran validation engineer (starlink mobile) ": {
     "t": true,
@@ -38482,11 +38696,13 @@
   },
   "recruiting coordinator - temporary": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "recruiting coordinator- temporary (bastrop)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "reliability engineer, facilities ": {
     "t": true,
@@ -38501,20 +38717,24 @@
     "c": "medium"
   },
   "rf engineer, hardware reliability (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "rf engineer (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "rf engineer (starshield)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "rf engineer (starship)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "rfic design engineer (rfic engineering)": {
     "t": true,
@@ -38557,8 +38777,9 @@
     "c": "medium"
   },
   "rtl design engineer (silicon engineering)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "satellite on-orbit operations engineer (starlink)": {
     "t": true,
@@ -38589,8 +38810,9 @@
     "c": "medium"
   },
   "scada & controls engineer, infrastructure & utility (starship)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "security analyst (detection and incident response)": {
     "t": true,
@@ -39147,40 +39369,49 @@
     "c": "medium"
   },
   "sr. asic design engineer (starshield) ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. asic design verification engineer (silicon engineering)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. asic dft engineer (silicon)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. automation & controls engineer (components)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. automation & controls engineer (facilities) ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. automation & controls engineer, insource manufacturing (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. automation & controls engineer, solar cell factory": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. automation & controls engineer (starlink production)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. automation & controls engineer (starship)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. automation engineer, blades and vanes foundry": {
     "t": true,
@@ -39306,20 +39537,24 @@
     "c": "medium"
   },
   "sr. electrical design engineer, electrical - (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. electrical design engineer, gateways & customer hardware (starlink) ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. electrical design engineer, satellite payload (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. electrical design engineer (starshield)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. electrical superintendent (construction)": {
     "t": false,
@@ -39400,8 +39635,9 @@
     "c": "medium"
   },
   "sr. fpga engineer (starshield)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. full chip physical verification engineer (silicon engineering)": {
     "t": true,
@@ -39440,8 +39676,9 @@
     "c": "medium"
   },
   "sr. hardware design engineer - electrical, satellite payload (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. hardware / infrastructure site reliability engineer (starlink)": {
     "t": true,
@@ -39477,8 +39714,9 @@
     "c": "medium"
   },
   "sr. instrumentation & controls engineer, solar cell factory (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. it linux site reliability engineer": {
     "t": true,
@@ -39521,20 +39759,24 @@
     "c": "medium"
   },
   "sr. mechanical design engineer, consumer hardware (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. mechanical design engineer, gateways (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. mechanical design engineer, satellites (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. mechanical design engineer (starship components) ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. mechanical integration & test engineer (starshield)": {
     "t": true,
@@ -39574,11 +39816,13 @@
   },
   "sr. pcb designer": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "sr. pcb designer (starship)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "sr. pcb reliability engineer (starshield)": {
     "t": true,
@@ -39605,8 +39849,9 @@
     "c": "medium"
   },
   "sr. process controls engineer, solar cell factory (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. process safety engineer": {
     "t": true,
@@ -39662,12 +39907,14 @@
     "c": "medium"
   },
   " sr. radiation effects engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. radiation effects engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. ran software engineer (starlink mobile)": {
     "t": true,
@@ -39682,12 +39929,14 @@
     "c": "medium"
   },
   "sr. rf engineer (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. rf engineer (starshield)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. rf front-end module design engineer (rfic engineering)": {
     "t": true,
@@ -39734,8 +39983,9 @@
     "c": "medium"
   },
   "sr. rtl design engineer (silicon engineering)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. satellite policy manager (starlink mobile)": {
     "t": true,
@@ -39802,8 +40052,9 @@
     "c": "medium"
   },
   "sr. soc/asic physical design engineer (silicon engineering)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. software engineer, additive manufacturing (raptor) ": {
     "t": true,
@@ -40006,8 +40257,9 @@
     "c": "medium"
   },
   "sr. tooling engineer, plastic injection molding (starlink)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sr. trajectory analysis engineer (starship)": {
     "t": true,
@@ -40479,8 +40731,9 @@
     "c": "medium"
   },
   "thermal control and life support hardware engineer (crew starship)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "thermal development technician, robotic welding (starship) - level 4/5": {
     "t": false,
@@ -40507,8 +40760,9 @@
     "c": "medium"
   },
   "thermal hardware engineer (starship heat shield)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "thermal hardware specialist, casting & leaching (starship)": {
     "t": false,
@@ -40832,7 +41086,8 @@
   },
   "recruiting coordinator ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "senior backend engineer - streaming": {
     "t": true,
@@ -40847,8 +41102,9 @@
     "c": "medium"
   },
   "asic design verification engineer ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "automotive hvac systems engineer": {
     "t": true,
@@ -41001,8 +41257,9 @@
     "c": "medium"
   },
   "hardware engineer, lidar performance validation": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "hardware lead, in-vehicle infotainment": {
     "t": false,
@@ -41312,8 +41569,9 @@
     "c": "medium"
   },
   "senior electrical design validation engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior formal verification engineer": {
     "t": true,
@@ -41852,8 +42110,9 @@
     "c": "medium"
   },
   "staff hardware engineer, charging systems": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "staff ios engineer, growth": {
     "t": true,
@@ -42230,16 +42489,18 @@
     "c": "medium"
   },
   "hardware design engineer technical lead": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "pricing & strategy analyst": {
     "t": false,
     "c": "medium"
   },
   "hardware engineering (electrical) technical lead": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "workday security product owner(hybrid)": {
     "t": true,
@@ -42300,8 +42561,9 @@
     "c": "medium"
   },
   "asic engineering layout leader | custom ic layout,  analog, mixed-signal, and high-speed designs | 12+ years, bangalore": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "inside account executive - cybersecurity": {
     "t": false,
@@ -42309,8 +42571,9 @@
     "a": 0
   },
   "hardware engineer ii (co-op) - united states": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "sourcing commodity manager - optic transceivers": {
     "t": false,
@@ -42343,12 +42606,14 @@
     "a": 0
   },
   "system signal & power integrity hardware asic simulation engineer lead (remote)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "system signal & power integrity hardware asic simulation engineer (hybrid)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "leader, engineering hybrid": {
     "t": true,
@@ -42373,8 +42638,9 @@
     "c": "medium"
   },
   "signal/power integrity hardware engineer (onsite)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "solutions engineer - us federal - cloud and ai infrastructure": {
     "t": true,
@@ -42517,8 +42783,9 @@
     "c": "medium"
   },
   "senior asic engineer, power integrity": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "senior systems software engineer, data center platform enablement": {
     "t": true,
@@ -43143,8 +43410,9 @@
     "c": "medium"
   },
   "2026 fall research science internship - united states, phd student science recruiting ": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software development engineer internship - fall 2026 (us)": {
     "t": true,
@@ -43311,7 +43579,8 @@
   },
   "assembly, integration, and test intern fall 2026": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "communications/dsp intern (fall 2026)": {
     "t": false,
@@ -43331,11 +43600,13 @@
   },
   "fpga associate (fall 2026)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "fpga intern (fall 2026)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "power electronics intern (fall 2026)": {
     "t": false,
@@ -43347,7 +43618,8 @@
   },
   "recruiting coordination associate (fall 2026)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "junior pit trader": {
     "t": false,
@@ -43363,7 +43635,8 @@
   },
   "fpga intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "junior strategy and operations analyst, flow macro (european market hours)": {
     "t": false,
@@ -43387,11 +43660,13 @@
   },
   "inside sales representative - early career (2026)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "inbound sales development representative - new grad": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "junior brand designer (social)": {
     "t": false,
@@ -43403,7 +43678,8 @@
   },
   "future opportunities: early career sales talent": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "associate customer support analyst, new grad": {
     "t": false,
@@ -43411,11 +43687,13 @@
   },
   "recruiting coordinator, new grad": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "sales development representative intern (hybrid)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "point72 academy 2026-2027 investment analyst program for experienced professionals - us": {
     "t": false,
@@ -43562,7 +43840,8 @@
   },
   "fall 2026 optical modem hardware intern (8-12 months)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "thw client co-op": {
     "t": false,
@@ -43570,7 +43849,7 @@
   },
   "emerging sales associate - august 2027": {
     "t": false,
-    "c": "medium",
+    "c": "high",
     "a": 0
   },
   "2027 technology internship program": {
@@ -43607,7 +43886,8 @@
   },
   "senior associate - campus sales": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "finance intern - gtm - nbs": {
     "t": false,
@@ -43624,7 +43904,8 @@
   },
   "intern - campus recruiting": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "intern, finance": {
     "t": false,
@@ -43632,7 +43913,8 @@
   },
   "sales office administrator (entry-level)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "field service technician (beltsville, md) 2026 co-op program": {
     "t": false,
@@ -43653,7 +43935,8 @@
   },
   "university recruiting manager - programs and engagement": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "pharmacy intern": {
     "t": false,
@@ -43674,11 +43957,13 @@
   },
   "intern - corporate sales": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "intern sales": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "sales intern": {
     "t": false,
@@ -43759,7 +44044,8 @@
   },
   "photonic hardware intern (4-12 months)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "software engineer and tools developer intern (fall 2026)": {
     "t": true,
@@ -43902,7 +44188,8 @@
   },
   "recruiting coordinator, intern program- temporary": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "part-time student worker tpm": {
     "t": false,
@@ -43934,7 +44221,8 @@
   },
   "sales development representative - new grad": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "associate product manager - vault medical connections": {
     "t": true,
@@ -44113,7 +44401,8 @@
   },
   "recruiting operations internship - fall 2026": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "vehicle integration and test internship - fall 2026": {
     "t": false,
@@ -44363,8 +44652,9 @@
     "c": "medium"
   },
   "rf engineering intern - 2026": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software / hardware engineering - intern": {
     "t": true,
@@ -44442,7 +44732,8 @@
   },
   "scholarnet senior associate - campus sales": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "relationship manager commercial markets  intern": {
     "t": false,
@@ -44621,8 +44912,9 @@
     "c": "medium"
   },
   "summer 2027 intern - hardware engineering": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "junior derivatives trader": {
     "t": false,
@@ -44683,7 +44975,8 @@
   },
   "talent and recruiting intern (fall 2026)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "internship \u2013 data management": {
     "t": true,
@@ -44749,8 +45042,9 @@
     "c": "medium"
   },
   "fpga engineering intern - summer 2027": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "software engineering intern - summer 2027": {
     "t": true,
@@ -44851,19 +45145,23 @@
   },
   "2027 campus recruiting general intelligence center full-time position": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 campus recruiting general intelligence center internship position": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 campus recruiting robotics center full-time position": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "2027 campus recruiting robotics center internship position": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "associate, strategy analyst - new grad 2027": {
     "t": false,
@@ -44919,11 +45217,13 @@
   },
   "area manager intern - summer 2027 (al, fl, ga, nc, sc), university recruiting ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "area manager intern - summer 2027 (wa, or, id, mt, wy, nv, ut, co, az, nm), university recruiting ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "area manager intern \u2013 summer 2027 (texas)": {
     "t": false,
@@ -44939,7 +45239,8 @@
   },
   "area manager intern \u2013 summer 2027 (tn, la, ok, ms, ar), university recruiting ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "area manager intern - summer 2027 (ny, nj, pa, de, md, ct, ma, nh, ri, vt, me)": {
     "t": false,
@@ -44980,7 +45281,8 @@
   },
   "area manager intern - summer 2027 (california), university recruiting ": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "fall 2026: shop/sharks ecommerce affiliate creator selection & growth co-op (august through december 2026)": {
     "t": false,
@@ -45091,7 +45393,8 @@
   },
   "entry level sales executive": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "co-op/intern, it operations - fall 2026": {
     "t": false,
@@ -45395,8 +45698,9 @@
     "c": "medium"
   },
   "2027 truist securities - equity s&t (sales, trading & research) - analyst program (intern conversion)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "2027 truist securities - public finance (capital markets) - analyst program (intern conversion)": {
     "t": false,
@@ -45431,8 +45735,9 @@
     "c": "medium"
   },
   "2027 truist securities - fixed income loans s&t (sales, trading & research) - analyst program (intern conversion)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "2027 truist securities - investment grade debt capital markets (capital markets) - analyst program (intern conversion)": {
     "t": false,
@@ -45476,7 +45781,8 @@
   },
   "mechanical design co-op (8 months, september 2026)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "embedded software developer - new grad": {
     "t": false,
@@ -45578,7 +45884,8 @@
   },
   "outbound sales representative (2027 internship)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "public investments - credit investment intern, summer 2027": {
     "t": false,
@@ -45722,8 +46029,9 @@
     "c": "medium"
   },
   "senior university recruiting program manager": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "student contract worker: analyst (full-time)": {
     "t": false,
@@ -45879,16 +46187,19 @@
     "c": "medium"
   },
   "mechanical associate engineer (spring 2027)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "mechanical associate engineer (summer 2027)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "mechanical associate engineer (winter 2027)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "finance intern - fall 2026 (remote)": {
     "t": false,
@@ -45924,12 +46235,14 @@
     "c": "medium"
   },
   "intern - wet etch process development engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "hardware engineer intern, summer 2027": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "junior quantitative developer & strategist": {
     "t": true,
@@ -46104,8 +46417,9 @@
     "c": "medium"
   },
   "hardware r&d engineering intern (fall 2026)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "print production intern (fall 2026)": {
     "t": true,
@@ -46160,8 +46474,9 @@
     "c": "medium"
   },
   "associate educational sales consultant, inside sales, new grad": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "associate product manager, dictionary media group": {
     "t": true,
@@ -46401,8 +46716,9 @@
     "c": "medium"
   },
   "fall 2026: product design engineering co-op, advanced development (july/august to december)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "fall 2026: product development co-op, shark (july/august to december)": {
     "t": true,
@@ -46594,8 +46910,9 @@
     "c": "medium"
   },
   "assembly, integration, and test associate engineer (fall 2026)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "avionics engineer associate (fall 2026)": {
     "t": true,
@@ -46635,24 +46952,28 @@
     "c": "medium"
   },
   "network planning sales engineer associate (fall 2026)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "network planning sales engineer intern (fall 2026)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "pcb layout engineer intern (fall 2026)": {
     "t": true,
     "c": "medium"
   },
   "radiation effects associate engineer (fall 2026)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "radiation effects engineer intern (fall 2026)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "reliability test intern (fall 2026)": {
     "t": true,
@@ -46971,8 +47292,9 @@
     "c": "medium"
   },
   "electrical hardware engineer \u2013 hpc/ai platform engineering - early career": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "junior geographic information systems analyst": {
     "t": true,
@@ -47113,8 +47435,9 @@
     "c": "medium"
   },
   "technical sales engineer \u2013 early career/development program": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "cloud media services intern": {
     "t": true,
@@ -47367,8 +47690,9 @@
     "a": 0
   },
   "long range platform hardware engineering intern (summer 2027)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "material planning intern (spring 2027)": {
     "t": false,
@@ -47421,7 +47745,8 @@
   },
   "leadership development program 2027 (sales)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "enterprise systems software engineer intern (spring 2027)": {
     "t": true,
@@ -47514,11 +47839,13 @@
   },
   "nvidia 2027 internships: hardware asic design": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "nvidia 2027 internships: hardware design for test (dft)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "nvidia 2027 internships: systems software engineering": {
     "t": true,
@@ -47569,8 +47896,9 @@
     "c": "medium"
   },
   "nvidia 2027 internships: hardware engineering": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "nvidia 2027 internships: ph.d. research robotics": {
     "t": true,
@@ -47617,12 +47945,14 @@
     "c": "medium"
   },
   "controls engineer intern (spring 2027)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "controls engineer intern (summer 2027)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "technical program manager intern (spring 2027)": {
     "t": true,
@@ -47867,8 +48197,9 @@
     "c": "medium"
   },
   "intern - hbm soc rtl design engineer": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "intern - wet process fab 4 ede": {
     "t": false,
@@ -47973,7 +48304,8 @@
   },
   "sales operations analyst intern (spring 2027)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "software engineer intern (summer 2027)": {
     "t": true,
@@ -48007,7 +48339,8 @@
   },
   "sales operations analyst intern (summer 2027)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "account development representative intern - atlanta": {
     "t": false,
@@ -48104,7 +48437,8 @@
   },
   "fp&a internship - sales & trade finance - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "fp&a internship - finance modernization - summer 2027": {
     "t": false,
@@ -48120,7 +48454,8 @@
   },
   "sales development associate - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "incident response intern": {
     "t": false,
@@ -48253,11 +48588,13 @@
   },
   "wdi show control hardware intern, glendale, spring 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "wdi show mechanical design & production intern, glendale, spring 2027": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "wdi show technical production management intern, glendale, spring 2027": {
     "t": true,
@@ -48282,7 +48619,8 @@
   },
   "wdi show control hardware intern, spring 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "disneyland manufacturing intern, spring 2027": {
     "t": false,
@@ -48359,8 +48697,9 @@
     "c": "medium"
   },
   "mechanical design engineering intern\u202c": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "robotics software engineer intern": {
     "t": true,
@@ -48453,8 +48792,9 @@
     "c": "medium"
   },
   "product engineering internship, electronics hardware design (fall 2026)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "grid automation & software intern": {
     "t": true,
@@ -48527,8 +48867,9 @@
     "c": "medium"
   },
   "intern, hardware engineering": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "intern, legal": {
     "t": false,
@@ -48738,7 +49079,8 @@
   },
   "sales finance co-op": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "bmo capital markets winter 2027 investment banking analyst, montreal (co-op/ internship)": {
     "t": false,
@@ -48772,7 +49114,8 @@
   },
   "canada sales tax intern - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "capital markets intern - summer 2027": {
     "t": false,
@@ -49277,7 +49620,8 @@
   },
   "intern - inside sales (miami)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "power+ graduate (june cohort)": {
     "t": false,
@@ -49372,7 +49716,8 @@
   },
   "2027 us summer intern - retirement sales": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "spring 2027 co-op - actuarial": {
     "t": false,
@@ -49388,7 +49733,8 @@
   },
   "2027 us summer internship \u2013 investment management sales desk (boston, ma)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 us summer internship - general accounts": {
     "t": false,
@@ -49590,7 +49936,8 @@
   },
   "head of early career recruiting": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "social growth intern": {
     "t": false,
@@ -49699,7 +50046,8 @@
   },
   "spring 2027 intern - sales analyst": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "spring 2027 intern - marketing (mba)": {
     "t": false,
@@ -49707,8 +50055,9 @@
     "a": 0
   },
   "spring & summer intern - sales analytics": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "spring 2027 intern - business systems": {
     "t": true,
@@ -49737,7 +50086,8 @@
   },
   "spring 2027 intern - sales development (account intelligence)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "[wattpad] junior accountant": {
     "t": false,
@@ -49982,7 +50332,7 @@
   },
   "summer intern 2027 - retirement sales": {
     "t": false,
-    "c": "medium",
+    "c": "high",
     "a": 0
   },
   "summer intern 2027 - general accounts": {
@@ -50045,7 +50395,8 @@
   },
   "summer intern 2027 \u2013 investment management sales desk (boston, ma)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "global oncology market access co-op": {
     "t": false,
@@ -50075,7 +50426,8 @@
   },
   "prudential: 2027 annuities sales associate": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "prudential: 2027 corporate, finance internship program (fip)": {
     "t": false,
@@ -50123,7 +50475,8 @@
   },
   "state and local tax - sales and use intern - summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "federal tax services intern - summer 2027": {
     "t": false,
@@ -50628,7 +50981,8 @@
   },
   "entry level university recruiting coordinator": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 cib commercial real estate analyst program - early careers - toronto": {
     "t": false,
@@ -50790,7 +51144,8 @@
   },
   "intern - sales operations analyst-nashville, tn-summer 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "2027 summer internship program - commercial banking (commercial lending)": {
     "t": false,
@@ -51034,7 +51389,8 @@
   },
   "campus recruiting intern (fall 2026)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "global sourcing intern (winter/spring 2027)": {
     "t": false,
@@ -51116,7 +51472,8 @@
   },
   "junior sales development representative (sdr)": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "global sourcing specialist (winter  c0-op 2027) ": {
     "t": false,
@@ -52210,8 +52567,9 @@
     "c": "medium"
   },
   "new graduate engineer, mechanical design (starshield)": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "change management intern (spring 2027)": {
     "t": false,
@@ -52401,7 +52759,8 @@
   },
   "sales strategy & integration intern, spring 2027": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "walt disney world executive communications & public affairs intern, spring 2027": {
     "t": false,
@@ -52443,7 +52802,8 @@
   },
   "2027 summer intern - field sales operations internship \u2013 district manager, parts & service": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "returning new grad marketing specialist i- great lakes division (for current/former hntb interns only)": {
     "t": false,
@@ -52814,7 +53174,8 @@
   },
   "professional sales skillbridge intern": {
     "t": false,
-    "c": "medium"
+    "c": "high",
+    "a": 0
   },
   "people & culture intern summer 2027": {
     "t": false,
@@ -53038,8 +53399,9 @@
     "c": "medium"
   },
   "electrical hardware engineer i graduate": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "plm program manager graduate": {
     "t": true,
@@ -53186,7 +53548,7 @@
   "electromechanical design engineering intern (january - august 2027)": {
     "t": false,
     "c": "high",
-    "a": 1
+    "a": 0
   },
   "xsolla school \u2013 student application": {
     "t": true,
@@ -53253,16 +53615,18 @@
     "a": 0
   },
   "2027 quantitative masters internship program - sales & relationship management - institutional wealth - chicago": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "2027 mba internship program - client & product functions - research & markets advisory - new york": {
     "t": true,
     "c": "medium"
   },
   "2027 mba internship program - client & product functions - sales & relationship management - institutional & wealth - new york": {
-    "t": true,
-    "c": "medium"
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "2027 quantitative masters internship program - investments - global capital markets - new york": {
     "t": true,
@@ -54727,7 +55091,7 @@
   },
   "sales operations intern(summer 2027 internship)": {
     "t": false,
-    "c": "medium",
+    "c": "high",
     "a": 0
   },
   "client experience- program coordinator intern(summer 2027 internship)": {
@@ -54856,14 +55220,14 @@
     "a": 0
   },
   "production quality intern (summer 2027)": {
-    "t": true,
-    "c": "medium",
-    "a": 1
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "production quality intern (winter 2027)": {
-    "t": true,
-    "c": "medium",
-    "a": 1
+    "t": false,
+    "c": "high",
+    "a": 0
   },
   "propulsion manufacturing intern (summer 2027)": {
     "t": false,
@@ -54893,6 +55257,11 @@
   "product management intern, stagiaire gestion de produit": {
     "t": false,
     "c": "high",
+    "a": 0
+  },
+  "research internships": {
+    "t": false,
+    "c": "low",
     "a": 0
   }
 }
