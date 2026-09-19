@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops — Software Engineering
 
-**349** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
+**348** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
@@ -72,7 +72,6 @@
 | Exegy | Software Developer Intern | Montreal, QC | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Fab2 | Software Engineering Intern - Winter | SFAustin, TX | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/fab2/0c4dc4f4-01c9-4138-a666-e7234cda7e95/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | ↳ | Automation Software Engineer Intern - Winter | SFAustin, TX | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765/application?embed=true&utm_source=aprameyak) | Sep 19 |
-| ↳ | Rust Software Engineer Intern - Chip Design Tools - Winter | SFAustin, TX | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/fab2/4e3958f5-4e0d-4acc-9072-e40822ddf904/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Fable | Software Engineer Intern | SF | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Fanvue | Software Engineer Intern | London, UK | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/fanvue.com/9ba53c5b-dcc7-4e6c-8ecc-0647a62761ce/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Felix Magazine | Web Developer/Programmer Intern | Chicago, IL | Fall 2026 | Undergrad | [Apply](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967) | Sep 19 |

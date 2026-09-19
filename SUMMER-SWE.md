@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships — Software Engineering
 
-**771** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**765** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -191,7 +191,6 @@
 | ↳ | Software Engineer Intern - Sea Systems | Hunt Valley, Cockeysville, MD | Undergrad | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342935) | Sep 19 |
 | The Aerospace Corporation | Aerospace Software Engineer Intern | El Segundo, CA | Undergrad | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605?utm_source=aprameyak) | Sep 19 |
 | The Exploration Company | Engineering Intern - Software | LA | Undergrad | [Apply](https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac/application?embed=true&utm_source=aprameyak) | Sep 19 |
-| The Toro Company | Hardware and Software Engineering Intern | Perry, OK | Undergrad | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183?utm_source=aprameyak) | Sep 19 |
 | Thrivent | Associate Software Engineer Intern | Minnesota | Undergrad | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457?utm_source=aprameyak) | Sep 19 |
 | Tokyo Electron | Software Engineer Intern | Chaska, MN | Undergrad | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Software-Engineer-2027-Summer-Intern_R26-01573?utm_source=aprameyak) | Sep 19 |
 | ↳ | Automation Developer/Analyst Intern | Austin, TX | Undergrad | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Automation-Developer-Analyst-Intern_R26-01497?utm_source=aprameyak) | Sep 19 |
@@ -361,8 +360,6 @@
 | Syska Hennessy Group | Software Developer (Innovation) Summer Intern | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/syskahennessy/jobs/8177938?utm_source=aprameyak) | Sep 8 |
 | HP | Software Product Security Engineer Intern | Spring, TX | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1?utm_source=aprameyak) | Sep 7 |
 | Atomic Semi | Automation Software Engineering Intern - Summer | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475/application?utm_source=aprameyak) | Sep 5 |
-| ↳ | Fab Software Engineering Intern - Summer | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0/application?utm_source=aprameyak) | Sep 5 |
-| ↳ | Rust Software Engineering Intern, Chip Design Tools - Summer | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/fab2/2b0ab443-c7d8-4547-9766-111747f0b361/application?utm_source=aprameyak) | Sep 5 |
 | ↳ | Infrastructure Software Engineering Intern - Summer | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/fab2/53f3fe23-9d2d-4eef-bd28-968d011f86c7/application?utm_source=aprameyak) | Sep 5 |
 | Amazon | Software Development Engineer Intern, ROBOTICS | North Reading, MA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) | Sep 4 |
 | Booz Allen Hamilton | University - 2027 Summer Games Software Developer Intern - Annapolis Junction, MD | Annapolis Junction, MD | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403?utm_source=aprameyak) | Sep 4 |
@@ -482,10 +479,8 @@
 | AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | South San Francisco, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014860456) | Aug 30 |
 | ↳ | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | Irvine, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014860211) | Aug 30 |
 | ↳ | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | North Chicago, IL | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014860386) | Aug 30 |
-| Atomic Semi | Rust Software Engineering Intern, Chip Design Tools - Winter | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/fab2/4e3958f5-4e0d-4acc-9072-e40822ddf904/application?utm_source=aprameyak) | Aug 30 |
-| ↳ | Automation Software Engineering Intern - Winter | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765/application?utm_source=aprameyak) | Aug 30 |
+| Atomic Semi | Automation Software Engineering Intern - Winter | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765/application?utm_source=aprameyak) | Aug 30 |
 | ↳ | Infrastructure Software Engineering Intern - Winter | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/fab2/4e4f8c44-2f9b-4cb4-9e44-01d24b367b2f/application?utm_source=aprameyak) | Aug 30 |
-| ↳ | Fab Software Engineering Intern - Winter | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/fab2/0c4dc4f4-01c9-4138-a666-e7234cda7e95/application?utm_source=aprameyak) | Aug 30 |
 | Auto-Owners Insurance | Intern - Analytics Web Systems Developer | Lansing, MI | Undergrad | [Apply](https://aoins.wd5.myworkdayjobs.com/en-US/AutoOwners/job/Lansing-MI/Intern---Analytics-Web-Systems-Developer_R_14272?utm_source=aprameyak) | Aug 30 |
 | ↳ | Software Developer Internship | Lansing, MI | Undergrad | [Apply](https://aoins.wd5.myworkdayjobs.com/en-US/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121?utm_source=aprameyak) | Aug 30 |
 | Booz Allen Hamilton | University, 2027 Summer Games Cyber Security Intern - Rome, NY | Rome, NY | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142?utm_source=aprameyak) | Aug 30 |
@@ -739,7 +734,6 @@
 | Binance.US | Software Engineering Intern | Remote (US) | Undergrad | [Apply](https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895?utm_source=aprameyak) | Jul 20 |
 | Chevron | Information Technology - Software Engineer Intern | Houston, TX | Undergrad | [Apply](https://chevron.wd5.myworkdayjobs.com/en-US/university/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1?utm_source=aprameyak) | Jul 20 |
 | DTCC | Information Technology Intern | <details><summary>**3 locations**</summary>Jersey City, NJ</br>Tampa, FL</br>Wrightstown, PA</details> | Undergrad | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214158?utm_source=aprameyak) | Jul 20 |
-| Etched | Chip Simulation Software Intern | San Jose, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8?utm_source=aprameyak) | Jul 20 |
 | kos.ai | Software Engineer Intern | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3?utm_source=aprameyak) | Jul 20 |
 | Latent Defense | Software Engineer Intern | New York, NY | Undergrad | [Apply](https://jobs.ashbyhq.com/latent%20defense/54841e7d-d80a-4c2f-8c44-d492fe8eb487?utm_source=aprameyak) | Jul 20 |
 | Netic | Full-Stack Software Engineer - Product Intern | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef?utm_source=aprameyak) | Jul 20 |

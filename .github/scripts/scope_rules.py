@@ -88,21 +88,44 @@ _SCOPE_TECH_HINT = re.compile(
     re.I,
 )
 
+# Semiconductor / chip / EE-hardware — always out, never rescued by a SWE keyword.
+_SEMI_HARDWARE_ALWAYS = re.compile(
+    r'\b('
+    r'semiconductor|silicon\s+engineer|silicon\s+engineering|silicon\s+intern|'
+    r'silicon\s+co-?design|silicon\s+design|silicon\s+packaging|'
+    r'\basic\b|\bfpga\b|\brtl\b|\bvlsi\b|\bverilog\b|\bvhdl\b|\bserdes\b|'
+    r'\bdram\b|\bhbm\b|\bwafer\b|\bfab\b|\bfoundry\b|\bchip\b|'
+    r'physical\s+design|advanced\s+packaging|post-?\s*silicon|ic\s+validation|'
+    r'analog\s+(ic|design|mixed)|mixed[-\s]?signal|\brfic\b|'
+    r'design\s+for\s+test|\bdft\b|circuit\s+design|electronic\s+design|'
+    r'pcb\s*(layout|design)|rf\s*&\s*antenna|antenna\s+systems|'
+    r'optoelectronic|optical\s+transceiver|photolithograph|dry\s+etch|wet\s+etch|'
+    r'process\s+development\s+engineer|hbm\s+product|'
+    r'avionics(?!\s+software)|'
+    r'hardware\s+(engineer|design|intern|test|development|power|product|r&d|systems)|'
+    r'digital\s+hardware|hardware\s+and\s+memory'
+    r')\b',
+    re.I,
+)
+
 # Word-boundary hardware tokens (avoid matching "basic", "applied science", etc.)
 _ASIC_RE = re.compile(r'\basics?\b', re.I)
 _FPGA_RE = re.compile(r'\bfpga\b', re.I)
 _EMBEDDED_RE = re.compile(r'\bembedded\b', re.I)
 _FIRMWARE_RE = re.compile(r'\bfirmware\b', re.I)
 _HARDWARE_WORD_RE = re.compile(r'\bhardware\b', re.I)
-# SWE-primary signals that can rescue a title mentioning hardware (not PM alone).
+# Only rescue "hardware" when the role is clearly SWE/ML/DevOps tooling — not chip/EE.
 _HARDWARE_RESCUE = re.compile(
     r'\bsoftware\b|\bdevops\b|\bsre\b|site reliability|'
     r'machine learning|\bmle\b|ml engineer|ai engineer|artificial intelligence|'
     r'data scientist|data engineer|data science|'
     r'security engineer|developer|programming|'
-    r'software\s*/\s*hardware|hardware\s*/\s*software',
+    r'software\s*/\s*hardware|hardware\s*/\s*software|'
+    r'hardware\s+tools|hardware\s+optimization|ai\s+hardware\s+infrastructure|'
+    r'verification\s+infrastructure',
     re.I,
 )
+
 
 # Intern / co-op / student / fellow signals (plurals included).
 _INTERN_COOP = re.compile(
@@ -223,12 +246,17 @@ def is_out_of_scope_title(title):
 
     has_keep = bool(_STRONG_KEEP.search(t))
 
-    # Embedded / firmware are always out (even with a software keep signal).
+    # Embedded / firmware / semiconductor / chip EE — always out.
     if _EMBEDDED_RE.search(t) or _FIRMWARE_RE.search(t):
+        return True
+    if _SEMI_HARDWARE_ALWAYS.search(t):
+        return True
+    if _ASIC_RE.search(t) or _FPGA_RE.search(t):
         return True
 
     if any(s in t for s in HARD_REJECT_SIGNALS):
-        # Mixed titles like "Software / Hardware Engineering" stay in if SWE-primary.
+        # Mixed titles like "Software / Hardware Engineering" stay in if SWE-primary,
+        # but never for hard EE / manufacturing / postdoc signals below.
         if has_keep and not any(
             s in t
             for s in (
@@ -255,14 +283,11 @@ def is_out_of_scope_title(title):
             return False
         return True
 
-    # Bare "hardware" without SWE/ML/devops rescue → out (blocks Hardware PM, etc.).
-    if _HARDWARE_WORD_RE.search(t) and not _HARDWARE_RESCUE.search(t):
+    # Any "hardware" in the title is out — this board is software/tech only.
+    if _HARDWARE_WORD_RE.search(t):
         return True
 
     if any(s in t for s in _SOFT_HARDWARE_SIGNALS) and not has_keep:
-        return True
-
-    if (_ASIC_RE.search(t) or _FPGA_RE.search(t)) and not _HARDWARE_RESCUE.search(t):
         return True
 
     if re.search(r'\bpost-?docs?\b|\bpostdoctoral\b', t):

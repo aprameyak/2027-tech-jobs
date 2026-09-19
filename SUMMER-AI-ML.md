@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships — Data Science, AI & Machine Learning
 
-**539** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**538** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -515,7 +515,6 @@
 | Halo Industries | Software Engineer Intern - Machine Learning Workflow | Santa Clara, CA | Undergrad | [Apply](https://apply.workable.com/halo-industries/j/29728B1DAF/?utm_source=aprameyak) | Jul 23 |
 | Netflix | AI/ML Scientist Intern, AIMS AI Foundation | Los Gatos, CA | Undergrad; PhD | [Apply](https://explore.jobs.netflix.net/careers/job/790316547536?utm_source=aprameyak) | Jul 23 |
 | Rivian and Volkswagen Group Technologies | Data Engineering Intern - AI & Analytics | Palo Alto, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a?utm_source=aprameyak) | Jul 23 |
-| Tesla | Software Engineer Intern - AI Hardware Infrastructure | Palo Alto, CA | Undergrad | [Apply](https://www.tesla.com/careers/search/job/260382?utm_source=aprameyak) | Jul 23 |
 | Workato | Intern, AI Engineering | San Francisco, CA | Undergrad | [Apply](https://www.workato.com/careers?gh_jid=8492935002&utm_source=aprameyak) | Jul 23 |
 | CloudFit Software | Summer Intern, Early Interest (Software / AI/ML / Cyber) | Remote (US) | Undergrad | [Apply](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo?utm_source=aprameyak) | Jul 21 |
 | Cresta | Machine Learning Engineering Intern | Toronto, ON | Undergrad | [Apply](https://job-boards.greenhouse.io/cresta/jobs/4123863008?utm_source=aprameyak) | Jul 21 |

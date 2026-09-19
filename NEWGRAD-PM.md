@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027 — Product Management
 
-**23** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**22** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
@@ -20,7 +20,6 @@
 | Databricks | Associate Product Manager New Grad | <details><summary>**3 locations**</summary>San Francisco, CA</br>Bellevue, WA</br>Mountain View, CA</details> |  | Undergrad | [Apply](https://boards.greenhouse.io/embed/job_app?token=7586263002&utm_source=aprameyak) | Aug 28 |
 | LPL Financial Holdings | Product Management New Grad - Product | <details><summary>**3 locations**</summary>Austin, TX</br>Fort Mill, SC</br>Charlotte, NC</details> | Spring 2027 | Undergrad | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1?utm_source=aprameyak) | Aug 12 |
 | NXP Semiconductors | Entry Level Software Product Manager | Austin, TX |  | Undergrad | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Software-Product-Manager_R-10064599?utm_source=aprameyak) | Aug 8 |
-| Micron Technology | HBM Product Manager – New College Grad | Boise, ID |  | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001?utm_source=aprameyak) | Aug 7 |
 | Nestle | Associate Product Ownership - Junior Data Engineer | North York, ON |  | Undergrad | [Apply](https://jobdetails.nestle.com/job/North-York-Associate-Product-Ownership-Jr_-Data-Engineer-(12-months-contract)-ON/1418872933/?ats=successfactors&utm_source=aprameyak) | Jul 27 |
 | StubHub | Associate Product Manager - Consumer Experience | New York, NY |  | Undergrad | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4648133101?utm_source=aprameyak) | Jul 27 |
 | Uncountable | Product Manager – New Grad | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> |  | Undergrad | [Apply](https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc/application?utm_source=aprameyak) | Jul 27 |

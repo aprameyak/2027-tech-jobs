@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027 — Data Science, AI & Machine Learning
 
-**226** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**222** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
@@ -46,8 +46,7 @@
 | Roku | Software Engineer, Early Careers focused on AI and UI | San Jose, CA |  | Undergrad | [Apply](https://www.weareroku.com/jobs/8188714?gh_jid=8188714) | Sep 14 |
 | Philips | Full Time- Graduate Development Program-AI & Analytics Associate-Nashville, TN or Cambridge, MA-2027 | <details><summary>**2 locations**</summary>Nashville, TN</br>Cambridge, MA</details> | Spring 2026 | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time--Graduate-Development-Program-AI---Analytics-Associate-Nashville--TN-or-Cambridge--MA-2026_587083?utm_source=aprameyak) | Sep 12 |
 | TD Bank | AI2 Data Science Associate (Graduate) | Toronto, ON |  | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Associate--Graduate-_R_1506343?utm_source=aprameyak) | Sep 12 |
-| NVIDIA | Research Scientist, AI Accelerator Design and VLSI - New College Grad | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Accelerator-SW-HW-Co-Design---New-College-Grad-2026_JR2011644?utm_source=aprameyak) | Sep 9 |
-| ↳ | Research Scientist, AI for Graphics and Gaming - New College Grad | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267?utm_source=aprameyak) | Sep 9 |
+| NVIDIA | Research Scientist, AI for Graphics and Gaming - New College Grad | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267?utm_source=aprameyak) | Sep 9 |
 | Capital One | Associate, Data Analyst - New Grad, 2027 Start | Toronto, ON | Spring 2027 | Undergrad | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1?utm_source=aprameyak) | Sep 8 |
 | Canadian Tire | New Graduate Program - 2027 Data Science Associate, Finance Rotational Program | Toronto, ON | Spring 2027 | Undergrad | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983?utm_source=aprameyak) | Sep 4 |
 | The MIL Corporation | AI Developer (Software Engineering, Junior Analyst) | Washington, DC |  | Undergrad | [Apply](https://phh.tbe.taleo.net/phh03/ats/careers/requisition.jsp?org=MILCORP&cws=38&rid=16305&utm_source=aprameyak) | Sep 4 |
@@ -130,7 +129,6 @@
 | ByteDance | Large Language Model Inference System Engineer New Grad - Applied Machine Learning | San Jose, CA |  | Undergrad | [Apply](https://jobs.bytedance.com/en/position/7667726338627356933/detail) | Aug 12 |
 | Guidehouse | Data Engineer 1 | Houston, TX |  | Undergrad | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_42995?utm_source=aprameyak) | Aug 12 |
 | LPL Financial Holdings | Data Engineering New Grad | <details><summary>**3 locations**</summary>Austin, TX</br>Fort Mill, SC</br>Charlotte, NC</details> | Spring 2027 | Undergrad | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1?utm_source=aprameyak) | Aug 12 |
-| NVIDIA | Applied Machine Learning Engineer – New College Grad 2026 - Circuit Design | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517?utm_source=aprameyak) | Aug 12 |
 | RBI | Data Engineer 1 | Miami, FL |  | Undergrad | [Apply](https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Miami-Corporate-Office/Data-Engineer-I--Burger-King_R3622?utm_source=aprameyak) | Aug 12 |
 | SentiLink | Research Scientist New Grad | Remote (US) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/sentilink/f9a47314-c48a-4053-a113-6974b211559f/application?embed=true&utm_source=aprameyak) | Aug 12 |
 | NVIDIA | Research Scientist, Fundamental Generative AI - New College Grad | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698?utm_source=aprameyak) | Aug 11 |
@@ -185,8 +183,6 @@
 | ↳ | Software Engineer, AI Inference Codesign | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/256595?utm_source=aprameyak) | Jul 24 |
 | ↳ | AI Engineer, ML Inference Optimization, Autonomy & Robotics | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/255357?utm_source=aprameyak) | Jul 24 |
 | ↳ | Machine Learning Engineer, Tesla Insurance | Fremont, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/249570?utm_source=aprameyak) | Jul 24 |
-| ↳ | Infrastructure & DevOps Engineer, AI Hardware | <details><summary>**2 locations**</summary>Austin, TX</br>Palo Alto, CA</details> |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/253222?utm_source=aprameyak) | Jul 24 |
-| ↳ | Verification Infrastructure & DevOps Engineer, AI Hardware | <details><summary>**2 locations**</summary>Austin, TX</br>Palo Alto, CA</details> |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/253221?utm_source=aprameyak) | Jul 24 |
 | ↳ | Machine Learning Infrastructure Simulation Engineer, Optimus | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/252374?utm_source=aprameyak) | Jul 24 |
 | ↳ | Data Engineer, Energy Service Engineering | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/250277?utm_source=aprameyak) | Jul 24 |
 | ↳ | Machine Learning Engineer, Embodied Intelligence, Optimus | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/249027?utm_source=aprameyak) | Jul 24 |

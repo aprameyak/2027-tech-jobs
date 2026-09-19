@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops — Data Science, AI & Machine Learning
 
-**341** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
+**338** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
@@ -242,7 +242,6 @@
 | ↳ | Data Engineer Intern - Fleet Data - Self-Driving | Palo Alto, CA | Fall 2026 | Undergrad | [Apply](https://www.tesla.com/careers/search/job/281612) | Sep 19 |
 | ↳ | Machine Learning Engineer Intern - Factory Software | Fremont, CA | Fall 2026 | Undergrad | [Apply](https://www.tesla.com/careers/search/job/282916) | Sep 19 |
 | ↳ | Machine Learning Engineer Intern - Charging Data Modeling | Palo Alto, CA | Fall 2026 | Undergrad | [Apply](https://www.tesla.com/careers/search/job/281940) | Sep 19 |
-| ↳ | Applied AI Engineer Intern - AI Hardware | Palo Alto, CA | Fall 2026 | Undergrad | [Apply](https://www.tesla.com/careers/search/job/279603) | Sep 19 |
 | Texas Instruments | Information Technology Intern - Data Engineering | Dallas, TX | Fall 2026 | Undergrad | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017978) | Sep 19 |
 | The Nuclear Company | AI/ML Engineer Intern - Platform Integration & AI/Data | Washington, DC | Fall 2026 | Undergrad | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383212008?utm_source=aprameyak) | Sep 19 |
 | Thomson Reuters | Applied Research Intern - NLP/ML/GenAI | Toronto, ON | Fall 2026 | Masters | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812?utm_source=aprameyak) | Sep 19 |
@@ -323,9 +322,7 @@
 | ↳ | Machine Learning Engineer Internship, TRL | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/E39256D0B1/?utm_source=aprameyak) | Aug 4 |
 | ↳ | Machine Learning Engineer Internship, Generative AI | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/07FBA391F1/?utm_source=aprameyak) | Aug 4 |
 | ↳ | Machine Learning Engineer Internship, AI Energy Score | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/B952461BFF/?utm_source=aprameyak) | Aug 4 |
-| ↳ | Machine Learning Engineer Internship, Hardware Optimization | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/30EDE6502E/?utm_source=aprameyak) | Aug 4 |
 | ↳ | Machine Learning Engineer Internship, Information Retrieval | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/5691DE34F6/?utm_source=aprameyak) | Aug 4 |
-| ↳ | ML Engineer Internship, Open Benchmarks of AI Hardware | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/DF4D141358/?utm_source=aprameyak) | Aug 4 |
 | Phonic | Machine Learning Research Intern | San Francisco, CA | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/phonic/a6c8c3d2-250a-4c2f-8a20-e4667ca38e41?utm_source=aprameyak) | Aug 4 |
 | Saronic Technologies | Enterprise Technology Intern - AI and Automation | Austin, TX | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3?utm_source=aprameyak) | Aug 4 |
 | Campbell Soup Company | Data Engineer, DA&AI Co-Op | Camden, NJ | Co-op | Undergrad | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65837?utm_source=aprameyak) | Jul 26 |

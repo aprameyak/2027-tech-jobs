@@ -4669,18 +4669,6 @@
     "date_added": "2026-07-20"
   },
   {
-    "company": "Etched",
-    "role": "Chip Simulation Software Intern",
-    "location": "San Jose, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-07-20"
-  },
-  {
     "company": "Plus",
     "role": "Software Engineer Intern - Robotics",
     "location": "Santa Clara, CA",
@@ -4996,19 +4984,6 @@
   },
   {
     "company": "NVIDIA",
-    "role": "Applied AI Engineer, Silicon Co-Design Group",
-    "location": "Santa Clara, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Masters; PhD",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-07-20",
-    "grad_date": ""
-  },
-  {
-    "company": "NVIDIA",
     "role": "Deep Learning Software Engineer, FlashInfer",
     "location": "Santa Clara, CA",
     "type": "newgrad",
@@ -5042,19 +5017,6 @@
     "education": "Undergrad; Masters",
     "url": "",
     "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-07-20",
-    "grad_date": ""
-  },
-  {
-    "company": "Collins Aerospace",
-    "role": "Software Engineer I, Military Avionics FMS",
-    "location": "Cedar Rapids, IA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "No — does NOT offer sponsorship",
     "citizenship": "Unknown",
     "date_added": "2026-07-20",
     "grad_date": ""
@@ -7480,18 +7442,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-23"
-  },
-  {
-    "company": "Tesla",
-    "role": "Software Engineer Intern - AI Hardware Infrastructure",
-    "location": "Palo Alto, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://www.tesla.com/careers/search/job/260382?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-07-23"
@@ -9961,32 +9911,6 @@
   },
   {
     "company": "Tesla",
-    "role": "Infrastructure & DevOps Engineer, AI Hardware",
-    "location": "Austin, TX; Palo Alto, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://www.tesla.com/careers/search/job/253222?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": ""
-  },
-  {
-    "company": "Tesla",
-    "role": "Verification Infrastructure & DevOps Engineer, AI Hardware",
-    "location": "Austin, TX; Palo Alto, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://www.tesla.com/careers/search/job/253221?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": ""
-  },
-  {
-    "company": "Tesla",
     "role": "Sensing Software Engineer",
     "location": "Palo Alto, CA",
     "type": "newgrad",
@@ -10361,19 +10285,6 @@
     "citizenship": "No",
     "date_added": "2026-07-24",
     "grad_date": ""
-  },
-  {
-    "company": "NVIDIA",
-    "role": "New Grad 2026: Applied AI Engineer, Silicon Co-Design Group",
-    "location": "Santa Clara, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Masters; PhD",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-24",
-    "grad_date": "Spring 2026"
   },
   {
     "company": "NVIDIA",
@@ -16795,19 +16706,6 @@
     "grad_date": "Spring 2026"
   },
   {
-    "company": "NVIDIA",
-    "role": "Software Engineer - Physical Design Infrastructure - New College Grad",
-    "location": "Santa Clara, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-07-28",
-    "grad_date": "Spring 2026"
-  },
-  {
     "company": "Clearwater Analytics",
     "role": "Quantitative Developer - Associate - FX",
     "location": "New York, NY",
@@ -20550,18 +20448,6 @@
   },
   {
     "company": "Hugging Face",
-    "role": "Machine Learning Engineer Internship, Hardware Optimization",
-    "location": "Remote (US)",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Undergrad",
-    "url": "https://apply.workable.com/huggingface/j/30EDE6502E/?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-04"
-  },
-  {
-    "company": "Hugging Face",
     "role": "Machine Learning Engineer Internship, Information Retrieval",
     "location": "Remote (US)",
     "type": "offcycle",
@@ -23426,18 +23312,6 @@
     "date_added": "2026-08-07"
   },
   {
-    "company": "Skyworks",
-    "role": "Analog IC Design Co-op",
-    "location": "Irvine, CA",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07"
-  },
-  {
     "company": "Point72",
     "role": "Investment Analyst Intern, Point72 Academy",
     "location": "Miami, FL",
@@ -24674,19 +24548,6 @@
     "grad_date": ""
   },
   {
-    "company": "NVIDIA",
-    "role": "Software Engineer New Grad - Hardware Tools and Methodology",
-    "location": "Santa Clara, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": "Spring 2026"
-  },
-  {
     "company": "Julius AI",
     "role": "Refresh Software Engineer New Grad - Product",
     "location": "San Francisco, CA",
@@ -24746,19 +24607,6 @@
     "season": "2027 (New Grad — no specific season)",
     "education": "Undergrad",
     "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/39682?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
-    "company": "Micron Technology",
-    "role": "HBM Product Manager – New College Grad",
-    "location": "Boise, ID",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-07",
@@ -25298,19 +25146,6 @@
     "grad_date": ""
   },
   {
-    "company": "Qualcomm",
-    "role": "System AI Engineer New Grad - Display - ASICS Engineering",
-    "location": "Markham, ON",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
     "company": "L3Harris Technologies",
     "role": "Associate Software Engineer 1",
     "location": "Melbourne, FL",
@@ -25350,19 +25185,6 @@
     "grad_date": ""
   },
   {
-    "company": "Micron Technology",
-    "role": "New Grad Design Engineer - Design Engineer - DRAM Technology and Products",
-    "location": "Boise, ID",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
     "company": "Ciena",
     "role": "Software Development New Grad",
     "location": "Ottawa, ON",
@@ -25383,19 +25205,6 @@
     "season": "2027 (New Grad — no specific season)",
     "education": "Undergrad",
     "url": "https://jobs.ashbyhq.com/Antares/78234003-fa70-41ab-b3c8-a2e703687f42/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
-    "company": "Micron Technology",
-    "role": "New Grad Design Engineer - Semiconductor Design Engineer - DRAM Products Group",
-    "location": "Boise, ID",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-07",
@@ -26289,19 +26098,6 @@
     "company": "Citadel Securities",
     "role": "Software Engineer",
     "location": "New York, NY",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-07",
-    "grad_date": ""
-  },
-  {
-    "company": "Amazon",
-    "role": "Hardware Simulator SDE I, AWS Machine Learning Accelerators, Annapurna Labs",
-    "location": "Cupertino, CA",
     "type": "newgrad",
     "season": "2027 (New Grad — no specific season)",
     "education": "Undergrad",
@@ -30150,19 +29946,6 @@
     "grad_date": ""
   },
   {
-    "company": "NVIDIA",
-    "role": "Applied Machine Learning Engineer – New College Grad 2026 - Circuit Design",
-    "location": "Santa Clara, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-12",
-    "grad_date": "Spring 2026"
-  },
-  {
     "company": "ExxonMobil",
     "role": "Trading New Grad - Trading Analytics - Trading Data, Analytics and AI",
     "location": "Spring, TX",
@@ -31108,45 +30891,6 @@
     "grad_date": ""
   },
   {
-    "company": "SpaceX",
-    "role": "New Graduate Engineer, Silicon Engineering",
-    "location": "Redmond, WA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17",
-    "grad_date": ""
-  },
-  {
-    "company": "SpaceX",
-    "role": "New Graduate Engineer, Silicon Engineering",
-    "location": "Palo Alto, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17",
-    "grad_date": ""
-  },
-  {
-    "company": "SpaceX",
-    "role": "New Graduate Engineer, Silicon Engineering",
-    "location": "Irvine, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17",
-    "grad_date": ""
-  },
-  {
     "company": "The Nuclear Company",
     "role": "Summer 2027 AI Applied Research Internship",
     "location": "Washington, DC",
@@ -31178,18 +30922,6 @@
     "season": "Spring 2027",
     "education": "Undergrad",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824822003?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
-    "company": "Varda Space",
-    "role": "Avionics Engineering Internship",
-    "location": "El Segundo, CA",
-    "type": "offcycle",
-    "season": "Spring 2027",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824780003?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-17"
@@ -31438,42 +31170,6 @@
     "date_added": "2026-08-17"
   },
   {
-    "company": "Micron Technology",
-    "role": "Intern - Process Development Engineer, Thin Films",
-    "location": "Boise, ID",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "Intern - Process Development Engineer, 3D DRAM CMP",
-    "location": "Boise, ID",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "Intern - DRAM IP Circuits Design Engineer",
-    "location": "Boise, ID",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
     "company": "Amazon",
     "role": "2027 MBA Leadership Development Program (MLDP) Intern",
     "location": "Seattle, WA",
@@ -31491,30 +31187,6 @@
     "location": "RICHMOND, British Columbia, Canada",
     "type": "summer",
     "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
-    "company": "Astranis Space Technologies",
-    "role": "Avionics Engineer Intern",
-    "location": "San Francisco, CA",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
-    "company": "Astranis Space Technologies",
-    "role": "PCB Layout Engineer Intern",
-    "location": "San Francisco, CA",
-    "type": "offcycle",
-    "season": "Fall 2026",
     "education": "Undergrad",
     "url": "",
     "sponsorship": "Unknown",
@@ -31736,18 +31408,6 @@
     "season": "Co-op",
     "education": "Undergrad",
     "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
-    "company": "Western Digital",
-    "role": "Fall 2026 Intern - IT Wafer Systems Automation",
-    "location": "San Jose, CA",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Masters",
-    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000135313334?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-17"
@@ -32189,54 +31849,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "Intern - Digital IP Design Engineer, DRAM",
-    "location": "Boise, ID",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "Intern - Process Development Engineer, Planar DRAM CMP",
-    "location": "Boise, ID",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Planar-DRAM-CMP_JR108060?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "Intern - Advanced DRAM Cell/Device Engineer",
-    "location": "Boise, ID",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-17"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "Intern - Process Development Engineer, 3D DRAM Metals",
-    "location": "Boise, ID",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Metals_JR107311?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-17"
@@ -32981,31 +32593,7 @@
   },
   {
     "company": "NVIDIA",
-    "role": "Software Engineer, Hardware Tools and Methodology — New College Grad",
-    "location": "Santa Clara, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-18"
-  },
-  {
-    "company": "NVIDIA",
     "role": "Developer Technology Engineer, Public Sector — New College Grad",
-    "location": "Santa Clara, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-18"
-  },
-  {
-    "company": "NVIDIA",
-    "role": "Software Engineer, Physical Design Infrastructure — New College Grad",
     "location": "Santa Clara, CA",
     "type": "newgrad",
     "season": "2027 (New Grad — no specific season)",
@@ -33541,30 +33129,6 @@
     "season": "2027 (New Grad — no specific season)",
     "education": "Undergrad",
     "url": "https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-22"
-  },
-  {
-    "company": "SpaceX",
-    "role": "Silicon Engineering Intern/Co-op",
-    "location": "Irvine, CA; Palo Alto, CA; Redmond, WA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-22"
-  },
-  {
-    "company": "SpaceX",
-    "role": "Silicon Engineering Internship/Co-op",
-    "location": "Irvine, CA; Palo Alto, CA; Redmond, WA",
-    "type": "offcycle",
-    "season": "Spring 2027",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002&utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-22"
@@ -36706,19 +36270,6 @@
     "citizenship": "No",
     "date_added": "2026-08-28",
     "grad_date": "Summer 2027"
-  },
-  {
-    "company": "SpaceX",
-    "role": "New Grad Engineer - Silicon Engineering",
-    "location": "Palo Alto, CA; Irvine, CA; Redmond, WA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-28",
-    "grad_date": ""
   },
   {
     "company": "General Matter",
@@ -45194,18 +44745,6 @@
     "date_added": "2026-08-29"
   },
   {
-    "company": "Microsoft",
-    "role": "Silicon Engineering INTERN",
-    "location": "Santa Clara, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556958170",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29"
-  },
-  {
     "company": "Celonis",
     "role": "Engineering Intern",
     "location": "Remote, US, MA",
@@ -47163,19 +46702,6 @@
     "season": "2027 (New Grad — no specific season)",
     "education": "Undergrad",
     "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-08-29",
-    "grad_date": ""
-  },
-  {
-    "company": "Sandisk",
-    "role": "Product Security Engineer - Hardware/...",
-    "location": "Milpitas, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.smartrecruiters.com/Sandisk/744000133420384",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-08-29",
@@ -49538,18 +49064,6 @@
   },
   {
     "company": "Atomic Semi",
-    "role": "Rust Software Engineering Intern, Chip Design Tools - Winter",
-    "location": "Austin, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/fab2/4e3958f5-4e0d-4acc-9072-e40822ddf904/application?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-30"
-  },
-  {
-    "company": "Atomic Semi",
     "role": "Packaging Engineering Intern - Winter",
     "location": "Austin, TX",
     "type": "summer",
@@ -49580,18 +49094,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://jobs.ashbyhq.com/fab2/4e4f8c44-2f9b-4cb4-9e44-01d24b367b2f/application?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-30"
-  },
-  {
-    "company": "Atomic Semi",
-    "role": "Fab Software Engineering Intern - Winter",
-    "location": "Austin, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/fab2/0c4dc4f4-01c9-4138-a666-e7234cda7e95/application?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-30"
@@ -49802,19 +49304,6 @@
     "season": "2027 (New Grad — no specific season)",
     "education": "Undergrad",
     "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-30",
-    "grad_date": ""
-  },
-  {
-    "company": "Northwood Space",
-    "role": "RF & Antenna Systems Engineer (Early Career)",
-    "location": "Torrance, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Masters",
-    "url": "https://jobs.ashbyhq.com/northwoodspace/11992bc2-5ec9-4143-9b64-e70be5b13726/application?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-08-30",
@@ -54351,19 +53840,6 @@
     "grad_date": ""
   },
   {
-    "company": "SpaceX",
-    "role": "New Grad Engineer - Silicon Engineering",
-    "location": "Palo Alto, CA Irvine, CA Redmond, WA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": ""
-  },
-  {
     "company": "RTX",
     "role": "Software Engineer 1",
     "location": "Cedar Rapids, IA",
@@ -54380,19 +53856,6 @@
     "company": "RTX",
     "role": "Software Engineer 1",
     "location": "Cedar Rapids, IA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-01",
-    "grad_date": ""
-  },
-  {
-    "company": "Micron Technology",
-    "role": "New Grad Design Engineer - Design Engineer - DRAM Technology and Products",
-    "location": "Boise, ID",
     "type": "newgrad",
     "season": "2027 (New Grad — no specific season)",
     "education": "Undergrad",
@@ -56096,18 +55559,6 @@
     "company": "Northrop Grumman",
     "role": "2027 Cybersecurity Analyst Intern -  Boulder CO",
     "location": "United States-Colorado-Boulder",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-01"
-  },
-  {
-    "company": "Northrop Grumman",
-    "role": "2027 Intern - Electronics (Avionics) Engineering",
-    "location": "United States-Oklahoma-Oklahoma City",
     "type": "summer",
     "season": "Summer 2027",
     "education": "Undergrad",
@@ -60165,18 +59616,6 @@
     "date_added": "2026-09-01"
   },
   {
-    "company": "Micron Technology",
-    "role": "Intern - DRAM Technology DTCO & PPA Assessment Engineer",
-    "location": "Boise, ID",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Technology-DTCO---PPA-Assessment-Engineer_JR109582?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-01"
-  },
-  {
     "company": "TD Bank",
     "role": "AI2 Data Science Intern/Co-op",
     "location": "TD Terrace - 160 Front Street West Corporate, Toronto, Ontario",
@@ -62141,30 +61580,6 @@
   },
   {
     "company": "Atomic Semi",
-    "role": "Fab Software Engineering Intern - Summer",
-    "location": "Austin, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0/application?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-05"
-  },
-  {
-    "company": "Atomic Semi",
-    "role": "Rust Software Engineering Intern, Chip Design Tools - Summer",
-    "location": "Austin, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/fab2/2b0ab443-c7d8-4547-9766-111747f0b361/application?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-05"
-  },
-  {
-    "company": "Atomic Semi",
     "role": "Packaging Engineering Intern - Summer",
     "location": "Austin, TX",
     "type": "summer",
@@ -62207,18 +61622,6 @@
     "season": "Summer 2027",
     "education": "Masters",
     "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-07"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "Intern - DRAM Test Structure Design and Layout Engineering",
-    "location": "Boise, ID",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Test-Structure-Design-and-Layout-Engineering_JR110341?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-07"
@@ -62404,19 +61807,6 @@
     "date_added": "2026-09-07"
   },
   {
-    "company": "NXP Semiconductors",
-    "role": "Entry Level DFT Design Engineer",
-    "location": "Austin, TX",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065554?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-07",
-    "grad_date": ""
-  },
-  {
     "company": "Astera Labs",
     "role": "System Validation Engineer Intern",
     "location": "San Jose, California, United States",
@@ -62472,30 +61862,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-08"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "Intern - DRAM Customer Enablement Engineering",
-    "location": "Boise, ID",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-08"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "Intern - DRAM Customer Enablement Engineering",
-    "location": "Boise, ID",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR107740?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-08"
@@ -63188,19 +62554,6 @@
   },
   {
     "company": "NVIDIA",
-    "role": "Research Scientist, AI Accelerator Design and VLSI - New College Grad",
-    "location": "Santa Clara, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Accelerator-SW-HW-Co-Design---New-College-Grad-2026_JR2011644?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-09",
-    "grad_date": "Spring 2026"
-  },
-  {
-    "company": "NVIDIA",
     "role": "Research Scientist, AI for Graphics and Gaming - New College Grad",
     "location": "Santa Clara, CA",
     "type": "newgrad",
@@ -63377,18 +62730,6 @@
     "season": "Winter 2027",
     "education": "Undergrad",
     "url": "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4/application?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-09"
-  },
-  {
-    "company": "Rocket Lab",
-    "role": "Avionics Engineering Intern",
-    "location": "Long Beach, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989733003?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-09"
@@ -63859,18 +63200,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5232641007?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-10"
-  },
-  {
-    "company": "Rocket Lab",
-    "role": "Test Engineering Intern - Avionics",
-    "location": "Long Beach, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987159003?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-10"
@@ -65551,30 +64880,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://www.google.com/about/careers/applications/jobs/results/136826798817059526",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "Google",
-    "role": "Silicon Engineering Intern, BS/MS, Summer 2027",
-    "location": "Sunnyvale, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/88570332985598662",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14"
-  },
-  {
-    "company": "Google",
-    "role": "Silicon Engineering Intern, PhD, Summer 2027",
-    "location": "Sunnyvale, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "PhD",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/136529930677560006",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-14"
@@ -67892,19 +67197,6 @@
     "date_added": "2026-09-14"
   },
   {
-    "company": "GlobalFoundries",
-    "role": "System-on-Chip Design Engineer (2027 New College Graduate)",
-    "location": "USA - Texas - Richardson",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-14",
-    "grad_date": "Spring 2027"
-  },
-  {
     "company": "Philips",
     "role": "CO-OP – Data Management – Cleveland, OH – January 2027",
     "location": "Orange, OH",
@@ -68712,30 +68004,6 @@
     "date_added": "2026-09-15"
   },
   {
-    "company": "Micron Technology",
-    "role": "Intern - Semiconductor Research & Technology Development",
-    "location": "Albany, NY",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-15"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "Intern - PHY Digital Design & Automation Engineer, HBM",
-    "location": "Richardson, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---PHY-Digital-Design---Automation-Engineer--HBM_JR110641?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-15"
-  },
-  {
     "company": "Northrop Grumman",
     "role": "2027 Cyber Systems Engineer Intern - Roy UT",
     "location": "Roy, UT",
@@ -69109,30 +68377,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-15"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "Intern - Node Development Product Engineer - DRAM Technology",
-    "location": "Boise, ID",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Node-Development-Product-Engineer---DRAM-Technology_JR111846?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-09-15"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "Intern - Design Engineer, HBM",
-    "location": "Richardson, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-15"
@@ -71925,18 +71169,6 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-19"
-  },
-  {
-    "company": "Hugging Face",
-    "role": "ML Engineer Internship, Open Benchmarks of AI Hardware",
-    "location": "Remote (US)",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Undergrad",
-    "url": "https://apply.workable.com/huggingface/j/DF4D141358/?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-08-04"
   },
   {
     "company": "Epic Games",
@@ -82115,30 +81347,6 @@
     "date_added": "2026-09-19"
   },
   {
-    "company": "Marvell",
-    "role": "Design for Test Intern - MS",
-    "location": "Santa Clara, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "Marvell",
-    "role": "SRAM Circuit Design Intern - MS",
-    "location": "Burlington, VT",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Circuit-Design-Intern--MS---Summer-2027_2604083-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
     "company": "Antares Nuclear",
     "role": "Software Engineer Intern",
     "location": "Torrance, CA",
@@ -82283,18 +81491,6 @@
     "date_added": "2026-09-19"
   },
   {
-    "company": "Keysight Technologies",
-    "role": "Compound Semiconductor Device Characterization Intern",
-    "location": "Santa Rosa, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.keysight.com/jobs/54226?icims=1",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
     "company": "North Atlantic Industries",
     "role": "Software Engineer Intern",
     "location": "Bohemia, NY",
@@ -82362,18 +81558,6 @@
     "season": "Co-op",
     "education": "Undergrad",
     "url": "https://ats.rippling.com/blue-robotics/jobs/25a883e5-3fa4-459e-9762-5f33a3512cd8",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "AMD",
-    "role": "SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op",
-    "location": "San Jose, CASanta Clara, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://careers.amd.com/jobs/92350?icims=1",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-19"
@@ -82487,18 +81671,6 @@
     "date_added": "2026-09-19"
   },
   {
-    "company": "The Toro Company",
-    "role": "Hardware and Software Engineering Intern",
-    "location": "Perry, OK",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
     "company": "Insulet",
     "role": "Life Cycle Engineering Co-op - Electrical",
     "location": "Acton, MA",
@@ -82595,18 +81767,6 @@
     "date_added": "2026-09-19"
   },
   {
-    "company": "Marvell",
-    "role": "Advanced Packaging Intern",
-    "location": "Burlington, VT",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Advanced-Packaging-Intern--BS---Summer-2027_2604156-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
     "company": "Boeing",
     "role": "Microelectronics R&D Intern - Engineering & Technology Innovation",
     "location": "Tukwila, WAHuntington Beach, CA",
@@ -82632,18 +81792,6 @@
   },
   {
     "company": "NXP Semiconductors",
-    "role": "Design for Test Engineer Intern - Summer 2027",
-    "location": "Austin, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065550?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "NXP Semiconductors",
     "role": "Device Engineering Intern - Summer 2027",
     "location": "Chandler, AZ",
     "type": "summer",
@@ -82662,18 +81810,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Analog-Validation-Intern---Summer-2027_R-10065558?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "NXP Semiconductors",
-    "role": "FAB Device Engineer Intern - Summer 2027",
-    "location": "Austin, TX",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/FAB-Device-Engineer-Intern---Summer-2027_R-10064583?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-19"
@@ -82883,18 +82019,6 @@
     "date_added": "2026-09-19"
   },
   {
-    "company": "NVIDIA",
-    "role": "Digital Circuit Design Intern",
-    "location": "Santa Clara, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
     "company": "GE Aerospace",
     "role": "Engines Engineering Intern - Computer or Software Engineering",
     "location": "Lynn, MAEvendale, OH",
@@ -82902,18 +82026,6 @@
     "season": "Summer 2027",
     "education": "Undergrad",
     "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "SpaceX",
-    "role": "Silicon Engineer Intern/Co-op",
-    "location": "Palo Alto, CAIrvine, CARedmond, WA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8621763002?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-19"
@@ -83222,18 +82334,6 @@
     "grad_date": "Spring 2027"
   },
   {
-    "company": "RTX",
-    "role": "Hardware In the Loop Software Engineer 1",
-    "location": "Tucson, AZ",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
     "company": "Mimecast",
     "role": "Software Engineer 1 - Endpoint Sensor",
     "location": "Minneapolis, MN",
@@ -83425,18 +82525,6 @@
     "season": "2027 (New Grad — no specific season)",
     "education": "Undergrad",
     "url": "https://careers.garmin.com/jobs/16587?icims=1",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "Nexthop.ai",
-    "role": "Software Engineer New Grad - Hardware Diagnostics",
-    "location": "Santa Clara, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://nexthopai.bamboohr.com/careers/107/",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-19"
@@ -84218,18 +83306,6 @@
     "grad_date": "Spring 2027"
   },
   {
-    "company": "Micron Technology",
-    "role": "New College Grad - Design Engineer - Circuit Design",
-    "location": "San Jose, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Staff-Engineer--Circuit-Design_JR94667?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
     "company": "Anduril",
     "role": "Early Career Flight Software Engineer",
     "location": "Costa Mesa, CA",
@@ -84241,18 +83317,6 @@
     "citizenship": "No",
     "date_added": "2026-09-19",
     "grad_date": "Spring 2027"
-  },
-  {
-    "company": "General Dynamics UK",
-    "role": "Junior Hardware Engineer Developer - FPGA",
-    "location": "Ottawa, ON",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://jobs.smartrecruiters.com/GDMSI/744000147039249",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
   },
   {
     "company": "Textron",
@@ -84280,30 +83344,6 @@
     "grad_date": "Spring 2027"
   },
   {
-    "company": "SpaceX",
-    "role": "New Graduate Engineer - Silicon Engineering",
-    "location": "Redmond, WA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8706885002?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "Design Engineer New Grad - Design Engineer - DRAM Technology and Products",
-    "location": "Boise, ID",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
     "company": "NVIDIA",
     "role": "Research Scientist New Grad - Circuits",
     "location": "Santa Clara, CADurham, NC",
@@ -84314,19 +83354,6 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-19"
-  },
-  {
-    "company": "NVIDIA",
-    "role": "Circuit Design Engineer New Grad",
-    "location": "Santa Clara, CA",
-    "type": "newgrad",
-    "season": "2027 (New Grad — no specific season)",
-    "education": "Masters",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer---New-College-Grad-2026_JR2019567?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19",
-    "grad_date": "Spring 2027"
   },
   {
     "company": "Hippocratic AI",
@@ -93449,18 +92476,6 @@
     "date_added": "2026-09-19"
   },
   {
-    "company": "Microsoft",
-    "role": "Silicon Engineering Intern - 6-month Program",
-    "location": "Hillsboro, ORMountain View, CA",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982259",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
     "company": "Valeo",
     "role": "Mechatronics Engineering Co-op",
     "location": "Troy, MI",
@@ -93540,18 +92555,6 @@
     "season": "Co-op",
     "education": "Undergrad",
     "url": "https://job-boards.greenhouse.io/nanopathinc/jobs/4732881005?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "Marvell",
-    "role": "IC Validation Engineer Intern",
-    "location": "Ottawa, ON",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/IC-Validation-Engineer-Intern_2603925?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-19"
@@ -93653,30 +92656,6 @@
     "date_added": "2026-09-19"
   },
   {
-    "company": "Micron Technology",
-    "role": "Product Engineer Intern - DRAM Technology - Node Development",
-    "location": "Boise, ID",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Node-Development-Product-Engineer---DRAM-Technology_JR111846?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "Design Engineer Intern - HBM",
-    "location": "Richardson, TX",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
     "company": "Analog Devices",
     "role": "Design Evaluation Engineer Intern",
     "location": "Wilmington, MADurham, NCSan Diego, CA",
@@ -93773,18 +92752,6 @@
     "date_added": "2026-09-19"
   },
   {
-    "company": "Micron Technology",
-    "role": "PHY Digital Design & Automation Engineer Intern - HBM",
-    "location": "Richardson, TX",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Masters",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---PHY-Digital-Design---Automation-Engineer--HBM_JR110641?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
     "company": "Marvell",
     "role": "Analog Layout Engineer Intern",
     "location": "Santa Clara, CA",
@@ -93809,18 +92776,6 @@
     "date_added": "2026-09-19"
   },
   {
-    "company": "Lightmatter",
-    "role": "Silicon Packaging Engineer Intern & New Grad",
-    "location": "Mountain View, CA",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/lightmatter/jobs/5422712008?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
     "company": "Nokia",
     "role": "Optical Test Intern Co-op",
     "location": "Ottawa, ON",
@@ -93828,18 +92783,6 @@
     "season": "Co-op",
     "education": "Undergrad",
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39964",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "Quantinuum",
-    "role": "Photonic Integrated Circuit Design Intern",
-    "location": "Broomfield, CO",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Masters",
-    "url": "https://jobs.eu.lever.co/quantinuum/ef4b4db2-4ce1-47f5-bfd1-12dfc8a90107/apply?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-19"
@@ -94037,18 +92980,6 @@
     "date_added": "2026-09-19"
   },
   {
-    "company": "Micron Technology",
-    "role": "DRAM Customer Enablement Engineering Intern",
-    "location": "Boise, ID",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR107740?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
     "company": "Lumentum",
     "role": "Optical Verification Engineer Intern Co-op",
     "location": "Ottawa, ON",
@@ -94068,30 +92999,6 @@
     "season": "Co-op",
     "education": "Undergrad",
     "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "NXP Semiconductors",
-    "role": "Design for Test Intern",
-    "location": "Austin, TX",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065548?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "DRAM Test Structure Design and Layout Engineering Intern",
-    "location": "Boise, ID",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Test-Structure-Design-and-Layout-Engineering_JR110341?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-19"
@@ -94217,18 +93124,6 @@
     "date_added": "2026-09-19"
   },
   {
-    "company": "AMD",
-    "role": "Silicon Design Engineer Intern - Masters",
-    "location": "Austin, TX",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Masters",
-    "url": "https://careers.amd.com/jobs/90745?icims=1",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
     "company": "Micron Technology",
     "role": "Memory and System Architecture Research Intern",
     "location": "San Jose, CAFolsom, CA",
@@ -94248,18 +93143,6 @@
     "season": "Fall 2026",
     "education": "Undergrad",
     "url": "https://jobs.ashbyhq.com/eightsleep/393ffe76-749e-4ec1-9975-a96b7fefe31f/application?embed=true&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "Advanced DRAM Cell & Device Technology Intern",
-    "location": "Boise, ID",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Masters",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Advanced-DRAM-Cell---Device-Technology_JR110172?utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-19"
@@ -94350,18 +93233,6 @@
   },
   {
     "company": "Qorvo",
-    "role": "RF/Analog IC Design Intern",
-    "location": "Fort Lauderdale, FL",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "https://careers.qorvo.com/job/Ft_-Lauderdale-RFAnalog-IC-Design-Intern-FL-33309/1421449000/?ats=successfactors",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "Qorvo",
     "role": "Radio Systems and Test Intern",
     "location": "Fort Lauderdale, FL",
     "type": "offcycle",
@@ -94392,18 +93263,6 @@
     "season": "Fall 2026",
     "education": "Masters",
     "url": "https://careers.qorvo.com/job/Richardson-Research-Scientist-Intern-TX-75080/1424705400/?ats=successfactors",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "Qorvo",
-    "role": "Radio Frequency Integrated Circuit Design Intern - High Performance Analog",
-    "location": "Chelmsford, MA",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Masters",
-    "url": "https://careers.qorvo.com/job/Chelmsford-RFIC-Design-Intern-MA-1824/1424704300/?ats=successfactors",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-19"
@@ -94452,18 +93311,6 @@
     "season": "Spring 2027",
     "education": "Undergrad",
     "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "Fab2",
-    "role": "Rust Software Engineer Intern - Chip Design Tools - Winter",
-    "location": "SFAustin, TX",
-    "type": "offcycle",
-    "season": "Winter 2027",
-    "education": "Undergrad",
-    "url": "https://jobs.ashbyhq.com/fab2/4e3958f5-4e0d-4acc-9072-e40822ddf904/application?embed=true&utm_source=aprameyak",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-19"
@@ -94656,18 +93503,6 @@
     "season": "Co-op",
     "education": "Undergrad",
     "url": "https://careers.msasafety.com/jobs/9992?icims=1",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "Tesla",
-    "role": "Applied AI Engineer Intern - AI Hardware",
-    "location": "Palo Alto, CA",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "https://www.tesla.com/careers/search/job/279603",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-19"
@@ -94926,30 +93761,6 @@
   },
   {
     "company": "Marvell",
-    "role": "Design for Test Intern",
-    "location": "Morrisville, NC Santa Clara, CA Boise, ID Westborough, MA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511-1?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "Marvell",
-    "role": "IC Validation Engineer Intern - MS - Multiple Teams",
-    "location": "Irvine, CA Santa Clara, CA Westlake Village, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Masters",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "Marvell",
     "role": "Functional Validation Intern - BS",
     "location": "Santa Clara, CA Boise, ID Westborough, MA",
     "type": "summer",
@@ -94985,18 +93796,6 @@
     "date_added": "2026-09-19"
   },
   {
-    "company": "Micron Technology",
-    "role": "HBM Design Architect Intern - MS or PhD Student",
-    "location": "Richardson, TX",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Masters; PhD",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Design-Architect---MS-or-PhD-Student_JR111452?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
     "company": "Texas Instruments",
     "role": "Product Engineering Intern",
     "location": "Knoxville, TN Dallas, TX Phoenix, AZ Tucson, AZ",
@@ -95004,30 +93803,6 @@
     "season": "Fall 2026",
     "education": "Undergrad",
     "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017579",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "Texas Instruments",
-    "role": "Analog IC Design Engineering Intern",
-    "location": "Knoxville, TN Dallas, TX Phoenix, AZ Tucson, AZ",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Masters",
-    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017544",
-    "sponsorship": "Unknown",
-    "citizenship": "No",
-    "date_added": "2026-09-19"
-  },
-  {
-    "company": "Texas Instruments",
-    "role": "Analog IC Design Engineer Intern - Bachelors",
-    "location": "Knoxville, TN Dallas, TX Phoenix, AZ Tucson, AZ",
-    "type": "offcycle",
-    "season": "Fall 2026",
-    "education": "Undergrad",
-    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017543",
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-19"

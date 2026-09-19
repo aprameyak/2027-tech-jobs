@@ -1,15 +1,11 @@
 # 🎓 New Grad 2027 — Other Tech
 
-**94** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**85** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
-| Micron Technology | New College Grad - Design Engineer - Circuit Design | San Jose, CA |  | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Staff-Engineer--Circuit-Design_JR94667?utm_source=aprameyak) | Sep 19 |
-| ↳ | Design Engineer New Grad - Design Engineer - DRAM Technology and Products | Boise, ID |  | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519?utm_source=aprameyak) | Sep 19 |
-| NVIDIA | Circuit Design Engineer New Grad | Santa Clara, CA | Spring 2027 | Masters | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer---New-College-Grad-2026_JR2019567?utm_source=aprameyak) | Sep 19 |
 | Safelite | Predictive Analytics Global Early Career Professional | Columbus, OH | Spring 2027 | Undergrad | [Apply](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Predictive-Analytics-Global-Early-Career-Professional_JR74275?utm_source=aprameyak) | Sep 19 |
 | ↳ | Customer Analytics & Insights Global Early Career Professional | Columbus, OH | Spring 2027 | Undergrad | [Apply](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Customer-Analytics---Insights-Global-Early-Career-Professional_JR74210?utm_source=aprameyak) | Sep 19 |
-| SpaceX | New Graduate Engineer - Silicon Engineering | Redmond, WA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8706885002?utm_source=aprameyak) | Sep 19 |
 | Tracebit | Founding Engineer - Early Careers | London, UK |  | Undergrad | [Apply](https://jobs.ashbyhq.com/tracebit/b15236d9-29fa-4d7c-9873-1a23ca5cc034/application?utm_source=aprameyak) | Sep 19 |
 | CACI | Junior Engineer - Various Disciplines | Washington, DC, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Washington-DC-US/Junior-Engineer---Various-Disciplines_323041?utm_source=aprameyak) | Sep 18 |
 | Boeing | Mission Analysis Engineer (Entry level) - Millennium Space Systems | USA - El Segundo, CA |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Mission-Analysis-Engineer--Entry-level----Millennium-Space-Systems_JR2026524528-2?utm_source=aprameyak) | Sep 17 |
@@ -39,7 +35,6 @@
 | DoorDash | Product Design, Entry-Level (2027 start) | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8188161?utm_source=aprameyak) | Sep 10 |
 | FOX Corporation | On-Campus Video Producer/Editor (USC) - Big Ten Network | Home Office, CA |  | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/Home-Office-California-USA/On-Campus-Video-Producer-Editor--USC----Big-Ten-Network_R50033825?utm_source=aprameyak) | Sep 9 |
 | Verkada | Technical Support Engineer - University Graduate | San Mateo, CA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007?utm_source=aprameyak) | Sep 8 |
-| NXP Semiconductors | Entry Level DFT Design Engineer | Austin, TX |  | Undergrad | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065554?utm_source=aprameyak) | Sep 7 |
 | SpaceX | New Graduate Engineer, Starship Components | Hawthorne, CA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002&utm_source=aprameyak) | Sep 4 |
 | Barry-Wehmiller | Entry Level Fire Protection Engineer | Fort Worth, TX |  | Undergrad | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWConfidential/job/Fort-Worth-TX/Entry-Level-Fire-Protection-Engineer_R022644?utm_source=aprameyak) | Sep 3 |
 | Plexus | Entry Level Product Engineer (December Grads) | Neenah, WI |  | Undergrad | [Apply](https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Entry-Level-Product-Engineer--December-Grads-_R041625?utm_source=aprameyak) | Sep 3 |
@@ -56,8 +51,7 @@
 | General Matter | Test Engineer (New Grad) | Los Angeles, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375985008?utm_source=aprameyak) | Aug 30 |
 | IMC Trading | Graduate Performance Engineer | Chicago, IL |  | Undergrad | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823836101?utm_source=aprameyak) | Aug 30 |
 | Netic | Forward Deployed Engineer (FDE) - New Grad - 2026-2027 | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/netic/f2d170eb-c4c3-4715-9d2e-84dd4fe857c8/application?utm_source=aprameyak) | Aug 30 |
-| Northwood Space | RF & Antenna Systems Engineer (Early Career) | Torrance, CA |  | Masters | [Apply](https://jobs.ashbyhq.com/northwoodspace/11992bc2-5ec9-4143-9b64-e70be5b13726/application?utm_source=aprameyak) | Aug 30 |
-| ↳ | Global Sites Engineer (Early Career) | Torrance, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/northwoodspace/baa85b78-5718-4e74-9b21-170776dc4185/application?utm_source=aprameyak) | Aug 30 |
+| Northwood Space | Global Sites Engineer (Early Career) | Torrance, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/northwoodspace/baa85b78-5718-4e74-9b21-170776dc4185/application?utm_source=aprameyak) | Aug 30 |
 | Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | <details><summary>**2 locations**</summary>New York, NY</br>Boston, MA</details> |  | Undergrad | [Apply](https://jobs.lever.co/veeva/f792925e-aefc-418c-8bf8-a1bdb6250a25?utm_source=aprameyak) | Aug 30 |
 | Accenture Federal Services 🛂 | Junior Systems Engineer | Annapolis Junction, MD |  | Undergrad | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4627901006?gh_jid=4627901006&utm_source=aprameyak) | Aug 29 |
 | Smiths Group | Application / Customer Engineer I | Lexington, MA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000135327469) | Aug 29 |
@@ -73,9 +67,6 @@
 | ↳ | 2027 Entry-Level Consultant - Corporate Finance | Remote (US) | Spring 2027 | Undergrad | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/United-States/XMLNAME-2027-Entry-Level-Consultant---Corporate-Finance_JR260335?utm_source=aprameyak) | Aug 17 |
 | GlobalFoundries | Tapeout Engineer, 2026 New College Graduate | Austin, TX | Spring 2026 | Undergrad | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/Tapeout-Engineer--2026-New-College-Graduate_JR-2602561?utm_source=aprameyak) | Aug 17 |
 | Northrop Grumman | 2026 Entry Level Engineering Opportunities | Falls Church, VA | Spring 2026 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-Falls-Church/XMLNAME-2026-Entry-Level-Engineering-Opportunities_R10238148?utm_source=aprameyak) | Aug 17 |
-| SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002&utm_source=aprameyak) | Aug 17 |
-| ↳ | New Graduate Engineer, Silicon Engineering | Palo Alto, CA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002&utm_source=aprameyak) | Aug 17 |
-| ↳ | New Graduate Engineer, Silicon Engineering | Irvine, CA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002&utm_source=aprameyak) | Aug 17 |
 | CACI 🛂 🇺🇸 | Junior Vulnerability Researcher (Cloud & Containers) | Florham Park, NJ |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Junior-Vulnerability-Researcher--Cloud---Containers-_330398?utm_source=aprameyak) | Aug 10 |
 | Freedom Technology Solutions Group | Junior Systems Engineer 609 | Annapolis Junction, MD |  | Masters | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5067514007?utm_source=aprameyak) | Aug 8 |
 | NOV | Product Engineer 1 | Houston, TX |  | Undergrad | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/39682?utm_source=aprameyak) | Aug 7 |
