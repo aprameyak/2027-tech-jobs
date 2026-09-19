@@ -20,8 +20,13 @@ if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 from grad_date import infer_grad_date
 from validate_listings import validate_entry
-from scope_rules import HARD_REJECT_SIGNALS, is_out_of_scope_title, is_campus_role_title
-from claude_board_prompts import build_classify_prompt, board_token_to_table
+from scope_rules import (
+    HARD_REJECT_SIGNALS,
+    is_out_of_scope_title,
+    is_campus_role_title,
+    is_in_scope_listing_title,
+)
+from claude_board_prompts import build_classify_prompt, board_token_to_table, CLASSIFIER_VERSION
 
 BOARD_GROUP = os.environ.get('BOARD_GROUP', '').strip()
 
@@ -37,7 +42,7 @@ CLAUDE_USAGE_FILE = (
 FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
 
 CLAUDE_MODEL = 'claude-haiku-4-5-20251001'
-CLAUDE_BATCH_SIZE = 80
+CLAUDE_BATCH_SIZE = 40
 TITLE_PROMPT_MAX_LEN = 120
 _claude_client = None
 _claude_usage_dirty = False
@@ -55,6 +60,7 @@ _title_cache = None
 _confidence_cache = {}
 _add_cache = {}
 _board_cache = {}
+_version_cache = {}  # title_lower → CLASSIFIER_VERSION stamped on last decision
 _claude_calls_today = 0
 _claude_usage_date = None
 
@@ -101,33 +107,36 @@ SUBSTRING_KEYWORDS = [
 ]
 
 TECH_KEYWORDS = [
-    'software', 'engineer', 'engineering', 'developer', 'data', 'machine learning',
-    'ml', 'ai ', ' ai', 'artificial intelligence', 'research', 'researcher',
+    'software', 'developer', 'data', 'machine learning',
+    'ml', 'ai ', ' ai', 'artificial intelligence',
     'quantitative', 'quant', 'infrastructure', 'devops', 'platform', 'backend',
     'frontend', 'front-end', 'back-end', 'fullstack', 'full-stack', 'mobile',
     'ios', 'android', 'cloud', 'security', 'cybersecurity', 'network', 'systems',
-    'database', 'analytics', 'product', 'sre', 'reliability', 'embedded',
-    'robotics', 'computer', 'computational', 'algorithm', 'applied',
-    'technical', 'scientist', 'physics', 'math', 'statistics', 'fintech',
+    'database', 'analytics', 'sre', 'reliability',
+    'computer', 'computational', 'algorithm',
+    'technical', 'scientist', 'fintech',
     'product manager', 'program manager', 'consultant', 'consulting',
     'digital', 'technology associate', 'technology analyst',
-    'information technology', 'business analyst', 'business technology',
+    'information technology', 'information systems', 'business technology',
+    'mis', 'informatics',
 ]
 
-                                                                                                              
+# Ultra-clear SWE/CS titles that may skip Claude on cache miss (still versioned).
 HIGH_CONFIDENCE_TECH_SIGNALS = [
     'software engineer', 'software developer', 'software development',
     'data engineer', 'data scientist', 'data analyst', 'data science',
     'machine learning', 'ml engineer', 'ai engineer',
     'devops', 'sre ', 'site reliability',
     'backend engineer', 'frontend engineer', 'full-stack engineer', 'fullstack engineer',
+    'full stack engineer',
     'cloud engineer', 'platform engineer', 'infrastructure engineer',
     'cybersecurity', 'security engineer', 'security analyst',
     'mobile engineer', 'ios engineer', 'android engineer',
     'quantitative researcher', 'quantitative analyst', 'quantitative developer',
     'technology intern', 'technology associate', 'technology analyst',
-    'engineering development program', 'software engineering intern',
-    'software engineer intern', 'developer intern', 'data intern',
+    'information systems intern', 'information technology intern', 'mis intern',
+    'software engineering intern',
+    'software engineer intern', 'developer intern',
     'associate software', 'software engineering, associate', 'software engineer, associate',
 ]
 
@@ -291,10 +300,12 @@ def load_title_cache():
                             _title_cache[k] = False
                             _confidence_cache[k] = 'high'
                             _add_cache[k] = False
+                            _version_cache[k] = CLASSIFIER_VERSION
                             continue
                         if isinstance(v, dict):
                             _title_cache[k] = bool(v.get('is_tech', v.get('t', False)))
                             _confidence_cache[k] = v.get('confidence', v.get('c', 'medium'))
+                            _version_cache[k] = str(v.get('v', ''))
                             if 'a' in v or 'add' in v:
                                 _add_cache[k] = bool(v.get('a', v.get('add')))
                             b = v.get('b') or v.get('board')
@@ -310,8 +321,13 @@ def load_title_cache():
                                     _board_cache[k] = table_for_listing(lt, season)
                                 except Exception:
                                     pass
+                            # Stale classifier version → force Claude re-check on next scrape hit.
+                            if _version_cache[k] != CLASSIFIER_VERSION:
+                                # Keep entry loaded for fallback, but mark for refresh.
+                                _confidence_cache[k] = 'stale'
                         else:
                             _title_cache[k] = bool(v)
+                            _version_cache[k] = ''
                 else:
                     print('  [Cache] Corrupt title cache — resetting')
                     _title_cache = {}
@@ -331,6 +347,7 @@ def save_title_cache():
                 entry = {
                     't': bool(is_tech),
                     'c': _confidence_cache.get(k, 'medium'),
+                    'v': _version_cache.get(k, CLASSIFIER_VERSION),
                 }
                 if k in _add_cache:
                     entry['a'] = int(_add_cache[k])
@@ -503,8 +520,8 @@ def batch_classify_with_claude(titles, board='unknown'):
     clipped = [_clip_title(t) for t in titles]
     n = len(clipped)
     prompt = build_classify_prompt(clipped, board=board)
-    # Slightly higher token budget for board field
-    max_tokens = n * 16 + 48
+    # Higher token budget for stricter JSON + board field
+    max_tokens = max(n * 28 + 96, 256)
 
     for attempt in range(4):
         try:
@@ -585,39 +602,56 @@ def classify_titles_batch(title_list):
 
     seen_lower = set()
     uncached = []
+    refreshed = 0
     for t in title_list:
         tl = t.lower()
         if tl in seen_lower:
             continue
-        if tl in cache:
-            if tl not in _add_cache:
-                _add_cache[tl] = _derive_add_decision(t, bool(cache[tl]))
-            seen_lower.add(tl)
-            continue
+        seen_lower.add(tl)
+
+        # Rules always win — never ask Claude to override hard out-of-scope.
         if any(s in tl for s in HARD_REJECT_SIGNALS) or is_out_of_scope_title(t):
             cache[tl] = False
             _confidence_cache[tl] = 'high'
             _add_cache[tl] = False
             _board_cache[tl] = None
-            seen_lower.add(tl)
+            _version_cache[tl] = CLASSIFIER_VERSION
             continue
-        if any(s in tl for s in HIGH_CONFIDENCE_TECH_SIGNALS):
-            if is_out_of_scope_title(t):
-                cache[tl] = False
-                _confidence_cache[tl] = 'high'
+
+        cache_fresh = (
+            tl in cache
+            and _version_cache.get(tl) == CLASSIFIER_VERSION
+            and _confidence_cache.get(tl) != 'stale'
+        )
+        if cache_fresh:
+            if tl not in _add_cache:
+                _add_cache[tl] = _derive_add_decision(t, bool(cache[tl]))
+            # Final safety: never auto-add if campus/CS gate fails.
+            if _add_cache.get(tl) and not is_in_scope_listing_title(t, table=_board_cache.get(tl)):
                 _add_cache[tl] = False
-            else:
-                cache[tl] = True
-                _confidence_cache[tl] = 'high'
-                _add_cache[tl] = is_auto_addable(t)
-                listing_type, season = infer_listing_type(t)
-                _board_cache[tl] = table_for_listing(listing_type, season)
-            seen_lower.add(tl)
             continue
-        seen_lower.add(tl)
+
+        # Ultra-clear SWE/CS titles: heuristics OK, but still stamp current version.
+        if any(s in tl for s in HIGH_CONFIDENCE_TECH_SIGNALS) and is_in_scope_listing_title(
+            t, table=_infer_board_bucket(t) if _infer_board_bucket(t) != 'unknown' else None
+        ):
+            listing_type, season = infer_listing_type(t)
+            table = table_for_listing(listing_type, season)
+            cache[tl] = True
+            _confidence_cache[tl] = 'high'
+            _add_cache[tl] = is_auto_addable(t) and is_in_scope_listing_title(t, table=table)
+            _board_cache[tl] = table
+            _version_cache[tl] = CLASSIFIER_VERSION
+            continue
+
+        # Everything ambiguous / stale → Claude (quality path).
+        if tl in cache and _version_cache.get(tl) != CLASSIFIER_VERSION:
+            refreshed += 1
         uncached.append(t)
 
     if not uncached:
+        if refreshed:
+            print(f'  [Claude] No titles needed API this pass ({refreshed} were already refreshed)')
         return 0
 
     # Group by inferred board so each Claude call uses a focused prompt.
@@ -626,7 +660,8 @@ def classify_titles_batch(title_list):
         buckets[_infer_board_bucket(t)].append(t)
 
     print(
-        f'  [Claude] Batch-classifying {len(uncached)} uncached titles by board: '
+        f'  [Claude] Classifying {len(uncached)} title(s) with {CLASSIFIER_VERSION} '
+        f'({refreshed} stale-cache refresh): '
         + ', '.join(f'{k}={len(v)}' for k, v in buckets.items() if v)
     )
 
@@ -640,24 +675,37 @@ def classify_titles_batch(title_list):
             for title in batch:
                 tl = title.lower()
                 result = results.get(tl)
+                table_hint = board_token_to_table((result or {}).get('b')) or (
+                    board if board != 'unknown' else None
+                )
                 if result is not None:
                     is_tech = bool(result.get('is_tech', False))
+                    # Rules veto Claude accepts that fail CS/IS campus gate.
+                    if is_tech and not is_in_scope_listing_title(title, table=table_hint):
+                        is_tech = False
                     cache[tl] = is_tech
                     _confidence_cache[tl] = result.get('confidence', 'medium')
-                    table = board_token_to_table(result.get('b'))
-                    if table:
-                        _board_cache[tl] = table
-                    if is_out_of_scope_title(title) or result.get('b') == 'x':
+                    if table_hint:
+                        _board_cache[tl] = table_hint
+                    if (
+                        is_out_of_scope_title(title)
+                        or result.get('b') == 'x'
+                        or not is_in_scope_listing_title(title, table=table_hint)
+                    ):
                         _add_cache[tl] = False
                     elif 'a' in result:
                         _add_cache[tl] = bool(int(result.get('a', 0))) and is_tech
                     else:
                         _add_cache[tl] = _derive_add_decision(title, is_tech)
                 else:
-                    is_tech = is_tech_title_keywords(title)
+                    # No Claude response: do not auto-add; keyword fallback is tech-flag only.
+                    is_tech = is_tech_title_keywords(title) and is_in_scope_listing_title(
+                        title, table=table_hint
+                    )
                     cache[tl] = is_tech
-                    _confidence_cache[tl] = 'medium'
-                    _add_cache[tl] = _derive_add_decision(title, is_tech)
+                    _confidence_cache[tl] = 'low'
+                    _add_cache[tl] = False
+                _version_cache[tl] = CLASSIFIER_VERSION
                 classified += 1
 
     return classified
@@ -906,7 +954,7 @@ def should_list_job(job):
     if tl in _add_cache:
         return _add_cache[tl]
     conf = _confidence_cache.get(tl, 'medium')
-    if conf == 'low':
+    if conf in ('low', 'stale'):
         return False
     if is_auto_addable(title) and conf in ('high', 'medium'):
         return True
@@ -937,10 +985,11 @@ def is_auto_addable(title):
     if (
         not re.search(r'\bintern(?:ships?|s)?\b|\bco-?ops?\b', t)
         and is_campus_role_title(title, 'newgrad')
+        and is_in_scope_listing_title(title, table='newgrad')
     ):
         return True
 
-    if not is_campus_role_title(title, table=table):
+    if not is_in_scope_listing_title(title, table=table):
         return False
 
     if table == 'newgrad' or listing_type == 'New Grad (Full-Time)':

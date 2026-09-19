@@ -10,6 +10,7 @@ from claude_board_prompts import (
     build_classify_prompt,
     build_triage_prompt,
     board_token_to_table,
+    CLASSIFIER_VERSION,
 )
 
 
@@ -32,6 +33,14 @@ class ClaudeBoardPromptTests(unittest.TestCase):
             self.assertIn('IN-SCOPE', p)
             self.assertIn('OUT-OF-SCOPE', p)
             self.assertIn('JSON', p)
+            self.assertIn('computer science', p.lower())
+            self.assertIn('information systems', p.lower())
+            self.assertIn('Hardware Engineering Intern', p)
+            self.assertIn('false accepts', p.lower())
+
+    def test_classifier_version_set(self):
+        self.assertTrue(CLASSIFIER_VERSION)
+        self.assertIn('cs-is', CLASSIFIER_VERSION)
 
     def test_prompt_includes_all_titles(self):
         titles = ['Role A', 'Role B', 'Role C']

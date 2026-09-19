@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """Board-specific Claude prompts for campus tech listing classification."""
 
+# Bump when discipline/board rules change so scrapers re-ask Claude instead of
+# trusting stale cache decisions from older prompts.
+CLASSIFIER_VERSION = 'cs-is-v2'
+
 # Shared discipline scope for all three boards.
 _DISCIPLINE = (
     'IN-SCOPE only (computer science / information science / information systems '
@@ -17,6 +21,19 @@ _DISCIPLINE = (
     'finance(non-quant), supply chain/logistics; senior/staff/principal/director/'
     'manager unless explicitly new-grad / PhD early career / MotS new grad. '
     'When unsure, reject. Prefer SWE and CS/IS/MIS-adjacent titles only.'
+)
+
+_FEW_SHOT = (
+    'Examples (follow these judgments):\n'
+    '- "Software Engineer Intern" → t=1,a=1 (in-scope SWE campus)\n'
+    '- "Information Systems Intern" → t=1,a=1 (IS/MIS-adjacent)\n'
+    '- "IT Intern" → t=1,a=1\n'
+    '- "Data Scientist New Grad" → t=1,a=1 on newgrad board\n'
+    '- "Hardware Engineering Intern" → t=0,a=0,b=x\n'
+    '- "Silicon Design Intern" → t=0,a=0,b=x\n'
+    '- "Engineering Intern" (bare, no CS/IT signal) → t=0,a=0,b=x\n'
+    '- "Propulsion Engineering Intern" → t=0,a=0,b=x\n'
+    '- "Product Engineer Intern" (manufacturing-style, no software) → t=0,a=0,b=x\n'
 )
 
 _BOARD_RULES = {
@@ -85,15 +102,18 @@ def build_classify_prompt(titles, board='unknown'):
 
     return (
         f'You classify titles for a US/Canada 2027 tech campus job board.\n'
+        f'Quality matters: be strict; false accepts are worse than false rejects.\n'
         f'{_DISCIPLINE}\n\n'
+        f'{_FEW_SHOT}\n'
         f'{_BOARD_RULES[board]}\n\n'
         f'{board_lock}\n'
         f'Return a JSON array of length {n} in the same order. '
         f'Each element: {{"t":0|1,"c":"h"|"m"|"l","a":0|1,"b":"{b_token}"}}.\n'
-        f't=1 if in-scope discipline. a=1 only if t=1 AND it belongs on this board '
+        f't=1 if CS/IS/MIS-adjacent in-scope discipline. '
+        f'a=1 only if t=1 AND it belongs on this board '
         f'(campus intern/co-op/new-grad as defined above). '
         f'c=h high confidence, m medium, l low/unsure.\n'
-        f'Be strict: when unsure, prefer t=0 or a=0.\n'
+        f'If unsure about discipline OR campus fit, set t=0 or a=0 (and b=x when rejecting).\n'
         f'Titles:\n{numbered}\n'
         f'JSON only — no markdown, no commentary.'
     )
