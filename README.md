@@ -13,27 +13,27 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-### Browse 3776 open roles
+### Browse 3777 open roles
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (1901 open / 3090 total)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (1902 open / 3091 total)
   - [💻 Software Engineering](./SUMMER-SWE.md) (763)
   - [📱 Product Management](./SUMMER-PM.md) (90)
   - [🤖 Data Science, AI & Machine Learning](./SUMMER-AI-ML.md) (537)
   - [📈 Quantitative Finance](./SUMMER-QUANT.md) (165)
-  - [🧩 Other Tech](./SUMMER-OTHER.md) (346)
+  - [🧩 Other Tech](./SUMMER-OTHER.md) (347)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (897 open / 1093 total)
   - [💻 Software Engineering](./OFFCYCLE-SWE.md) (348)
   - [📱 Product Management](./OFFCYCLE-PM.md) (47)
   - [🤖 Data Science, AI & Machine Learning](./OFFCYCLE-AI-ML.md) (338)
   - [📈 Quantitative Finance](./OFFCYCLE-QUANT.md) (22)
   - [🧩 Other Tech](./OFFCYCLE-OTHER.md) (142)
-- [🎓 New Grad 2027](./NEWGRAD.md) (978 open / 2272 total)
+- [🎓 New Grad 2027](./NEWGRAD.md) (978 open / 2273 total)
   - [💻 Software Engineering](./NEWGRAD-SWE.md) (656)
   - [📱 Product Management](./NEWGRAD-PM.md) (22)
   - [🤖 Data Science, AI & Machine Learning](./NEWGRAD-AI-ML.md) (221)
   - [📈 Quantitative Finance](./NEWGRAD-QUANT.md) (50)
   - [🧩 Other Tech](./NEWGRAD-OTHER.md) (29)
-- [🔒 Closed listings](./CLOSED.md) (2679)
+- [🔒 Closed listings](./CLOSED.md) (2680)
 
 ---
 
@@ -46,7 +46,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **1901** open listings (3090 total incl. closed) · [View full open table](./SUMMER.md)
+Showing newest **75** of **1902** open listings (3091 total incl. closed) · [View full open table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -216,7 +216,7 @@ Showing newest **75** of **897** open listings (1093 total incl. closed) · [Vie
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **978** open listings (2272 total incl. closed) · [View full open table](./NEWGRAD.md)
+Showing newest **75** of **978** open listings (2273 total incl. closed) · [View full open table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 

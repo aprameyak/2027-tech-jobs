@@ -96,7 +96,8 @@ _CS_ADJACENT = re.compile(
     r'(?:tech|systems|data|it)\s*.*business analyst|'
     r'\btrading\b.*(?:technolog|software|quant|engineer)|'
     r'quantitative (?:research|trad|develop|analy|strat|technolog)|'
-    r'privacy (?:engineer|intern)|security and privacy',
+    r'privacy|\bcivil liberties\b|security and privacy|'
+    r'data sci',
     re.I,
 )
 

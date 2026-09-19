@@ -79642,5 +79642,30 @@
     "sponsorship": "Unknown",
     "citizenship": "No",
     "date_added": "2026-09-19"
+  },
+  {
+    "company": "Palantir",
+    "role": "Privacy & Civil Liberties Engineer - New Grad",
+    "location": "New York, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad — no specific season)",
+    "education": "Undergrad",
+    "url": "",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-07-09",
+    "grad_date": "Fall 2026"
+  },
+  {
+    "company": "RE/SPEC Inc.",
+    "role": "Student Engineering Intern - Data Sci...",
+    "location": "Rapid City, SD",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.smartrecruiters.com/RESPECInc/744000107100902",
+    "sponsorship": "Unknown",
+    "citizenship": "No",
+    "date_added": "2026-08-29"
   }
 ]

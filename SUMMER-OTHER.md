@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships — Other Tech
 
-**346** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**347** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -285,6 +285,7 @@
 | IBM | Technical Support Intern | Durham, NC | Undergrad | [Apply](https://careers.ibm.com/en_US/careers/JobDetail/Technical-Support-Intern-2027/128516) | Aug 29 |
 | KeyBank | Data Intern - Key Technology & Services - Data Track | Brooklyn, OH | Undergrad | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385?utm_source=aprameyak) | Aug 29 |
 | Marsh | Summer Analyst Intern - Data and Analytics | Toronto, ON | Undergrad | [Apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1?utm_source=aprameyak) | Aug 29 |
+| RE/SPEC Inc. | Student Engineering Intern - Data Sci... | Rapid City, SD | Undergrad | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000107100902) | Aug 29 |
 | Verition Fund Management | Technology Intern | <details><summary>**6 locations**</summary>Greenwich, CT</br>Houston, TX</br>Miami, FL</br>Chicago, IL</br>Norwalk, CT</br>New York, NY</details> | Undergrad | [Apply](https://www.verition.com/open-positions?gh_jid=5214784007) | Aug 29 |
 | Vertiv | Service Technology Research Intern | Westerville, OH | Masters | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351) | Aug 29 |
 | ↳ | Predictive Analytics Services Intern ... | Delaware, OH | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278594) | Aug 29 |

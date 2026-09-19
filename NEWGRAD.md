@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-**978** open listing(s) · **1294** closed in [`CLOSED.md`](./CLOSED.md). Canonical data: [`listings.json`](./listings.json). Back to [`README`](./README.md).
+**978** open listing(s) · **1295** closed in [`CLOSED.md`](./CLOSED.md). Canonical data: [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 ### Browse by category
 

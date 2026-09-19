@@ -1,6 +1,6 @@
 # Closed Listings
 
-**2679** closed listing(s) (🔒). Kept for history — roles existed but are no longer accepting applications. Back to [`README`](./README.md).
+**2680** closed listing(s) (🔒). Kept for history — roles existed but are no longer accepting applications. Back to [`README`](./README.md).
 
 ## ☀️ Summer 2027 Internships
 
@@ -1403,7 +1403,7 @@
 
 ## 🎓 New Grad 2027
 
-1294 closed
+1295 closed
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
@@ -2689,6 +2689,7 @@
 | ↳ | Software Engineer, New Grad - Defense | New York, NY |  | Undergrad | 🔒 | Jul 9 |
 | ↳ | Software Engineer, New Grad | New York, NY |  | Undergrad | 🔒 | Jul 9 |
 | ↳ | Forward Deployed Software Engineer, New Grad - Commercial | New York, NY | Spring 2027 | Undergrad | 🔒 | Jul 9 |
+| ↳ | Privacy & Civil Liberties Engineer - New Grad | New York, NY | Fall 2026 | Undergrad | 🔒 | Jul 9 |
 | Palantir | Software Engineer, New Grad - Production Infrastructure | New York, NY |  | Undergrad | 🔒 | Jul 8 |
 | ↳ | Software Engineer, New Grad - Production Infrastructure | Seattle, WA |  | Undergrad | 🔒 | Jul 8 |
 | ↳ | Software Engineer, New Grad - Infrastructure | Palo Alto, CA |  | Undergrad | 🔒 | Jul 8 |
