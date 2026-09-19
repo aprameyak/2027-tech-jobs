@@ -54874,5 +54874,15 @@
     "t": false,
     "c": "medium",
     "a": 0
+  },
+  "ai2 applied machine learning scientist co-op (winter 2027)": {
+    "t": true,
+    "c": "high",
+    "a": 1
+  },
+  "software project engineer intern (summer 2027) onsite": {
+    "t": true,
+    "c": "high",
+    "a": 1
   }
 }
