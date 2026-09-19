@@ -17,7 +17,7 @@ OFFCYCLE_SEASONS = {
 }
 NEWGRAD_SEASON = '2027 (New Grad — no specific season)'
 
-INTERN = re.compile(r'\bintern(?:ships?)?\b', re.I)
+INTERN = re.compile(r'\bintern(?:ships?|s)?\b', re.I)
 STAFF_RS = re.compile(r'research scientist', re.I)
 NEWGRAD_KW = re.compile(
     r'new grad|new-grad|entry[- ]level|early career|university grad|college grad|'

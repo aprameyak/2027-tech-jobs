@@ -81,9 +81,11 @@ DEFAULT_FOLLOWED_COMPANIES = [
     'Wells Fargo',
 ]
 
-BOUNDARY_KEYWORDS = [r'\bintern\b', r'\binternship\b', r'\bco-op\b', r'\bcoop\b', r'\bjunior\b',
-                     r'\bphd\b', r'\bgraduate\b', r'\bms intern\b',
-                     r'\bstudent\b', r'\bcampus\b']
+BOUNDARY_KEYWORDS = [
+    r'\bintern(?:ships?|s)?\b', r'\bco-op\b', r'\bcoop\b', r'\bjunior\b',
+    r'\bphd\b', r'\bgraduate\b', r'\bms intern\b',
+    r'\bstudent\b', r'\bcampus\b', r'\bfellows?\b',
+]
 
 SUBSTRING_KEYWORDS = [
     'new grad', 'new-grad', 'entry level', 'entry-level', 'early career', '2027',
@@ -404,26 +406,57 @@ def _derive_add_decision(title, is_tech):
         return False
     return is_auto_addable(title)
 
+def _clip_title(title, max_len=TITLE_PROMPT_MAX_LEN):
+    """Clip long titles while keeping head+tail so near-duplicates stay distinct."""
+    t = (title or '').strip()
+    if len(t) <= max_len:
+        return t
+    keep = max_len - 1
+    head = keep // 2
+    tail = keep - head
+    return t[:head] + '…' + t[-tail:]
+
+
+def _as_flag(value, default=0):
+    """Coerce Claude 0/1 / bool / '0'|'1' into an int flag."""
+    if value is None:
+        return int(default)
+    if isinstance(value, bool):
+        return int(value)
+    if isinstance(value, (int, float)):
+        return 1 if value else 0
+    s = str(value).strip().lower()
+    if s in ('1', 'true', 'yes', 'y'):
+        return 1
+    if s in ('0', 'false', 'no', 'n', ''):
+        return 0
+    try:
+        return 1 if float(s) else 0
+    except Exception:
+        return int(default)
+
+
 def _normalize_claude_row(row):
     if not isinstance(row, dict):
         return None
-    if 't' in row or 'c' in row or 'b' in row:
+    if 't' in row or 'c' in row or 'b' in row or 'a' in row:
         conf_map = {'h': 'high', 'm': 'medium', 'l': 'low'}
         c = str(row.get('c', 'm')).lower()
         b_raw = str(row.get('b', 'x')).lower().strip()
         return {
-            'is_tech': bool(int(row.get('t', 0))),
+            'is_tech': bool(_as_flag(row.get('t', 0))),
             'confidence': conf_map.get(c, c if c in conf_map.values() else 'medium'),
-            'a': int(row.get('a', 0)),
+            'a': _as_flag(row.get('a', 0)),
             'b': b_raw if b_raw in ('s', 'o', 'n', 'x') else 'x',
         }
     b_raw = str(row.get('board', row.get('b', 'x'))).lower().strip()
     if b_raw in ('summer', 'offcycle', 'newgrad'):
         b_raw = {'summer': 's', 'offcycle': 'o', 'newgrad': 'n'}[b_raw]
+    a_val = row.get('a')
     return {
         'is_tech': bool(row.get('is_tech', False)),
         'confidence': row.get('confidence', 'medium'),
-        'a': int(row.get('a', 0)) if 'a' in row else None,
+        'a': _as_flag(a_val) if a_val is not None else None,
         'b': b_raw if b_raw in ('s', 'o', 'n', 'x') else 'x',
     }
 
@@ -457,7 +490,7 @@ def batch_classify_with_claude(titles, board='unknown'):
     if not client or not titles:
         return {}
 
-    clipped = [t[:TITLE_PROMPT_MAX_LEN] for t in titles]
+    clipped = [_clip_title(t) for t in titles]
     n = len(clipped)
     prompt = build_classify_prompt(clipped, board=board)
     # Slightly higher token budget for board field
@@ -771,7 +804,7 @@ OFFCYCLE_SEASONS = (
 def infer_listing_type(title):
                                                                               
     t = title.lower()
-    is_intern = bool(re.search(r'\bintern(ship)?\b|\bco-?op\b', t))
+    is_intern = bool(re.search(r'\bintern(?:ships?|s)?\b|\bco-?ops?\b', t))
 
     if any(kw in t for kw in ['co-op', 'coop', 'co op']):
         return 'Internship', 'Co-op'

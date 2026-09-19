@@ -66,6 +66,9 @@ class InferListingTypeTests(unittest.TestCase):
             'Campus Undergraduate Summer Internship Program - 2027 Software Engineer',
             'Graduate Software Engineer Intern 2027',
             'Technology Graduate Intern',
+            'Software Engineering Internships',
+            'Software PhD Internships',
+            'Engineering Interns',
         ]
         for title in cases:
             with self.subTest(title=title):
