@@ -15,8 +15,12 @@ HARD_REJECT_SIGNALS = [
     'tooling engineer', 'tooling intern', 'heat transfer', 'thermodynamic',
     'controls engineering',
     'hardware engineer', 'hardware design', 'hardware intern', 'hardware r&d',
-    'hardware systems', 'digital hardware', 'rtl design',
+    'hardware systems', 'hardware test', 'hardware development', 'hardware power',
+    'hardware product', 'hardware and memory', 'digital hardware', 'rtl design',
     'rf engineer', 'rf design', 'antenna design', 'pcb design',
+    'electrical reliability', 'environmental test', 'astrodynamics',
+    'manufacturing project', 'manufacturing operations', 'advanced manufacturing',
+    'product supply',
     'human resources', 'recruiter', 'recruiting', 'talent acquisition', 'peoplex',
     'people ops', 'people operations', 'people analytics', 'people partner',
     'supply chain', 'procurement',
@@ -80,6 +84,18 @@ _SCOPE_TECH_HINT = re.compile(
 # Word-boundary hardware tokens (avoid matching "basic", "applied science", etc.)
 _ASIC_RE = re.compile(r'\basics?\b', re.I)
 _FPGA_RE = re.compile(r'\bfpga\b', re.I)
+_EMBEDDED_RE = re.compile(r'\bembedded\b', re.I)
+_FIRMWARE_RE = re.compile(r'\bfirmware\b', re.I)
+_HARDWARE_WORD_RE = re.compile(r'\bhardware\b', re.I)
+# SWE-primary signals that can rescue a title mentioning hardware (not PM alone).
+_HARDWARE_RESCUE = re.compile(
+    r'\bsoftware\b|\bdevops\b|\bsre\b|site reliability|'
+    r'machine learning|\bmle\b|ml engineer|ai engineer|artificial intelligence|'
+    r'data scientist|data engineer|data science|'
+    r'security engineer|developer|programming|'
+    r'software\s*/\s*hardware|hardware\s*/\s*software',
+    re.I,
+)
 
 # Intern / co-op / student / fellow signals (plurals included).
 _INTERN_COOP = re.compile(
@@ -200,15 +216,23 @@ def is_out_of_scope_title(title):
 
     has_keep = bool(_STRONG_KEEP.search(t))
 
+    # Embedded / firmware are always out (even with a software keep signal).
+    if _EMBEDDED_RE.search(t) or _FIRMWARE_RE.search(t):
+        return True
+
     if any(s in t for s in HARD_REJECT_SIGNALS):
         # Mixed titles like "Software / Hardware Engineering" stay in if SWE-primary.
         if has_keep and not any(
             s in t
             for s in (
-                'embedded software', 'embedded engineer', 'firmware engineer',
-                'firmware intern', 'ssd firmware', 'mechanical engineer',
-                'mechanical design', 'electrical engineer', 'electrical design',
-                'electrical hardware', 'manufacturing engineer',
+                'mechanical engineer', 'mechanical design',
+                'electrical engineer', 'electrical design', 'electrical hardware',
+                'electrical reliability', 'manufacturing engineer',
+                'manufacturing project', 'manufacturing operations',
+                'advanced manufacturing', 'product supply',
+                'hardware test', 'hardware development', 'hardware power',
+                'hardware product', 'hardware and memory',
+                'environmental test', 'astrodynamics',
                 'mechanical associate', 'radiation effects', 'assembly, integration',
                 'postdoctoral', 'post-doctoral', 'postdoc fellow', 'post-doc',
             )
@@ -216,10 +240,14 @@ def is_out_of_scope_title(title):
             return False
         return True
 
+    # Bare "hardware" without SWE/ML/devops rescue → out (blocks Hardware PM, etc.).
+    if _HARDWARE_WORD_RE.search(t) and not _HARDWARE_RESCUE.search(t):
+        return True
+
     if any(s in t for s in _SOFT_HARDWARE_SIGNALS) and not has_keep:
         return True
 
-    if (_ASIC_RE.search(t) or _FPGA_RE.search(t)) and not has_keep:
+    if (_ASIC_RE.search(t) or _FPGA_RE.search(t)) and not _HARDWARE_RESCUE.search(t):
         return True
 
     if re.search(r'\bpost-?docs?\b|\bpostdoctoral\b', t):

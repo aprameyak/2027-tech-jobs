@@ -1,12 +1,11 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-571 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+562 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
-| Astranis Space Technologies | Environmental Test Engineer Intern (Winter 2027) | San Francisco | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705652006?utm_source=aprameyak) | Sep 19 |
 | Johnson & Johnson | Medical Device Cybersecurity Co-Op | Danvers, MA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Medical-Device-Cybersecurity-Co-Op_R-099388?utm_source=aprameyak) | Sep 19 |
 | ↳ | Product Management Co-Op | Danvers, MA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757?utm_source=aprameyak) | Sep 19 |
 | ↳ | Production Data Analyst Co-Op | Danvers, MA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Production-Data-Analyst-Co-Op_R-098904?utm_source=aprameyak) | Sep 19 |
@@ -110,7 +109,6 @@
 | Plexus | Intern - Software Engineer (Fall 2027) | Neenah, WI | Fall 2027 | Undergrad | [Apply](https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Fall-2027-_R040443?utm_source=aprameyak) | Sep 14 |
 | ↳ | Intern - Digital Engineer (Fall 2027) | Neenah, WI | Fall 2027 | Undergrad | [Apply](https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Digital-Engineer--Fall-2027-_R041064?utm_source=aprameyak) | Sep 14 |
 | ↳ | Intern - Product Engineer (Fall 2027) | Neenah, WI | Fall 2027 | Undergrad | [Apply](https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Product-Engineer--Fall-2027-_R040311-1?utm_source=aprameyak) | Sep 14 |
-| Procter & Gamble | Fall 2026 Internship/Co-op (Product Supply – Manufacturing in Brantford, Ontario)/Stage/Travail coopératif automne 2026 (Approvisionnement en produits – Fabrication à Brantford, Ontario) | Toronto, ON | Co-op | Undergrad | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/GRTR-TORONTO-FULFILLMENT-CTR/Fall-2026-Internship-Co-op--Product-Supply---Manufacturing-in-Brantford--Ontario--Stage-Travail-coopratif-automne-2026--Approvisionnement-en-produits---Fabrication--Brantford--Ontario-_R000154778?utm_source=aprameyak) | Sep 14 |
 | Robinhood | Software Developer Intern/Co-op, Backend (Winter 2027) | Toronto, ON | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/robinhood/jobs/8194428?gh_jid=8194428&utm_source=aprameyak) | Sep 14 |
 | Royal Bank of Canada | Winter 2027 - GRM, BSLR Liquidity Data & AI Intern (4 Months) | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--BSLR-Liquidity-Data---AI-Intern--4-Months-_R-0000185661?utm_source=aprameyak) | Sep 14 |
 | RTX | Software Engineer Co-Op - Onsite | CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-Co-Op---Onsite_01871478?utm_source=aprameyak) | Sep 14 |
@@ -132,7 +130,6 @@
 | Ciena | Wavelogic Modem HW Engineering Intern/Co-op (Winter 2027 - 4 month) | Ottawa, ON | Co-op | Undergrad | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Intern-Co-op--Winter-2027---4-month-_R031652?utm_source=aprameyak) | Sep 10 |
 | Plexus | Intern - Analog Engineer | Neenah, WI | Fall 2027 | Undergrad | [Apply](https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Analog-Engineer--Fall-2027-_R041065?utm_source=aprameyak) | Sep 10 |
 | RSM | Managed IT Services Service Desk Consulting Intern | Boston, MA | Winter 2027 | Undergrad | [Apply](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Boston/Managed-IT-Services-Service-Desk-Consulting-Intern---Winter-2027_JR117032?utm_source=aprameyak) | Sep 10 |
-| Amazon | Hardware Development Engineer Intern/Co-Op, ROBOTICS | North Reading, MA | Co-op | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) | Sep 9 |
 | Hermeus | Propulsion Engineering Intern - Spring/Summer/Fall | Los Angeles, CA | Fall 2027 | Undergrad | [Apply](https://jobs.lever.co/hermeus/943f51e4-5b26-432c-ae85-de5f43cadb86?utm_source=aprameyak) | Sep 9 |
 | Johnson & Johnson | MSAT Engineer Co-op | Wilson, NC | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Wilson-North-Carolina-United-States-of-America/MSAT-Engineer-Co-op-Spring-2027_R-097604?utm_source=aprameyak) | Sep 9 |
 | Rocket Lab | Flight Software Intern | Littleton, CO | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989724003?utm_source=aprameyak) | Sep 9 |
@@ -161,7 +158,6 @@
 | IEX | Network & Data Center Engineer Co-op | New York, NY | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/iex-interns/jobs/8171383?utm_source=aprameyak) | Sep 4 |
 | Kodiak Robotics | Winter 2027 Intern, Data Engineering | Mountain View, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/kodiak/jobs/4396622009?utm_source=aprameyak) | Sep 4 |
 | Procter & Gamble | Digital Technologies Internship/Co-op / Stage ou programme coopératif en en technologies digitales | Toronto, ON | Co-op | Undergrad | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/TORONTO-GO/Digital-Technologies-Internship-Co-op---Stage-ou-programme-coopratif-en-en-technologies-digitales_R000158595?utm_source=aprameyak) | Sep 4 |
-| ↳ | Product Supply Internship/Co-op Summer 2027/ Stage ou programme coopératif en chaîne d'approvisionnement Été | Toronto, ON | Co-op | Undergrad | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/TORONTO-GO/Product-Supply-Internship-Co-op-Summer-2027--Stage-ou-programme-coopratif-en-chane-d-approvisionnement-t-2027_R000158591?utm_source=aprameyak) | Sep 4 |
 | ↳ | Analytics & Insights Internship/Co-op Summer 2027/ Stage ou programme coopératif en Analyse et veille stratégique Été | Toronto, ON | Co-op | Undergrad | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/TORONTO-GO/Analytics---Insights-Internship-Co-op-Summer-2027--Stage-ou-programme-coopratif-en-Analyse-et-veille-stratgique-t-2027_R000158592?utm_source=aprameyak) | Sep 4 |
 | Zip | Software Engineer Intern | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e/application?utm_source=aprameyak) | Sep 4 |
 | Philips | Co-op - Material Scientist - New Kensington, PA - January-June | New Kensington, PA | Co-op | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Co-op-Material-Scientist-New-Kensington--PA---Fall-2026_585816?utm_source=aprameyak) | Sep 3 |
@@ -202,8 +198,7 @@
 | SpaceX | Engineering Internship/Co-op | <details><summary>**8 locations**</summary>Hawthorne, CA</br>Cape Canaveral, FL</br>Bastrop, TX</br>Redmond, WA</br>Starbase, TX</br>McGregor, TX</br>Irvine, CA</br>Vandenberg, CA</details> | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/spacex/jobs/8616338002?utm_source=aprameyak) | Aug 29 |
 | ↳ | Graduate Engineer Internship/Co-op | <details><summary>**8 locations**</summary>Hawthorne, CA</br>Cape Canaveral, FL</br>Bastrop, TX</br>Redmond, WA</br>Starbase, TX</br>McGregor, TX</br>Irvine, CA</br>Vandenberg, CA</details> | Spring 2027 | Masters; PhD | [Apply](https://job-boards.greenhouse.io/spacex/jobs/8621749002?utm_source=aprameyak) | Aug 29 |
 | Workiva | Spring 2027 Intern - Data Analytics | Remote (US) | Spring 2027 | Undergrad | [Apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring-2027-Intern---Data-Analytics_R12319?utm_source=aprameyak) | Aug 29 |
-| Brunswick | Mercury Marine: Advanced Manufacturing/Operations Analytics Engineering Co-op | Fond du Lac, WI | Co-op | Undergrad | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238?utm_source=aprameyak) | Aug 25 |
-| ↳ | Mercury Marine: Power BI/Ops Analytics Co-op | Fond du Lac, WI | Co-op | Undergrad | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Power-BI-Ops-Analytics-Co-op_JR-051236?utm_source=aprameyak) | Aug 25 |
+| Brunswick | Mercury Marine: Power BI/Ops Analytics Co-op | Fond du Lac, WI | Co-op | Undergrad | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Power-BI-Ops-Analytics-Co-op_JR-051236?utm_source=aprameyak) | Aug 25 |
 | ↳ | Mercury Marine - Systems/Software Engineering Co-op | Fond du Lac, WI | Co-op | Undergrad | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212?utm_source=aprameyak) | Aug 25 |
 | ↳ | Mercury Marine: Software Validation Intern | Oshkosh, WI | Co-op | Undergrad | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160?utm_source=aprameyak) | Aug 25 |
 | Kodiak Robotics | Winter 2027 Intern, Artificial Intelligence/Machine Learning | Mountain View, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/kodiak/jobs/4377407009?utm_source=aprameyak) | Aug 25 |
@@ -218,7 +213,6 @@
 | Ancestry | Product Design Co-op – International Growth | Remote (US) | Co-op | Undergrad | [Apply](https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Product-Design-Co-op---International-Growth_R003417?utm_source=aprameyak) | Aug 17 |
 | Astranis Space Technologies | CAD Engineer/Librarian Intern | San Francisco, CA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704740006?utm_source=aprameyak) | Aug 17 |
 | ↳ | CAD Engineer/Librarian Intern | San Francisco, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704748006?utm_source=aprameyak) | Aug 17 |
-| ↳ | Electrical Reliability Intern | San Francisco, CA | Fall 2026 | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4681472006?utm_source=aprameyak) | Aug 17 |
 | Campbell Soup Company | Agentic AI Engineer Co-Op | Remote (US) | Co-op | Undergrad | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014?utm_source=aprameyak) | Aug 17 |
 | ↳ | Data Engineer, DA&AI Co-Op | Camden, NJ | Co-op | Undergrad | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838?utm_source=aprameyak) | Aug 17 |
 | ↳ | Business Analyst (Co-op), DA&AI | Remote (US) | Co-op | Undergrad | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913?utm_source=aprameyak) | Aug 17 |
@@ -268,7 +262,6 @@
 | ↳ | ML Research Engineer Internship, Multimodal | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/423E512A62/?utm_source=aprameyak) | Aug 4 |
 | ↳ | ML Research Engineer Internship, Post-Training | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/5D57D607E2/?utm_source=aprameyak) | Aug 4 |
 | ↳ | ML Engineer Internship, Evaluate | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/66C7B15E3D/?utm_source=aprameyak) | Aug 4 |
-| ↳ | ML Engineer Internship, Open Benchmarks of AI Hardware | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/DF4D141358/?utm_source=aprameyak) | Aug 4 |
 | ↳ | Machine Learning Engineer Internship, WebML | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/D04BE4F4A3/?utm_source=aprameyak) | Aug 4 |
 | ↳ | Machine Learning Engineer Internship, Accelerate | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/F860248372/?utm_source=aprameyak) | Aug 4 |
 | ↳ | Machine Learning Engineer Internship, Quantization | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/CF90BFDC06/?utm_source=aprameyak) | Aug 4 |
@@ -278,6 +271,7 @@
 | ↳ | Machine Learning Engineer Internship, AI Energy Score | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/B952461BFF/?utm_source=aprameyak) | Aug 4 |
 | ↳ | Machine Learning Engineer Internship, Hardware Optimization | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/30EDE6502E/?utm_source=aprameyak) | Aug 4 |
 | ↳ | Machine Learning Engineer Internship, Information Retrieval | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/5691DE34F6/?utm_source=aprameyak) | Aug 4 |
+| ↳ | ML Engineer Internship, Open Benchmarks of AI Hardware | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/DF4D141358/?utm_source=aprameyak) | Aug 4 |
 | NationGraph | Software Engineer Intern | Toronto, ON | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/nationgraph/a1bcdd3e-d863-42b6-8469-ec587190ad68/?utm_source=aprameyak) | Aug 4 |
 | Nidec | Software Engineer Co-Op | St. Louis, MO | Co-op | Undergrad | [Apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-Co-Op_R0015871?utm_source=aprameyak) | Aug 4 |
 | Phonic | Machine Learning Research Intern | San Francisco, CA | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/phonic/a6c8c3d2-250a-4c2f-8a20-e4667ca38e41?utm_source=aprameyak) | Aug 4 |
@@ -285,7 +279,6 @@
 | Saronic Technologies | Enterprise Technology Intern - AI and Automation | Austin, TX | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3?utm_source=aprameyak) | Aug 4 |
 | InstaLILY | Software Engineer I, Toronto Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009?utm_source=aprameyak) | Jul 31 |
 | Clerkie | Software Engineering Co-op MLOps | Remote (US) | Fall 2026 | Undergrad | [Apply](http://getfiber.ai/careers?gh_jid=5152467007&utm_source=aprameyak) | Jul 28 |
-| Rivian | Software Engineering Intern - Embedded Platforms | Palo Alto, CA | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff?utm_source=aprameyak) | Jul 28 |
 | Marmon Holdings | Digital Production Engineering Intern OR Student Co-Op | Milwaukee, WI | Co-op | Undergrad | [Apply](https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451?utm_source=aprameyak) | Jul 27 |
 | Campbell Soup Company | Data Engineer, DA&AI Co-Op | Camden, NJ | Co-op | Undergrad | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65837?utm_source=aprameyak) | Jul 26 |
 | ↳ | Modeling and Visualization Engineer Co-Op | Hanover, PA | Co-op | Undergrad | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---PA---Hanover/Modeling-and-Visualization-Engineer-Co-Op_Req-65847?utm_source=aprameyak) | Jul 26 |
@@ -407,7 +400,6 @@
 | Vanguard | Fall/Winter Co-op — Application & AI Engineer | Malvern, PA | Fall 2026 | Undergrad | 🔒 | Aug 18 |
 | ↳ | Fall/Winter Co-op — Mobile Engineer | Charlotte, NC | Fall 2026 | Undergrad | 🔒 | Aug 18 |
 | ↳ | Avionics Engineer Intern | San Francisco, CA | Fall 2026 | Undergrad | 🔒 | Aug 17 |
-| ↳ | Environmental Test Engineer Intern | San Francisco, CA | Fall 2026 | Undergrad | 🔒 | Aug 17 |
 | ↳ | PCB Layout Engineer Intern | San Francisco, CA | Fall 2026 | Undergrad | 🔒 | Aug 17 |
 | ↳ | Reliability Test Intern | San Francisco, CA | Fall 2026 | Undergrad | 🔒 | Aug 17 |
 | ↳ | Modeling and Visualization Engineer Co-Op | Hanover, PA | Co-op | Undergrad | 🔒 | Aug 17 |
@@ -425,7 +417,6 @@
 | ↳ | Engineering Co-op-2 | North America/USA/Missouri/St. Louis - WPE, MO | Co-op | Undergrad | 🔒 | Aug 17 |
 | Postman | AI Engineer, Internship - Summer 2026 - Applications Open Now | <details><summary>**2 locations**</summary>Berkeley, CA</br>San Francisco, CA</details> | Summer 2026 | Undergrad | 🔒 | Aug 17 |
 | SharkNinja | Digital/Sharks, Co-op d'affiliation Marketplace (août à décembre)/Digital/Sharks, Marketplace Affiliates Co-op (August to December) | Remote | Co-op | Undergrad | 🔒 | Aug 17 |
-| ↳ | Fall 2026 PhD Intern - Hardware Development Engineering | Fremont, CA | Fall 2026 | PhD | 🔒 | Aug 17 |
 | ↳ | Software Engineering Co-Op | Rochester, MN | Co-op | Undergrad | 🔒 | Aug 17 |
 | Loblaw Companies | Software Development Co-op | Toronto, ON | Co-op | Undergrad | 🔒 | Aug 14 |
 | SharkNinja | SQA Automation Engineering Co-op | Needham, MA | Fall 2026 | Undergrad | 🔒 | Aug 14 |
