@@ -141,8 +141,6 @@ function JobTable({
   labelledBy: string;
 }) {
   const displayRows = useMemo(() => {
-    if (!search) return rows;
-
     const resolved: (ProcessedRow & { resolvedCompany: string })[] = [];
     let lastCompany = '';
     for (const row of rows) {
@@ -150,6 +148,8 @@ function JobTable({
       if (!row.isGrouped) lastCompany = row.companyDisplay;
       resolved.push({ ...row, resolvedCompany });
     }
+
+    if (!search) return resolved;
 
     const q = search.toLowerCase();
     return resolved.filter(
@@ -190,13 +190,10 @@ function JobTable({
         </thead>
         <tbody className="divide-y divide-gray-100">
           {displayRows.map((row, i) => {
-            const resolvedCompany =
-              'resolvedCompany' in row
-                ? (row as ProcessedRow & { resolvedCompany: string }).resolvedCompany
-                : row.companyDisplay;
+            const resolvedCompany = row.resolvedCompany;
             const displayCompany = search ? resolvedCompany : row.companyDisplay;
             const isContinuation = !search && row.isGrouped;
-            const companyForLabel = (isContinuation ? resolvedCompany : displayCompany).replace(
+            const companyForLabel = resolvedCompany.replace(
               /[🛂🇺🇸]/gu,
               ''
             ).trim();

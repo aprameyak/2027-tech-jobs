@@ -52,8 +52,6 @@
 | ↳ | Associate Product Manager (College Grad 2027) | Redwood City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/solace/ee8ee239-ad20-4c1e-868d-3357799589ea?utm_source=aprameyak) | Sep 15 |
 | Wells Fargo | 2027 Wealth & Investment Management Analyst Program - Early Careers | SAINT LOUIS, MO | Spring 2027 | Undergrad | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAINT-LOUIS-MO/XMLNAME-2027-Wealth---Investment-Management-Analyst-Program---Early-Careers_R-575207?utm_source=aprameyak) | Sep 15 |
 | Abbott Laboratories | Associate Engineer (Product Engineering)  - Point of Care (Ottawa) | Ottawa, ON |  | Undergrad | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Canada---Ontario---Ottawa/Associate-Engineer--Product-Engineering-----Point-of-Care--Ottawa-_31162094-1?utm_source=aprameyak) | Sep 14 |
-| Barry-Wehmiller | Entry Level Controls Engineer | San Antonio, TX |  | Undergrad | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWConfidential/job/San-Antonio-TX/Entry-Level-Controls-Engineer_R022421?utm_source=aprameyak) | Sep 14 |
-| ↳ | Entry Level Controls Engineer | Abilene, TX |  | Undergrad | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWConfidential/job/Abilene-TX-USA/Entry-Level-Controls-Engineer_R022390?utm_source=aprameyak) | Sep 14 |
 | BlackEdge Capital | Graduate Quantitative Researcher 2027 | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/blackedgecapital/jobs/4732320005?utm_source=aprameyak) | Sep 14 |
 | BlackRock | Platform Reliability Engineer, Associate/VP – Aladdin | Atlanta, GA |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/AT8---725-Ponce-de-Leon-Ave-NE-Atlanta/Platform-Reliability-Engineer--Associate---Aladdin_R265379?utm_source=aprameyak) | Sep 14 |
 | CACI | Junior Systems Engineer | King George, VA |  | Masters | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/King-George-VA-US/Junior-Systems-Engineer_332029?utm_source=aprameyak) | Sep 14 |
@@ -62,7 +60,6 @@
 | ↳ | Associate Software Engineer - Richmond, VA | Richmond, VA |  | Undergrad | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Associate-Software-Engineer---Richmond--VA_R39667?utm_source=aprameyak) | Sep 14 |
 | ↳ | Associate Security Engineer - Richmond, VA | Richmond, VA |  | Undergrad | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Associate-Security-Engineer---Richmond--VA_R39725?utm_source=aprameyak) | Sep 14 |
 | ↳ | Associate Security Engineer - Arlington, VA | Arlington, VA |  | Undergrad | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Associate-Security-Engineer---Arlington--VA_R39724?utm_source=aprameyak) | Sep 14 |
-| Draper | Entry Level RF Engineer | Cambridge, MA |  | Undergrad | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626?utm_source=aprameyak) | Sep 14 |
 | General Motors | Entry Level - Wireless EF Design & Validation Engineer | Warren, MI |  | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---Wireless-EF-Design---Validation-Engineer_JR-202619982?utm_source=aprameyak) | Sep 14 |
 | Google | Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start | Sunnyvale, CA | Spring 2027 | PhD | [Apply](https://www.google.com/about/careers/applications/jobs/results/123087196289671878) | Sep 14 |
 | ↳ | Software Engineer, Infrastructure, PhD, Early Career, 2027 Start | Sunnyvale, CA | Spring 2027 | PhD | [Apply](https://www.google.com/about/careers/applications/jobs/results/84680705375642310) | Sep 14 |
@@ -91,7 +88,6 @@
 | ↳ | Software Engineer, Associate | Annapolis Junction, MD |  | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/147065/software-engineer%2c-associate/job) | Sep 14 |
 | Robinhood | Associate Product Manager (New Grad) | <details><summary>**2 locations**</summary>Menlo Park, CA</br>New York, NY</details> |  | Undergrad | [Apply](https://boards.greenhouse.io/robinhood/jobs/8199973?gh_jid=8199973&utm_source=aprameyak) | Sep 14 |
 | Roku | Software Engineer, Early Careers focused on AI and UI | San Jose, CA |  | Undergrad | [Apply](https://www.weareroku.com/jobs/8188714?gh_jid=8188714) | Sep 14 |
-| RTX | Digital Hardware Design Engineer (2027 New College Graduate) | EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01, CA |  | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Digital-Hardware-Design-Engineer--2027-New-College-Graduate-_01873795?utm_source=aprameyak) | Sep 14 |
 | Solar Turbines | 2027 Entry Level Project Applications Engineer | San Diego, CA | Spring 2027 | Undergrad | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Project-Applications-Engineer_R0000381656?utm_source=aprameyak) | Sep 14 |
 | ↳ | 2027 TMP Tech & NPI Entry Level Engineering Rotation | San Diego, CA | Spring 2027 | Undergrad | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/SolarTurbines/job/San-Diego-California/XMLNAME-2027-TMP-Tech---NPI-Entry-Level-Engineering-Rotation_R0000381793?utm_source=aprameyak) | Sep 14 |
 | ↳ | 2027 Entry Level Suppler Technical Engineer | San Diego, CA | Spring 2027 | Undergrad | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Suppler-Technical-Engineer-_R0000383122?utm_source=aprameyak) | Sep 14 |
@@ -115,7 +111,6 @@
 | SpaceX | New Graduate Engineer, Power Generation (Starship) | Starbase, TX |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002&utm_source=aprameyak) | Sep 11 |
 | DoorDash | Product Design, Entry-Level (2027 start) | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8188161?utm_source=aprameyak) | Sep 10 |
 | General Motors | Software Engineer, AV Frameworks – Early Career | Sunnyvale, CA |  | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943?utm_source=aprameyak) | Sep 10 |
-| SpaceX | New Graduate Engineer, Mechanical Design (Starshield) | Hawthorne, CA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8766964002?gh_jid=8766964002&utm_source=aprameyak) | Sep 10 |
 | Cursor | Software Engineer, New Grad | San Francisco, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?utm_source=aprameyak) | Sep 9 |
 | NVIDIA | Research Scientist, AI Accelerator Design and VLSI - New College Grad | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Accelerator-SW-HW-Co-Design---New-College-Grad-2026_JR2011644?utm_source=aprameyak) | Sep 9 |
 | ↳ | Research Scientist, AI for Graphics and Gaming - New College Grad | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267?utm_source=aprameyak) | Sep 9 |
@@ -525,7 +520,6 @@
 | Tesla | Thermal Controls Engineer, Vehicle Software | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/227179?utm_source=aprameyak) | Aug 28 |
 | ↳ | In Vehicle Test Engineer, Steering, Vehicle Software | East Liberty, OH |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/255247?utm_source=aprameyak) | Aug 28 |
 | ↳ | Software Integration Engineer, Factory Firmware | Fremont, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/249467?utm_source=aprameyak) | Aug 28 |
-| ↳ | Automation Controls Engineer, Megapack | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/247595?utm_source=aprameyak) | Aug 28 |
 | ↳ | Technical Artist, UI Design | Hawthorne, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/239333?utm_source=aprameyak) | Aug 28 |
 | True Anomaly | Software Engineer 1 New Grad - Perception | <details><summary>**2 locations**</summary>Long Beach, CA</br>Denver, CO</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007?utm_source=aprameyak) | Aug 28 |
 | ↳ | Software Engineer 1 - Full Stack | <details><summary>**2 locations**</summary>Long Beach, CA</br>Denver, CO</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007?utm_source=aprameyak) | Aug 28 |
@@ -562,12 +556,10 @@
 | GlobalFoundries | Tapeout Engineer, 2026 New College Graduate | Austin, TX | Spring 2026 | Undergrad | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/Tapeout-Engineer--2026-New-College-Graduate_JR-2602561?utm_source=aprameyak) | Aug 17 |
 | Konrad Group | Software Developer (Entry Level) | Toronto, ON |  | Undergrad | [Apply](https://www.konrad.com/careers/job/5893240003?gh_jid=5893240003) | Aug 17 |
 | Northrop Grumman | 2026 Entry Level Engineering Opportunities | Falls Church, VA | Spring 2026 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-Falls-Church/XMLNAME-2026-Entry-Level-Engineering-Opportunities_R10238148?utm_source=aprameyak) | Aug 17 |
-| Radix Trading | Quantitative Technologist (Full-Time - FPGA Engineer, PhD) | Chicago, IL |  | PhD | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8521654002?utm_source=aprameyak) | Aug 17 |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002&utm_source=aprameyak) | Aug 17 |
 | ↳ | New Graduate Engineer, Silicon Engineering | Palo Alto, CA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002&utm_source=aprameyak) | Aug 17 |
 | ↳ | New Graduate Engineer, Silicon Engineering | Irvine, CA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002&utm_source=aprameyak) | Aug 17 |
 | Teledyne | Project Coordinator (Entry Level for Technical Grads) | Canada - Edmonton, AB |  | Undergrad | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Edmonton-AB/Project-Coordinator--Entry-Level-for-Technical-Grads-_REQ34761?utm_source=aprameyak) | Aug 17 |
-| ↳ | Technical Sales Engineer – Early Career/Development Program | US - Chestnut Ridge, NY |  | Undergrad | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Chestnut-Ridge-NY/Technical-Sales-Engineer---Early-Career-Development-Program_REQ32619?utm_source=aprameyak) | Aug 17 |
 | Wells Fargo | 2027 Quantitative Analytics Program Capital Markets (Masters) – Early Careers | CHARLOTTE, NC | Spring 2027 | Masters | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program-Capital-Markets--Masters----Early-Careers_R-568263?utm_source=aprameyak) | Aug 17 |
 | ↳ | 2027 Quantitative Analytics Program – Risk Analytics and Decision Science (RADS PhD) – Early Careers | CHARLOTTE, NC | Spring 2027 | PhD | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program---Risk-Analytics-and-Decision-Science--RADS-PhD----Early-Careers_R-569401-1?utm_source=aprameyak) | Aug 17 |
 | ↳ | 2027 Quantitative Analytics Program – Risk Analytics and Decision Science (RADS Masters) – Early Careers | CHARLOTTE, NC | Spring 2027 | Masters | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program---Risk-Analytics-and-Decision-Science--RADS-Masters----Early-Careers_R-569399?utm_source=aprameyak) | Aug 17 |
@@ -1348,7 +1340,6 @@
 | Annapurna Labs | Silicon & AI Systems Innovation Engineer | <details><summary>**3 locations**</summary>Austin, TX</br>Seattle, WA</br>Cupertino, CA</details> |  | Undergrad | 🔒 | Aug 29 |
 | Aon | Data & Analytics Associate - Early Careers | Montreal, QC |  | Undergrad | 🔒 | Aug 29 |
 | Apple | On-Device ML Infrastructure Engineer ... | Cupertino |  | Undergrad | 🔒 | Aug 29 |
-| ↳ | Data Center Hardware Engineering - Ha... | Sunnyvale |  | Undergrad | 🔒 | Aug 29 |
 | Applied Systems | Software Engineer | Toronto |  | Undergrad | 🔒 | Aug 29 |
 | Atlassian | New Grad 2026: Software Engineer | Remote (Canada) | Spring 2026 | Undergrad | 🔒 | Aug 29 |
 | BAE Systems 🇺🇸 | Entry Level Software Engineer | Totowa, NJ |  | Undergrad | 🔒 | Aug 29 |
@@ -1625,7 +1616,6 @@
 | ↳ | RF Technology Development Device Engineer | Essex Junction, VT |  | Undergrad | 🔒 | Aug 17 |
 | ↳ | Electrical Test Engineer, Wafer Test | Essex Junction, VT |  | Undergrad | 🔒 | Aug 17 |
 | HNTB | WED - 2027 New Grad Mechanical & Fire Protection Engineer I  (For Current & Recent HNTB Interns Only) | Oakland, CA | Spring 2027 | Undergrad | 🔒 | Aug 17 |
-| Juniper Networks | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | Spring, TX |  | Undergrad | 🔒 | Aug 17 |
 | ↳ | Mobile Developer (Entry Level) | Toronto, ON |  | Undergrad | 🔒 | Aug 17 |
 | NXP Semiconductors | Product/Test Engineer, Entry Level | Austin, TX |  | Undergrad | 🔒 | Aug 17 |
 | ↳ | New Graduate Engineer, Electrical - '26/'27 (Starlink) | Bastrop, TX |  | Undergrad | 🔒 | Aug 17 |
@@ -1955,7 +1945,6 @@
 | ↳ | Security Governance Analyst | Bala Cynwyd, PA |  | Undergrad | 🔒 | Aug 5 |
 | ↳ | Identity Management Analyst | Bala Cynwyd, PA |  | Undergrad | 🔒 | Aug 5 |
 | ↳ | Associate Linux/Windows Engineer | Bala Cynwyd, PA |  | Undergrad | 🔒 | Aug 5 |
-| XPENG Motors | 2027 Campus Recruiting Robotics Center Full-Time Position | Santa Clara, CA | Spring 2027 | Undergrad | 🔒 | Aug 5 |
 | Airbnb | Software Engineer, Biztech | Remote (US) |  | Undergrad | 🔒 | Aug 4 |
 | Apple | Software Engineer - Early Career (Front-end) | Austin, TX |  | Undergrad | 🔒 | Aug 4 |
 | Archer | Computer Vision Engineer | San Jose, CA |  | Undergrad | 🔒 | Aug 4 |
