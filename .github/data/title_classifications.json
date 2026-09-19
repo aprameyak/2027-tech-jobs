@@ -23193,7 +23193,8 @@
   },
   "finance fellow - human frontier collective (us)": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "finance systems & automations manager": {
     "t": true,
@@ -23279,7 +23280,8 @@
   },
   "legal fellow - human frontier collective (us)": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "machine learning engineer, global public sector": {
     "t": true,
@@ -23291,7 +23293,8 @@
   },
   "machine learning fellow - human frontier collective (canada)": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   "machine learning fellow - human frontier collective (uk)": {
     "t": true,
@@ -23299,7 +23302,8 @@
   },
   "machine learning fellow - human frontier collective (us)": {
     "t": true,
-    "c": "medium"
+    "c": "medium",
+    "a": 1
   },
   " machine learning research engineer, agent data foundation - enterprise genai": {
     "t": true,
@@ -23327,7 +23331,8 @@
   },
   "medical fellow - human frontier collective (us)": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "ml research engineer, ml systems": {
     "t": true,
@@ -23603,7 +23608,8 @@
   },
   "stem fellow - human frontier collective (us)": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "strategic capture lead, homeland security & federal law enforcement": {
     "t": true,
@@ -23639,7 +23645,8 @@
   },
   "swe fellow - human frontier collective (canada)": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "swe fellow - human frontier collective (uk)": {
     "t": false,
@@ -23647,7 +23654,8 @@
   },
   "swe fellow - human frontier collective (us)": {
     "t": false,
-    "c": "medium"
+    "c": "medium",
+    "a": 0
   },
   "tech lead manager- mlre, ml systems": {
     "t": true,
