@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-2974 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2978 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -8,8 +8,12 @@
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | Clearwater Analytics | Product Management Intern | Office - New York | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12287?utm_source=aprameyak) | Sep 19 |
 | ↳ | Product Management Intern | Office - New York | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12288?utm_source=aprameyak) | Sep 19 |
+| QuEra Computing | Postdoctoral Fellow - Applied Machine Learning in Quantum Systems | Boston, MA | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5135036008?utm_source=aprameyak) | Sep 19 |
+| Rainmaker | Rainmaker Fellow, Machine Learning | El Segundo, CA | Undergrad | [Apply](https://jobs.lever.co/make-rain/12553367-54eb-4fb8-8268-d52b3f05d86b?utm_source=aprameyak) | Sep 19 |
 | RTX | Software Engineering Intern (Summer 2027) | STERLING-291 ~ 22640 Davis Dr ~ DAVIS, VA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01875780?utm_source=aprameyak) | Sep 19 |
 | ↳ | Software Project Engineer Intern (Summer 2027) Onsite | WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1, CT | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Project-Engineer-Intern--Summer-2027--Onsite_01872660?utm_source=aprameyak) | Sep 19 |
+| Scale AI | Machine Learning Fellow - Human Frontier Collective (Canada) | Canada | Undergrad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4661650005?utm_source=aprameyak) | Sep 19 |
+| ↳ | Machine Learning Fellow - Human Frontier Collective (US) | United States | Undergrad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4660340005?utm_source=aprameyak) | Sep 19 |
 | Amazon | Software Development Engineer Intern - Summer 2027 (CAN) | CA, BC, Vancouver | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) | Sep 18 |
 | Clearwater Analytics | Product Management Intern | Office - New York | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12286?utm_source=aprameyak) | Sep 18 |
 | ↳ | Product Management Intern | Office - New York | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12285?utm_source=aprameyak) | Sep 18 |
