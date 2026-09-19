@@ -17,6 +17,7 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 from scope_rules import is_out_of_scope_title
+from claude_board_prompts import build_triage_prompt
 
 CLAUDE_MODEL = 'claude-haiku-4-5-20251001'
 REPO = os.environ.get('GITHUB_REPOSITORY', '')
@@ -150,20 +151,7 @@ def claude_decide_batch(items):
             f'loc={fields.get("Location","")[:60]}'
         )
     n = len(items)
-    prompt = (
-        f'Triage {n} GitHub listing issues for a US/Canada CS intern/new-grad board.\n'
-        f'Return JSON array length {n}, same order. Each '
-        '{"action":"add"|"reject"|"skip","reason":"short",'
-        '"company":"","role":"","type":"Internship"|"New Grad (Full-Time)",'
-        '"season":"","location":"","education":"Undergrad"|"Masters"|"PhD",'
-        '"citizenship":"Unknown"|"Yes — U.S. citizenship required",'
-        '"sponsorship":"Unknown"|"No — sponsorship not offered"}\n'
-        'add=SWE/data/ML/quant/cyber/DevOps/tech-PM campus US/Canada. '
-        'reject=marketing/HR/people/sales/generic-BA/systems-eng(no software)/'
-        'hardware/senior/intl-only. skip=unclear.\n'
-        + '\n'.join(lines)
-        + '\nJSON only.'
-    )
+    prompt = build_triage_prompt(lines, n)
     msg = client.messages.create(
         model=CLAUDE_MODEL,
         max_tokens=min(400 * n, 8000),

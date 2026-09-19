@@ -21,6 +21,7 @@ if str(_SCRIPTS_DIR) not in sys.path:
 from grad_date import infer_grad_date
 from validate_listings import validate_entry
 from scope_rules import HARD_REJECT_SIGNALS, is_out_of_scope_title, is_campus_role_title
+from claude_board_prompts import build_classify_prompt, board_token_to_table
 
 BOARD_GROUP = os.environ.get('BOARD_GROUP', '').strip()
 
@@ -36,8 +37,8 @@ CLAUDE_USAGE_FILE = (
 FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
 
 CLAUDE_MODEL = 'claude-haiku-4-5-20251001'
-CLAUDE_BATCH_SIZE = 120
-TITLE_PROMPT_MAX_LEN = 80
+CLAUDE_BATCH_SIZE = 80
+TITLE_PROMPT_MAX_LEN = 120
 _claude_client = None
 _claude_usage_dirty = False
 
@@ -53,6 +54,7 @@ SCRAPER_MAX_WORKERS = 12
 _title_cache = None
 _confidence_cache = {}
 _add_cache = {}
+_board_cache = {}
 _claude_calls_today = 0
 _claude_usage_date = None
 
@@ -293,6 +295,12 @@ def load_title_cache():
                             _confidence_cache[k] = v.get('confidence', v.get('c', 'medium'))
                             if 'a' in v or 'add' in v:
                                 _add_cache[k] = bool(v.get('a', v.get('add')))
+                            b = v.get('b') or v.get('board')
+                            table = board_token_to_table(b) if b and len(str(b)) <= 2 else None
+                            if table is None and b in ('summer', 'offcycle', 'newgrad'):
+                                table = b
+                            if table:
+                                _board_cache[k] = table
                         else:
                             _title_cache[k] = bool(v)
                 else:
@@ -317,6 +325,10 @@ def save_title_cache():
                 }
                 if k in _add_cache:
                     entry['a'] = int(_add_cache[k])
+                if k in _board_cache:
+                    token = {'summer': 's', 'offcycle': 'o', 'newgrad': 'n'}.get(_board_cache[k])
+                    if token:
+                        entry['b'] = token
                 out[k] = entry
             with open(TITLE_CACHE_FILE, 'w') as f:
                 json.dump(out, f, indent=2)
@@ -393,47 +405,69 @@ def _derive_add_decision(title, is_tech):
     return is_auto_addable(title)
 
 def _normalize_claude_row(row):
-                                                                             
     if not isinstance(row, dict):
         return None
-    if 't' in row or 'c' in row:
+    if 't' in row or 'c' in row or 'b' in row:
         conf_map = {'h': 'high', 'm': 'medium', 'l': 'low'}
         c = str(row.get('c', 'm')).lower()
+        b_raw = str(row.get('b', 'x')).lower().strip()
         return {
             'is_tech': bool(int(row.get('t', 0))),
             'confidence': conf_map.get(c, c if c in conf_map.values() else 'medium'),
             'a': int(row.get('a', 0)),
+            'b': b_raw if b_raw in ('s', 'o', 'n', 'x') else 'x',
         }
+    b_raw = str(row.get('board', row.get('b', 'x'))).lower().strip()
+    if b_raw in ('summer', 'offcycle', 'newgrad'):
+        b_raw = {'summer': 's', 'offcycle': 'o', 'newgrad': 'n'}[b_raw]
     return {
         'is_tech': bool(row.get('is_tech', False)),
         'confidence': row.get('confidence', 'medium'),
         'a': int(row.get('a', 0)) if 'a' in row else None,
+        'b': b_raw if b_raw in ('s', 'o', 'n', 'x') else 'x',
     }
 
-def batch_classify_with_claude(titles):
+
+def _infer_board_bucket(title):
+    """Pre-bucket a title so Claude gets a board-specific prompt."""
+    listing_type, season = infer_listing_type(title)
+    table = table_for_listing(listing_type, season)
+    t = title.lower()
+    has_intern = bool(re.search(r'\bintern(?:ships?|s)?\b|\bco-?ops?\b|\bfellows?\b|\bstudent\b', t))
+    has_newgrad = bool(re.search(
+        r'new\s*grad|new-grad|entry[- ]level|early[- ]career|university grad|college grad|'
+        r'campus (?:hire|graduate|undergraduate)|\bgraduates?\b',
+        t,
+    ))
+    if table == 'summer' and has_intern and 'co-op' not in t and 'coop' not in t:
+        return 'summer'
+    if table == 'offcycle' and (has_intern or 'co-op' in t or 'coop' in t):
+        return 'offcycle'
+    if table == 'newgrad' and has_newgrad and not has_intern:
+        return 'newgrad'
+    if has_intern and not has_newgrad:
+        return 'offcycle' if (season in OFFCYCLE_SEASONS or 'co-op' in t or 'coop' in t) else 'summer'
+    if has_newgrad and not has_intern:
+        return 'newgrad'
+    return 'unknown'
+
+
+def batch_classify_with_claude(titles, board='unknown'):
     client = _get_claude_client()
     if not client or not titles:
         return {}
 
-    numbered = '\n'.join(
-        f'{i + 1}. {titles[i][:TITLE_PROMPT_MAX_LEN]}' for i in range(len(titles))
-    )
-    n = len(titles)
-    prompt = (
-        f'CS intern/new-grad board. JSON array len {n}, same order.\n'
-        'Each {{"t":0|1,"c":"h"|"m"|"l","a":0|1}}. '
-        't=1 core tech (SWE/data/ML/quant/cyber/DevOps/tech-PM). '
-        'a=1 only entry campus fit for those. '
-        'a=0 marketing/HR/people/sales/generic-BA/systems-eng(no software)/'
-        'non-CS research associate/hardware/senior.\n'
-        f'{numbered}\nJSON only.'
-    )
+    clipped = [t[:TITLE_PROMPT_MAX_LEN] for t in titles]
+    n = len(clipped)
+    prompt = build_classify_prompt(clipped, board=board)
+    # Slightly higher token budget for board field
+    max_tokens = n * 16 + 48
 
     for attempt in range(4):
         try:
             message = client.messages.create(
                 model=CLAUDE_MODEL,
-                max_tokens=n * 12 + 32,
+                max_tokens=max_tokens,
                 messages=[{'role': 'user', 'content': prompt}],
             )
 
@@ -445,14 +479,13 @@ def batch_classify_with_claude(titles):
             raw = json.loads(text)
 
             if not isinstance(raw, list) or len(raw) != n:
-                print(f'  [Claude] Expected {n} results, got '
+                print(f'  [Claude/{board}] Expected {n} results, got '
                       f'{len(raw) if isinstance(raw, list) else type(raw).__name__}')
-                                                                            
                 if n > 20 and attempt < 3:
                     mid = n // 2
                     out = {}
-                    out.update(batch_classify_with_claude(titles[:mid]))
-                    out.update(batch_classify_with_claude(titles[mid:]))
+                    out.update(batch_classify_with_claude(titles[:mid], board=board))
+                    out.update(batch_classify_with_claude(titles[mid:], board=board))
                     return out
                 return {}
 
@@ -461,6 +494,11 @@ def batch_classify_with_claude(titles):
                 norm = _normalize_claude_row(row)
                 if norm is None:
                     continue
+                if board != 'unknown' and norm.get('b') not in ('x', None):
+                    # Lock accepted rows to the batch board.
+                    expected = {'summer': 's', 'offcycle': 'o', 'newgrad': 'n'}[board]
+                    if norm.get('a') and norm.get('is_tech'):
+                        norm['b'] = expected
                 if norm.get('a') is None:
                     del norm['a']
                 else:
@@ -469,27 +507,33 @@ def batch_classify_with_claude(titles):
             return results
 
         except json.JSONDecodeError as e:
-            print(f'  [Claude] JSON parse error: {e}')
+            print(f'  [Claude/{board}] JSON parse error: {e}')
             if n > 20 and attempt < 3:
                 mid = n // 2
                 out = {}
-                out.update(batch_classify_with_claude(titles[:mid]))
-                out.update(batch_classify_with_claude(titles[mid:]))
+                out.update(batch_classify_with_claude(titles[:mid], board=board))
+                out.update(batch_classify_with_claude(titles[mid:], board=board))
                 return out
             return {}
-        except anthropic.APIStatusError as e:
-            if e.status_code == 429:
-                wait = min((2 ** attempt) * 5, 60)
-                print(f'  [Claude] 429 rate limit — waiting {wait}s (attempt {attempt + 1}/4)')
-                time.sleep(wait)
-                continue
-            print(f'  [Claude] API error {e.status_code}: {e.message}')
-            return {}
         except Exception as e:
-            print(f'  [Claude] Error: {e}')
+            # Keep 429 handling
+            try:
+                import anthropic as _anthropic
+                if isinstance(e, _anthropic.APIStatusError) and e.status_code == 429:
+                    wait = min((2 ** attempt) * 5, 60)
+                    print(f'  [Claude/{board}] 429 rate limit — waiting {wait}s (attempt {attempt + 1}/4)')
+                    time.sleep(wait)
+                    continue
+                if isinstance(e, _anthropic.APIStatusError):
+                    print(f'  [Claude/{board}] API error {e.status_code}: {e.message}')
+                    return {}
+            except Exception:
+                pass
+            print(f'  [Claude/{board}] Error: {e}')
             return {}
 
     return {}
+
 
 def classify_titles_batch(title_list):
     global _confidence_cache
@@ -511,6 +555,7 @@ def classify_titles_batch(title_list):
             cache[tl] = False
             _confidence_cache[tl] = 'high'
             _add_cache[tl] = False
+            _board_cache[tl] = None
             seen_lower.add(tl)
             continue
         if any(s in tl for s in HIGH_CONFIDENCE_TECH_SIGNALS):
@@ -522,6 +567,8 @@ def classify_titles_batch(title_list):
                 cache[tl] = True
                 _confidence_cache[tl] = 'high'
                 _add_cache[tl] = is_auto_addable(t)
+                listing_type, season = infer_listing_type(t)
+                _board_cache[tl] = table_for_listing(listing_type, season)
             seen_lower.add(tl)
             continue
         seen_lower.add(tl)
@@ -530,32 +577,45 @@ def classify_titles_batch(title_list):
     if not uncached:
         return 0
 
-    print(f'  [Claude] Batch-classifying {len(uncached)} uncached titles '
-          f'({(len(uncached) + CLAUDE_BATCH_SIZE - 1) // CLAUDE_BATCH_SIZE} call(s))...')
-    classified = 0
+    # Group by inferred board so each Claude call uses a focused prompt.
+    buckets = {'summer': [], 'offcycle': [], 'newgrad': [], 'unknown': []}
+    for t in uncached:
+        buckets[_infer_board_bucket(t)].append(t)
 
-    for i in range(0, len(uncached), CLAUDE_BATCH_SIZE):
-        batch = uncached[i:i + CLAUDE_BATCH_SIZE]
-        results = batch_classify_with_claude(batch)
-        for title in batch:
-            tl = title.lower()
-            result = results.get(tl)
-            if result is not None:
-                is_tech = bool(result.get('is_tech', False))
-                cache[tl] = is_tech
-                _confidence_cache[tl] = result.get('confidence', 'medium')
-                if is_out_of_scope_title(title):
-                    _add_cache[tl] = False
-                elif 'a' in result:
-                    _add_cache[tl] = bool(int(result.get('a', 0))) and is_tech
+    print(
+        f'  [Claude] Batch-classifying {len(uncached)} uncached titles by board: '
+        + ', '.join(f'{k}={len(v)}' for k, v in buckets.items() if v)
+    )
+
+    classified = 0
+    for board, titles in buckets.items():
+        if not titles:
+            continue
+        for i in range(0, len(titles), CLAUDE_BATCH_SIZE):
+            batch = titles[i:i + CLAUDE_BATCH_SIZE]
+            results = batch_classify_with_claude(batch, board=board)
+            for title in batch:
+                tl = title.lower()
+                result = results.get(tl)
+                if result is not None:
+                    is_tech = bool(result.get('is_tech', False))
+                    cache[tl] = is_tech
+                    _confidence_cache[tl] = result.get('confidence', 'medium')
+                    table = board_token_to_table(result.get('b'))
+                    if table:
+                        _board_cache[tl] = table
+                    if is_out_of_scope_title(title) or result.get('b') == 'x':
+                        _add_cache[tl] = False
+                    elif 'a' in result:
+                        _add_cache[tl] = bool(int(result.get('a', 0))) and is_tech
+                    else:
+                        _add_cache[tl] = _derive_add_decision(title, is_tech)
                 else:
+                    is_tech = is_tech_title_keywords(title)
+                    cache[tl] = is_tech
+                    _confidence_cache[tl] = 'medium'
                     _add_cache[tl] = _derive_add_decision(title, is_tech)
-            else:
-                is_tech = is_tech_title_keywords(title)
-                cache[tl] = is_tech
-                _confidence_cache[tl] = 'medium'
-                _add_cache[tl] = _derive_add_decision(title, is_tech)
-            classified += 1
+                classified += 1
 
     return classified
 
@@ -646,7 +706,8 @@ def classify_title(title, allow_claude=True):
 
     if allow_claude:
         try:
-            results = batch_classify_with_claude([title])
+            board = _infer_board_bucket(title)
+            results = batch_classify_with_claude([title], board=board)
             if results and t in results:
                 result = results[t]
                 is_tech = bool(result.get('is_tech', False))
@@ -654,7 +715,12 @@ def classify_title(title, allow_claude=True):
                 cache[t] = is_tech
                 _confidence_cache[t] = confidence
                 if 'a' in result:
-                    _add_cache[t] = bool(int(result.get('a', 0)))
+                    _add_cache[t] = bool(int(result.get('a', 0))) and is_tech
+                table = board_token_to_table(result.get('b'))
+                if table:
+                    _board_cache[t] = table
+                if result.get('b') == 'x':
+                    _add_cache[t] = False
                 return is_tech, confidence != 'low'
         except Exception:
             pass
@@ -905,12 +971,33 @@ def with_aprameyak_utm(url):
         return url
 
 def build_entry(job):
-                                                              
     listing_type, season = infer_listing_type(job['title'])
     education = infer_education_level(job['title'])
     location = normalize_location(job.get('location', ''))
     table = table_for_listing(listing_type, season)
     title_l = job['title'].lower()
+    claude_table = _board_cache.get(title_l)
+    if claude_table in ('summer', 'offcycle', 'newgrad'):
+        table = claude_table
+        if table == 'summer':
+            listing_type, season = 'Internship', 'Summer 2027'
+        elif table == 'offcycle':
+            if season not in OFFCYCLE_SEASONS:
+                if re.search(r'\bco-?op\b', title_l):
+                    season = 'Co-op'
+                elif 'fall' in title_l:
+                    season = 'Fall 2026' if '2026' in title_l else 'Fall 2027'
+                elif 'spring' in title_l:
+                    season = 'Spring 2027'
+                elif 'winter' in title_l:
+                    season = 'Winter 2027'
+                elif '2026' in title_l and 'summer' in title_l:
+                    season = 'Summer 2026'
+                else:
+                    season = 'Co-op'
+            listing_type = 'Internship'
+        else:
+            listing_type, season = 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
     citizenship = 'Unknown'
     if any(k in title_l for k in (
         'ts/sci', 'top secret', 'u.s. citizen', 'us citizen', 'us citizenship',
@@ -941,6 +1028,30 @@ def add_job_directly(job, listings_file, rebuild=True):
         location = normalize_location(job.get('location', ''))
 
         table = table_for_listing(listing_type, season)
+        # Prefer Claude board assignment when available.
+        tl = job['title'].lower()
+        claude_table = _board_cache.get(tl)
+        if claude_table in ('summer', 'offcycle', 'newgrad'):
+            table = claude_table
+            if table == 'summer':
+                listing_type, season = 'Internship', 'Summer 2027'
+            elif table == 'offcycle':
+                if season not in OFFCYCLE_SEASONS:
+                    if re.search(r'\bco-?op\b', tl):
+                        season = 'Co-op'
+                    elif 'fall' in tl:
+                        season = 'Fall 2026' if '2026' in tl else 'Fall 2027'
+                    elif 'spring' in tl:
+                        season = 'Spring 2027'
+                    elif 'winter' in tl:
+                        season = 'Winter 2027'
+                    elif '2026' in tl and 'summer' in tl:
+                        season = 'Summer 2026'
+                    else:
+                        season = 'Co-op'
+                listing_type = 'Internship'
+            else:
+                listing_type, season = 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
 
         entry = {
             'company': job['company'],
