@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-566 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+571 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -18,6 +18,9 @@
 | ↳ | Advanced Clinical Research Co-op | Danvers, MA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Advanced-Clinical-Research-Co-op_R-100368-1?utm_source=aprameyak) | Sep 19 |
 | ↳ | Clinical Epidemiology and Data Science Co-op | Danvers, MA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Clinical-Epidemiology-and-Data-Science-Co-op_R-098453?utm_source=aprameyak) | Sep 19 |
 | ↳ | Process/Project Engineering Co-op | Wilson, NC | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Wilson-North-Carolina-United-States-of-America/Process-Project-Engineering-Co-op_R-099358?utm_source=aprameyak) | Sep 19 |
+| Rainmaker | Rainmaker Fellow, Machine Learning | El Segundo, CA | Co-op | Undergrad | [Apply](https://jobs.lever.co/make-rain/12553367-54eb-4fb8-8268-d52b3f05d86b?utm_source=aprameyak) | Sep 19 |
+| Scale AI | Machine Learning Fellow - Human Frontier Collective (Canada) | Canada | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4661650005?utm_source=aprameyak) | Sep 19 |
+| ↳ | Machine Learning Fellow - Human Frontier Collective (US) | United States | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4660340005?utm_source=aprameyak) | Sep 19 |
 | TD Bank | AI2 Applied Machine Learning Scientist Co-op (WINTER 2027) | Toronto, ON | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist-Co-op--WINTER-2027-_R_1506697-1?utm_source=aprameyak) | Sep 19 |
 | BMO Financial Group | Software Developer, Winter 2027 (Internship) - 4 months | San Ramon, CA | Winter 2027 | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2?utm_source=aprameyak) | Sep 18 |
 | Disney | Global Security Design & Engineering Intern, Spring 2027 | Glendale, CA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Global-Security-Design---Engineering-Intern--Spring-2027_10160013?utm_source=aprameyak) | Sep 18 |
@@ -249,6 +252,7 @@
 | ↳ | Cybersecurity Internship | El Segundo, CA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824766003?utm_source=aprameyak) | Aug 8 |
 | Altom Transport | Fall Software Development Intern | Hammond, IN | Fall 2027 | Undergrad | [Apply](https://apply.workable.com/altom-transport/j/9FC654F05E/?utm_source=aprameyak) | Aug 7 |
 | Vital Lyfe | Software Engineering Internship | Los Angeles, CA | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af?utm_source=aprameyak) | Aug 7 |
+| Voloridge | QR Fellowship Intern | Jupiter, FL | Co-op | Undergrad | [Apply](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009?utm_source=aprameyak) | Aug 7 |
 | SpaceX 🛂 | Software Engineering Internship/Co-op | <details><summary>**6 locations**</summary>Bastrop, TX</br>Cape Canaveral, FL</br>Hawthorne, CA</br>Irvine, CA</br>McGregor, TX</br>Redmond, WA</details> | Spring 2027 | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8621756002?utm_source=aprameyak) | Aug 6 |
 | NVIDIA | Software Engineering Intern, Dynamo | Santa Clara, CA | Fall 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295?utm_source=aprameyak) | Aug 5 |
 | Anthropic | Anthropic Fellows Program, AI Safety | <details><summary>**2 locations**</summary>San Francisco, CA</br>Remote (US)</details> | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008?utm_source=aprameyak) | Aug 4 |
@@ -302,6 +306,7 @@
 | ↳ | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Toronto, ON | Co-op | PhD | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008&utm_source=aprameyak) | Jul 21 |
 | LA-Tech.org | Technical Intern, Software / Cyber / AI | Remote (US) | Spring 2027 | Undergrad | [Apply](https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?utm_source=aprameyak) | Jul 21 |
 | Motorola Solutions | R&D Intern - Wireless Systems Engineer | Los Angeles, CA | Summer 2026 | Masters | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376?utm_source=aprameyak) | Jul 21 |
+| Voloridge Investment Management | Quantitative Research Fellowship | Jupiter, FL | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224950009?utm_source=aprameyak) | Jul 21 |
 | Apptronik | Robotics Software Intern - Real-Time Controls | Austin, TX | Fall 2026 | Undergrad | [Apply](https://boards.greenhouse.io/apptronik/jobs/5985132004?utm_source=aprameyak) | Jul 20 |
 | ASM | Software Engineering Intern | Phoenix, AZ | Spring 2027 | Undergrad | [Apply](https://www.asm.com/open-vacancies/?gh_jid=4830113101&utm_source=aprameyak) | Jul 20 |
 | Composio | Full-Stack Intern | San Francisco, CA | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9?utm_source=aprameyak) | Jul 20 |

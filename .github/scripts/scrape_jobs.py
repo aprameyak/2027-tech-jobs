@@ -303,6 +303,13 @@ def load_title_cache():
                                 table = b
                             if table:
                                 _board_cache[k] = table
+                            elif _title_cache[k] and _add_cache.get(k, True):
+                                # Preserve board across parallel scraper saves.
+                                try:
+                                    lt, season = infer_listing_type(k)
+                                    _board_cache[k] = table_for_listing(lt, season)
+                                except Exception:
+                                    pass
                         else:
                             _title_cache[k] = bool(v)
                 else:
@@ -479,6 +486,9 @@ def _infer_board_bucket(title):
     if table == 'newgrad' and has_newgrad and not has_intern:
         return 'newgrad'
     if has_intern and not has_newgrad:
+        # Fellows / student roles default to offcycle unless clearly summer.
+        if re.search(r'\bfellows?\b|\bfellowship\b|\bstudent\b', t) and 'summer' not in t:
+            return 'offcycle'
         return 'offcycle' if (season in OFFCYCLE_SEASONS or 'co-op' in t or 'coop' in t) else 'summer'
     if has_newgrad and not has_intern:
         return 'newgrad'

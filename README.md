@@ -13,8 +13,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (2978)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (566)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (2972)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (571)
 - [🎓 New Grad 2027](./NEWGRAD.md) (2314)
 
 > GitHub truncates very large READMEs on the repo homepage. If a table looks cut off, open the links above — each file has the full list.
@@ -30,7 +30,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-2978 listing(s) · [View as standalone page](./SUMMER.md)
+2972 listing(s) · [View as standalone page](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -38,12 +38,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | Clearwater Analytics | Product Management Intern | Office - New York | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12287?utm_source=aprameyak) | Sep 19 |
 | ↳ | Product Management Intern | Office - New York | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12288?utm_source=aprameyak) | Sep 19 |
-| QuEra Computing | Postdoctoral Fellow - Applied Machine Learning in Quantum Systems | Boston, MA | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5135036008?utm_source=aprameyak) | Sep 19 |
-| Rainmaker | Rainmaker Fellow, Machine Learning | El Segundo, CA | Undergrad | [Apply](https://jobs.lever.co/make-rain/12553367-54eb-4fb8-8268-d52b3f05d86b?utm_source=aprameyak) | Sep 19 |
 | RTX | Software Engineering Intern (Summer 2027) | STERLING-291 ~ 22640 Davis Dr ~ DAVIS, VA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01875780?utm_source=aprameyak) | Sep 19 |
 | ↳ | Software Project Engineer Intern (Summer 2027) Onsite | WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1, CT | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Project-Engineer-Intern--Summer-2027--Onsite_01872660?utm_source=aprameyak) | Sep 19 |
-| Scale AI | Machine Learning Fellow - Human Frontier Collective (Canada) | Canada | Undergrad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4661650005?utm_source=aprameyak) | Sep 19 |
-| ↳ | Machine Learning Fellow - Human Frontier Collective (US) | United States | Undergrad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4660340005?utm_source=aprameyak) | Sep 19 |
 | Amazon | Software Development Engineer Intern - Summer 2027 (CAN) | CA, BC, Vancouver | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) | Sep 18 |
 | Clearwater Analytics | Product Management Intern | Office - New York | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12286?utm_source=aprameyak) | Sep 18 |
 | ↳ | Product Management Intern | Office - New York | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12285?utm_source=aprameyak) | Sep 18 |
@@ -1416,7 +1412,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | Uline | Product Management Intern | Kenosha, WI | Undergrad | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939?utm_source=aprameyak) | Aug 7 |
 | Voloridge | Quantitative Developer Intern | Jupiter, FL | Undergrad | [Apply](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224862009?utm_source=aprameyak) | Aug 7 |
 | ↳ | Quantitative Researcher Intern | Jupiter, FL | Undergrad | [Apply](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4226247009?utm_source=aprameyak) | Aug 7 |
-| ↳ | QR Fellowship Intern | Jupiter, FL | Undergrad | [Apply](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009?utm_source=aprameyak) | Aug 7 |
 | Wells Fargo | Corporate Risk Development Program Intern - Core Risk - Early Careers | Charlotte, NC | Undergrad | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Corporate-Risk-Development-Program-Summer-Internship--Core-Risk----Early-Careers_R-556123?utm_source=aprameyak) | Aug 7 |
 | Winland Foods | Product Development Intern | Oak Brook, IL | Undergrad | [Apply](https://winlandfoods.wd1.myworkdayjobs.com/external/job/USA-IL-Oak-Brook/Product-Development-Intern_R28807?utm_source=aprameyak) | Aug 7 |
 | ByteDance | AI Network Automation Engineer Intern - Global Physical Network Infrastructure | San Jose, CA | Undergrad | [Apply](https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=aprameyak) | Aug 6 |
@@ -1573,7 +1568,6 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | TransMarket Group | Quantitative Trader Intern | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007&utm_source=aprameyak) | Jul 21 |
 | ↳ | DevOps/SRE Intern | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007&utm_source=aprameyak) | Jul 21 |
 | Truveta | ML PhD Intern - LLMs & Generative AI | Seattle, WA | PhD | [Apply](https://job-boards.greenhouse.io/truveta/jobs/5712997004?utm_source=aprameyak) | Jul 21 |
-| Voloridge Investment Management | Quantitative Research Fellowship | Jupiter, FL | Undergrad | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224950009?utm_source=aprameyak) | Jul 21 |
 | Walleye Capital | Quantic - PhD Quantitative Researcher Intern | Boston, MA | PhD | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006?utm_source=aprameyak) | Jul 21 |
 | Auctor | Software Engineering Intern | New York, NY | Undergrad | [Apply](https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607?utm_source=aprameyak) | Jul 20 |
 | Beacon Software | Software Engineering Intern | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1?utm_source=aprameyak) | Jul 20 |
@@ -3018,7 +3012,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-566 listing(s) · [View as standalone page](./OFFCYCLE.md)
+571 listing(s) · [View as standalone page](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
@@ -3036,6 +3030,9 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Advanced Clinical Research Co-op | Danvers, MA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Advanced-Clinical-Research-Co-op_R-100368-1?utm_source=aprameyak) | Sep 19 |
 | ↳ | Clinical Epidemiology and Data Science Co-op | Danvers, MA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Clinical-Epidemiology-and-Data-Science-Co-op_R-098453?utm_source=aprameyak) | Sep 19 |
 | ↳ | Process/Project Engineering Co-op | Wilson, NC | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Wilson-North-Carolina-United-States-of-America/Process-Project-Engineering-Co-op_R-099358?utm_source=aprameyak) | Sep 19 |
+| Rainmaker | Rainmaker Fellow, Machine Learning | El Segundo, CA | Co-op | Undergrad | [Apply](https://jobs.lever.co/make-rain/12553367-54eb-4fb8-8268-d52b3f05d86b?utm_source=aprameyak) | Sep 19 |
+| Scale AI | Machine Learning Fellow - Human Frontier Collective (Canada) | Canada | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4661650005?utm_source=aprameyak) | Sep 19 |
+| ↳ | Machine Learning Fellow - Human Frontier Collective (US) | United States | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4660340005?utm_source=aprameyak) | Sep 19 |
 | TD Bank | AI2 Applied Machine Learning Scientist Co-op (WINTER 2027) | Toronto, ON | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist-Co-op--WINTER-2027-_R_1506697-1?utm_source=aprameyak) | Sep 19 |
 | BMO Financial Group | Software Developer, Winter 2027 (Internship) - 4 months | San Ramon, CA | Winter 2027 | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2?utm_source=aprameyak) | Sep 18 |
 | Disney | Global Security Design & Engineering Intern, Spring 2027 | Glendale, CA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Global-Security-Design---Engineering-Intern--Spring-2027_10160013?utm_source=aprameyak) | Sep 18 |
@@ -3267,6 +3264,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Cybersecurity Internship | El Segundo, CA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824766003?utm_source=aprameyak) | Aug 8 |
 | Altom Transport | Fall Software Development Intern | Hammond, IN | Fall 2027 | Undergrad | [Apply](https://apply.workable.com/altom-transport/j/9FC654F05E/?utm_source=aprameyak) | Aug 7 |
 | Vital Lyfe | Software Engineering Internship | Los Angeles, CA | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af?utm_source=aprameyak) | Aug 7 |
+| Voloridge | QR Fellowship Intern | Jupiter, FL | Co-op | Undergrad | [Apply](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009?utm_source=aprameyak) | Aug 7 |
 | SpaceX 🛂 | Software Engineering Internship/Co-op | <details><summary>**6 locations**</summary>Bastrop, TX</br>Cape Canaveral, FL</br>Hawthorne, CA</br>Irvine, CA</br>McGregor, TX</br>Redmond, WA</details> | Spring 2027 | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8621756002?utm_source=aprameyak) | Aug 6 |
 | NVIDIA | Software Engineering Intern, Dynamo | Santa Clara, CA | Fall 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295?utm_source=aprameyak) | Aug 5 |
 | Anthropic | Anthropic Fellows Program, AI Safety | <details><summary>**2 locations**</summary>San Francisco, CA</br>Remote (US)</details> | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008?utm_source=aprameyak) | Aug 4 |
@@ -3320,6 +3318,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 | ↳ | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Toronto, ON | Co-op | PhD | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008&utm_source=aprameyak) | Jul 21 |
 | LA-Tech.org | Technical Intern, Software / Cyber / AI | Remote (US) | Spring 2027 | Undergrad | [Apply](https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?utm_source=aprameyak) | Jul 21 |
 | Motorola Solutions | R&D Intern - Wireless Systems Engineer | Los Angeles, CA | Summer 2026 | Masters | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376?utm_source=aprameyak) | Jul 21 |
+| Voloridge Investment Management | Quantitative Research Fellowship | Jupiter, FL | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224950009?utm_source=aprameyak) | Jul 21 |
 | Apptronik | Robotics Software Intern - Real-Time Controls | Austin, TX | Fall 2026 | Undergrad | [Apply](https://boards.greenhouse.io/apptronik/jobs/5985132004?utm_source=aprameyak) | Jul 20 |
 | ASM | Software Engineering Intern | Phoenix, AZ | Spring 2027 | Undergrad | [Apply](https://www.asm.com/open-vacancies/?gh_jid=4830113101&utm_source=aprameyak) | Jul 20 |
 | Composio | Full-Stack Intern | San Francisco, CA | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9?utm_source=aprameyak) | Jul 20 |

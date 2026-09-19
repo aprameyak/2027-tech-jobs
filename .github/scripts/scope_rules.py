@@ -37,6 +37,7 @@ HARD_REJECT_SIGNALS = [
     'wealth management products', 'infrastructure equity',
     'aerospace engineering', 'product design engineering',
     'mechanical associate', 'radiation effects', 'assembly, integration',
+    'postdoctoral', 'post-doctoral', 'postdoc fellow', 'post-doc',
 ]
 
 # Soft hardware signals — reject unless title also has a strong SWE-adjacent keep signal
@@ -209,6 +210,7 @@ def is_out_of_scope_title(title):
                 'mechanical design', 'electrical engineer', 'electrical design',
                 'electrical hardware', 'manufacturing engineer',
                 'mechanical associate', 'radiation effects', 'assembly, integration',
+                'postdoctoral', 'post-doctoral', 'postdoc fellow', 'post-doc',
             )
         ):
             return False
@@ -220,6 +222,8 @@ def is_out_of_scope_title(title):
     if (_ASIC_RE.search(t) or _FPGA_RE.search(t)) and not has_keep:
         return True
 
+    if re.search(r'\bpost-?docs?\b|\bpostdoctoral\b', t):
+        return True
     if re.search(r'\bsales\b', t) and not re.search(
         r'software|solutions|developer|engineer|technology|technolog|devops',
         t,
