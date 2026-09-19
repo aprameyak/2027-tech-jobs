@@ -42,7 +42,12 @@ CLAUDE_USAGE_FILE = (
 FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
 
 CLAUDE_MODEL = 'claude-haiku-4-5-20251001'
-CLAUDE_BATCH_SIZE = 40
+# Larger batches = fewer API round-trips (prompt amortized). Quality still OK at 60.
+CLAUDE_BATCH_SIZE = int(os.environ.get('CLAUDE_BATCH_SIZE', '60'))
+# Hard caps so credit use stays bounded even after classifier version bumps.
+CLAUDE_MAX_CALLS_PER_RUN = int(os.environ.get('CLAUDE_MAX_CALLS_PER_RUN', '12'))
+CLAUDE_MAX_CALLS_PER_DAY = int(os.environ.get('CLAUDE_MAX_CALLS_PER_DAY', '60'))
+CLAUDE_MAX_TITLES_PER_RUN = int(os.environ.get('CLAUDE_MAX_TITLES_PER_RUN', '360'))
 TITLE_PROMPT_MAX_LEN = 120
 _claude_client = None
 _claude_usage_dirty = False
@@ -127,16 +132,16 @@ HIGH_CONFIDENCE_TECH_SIGNALS = [
     'data engineer', 'data scientist', 'data analyst', 'data science',
     'machine learning', 'ml engineer', 'ai engineer',
     'devops', 'sre ', 'site reliability',
-    'backend engineer', 'frontend engineer', 'full-stack engineer', 'fullstack engineer',
-    'full stack engineer',
+    'backend engineer', 'frontend engineer',
+    'full-stack engineer', 'fullstack engineer', 'full stack engineer',
     'cloud engineer', 'platform engineer', 'infrastructure engineer',
     'cybersecurity', 'security engineer', 'security analyst',
     'mobile engineer', 'ios engineer', 'android engineer',
     'quantitative researcher', 'quantitative analyst', 'quantitative developer',
     'technology intern', 'technology associate', 'technology analyst',
     'information systems intern', 'information technology intern', 'mis intern',
-    'software engineering intern',
-    'software engineer intern', 'developer intern',
+    'software engineering intern', 'software engineer intern',
+    'developer intern', 'sde intern', 'swe intern',
     'associate software', 'software engineering, associate', 'software engineer, associate',
 ]
 
@@ -425,6 +430,20 @@ def _record_claude_call():
     _claude_calls_this_run += 1
     _claude_usage_dirty = True
 
+
+def _claude_budget_ok(need_calls=1):
+    """True if another Claude API call is allowed under run/day caps."""
+    if _claude_usage_date != datetime.now().strftime('%Y-%m-%d'):
+        load_claude_usage()
+    if _claude_calls_this_run + need_calls > CLAUDE_MAX_CALLS_PER_RUN:
+        return False
+    # Per-group file + global across all board groups.
+    if _claude_calls_today + need_calls > CLAUDE_MAX_CALLS_PER_DAY:
+        return False
+    if _total_claude_calls_today() + need_calls > CLAUDE_MAX_CALLS_PER_DAY:
+        return False
+    return True
+
 def _derive_add_decision(title, is_tech):
     if not is_tech or is_out_of_scope_title(title):
         return False
@@ -513,8 +532,18 @@ def _infer_board_bucket(title):
 
 
 def batch_classify_with_claude(titles, board='unknown'):
+    if not titles:
+        return {}
+    if not _claude_budget_ok(1):
+        print(
+            f'  [Claude/{board}] Budget hit — skipping {len(titles)} title(s) '
+            f'(run={_claude_calls_this_run}/{CLAUDE_MAX_CALLS_PER_RUN}, '
+            f'day≈{_total_claude_calls_today()}/{CLAUDE_MAX_CALLS_PER_DAY})'
+        )
+        return {}
+
     client = _get_claude_client()
-    if not client or not titles:
+    if not client:
         return {}
 
     clipped = [_clip_title(t) for t in titles]
@@ -601,15 +630,17 @@ def classify_titles_batch(title_list):
     cache = load_title_cache()
 
     seen_lower = set()
-    uncached = []
-    refreshed = 0
+    need_claude = []  # (priority, title) — lower priority number = sooner
+    stale_kept = 0
+    heuristic = 0
+
     for t in title_list:
         tl = t.lower()
         if tl in seen_lower:
             continue
         seen_lower.add(tl)
 
-        # Rules always win — never ask Claude to override hard out-of-scope.
+        # Rules always win — free, no Claude.
         if any(s in tl for s in HARD_REJECT_SIGNALS) or is_out_of_scope_title(t):
             cache[tl] = False
             _confidence_cache[tl] = 'high'
@@ -617,6 +648,11 @@ def classify_titles_batch(title_list):
             _board_cache[tl] = None
             _version_cache[tl] = CLASSIFIER_VERSION
             continue
+
+        listing_type, season = infer_listing_type(t)
+        table = table_for_listing(listing_type, season)
+        clear_swe = any(s in tl for s in HIGH_CONFIDENCE_TECH_SIGNALS)
+        in_scope = is_in_scope_listing_title(t, table=table)
 
         cache_fresh = (
             tl in cache
@@ -626,42 +662,82 @@ def classify_titles_batch(title_list):
         if cache_fresh:
             if tl not in _add_cache:
                 _add_cache[tl] = _derive_add_decision(t, bool(cache[tl]))
-            # Final safety: never auto-add if campus/CS gate fails.
-            if _add_cache.get(tl) and not is_in_scope_listing_title(t, table=_board_cache.get(tl)):
+            if _add_cache.get(tl) and not in_scope:
                 _add_cache[tl] = False
             continue
 
-        # Ultra-clear SWE/CS titles: heuristics OK, but still stamp current version.
-        if any(s in tl for s in HIGH_CONFIDENCE_TECH_SIGNALS) and is_in_scope_listing_title(
-            t, table=_infer_board_bucket(t) if _infer_board_bucket(t) != 'unknown' else None
-        ):
-            listing_type, season = infer_listing_type(t)
-            table = table_for_listing(listing_type, season)
+        # Ultra-clear in-scope SWE/CS — heuristic only (saves credits).
+        if clear_swe and in_scope:
             cache[tl] = True
             _confidence_cache[tl] = 'high'
-            _add_cache[tl] = is_auto_addable(t) and is_in_scope_listing_title(t, table=table)
+            _add_cache[tl] = is_auto_addable(t)
             _board_cache[tl] = table
             _version_cache[tl] = CLASSIFIER_VERSION
+            heuristic += 1
             continue
 
-        # Everything ambiguous / stale → Claude (quality path).
-        if tl in cache and _version_cache.get(tl) != CLASSIFIER_VERSION:
-            refreshed += 1
-        uncached.append(t)
+        stale = tl in cache and (
+            _version_cache.get(tl) != CLASSIFIER_VERSION
+            or _confidence_cache.get(tl) == 'stale'
+        )
+        prev_add = bool(_add_cache.get(tl, False)) if stale else None
+        prev_tech = bool(cache.get(tl, False)) if stale else None
 
-    if not uncached:
-        if refreshed:
-            print(f'  [Claude] No titles needed API this pass ({refreshed} were already refreshed)')
+        # Stale reject that still isn't clear-SWE: keep reject, restamp (no API).
+        if stale and not prev_tech and not prev_add and not clear_swe:
+            cache[tl] = False
+            _confidence_cache[tl] = 'high'
+            _add_cache[tl] = False
+            _version_cache[tl] = CLASSIFIER_VERSION
+            stale_kept += 1
+            continue
+
+        # Stale accept that now fails CS/IS gate: drop without Claude.
+        if stale and (prev_tech or prev_add) and not in_scope:
+            cache[tl] = False
+            _confidence_cache[tl] = 'high'
+            _add_cache[tl] = False
+            _board_cache[tl] = None
+            _version_cache[tl] = CLASSIFIER_VERSION
+            stale_kept += 1
+            continue
+
+        # Claude only for true gray area / stale accepts that still look in-scope.
+        # Priority: new titles first (0), then stale prior-accepts (1).
+        priority = 1 if stale else 0
+        need_claude.append((priority, t))
+
+    if not need_claude:
+        print(
+            f'  [Claude] No API needed '
+            f'(heuristic={heuristic}, stale_restamp={stale_kept})'
+        )
         return 0
 
-    # Group by inferred board so each Claude call uses a focused prompt.
+    need_claude.sort(key=lambda x: x[0])
+    titles_for_api = [t for _, t in need_claude]
+    if len(titles_for_api) > CLAUDE_MAX_TITLES_PER_RUN:
+        deferred = titles_for_api[CLAUDE_MAX_TITLES_PER_RUN:]
+        titles_for_api = titles_for_api[:CLAUDE_MAX_TITLES_PER_RUN]
+        print(
+            f'  [Claude] Title cap: sending {len(titles_for_api)}, '
+            f'deferring {len(deferred)} to a later run (no auto-add)'
+        )
+        for t in deferred:
+            tl = t.lower()
+            # Do not stamp new version — retry when budget allows.
+            if tl not in cache:
+                cache[tl] = False
+            _confidence_cache[tl] = 'low'
+            _add_cache[tl] = False
+
     buckets = {'summer': [], 'offcycle': [], 'newgrad': [], 'unknown': []}
-    for t in uncached:
+    for t in titles_for_api:
         buckets[_infer_board_bucket(t)].append(t)
 
     print(
-        f'  [Claude] Classifying {len(uncached)} title(s) with {CLASSIFIER_VERSION} '
-        f'({refreshed} stale-cache refresh): '
+        f'  [Claude] Classifying {len(titles_for_api)} title(s) with {CLASSIFIER_VERSION} '
+        f'(budget run={CLAUDE_MAX_CALLS_PER_RUN} day={CLAUDE_MAX_CALLS_PER_DAY}): '
         + ', '.join(f'{k}={len(v)}' for k, v in buckets.items() if v)
     )
 
@@ -671,6 +747,13 @@ def classify_titles_batch(title_list):
             continue
         for i in range(0, len(titles), CLAUDE_BATCH_SIZE):
             batch = titles[i:i + CLAUDE_BATCH_SIZE]
+            if not _claude_budget_ok(1):
+                print(f'  [Claude/{board}] Stopping early — budget exhausted')
+                for title in batch + titles[i + CLAUDE_BATCH_SIZE:]:
+                    tl = title.lower()
+                    _confidence_cache[tl] = 'low'
+                    _add_cache[tl] = False
+                return classified
             results = batch_classify_with_claude(batch, board=board)
             for title in batch:
                 tl = title.lower()
@@ -680,7 +763,6 @@ def classify_titles_batch(title_list):
                 )
                 if result is not None:
                     is_tech = bool(result.get('is_tech', False))
-                    # Rules veto Claude accepts that fail CS/IS campus gate.
                     if is_tech and not is_in_scope_listing_title(title, table=table_hint):
                         is_tech = False
                     cache[tl] = is_tech
@@ -697,15 +779,13 @@ def classify_titles_batch(title_list):
                         _add_cache[tl] = bool(int(result.get('a', 0))) and is_tech
                     else:
                         _add_cache[tl] = _derive_add_decision(title, is_tech)
+                    _version_cache[tl] = CLASSIFIER_VERSION
                 else:
-                    # No Claude response: do not auto-add; keyword fallback is tech-flag only.
-                    is_tech = is_tech_title_keywords(title) and is_in_scope_listing_title(
-                        title, table=table_hint
-                    )
-                    cache[tl] = is_tech
+                    # Budget miss / API failure: never auto-add; leave version stale if any.
+                    if tl not in cache:
+                        cache[tl] = False
                     _confidence_cache[tl] = 'low'
                     _add_cache[tl] = False
-                _version_cache[tl] = CLASSIFIER_VERSION
                 classified += 1
 
     return classified
@@ -796,25 +876,30 @@ def classify_title(title, allow_claude=True):
         return cache[t], confidence != 'low'
 
     if allow_claude:
-        try:
-            board = _infer_board_bucket(title)
-            results = batch_classify_with_claude([title], board=board)
-            if results and t in results:
-                result = results[t]
-                is_tech = bool(result.get('is_tech', False))
-                confidence = result.get('confidence', 'medium')
-                cache[t] = is_tech
-                _confidence_cache[t] = confidence
-                if 'a' in result:
-                    _add_cache[t] = bool(int(result.get('a', 0))) and is_tech
-                table = board_token_to_table(result.get('b'))
-                if table:
-                    _board_cache[t] = table
-                if result.get('b') == 'x':
-                    _add_cache[t] = False
-                return is_tech, confidence != 'low'
-        except Exception:
+        if not _claude_budget_ok(1):
+            # Budget: do not spend a single-title call; fall through to keywords.
             pass
+        else:
+            try:
+                board = _infer_board_bucket(title)
+                results = batch_classify_with_claude([title], board=board)
+                if results and t in results:
+                    result = results[t]
+                    is_tech = bool(result.get('is_tech', False))
+                    confidence = result.get('confidence', 'medium')
+                    cache[t] = is_tech
+                    _confidence_cache[t] = confidence
+                    if 'a' in result:
+                        _add_cache[t] = bool(int(result.get('a', 0))) and is_tech
+                    table = board_token_to_table(result.get('b'))
+                    if table:
+                        _board_cache[t] = table
+                    if result.get('b') == 'x' or not is_in_scope_listing_title(title, table=table):
+                        _add_cache[t] = False
+                    _version_cache[t] = CLASSIFIER_VERSION
+                    return is_tech, confidence != 'low'
+            except Exception:
+                pass
 
     is_tech = is_tech_title_keywords(title)
     return is_tech, True
@@ -2314,7 +2399,9 @@ def main():
         save_claude_usage()
     print(f'Board group: {BOARD_GROUP or "all"} | Claude: {_claude_calls_this_run} this run, '
           f'{_claude_calls_today} in {CLAUDE_USAGE_FILE.name}, '
-          f'{_total_claude_calls_today()} today all groups (single-pass+cache)')
+          f'{_total_claude_calls_today()} today all groups '
+          f'(caps run={CLAUDE_MAX_CALLS_PER_RUN} day={CLAUDE_MAX_CALLS_PER_DAY} '
+          f'titles/run={CLAUDE_MAX_TITLES_PER_RUN})')
     print('Done')
 
 if __name__ == '__main__':

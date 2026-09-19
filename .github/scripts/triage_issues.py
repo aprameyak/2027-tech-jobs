@@ -16,7 +16,7 @@ import requests
 _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
-from scope_rules import is_out_of_scope_title
+from scope_rules import is_out_of_scope_title, is_in_scope_listing_title
 from claude_board_prompts import build_triage_prompt
 
 CLAUDE_MODEL = 'claude-haiku-4-5-20251001'
@@ -270,6 +270,26 @@ def main():
             close_issue(number)
             rejected += 1
             print('  local reject (out of scope)')
+            continue
+
+        # Free reject when title clearly fails CS/IS campus gate (saves Claude credits).
+        listing_type = fields.get('Listing Type', '')
+        season = fields.get('Season / Term', '')
+        if 'New Grad' in listing_type or '2027 (New Grad' in season:
+            table = 'newgrad'
+        elif season == 'Summer 2027':
+            table = 'summer'
+        else:
+            table = 'offcycle'
+        if role and not is_in_scope_listing_title(role, table=table):
+            comment(
+                number,
+                'Out of scope (not SWE / CS / information science / information systems '
+                'adjacent campus role) — closing.',
+            )
+            close_issue(number)
+            rejected += 1
+            print('  local reject (not CS/IS-adjacent)')
             continue
 
         needs_claude.append({'issue': issue, 'fields': fields, 'url': url})
