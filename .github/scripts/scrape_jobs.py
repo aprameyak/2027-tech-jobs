@@ -20,7 +20,7 @@ if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 from grad_date import infer_grad_date
 from validate_listings import validate_entry
-from scope_rules import HARD_REJECT_SIGNALS, is_out_of_scope_title
+from scope_rules import HARD_REJECT_SIGNALS, is_out_of_scope_title, is_campus_role_title
 
 BOARD_GROUP = os.environ.get('BOARD_GROUP', '').strip()
 
@@ -810,21 +810,39 @@ def is_auto_addable(title):
         return False
 
     if re.search(r'\b(senior|staff|principal|director)\b', t) and 'intern' not in t:
-        return False
+        # Allow MotS / new-grad staff titles through campus gate below.
+        if not re.search(
+            r'member of technical staff|ml technical staff|new\s*grad|new-grad|'
+            r'new college|entry[- ]level|early[- ]career|phd early',
+            t,
+        ):
+            return False
     if re.search(r'\blead\b', t) and 'intern' not in t and 'leadership' not in t:
         return False
 
     listing_type, season = infer_listing_type(title)
+    table = table_for_listing(listing_type, season)
 
-    if listing_type == 'New Grad (Full-Time)':
+    # Prefer explicit campus new-grad titles even when season inference is wrong
+    # (e.g. "Product Manager (2027 Graduates)" → mis-tagged Summer).
+    if (
+        not re.search(r'\bintern(?:ships?|s)?\b|\bco-?ops?\b', t)
+        and is_campus_role_title(title, 'newgrad')
+    ):
+        return True
+
+    if not is_campus_role_title(title, table=table):
+        return False
+
+    if table == 'newgrad' or listing_type == 'New Grad (Full-Time)':
         return True
     if season in OFFCYCLE_SEASONS:
         return True
-    if re.search(r'\bintern(ship)?\b', t):
+    if re.search(r'\bintern(?:ships?|s)?\b', t):
         return True
     if re.search(
         r'summer analyst|technology intern|leadership rotation|undergraduate student|'
-        r'junior (quantitative|software|developer)',
+        r'junior (quantitative|software|developer)|\bstudent\b|\bfellows?\b',
         t,
     ):
         return True

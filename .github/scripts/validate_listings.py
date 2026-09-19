@@ -17,7 +17,7 @@ OFFCYCLE_SEASONS = {
 }
 NEWGRAD_SEASON = '2027 (New Grad — no specific season)'
 
-INTERN = re.compile(r'\bintern(ship)?\b', re.I)
+INTERN = re.compile(r'\bintern(?:ships?)?\b', re.I)
 STAFF_RS = re.compile(r'research scientist', re.I)
 NEWGRAD_KW = re.compile(
     r'new grad|new-grad|entry[- ]level|early career|university grad|college grad|'
@@ -26,8 +26,9 @@ NEWGRAD_KW = re.compile(
 )
 SUMMER_PROGRAM = re.compile(
     r'summer analyst|technology intern|leadership rotation|undergraduate student|'
-    r'junior\s+(quantitative|software|developer|risk|quant)|internal product engineer|'
-    r'student researcher|fellowship|postgres internals|principal associate|summer associate',
+    r'junior\s+(quantitative|software|developer|risk|quant)|'
+    r'student researcher|\bfellows?\b|\bfellowship\b|principal associate|summer associate|'
+    r'\bstudent\b|analyst program',
     re.I,
 )
 SENIOR_PATTERNS = [
@@ -42,10 +43,12 @@ SENIOR_PATTERNS = [
 SENIOR_OK = re.compile(
     r'phd early career|senior associate|principal associate|associate product manager|\bapm\b|'
     r'product manager.*graduate|graduate.*product manager|new grad.*product manager|'
-    r'product manager graduate|technical program manager|engineering program manager|'
+    r'product manager graduate|technical program manager.*(?:intern|new|grad|early|university|college|2027)|'
+    r'(?:intern|new|grad|early|university|college|2027).*technical program manager|'
+    r'engineering program manager|'
     r'solutions architect.*new grad|new grad.*solutions architect|'
     r'new.?grad.*manager|manager.*new.?grad|new.?grad.*staff|staff.*new.?grad|'
-    r'member of technical staff|ml technical staff|technical staff|'
+    r'member of technical staff|ml technical staff|'
     r'associate.*staff|staff.*associate|'
     r'new college grad.*manager|manager.*new college grad|new college grad.*staff|staff.*new college grad|'
     r'new college grad.*lead|lead.*new college grad|'
@@ -55,7 +58,8 @@ SENIOR_OK = re.compile(
     r'entry.?level.*staff|staff.*entry.?level|'
     r'entry.?level.*senior|senior.*entry.?level|'
     r'entry.?level.*architect|architect.*entry.?level|'
-    r'\bproduct manager\b|\btechnical product manager\b',
+    r'product manager.*(?:2027|intern|new\s*grad|graduate|early|university|college)|'
+    r'(?:2027|intern|new\s*grad|graduate|early|university|college).*product manager',
     re.I,
 )
 NEWGRAD_IN_TITLE = re.compile(r'new grad|new-grad|entry', re.I)
