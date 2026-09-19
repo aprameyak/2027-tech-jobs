@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops — Software Engineering
 
-**341** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
+**336** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
@@ -252,7 +252,6 @@
 | Ambrook | Software Engineering Co-op | New York, NY | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/ambrook/29ffbcea-17c3-4488-9d57-a9f7249b49a5/application?utm_source=aprameyak) | Sep 15 |
 | Anduril | Winter 2027 Software Engineer Co-op | Quincy, MA | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007&utm_source=aprameyak) | Sep 15 |
 | RTX | Software Engineering Co-op (Summer/Fall 2027) | WILSONVILLE-596 ~ 27500 SW Parkway Ave ~ BLDG 596, OR | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01873970?utm_source=aprameyak) | Sep 15 |
-| ↳ | Software Engineering Co-op (Summer/Fall 2027) | WILSONVILLE-596 ~ 27500 SW Parkway Ave ~ BLDG 596, OR | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01870236?utm_source=aprameyak) | Sep 15 |
 | Klaviyo | Software Engineer Co-op - Spring 2027 | Boston, MA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003?utm_source=aprameyak) | Sep 14 |
 | Manulife | Winter Co-op 2027 - Software Engineering | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663?utm_source=aprameyak) | Sep 14 |
 | ↳ | Winter Co-op 2027 - Software Engineering | Waterloo, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661?utm_source=aprameyak) | Sep 14 |
@@ -270,7 +269,6 @@
 | ↳ | Software Engineer Co-op (Summer/Fall 2027) - Onsite | CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347?utm_source=aprameyak) | Sep 14 |
 | Disney | Disneyland Cybersecurity Intern | Anaheim, CA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disneyland-Cybersecurity-Intern--Spring-2027_FOS-0000451207-2?utm_source=aprameyak) | Sep 11 |
 | Rocket Lab | Flight Software Intern | Littleton, CO | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989724003?utm_source=aprameyak) | Sep 9 |
-| Sierra | Software Engineer Intern, Agent | San Francisco, CA | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4/application?utm_source=aprameyak) | Sep 9 |
 | Nelnet | Intern - Software Engineer - New Ventures - Starting | Lincoln, NE | Summer 2026 | Undergrad | [Apply](https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Intern---Software-Engineer---New-Ventures---Starting-Summer-2026_R23098?utm_source=aprameyak) | Sep 8 |
 | StackAdapt | Software Engineer, Backend Intern | Remote (Canada) | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009?utm_source=aprameyak) | Sep 8 |
 | ↳ | Software Engineer Intern | Remote (Canada) | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386549009?utm_source=aprameyak) | Sep 8 |
@@ -296,17 +294,14 @@
 | Ancestry | Software Engineer – Observability, Co-op | Draper, UT | Co-op | Undergrad | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434?utm_source=aprameyak) | Aug 29 |
 | IBM | Software Developer Spring Co-op | <details><summary>**2 locations**</summary>Lowell, MA</br>Austin, TX</details> | Spring 2027 | Undergrad | [Apply](https://careers.ibm.com/en_US/careers/JobDetail/Software-Developer-Spring-Co-op-2027/128506) | Aug 29 |
 | Johnson & Johnson | Software Engineering Co-Op | Cincinnati, OH | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741?utm_source=aprameyak) | Aug 29 |
-| Notion | Software Engineer Intern | San Francisco, CA | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8?utm_source=aprameyak) | Aug 29 |
 | Specter Aerospace | Full Stack Developer Co-op | <details><summary>**2 locations**</summary>Boston, MA</br>Peabody, MA</details> | Co-op | Undergrad | [Apply](https://specteraerospace.bamboohr.com/careers/122/?utm_source=aprameyak) | Aug 28 |
 | Brunswick | Mercury Marine - Systems/Software Engineering Co-op | Fond du Lac, WI | Co-op | Undergrad | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212?utm_source=aprameyak) | Aug 25 |
 | ↳ | Mercury Marine: Software Validation Intern | Oshkosh, WI | Co-op | Undergrad | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160?utm_source=aprameyak) | Aug 25 |
 | Nokia | Software Engineer Co-op - Deepfield | Ann Arbor, MI | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908) | Aug 25 |
 | Databricks | Software Engineering Intern — Winter | Mountain View, CA | Winter 2027 | Undergrad | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002&utm_source=aprameyak) | Aug 20 |
-| Figma | Software Engineer Intern | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> | Winter 2027 | Undergrad | [Apply](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004&utm_source=aprameyak) | Aug 17 |
 | Composio | Fullstack Engineering Intern | San Francisco, CA | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d?utm_source=aprameyak) | Aug 16 |
 | Security Risk Advisors | DevOps Engineering Generalist Co-op | Rochester, NY | Co-op | Undergrad | [Apply](https://apply.workable.com/securityriskadvisors/j/3B23FB7BEB/) | Aug 16 |
 | Figma | Software Engineer Intern | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/figma/jobs/6131089004?utm_source=aprameyak) | Aug 10 |
-| Melius | Software Engineering Intern | New York, NY | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf?utm_source=aprameyak) | Aug 9 |
 | The Nuclear Company | Software Engineering Intern | Washington, DC | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008?utm_source=aprameyak) | Aug 9 |
 | Varda Space | Site Reliability Internship | El Segundo, CA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824814003?utm_source=aprameyak) | Aug 8 |
 | ↳ | Flight Software Internship | El Segundo, CA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003?utm_source=aprameyak) | Aug 8 |

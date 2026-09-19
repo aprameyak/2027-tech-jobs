@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships — Data Science, AI & Machine Learning
 
-**528** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**518** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -240,7 +240,6 @@
 | Nike | NIKE, Inc. Artificial Intelligence, Data, & Machine Learning Engineering Undergraduate Internship | Beaverton, OR | Undergrad | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Artificial-Intelligence--Data----Machine-Learning-Engineering-Undergraduate-Internship_R-91110?utm_source=aprameyak) | Sep 14 |
 | NXP Semiconductors | Data Science / Structured Problem Solving Intern - Summer 2027 | Austin, TX | Undergrad | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037?utm_source=aprameyak) | Sep 14 |
 | Peraton 🇺🇸 | Summer 2027 Data Science Intern | Herndon, VA | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/170320/job?utm_source=aprameyak) | Sep 14 |
-| ↳ | Summer 2027 Data Science Intern | Herndon, VA | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/170320/summer-2027-data-science-intern/job) | Sep 14 |
 | Plexus | Intern - IT Data Science (Summer 2027) | Neenah, WI | Undergrad | [Apply](https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---IT-Data-Science--Summer-2027-_R041586?utm_source=aprameyak) | Sep 14 |
 | Royal Bank of Canada | 2027 Winter - ECCO, Data Scientist Intern (4 Months) | Toronto, ON | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Scientist-Intern--4-Months-_R-0000185186?utm_source=aprameyak) | Sep 14 |
 | ↳ | 2027 Winter – GRM, MCCR Policy AI Applications Intern (4 Months) | Toronto, ON | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696?utm_source=aprameyak) | Sep 14 |
@@ -255,13 +254,11 @@
 | ↳ | 2027 Summer Internship Program - Global Technology & Solutions - Data Engineer | Mount Laurel, NJ | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797?utm_source=aprameyak) | Sep 14 |
 | Tokyo Electron | Software Engineer - AI Research Summer 2027 Intern | San Jose, CA | Undergrad | [Apply](https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531?utm_source=aprameyak) | Sep 14 |
 | Clera | Research Engineer / Research Scientist Intern, Robotics and Physical AI | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/clera/016ddc17-e15d-4edf-9f59-57cb6f6319ff/application?utm_source=aprameyak) | Sep 12 |
-| ↳ | Research Engineer / Research Scientist Intern, Robotics and Physical AI | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/clera/c922082d-789c-4568-8ed5-8fe9e23193c0/application?utm_source=aprameyak) | Sep 12 |
 | Waymo | Research Scientist Intern, Map Scalability | <details><summary>**3 locations**</summary>Mountain View, CA</br>San Francisco, CA</br>New York, NY</details> | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8180692) | Sep 12 |
 | Perpay | Data Engineering Internship | Philadelphia, PA | Undergrad | [Apply](https://job-boards.greenhouse.io/perpay/jobs/4076965007?utm_source=aprameyak) | Sep 11 |
 | ↳ | Data Science Internship | Philadelphia, PA | Undergrad | [Apply](https://job-boards.greenhouse.io/perpay/jobs/4076978007?utm_source=aprameyak) | Sep 11 |
 | Royal Bank of Canada | 2027 Winter - GRM, Data Scientist Intern (8 Months) | Toronto, ON | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624?utm_source=aprameyak) | Sep 11 |
 | Canadian Tire | Data Analyst Student - (4 Months) - Winter Term | Oakville, ON | Undergrad | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Oakville-ON/Data-Analyst-Student----4-Months----Winter-Term-2027_JR164861?utm_source=aprameyak) | Sep 10 |
-| Red Hat | AI Ecosystem Intern | Boston, MA | Undergrad | [Apply](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/AI-Ecosystem-Intern_R-059053-1?utm_source=aprameyak) | Sep 10 |
 | Zoox | Contract Student Worker - Data Analyst (20 hrs/wk) | Seattle, WA | Undergrad | [Apply](https://jobs.lever.co/zoox/ae2785ae-dfee-484b-8add-3cf32ca2d10e?utm_source=aprameyak) | Sep 10 |
 | Coinbase | Data Engineer Intern | Hybrid - San Francisco, CA | Undergrad | [Apply](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) | Sep 8 |
 | ↳ | Data Science Intern | Hybrid - San Francisco, CA | Undergrad | [Apply](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) | Sep 8 |
@@ -270,7 +267,6 @@
 | Juniper Networks | HPC AI Systems Administrator Intern | Bloomington, MN | Masters | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396?utm_source=aprameyak) | Sep 7 |
 | NXP Semiconductors | Data Analytics Engineer Intern | Austin, TX | Undergrad | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Analytics-Engineer-Intern---Summer-2027_R-10065538?utm_source=aprameyak) | Sep 7 |
 | Booz Allen Hamilton | University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL | Fort Walton Beach, FL | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409?utm_source=aprameyak) | Sep 4 |
-| Ingredion | AI & Data Scientist Intern | Westchester, IL | Undergrad | [Apply](https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40220?utm_source=aprameyak) | Sep 4 |
 | Schonfeld Strategic Advisors | 2027 Data Science Intern | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692?utm_source=aprameyak) | Sep 4 |
 | Skydio | Autonomy Engineer Intern, Computer Vision / Deep Learning | San Mateo, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?utm_source=aprameyak) | Sep 4 |
 | TransMarket Group | Junior Data Engineer | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151492007?gh_jid=5151492007&utm_source=aprameyak) | Sep 4 |
@@ -305,7 +301,6 @@
 | ↳ | AI, Data & Technology Intern | Charlotte, NC | Undergrad | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115704?utm_source=aprameyak) | Sep 1 |
 | IBM | 2027 Software Engineering Intern – Agentic AI & Workflow Automation | Armonk, NY | Undergrad | [Apply](https://careers.ibm.com/en_US/careers/JobDetail/2027-Software-Engineering-Intern-Agentic-AI-Workflow-Automation/129919) | Sep 1 |
 | Ingredion | AI & Data Scientist Intern | Westchester, IL | Undergrad; Masters | [Apply](https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1?utm_source=aprameyak) | Sep 1 |
-| Mastercard | Data Scientist Intern | O'Fallon, MO | Undergrad | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284879?utm_source=aprameyak) | Sep 1 |
 | Montenson | Artificial Intelligence Intern | Minnesota | Undergrad | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339?utm_source=aprameyak) | Sep 1 |
 | ↳ | Data Analytics Intern - Insights | Minnesota | Undergrad | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342?utm_source=aprameyak) | Sep 1 |
 | New York Life | 2027 Technology, Data, AI & Ventures Summer Internship Program - Software Engineer Intern | New York, NY | Undergrad | [Apply](https://careers.newyorklife.com/careers/job/43612387) | Sep 1 |
@@ -343,8 +338,6 @@
 | ↳ | 2027 Undergrad Data Analyst Intern/co-op | Santa Clara, CA | Undergrad | [Apply](https://campus-amd.icims.com/jobs/90895/login) | Aug 29 |
 | American Fidelity | Agentic AI Internship (OKC Local Only) | Oklahoma City, OK | Undergrad | [Apply](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/IT-Intern-1_JR1016?utm_source=aprameyak) | Aug 29 |
 | Astreya | AI Infrastructure DC Design Intern | Remote (US) | Undergrad | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746?utm_source=aprameyak) | Aug 29 |
-| ↳ | AI Infrastructure DC Design Intern | Remote (US) | Undergrad | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747?utm_source=aprameyak) | Aug 29 |
-| Blackstone | Data Science Summer Analyst | New York, NY | Undergrad | [Apply](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Data-Science-Summer-Analyst_44862?utm_source=aprameyak) | Aug 29 |
 | BNY | Data Science Intern - Engineering | Jersey City, NJ | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238) | Aug 29 |
 | ↳ | Data Science Intern - Engineering | New York, NY | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81240) | Aug 29 |
 | ↳ | Data Science Intern - Engineering | Lake Mary, FL | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81239) | Aug 29 |
@@ -370,7 +363,6 @@
 | ↳ | Research Intern (AI Infra Compute) - ... | Seattle, WA | Undergrad | [Apply](https://joinbytedance.com/search/7667379218929780997) | Aug 29 |
 | Continental Resources | Data Analyst Intern | Oklahoma City, OK | Undergrad | [Apply](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1?utm_source=aprameyak) | Aug 29 |
 | Crowe | Machine Learning Intern | Chicago, IL | Undergrad | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Intern_R-71005?utm_source=aprameyak) | Aug 29 |
-| DRW | AI/ML Research Intern | Montreal, QC | Undergrad | [Apply](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679) | Aug 29 |
 | Eight Sleep | AI/ML Research Internship | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035?utm_source=aprameyak) | Aug 29 |
 | Expedia Group | 2023 PhD Intern - Machine Learning Sc... | Austin, TX | PhD | [Apply](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/XMLNAME-2023-PhD-Intern---Machine-Learning-Science_R-76833?utm_source=aprameyak) | Aug 29 |
 | Fundwell | AI Innovation Internship | New York, NY | Undergrad | [Apply](https://jobs.ashbyhq.com/fundwell/2d91136d-b54d-4ed0-93de-22c7839a3982?utm_source=aprameyak) | Aug 29 |
@@ -426,7 +418,6 @@
 | Microsoft | AI Software Engineering Intern | Redmond, WA | Undergrad | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556962891?utm_source=aprameyak) | Aug 26 |
 | ↳ | AI Software Engineering Intern - Edge | Redmond, WA | Undergrad | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556979054?utm_source=aprameyak) | Aug 26 |
 | Crowe | AI Engineering Intern | Chicago, IL | Undergrad | [Apply](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782?utm_source=aprameyak) | Aug 25 |
-| ↳ | AI Functional Intern | Chicago, IL | Undergrad | [Apply](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-71008?utm_source=aprameyak) | Aug 25 |
 | Epic Games | Machine Learning Research Intern | Montreal, QC | Undergrad | [Apply](https://www.epicgames.com/site/careers/jobs/6138140004?gh_jid=6138140004) | Aug 25 |
 | Vanguard | College to Corporate IT Internship - Data Analyst (NC) | Charlotte, NC | Undergrad | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767?utm_source=aprameyak) | Aug 25 |
 | Fannie Mae | Campus - Data Science Intern - Analytics & Modeling | Washington, DC | Undergrad | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/fanniemaecareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815?utm_source=aprameyak) | Aug 24 |
@@ -435,7 +426,6 @@
 | Blackstone | Data Engineer Summer Analyst | Miami, FL | Undergrad | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Technology-and-Innovations--Data-Engineer-Summer-Analyst_45022?utm_source=aprameyak) | Aug 22 |
 | ↳ | Data Science Summer Analyst | New York, NY | Undergrad | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Data-Science-Summer-Analyst_44862?utm_source=aprameyak) | Aug 22 |
 | Ecolab | Digital & AI Technology Intern | <details><summary>**3 locations**</summary>Naperville, IL</br>Eagan, MN</br>Saint Paul, MN</details> | Undergrad | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249?utm_source=aprameyak) | Aug 22 |
-| Campbell Soup Company | Data Science Intern | Camden, NJ | Undergrad | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Science-Intern_Req-65845?utm_source=aprameyak) | Aug 17 |
 | Cresta | Product Design Intern for AI and Human Agents Platform | Toronto, ON | Undergrad | [Apply](https://job-boards.greenhouse.io/cresta/jobs/4476000008?utm_source=aprameyak) | Aug 17 |
 | mthree | Junior Data Scientist | Remote (US) | Undergrad | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4313148006?utm_source=aprameyak) | Aug 17 |
 | Pipe17 | Junior Software Engineer, AI-Native (SEATTLE ONLY) | Seattle, WA | Undergrad | [Apply](https://job-boards.greenhouse.io/pipe17/jobs/4717950005?utm_source=aprameyak) | Aug 17 |

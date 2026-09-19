@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships — Product Management
 
-**89** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**85** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -8,8 +8,6 @@
 | Altar'd State | IT Ecommerce Product Owner Intern | Knoxville, TN | Undergrad | [Apply](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Ecommerce-Product-Owner-Intern_SOSJ12489?utm_source=aprameyak) | Sep 19 |
 | AspenTech | Product Owner Intern - Product Management | Houston, TXBedford, MA | Undergrad | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471?utm_source=aprameyak) | Sep 19 |
 | Atlassian | Product Management Intern | SF | Undergrad | [Apply](https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job) | Sep 19 |
-| Clearwater Analytics | Product Management Intern | Office - New York | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12287?utm_source=aprameyak) | Sep 19 |
-| ↳ | Product Management Intern | Office - New York | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12288?utm_source=aprameyak) | Sep 19 |
 | Cox | Product Management Intern - Summer 2027 | Long Island, NY | Undergrad | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185?utm_source=aprameyak) | Sep 19 |
 | Dick's Sporting Goods | Product Management Intern - Corporate Internship | Pittsburgh, PA | Undergrad | [Apply](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1?utm_source=aprameyak) | Sep 19 |
 | Duolingo | Associate Product Manager Intern | Pittsburgh, PA | Undergrad | [Apply](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002?utm_source=aprameyak) | Sep 19 |
@@ -40,7 +38,6 @@
 | W.R. Berkley | Product Management Analyst Intern - Claims | Manassas, VA | Undergrad | [Apply](https://careers-berkley.icims.com/jobs/14439/job?mobile=true&needsRedirect=false) | Sep 19 |
 | Zurn Elkay Water Solutions | Product Management Intern | Paso Robles, CA | Undergrad | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109?utm_source=aprameyak) | Sep 19 |
 | Clearwater Analytics | Product Management Intern | Office - New York | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12286?utm_source=aprameyak) | Sep 18 |
-| ↳ | Product Management Intern | Office - New York | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12285?utm_source=aprameyak) | Sep 18 |
 | NVIDIA | Product Management MBA Intern, Data Center GPU - Summer 2027 | Santa Clara, CA | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1?utm_source=aprameyak) | Sep 16 |
 | Duolingo | Associate Product Manager, Intern | Pittsburgh, PA | Undergrad | [Apply](https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002) | Sep 15 |
 | Loblaw Companies | Associate Product Manager Intern | Brampton, ON | Undergrad | [Apply](https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Associate-Product-Manager_R2000702776-1?utm_source=aprameyak) | Sep 12 |
@@ -68,7 +65,6 @@
 | OpusClip | AI Product Management Intern | Mountain View, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea/application?utm_source=aprameyak) | Aug 30 |
 | Workiva | Spring & Summer 2027 Intern - Product Management | Remote (US) | Undergrad | [Apply](https://workiva.wd503.myworkdayjobs.com/en-US/careers/job/USA---Remote/Spring---Summer-2027-Intern---Product-Management_R12355?utm_source=aprameyak) | Aug 30 |
 | Datadog | Product Management Intern | New York, NY | Undergrad | [Apply](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | Aug 29 |
-| GE Vernova | Controls Product Management Intern | <details><summary>**2 locations**</summary>Longmont, CO</br>Greenville, SC</details> | Undergrad | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803-3?utm_source=aprameyak) | Aug 29 |
 | IBM | Product Manager Intern | <details><summary>**4 locations**</summary>Lowell, MA</br>Durham, NC</br>San Jose, CA</br>Austin, TX</details> | Undergrad | [Apply](https://careers.ibm.com/en_US/careers/JobDetail/Product-Manager-Intern-2027/128509) | Aug 29 |
 | Springs Window Fashions | Product Management Dashboard Analytics Intern | Middleton, WI | Undergrad | [Apply](https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false) | Aug 29 |
 | ↳ | Product Management Intern | Long Island City, Queens, NY | Undergrad | [Apply](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false) | Aug 29 |

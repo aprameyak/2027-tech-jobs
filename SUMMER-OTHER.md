@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships — Other Tech
 
-**343** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**339** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -136,7 +136,6 @@
 | Rocket Lab | Security Analyst Intern Summer 2027 | Middle River, MD | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986963003?utm_source=aprameyak) | Sep 17 |
 | SharkNinja | Engineering & Technology Intern Opportunities | Needham, MA | Undergrad | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713857006?utm_source=aprameyak) | Sep 17 |
 | Booz Allen Hamilton | Systems Administrator Intern | Annapolis Junction, MD | Masters | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249565?utm_source=aprameyak) | Sep 16 |
-| ↳ | Systems Administrator Intern | Annapolis Junction, MD | Masters | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249566?utm_source=aprameyak) | Sep 16 |
 | Intel | Operations Research, Engineering Analytics Graduate Intern | Phoenix, AZ | Undergrad | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502?utm_source=aprameyak) | Sep 16 |
 | KBR | Data Processing Systems Engineer Intern | Sioux Falls, SD | Masters | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060?utm_source=aprameyak) | Sep 16 |
 | Marmon Holdings | Forward Deployed Engineer Intern | Charlotte, NC | Undergrad | [Apply](https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_MSIP_Internships/job/Charlotte-NC/Forward-Deployment-Engineer-Intern_JR0000045825-5?utm_source=aprameyak) | Sep 16 |
@@ -186,7 +185,6 @@
 | Hudl | Quality Assurance Engineering Intern | Lincoln, NE | Undergrad | [Apply](https://job-boards.greenhouse.io/hudl/jobs/8155102?utm_source=aprameyak) | Sep 10 |
 | Intel | Compiler Engineering Undergraduate Intern - SYCL Runtime | Toronto, ON | Undergrad | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849?utm_source=aprameyak) | Sep 10 |
 | Moog | Intern, Design Engineering | Mineral Wells, TX | Undergrad | [Apply](https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Mineral-Wells-TX/Intern--Design-Engineering_R-26-19881?utm_source=aprameyak) | Sep 9 |
-| ↳ | Intern, Design Engineering | Mineral Wells, TX | Undergrad | [Apply](https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Mineral-Wells-TX/Intern--Design-Engineering_R-26-19882?utm_source=aprameyak) | Sep 9 |
 | Zoox | Contract Student Worker - Forward Deployed Automation Engineer (40 hrs/wk) | Seattle, WA | Undergrad | [Apply](https://jobs.lever.co/zoox/5fad000d-791f-4a0a-96da-65ca594160a9?utm_source=aprameyak) | Sep 9 |
 | Coinbase | Analytics Engineer Intern | Hybrid - San Francisco, CA | Undergrad | [Apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) | Sep 8 |
 | ↳ | Product Design Intern | Hybrid - San Francisco, CA | Undergrad | [Apply](https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339) | Sep 8 |
@@ -199,7 +197,6 @@
 | The Hartford | Intern, Product Analytics Leadership Development Program | Hartford, CT | Undergrad | [Apply](https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/Hartford-CT/Intern--Product-Analytics-Leadership-Development-Program_R2626424-1?utm_source=aprameyak) | Sep 8 |
 | U.S. Bank | 2027 Information Security Summer Intern | Cincinnati, OH | Undergrad | [Apply](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770?utm_source=aprameyak) | Sep 8 |
 | ↳ | 2027 Business Analytics Summer Intern | Minneapolis, MN | Undergrad | [Apply](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Business-Analytics-Summer-Intern_2026-0025907?utm_source=aprameyak) | Sep 8 |
-| Verkada | Technical Support Engineering Intern | San Mateo, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5233011007?utm_source=aprameyak) | Sep 8 |
 | Accenture Federal Services | Junior Cloud Systems Administrator | Colorado Springs, CO | Masters | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4688938006?gh_jid=4688938006&utm_source=aprameyak) | Sep 4 |
 | Booz Allen Hamilton | University - 2027 Summer Games Systems Engineer Intern - Ft. Walton Beach, FL | Fort Walton Beach, FL | Masters | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Systems-Engineer-Intern---Ft-Walton-Beach--FL_R0248388?utm_source=aprameyak) | Sep 4 |
 | ↳ | University - 2027 Summer Games Systems Engineer Intern - Charleston, SC | Charleston, SC | Masters | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369?utm_source=aprameyak) | Sep 4 |
@@ -210,7 +207,6 @@
 | ↳ | Technology Risk Consulting Intern | Atlanta, GA | Undergrad | [Apply](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Atlanta-Metro-Area/Technology-Risk-Consulting-Intern---Summer-2027_JR117230?utm_source=aprameyak) | Sep 4 |
 | Schonfeld Strategic Advisors | 2027 Business Analytics Intern | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171703?utm_source=aprameyak) | Sep 4 |
 | ↳ | 2027 DMFI Technology Intern | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171772?utm_source=aprameyak) | Sep 4 |
-| Skydio | Product Design Engineer Intern | San Mateo, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f/application?utm_source=aprameyak) | Sep 4 |
 | Plexus | Intern - Automation Engineer | Nampa, ID | Undergrad | [Apply](https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Nampa-ID/Intern---Automation-Engineer--Summer-2027-_R041024-1?utm_source=aprameyak) | Sep 3 |
 | Sierra Nevada Corp | Systems Engineer Intern | Dayton, OH | Masters | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749?utm_source=aprameyak) | Sep 3 |
 | F.N.B. Corporation | Summer 2027 Corporate Analytics Intern | Pittsburgh, PA | Undergrad | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Pittsburgh-PA/Summer-2027-Corporate-Analytics-Intern_2026-01910?utm_source=aprameyak) | Sep 2 |

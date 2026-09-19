@@ -13,27 +13,27 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-### Browse 3702 open roles
+### Browse 3619 open roles
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (1865 open / 3091 total)
-  - [💻 Software Engineering](./SUMMER-SWE.md) (752)
-  - [📱 Product Management](./SUMMER-PM.md) (89)
-  - [🤖 Data Science, AI & Machine Learning](./SUMMER-AI-ML.md) (528)
-  - [📈 Quantitative Finance](./SUMMER-QUANT.md) (153)
-  - [🧩 Other Tech](./SUMMER-OTHER.md) (343)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (874 open / 1093 total)
-  - [💻 Software Engineering](./OFFCYCLE-SWE.md) (341)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (1812 open / 3091 total)
+  - [💻 Software Engineering](./SUMMER-SWE.md) (722)
+  - [📱 Product Management](./SUMMER-PM.md) (85)
+  - [🤖 Data Science, AI & Machine Learning](./SUMMER-AI-ML.md) (518)
+  - [📈 Quantitative Finance](./SUMMER-QUANT.md) (148)
+  - [🧩 Other Tech](./SUMMER-OTHER.md) (339)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (865 open / 1093 total)
+  - [💻 Software Engineering](./OFFCYCLE-SWE.md) (336)
   - [📱 Product Management](./OFFCYCLE-PM.md) (45)
-  - [🤖 Data Science, AI & Machine Learning](./OFFCYCLE-AI-ML.md) (333)
+  - [🤖 Data Science, AI & Machine Learning](./OFFCYCLE-AI-ML.md) (330)
   - [📈 Quantitative Finance](./OFFCYCLE-QUANT.md) (16)
-  - [🧩 Other Tech](./OFFCYCLE-OTHER.md) (139)
-- [🎓 New Grad 2027](./NEWGRAD.md) (963 open / 2273 total)
-  - [💻 Software Engineering](./NEWGRAD-SWE.md) (646)
+  - [🧩 Other Tech](./OFFCYCLE-OTHER.md) (138)
+- [🎓 New Grad 2027](./NEWGRAD.md) (942 open / 2273 total)
+  - [💻 Software Engineering](./NEWGRAD-SWE.md) (629)
   - [📱 Product Management](./NEWGRAD-PM.md) (22)
-  - [🤖 Data Science, AI & Machine Learning](./NEWGRAD-AI-ML.md) (219)
+  - [🤖 Data Science, AI & Machine Learning](./NEWGRAD-AI-ML.md) (217)
   - [📈 Quantitative Finance](./NEWGRAD-QUANT.md) (47)
-  - [🧩 Other Tech](./NEWGRAD-OTHER.md) (29)
-- [🔒 Closed listings](./CLOSED.md) (2755)
+  - [🧩 Other Tech](./NEWGRAD-OTHER.md) (27)
+- [🔒 Closed listings](./CLOSED.md) (2838)
 
 ---
 
@@ -46,7 +46,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **1865** open listings (3091 total incl. closed) · [View full open table](./SUMMER.md)
+Showing newest **75** of **1812** open listings (3091 total incl. closed) · [View full open table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -131,7 +131,7 @@ Showing newest **75** of **1865** open listings (3091 total incl. closed) · [Vi
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **874** open listings (1093 total incl. closed) · [View full open table](./OFFCYCLE.md)
+Showing newest **75** of **865** open listings (1093 total incl. closed) · [View full open table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
@@ -216,7 +216,7 @@ Showing newest **75** of **874** open listings (1093 total incl. closed) · [Vie
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **963** open listings (2273 total incl. closed) · [View full open table](./NEWGRAD.md)
+Showing newest **75** of **942** open listings (2273 total incl. closed) · [View full open table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 

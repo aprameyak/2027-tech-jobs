@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops — Data Science, AI & Machine Learning
 
-**333** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
+**330** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
@@ -166,7 +166,7 @@
 | Pennsylvania State University | AI/ML Research Support Intern - Visualization and Decision Support Division | State College, PA | Fall 2026 | Undergrad | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-Support-Intern_REQ_0000080506-1?utm_source=aprameyak) | Sep 19 |
 | Philips | Data Engineering Co-op | Reedsville, PA | Co-op | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Co-op-Data-Engineering-Reedsville--PA-July-December-2027_587486?utm_source=aprameyak) | Sep 19 |
 | Phoenix Contact | Data Science & Analytics Intern | Middletown, PA | Fall 2026 | Undergrad | [Apply](https://job-boards.greenhouse.io/phoenixcontact/jobs/7964865003?utm_source=aprameyak) | Sep 19 |
-| Pluralis Research | Research Scientist Intern | Remote in USARemote in Australia | Fall 2026 | Masters | [Apply](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true&utm_source=aprameyak) | Sep 19 |
+| Pluralis Research | Research Scientist Intern | Remote (US) | Fall 2026 | Masters | [Apply](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Pomerleau | Forward Deployed AI Solutions Intern | Montreal, QC | Fall 2026 | Undergrad | [Apply](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3619) | Sep 19 |
 | ↳ | AI Product Analyst Intern | Montreal, QC | Fall 2026 | Undergrad | [Apply](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3620) | Sep 19 |
 | ↳ | HR Data Analyst Intern | Montreal, QC, CanadaLaval, QC, CanadaLongueuil, QC | Fall 2026 | Undergrad | [Apply](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3709) | Sep 19 |
@@ -282,7 +282,6 @@
 | ↳ | Data Science Analyst - Audit AI & Analytics, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761-1?utm_source=aprameyak) | Sep 7 |
 | ↳ | Data Science Risk Analyst, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735-1?utm_source=aprameyak) | Sep 7 |
 | Kodiak Robotics | Winter 2027 Intern, Data Engineering | Mountain View, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/kodiak/jobs/4396622009?utm_source=aprameyak) | Sep 4 |
-| Johnson & Johnson | Data Science Co-Op | Cincinnati, OH | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746?utm_source=aprameyak) | Sep 1 |
 | Philips | Data Scientist Co-op | Plymouth, MN | Co-op | Masters | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567?utm_source=aprameyak) | Sep 1 |
 | Wealthsimple | Software Development and Data Science Internships | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26/application?utm_source=aprameyak) | Aug 31 |
 | Audax Group | AI Engineer Co-Op | Boston, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005?utm_source=aprameyak) | Aug 29 |
@@ -296,9 +295,7 @@
 | Notion | Data Science Intern | San Francisco, CA | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e?utm_source=aprameyak) | Aug 24 |
 | Philips | Graduate Level Co-op - Data Scientist | Plymouth, MN | Co-op | Masters; PhD | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567?utm_source=aprameyak) | Aug 24 |
 | The Mosaic Company | Artificial Intelligence Co-Op/Intern | Tampa, FL | Spring 2027 | Undergrad | [Apply](https://mosaic.wd5.myworkdayjobs.com/en-US/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Spring-2027_64729?utm_source=aprameyak) | Aug 24 |
-| Campbell Soup Company | Agentic AI Engineer Co-Op | Remote (US) | Co-op | Undergrad | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014?utm_source=aprameyak) | Aug 17 |
-| ↳ | Data Engineer, DA&AI Co-Op | Camden, NJ | Co-op | Undergrad | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838?utm_source=aprameyak) | Aug 17 |
-| ↳ | Business Analyst (Co-op), DA&AI | Remote (US) | Co-op | Undergrad | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913?utm_source=aprameyak) | Aug 17 |
+| Campbell Soup Company | Business Analyst (Co-op), DA&AI | Remote (US) | Co-op | Undergrad | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913?utm_source=aprameyak) | Aug 17 |
 | The Nuclear Company | AI Applied Research Internship | Washington, DC | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008?utm_source=aprameyak) | Aug 14 |
 | Zoox | Part-Time Student Worker - Machine Learning Engineer - Data Mining & VLM | Foster City, CA | Co-op | Undergrad | [Apply](https://jobs.lever.co/zoox/7206fd97-14e4-43a0-b903-ba65dfeee53e?utm_source=aprameyak) | Aug 11 |
 | Anthropic | Anthropic Fellows Program, AI Safety | <details><summary>**2 locations**</summary>San Francisco, CA</br>Remote (US)</details> | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008?utm_source=aprameyak) | Aug 4 |

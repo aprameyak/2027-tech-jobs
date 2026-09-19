@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027 — Data Science, AI & Machine Learning
 
-**219** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**217** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
@@ -54,7 +54,6 @@
 | NVIDIA | Research Scientist New Grad - Efficient Deep Learning | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1?utm_source=aprameyak) | Sep 1 |
 | Precisely | Associate Software Engineer (Python AI) | Remote (US) |  | Undergrad | [Apply](https://www.precisely.com/careers-and-culture/us-jobs/job/4722721005?gh_jid=4722721005&utm_source=aprameyak) | Sep 1 |
 | Texas Sports Academy | Junior Software Engineer - AI-Forward | Austin, TX |  | Undergrad | [Apply](https://apply.workable.com/texas-sports-academy-main/j/009164EC9C/apply?utm_source=aprameyak) | Sep 1 |
-| ↳ | Junior Software Engineer - AI-Forward | Austin, TX |  | Undergrad | [Apply](https://apply.workable.com/texas-sports-academy-main/j/7CA2AC17A5/apply?utm_source=aprameyak) | Sep 1 |
 | Clera | Research Engineer / Research Scientist — Robotics & Physical AI | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/clera/7419e500-2621-4e31-ba44-6201367d18bf?utm_source=aprameyak) | Aug 31 |
 | Physical Intelligence | Research Scientist | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/physicalintelligence/f83ba447-2261-4832-95db-a2f88454e0ba?utm_source=aprameyak) | Aug 31 |
 | Ambrook | Software Engineer, AI | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/ambrook/6bfcac6b-6488-4144-ab57-da96758f839f?utm_source=aprameyak) | Aug 30 |
@@ -71,7 +70,6 @@
 | CACI | Data Engineer | Chantilly, VA |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Chantilly-VA-US/Software-Developer_330714?utm_source=aprameyak) | Aug 29 |
 | ↳ | AI Engineer | Remote (US) |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/AI-Engineer_331005?utm_source=aprameyak) | Aug 29 |
 | Carnegie Mellon University | Data Engineer - School of Computer Sc... | Pittsburgh, PA |  | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Data-Engineer---School-of-Computer-Science---MLD_2024854?utm_source=aprameyak) | Aug 29 |
-| ↳ | Data Engineer - School of Computer Sc... | Pittsburgh, PA |  | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Data-Engineer---School-of-Computer-Science---MLD_2024991?utm_source=aprameyak) | Aug 29 |
 | Cerebras Systems | AI Engineer, Model Quality and Perfor... | Sunnyvale, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/cerebras/864698cd-da36-42b6-bbcc-fc39d22010f0?utm_source=aprameyak) | Aug 29 |
 | CoBot | AI Research Engineer | Seattle, WA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/cobot/2a56c4c6-1bad-4715-a11c-119bdcda839c?utm_source=aprameyak) | Aug 29 |
 | Comcast | Machine Learning Engineer (GoLang) | Washington, DC |  | Undergrad | [Apply](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/DC---Washington-1325-G-ST-NW-STE-300/Machine-Learning-Engineer--GoLang-_R430964?utm_source=aprameyak) | Aug 29 |

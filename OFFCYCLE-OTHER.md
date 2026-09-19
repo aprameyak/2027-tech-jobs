@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops — Other Tech
 
-**139** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
+**138** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
@@ -113,7 +113,6 @@
 | Baker Hughes | Intern/Co-op - Engineering & Technology - Spring 2027 Opportunities | HOUSTON-2001 RANKIN ROAD, TX | Co-op | Undergrad | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/US-TX-HOUSTON-2001-RANKIN-ROAD/Intern-Co-op---Engineering---Technology---Spring-2027-Opportunities_R168898?utm_source=aprameyak) | Sep 14 |
 | Loblaw Companies | Design Engineer - Co-op Student | 500 Lake Shore Blvd W, Toronto, ON | Co-op | Undergrad | [Apply](https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Product-Designer---Co-op-Student_R2000697264?utm_source=aprameyak) | Sep 14 |
 | ↳ | Replenishment Optimization Data & Analytics - Co-op Student | 1 Presidents Choice Circle, Brampton, ON | Co-op | Undergrad | [Apply](https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Replenishment-Optimization-Data---Analytics---Co-op-Student_R2000697074?utm_source=aprameyak) | Sep 14 |
-| ↳ | Replenishment Optimization Data & Analytics - Co-op Student | 1 Presidents Choice Circle, Brampton, ON | Co-op | Undergrad | [Apply](https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Replenishment-Optimization-Data---Analytics---Co-op-Student_R2000697099?utm_source=aprameyak) | Sep 14 |
 | Manulife | Winter Co-op 2027 - Business Technology | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Business-Technology_JR26081665?utm_source=aprameyak) | Sep 14 |
 | ↳ | Winter Co-op 2027 - Risk Analytics & Automation (8 months) | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Risk-Analytics---Automation--8-months-_JR26080922?utm_source=aprameyak) | Sep 14 |
 | RTX | 2027 Spring/Summer Co-Op - Systems Engineer - AVI MIL FMS (Onsite) | CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182, IA | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems-Engineer---AVI-MIL-FMS--Onsite-_01872234?utm_source=aprameyak) | Sep 14 |

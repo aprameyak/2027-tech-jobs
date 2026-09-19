@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027 — Other Tech
 
-**29** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**27** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
@@ -12,8 +12,6 @@
 | ↳ | 2027 Entry Level Suppler Technical Engineer | San Diego, CA | Spring 2027 | Undergrad | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Suppler-Technical-Engineer-_R0000383122?utm_source=aprameyak) | Sep 14 |
 | ↳ | 2027 TMP Tech & NPI Entry Level Engineering Rotation - MS/PHD | San Diego, CA | Spring 2027 | PhD | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/SolarTurbines/job/San-Diego-California/XMLNAME-2027-TMP-Tech---NPI-Entry-Level-Engineering-Rotation---MS-PHD_R0000381837?utm_source=aprameyak) | Sep 14 |
 | DoorDash | Product Design, Entry-Level (2027 start) | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8188161?utm_source=aprameyak) | Sep 10 |
-| Verkada | Technical Support Engineer - University Graduate | San Mateo, CA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007?utm_source=aprameyak) | Sep 8 |
-| Sallie Mae | Early Career Development Program Associate - Analytics | Newark, DE |  | Undergrad | [Apply](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Associate--Analytics---Early-Career-Development-Program_R26_000512?utm_source=aprameyak) | Sep 1 |
 | UBS | 2027 Graduate Talent Program — Technology | <details><summary>**2 locations**</summary>New York, NY</br>Weehawken, NJ</details> | Spring 2027 | Undergrad | [Apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25008&siteid=5131&jobId=348622) | Sep 1 |
 | Netic | Forward Deployed Engineer (FDE) - New Grad - 2026-2027 | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/netic/f2d170eb-c4c3-4715-9d2e-84dd4fe857c8/application?utm_source=aprameyak) | Aug 30 |
 | Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | <details><summary>**2 locations**</summary>New York, NY</br>Boston, MA</details> |  | Undergrad | [Apply](https://jobs.lever.co/veeva/f792925e-aefc-418c-8bf8-a1bdb6250a25?utm_source=aprameyak) | Aug 30 |

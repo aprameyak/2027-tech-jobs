@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships — Quantitative Finance
 
-**153** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**148** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -41,7 +41,6 @@
 | U.S. Bank | 2027 Quantitative Modeling Summer Intern | Charlotte, NC | Undergrad | [Apply](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Summer-Intern_2026-0027558?utm_source=aprameyak) | Sep 8 |
 | Schonfeld Strategic Advisors | 2027 PhD Quantitative Research Intern | New York, NY | PhD | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172074?utm_source=aprameyak) | Sep 4 |
 | ↳ | 2027 PhD Quantitative Research Intern | Miami, FL | PhD | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172076?utm_source=aprameyak) | Sep 4 |
-| Akuna Capital 🇺🇸 | Quantitative Research Intern | Chicago, IL | Undergrad | [Apply](https://akunacapital.com/careers/job/8036614/?gh_jid=8036614&utm_source=aprameyak) | Sep 1 |
 | Barclays | Quantitative Finance Associate Summer Internship Program 2027 New York | New York, NY | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099?utm_source=aprameyak) | Sep 1 |
 | Clearwater Analytics | Quant Developer Intern | New York, NY | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/Quant-Developer-Intern_R12185?utm_source=aprameyak) | Sep 1 |
 | Goldman Sachs | The Core Quantitative Strats — Summer Analyst | Dallas, TX | Undergrad | [Apply](https://higher.gs.com/roles/171534?type=students&utm_source=aprameyak) | Sep 1 |
@@ -61,19 +60,15 @@
 | ↳ | Quant Research Analyst Intern - Client Solutions & Analytics | Newport Beach, CA | Masters | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816?utm_source=aprameyak) | Sep 1 |
 | ↳ | Quantitative Portfolio Management Intern | Newport Beach, CA | Masters | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830?utm_source=aprameyak) | Sep 1 |
 | ↳ | Quantitative Research Analyst Intern - Portfolio Management | Newport Beach, CA | Masters | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749?utm_source=aprameyak) | Sep 1 |
-| ↳ | Quant Research Analyst Intern - Client Solutions & Analytics | Newport Beach, CA | Undergrad | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---PhD-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106815?utm_source=aprameyak) | Sep 1 |
 | Quantbot Technologies | Quantitative Researcher Intern | New York, NY | Undergrad | [Apply](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | Sep 1 |
 | Tower Research | Quantitative Developer Intern | Chicago, ILNew York, NY | Undergrad | [Apply](https://tower-research.com/open-positions/?gh_jid=8044334&utm_source=aprameyak) | Sep 1 |
-| Two Sigma | Quantitative Researcher Intern | New York, NY | Undergrad | [Apply](https://twosigma.avature.net/careers/JobDetail/13945?utm_source=aprameyak) | Sep 1 |
 | Wells Fargo | Quantitative Analytics Intern - Applied Computational Intelligence | Charlotte, NC | Masters | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-PhD----Early-Careers_R-571703?utm_source=aprameyak) | Aug 29 |
-| Belvedere Trading | Quantitative Trading Intern | Chicago, IL | Undergrad | [Apply](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply?utm_source=aprameyak) | Aug 28 |
 | Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | New York, NY | PhD | [Apply](https://higher.gs.com/roles/171535?type=students&utm_source=aprameyak) | Aug 28 |
 | Hudson River Trading | Algorithm Development Intern - Quant Research | New York, NY | PhD | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837&utm_source=aprameyak) | Aug 28 |
 | InfiniteQuant | Quantitative Developer Internship | New York, NY | Undergrad | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134?utm_source=aprameyak) | Aug 28 |
 | ↳ | Quantitative Researcher Intern | New York, NY | PhD | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421?utm_source=aprameyak) | Aug 28 |
 | Wells Fargo | Quantitative Analytics Intern - Risk Analytics and Decision Sciences | Charlotte, NC | PhD | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-PhD----Early-Careers_R-569912?utm_source=aprameyak) | Aug 28 |
 | ↳ | Quantitative Analytics Intern - Multiple Teams | Charlotte, NC | PhD | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279?utm_source=aprameyak) | Aug 28 |
-| ↳ | Quantitative Analytics Intern - Multiple Teams | Charlotte, NC | PhD | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-Masters----Early-Careers_R-569402?utm_source=aprameyak) | Aug 28 |
 | ↳ | Quantitative Analytics Intern - Capital Markets - Masters | Charlotte, NC | PhD | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270?utm_source=aprameyak) | Aug 28 |
 | Optiver | Quantitative Intern | Austin, TX | Undergrad | [Apply](https://www.optiver.com/join-us/jobs/8682750002/?utm_source=aprameyak) | Aug 24 |
 | Point72 | Quantitative Software Developer Intern | New York, NY | Undergrad | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?utm_source=aprameyak) | Aug 17 |

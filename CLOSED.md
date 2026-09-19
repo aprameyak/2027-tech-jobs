@@ -1,10 +1,10 @@
 # Closed Listings
 
-**2755** closed listing(s) (🔒). Kept for history — roles existed but are no longer accepting applications. Back to [`README`](./README.md).
+**2838** closed listing(s) (🔒). Kept for history — roles existed but are no longer accepting applications. Back to [`README`](./README.md).
 
 ## ☀️ Summer 2027 Internships
 
-1226 closed
+1279 closed
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -18,6 +18,8 @@
 | ↳ | AI Engineer Intern | San Jose, CAMcLean, VANYC | Masters | 🔒 | Sep 19 |
 | Capula | Trading and Research Intern | London, UK | Undergrad | 🔒 | Sep 19 |
 | Chicago Trading Company | Quant Trading Intern | London, UK | Undergrad | 🔒 | Sep 19 |
+| Clearwater Analytics | Product Management Intern | Office - New York | Undergrad | 🔒 | Sep 19 |
+| ↳ | Product Management Intern | Office - New York | Undergrad | 🔒 | Sep 19 |
 | Cogna | Software Engineer Intern | London, UK | Masters | 🔒 | Sep 19 |
 | DV Trading | Software Engineer Intern - DV Commodities | London, UK | Undergrad | 🔒 | Sep 19 |
 | Figma | Software Engineer Intern - Multiple Teams | London, UK | Undergrad | 🔒 | Sep 19 |
@@ -44,17 +46,22 @@
 | ↳ | AI Engineering Intern | London, UK | Undergrad | 🔒 | Sep 19 |
 | Waymo | MS/PhD Intern - Sim-Realism ML Infrastructure | London, UK | Masters; PhD | 🔒 | Sep 19 |
 | ↳ | Software Engineering Intern - Multiple Teams | London, UK | Masters | 🔒 | Sep 19 |
+| Clearwater Analytics | Product Management Intern | Office - New York | Undergrad | 🔒 | Sep 18 |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA | Atlanta, GA | Undergrad | 🔒 | Sep 16 |
 | ↳ | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL | Sunrise, FL | Undergrad | 🔒 | Sep 16 |
 | ↳ | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY | New York, NY | Undergrad | 🔒 | Sep 16 |
 | ↳ | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA | Atlanta, GA | Masters | 🔒 | Sep 16 |
 | ↳ | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL | Sunrise, FL | Masters | 🔒 | Sep 16 |
 | ↳ | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY | New York, NY | Masters | 🔒 | Sep 16 |
+| Booz Allen Hamilton | Systems Administrator Intern | Annapolis Junction, MD | Masters | 🔒 | Sep 16 |
 | Rockwell Automation | Intern, Product Management | Mequon, WI | Undergrad | 🔒 | Sep 16 |
 | RTX | Software Engineering Intern (Summer 2027) | ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D, FL | Undergrad | 🔒 | Sep 16 |
+| SingleStore | Software Engineer Intern | Remote (US) | Undergrad | 🔒 | Sep 16 |
 | Zipline | Technical Writer Intern | South San Francisco, CA | Undergrad | 🔒 | Sep 16 |
 | Apple | Software Undergrad Engineering Internships | Remote (US) | Undergrad | 🔒 | Sep 15 |
 | ↳ | Software Engineering Masters Internships | Remote (US) | Masters | 🔒 | Sep 15 |
+| General Dynamics Information Technology | Summer 2027 Software Development Internship | Falls Church, VA | Undergrad | 🔒 | Sep 15 |
+| ↳ | Summer 2027 Software Development Internship | Falls Church, VA | Undergrad | 🔒 | Sep 15 |
 | Intel | AI Solutions Engineering Undergraduate Intern | Hillsboro, OR | Undergrad | 🔒 | Sep 15 |
 | Northrop Grumman | 2027 Cyber Software Engineer Intern - Cincinnati OH | Cincinnati, OH | Undergrad | 🔒 | Sep 15 |
 | RTX | Software Engineering Intern (Summer 2027) | STATE COLLEGE-5A ~ 302 Science Park Rd ~ BLDG 5A, PA | Undergrad | 🔒 | Sep 15 |
@@ -63,6 +70,16 @@
 | ↳ | Internship – Raytheon Systems Security Engineer -Onsite | TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG, MA | Masters | 🔒 | Sep 15 |
 | ↳ | Internship – Raytheon Systems Security Engineer-Onsite | PORTSMOUTH-PS1 ~ 1847 W Main Rd ~ NIMITZ BLDG, RI | Masters | 🔒 | Sep 15 |
 | Micron Technology | Intern - IT Software Engineer | Boise, ID | Undergrad | 🔒 | Sep 14 |
+| Palo Alto Networks | Intern - Software Engineer | Palo Alto, CA | Undergrad | 🔒 | Sep 14 |
+| ↳ | Intern - Software Engineer | Palo Alto, CA | Undergrad | 🔒 | Sep 14 |
+| ↳ | Intern - Software Engineer | Palo Alto, CA | Undergrad | 🔒 | Sep 14 |
+| ↳ | Intern - Software Engineer | Palo Alto, CA | Undergrad | 🔒 | Sep 14 |
+| ↳ | Intern - Software Engineer | Palo Alto, CA | Undergrad | 🔒 | Sep 14 |
+| ↳ | Intern - Software Engineer | Palo Alto, CA | Undergrad | 🔒 | Sep 14 |
+| ↳ | Intern - Software Engineer | Palo Alto, CA | Undergrad | 🔒 | Sep 14 |
+| Peraton | Summer 2027 Data Science Intern | Herndon, VA | Undergrad | 🔒 | Sep 14 |
+| ↳ | Summer 2027 Cyber Research Intern | <details><summary>**4 locations**</summary>Silver Spring, MD</br>Basking Ridge, NJ</br>Bedford, NH</br>West Lafayette, IN</details> | Undergrad | 🔒 | Sep 14 |
+| ↳ | Summer 2027 Software Engineer Intern | <details><summary>**2 locations**</summary>Herndon, VA</br>Blacksburg, VA</details> | Undergrad | 🔒 | Sep 14 |
 | Philips | Intern – Software Engineering – Plymouth, MN – Summer 2027 | Plymouth, Minnesota, United States | Undergrad | 🔒 | Sep 14 |
 | Raytheon | Software Platform Intern - Summer 2027 | Richardson, TX | Undergrad | 🔒 | Sep 14 |
 | ↳ | Software Engineering Intern - Summer 2027 | BURNSVILLE-WEST, MN | Undergrad | 🔒 | Sep 14 |
@@ -73,6 +90,7 @@
 | ↳ | Software Engineering Intern (Summer 2027) | AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75, CO | Undergrad | 🔒 | Sep 14 |
 | ↳ | Software Engineering Intern (Summer 2027) (Open) | AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77, CO | Undergrad | 🔒 | Sep 14 |
 | ↳ | Software Engineering Intern (Summer 2027) | CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166, IA | Undergrad | 🔒 | Sep 14 |
+| Clera | Research Engineer / Research Scientist Intern, Robotics and Physical AI | San Francisco, CA | Undergrad | 🔒 | Sep 12 |
 | CoreWeave | Associate Product Manager Intern | <details><summary>**5 locations**</summary>Livingston, NJ</br>New York, NY</br>Sunnyvale, CA</br>San Francisco, CA</br>Bellevue, WA</details> | Undergrad | 🔒 | Sep 12 |
 | Esri | Associate Product Manager Intern - Reality Mapping Capabilities | Redlands, CA | Undergrad | 🔒 | Sep 12 |
 | Instacart | Associate Product Manager Intern | Remote (US) | Undergrad | 🔒 | Sep 12 |
@@ -81,15 +99,21 @@
 | GlobalFoundries | Robotics and Automation Engineering Intern | USA - Vermont - Essex Junction | Undergrad | 🔒 | Sep 11 |
 | NewsBreak | Nearby AI Internship Program - Engineering Track | Mountain View, CA | Undergrad | 🔒 | Sep 11 |
 | ↳ | Nearby AI Internship Program - Marketing & Operation Track | Mountain View, CA | Undergrad | 🔒 | Sep 11 |
+| Red Hat | AI Ecosystem Intern | Boston, MA | Undergrad | 🔒 | Sep 10 |
 | Zipline | Data Analytics Intern | South San Francisco, CA | Undergrad | 🔒 | Sep 10 |
 | CACI | Junior Vulnerability Researcher (Cloud & Containers) | Florham Park, NJ, US | Undergrad | 🔒 | Sep 9 |
 | GE Vernova | Grid Automation & Software Intern | Remote (US) | Undergrad | 🔒 | Sep 9 |
+| Moog | Intern, Design Engineering | Mineral Wells, TX | Undergrad | 🔒 | Sep 9 |
 | Northrop Grumman | 2027 Data Analytics Intern - Clearfield UT | United States-Utah-Roy | Undergrad | 🔒 | Sep 9 |
+| Rocket Lab | Flight Software Intern | Littleton, CO | Undergrad | 🔒 | Sep 9 |
 | Micron Technology | Intern - Software Engineer | Boise, ID | Undergrad | 🔒 | Sep 8 |
 | Northrop Grumman | 2027  Systems Engineer Intern - Colorado Springs CO | United States-Colorado-Colorado Springs | Masters | 🔒 | Sep 8 |
 | ↳ | 2027 Software Engineering Intern - Roy UT | United States-Utah-Roy | Undergrad | 🔒 | Sep 8 |
 | ↳ | 2027 Systems Security Engineering Intern - Roy UT | United States-Utah-Roy | Masters | 🔒 | Sep 8 |
+| Verkada | Technical Support Engineering Intern | San Mateo, CA | Undergrad | 🔒 | Sep 8 |
 | Accenture Federal Services | ServiceNow Engineer – Junior | Quantico, VA | Undergrad | 🔒 | Sep 4 |
+| Ingredion | AI & Data Scientist Intern | Westchester, IL | Undergrad | 🔒 | Sep 4 |
+| Skydio | Product Design Engineer Intern | San Mateo, CA | Undergrad | 🔒 | Sep 4 |
 | Zipline | Aircraft Software Integration Intern | South San Francisco, CA | Undergrad | 🔒 | Sep 4 |
 | AnaVation | Computer Science Internship | Huntsville, AL | Undergrad | 🔒 | Sep 3 |
 | Northrop Grumman | 2027 Systems Engineer Intern - Azusa CA | United States-California-Azusa | Masters | 🔒 | Sep 3 |
@@ -98,6 +122,7 @@
 | ↳ | Machine Learning Engineer Intern | Multiple Locations | Undergrad | 🔒 | Sep 1 |
 | ↳ | Machine Learning Engineer Intern | Seattle, WA | Undergrad | 🔒 | Sep 1 |
 | AeroVironment | Software Engineering Intern | Sunrise, FL | Undergrad | 🔒 | Sep 1 |
+| Akuna Capital 🇺🇸 | Quantitative Research Intern | Chicago, IL | Undergrad | 🔒 | Sep 1 |
 | AMD | Software Engineer Intern/Co-op - Masters | San Jose, CA Santa Clara, CA | Undergrad | 🔒 | Sep 1 |
 | ↳ | Research Engineering Intern/Co-op - AMD Research | Multiple Locations | Undergrad | 🔒 | Sep 1 |
 | ↳ | Graphics Software Engineer Intern/Co-op | Markham, ON | Undergrad | 🔒 | Sep 1 |
@@ -172,6 +197,10 @@
 | ↳ | Technical Product Management Intern | New York, NY | Undergrad | 🔒 | Sep 1 |
 | Compeer Financial 🛂 | Data Analytics Intern | <details><summary>**5 locations**</summary>Lakeville, MN</br>Mankato, MN</br>Rochester, MN</br>Eau Claire, WI</br>Bloomington, IL</details> | Undergrad; Masters | 🔒 | Sep 1 |
 | Cvent | Software Engineer Intern | Tysons, VA | Undergrad | 🔒 | Sep 1 |
+| DraftKings | Software Engineer Intern | Boston, MA | Undergrad | 🔒 | Sep 1 |
+| Epic Games | Gameplay Programmer Intern | Cary, NC | Undergrad | 🔒 | Sep 1 |
+| ↳ | Frontend Programmer Intern | Cary, NC | Undergrad | 🔒 | Sep 1 |
+| ↳ | Gameplay Programmer Intern | Cary, NC | Undergrad | 🔒 | Sep 1 |
 | Exelon | Data Science Intern - Data Science/Analytics | Multiple Locations | Undergrad | 🔒 | Sep 1 |
 | Fannie Mae | Data Science Intern - Analytics & Modeling Program | Washington, DC | Undergrad | 🔒 | Sep 1 |
 | Futurewei Technologies | Research Intern, Generative AI & World Modeling | Basking Ridge, NJ | PhD | 🔒 | Sep 1 |
@@ -186,6 +215,7 @@
 | IMC | Software Engineer Intern | Chicago, IL | Undergrad | 🔒 | Sep 1 |
 | KPMG | Technical Consultant Intern Co-op - Global Compliance and Transformation | Toronto, ON | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer | Toronto, ON | Undergrad | 🔒 | Sep 1 |
+| Mastercard | Data Scientist Intern | O'Fallon, MO | Undergrad | 🔒 | Sep 1 |
 | Medline | RPA & Agentic AI Software Technologies Intern | Northbrook, IL | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Development Intern | Remote (US) | Undergrad | 🔒 | Sep 1 |
 | Medpace | Python Intern | Cincinnati, OH | Undergrad | 🔒 | Sep 1 |
@@ -202,11 +232,15 @@
 | NVIDIA | Software Engineering Intern | Canada Santa Clara, CA | Undergrad | 🔒 | Sep 1 |
 | ↳ | Computer Vision and Deep Learning Intern | Santa Clara, CA | Masters | 🔒 | Sep 1 |
 | Optiver | Quantitative Intern | Austin, TX | Undergrad | 🔒 | Sep 1 |
+| ↳ | Software Engineer Intern | Chicago, IL | Undergrad | 🔒 | Sep 1 |
 | Panasonic Holdings | Back-End Cloud Developer Intern | Bridgeton, MO | Undergrad | 🔒 | Sep 1 |
+| PIMCO | Quant Research Analyst Intern - Client Solutions & Analytics | Newport Beach, CA | Undergrad | 🔒 | Sep 1 |
 | Prudential Financial | 2027 Technology Internship Program | Newark, NJ | Undergrad | 🔒 | Sep 1 |
 | RTX | Software Engineer Intern | Aurora, CO | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer Intern | Cedar Rapids, IA | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer Intern | Cedar Rapids, IA | Undergrad | 🔒 | Sep 1 |
+| ↳ | Software Engineer Intern | Cedar Rapids, IA | Undergrad | 🔒 | Sep 1 |
+| ↳ | Software Engineer Intern | Richardson, TX | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer Intern | Cedar Rapids, IA | Undergrad | 🔒 | Sep 1 |
 | Sierra | Software Engineer Intern | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> | Undergrad | 🔒 | Sep 1 |
 | StarSling 🇺🇸 | Software Engineer Intern | San Mateo, CA | Undergrad | 🔒 | Sep 1 |
@@ -215,6 +249,7 @@
 | Susquehanna | Trading System Engineering Intern | Bala Cynwyd, PA | Undergrad | 🔒 | Sep 1 |
 | Susquehanna Investment Group | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | Undergrad | 🔒 | Sep 1 |
 | Teledyne | Software Engineer Intern - NHRC | Huntsville, AL | Undergrad | 🔒 | Sep 1 |
+| ↳ | Software Engineer Intern - NHRC | Huntsville, AL | Undergrad | 🔒 | Sep 1 |
 | Terranox AI 🇺🇸 | Summer Intern - AI/ML Engineering | San Francisco, CA | Undergrad | 🔒 | Sep 1 |
 | The Home Depot | Software Engineer Intern | Atlanta, GA | Undergrad | 🔒 | Sep 1 |
 | ↳ | Product Management Intern | Atlanta, GA | Undergrad | 🔒 | Sep 1 |
@@ -336,6 +371,7 @@
 | Trane Technologies | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC | Undergrad | 🔒 | Sep 1 |
 | ↳ | AI & Analytics Intern | Minneapolis, MN | Undergrad | 🔒 | Sep 1 |
 | Trata 🇺🇸 | Research Scientist Intern | San Francisco, CANew York, NY | Undergrad | 🔒 | Sep 1 |
+| Two Sigma | Quantitative Researcher Intern | New York, NY | Undergrad | 🔒 | Sep 1 |
 | Uline | Software Development Intern | Multiple Locations | Undergrad | 🔒 | Sep 1 |
 | Verdantas | Data Analytics Intern | Remote, TX | Undergrad | 🔒 | Sep 1 |
 | Voloridge Investment Management | Quantitative Developer Intern | Jupiter, FL | Undergrad | 🔒 | Sep 1 |
@@ -395,6 +431,7 @@
 | N1 | Software Engineer Intern (Fullstack) | New York, NY | Undergrad | 🔒 | Aug 30 |
 | Palantir | Information Security Engineer, Internship | New York, NY | Undergrad | 🔒 | Aug 30 |
 | Philips | Intern - Data AI/ML Engineering | Plymouth, MN | Undergrad | 🔒 | Aug 30 |
+| SteerBridge | Junior Software Engineer | Vienna, VA | Undergrad | 🔒 | Aug 30 |
 | The Hartford | Tech & Data Program Summer 2027 - Data Engineer Intern (Chicago) | Chicago, IL | Undergrad | 🔒 | Aug 30 |
 | ↳ | Tech & Data Program Summer 2027 - Data Engineer Intern (Columbus) | Columbus, OH | Undergrad | 🔒 | Aug 30 |
 | ↳ | Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford) | Hartford, CT | Undergrad | 🔒 | Aug 30 |
@@ -428,7 +465,9 @@
 | ↳ | Software Engineering Masters Internships | Remote (US) | Masters | 🔒 | Aug 29 |
 | ↳ | Software PhD Internships | Remote (US) | PhD | 🔒 | Aug 29 |
 | ↳ | Software Undergrad Engineering Internships | Remote (US) | Undergrad | 🔒 | Aug 29 |
+| Astreya | AI Infrastructure DC Design Intern | Remote (US) | Undergrad | 🔒 | Aug 29 |
 | Atoms | Software Engineer Intern | <details><summary>**5 locations**</summary>New York, NY</br>Seattle, WA</br>Los Angeles, CA</br>Mountain View, CA</br>San Francisco, CA</details> | Undergrad | 🔒 | Aug 29 |
+| Blackstone | Data Science Summer Analyst | New York, NY | Undergrad | 🔒 | Aug 29 |
 | Booz Allen | Applied AI Intern - University | Washington, DC | Undergrad | 🔒 | Aug 29 |
 | Charles Schwab | Technology 2027 Intern - AI & CyberSecurity | <details><summary>**4 locations**</summary>Austin, TX</br>Southlake, TX</br>Westlake, TX</br>Phoenix, AZ</details> | Undergrad | 🔒 | Aug 29 |
 | Cisco | AI Researcher II (Intern) - United St... | San Francisco, CA | Undergrad | 🔒 | Aug 29 |
@@ -440,9 +479,15 @@
 | ↳ | Machine Learning Researcher - PhD Intern - US | Miami, FL | PhD | 🔒 | Aug 29 |
 | Copart | Data Engineering Intern | Dallas, TX | Undergrad | 🔒 | Aug 29 |
 | Disney | Software Engineering Intern | Orlando, FL | Undergrad | 🔒 | Aug 29 |
+| DRW | Software Developer Intern | Montreal, QC | Undergrad | 🔒 | Aug 29 |
+| ↳ | AI/ML Research Intern | Montreal, QC | Undergrad | 🔒 | Aug 29 |
+| GE Vernova | Controls Product Management Intern | <details><summary>**2 locations**</summary>Longmont, CO</br>Greenville, SC</details> | Undergrad | 🔒 | Aug 29 |
+| Heliux | Software Engineer Intern | San Francisco, CA | Undergrad | 🔒 | Aug 29 |
+| Honeywell | Software Engineer Intern - Computer Science | Remote (US) | Undergrad | 🔒 | Aug 29 |
 | KPMG | Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer | Toronto, ON | Undergrad | 🔒 | Aug 29 |
 | Medpace | Python Intern | Cincinnati, OH | Undergrad | 🔒 | Aug 29 |
 | Mercedes-Benz R&D North America | ​​AI Program Manager Intern​ | San Jose, CA | Undergrad | 🔒 | Aug 29 |
+| Microsoft | Software Engineering INTERN | Remote (US) | Undergrad | 🔒 | Aug 29 |
 | Naïve | Software Engineer Intern | San Francisco, CA | Undergrad | 🔒 | Aug 29 |
 | NBCUniversal | KVDA  Tech Ops Internship | San Antonio, TX | Undergrad | 🔒 | Aug 29 |
 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Generative AI | Santa Clara, CA | PhD | 🔒 | Aug 29 |
@@ -531,6 +576,8 @@
 | ↳ | Cybersecurity Intern | Phoenix, AZ | Undergrad | 🔒 | Aug 28 |
 | AnaVation | Computer Science Intern | Huntsville, AL | Undergrad | 🔒 | Aug 28 |
 | Arthur J. Gallagher & Co. | Data Analytics Intern | Rolling Meadows, IL | Undergrad | 🔒 | Aug 28 |
+| Belvedere Trading | Software Engineer Intern | Chicago, IL | Undergrad | 🔒 | Aug 28 |
+| ↳ | Quantitative Trading Intern | Chicago, IL | Undergrad | 🔒 | Aug 28 |
 | Brunswick | Software Engineering Intern | Champaign, IL | Undergrad | 🔒 | Aug 28 |
 | Charles Schwab | Software Engineering Intern - Technology | <details><summary>**3 locations**</summary>6 locationsAustin, TX</br>Westlake, TX</br>Ann Arbor, MI</details> | Undergrad | 🔒 | Aug 28 |
 | ↳ | Data Engineering Intern - Data Engineering | <details><summary>**3 locations**</summary>Austin, TX</br>Westlake, TX</br>Southlake, TX</details> | Undergrad | 🔒 | Aug 28 |
@@ -700,6 +747,7 @@
 | ↳ | Research Scientist Intern - TikTok-Data-Content Intelligence - 2027 Start - PhD | San Jose, CA | PhD | 🔒 | Aug 28 |
 | ↳ | Research Scientist Intern - TikTok-Recommendation - 2027 Start - PhD | San Jose, CA | PhD | 🔒 | Aug 28 |
 | ↳ | Applied Scientist Intern - Recommendation AI Lab - 2026 Start - PhD | San Jose, CA | PhD | 🔒 | Aug 28 |
+| Wells Fargo | Quantitative Analytics Intern - Multiple Teams | Charlotte, NC | PhD | 🔒 | Aug 28 |
 | Zipline | Software Engineer Intern | South SF | Undergrad | 🔒 | Aug 28 |
 | Google | Software Engineering Intern, PhD | <details><summary>**19 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Bellevue, WA</br>Chicago, IL</br>Houston, TX</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>New York, NY</br>Palo Alto, CA</br>Pittsburgh, PA</br>Raleigh, NC</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Sunnyvale, CA</details> | PhD | 🔒 | Aug 26 |
 | Leidos | Junior Software Engineer | Laurel, MD | Undergrad | 🔒 | Aug 26 |
@@ -707,7 +755,9 @@
 | AMD | Software Engineer Intern/Co-op | <details><summary>**2 locations**</summary>San Jose, CA</br>Santa Clara, CA</details> | Undergrad | 🔒 | Aug 25 |
 | Atoms | Robotics Software Engineer Intern | <details><summary>**2 locations**</summary>Los Angeles, CA</br>Pittsburgh, PA</details> | Undergrad | 🔒 | Aug 25 |
 | Autodesk | PhD Intern - AI Researcher for CAD (B-Rep) Generation | Toronto, ON | PhD | 🔒 | Aug 25 |
+| Blackstone | Software Engineer Summer Analyst | Miami, FL | Undergrad | 🔒 | Aug 25 |
 | Booz Allen Hamilton | Software Engineer Intern | Bremerton, WA | Undergrad | 🔒 | Aug 25 |
+| Crowe | AI Functional Intern | Chicago, IL | Undergrad | 🔒 | Aug 25 |
 | GE Aerospace | Digital Technology Intern | Atlanta, GA | Undergrad | 🔒 | Aug 25 |
 | GE Vernova | Grid Automation & Software Intern | Remote (US) | Undergrad | 🔒 | Aug 25 |
 | ↳ | Energy Optimization Software Engineer Intern | Bellevue, WA | Undergrad | 🔒 | Aug 25 |
@@ -756,7 +806,10 @@
 | ↳ | Software Engineer I Intern, Enterprise Technology Services | Phoenix, AZ | Masters | 🔒 | Aug 17 |
 | ↳ | Cybersecurity Analyst Intern, Enterprise Technology Services | Phoenix, AZ | Undergrad | 🔒 | Aug 17 |
 | ↳ | Cybersecurity Analyst Intern, Enterprise Technology Services | Phoenix, AZ | Masters | 🔒 | Aug 17 |
+| Campbell Soup Company | Data Science Intern | Camden, NJ | Undergrad | 🔒 | Aug 17 |
 | CNO Financial Group | Summer 2027 Fixed Income Credit Research Intern - ONSITE Carmel, IN | Carmel, IN | Undergrad | 🔒 | Aug 17 |
+| mthree | Junior Production Support/SRE Analyst | Halifax, NS | Undergrad | 🔒 | Aug 17 |
+| ↳ | Junior Production Support/SRE Analyst | Toronto, ON | Undergrad | 🔒 | Aug 17 |
 | Nelnet | Agentic AI Intern- Marketing and Communications | Lincoln, NE | Undergrad | 🔒 | Aug 17 |
 | Neuralink | Software Engineer Intern, BCI Applications | South San Francisco, CA | Undergrad | 🔒 | Aug 17 |
 | Point72 | Quantitative Developer Intern | New York, NY | Undergrad | 🔒 | Aug 17 |
@@ -1237,7 +1290,7 @@
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-219 closed
+228 closed
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
@@ -1265,10 +1318,13 @@
 | The Voleon Group | Research Intern | London, UK | Fall 2026 | Masters | 🔒 | Sep 19 |
 | TWG Global | AI Data Science Intern - AI/ML Center of Excellence | London, UK Remote in UK | Fall 2026 | Masters | 🔒 | Sep 19 |
 | Anduril | Winter 2027 Test Automation Engineer Co-op | Washington, DC | Co-op | Undergrad | 🔒 | Sep 15 |
-| RTX | Software Engineering Co-op (Summer/Fall 2027) | ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6, IL | Co-op | Undergrad | 🔒 | Sep 15 |
+| RTX | Software Engineering Co-op (Summer/Fall 2027) | WILSONVILLE-596 ~ 27500 SW Parkway Ave ~ BLDG 596, OR | Co-op | Undergrad | 🔒 | Sep 15 |
+| ↳ | Software Engineering Co-op (Summer/Fall 2027) | ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6, IL | Co-op | Undergrad | 🔒 | Sep 15 |
+| Loblaw Companies | Replenishment Optimization Data & Analytics - Co-op Student | 1 Presidents Choice Circle, Brampton, ON | Co-op | Undergrad | 🔒 | Sep 14 |
 | RTX | Software Engineering Co-op (Summer/ Fall 2027) | CEDAR RAPIDS-124 ~ 400 Collins Rd NE ~ BLDG 124, IA | Co-op | Undergrad | 🔒 | Sep 14 |
 | Northrop Grumman | 2027 Spring Co-op Cyber Software Engineer Intern - Cincinnati OH | United States-Ohio-Cincinnati | Co-op | Undergrad | 🔒 | Sep 10 |
 | Zipline | Data Analytics Intern | South San Francisco, CA | Spring 2027 | Undergrad | 🔒 | Sep 10 |
+| Sierra | Software Engineer Intern, Agent | San Francisco, CA | Winter 2027 | Undergrad | 🔒 | Sep 9 |
 | Disney | Commercial Data Science Intern | Celebration, FL, USA | Spring 2027 | Undergrad | 🔒 | Sep 4 |
 | ↳ | Disney Live Entertainment Technical Direction Intern | Kissimmee, FL, USA | Spring 2027 | Undergrad | 🔒 | Sep 4 |
 | Zipline | Aircraft Software Integration Intern | South San Francisco, CA | Spring 2027 | Undergrad | 🔒 | Sep 4 |
@@ -1277,6 +1333,7 @@
 | ISN Software | Software Developer Intern | Dallas, TX | Fall 2026 | Undergrad | 🔒 | Sep 1 |
 | Johnson & Johnson | Quality Data Science Co-op - MD Q&C Digital Solutions | Cincinnati, OH | Co-op | Undergrad | 🔒 | Sep 1 |
 | ↳ | Quality Data Science Co-op - MD Q&C Digital Solutions | Cincinnati, OH | Co-op | Undergrad | 🔒 | Sep 1 |
+| ↳ | Data Science Co-Op | Cincinnati, OH | Co-op | Undergrad | 🔒 | Sep 1 |
 | PepsiCo | Data Science Co-op | Mississauga, ON | Winter 2027 | Undergrad | 🔒 | Sep 1 |
 | Philips | Data Scientist Co-op | Plymouth, MN | Co-op | Undergrad | 🔒 | Sep 1 |
 | ↳ | Co-op – Software Engineer (R&D) – Cambridge, MA – January - August | Cambridge (US), Massachusetts, United States | Co-op | Undergrad | 🔒 | Sep 1 |
@@ -1297,6 +1354,7 @@
 | Workiva | Spring 2027 Intern - Data Analytics | Remote | Spring 2027 | Undergrad | 🔒 | Aug 30 |
 | Johnson & Johnson | Data Operations & Analytics Fall Co-op | Somerset, NJ | Co-op | Undergrad | 🔒 | Aug 29 |
 | Leidos | Software Developer Co-op | Bethesda, MD | Co-op | Undergrad | 🔒 | Aug 29 |
+| Notion | Software Engineer Intern | San Francisco, CA | Winter 2027 | Undergrad | 🔒 | Aug 29 |
 | Philips | Co-op – Software Test Automation Engi... | Orange, OH | Co-op | Undergrad | 🔒 | Aug 29 |
 | Disney | Labor Systems Data Analytics & Integration Intern | Lake Buena Vista, FL | Spring 2027 | Masters | 🔒 | Aug 25 |
 | ↳ | WDW Computer Science / Computer Engineering Interns | Lake Buena Vista, FL | Spring 2027 | Undergrad | 🔒 | Aug 25 |
@@ -1315,10 +1373,13 @@
 | Cloudflare | Software Engineer Intern | Austin, TX | Fall 2026 | Undergrad | 🔒 | Aug 19 |
 | Vanguard | Fall/Winter Co-op — Application & AI Engineer | Malvern, PA | Fall 2026 | Undergrad | 🔒 | Aug 18 |
 | ↳ | Fall/Winter Co-op — Mobile Engineer | Charlotte, NC | Fall 2026 | Undergrad | 🔒 | Aug 18 |
+| Campbell Soup Company | Agentic AI Engineer Co-Op | Remote (US) | Co-op | Undergrad | 🔒 | Aug 17 |
+| ↳ | Data Engineer, DA&AI Co-Op | Camden, NJ | Co-op | Undergrad | 🔒 | Aug 17 |
 | Capital One | Full Stack Software Engineer Intern | Toronto, ON | Winter 2027 | Undergrad | 🔒 | Aug 17 |
 | ↳ | Mobile Software Engineer Intern | Toronto, ON | Winter 2027 | Undergrad | 🔒 | Aug 17 |
 | ↳ | Backend Software Engineer Intern | Toronto, ON | Winter 2027 | Undergrad | 🔒 | Aug 17 |
 | Datadog | Software Engineering Intern | <details><summary>**2 locations**</summary>Boston, MA</br>New York, NY</details> | Winter 2027 | Undergrad | 🔒 | Aug 17 |
+| Figma | Software Engineer Intern | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> | Winter 2027 | Undergrad | 🔒 | Aug 17 |
 | GlobalFoundries | Factory Automation Engineering Intern | Malta, NY | Fall 2026 | Undergrad | 🔒 | Aug 17 |
 | Postman | AI Engineer, Internship - Summer 2026 - Applications Open Now | <details><summary>**2 locations**</summary>Berkeley, CA</br>San Francisco, CA</details> | Summer 2026 | Undergrad | 🔒 | Aug 17 |
 | Western Digital | Software Engineering Co-Op | Rochester, MN | Co-op | Undergrad | 🔒 | Aug 17 |
@@ -1326,6 +1387,7 @@
 | SharkNinja | SQA Automation Engineering Co-op | Needham, MA | Fall 2026 | Undergrad | 🔒 | Aug 14 |
 | PathAI | Software Engineering Co-op: September - December | Boston, MA | Fall 2026 | Undergrad | 🔒 | Aug 11 |
 | Ciena | Development Engine Infrastructure DevOps Co-op | Ottawa, ON | Co-op | Undergrad | 🔒 | Aug 10 |
+| Melius | Software Engineering Intern | New York, NY | Fall 2026 | Undergrad | 🔒 | Aug 9 |
 | The Nuclear Company | AI/ML Engineering Intern | Washington, DC | Fall 2026 | Undergrad | 🔒 | Aug 9 |
 | ↳ | AI Software Engineering Intern | Washington, DC | Fall 2026 | Undergrad | 🔒 | Aug 9 |
 | ↳ | Data Science Intern | Washington, DC | Spring 2027 | Undergrad | 🔒 | Aug 9 |
@@ -1463,7 +1525,7 @@
 
 ## 🎓 New Grad 2027
 
-1310 closed
+1331 closed
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
@@ -1509,15 +1571,20 @@
 | ↳ | Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ |  | Masters | 🔒 | Sep 16 |
 | NVIDIA | Research Scientist, Human‑AI Perception and Interaction Research - PhD New College Grad 2026 | Santa Clara, CA | Spring 2026 | PhD | 🔒 | Sep 16 |
 | Rakuten International | Early Career AI Engineer (Contract) | Bellevue, WA |  | Undergrad | 🔒 | Sep 16 |
+| SingleStore | Software Engineer-New Grad 2027 | Remote (US) | Spring 2027 | Undergrad | 🔒 | Sep 16 |
 | Clarity Innovations | Junior Data Analyst | Hurlburt Field, FL |  | Undergrad | 🔒 | Sep 15 |
 | Freddie Mac | Software Engineer, Associate II | McLean, VA |  | Undergrad | 🔒 | Sep 15 |
 | MITRE 🛂 🇺🇸 | Associate Data Scientist | <details><summary>**2 locations**</summary>McLean, VA</br>Bedford, MA</details> |  | Undergrad | 🔒 | Sep 15 |
 | Northrop Grumman | Associate Data Scientist/Data Scientist | Palmdale, CA |  | Undergrad | 🔒 | Sep 15 |
 | Capital One 🛂 | Technology Development Program Associate - August 2027 | <details><summary>**3 locations**</summary>McLean, VA</br>Richmond, VA</br>Plano, TX</details> |  | Undergrad | 🔒 | Sep 14 |
 | KBR | Junior Software Developer | Beavercreek Township, OH |  | Undergrad | 🔒 | Sep 14 |
+| mthree | Junior Software Engineer | Remote (US) |  | Undergrad | 🔒 | Sep 14 |
+| Peraton | Cyber Security Specialist, Associate | Fort Huachuca, AZ |  | Undergrad | 🔒 | Sep 14 |
 | T. Rowe Price | 2026 Global Technology - Associate Software Engineer | Owings Mills, MD | Spring 2026 | Undergrad | 🔒 | Sep 14 |
-| Accenture Federal Services | Associate Software Engineer – Hire-to-Train Program (Pega) | Washington, DC |  | Undergrad | 🔒 | Sep 12 |
+| Accenture Federal Services | Associate Software Engineer-Hire-to-Train Program (Pega) | Washington, DC |  | Undergrad | 🔒 | Sep 12 |
+| ↳ | Associate Software Engineer – Hire-to-Train Program (Pega) | Washington, DC |  | Undergrad | 🔒 | Sep 12 |
 | Northrop Grumman | 2026 Associate Software Dev Analyst / Software Dev Analyst - Remote | Remote (US) | Spring 2026 | Undergrad | 🔒 | Sep 12 |
+| Verkada | Technical Support Engineer - University Graduate | San Mateo, CA | Spring 2027 | Undergrad | 🔒 | Sep 8 |
 | Cognizant | Full Stack Software Developer | Plano, TX |  | Undergrad | 🔒 | Sep 4 |
 | DV Trading LLC | Software Developer | Chicago, IL |  | Undergrad | 🔒 | Sep 4 |
 | GlobalFoundries | Software Engineer, Cloud Platform (2027 New College Graduate) | USA - California - Santa Clara | Spring 2027 | Undergrad | 🔒 | Sep 4 |
@@ -1552,7 +1619,11 @@
 | Boerboel | New Grad: Developer | New York, NYChicago, IL |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | New Grad: Quantitative Researcher | New York, NYChicago, IL |  | Undergrad | 🔒 | Sep 1 |
 | Cadence | Software Engineer I | San Jose, CA |  | Undergrad | 🔒 | Sep 1 |
-| Cadence Design Systems | Application Software Developer New Grad | Livonia, MI | Spring 2026 | Undergrad | 🔒 | Sep 1 |
+| Cadence Design Systems | Multibody Dynamics Application Software Developer New Grad - Adams | Livonia, MI | Spring 2026 | Undergrad | 🔒 | Sep 1 |
+| ↳ | Application Software Developer New Grad | Livonia, MI | Spring 2026 | Undergrad | 🔒 | Sep 1 |
+| ↳ | Application Software Developer New Grad | Livonia, MI | Spring 2026 | Undergrad | 🔒 | Sep 1 |
+| ↳ | Multibody Dynamics Application Software Developer New Grad - Adams | Livonia, MI | Spring 2026 | Undergrad | 🔒 | Sep 1 |
+| ↳ | Application Software Developer New Grad | Livonia, MI | Spring 2026 | Undergrad | 🔒 | Sep 1 |
 | Capco | Junior AI / Data Engineering Analyst - Technology & Engineering | Orlando, FL |  | Undergrad | 🔒 | Sep 1 |
 | Cellular Sales | Junior Data Engineer | Knoxville, TN |  | Undergrad | 🔒 | Sep 1 |
 | Chewy | Software Engineer I | Bellevue, WA |  | Undergrad | 🔒 | Sep 1 |
@@ -1591,6 +1662,7 @@
 | ↳ | Software Engineering/ML/Data Scientist New Grad - Intelligence Systems | Laurel, MD |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | AI/ML Data Scientist/Engineer New Grad - Analytic Capabilities | Laurel, MD |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Machine Learning PhD New Grad - Artificial Intelligence | Laurel, MD |  | Masters | 🔒 | Sep 1 |
+| KBR | Junior Software Engineer | Beavercreek, OH |  | Undergrad | 🔒 | Sep 1 |
 | L3Harris Technologies | Software Engineer New Grad | Salt Lake City, UT |  | Undergrad | 🔒 | Sep 1 |
 | Leidos | Junior Software Engineer - Intel Sector | Laurel, MD |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Junior Software Engineer - Intel Sector | Laurel, MD |  | Undergrad | 🔒 | Sep 1 |
@@ -1606,6 +1678,7 @@
 | Pinterest | New Grad 2026: Software Engineer | Palo Alto, CASeattle, WASF | Spring 2026 | Undergrad | 🔒 | Sep 1 |
 | Publicis Groupe | Junior Data Analyst | Toronto, ON |  | Undergrad | 🔒 | Sep 1 |
 | QuinStreet | Software Engineer | Foster City, CA |  | Undergrad | 🔒 | Sep 1 |
+| RELX | Software Engineer New Grad | Alpharetta, GA |  | Undergrad | 🔒 | Sep 1 |
 | Roblox | New Grad 2026: Associate Product Manager | San Mateo, CA | Spring 2026 | Undergrad | 🔒 | Sep 1 |
 | ↳ | New Grad 2026: Associate Product Designer | San Mateo, CA | Spring 2026 | Undergrad | 🔒 | Sep 1 |
 | RTX 🛂 🇺🇸 | Software Engineer I | Cedar Rapids, IA |  | Undergrad | 🔒 | Sep 1 |
@@ -1616,6 +1689,7 @@
 | ↳ | Software Engineer 1 | Cedar Rapids, IA |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer 1 | Cedar Rapids, IA |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer 1 | Marlborough, MA |  | Undergrad | 🔒 | Sep 1 |
+| Sallie Mae | Early Career Development Program Associate - Analytics | Newark, DE |  | Undergrad | 🔒 | Sep 1 |
 | Sev1Tech | Entry Level Software Developer | Lawton, OK |  | Undergrad | 🔒 | Sep 1 |
 | Shopify | Demo Engineer, Software Development | Remote |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer - Monorepo Systems (Rust & Nix) | Remote |  | Undergrad | 🔒 | Sep 1 |
@@ -1628,6 +1702,8 @@
 | ↳ | Software Engineer - New Grad | Seattle, WASF |  | Undergrad | 🔒 | Sep 1 |
 | Supernova Technology | Junior Software Engineer | Chicago, IL |  | Undergrad | 🔒 | Sep 1 |
 | Susquehanna International Group (SIG) | New Grad: Software Developer, Sprc | Ardmore, PA |  | Undergrad | 🔒 | Sep 1 |
+| Tesla | Software Security Engineer, Energy Product Software | Palo Alto, CA |  | Undergrad | 🔒 | Sep 1 |
+| Texas Sports Academy | Junior Software Engineer - AI-Forward | Austin, TX |  | Undergrad | 🔒 | Sep 1 |
 | TikTok | Backend Software Engineer New Grad - Creator Strategy | San Jose, CA |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Frontend Software Engineer New Grad - Ads Interface | San Jose, CA |  | Undergrad | 🔒 | Sep 1 |
 | ↳ | Backend Software Engineer New Grad - Feed Safety | Seattle, WA |  | Undergrad | 🔒 | Sep 1 |
@@ -1672,6 +1748,9 @@
 | ↳ | New Grad 2026: Software Engineer | Bellevue, WA | Spring 2026 | Undergrad | 🔒 | Sep 1 |
 | ↳ | New Grad 2026: Associate Product Manager (APM) | Foster City, CA | Spring 2026 | Undergrad | 🔒 | Sep 1 |
 | WhatNot | Software Engineer New Grad | Multiple Locations |  | Undergrad | 🔒 | Sep 1 |
+| Wolverine Trading | Entry Level C++ Software Engineer | Chicago, IL |  | Undergrad | 🔒 | Sep 1 |
+| Wyetech | Software Engineer 1 | Annapolis Junction, MD |  | Undergrad | 🔒 | Sep 1 |
+| Zip | New Grad 2026: Software Engineer | San Francisco, CA | Spring 2026 | Undergrad | 🔒 | Sep 1 |
 | Capital One 🛂 | Technology Development Program Associate - February | <details><summary>**3 locations**</summary>McLean, VA</br>Richmond, VA</br>Plano, TX</details> |  | Undergrad | 🔒 | Aug 31 |
 | ↳ | Cyber Security Development Program Associate | <details><summary>**2 locations**</summary>McLean, VA</br>Plano, TX</details> |  | Undergrad | 🔒 | Aug 31 |
 | Google | Software Engineer, Systems Research, PhD, Early Career | <details><summary>**2 locations**</summary>Sunnyvale, CA</br>Seattle, WA</details> |  | PhD | 🔒 | Aug 31 |
@@ -1707,6 +1786,7 @@
 | CapTech Consulting | SaaS Platform Engineer | Denver, CO |  | Undergrad | 🔒 | Aug 29 |
 | ↳ | SaaS Platform Engineer | Columbus, OH |  | Undergrad | 🔒 | Aug 29 |
 | ↳ | SaaS Platform Engineer | Chicago, IL |  | Undergrad | 🔒 | Aug 29 |
+| Carnegie Mellon University | Data Engineer - School of Computer Sc... | Pittsburgh, PA |  | Undergrad | 🔒 | Aug 29 |
 | CIBC | Databricks Data Engineer, Risk Techno... | Chicago, IL |  | Undergrad | 🔒 | Aug 29 |
 | Circle | New Grad 2026: Software Engineer, Backend | Remote (US) | Spring 2026 | Undergrad | 🔒 | Aug 29 |
 | Citadel | Software Engineer – University Graduate | Greenwich, CTHouston, TXMiami, FLNYC |  | Masters | 🔒 | Aug 29 |
@@ -1755,6 +1835,7 @@
 | Quadient | Software Engineer | Vancouver |  | Undergrad | 🔒 | Aug 29 |
 | Ranger | Full-Stack Engineer (Experienced) | Denver, CO |  | Undergrad | 🔒 | Aug 29 |
 | ↳ | Full-Stack Engineer (Experienced) | San Francisco, CA |  | Undergrad | 🔒 | Aug 29 |
+| Replit | Security Engineer - Vuln Management (... | Foster City, CA |  | Undergrad | 🔒 | Aug 29 |
 | RTX | Software Engineer 1 | Huntsville, AL |  | Undergrad | 🔒 | Aug 29 |
 | ↳ | Data Engineer (Hybrid) | Santa Isabel, PR |  | Undergrad | 🔒 | Aug 29 |
 | Salesforce | Associate Product Manager (starting s... | San Francisco |  | Undergrad | 🔒 | Aug 29 |
@@ -1851,6 +1932,7 @@
 | ↳ | New Grad: Data Scientist | Pittsburgh, PA |  | Undergrad | 🔒 | Aug 28 |
 | Empower AI | Junior Software Developer - Systems Software | Remote |  | Undergrad | 🔒 | Aug 28 |
 | Epsilon | New Grad 2025: Associate, Software Engineer | Irving, TX | Spring 2025 | Undergrad | 🔒 | Aug 28 |
+| Freeform | Software Engineer New Grad | Los Angeles, CA |  | Undergrad | 🔒 | Aug 28 |
 | Garmin | Software Engineer 1 - Aviation Backend Web | Chanhassen, MN |  | Undergrad | 🔒 | Aug 28 |
 | General Dynamics Mission Systems | Software Engineer - Entry Level | Manassas, VA |  | Undergrad | 🔒 | Aug 28 |
 | ↳ | Software Engineer - Entry Level | Scottsdale, AZ |  | Undergrad | 🔒 | Aug 28 |
@@ -1921,6 +2003,7 @@
 | True Anomaly | Software Engineer 1 - QA | <details><summary>**2 locations**</summary>Long Beach, CA</br>Denver, CO</details> |  | Undergrad | 🔒 | Aug 25 |
 | Zebra Technologies | Software Engineer 1 | Lincolnshire, IL |  | Undergrad | 🔒 | Aug 25 |
 | Capital One | Associate, Software Engineer, New Grad Card Expansion | Toronto, ON |  | Undergrad | 🔒 | Aug 21 |
+| Datalab USA | Production Programmer - Entry Level SQL Developer | Germantown, MD |  | Undergrad | 🔒 | Aug 20 |
 | General Motors | Associate AI & Data Engineering Engineer | Warren, MI |  | Undergrad | 🔒 | Aug 19 |
 | American Express | Software Engineer I | <details><summary>**2 locations**</summary>New York, NY</br>Phoenix, AZ</details> |  | Undergrad | 🔒 | Aug 18 |
 | ↳ | Software Engineer I | <details><summary>**2 locations**</summary>Sunrise, FL</br>Charlotte, NC</details> |  | Undergrad | 🔒 | Aug 18 |
