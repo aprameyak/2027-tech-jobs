@@ -44,20 +44,24 @@ _SOFT_HARDWARE_SIGNALS = [
     'controls engineer',
 ]
 
-# SWE-adjacent keep signals — SWE, AI, MLE, PM, consultant, and close neighbors.
+# SWE-adjacent keep signals — anything software / devops / technology related,
+# plus AI, MLE, PM, consultant, and close neighbors.
 # If present, do not reject solely for soft-hardware / ASIC org tokens.
 _STRONG_KEEP = re.compile(
-    r'software engineer|software developer|software development|\bswe\b|\bsde\b|'
+    r'\bsoftware\b|\bdevops\b|\btechnology\b|\btechnologies\b|\btechnologist\b|'
+    r'\btech\b(?!\s*sales)|'
+    r'\bswe\b|\bsde\b|\bsre\b|site reliability|'
     r'software\s*/\s*hardware|hardware\s*/\s*software|'
-    r'software controls|vehicle software|'
     r'machine learning|\bmle\b|ml engineer|ai engineer|artificial intelligence|'
     r'gen ai|large language model|\bllm\b|applied science|'
     r'product manager|\bapm\b|associate product|'
-    r'data scientist|data engineer|data science|'
+    r'data scientist|data engineer|data science|data analyst|data analytics|'
+    r'developer|programming|computer science|'
     r'technical consultant|technology consultant|solutions (engineer|consultant)|'
-    r'technology consulting|it consultant|'
-    r'quantitative (research|trad|develop|analy)|'
-    r'cybersecurity|security engineer|devops|site reliability',
+    r'technology consulting|it consultant|information technology|'
+    r'quantitative (research|trad|develop|analy|technolog)|'
+    r'cybersecurity|security engineer|cloud engineer|platform engineer|'
+    r'backend|frontend|full-?stack',
     re.I,
 )
 

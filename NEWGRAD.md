@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-2604 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2593 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -9,7 +9,6 @@
 | Boeing | Astrodynamics Engineer (Entry-Level) - Millennium Space Systems | USA - El Segundo, CA |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Astrodynamics-Engineer--Entry-Level----Millennium-Space-Systems_JR2026524945-1?utm_source=aprameyak) | Sep 19 |
 | NVIDIA | Research Scientist, Networking Research - PhD New College Grad 2026 | US, CA, Santa Clara | Spring 2026 | PhD | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Networking-Research---PhD-New-College-Grad-2026_JR2024900-1?utm_source=aprameyak) | Sep 19 |
 | AIG | 2027 Early Careers: Analyst, Gen AI Engineering – United States, Atlanta, GA | GA-Atlanta | Spring 2027 | Undergrad | [Apply](https://aig.wd1.myworkdayjobs.com/en-US/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI-Data-Engineering---United-States--Atlanta--GA_JR2603744-1?utm_source=aprameyak) | Sep 18 |
-| Boeing | Entry Level ASIC/FPGA Design Engineer – Space Electronics - MTV | USA - Mountain View, CA |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433-1?utm_source=aprameyak) | Sep 18 |
 | CACI | Junior Engineer - Various Disciplines | Washington, DC, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Washington-DC-US/Junior-Engineer---Various-Disciplines_323041?utm_source=aprameyak) | Sep 18 |
 | KBR | Junior Software Developer | Beavercreek Township, OH |  | Undergrad | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Township-Ohio/Junior-Software-Developer_R2130253?utm_source=aprameyak) | Sep 18 |
 | Northrop Grumman | Associate Software Engineer / Software Engineer | United States-Alabama-Huntsville |  | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10249088?utm_source=aprameyak) | Sep 18 |
@@ -556,6 +555,7 @@
 | GlobalFoundries | Tapeout Engineer, 2026 New College Graduate | Austin, TX | Spring 2026 | Undergrad | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/Tapeout-Engineer--2026-New-College-Graduate_JR-2602561?utm_source=aprameyak) | Aug 17 |
 | Konrad Group | Software Developer (Entry Level) | Toronto, ON |  | Undergrad | [Apply](https://www.konrad.com/careers/job/5893240003?gh_jid=5893240003) | Aug 17 |
 | Northrop Grumman | 2026 Entry Level Engineering Opportunities | Falls Church, VA | Spring 2026 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-Falls-Church/XMLNAME-2026-Entry-Level-Engineering-Opportunities_R10238148?utm_source=aprameyak) | Aug 17 |
+| Radix Trading | Quantitative Technologist (Full-Time - FPGA Engineer, PhD) | Chicago, IL |  | PhD | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8521654002?utm_source=aprameyak) | Aug 17 |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002&utm_source=aprameyak) | Aug 17 |
 | ↳ | New Graduate Engineer, Silicon Engineering | Palo Alto, CA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002&utm_source=aprameyak) | Aug 17 |
 | ↳ | New Graduate Engineer, Silicon Engineering | Irvine, CA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002&utm_source=aprameyak) | Aug 17 |
