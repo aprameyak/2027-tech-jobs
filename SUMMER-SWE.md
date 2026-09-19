@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships — Software Engineering
 
-**765** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**763** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -34,9 +34,7 @@
 | Bass Pro Shops | IT Developer Intern | Springfield, MO | Undergrad | [Apply](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1?utm_source=aprameyak) | Sep 19 |
 | Bedrock Robotics | Software Engineer Intern - Fleet Platform | NYC | Undergrad | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Blackstone | Software Engineer Summer Analyst - Technology and Innovations | London, UK | Undergrad | [Apply](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358?utm_source=aprameyak) | Sep 19 |
-| Blue Origin | Software Developer Intern - Avionics Software | 4 locationsWashingtonLALongmont, CODenver, CO | Undergrad | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Graduate_R71434?utm_source=aprameyak) | Sep 19 |
-| ↳ | Avionics Software Intern - Undergraduate | Seattle, WA LA Longmont, CO Denver, CO | Undergrad | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Undergraduate_R71424?utm_source=aprameyak) | Sep 19 |
-| ↳ | Software Developer Intern - Undergraduate | Seattle, WA LA Denver, CO | Undergrad | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Undergraduate_R71425?utm_source=aprameyak) | Sep 19 |
+| Blue Origin | Software Developer Intern - Undergraduate | Seattle, WA LA Denver, CO | Undergrad | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Undergraduate_R71425?utm_source=aprameyak) | Sep 19 |
 | BNY | Engineering Intern - Developer | Greater Manchester, UK | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318) | Sep 19 |
 | Booz Allen | Software Developer Intern | Huntsville, AL | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394?utm_source=aprameyak) | Sep 19 |
 | British Columbia Investment | Software Engineer Co-op Intern - Investment Tech/Data & Analytics | Victoria, BC, CanadaVancouver, BC | Undergrad | [Apply](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596?utm_source=aprameyak) | Sep 19 |

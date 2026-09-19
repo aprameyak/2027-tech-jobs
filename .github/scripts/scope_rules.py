@@ -60,31 +60,82 @@ _SOFT_HARDWARE_SIGNALS = [
 # SWE-adjacent keep signals — anything software / devops / technology related,
 # plus AI, MLE, PM, consultant, and close neighbors.
 # If present, do not reject solely for soft-hardware / ASIC org tokens.
+# Positive CS / Info Science / Info Systems adjacency — required for every listing.
+_CS_ADJACENT = re.compile(
+    r'\bsoftware\b|\bdeveloper\b|\bprogrammer\b|programming|computer science|\bcs\b|'
+    r'information systems|\bmis\b|\bcis\b|information science|informatics|'
+    r'information technology|\bit\b(?!\s*wafer)|'
+    r'business information|business technology|digital technology|'
+    r'data scien|data engineer|data analyst|data analytics|analytics engineer|\banalytics\b|'
+    r'machine learning|\bmle\b|\bml\b|\bai\b(?!\s*creator)|artificial intelligence|'
+    r'gen\s*ai|genai|deep learning|\bllm\b|\bnlp\b|'
+    r'\bquant(?:itative)?\b|cyber|cybersecurity|infosec|information security|'
+    r'security (?:engineer|analyst|intern|co-?op|researcher)|'
+    r'\bdevops\b|\bsre\b|site reliability|reliability engineer|'
+    r'backend|frontend|front-end|full[-\s]?stack|platform engineer|cloud|'
+    r'product manag|\bapm\b|associate product|technical product|product design|'
+    r'design systems|design engineer|'
+    r'technical (?:consultant|support|advisor|program)|'
+    r'technology consultant|solutions (?:engineer|consultant)|'
+    r'technology (?:analyst|associate|intern|co-?ops?|consultant|development|developer)|'
+    r'\btech(?:nology|nologist|nical)?\b|\btechnolog|'
+    r'network (?:engineer|development|strategy|intern)|'
+    r'systems (?:engineer|administrator|analyst|admin)\b|'
+    r'database|\bsdet\b|\bqa\b|quality assurance|test automation|'
+    r'compiler|algorithm|infrastructure|automation engineer|'
+    r'applied (?:science|research)|research scientist|research engineer|'
+    r'research intern|student researcher|'
+    r'\bux\b|\bui\b|human.?computer|\bhci\b|'
+    r'forward deploy|\bswe\b|\bsde\b|'
+    r'web developer|mobile (?:engineer|developer|app)|'
+    r'ios engineer|android engineer|'
+    r'\bjava\b|\bpython\b|\bkubernetes\b|\blinux\b|\bwindows engineer\b|'
+    r'software development|platform engineering|'
+    r'\berp\b|salesforce|servicenow|workday (?:analyst|consultant|developer)|'
+    r'business analyst.*(?:tech|systems|data|it\b)|'
+    r'(?:tech|systems|data|it)\s*.*business analyst|'
+    r'\btrading\b.*(?:technolog|software|quant|engineer)|'
+    r'quantitative (?:research|trad|develop|analy|strat|technolog)|'
+    r'privacy (?:engineer|intern)|security and privacy',
+    re.I,
+)
+
+# Alias for soft checks (business analyst / consulting / marketing gates).
+_SCOPE_TECH_HINT = _CS_ADJACENT
+
+# SWE-adjacent keep signals — used when a hard-reject token is mixed with SWE.
 _STRONG_KEEP = re.compile(
     r'\bsoftware\b|\bdevops\b|\btechnology\b|\btechnologies\b|\btechnologist\b|'
     r'\btech\b(?!\s*sales)|'
     r'\bswe\b|\bsde\b|\bsre\b|site reliability|'
-    r'software\s*/\s*hardware|hardware\s*/\s*software|'
     r'machine learning|\bmle\b|ml engineer|ai engineer|artificial intelligence|'
     r'gen ai|genai|large language model|\bllm\b|applied science|'
     r'product manager|\bapm\b|associate product|'
     r'data scientist|data engineer|data science|data analyst|data analytics|'
     r'developer|programming|computer science|'
+    r'information systems|\bmis\b|\bcis\b|information science|informatics|'
     r'technical consultant|technology consultant|solutions (engineer|consultant)|'
     r'technology consulting|it consultant|information technology|'
-    r'quantitative (research|trad|develop|analy|technolog)|'
+    r'quantitative (research|trad|develop|analy|technolog|strat)|'
     r'cybersecurity|security engineer|cloud engineer|platform engineer|'
     r'backend|frontend|full-?stack',
     re.I,
 )
 
-_SCOPE_TECH_HINT = re.compile(
-    r'software|developer|programming|computer science|\bcs\b|data science|data engineer|'
-    r'data analyst|data analytics|machine learning|\bml\b|\bai\b|artificial intelligence|'
-    r'quantitative|quant|cyber|devops|sre|backend|frontend|full-?stack|platform engineer|'
-    r'cloud engineer|information technology|\bit\b|security engineer|product manager|'
-    r'product engineer|technology|\btech\b|technical program|business technology|'
-    r'digital technology|\berp\b|consultant|consulting',
+# Non-CS engineering / science — always out even if campus-shaped.
+_NON_CS_DISCIPLINE = re.compile(
+    r'\b('
+    r'propulsion|structures?\s+engineer|thermal\s+engineer|textile\s+engineer|'
+    r'reservoir\s+engineer|biologics|clinical\s+(?:scientist|engineer|epidemiolog)|'
+    r'neuroengineer|photonic|tapeout|gas\s+turbine|cad\s+engineer|'
+    r'mechanical\s+engineer|civil\s+engineer|chemical\s+engineer|'
+    r'aerospace\s+engineer|industrial\s+engineer|materials\s+engineer|'
+    r'environmental\s+engineer|structural\s+engineer|manufacturing\s+engineer|'
+    r'process\s+engineer|quality\s+engineer|equipment\s+engineer|'
+    r'electrical\b|avionics|'
+    r'investment\s+banking(?!.*quant)|actuarial|'
+    r'real\s+estate\s+intern|facilities\s+intern'
+    r')\b',
     re.I,
 )
 
@@ -235,12 +286,14 @@ def is_out_of_scope_title(title):
 
     has_keep = bool(_STRONG_KEEP.search(t))
 
-    # Embedded / firmware / semiconductor / chip EE — always out.
+    # Embedded / firmware / semiconductor / non-CS engineering — always out.
     if _EMBEDDED_RE.search(t) or _FIRMWARE_RE.search(t):
         return True
     if _SEMI_HARDWARE_ALWAYS.search(t):
         return True
     if _ASIC_RE.search(t) or _FPGA_RE.search(t):
+        return True
+    if _NON_CS_DISCIPLINE.search(t):
         return True
 
     if any(s in t for s in HARD_REJECT_SIGNALS):
@@ -303,28 +356,13 @@ def is_out_of_scope_title(title):
 
 
 def is_in_scope_listing_title(title, table=None):
-    """Discipline + campus gate used by scraper and cleanup."""
+    """CS / InfoSci / InfoSys-adjacent campus roles only."""
     if is_out_of_scope_title(title):
         return False
     if not is_campus_role_title(title, table=table):
         return False
-    # Intern / co-op / fellow / student: discipline gate is enough.
-    if _INTERN_COOP.search(title or ''):
-        return True
-    # New-grad / early-career without intern wording: require a tech signal
-    # (drops on-campus non-tech like video producer).
-    if not re.search(
-        r'software|developer|engineer|devops|technolog|technologist|\btech\b|'
-        r'machine learning|\bml\b|\bai\b|artificial|gen\s*ai|deep learning|'
-        r'data scien|data engineer|data analyst|data analytics|quant|'
-        r'cyber|security|cloud|platform|backend|frontend|full-?stack|'
-        r'product manag|product design|consultant|programming|computer|'
-        r'research scientist|research engineer|\bsre\b|reliability|'
-        r'network|systems|infrastructure|sdet|\bqa\b|compiler|'
-        r'information technology|\bit\b|analytics|automation|'
-        r'applied science|algorithm|\btrading\b',
-        title or '',
-        re.I,
-    ):
+    # Every listing — including interns — needs an explicit CS/IS/tech signal.
+    # Drops bare "Engineering Intern", propulsion, clinical, etc.
+    if not _CS_ADJACENT.search(title or ''):
         return False
     return True

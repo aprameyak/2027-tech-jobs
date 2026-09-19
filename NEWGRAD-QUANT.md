@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027 — Quantitative Finance
 
-**51** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**50** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
@@ -11,7 +11,6 @@
 | ↳ | Quantitative Research Analyst – University Graduate | London, UK Dublin, Ireland |  | Undergrad | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/) | Sep 19 |
 | WallStreetQuants | Quantitative Researcher New Grad | London, UK | Spring 2027 | Undergrad | [Apply](https://apply.workable.com/wallstreetquants/j/62537809CA/apply) | Sep 19 |
 | Barclays | 2027 Quantitative Analytics Analyst Graduate Program New York | New York, 745 7th Avenue | Spring 2027 | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/XMLNAME-2027-Quantitative-Analytics-Analyst-Graduate-Program-New-York_JR-0000131452?utm_source=aprameyak) | Sep 16 |
-| BNY 🛂 | 2027 BNY Analyst Program - Trading | New York, NY | Spring 2027 | Undergrad | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80897) | Sep 16 |
 | BlackEdge Capital | Graduate Quantitative Researcher 2027 | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/blackedgecapital/jobs/4732320005?utm_source=aprameyak) | Sep 14 |
 | GTS | Quantitative Trader | New York, NY | Spring 2027 | Undergrad | [Apply](https://careers-gtsx.icims.com/jobs/1608/quantitative-trader---2027-graduates/job) | Sep 1 |
 | WallStreetQuants | Quantitative Trader New Grad | New York, NY |  | Undergrad | [Apply](https://apply.workable.com/wallstreetquants/j/C611D9282B/apply?utm_source=aprameyak) | Sep 1 |

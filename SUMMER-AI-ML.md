@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships — Data Science, AI & Machine Learning
 
-**538** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**537** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -377,7 +377,6 @@
 | ↳ | Machine Learning Engineer Intern (AML... | Seattle, WA | Undergrad | [Apply](https://joinbytedance.com/search/7672382828525832501) | Aug 29 |
 | ↳ | AI/LLM Network Research Intern (High ... | San Jose, CA | Undergrad | [Apply](https://joinbytedance.com/search/7669969771686775045) | Aug 29 |
 | ↳ | Research Intern (AI Infra Compute) - ... | Seattle, WA | Undergrad | [Apply](https://joinbytedance.com/search/7667379218929780997) | Aug 29 |
-| ↳ | AI Creator Operations Intern (CapCut)... | Los Angeles, CA | Undergrad | [Apply](https://joinbytedance.com/search/7673715653065525509) | Aug 29 |
 | Continental Resources | Data Analyst Intern | Oklahoma City, OK | Undergrad | [Apply](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1?utm_source=aprameyak) | Aug 29 |
 | Crowe | Machine Learning Intern | Chicago, IL | Undergrad | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Intern_R-71005?utm_source=aprameyak) | Aug 29 |
 | DRW | AI/ML Research Intern | Montreal, QC | Undergrad | [Apply](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679) | Aug 29 |

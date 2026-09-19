@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027 — Data Science, AI & Machine Learning
 
-**222** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**221** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
@@ -53,7 +53,6 @@
 | TikTok | Research Scientist Graduate (TikTok Recommendation - NextGen LLM) - 2027 Start (PhD) | San Jose, CA |  | Undergrad | [Apply](https://careers.tiktok.com/resume/7633605978976520453/apply?utm_source=aprameyak) | Sep 4 |
 | Torc Robotics | Software Engineer, I - Data Engineering | Ann Arbor, MI |  | Undergrad | [Apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8649372002?utm_source=aprameyak) | Sep 4 |
 | AIG | 2027 Early Careers: Analyst, Gen AI - Data Science – United States, Atlanta, GA | Atlanta, GA | Spring 2027 | Undergrad | [Apply](https://aig.wd1.myworkdayjobs.com/en-US/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI---Data-Science---United-States--Atlanta--GA_JR2603656-1?utm_source=aprameyak) | Sep 1 |
-| GlobalFoundries | Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer | Austin, TX | Spring 2026 | Undergrad | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1?utm_source=aprameyak) | Sep 1 |
 | NVIDIA | Research Scientist New Grad - Efficient Deep Learning | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1?utm_source=aprameyak) | Sep 1 |
 | Precisely | Associate Software Engineer (Python AI) | Remote (US) |  | Undergrad | [Apply](https://www.precisely.com/careers-and-culture/us-jobs/job/4722721005?gh_jid=4722721005&utm_source=aprameyak) | Sep 1 |
 | Texas Sports Academy | Junior Software Engineer - AI-Forward | Austin, TX |  | Undergrad | [Apply](https://apply.workable.com/texas-sports-academy-main/j/009164EC9C/apply?utm_source=aprameyak) | Sep 1 |

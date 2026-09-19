@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027 — Software Engineering
 
-**657** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**656** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
@@ -431,7 +431,6 @@
 | Salesforce | Software Engineer College Grad | Bellevue, WA |  | Undergrad | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1?utm_source=aprameyak) | Aug 7 |
 | SOCOTEC Global | Junior Software Engineer | New York, NY |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Socotec/744000141326319?utm_source=aprameyak) | Aug 7 |
 | Solerity | JavaScript Software Engineer 1 - TS/SCI with Poly | Fort Meade, MD |  | Undergrad | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272523?utm_source=aprameyak) | Aug 7 |
-| Tesla | Electrical & Software Engineer, Circuit Board Test Automation | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/249182?utm_source=aprameyak) | Aug 7 |
 | Walgreens | Software Engineer 1 - Java | Deerfield, IL |  | Undergrad | [Apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141&utm_source=aprameyak) | Aug 7 |
 | Wanderlog | Full-Stack Software Engineer | Remote (US) |  | Undergrad | [Apply](https://app.dover.com/wanderlog/8c09ee66-6444-42d4-b2dc-1029b2f9b23d?utm_source=aprameyak) | Aug 7 |
 | Jane Street | Front End Software Engineer | New York, NY |  | Undergrad | [Apply](https://www.janestreet.com/join-jane-street/position/6184529002/?utm_source=aprameyak) | Aug 6 |

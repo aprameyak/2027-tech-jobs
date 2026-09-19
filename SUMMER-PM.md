@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships — Product Management
 
-**92** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**90** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -24,7 +24,6 @@
 | LabCorp | IT Product Manager Intern - Payer Team | Durham, NC | Undergrad | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185?utm_source=aprameyak) | Sep 19 |
 | Mastercard | Technical Product Management Intern - Switching Solutions | O'Fallon, MO | Undergrad | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711?utm_source=aprameyak) | Sep 19 |
 | Momentive | Product Management Intern - Specialty Additives | Friendly, WV | Undergrad | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816?utm_source=aprameyak) | Sep 19 |
-| Nasdaq | Product Owner Intern | Atlanta, GA | Undergrad | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Product-Owner-Intern---2027-Summer-Internship_R0026976?utm_source=aprameyak) | Sep 19 |
 | NJM Insurance Group | Insurance Product Management Analyst Intern 3 | Trenton, NJ | Undergrad | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190?utm_source=aprameyak) | Sep 19 |
 | NVIDIA | Product Management MBA Intern - Data Center GPU | Santa Clara, CA | Masters | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1?utm_source=aprameyak) | Sep 19 |
 | PricewaterhouseCoopers (PwC) | Product Management Intern - Commercial Tech & Innovation | Rosemont, IL | Undergrad | [Apply](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Advisory-National---Commercial-Tech---Innovation---Product-Management-Intern---Summer-2027_760527WD?utm_source=aprameyak) | Sep 19 |
@@ -43,7 +42,6 @@
 | Zurn Elkay Water Solutions | Product Management Intern | Paso Robles, CA | Undergrad | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109?utm_source=aprameyak) | Sep 19 |
 | Clearwater Analytics | Product Management Intern | Office - New York | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12286?utm_source=aprameyak) | Sep 18 |
 | ↳ | Product Management Intern | Office - New York | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12285?utm_source=aprameyak) | Sep 18 |
-| Ameriprise Financial | Digital Product Owner Intern | Minneapolis, MN | Undergrad | [Apply](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Digital-Product-Owner-Intern_R26_3742?utm_source=aprameyak) | Sep 16 |
 | NVIDIA | Product Management MBA Intern, Data Center GPU - Summer 2027 | Santa Clara, CA | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1?utm_source=aprameyak) | Sep 16 |
 | Duolingo | Associate Product Manager, Intern | Pittsburgh, PA | Undergrad | [Apply](https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002) | Sep 15 |
 | Loblaw Companies | Associate Product Manager Intern | Brampton, ON | Undergrad | [Apply](https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Associate-Product-Manager_R2000702776-1?utm_source=aprameyak) | Sep 12 |

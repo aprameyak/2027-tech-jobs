@@ -3,20 +3,20 @@
 
 # Shared discipline scope for all three boards.
 _DISCIPLINE = (
-    'IN-SCOPE disciplines only: software/SWE/SDE/developer, AI/ML/MLE, data science/'
-    'data eng/analytics, quant research/trading/dev, product management (tech), '
-    'technical/technology consulting, devops/SRE/cloud/platform, cybersecurity, '
-    'IT/technology analyst or associate, solutions engineering. '
-    'OUT-OF-SCOPE (always reject, even if title also says software/AI): '
-    'hardware (any title containing "hardware"), semiconductors, silicon/chip/DRAM/HBM/'
-    'wafer/fab/foundry/ASIC/FPGA/RTL/VLSI/RFIC/PCB/physical design/DFT/analog IC/'
-    'mixed-signal/circuit design/SerDes, mechanical/electrical/civil/chemical/'
-    'manufacturing/process/aerospace engineering, firmware/embedded, avionics (non-software), '
-    'sales (non-solutions), marketing/HR/recruiting/legal/finance(non-quant), '
-    'supply chain/logistics/warehouse, senior/staff/principal/director/manager '
-    '(unless explicitly new-grad / PhD early career / Member of Technical Staff new grad), '
-    'founding eng without campus markers, bare mid-level SWE/PM with no campus signal. '
-    'Never accept hardware or semiconductor roles.'
+    'IN-SCOPE only (computer science / information science / information systems '
+    'and close neighbors): software/SWE/SDE/developer, AI/ML/MLE, data science/'
+    'data eng/analytics, quant research/trading/dev/strats, product management (tech), '
+    'technical/technology consulting, devops/SRE/cloud/platform, cybersecurity/'
+    'information security, IT/MIS/CIS/informatics, technology analyst or associate, '
+    'solutions engineering, network/systems admin (IT), UX/HCI when tech-focused. '
+    'OUT-OF-SCOPE (always reject): hardware or any title containing "hardware"; '
+    'semiconductors/silicon/chip/DRAM/fab/ASIC/FPGA; mechanical/electrical/civil/'
+    'chemical/manufacturing/process/aerospace/propulsion/thermal/structures; '
+    'firmware/embedded; bare "Engineering Intern" with no CS/IT signal; '
+    'clinical/biologics/pharmacy; sales (non-solutions), marketing/HR/legal/'
+    'finance(non-quant), supply chain/logistics; senior/staff/principal/director/'
+    'manager unless explicitly new-grad / PhD early career / MotS new grad. '
+    'When unsure, reject. Prefer SWE and CS/IS/MIS-adjacent titles only.'
 )
 
 _BOARD_RULES = {

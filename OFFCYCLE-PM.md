@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops — Product Management
 
-**48** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
+**47** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
@@ -12,7 +12,6 @@
 | Clearwater Analytics | Technical Product Manager Intern | NYC | Fall 2026 | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12288?utm_source=aprameyak) | Sep 19 |
 | Cozey | Product Management Intern | Mount Royal, QC | Fall 2026 | Undergrad | [Apply](https://ats.rippling.com/cozey-internships/jobs/b1f3e185-e5d7-4baf-b67f-10f8703b130a) | Sep 19 |
 | Dedalus Labs | Product Manager Intern | SF | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true&utm_source=aprameyak) | Sep 19 |
-| Definity Financial | Commercial Insurance Product Owner Co-op Intern | Waterloo, ON | Co-op | Undergrad | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9354) | Sep 19 |
 | Emerson Electric | Software Product Management Intern | Austin, TX | Fall 2026 | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010799) | Sep 19 |
 | ↳ | Product Management Engineering Intern | Shakopee, MNChanhassen, MN | Fall 2026 | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009634) | Sep 19 |
 | ↳ | Product Management Engineer Intern | Boulder, CO | Fall 2026 | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009685) | Sep 19 |
