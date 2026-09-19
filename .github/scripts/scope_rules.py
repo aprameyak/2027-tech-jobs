@@ -114,17 +114,6 @@ _FPGA_RE = re.compile(r'\bfpga\b', re.I)
 _EMBEDDED_RE = re.compile(r'\bembedded\b', re.I)
 _FIRMWARE_RE = re.compile(r'\bfirmware\b', re.I)
 _HARDWARE_WORD_RE = re.compile(r'\bhardware\b', re.I)
-# Only rescue "hardware" when the role is clearly SWE/ML/DevOps tooling — not chip/EE.
-_HARDWARE_RESCUE = re.compile(
-    r'\bsoftware\b|\bdevops\b|\bsre\b|site reliability|'
-    r'machine learning|\bmle\b|ml engineer|ai engineer|artificial intelligence|'
-    r'data scientist|data engineer|data science|'
-    r'security engineer|developer|programming|'
-    r'software\s*/\s*hardware|hardware\s*/\s*software|'
-    r'hardware\s+tools|hardware\s+optimization|ai\s+hardware\s+infrastructure|'
-    r'verification\s+infrastructure',
-    re.I,
-)
 
 
 # Intern / co-op / student / fellow signals (plurals included).

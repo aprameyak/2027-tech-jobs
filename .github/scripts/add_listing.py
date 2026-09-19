@@ -12,6 +12,7 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 from grad_date import infer_grad_date
+from scope_rules import is_in_scope_listing_title
 
 STRIP_PARAMS = {
     'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'utm_id',
@@ -303,8 +304,15 @@ def main():
     fields = parse_issue_body(issue_body)
     print(f'Parsed fields: {list(fields.keys())}')
 
+    role = fields.get('Role / Job Title', '').strip()
     table_type = determine_table(fields)
     print(f'Target table: {table_type}')
+
+    if not is_in_scope_listing_title(role, table=table_type):
+        print(
+            f'REJECT: out-of-scope role (hardware/semiconductor/non-campus/non-tech): {role}'
+        )
+        sys.exit(1)
 
     row = format_row(fields, table_type)
     print(f'Formatted row: {row}')

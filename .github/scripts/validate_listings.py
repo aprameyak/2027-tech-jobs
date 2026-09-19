@@ -9,6 +9,11 @@ import re
 import sys
 from pathlib import Path
 
+_SCRIPTS_DIR = Path(__file__).resolve().parent
+if str(_SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(_SCRIPTS_DIR))
+from scope_rules import is_in_scope_listing_title, is_out_of_scope_title
+
 LISTINGS_FILE = Path('listings.json')
 
 OFFCYCLE_SEASONS = {
@@ -130,6 +135,10 @@ def validate_entry(entry):
 
     if is_closed:
         return [(company, role, v) for v in violations]
+
+    # Live listings must stay in discipline + campus scope (blocks hardware/semi).
+    if is_out_of_scope_title(role) or not is_in_scope_listing_title(role, table=table):
+        violations.append('out-of-scope role (hardware/semiconductor/non-campus/non-tech)')
 
     if table == 'summer':
         if season != 'Summer 2027':

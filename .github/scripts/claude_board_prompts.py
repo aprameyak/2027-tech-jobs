@@ -7,12 +7,16 @@ _DISCIPLINE = (
     'data eng/analytics, quant research/trading/dev, product management (tech), '
     'technical/technology consulting, devops/SRE/cloud/platform, cybersecurity, '
     'IT/technology analyst or associate, solutions engineering. '
-    'OUT-OF-SCOPE (always reject): hardware/ASIC/FPGA/RF/PCB, mechanical/electrical/'
-    'civil/chemical/manufacturing/process/aerospace engineering, firmware/embedded, '
+    'OUT-OF-SCOPE (always reject, even if title also says software/AI): '
+    'hardware (any title containing "hardware"), semiconductors, silicon/chip/DRAM/HBM/'
+    'wafer/fab/foundry/ASIC/FPGA/RTL/VLSI/RFIC/PCB/physical design/DFT/analog IC/'
+    'mixed-signal/circuit design/SerDes, mechanical/electrical/civil/chemical/'
+    'manufacturing/process/aerospace engineering, firmware/embedded, avionics (non-software), '
     'sales (non-solutions), marketing/HR/recruiting/legal/finance(non-quant), '
     'supply chain/logistics/warehouse, senior/staff/principal/director/manager '
     '(unless explicitly new-grad / PhD early career / Member of Technical Staff new grad), '
-    'founding eng without campus markers, bare mid-level SWE/PM with no campus signal.'
+    'founding eng without campus markers, bare mid-level SWE/PM with no campus signal. '
+    'Never accept hardware or semiconductor roles.'
 )
 
 _BOARD_RULES = {
@@ -119,7 +123,8 @@ def build_triage_prompt(lines, n):
         'For New Grad (Full-Time) → newgrad season '
         '"2027 (New Grad — no specific season)".\n'
         'add = in-scope campus role for the correct board. '
-        'reject = out-of-scope / senior / international-only / hardware. '
+        'reject = out-of-scope / senior / international-only / hardware / '
+        'semiconductor / silicon / chip / DRAM / fab / embedded / firmware. '
         'skip = unclear.\n'
         + '\n'.join(lines)
         + '\nJSON only.'
