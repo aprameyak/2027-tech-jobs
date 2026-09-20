@@ -27449,10 +27449,10 @@
     "b": "s"
   },
   "staff research scientist": {
-    "t": true,
-    "c": "stale",
-    "v": "",
-    "b": "s"
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "staff site reliability engineer, fabric": {
     "t": true,
@@ -61448,8 +61448,8 @@
   },
   "pharmacy intern": {
     "t": false,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 0
   },
   "5k new hire bonus! case manager behavioral health - lcsw or lcpc (field - chinatown area)": {
@@ -62309,8 +62309,9 @@
   },
   "it operations intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "multimedia development intern": {
     "t": false,
@@ -62874,8 +62875,8 @@
   },
   "finance intern - summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 0
   },
   "applied ai engineering intern (m/f/d)": {
@@ -63126,10 +63127,10 @@
     "v": ""
   },
   "engineering co-op": {
-    "t": true,
-    "c": "stale",
-    "v": "",
-    "b": "o"
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "social media engineering intern (fall 2026)": {
     "t": true,
@@ -68571,8 +68572,9 @@
   },
   "internal audit intern - summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "technology intern- summer 2027": {
     "t": false,
@@ -69079,8 +69081,9 @@
   },
   "cad technician co-op": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "sustainability, community and inclusive engagement co-op": {
     "t": false,
@@ -69864,8 +69867,8 @@
   },
   "junior data engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 1,
     "b": "n"
   },
@@ -70480,8 +70483,9 @@
   },
   "platform engineering intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "s"
   },
   "grc/cybersecurity analyst intern": {
@@ -71548,8 +71552,8 @@
   },
   "marketing analytics intern": {
     "t": false,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 0
   },
   "market operations intern ": {
@@ -72839,8 +72843,9 @@
   },
   "fp&a intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "internal audit intern": {
     "t": false,
@@ -72884,8 +72889,9 @@
   },
   "treasury intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "user research intern": {
     "t": true,
@@ -73616,8 +73622,9 @@
   },
   "junior solution architect": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "intern- service contracts lifecycle operations- nashville, tn-summer 2027": {
     "t": false,
@@ -73895,8 +73902,9 @@
   },
   "compensation intern - summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "customer success intern - summer 2027": {
     "t": false,
@@ -76397,8 +76405,8 @@
   },
   "transportation planning intern - summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 0
   },
   "hp salesedge rotational internship job description": {
@@ -76472,8 +76480,8 @@
   },
   "it intern": {
     "t": false,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 0
   },
   "member of technical staff, ai products (early career)": {
