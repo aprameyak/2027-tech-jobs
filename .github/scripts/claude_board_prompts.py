@@ -3,24 +3,27 @@
 
 # Bump when discipline/board rules change so scrapers re-ask Claude instead of
 # trusting stale cache decisions from older prompts.
-CLASSIFIER_VERSION = 'cs-is-v2'
+CLASSIFIER_VERSION = 'cs-is-v3'
 
 # Shared discipline scope for all three boards.
 _DISCIPLINE = (
-    'IN-SCOPE only (computer science / information science / information systems '
-    'and close neighbors): software/SWE/SDE/developer, AI/ML/MLE, data science/'
-    'data eng/analytics, quant research/trading/dev/strats, product management (tech), '
-    'technical/technology consulting, devops/SRE/cloud/platform, cybersecurity/'
-    'information security, IT/MIS/CIS/informatics, technology analyst or associate, '
-    'solutions engineering, network/systems admin (IT), UX/HCI when tech-focused. '
+    'You decide discipline dynamically — do not require a fixed keyword list. '
+    'IN-SCOPE campus tech (CS / IS / MIS and close neighbors): software/SWE/SDE/'
+    'developer, AI/ML/MLE, data science/eng/analytics, quant research/trading/'
+    'dev/strats, product management (tech), technical/technology consulting, '
+    'devops/SRE/cloud/platform, cybersecurity/info security, IT/MIS/CIS/'
+    'informatics, technology analyst/associate, solutions engineering, '
+    'network/systems admin (IT), UX/HCI when tech-focused, and other clearly '
+    'tech-adjacent campus roles you judge fit this board. '
     'OUT-OF-SCOPE (always reject): hardware or any title containing "hardware"; '
     'semiconductors/silicon/chip/DRAM/fab/ASIC/FPGA; mechanical/electrical/civil/'
     'chemical/manufacturing/process/aerospace/propulsion/thermal/structures; '
-    'firmware/embedded; bare "Engineering Intern" with no CS/IT signal; '
+    'firmware/embedded; bare "Engineering Intern" with no CS/IT/tech signal; '
     'clinical/biologics/pharmacy; sales (non-solutions), marketing/HR/legal/'
     'finance(non-quant), supply chain/logistics; senior/staff/principal/director/'
     'manager unless explicitly new-grad / PhD early career / MotS new grad. '
-    'When unsure, reject. Prefer SWE and CS/IS/MIS-adjacent titles only.'
+    'When unsure but the title looks like campus tech work, ACCEPT (t=1). '
+    'Only reject when clearly out-of-scope or not a campus role.'
 )
 
 _FEW_SHOT = (
@@ -28,6 +31,8 @@ _FEW_SHOT = (
     '- "Software Engineer Intern" → t=1,a=1 (in-scope SWE campus)\n'
     '- "Information Systems Intern" → t=1,a=1 (IS/MIS-adjacent)\n'
     '- "IT Intern" → t=1,a=1\n'
+    '- "Technology Analyst Intern" → t=1,a=1\n'
+    '- "Business Technology Intern" → t=1,a=1\n'
     '- "Data Scientist New Grad" → t=1,a=1 on newgrad board\n'
     '- "Hardware Engineering Intern" → t=0,a=0,b=x\n'
     '- "Silicon Design Intern" → t=0,a=0,b=x\n'
@@ -102,18 +107,19 @@ def build_classify_prompt(titles, board='unknown'):
 
     return (
         f'You classify titles for a US/Canada 2027 tech campus job board.\n'
-        f'Quality matters: be strict; false accepts are worse than false rejects.\n'
+        f'Use judgment dynamically; false rejects of real campus tech roles are costly.\n'
         f'{_DISCIPLINE}\n\n'
         f'{_FEW_SHOT}\n'
         f'{_BOARD_RULES[board]}\n\n'
         f'{board_lock}\n'
         f'Return a JSON array of length {n} in the same order. '
         f'Each element: {{"t":0|1,"c":"h"|"m"|"l","a":0|1,"b":"{b_token}"}}.\n'
-        f't=1 if CS/IS/MIS-adjacent in-scope discipline. '
+        f't=1 if you judge it an in-scope campus tech discipline (decide dynamically). '
         f'a=1 only if t=1 AND it belongs on this board '
         f'(campus intern/co-op/new-grad as defined above). '
         f'c=h high confidence, m medium, l low/unsure.\n'
-        f'If unsure about discipline OR campus fit, set t=0 or a=0 (and b=x when rejecting).\n'
+        f'If unsure but tech-adjacent campus: prefer t=1/a=1. '
+        f'Reject (t=0,a=0,b=x) only when clearly out-of-scope or wrong board.\n'
         f'Titles:\n{numbered}\n'
         f'JSON only — no markdown, no commentary.'
     )

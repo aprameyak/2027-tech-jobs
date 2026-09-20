@@ -24,7 +24,6 @@ from scope_rules import (
     HARD_REJECT_SIGNALS,
     is_out_of_scope_title,
     is_campus_role_title,
-    is_in_scope_listing_title,
 )
 from claude_board_prompts import build_classify_prompt, board_token_to_table, CLASSIFIER_VERSION
 
@@ -115,6 +114,8 @@ SUBSTRING_KEYWORDS = [
     'phd early career', 'associate data scientist', 'associate product manager',
     ', associate', 'associate (',
     'engineering, associate', 'science, associate',
+    'rotational', 'early talent', 'emerging talent', 'development program',
+    'technology associate', 'technology analyst', 'technology intern',
 ]
 
 TECH_KEYWORDS = [
@@ -127,7 +128,7 @@ TECH_KEYWORDS = [
     'computer', 'computational', 'algorithm',
     'technical', 'scientist', 'fintech',
     'product manager', 'program manager', 'consultant', 'consulting',
-    'digital', 'technology associate', 'technology analyst',
+    'digital', 'technology', 'technology associate', 'technology analyst',
     'information technology', 'information systems', 'business technology',
     'mis', 'informatics',
 ]
@@ -637,7 +638,6 @@ def classify_titles_batch(title_list):
 
     seen_lower = set()
     need_claude = []  # (priority, title) — lower priority number = sooner
-    stale_kept = 0
     heuristic = 0
 
     for t in title_list:
@@ -646,7 +646,7 @@ def classify_titles_batch(title_list):
             continue
         seen_lower.add(tl)
 
-        # Rules always win — free, no Claude.
+        # Hard rejects only — free, no Claude. Everything else can reach the LLM.
         if any(s in tl for s in HARD_REJECT_SIGNALS) or is_out_of_scope_title(t):
             cache[tl] = False
             _confidence_cache[tl] = 'high'
@@ -658,7 +658,10 @@ def classify_titles_batch(title_list):
         listing_type, season = infer_listing_type(t)
         table = table_for_listing(listing_type, season)
         clear_swe = any(s in tl for s in HIGH_CONFIDENCE_TECH_SIGNALS)
-        in_scope = is_in_scope_listing_title(t, table=table)
+        campus_ok = is_campus_role_title(t, table=table) or (
+            not re.search(r'\bintern(?:ships?|s)?\b|\bco-?ops?\b', tl)
+            and is_campus_role_title(t, table='newgrad')
+        )
 
         cache_fresh = (
             tl in cache
@@ -668,12 +671,12 @@ def classify_titles_batch(title_list):
         if cache_fresh:
             if tl not in _add_cache:
                 _add_cache[tl] = _derive_add_decision(t, bool(cache[tl]))
-            if _add_cache.get(tl) and not in_scope:
-                _add_cache[tl] = False
+            # Never keyword-narrow a fresh Claude/heuristic accept; hard reject
+            # already handled above.
             continue
 
-        # Ultra-clear in-scope SWE/CS — heuristic only (saves credits).
-        if clear_swe and in_scope:
+        # Ultra-clear campus SWE/CS — heuristic only (saves credits).
+        if clear_swe and campus_ok:
             cache[tl] = True
             _confidence_cache[tl] = 'high'
             _add_cache[tl] = is_auto_addable(t)
@@ -686,38 +689,14 @@ def classify_titles_batch(title_list):
             _version_cache.get(tl) != CLASSIFIER_VERSION
             or _confidence_cache.get(tl) == 'stale'
         )
-        prev_add = bool(_add_cache.get(tl, False)) if stale else None
-        prev_tech = bool(cache.get(tl, False)) if stale else None
 
-        # Stale reject that still isn't clear-SWE: keep reject, restamp (no API).
-        if stale and not prev_tech and not prev_add and not clear_swe:
-            cache[tl] = False
-            _confidence_cache[tl] = 'high'
-            _add_cache[tl] = False
-            _version_cache[tl] = CLASSIFIER_VERSION
-            stale_kept += 1
-            continue
-
-        # Stale accept that now fails CS/IS gate: drop without Claude.
-        if stale and (prev_tech or prev_add) and not in_scope:
-            cache[tl] = False
-            _confidence_cache[tl] = 'high'
-            _add_cache[tl] = False
-            _board_cache[tl] = None
-            _version_cache[tl] = CLASSIFIER_VERSION
-            stale_kept += 1
-            continue
-
-        # Claude only for true gray area / stale accepts that still look in-scope.
-        # Priority: new titles first (0), then stale prior-accepts (1).
+        # Stale or unknown → Claude decides (do not restamp old rejects on
+        # version bumps; that blocked the LLM from re-evaluating).
         priority = 1 if stale else 0
         need_claude.append((priority, t))
 
     if not need_claude:
-        print(
-            f'  [Claude] No API needed '
-            f'(heuristic={heuristic}, stale_restamp={stale_kept})'
-        )
+        print(f'  [Claude] No API needed (heuristic={heuristic})')
         return 0
 
     need_claude.sort(key=lambda x: x[0])
@@ -769,17 +748,14 @@ def classify_titles_batch(title_list):
                 )
                 if result is not None:
                     is_tech = bool(result.get('is_tech', False))
-                    if is_tech and not is_in_scope_listing_title(title, table=table_hint):
+                    # Trust Claude on discipline — only hard-reject overrides.
+                    if is_out_of_scope_title(title):
                         is_tech = False
                     cache[tl] = is_tech
                     _confidence_cache[tl] = result.get('confidence', 'medium')
                     if table_hint:
                         _board_cache[tl] = table_hint
-                    if (
-                        is_out_of_scope_title(title)
-                        or result.get('b') == 'x'
-                        or not is_in_scope_listing_title(title, table=table_hint)
-                    ):
+                    if is_out_of_scope_title(title) or result.get('b') == 'x':
                         _add_cache[tl] = False
                     elif 'a' in result:
                         _add_cache[tl] = bool(int(result.get('a', 0))) and is_tech
@@ -877,7 +853,7 @@ def classify_title(title, allow_claude=True):
         return False, True
 
     cache = load_title_cache()
-    if t in cache:
+    if t in cache and _version_cache.get(t) == CLASSIFIER_VERSION:
         confidence = _confidence_cache.get(t, 'high')
         return cache[t], confidence != 'low'
 
@@ -892,6 +868,8 @@ def classify_title(title, allow_claude=True):
                 if results and t in results:
                     result = results[t]
                     is_tech = bool(result.get('is_tech', False))
+                    if is_out_of_scope_title(title):
+                        is_tech = False
                     confidence = result.get('confidence', 'medium')
                     cache[t] = is_tech
                     _confidence_cache[t] = confidence
@@ -900,7 +878,8 @@ def classify_title(title, allow_claude=True):
                     table = board_token_to_table(result.get('b'))
                     if table:
                         _board_cache[t] = table
-                    if result.get('b') == 'x' or not is_in_scope_listing_title(title, table=table):
+                    # Trust Claude; only hard-reject / explicit board reject overrides.
+                    if result.get('b') == 'x' or is_out_of_scope_title(title):
                         _add_cache[t] = False
                     _version_cache[t] = CLASSIFIER_VERSION
                     return is_tech, confidence != 'low'
@@ -911,12 +890,16 @@ def classify_title(title, allow_claude=True):
     return is_tech, True
 
 def is_candidate_title(title):
+    """Wide intake for campus / tech titles — Claude decides discipline."""
     t = title.lower()
-    if any(s in t for s in HARD_REJECT_SIGNALS):
+    if any(s in t for s in HARD_REJECT_SIGNALS) or is_out_of_scope_title(title):
         return False
     if any(re.search(kw, t) for kw in BOUNDARY_KEYWORDS):
         return True
     if any(kw in t for kw in SUBSTRING_KEYWORDS):
+        return True
+    # Tech-looking titles without campus wording still go to Claude for campus fit.
+    if any(kw in t for kw in TECH_KEYWORDS):
         return True
     return False
 
@@ -1076,11 +1059,24 @@ def is_auto_addable(title):
     if (
         not re.search(r'\bintern(?:ships?|s)?\b|\bco-?ops?\b', t)
         and is_campus_role_title(title, 'newgrad')
-        and is_in_scope_listing_title(title, table='newgrad')
+        and not is_out_of_scope_title(title)
+        and (
+            any(kw in t for kw in TECH_KEYWORDS)
+            or any(s in t for s in HIGH_CONFIDENCE_TECH_SIGNALS)
+        )
     ):
         return True
 
-    if not is_in_scope_listing_title(title, table=table):
+    if not is_campus_role_title(title, table=table):
+        return False
+    if is_out_of_scope_title(title):
+        return False
+    # Heuristic auto-add needs a tech signal. Gray titles rely on Claude's `a` flag
+    # in classify_titles_batch — not this keyword gate.
+    if not (
+        any(kw in t for kw in TECH_KEYWORDS)
+        or any(s in t for s in HIGH_CONFIDENCE_TECH_SIGNALS)
+    ):
         return False
 
     if table == 'newgrad' or listing_type == 'New Grad (Full-Time)':

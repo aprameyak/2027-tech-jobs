@@ -357,13 +357,14 @@ def is_out_of_scope_title(title):
 
 
 def is_in_scope_listing_title(title, table=None):
-    """CS / InfoSci / InfoSys-adjacent campus roles only."""
+    """Campus roles that survive hard rejects — discipline is Claude's job.
+
+    Do not require a fixed CS/IS keyword list here. Hard rejects (hardware,
+    manufacturing, etc.) still apply; ambiguous tech-adjacent titles stay
+    eligible so the LLM classifier can decide dynamically.
+    """
     if is_out_of_scope_title(title):
         return False
     if not is_campus_role_title(title, table=table):
-        return False
-    # Every listing — including interns — needs an explicit CS/IS/tech signal.
-    # Drops bare "Engineering Intern", propulsion, clinical, etc.
-    if not _CS_ADJACENT.search(title or ''):
         return False
     return True

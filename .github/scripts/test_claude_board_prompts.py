@@ -33,10 +33,10 @@ class ClaudeBoardPromptTests(unittest.TestCase):
             self.assertIn('IN-SCOPE', p)
             self.assertIn('OUT-OF-SCOPE', p)
             self.assertIn('JSON', p)
-            self.assertIn('computer science', p.lower())
+            self.assertIn('cs / is', p.lower())
             self.assertIn('information systems', p.lower())
             self.assertIn('Hardware Engineering Intern', p)
-            self.assertIn('false accepts', p.lower())
+            self.assertIn('decide dynamically', p.lower())
 
     def test_classifier_version_set(self):
         self.assertTrue(CLASSIFIER_VERSION)
