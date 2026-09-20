@@ -1,1957 +1,4680 @@
 greenhouse:
+- name: A Thinking Ape
+  slug: "athinkingape"
 - name: Abnormal Security
-  slug: abnormalsecurity
+  slug: "abnormalsecurity"
 - name: Accenture Federal Services
-  slug: accenturefederalservices
-- name: Affirm
-  slug: affirm
-- name: Airbnb
-  slug: airbnb
-- name: Airtable
-  slug: airtable
-- name: Akuna Capital
-  slug: akunacapital
-- name: AlphaGrep Securities
-  slug: alphagrepsecurities
-- name: Alphataraxia
-  slug: alphataraxia
-- name: Amperon
-  slug: amperon
-- name: Amplitude
-  slug: amplitude
-- name: Anaplan
-  slug: anaplan
-- name: Anduril
-  slug: andurilindustries
-- name: Anthropic
-  slug: anthropic
-- name: Appian
-  slug: appian
-- name: Apptronik
-  slug: apptronik
-- name: Armadin
-  slug: armadin
-- name: Aquatic
-  slug: aquaticcapitalmanagement
-- name: Archer Aviation
-  slug: archer56
-- name: Asana
-  slug: asana
-- name: AssemblyAI
-  slug: assemblyai
-- name: Astera Labs
-  slug: AsteraLabs
-- name: Astranis Space Technologies
-  slug: astranis
-- name: Atoms
-  slug: cssmerge
-- name: Attentive
-  slug: attentive
-- name: Aurora Innovation
-  slug: aurorainnovation
-- name: AvidXchange
-  slug: avidxchangeinc
-- name: Axiomatic AI
-  slug: axiomaticai
-- name: Axon
-  slug: axon
+  slug: "accenturefederalservices"
+- name: ACLU Kentucky
+  slug: "acluinternships"
+- name: Ada
+  slug: "ada18"
 - name: Advanced Space
-  slug: advancedspace
+  slug: "advancedspace"
+- name: Affirm
+  slug: "affirm"
+- name: Airbnb
+  slug: "airbnb"
+- name: Airtable
+  slug: "airtable"
+- name: Akuna Capital
+  slug: "akunacapital"
+- name: AlphaGrep Securities
+  slug: "alphagrepsecurities"
+- name: Alphataraxia
+  slug: "alphataraxia"
+- name: Amperesand
+  slug: "amperesand"
+- name: Amperon
+  slug: "amperon"
+- name: Amplitude
+  slug: "amplitude"
+- name: Anaplan
+  slug: "anaplan"
+- name: Anduril
+  slug: "andurilindustries"
+- name: Anthropic
+  slug: "anthropic"
+- name: Apera AI
+  slug: "aperaaiinc"
+- name: Appian
+  slug: "appian"
+- name: Apptronik
+  slug: "apptronik"
+- name: Aquatic
+  slug: "aquaticcapitalmanagement"
+- name: Archer Aviation
+  slug: "archer56"
+- name: Arevon
+  slug: "arevonenergyimpltest"
+- name: Argmax
+  slug: "argmax"
+- name: Armadin
+  slug: "armadin"
+- name: Asana
+  slug: "asana"
+- name: AssemblyAI
+  slug: "assemblyai"
+- name: Assured Guaranty
+  slug: "assuredguaranty"
+- name: Astera Labs
+  slug: "AsteraLabs"
+- name: Astranis Space Technologies
+  slug: "astranis"
+- name: Atoms
+  slug: "cssmerge"
+- name: Attentive
+  slug: "attentive"
+- name: Audax Group
+  slug: "audaxgroup"
+- name: Aurora Innovation
+  slug: "aurorainnovation"
+- name: AvidXchange
+  slug: "avidxchangeinc"
+- name: Axiomatic AI
+  slug: "axiomaticai"
+- name: Axon
+  slug: "axon"
+- name: AXQ Capital
+  slug: "axq"
 - name: Babel Street
-  slug: babelstreet
+  slug: "babelstreet"
+- name: Baidu USA
+  slug: "baidu"
+- name: Beam Therapeutics
+  slug: "beamtherapeutics"
 - name: Bill.com
-  slug: billcom
-- name: BTI360
-  slug: bti36021
+  slug: "billcom"
 - name: BillionToOne
-  slug: billiontoone
+  slug: "billiontoone"
 - name: BitGo
-  slug: bitgo
+  slug: "bitgo"
 - name: BlackEdge Capital
-  slug: blackedgecapital
-- name: Bloxd
-  slug: bloxd
+  slug: "blackedgecapital"
 - name: Block
-  slug: block
+  slug: "block"
+- name: Bloxd
+  slug: "bloxd"
 - name: Boerboel
-  slug: boerboeltrading
+  slug: "boerboeltrading"
+- name: Bot Auto
+  slug: "botauto"
 - name: Box
-  slug: boxinc
+  slug: "boxinc"
+- name: Brave
+  slug: "brave"
+- name: Brevium
+  slug: "brevium"
 - name: Brex
-  slug: brex
+  slug: "brex"
+- name: BTI360
+  slug: "bti36021"
 - name: Built Technologies
-  slug: getbuilt
+  slug: "getbuilt"
+- name: Businessolver
+  slug: "businessolverinvitationonly"
 - name: Canonical
-  slug: canonical
+  slug: "canonical"
 - name: Captivation
-  slug: captivation
+  slug: "captivation"
 - name: CarGurus
-  slug: cargurus
+  slug: "cargurus"
 - name: Carta
-  slug: carta
+  slug: "carta"
 - name: Chainguard
-  slug: chainguard
+  slug: "chainguard"
+- name: CHAOS Industries
+  slug: "chaosindustries"
 - name: Charles River Analytics
-  slug: charlesriveranalytics90
+  slug: "charlesriveranalytics90"
 - name: Checkr
-  slug: checkr
+  slug: "checkr"
 - name: Chicago Trading Company
-  slug: ctccampusboard
+  slug: "ctccampusboard"
+- name: Chicago Trading Company
+  slug: "chicagotradingcampus"
 - name: Chime
-  slug: chime
+  slug: "chime"
 - name: Clarity Innovations
-  slug: clarityinnovates
+  slug: "clarityinnovates"
 - name: ClickHouse
-  slug: clickhouse
+  slug: "clickhouse"
+- name: Clockwork Systems
+  slug: "clockworksystems"
 - name: Cloudflare
-  slug: cloudflare
+  slug: "cloudflare"
 - name: Cockroach Labs
-  slug: cockroachlabs
+  slug: "cockroachlabs"
 - name: Cohesity
-  slug: cohesityuniversityhiring
+  slug: "cohesityuniversityhiring"
 - name: Coinbase
-  slug: coinbase
+  slug: "coinbase"
 - name: Compeer Financial
-  slug: compeerfinancial
+  slug: "compeerfinancial"
+- name: Concentric
+  slug: "concentric"
 - name: CoreWeave
-  slug: coreweave
+  slug: "coreweave"
+- name: CoVar
+  slug: "covar"
 - name: Coveo
-  slug: coveo
+  slug: "coveo"
 - name: Cresta
-  slug: cresta
+  slug: "cresta"
 - name: D3
-  slug: d3
-- name: Databricks
-  slug: databricks
-- name: Datadog
-  slug: datadog
+  slug: "d3"
 - name: Dark Wolf Solutions
-  slug: darkwolfsolutions
+  slug: "darkwolfsolutions"
+- name: Databricks
+  slug: "databricks"
+- name: Datadog
+  slug: "datadog"
 - name: DensityAI
-  slug: densityai
-- name: Dev Technology Group
-  slug: devtechnology
+  slug: "densityai"
 - name: Descript
-  slug: descript
+  slug: "descript"
 - name: Detroit Lions
-  slug: detroitlions
+  slug: "detroitlions"
+- name: Dev Technology Group
+  slug: "devtechnology"
 - name: DigiCert
-  slug: digicert
+  slug: "digicert"
 - name: Discord
-  slug: discord
+  slug: "discord"
 - name: Docugami
-  slug: docugami
+  slug: "docugami"
 - name: DoorDash
-  slug: doordashusa
+  slug: "doordashusa"
+- name: DoorDash
+  slug: "doordashcanada"
 - name: Dropbox
-  slug: dropbox
+  slug: "dropbox"
 - name: DRW
-  slug: drweng
+  slug: "drweng"
 - name: Duolingo
-  slug: duolingo
+  slug: "duolingo"
+- name: Duolingo
+  slug: "duolingounirecruitment"
 - name: DV Trading
-  slug: dvtrading
+  slug: "dvtrading"
 - name: Elwood Technologies
-  slug: elwoodtechnologies
-- name: Everlaw
-  slug: everlaw
+  slug: "elwoodtechnologies"
+- name: Emergent Labs
+  slug: "emergentlabsinc"
 - name: Epic Games
-  slug: epicgames
+  slug: "epicgames"
+- name: EQT Corporation
+  slug: "eqtcorporation"
 - name: Esri
-  slug: esri
+  slug: "esri"
+- name: Eudia
+  slug: "eudia"
+- name: Eulerity
+  slug: "eulerity"
+- name: Everlaw
+  slug: "everlaw"
 - name: Evolver
-  slug: evolver
+  slug: "evolver"
+- name: Excel Sports Management
+  slug: "excelsportsmanagement"
 - name: Faire
-  slug: faire
+  slug: "faire"
 - name: Fanatics
-  slug: fanaticsinc
+  slug: "fanaticsinc"
 - name: Figma
-  slug: figma
+  slug: "figma"
 - name: Figure AI
-  slug: figureai
+  slug: "figureai"
 - name: Five Rings
-  slug: fiveringsllc
+  slug: "fiveringsllc"
+- name: Flagship Pioneering
+  slug: "fspco-op012325"
 - name: Flexport
-  slug: flexport
+  slug: "flexport"
 - name: Flow Traders
-  slug: flowtraders
+  slug: "flowtraders"
 - name: Formlabs
-  slug: formlabs
+  slug: "formlabs"
 - name: Freedom Technology Solutions Group
-  slug: freedomconsulting
+  slug: "freedomconsulting"
 - name: Freeform
-  slug: freeformfuturecorp
+  slug: "freeformfuturecorp"
+- name: Gallup
+  slug: "gallup"
 - name: Garda Capital Partners
-  slug: gardacp
+  slug: "gardacp"
+- name: Garner Health
+  slug: "garnerhealth"
 - name: Gemini
-  slug: gemini
+  slug: "gemini"
 - name: General Matter
-  slug: generalmatter
+  slug: "generalmatter"
 - name: Geneva Trading
-  slug: genevatrading
+  slug: "genevatrading"
+- name: Geotab
+  slug: "internshiplist2000"
 - name: GitLab
-  slug: gitlab
+  slug: "gitlab"
+- name: Glean
+  slug: "gleanwork"
 - name: GlossGenius
-  slug: glossgenius
+  slug: "glossgenius"
+- name: GoDaddy
+  slug: "eventsandinterns"
+- name: Golden Pet Brands
+  slug: "goldenpetbrands"
 - name: GoPro
-  slug: goprocareers
+  slug: "goprocareers"
 - name: Grafana Labs
-  slug: grafanalabs
+  slug: "grafanalabs"
 - name: Graham Capital Management
-  slug: grahamcapitalmanagement
+  slug: "grahamcapitalmanagement"
 - name: Gusto
-  slug: gusto
+  slug: "gusto"
 - name: Haize Labs
-  slug: haizelabs
+  slug: "haizelabs"
 - name: Hawkeye 360
-  slug: hawkeye360
+  slug: "hawkeye360"
 - name: Headlands Technologies
-  slug: headlandstechnologiesllc
+  slug: "headlandstechnologiesllc"
+- name: Hometap
+  slug: "hometapjobs"
+- name: Hone Health
+  slug: "honehealth"
 - name: Hootsuite
-  slug: hootsuite
+  slug: "hootsuite"
 - name: HP IQ
-  slug: hpiq
+  slug: "hpiq"
 - name: HPR
-  slug: hyannisportresearch
+  slug: "hyannisportresearch"
 - name: HubSpot
-  slug: hubspot
+  slug: "hubspot"
 - name: Hudl
-  slug: hudl
+  slug: "hudl"
 - name: iCapital Network
-  slug: icapitalnetwork
+  slug: "icapitalnetwork"
 - name: ICONIQ Capital
-  slug: iconiq
+  slug: "iconiq"
+- name: ID.me
+  slug: "idmeuniversityrecruiting"
 - name: IEX
-  slug: iex-interns
+  slug: "iex-interns"
 - name: iHerb
-  slug: iherb
+  slug: "iherb"
 - name: IMC Trading
-  slug: imc
+  slug: "imc"
 - name: Impact
-  slug: impact
+  slug: "impact"
+- name: Incident IQ
+  slug: "incidentiq"
 - name: Instacart
-  slug: instacart
+  slug: "instacart"
 - name: InstaLILY
-  slug: instalilyai
+  slug: "instalilyai"
 - name: Integra FEC
-  slug: integra
+  slug: "integra"
+- name: Integra FEC
+  slug: "integrainterns"
 - name: Intercom
-  slug: intercom
+  slug: "intercom"
 - name: InterSystems
-  slug: intersystems
+  slug: "intersystems"
 - name: IXL Learning
-  slug: ixllearning
+  slug: "ixllearning"
 - name: Jump Trading
-  slug: jumptrading
+  slug: "jumptrading"
+- name: K2 Space
+  slug: "k2spacecorporation"
 - name: Katalyst Space Technologies
-  slug: katalyst
+  slug: "katalyst"
 - name: KAYAK
-  slug: kayak
-- name: Klaviyo
-  slug: klaviyo
+  slug: "kayak"
+- name: Kensington
+  slug: "kensingtontours"
 - name: Kikoff
-  slug: kikoff
+  slug: "kikoff"
+- name: Klaviyo
+  slug: "klaviyo"
+- name: Klaviyo
+  slug: "klaviyocampus"
 - name: KnowBe4
-  slug: knowbe4
+  slug: "knowbe4"
 - name: Kodiak Robotics
-  slug: kodiak
+  slug: "kodiak"
 - name: Konrad Group
-  slug: konradgroup
+  slug: "konradgroup"
+- name: KRAFTON
+  slug: "studiokraftonboard"
 - name: Labelbox
-  slug: labelbox
+  slug: "labelbox"
 - name: Later
-  slug: later
+  slug: "later"
 - name: LaunchDarkly
-  slug: launchdarkly
+  slug: "launchdarkly"
 - name: Lila Sciences
-  slug: lilasciences
+  slug: "lilasciences"
 - name: Locus Robotics
-  slug: locusrobotics
+  slug: "locusrobotics"
 - name: Lucid Motors
-  slug: lucidmotors
+  slug: "lucidmotors"
 - name: Lyft
-  slug: lyft
+  slug: "lyft"
 - name: Marqeta
-  slug: marqeta
+  slug: "marqeta"
 - name: Marshall Wace
-  slug: mwinternshipprogram
+  slug: "mwinternshipprogram"
 - name: Maven Securities
-  slug: mavensecuritiesholdingltd
+  slug: "mavensecuritiesholdingltd"
 - name: Mercury
-  slug: mercury
+  slug: "mercury"
+- name: MetOx International
+  slug: "metoxinternationalinc"
 - name: Mixpanel
-  slug: mixpanel
+  slug: "mixpanel"
 - name: Moloco
-  slug: moloco
+  slug: "moloco"
 - name: MongoDB
-  slug: mongodb
+  slug: "mongodb"
+- name: MORSE Corp
+  slug: "morsecorpcoop"
 - name: Motive
-  slug: motive
+  slug: "motive"
 - name: mthree
-  slug: mthreerecruitingportal
+  slug: "mthreerecruitingportal"
+- name: Nanopath
+  slug: "nanopathinc"
+- name: National Information Solutions Cooperative
+  slug: "nisc"
+- name: National Life
+  slug: "nationallifeinsurancecompany"
 - name: Netlify
-  slug: netlify
+  slug: "netlify"
 - name: Neuralink
-  slug: neuralink
+  slug: "neuralink"
 - name: NewsBreak
-  slug: newsbreak
+  slug: "newsbreak"
 - name: Nextdoor
-  slug: nextdoor
+  slug: "nextdoor"
+- name: Notability
+  slug: "gingerlabsinc"
 - name: Nuro
-  slug: nuro
+  slug: "nuro"
 - name: OfferUp
-  slug: offerup
+  slug: "offerup"
 - name: Okta
-  slug: okta
+  slug: "okta"
 - name: Old Mission Capital
-  slug: oldmissioncapital
+  slug: "oldmissioncapital"
 - name: Optiver
-  slug: optiverprivate
+  slug: "optiverprivate"
+- name: Orennia
+  slug: "orennia"
 - name: Oscar Health
-  slug: oscar
+  slug: "oscar"
 - name: Outrider
-  slug: outrider
+  slug: "outrider"
+- name: Pacific Fusion
+  slug: "pacificfusion"
 - name: PagerDuty
-  slug: pagerduty
+  slug: "pagerduty"
 - name: PathAI
-  slug: pathai
+  slug: "pathai"
 - name: Payoneer
-  slug: payoneer
+  slug: "payoneer"
 - name: PDT Partners
-  slug: pdtpartners
+  slug: "pdtpartners"
 - name: Perpay
-  slug: perpay
+  slug: "perpay"
+- name: Phoenix Contact
+  slug: "phoenixcontact"
 - name: Ping Identity
-  slug: pingidentity
+  slug: "pingidentity"
 - name: Pinterest
-  slug: pinterest
+  slug: "pinterest"
 - name: Pipe17
-  slug: pipe17
+  slug: "pipe17"
 - name: PlanetScale
-  slug: planetscale
+  slug: "planetscale"
 - name: PlayStation
-  slug: sonyinteractiveentertainmentglobal
+  slug: "sonyinteractiveentertainmentglobal"
+- name: PMG
+  slug: "pmg"
 - name: Podium
-  slug: podium81
+  slug: "podium81"
 - name: Point72
-  slug: point72
+  slug: "point72"
 - name: Poshmark
-  slug: poshmark
+  slug: "poshmark"
 - name: Postman
-  slug: postman
+  slug: "postman"
 - name: Precisely
-  slug: preciselyusjobs
+  slug: "preciselyusjobs"
 - name: Pure Storage
-  slug: purestorage
+  slug: "purestorage"
 - name: Quadrillion
-  slug: quadrillion-labs
+  slug: "quadrillion-labs"
 - name: Qualtrics
-  slug: qualtrics
+  slug: "qualtrics"
+- name: Quantiq
+  slug: "quantiq"
 - name: QuEra Computing
-  slug: queracomputinginc
+  slug: "queracomputinginc"
 - name: Radix Trading
-  slug: radixuniversity
+  slug: "radixuniversity"
 - name: RapDev
-  slug: rapdev
+  slug: "rapdev"
 - name: Reddit
-  slug: reddit
+  slug: "reddit"
 - name: Redwood Materials
-  slug: redwoodmaterials
+  slug: "redwoodmaterials"
+- name: Relay
+  slug: "relaypro"
+- name: RenderATL
+  slug: "axontalentcommunity"
+- name: Rendezvous Robotics
+  slug: "rendezvousrobotics"
+- name: RF-SMART
+  slug: "rfsmart"
+- name: Ridgeline
+  slug: "ridgeline"
 - name: Riot Games
-  slug: riotgames
+  slug: "riotgames"
+- name: Riverside Natural Foods
+  slug: "riversidenaturalfoodsltd"
 - name: Robinhood
-  slug: robinhood
+  slug: "robinhood"
 - name: Roblox
-  slug: roblox
+  slug: "roblox"
 - name: Rocket Lab
-  slug: rocketlab
+  slug: "rocketlab"
 - name: Roku
-  slug: roku
+  slug: "roku"
 - name: Rubrik
-  slug: rubrik
+  slug: "rubrik"
 - name: Sage
-  slug: sage49
+  slug: "sage49"
 - name: Samaya AI
-  slug: samayaai
+  slug: "samayaai"
 - name: Samsara
-  slug: samsara
+  slug: "samsara"
+- name: Samsung Research America
+  slug: "samsungresearchamericainternship"
 - name: Scale AI
-  slug: scaleai
+  slug: "scaleai"
 - name: Schonfeld Strategic Advisors
-  slug: schonfeld
+  slug: "schonfeld"
+- name: SchoolMint
+  slug: "schoolmint"
 - name: Scout Motors
-  slug: scoutmotors
+  slug: "scoutmotors"
+- name: Self Financial
+  slug: "selffinancial"
 - name: SentinelOne
-  slug: sentinelone
+  slug: "sentinelone"
 - name: Seven Research
-  slug: sevenresearch
+  slug: "sevenresearch"
 - name: SharkNinja
-  slug: sharkninjaoperatingllc
+  slug: "sharkninjaoperatingllc"
 - name: Sigma Computing
-  slug: sigmacomputing
+  slug: "sigmacomputing"
 - name: SimpliSafe
-  slug: simplisafe
+  slug: "simplisafe"
 - name: SingleStore
-  slug: singlestore
+  slug: "singlestore"
+- name: Smartly.io
+  slug: "smartlyio"
 - name: Smartsheet
-  slug: smartsheet
+  slug: "smartsheet"
+- name: Snorkel AI
+  slug: "snorkelai"
 - name: SoFi
-  slug: sofi
+  slug: "sofi"
 - name: Sourcegraph
-  slug: sourcegraph91
+  slug: "sourcegraph91"
 - name: SpaceX
-  slug: spacex
+  slug: "spacex"
+- name: Sparksoft
+  slug: "sparksoftcorporation"
 - name: Squarespace
-  slug: squarespace
+  slug: "squarespace"
 - name: StackAdapt
-  slug: stackadapt-confidential
+  slug: "stackadapt-confidential"
+- name: StepStone Group
+  slug: "stepstone"
 - name: Stevens Capital Management
-  slug: scm
+  slug: "scm"
 - name: Stoke Space
-  slug: stokespacetechnologies
+  slug: "stokespacetechnologies"
 - name: Stripe
-  slug: stripe
+  slug: "stripe"
 - name: StubHub
-  slug: stubhubinc
+  slug: "stubhubinc"
 - name: Syska Hennessy Group
-  slug: syskahennessy
+  slug: "syskahennessy"
 - name: Take-Two Interactive
-  slug: taketwo
+  slug: "taketwo"
+- name: Tanium
+  slug: "tanium"
+- name: Tax Relief Advocates
+  slug: "taxreliefadvocates"
 - name: Tebra
-  slug: tebra
+  slug: "tebra"
 - name: Tenable
-  slug: tenableinc
+  slug: "tenableinc"
 - name: Tenstorrent
-  slug: tenstorrent
+  slug: "tenstorrent"
+- name: Tenstorrent
+  slug: "tenstorrentuniversity"
 - name: The Nuclear Company
-  slug: thenuclearcompany
+  slug: "thenuclearcompany"
 - name: The Trade Desk
-  slug: thetradedesk
+  slug: "thetradedesk"
 - name: ThreatLocker
-  slug: threatlocker
+  slug: "threatlocker"
 - name: Toast
-  slug: toast
+  slug: "toast"
 - name: Together AI
-  slug: togetherai
+  slug: "togetherai"
 - name: Torc Robotics
-  slug: torcrobotics
+  slug: "torcrobotics"
+- name: Toshiba Global Commerce
+  slug: "toshibaglobalcommercesolutions"
 - name: Tower Research Capital
-  slug: towerresearchcapital
+  slug: "towerresearchcapital"
 - name: TransMarket Group
-  slug: transmarketgroup
+  slug: "transmarketgroup"
 - name: TripAdvisor
-  slug: tripadvisor
+  slug: "tripadvisor"
 - name: True Anomaly
-  slug: trueanomalyinc
+  slug: "trueanomalyinc"
 - name: TrueBuilt
-  slug: applytotruebuilt
+  slug: "applytotruebuilt"
 - name: Truveta
-  slug: truveta
+  slug: "truveta"
 - name: Tudor Group
-  slug: tudorgroup
+  slug: "tudorgroup"
 - name: Twilio
-  slug: twilio
+  slug: "twilio"
 - name: Twitch
-  slug: twitch
+  slug: "twitch"
 - name: Two Six Technologies
-  slug: twosixtechnologies
+  slug: "twosixtechnologies"
 - name: Typeform
-  slug: typeform
+  slug: "typeform"
 - name: Uare.ai
-  slug: uareai
+  slug: "uareai"
 - name: Upstart
-  slug: upstart
+  slug: "upstart"
 - name: UVIMCO
-  slug: uvimco
+  slug: "uvimco"
 - name: Varda Space
-  slug: vardaspace
+  slug: "vardaspace"
 - name: Vast
-  slug: vast
+  slug: "vast"
 - name: Veeam Software
-  slug: veeamsoftware
+  slug: "veeamsoftware"
+- name: Vercel
+  slug: "vercel"
 - name: Verisign
-  slug: verisign
+  slug: "verisign"
 - name: Verkada
-  slug: verkada
+  slug: "verkada"
+- name: Vestmark Internship Program
+  slug: "internrecruiting"
+- name: Viam
+  slug: "viamrobotics"
 - name: Virtu Financial
-  slug: virtu
+  slug: "virtu"
+- name: Visier Solutions
+  slug: "visiersolutionsinc"
 - name: Voloridge Investment Management
-  slug: voloridgeinvestmentmanagement
+  slug: "voloridgeinvestmentmanagement"
 - name: Walleye Capital
-  slug: walleyecapital-external-students
+  slug: "walleyecapital-external-students"
 - name: Warp
-  slug: warp
+  slug: "warp"
+- name: Wasabi
+  slug: "wasabi"
+- name: Waymark
+  slug: "waymark"
 - name: Waymo
-  slug: waymo
+  slug: "waymo"
 - name: Webflow
-  slug: webflow
+  slug: "webflow"
+- name: West Monroe
+  slug: "westmonroe5"
+- name: WhiteWater Midstream
+  slug: "whitewatermidstream"
 - name: Wonderschool
-  slug: wonderschool
+  slug: "wonderschool"
+- name: Workato
+  slug: "workato"
+- name: Workshop
+  slug: "workshop"
 - name: WorldQuant
-  slug: worldquant
+  slug: "worldquant"
+- name: xAI
+  slug: "xai"
+- name: Xaira Therapeutics
+  slug: "xairatherapeutics"
+- name: Xantium
+  slug: "xantium"
 - name: XPENG Motors
-  slug: xpengmotors
+  slug: "xpengmotors"
 - name: Zipline
-  slug: flyzipline
+  slug: "flyzipline"
 - name: Zscaler
-  slug: zscaler
+  slug: "zscaler"
 - name: Zynga
-  slug: zyngacareers
+  slug: "zyngacareers"
+
 lever:
 - name: ACDS
-  slug: acds
+  slug: "acds"
+- name: Achievers
+  slug: "achievers"
+- name: Acron Aviation
+  slug: "acronaviation"
 - name: Aledade
-  slug: aledade
+  slug: "aledade"
 - name: AnaVation
-  slug: anavationllc
+  slug: "anavationllc"
 - name: Ansatz Capital
-  slug: ansatzcapital
+  slug: "ansatzcapital"
 - name: Artera
-  slug: artera-2
+  slug: "artera-2"
 - name: Belvedere Trading
-  slug: belvederetrading
+  slug: "belvederetrading"
 - name: Blue Origin
-  slug: blueorigin
+  slug: "blueorigin"
+- name: Center for AI Safety
+  slug: "aisafety"
+- name: CertiK
+  slug: "certik"
 - name: CesiumAstro
-  slug: CesiumAstro
+  slug: "CesiumAstro"
 - name: Coupa Software
-  slug: coupa
+  slug: "coupa"
+- name: Crest Industries
+  slug: "crestoperations"
 - name: Datalab USA
-  slug: datalabusa
+  slug: "datalabusa"
+- name: Diversified Automation
+  slug: "diversified-automation"
+- name: Dynamic Catholic
+  slug: "dynamiccatholic"
+- name: Eko Health
+  slug: "ekohealth"
+- name: Elk Valley Resources
+  slug: "evr"
+- name: Equitable Bank
+  slug: "eqbank"
 - name: EV Realty
-  slug: evrealty-us
+  slug: "evrealty-us"
 - name: Exowatt
-  slug: exowatt
+  slug: "exowatt"
+- name: Field AI
+  slug: "field-ai"
 - name: GenBio AI
-  slug: genbio
+  slug: "genbio"
+- name: GeoComply
+  slug: "geocomply-2"
 - name: GRAIL
-  slug: grailbio
+  slug: "grailbio"
+- name: Hatch IT
+  slug: "hatchit"
 - name: Hermeus
-  slug: hermeus
+  slug: "hermeus"
+- name: Immuta
+  slug: "immuta"
+- name: Institute for Foundation Models
+  slug: "ifm-us"
+- name: Kensington
+  slug: "kepler"
+- name: Kitware
+  slug: "kitware"
 - name: Last Energy
-  slug: last-energy
+  slug: "last-energy"
+- name: Layup Parts
+  slug: "layup"
+- name: Lightcast
+  slug: "economicmodeling"
 - name: Mainspring Energy
-  slug: mainspringenergy
+  slug: "mainspringenergy"
+- name: Match Group
+  slug: "matchgroup"
+- name: Mirego
+  slug: "mirego"
+- name: Neighbor
+  slug: "neighbor"
 - name: Palantir
-  slug: palantir
+  slug: "palantir"
 - name: PingWind
-  slug: pingwind
+  slug: "pingwind"
 - name: Plus
-  slug: plus-2
+  slug: "plus-2"
+- name: Protective Life
+  slug: "protective"
+- name: Qrypt
+  slug: "qrypt"
 - name: Rainmaker
-  slug: make-rain
+  slug: "make-rain"
+- name: Rigetti
+  slug: "rigetti"
+- name: Rover
+  slug: "rover"
+- name: Saviynt
+  slug: "saviynt"
+- name: SEP
+  slug: "sep"
 - name: Shield AI
-  slug: shieldai
-- name: SteerBridge
-  slug: steerbridge
+  slug: "shieldai"
+- name: ShyftLabs
+  slug: "shyftlabs"
 - name: SoloPulse
-  slug: solopulseco
+  slug: "solopulseco"
 - name: Spotify
-  slug: spotify
+  slug: "spotify"
+- name: Stand Together
+  slug: "standtogether"
+- name: SteerBridge
+  slug: "steerbridge"
+- name: Synergy ECP
+  slug: "synergyecp"
+- name: Toyota Research Institute
+  slug: "tri"
 - name: UiPath
-  slug: uipath
+  slug: "uipath"
 - name: Valkyrie Trading
-  slug: valkyrietrading
+  slug: "valkyrietrading"
 - name: Valon
-  slug: Valon
+  slug: "Valon"
 - name: Veeva Systems
-  slug: veeva
+  slug: "veeva"
+- name: Velo3D
+  slug: "velo3d"
 - name: Wattpad
-  slug: wattpad
-- name: WeRide
-  slug: weride
+  slug: "wattpad"
 - name: Wealthfront
-  slug: wealthfront
+  slug: "wealthfront"
+- name: WeRide
+  slug: "weride"
 - name: WHOOP
-  slug: whoop
+  slug: "whoop"
 - name: Woven by Toyota
-  slug: woven-by-toyota
+  slug: "woven-by-toyota"
 - name: Wyetech
-  slug: wyetechllc
+  slug: "wyetechllc"
+- name: Xcimer Energy
+  slug: "xcimer"
 - name: Xsolla
-  slug: xsolla
+  slug: "xsolla"
 - name: Zoox
-  slug: zoox
+  slug: "zoox"
+
 smartrecruiters:
+- name: 9to9 Software Solutions
+  identifier: "9to9SoftwareSolutionsLLC"
 - name: AbbVie
-  identifier: AbbVie
+  identifier: "AbbVie"
+- name: Acumatica
+  identifier: "Acumatica"
+- name: AG Technologies
+  identifier: "AGTechnologies1"
 - name: Altice USA
-  identifier: AlticeUSA
+  identifier: "AlticeUSA"
+- name: Bosch
+  identifier: "BoschGroup"
+- name: CACI
+  identifier: "NextCenturyCorporation"
 - name: Canva
-  identifier: Canva
+  identifier: "Canva"
+- name: Codeage
+  identifier: "Codeage"
 - name: DocuSign
-  identifier: DocuSign
+  identifier: "DocuSign"
+- name: Encephalo Investments
+  identifier: "EncephaloInvestments"
 - name: Endava
-  identifier: Endava
+  identifier: "Endava"
 - name: Experian
-  identifier: Experian
+  identifier: "Experian"
+- name: Felix Magazine
+  identifier: "LuxeMediaLLC"
+- name: Fortune Brands
+  identifier: "FortuneBrands"
 - name: Freshworks
-  identifier: Freshworks
+  identifier: "Freshworks"
+- name: General Dynamics Mission Systems
+  identifier: "GDMSI"
 - name: Glean
-  identifier: Glean
+  identifier: "Glean"
+- name: HireVue
+  identifier: "HireVue"
 - name: Honeywell
-  identifier: Honeywell
+  identifier: "Honeywell"
+- name: Inbulks
+  identifier: "InbulksCorp"
+- name: INFICON
+  identifier: "INFICON2"
+- name: InfiniteQuant
+  identifier: "InfiniteQuant"
+- name: Insilico Logix
+  identifier: "InsilicoLogix"
+- name: Interco
+  identifier: "Interco"
+- name: Intuitive
+  identifier: "Intuitive"
+- name: Jobsbridge
+  identifier: "Jobsbridge1"
+- name: KRG Technologies
+  identifier: "KrgTechnologyInc"
+- name: LinkedIn
+  identifier: "LinkedIn3"
+- name: LLNL
+  identifier: "llnl"
+- name: Loram
+  identifier: "Loram1"
+- name: Léger
+  identifier: "Leger2"
+- name: M3USA
+  identifier: "M3USA"
 - name: Manhattan Associates
-  identifier: ManhattanAssociates
+  identifier: "ManhattanAssociates"
+- name: Marlabs
+  identifier: "MarlabsInc1"
 - name: MITRE
-  identifier: MITRE
+  identifier: "MITRE"
+- name: National Software Management
+  identifier: "NationalSoftwareManagement1"
+- name: NBCUniversal
+  identifier: "NBCUniversal3"
+- name: North Star Staffing Solutions
+  identifier: "NorthStarStaffingSolutions1"
+- name: Northwestern Mutual
+  identifier: "NorthwesternMutual"
+- name: Pilot Company
+  identifier: "PilotCompany"
+- name: Prosidian Consulting
+  identifier: "prosidianconsulting"
+- name: Raytheon Technologies
+  identifier: "RaytheonTechnologies"
+- name: Red Bull
+  identifier: "RedBull"
+- name: RegDesk
+  identifier: "RegDeskInc"
+- name: RESPEC
+  identifier: "RESPECInc"
 - name: Rippling
-  identifier: Rippling
+  identifier: "Rippling"
 - name: Roland Berger
-  identifier: RolandBerger
+  identifier: "RolandBerger"
 - name: SanDisk
-  identifier: Sandisk
+  identifier: "Sandisk"
 - name: ServiceNow
-  identifier: ServiceNow
+  identifier: "ServiceNow"
+- name: SightCall
+  identifier: "SightCall"
+- name: Skyward
+  identifier: "Skyward1"
+- name: Smarter Agent
+  identifier: "SmarterAgent"
+- name: SOCOTEC Global
+  identifier: "Socotec"
+- name: Software Quality Experts
+  identifier: "SQexpetsLLC"
+- name: Solidigm
+  identifier: "Solidigm"
+- name: TTP
+  identifier: "TTP1"
+- name: Veolia
+  identifier: "VeoliaEnvironnementSA"
 - name: Visa
-  identifier: Visa
+  identifier: "Visa"
+- name: VWH Capital Management
+  identifier: "VWHCapitalManagementLP"
 - name: Wayfair
-  identifier: Wayfair
+  identifier: "Wayfair"
+- name: Wellmark
+  identifier: "WellmarkInc"
 - name: Western Digital
-  identifier: WesternDigital
+  identifier: "WesternDigital"
+- name: Winsupply
+  identifier: "Winsupply1"
 - name: Wise
-  identifier: Wise
+  identifier: "Wise"
+- name: Zoomifier
+  identifier: "CustomShow"
+
 workday:
 - name: 3M
-  tenant: 3m
-  instance: wd1
-  board: Search
+  tenant: "3m"
+  instance: "wd1"
+  board: "Search"
 - name: AB InBev
-  tenant: abinbev
-  instance: wd1
-  board: USA
+  tenant: "abinbev"
+  instance: "wd1"
+  board: "USA"
+- name: ABB
+  tenant: "abb"
+  instance: "wd3"
+  board: "external_career_page"
 - name: Abbott Laboratories
-  tenant: abbott
-  instance: wd5
-  board: abbottcareers
-- name: Apex Fintech Solutions
-  tenant: peak6group
-  instance: wd1
-  board: apexfintechsolutions
+  tenant: "abbott"
+  instance: "wd5"
+  board: "abbottcareers"
 - name: Accenture
-  tenant: accenture
-  instance: wd103
-  board: AccentureCareers
+  tenant: "accenture"
+  instance: "wd103"
+  board: "AccentureCareers"
 - name: Acrisure
-  tenant: acrisure
-  instance: wd1
-  board: Acrisure
+  tenant: "acrisure"
+  instance: "wd1"
+  board: "Acrisure"
+- name: Acxiom
+  tenant: "acxiomllc"
+  instance: "wd5"
+  board: "AcxiomUSA"
 - name: Adobe
-  tenant: adobe
-  instance: wd5
-  board: external_experienced
+  tenant: "adobe"
+  instance: "wd5"
+  board: "external_experienced"
 - name: Adtran
-  tenant: adtran
-  instance: wd3
-  board: adtran
+  tenant: "adtran"
+  instance: "wd3"
+  board: "adtran"
 - name: AeroVironment
-  tenant: avav
-  instance: wd1
-  board: AVAV
+  tenant: "avav"
+  instance: "wd1"
+  board: "AVAV"
+- name: AES
+  tenant: "aes"
+  instance: "wd1"
+  board: "AES_US"
 - name: Agilent Technologies
-  tenant: agilent
-  instance: wd5
-  board: Agilent_Careers
+  tenant: "agilent"
+  instance: "wd5"
+  board: "Agilent_Careers"
 - name: AIG
-  tenant: aig
-  instance: wd1
-  board: aig
+  tenant: "aig"
+  instance: "wd1"
+  board: "aig"
 - name: Air Products
-  tenant: airproducts
-  instance: wd5
-  board: AP0001
+  tenant: "airproducts"
+  instance: "wd5"
+  board: "AP0001"
+- name: Airbus
+  tenant: "ag"
+  instance: "wd3"
+  board: "airbus"
 - name: Alation
-  tenant: alation
-  instance: wd503
-  board: ExternalSite
+  tenant: "alation"
+  instance: "wd503"
+  board: "ExternalSite"
+- name: Alcon
+  tenant: "alcon"
+  instance: "wd5"
+  board: "careers_alcon"
 - name: Allegion
-  tenant: allegion
-  instance: wd5
-  board: careers
+  tenant: "allegion"
+  instance: "wd5"
+  board: "careers"
+- name: AllianceBernstein
+  tenant: "abglobal"
+  instance: "wd1"
+  board: "abcampuscareers"
+- name: Allied Solutions
+  tenant: "alliedsolutions"
+  instance: "wd501"
+  board: "Allied_External"
+- name: Allstate
+  tenant: "allstate"
+  instance: "wd5"
+  board: "allstate_careers"
+- name: Altard State
+  tenant: "standoutforgood"
+  instance: "wd12"
+  board: "StandOutForGood"
+- name: Altera
+  tenant: "altera"
+  instance: "wd1"
+  board: "altera"
 - name: Ambarella
-  tenant: ambarella
-  instance: wd108
-  board: ambarella
+  tenant: "ambarella"
+  instance: "wd108"
+  board: "ambarella"
+- name: Amcor
+  tenant: "amcor"
+  instance: "wd5"
+  board: "amcor_external_career_site"
+- name: Amentum
+  tenant: "pae"
+  instance: "wd1"
+  board: "amentum_careers"
 - name: Ameren
-  tenant: ameren
-  instance: wd1
-  board: External
+  tenant: "ameren"
+  instance: "wd1"
+  board: "External"
+- name: American Century Investments
+  tenant: "americancentury"
+  instance: "wd5"
+  board: "americancenturyinvestments"
+- name: American Family Insurance Group
+  tenant: "amfam"
+  instance: "wd1"
+  board: "AmFamGroupInternCareers"
+- name: American Fidelity
+  tenant: "americanfidelity"
+  instance: "wd5"
+  board: "External"
 - name: Ameriprise Financial
-  tenant: ameriprise
-  instance: wd5
-  board: Ameriprise
+  tenant: "ameriprise"
+  instance: "wd5"
+  board: "Ameriprise"
 - name: Amgen
-  tenant: amgen
-  instance: wd1
-  board: careers
+  tenant: "amgen"
+  instance: "wd1"
+  board: "careers"
 - name: Analog Devices
-  tenant: analogdevices
-  instance: wd1
-  board: External
+  tenant: "analogdevices"
+  instance: "wd1"
+  board: "External"
+- name: Analytical Mechanics Associates
+  tenant: "amainc"
+  instance: "wd12"
+  board: "ama_careers"
 - name: Ancestry
-  tenant: ancestry
-  instance: wd501
-  board: Careers
-- name: Aptiv
-  tenant: aptiv
-  instance: wd5
-  board: aptiv_careers
-- name: Ardian
-  tenant: ardian
-  instance: wd103
-  board: ArdianCareers
-- name: Arrowstreet Capital
-  tenant: arrowstreetcapital
-  instance: wd5
-  board: Campus_Careers
-- name: Autodesk
-  tenant: autodesk
-  instance: wd1
-  board: Ext
+  tenant: "ancestry"
+  instance: "wd501"
+  board: "Careers"
+- name: Ankura
+  tenant: "ankura"
+  instance: "wd5"
+  board: "ankura"
+- name: Apex Fintech Solutions
+  tenant: "peak6group"
+  instance: "wd1"
+  board: "apexfintechsolutions"
 - name: Applied Materials
-  tenant: amat
-  instance: wd1
-  board: External
+  tenant: "amat"
+  instance: "wd1"
+  board: "External"
+- name: Aptiv
+  tenant: "aptiv"
+  instance: "wd5"
+  board: "aptiv_careers"
+- name: Arch Capital Group
+  tenant: "archgroup"
+  instance: "wd1"
+  board: "careers"
+- name: Ardian
+  tenant: "ardian"
+  instance: "wd103"
+  board: "ArdianCareers"
+- name: Arizona State University
+  tenant: "asu"
+  instance: "wd1"
+  board: "ASUStaffCareers"
+- name: Arrowstreet Capital
+  tenant: "arrowstreetcapital"
+  instance: "wd5"
+  board: "Campus_Careers"
+- name: ASML
+  tenant: "asml"
+  instance: "wd3"
+  board: "asmlext1"
+- name: AspenTech
+  tenant: "aspentech"
+  instance: "wd5"
+  board: "aspentech"
+- name: Assurant
+  tenant: "assurant"
+  instance: "wd1"
+  board: "External_Limited_Posting"
+- name: Astreya
+  tenant: "astreya"
+  instance: "wd5"
+  board: "life-at-astreya-opportunities"
+- name: Athene
+  tenant: "athene"
+  instance: "wd5"
+  board: "athene_careers"
+- name: AtkinsRéalis
+  tenant: "slihrms"
+  instance: "wd3"
+  board: "careers"
 - name: Auto-Owners
-  tenant: aoins
-  instance: wd5
-  board: AutoOwners
+  tenant: "aoins"
+  instance: "wd5"
+  board: "AutoOwners"
+- name: Autodesk
+  tenant: "autodesk"
+  instance: "wd1"
+  board: "Ext"
+- name: Autostore
+  tenant: "autostore"
+  instance: "wd3"
+  board: "autostore"
+- name: Availity
+  tenant: "availity"
+  instance: "wd1"
+  board: "availity_careers_us"
 - name: AVEVA
-  tenant: aveva
-  instance: wd3
-  board: AVEVA_careers
+  tenant: "aveva"
+  instance: "wd3"
+  board: "AVEVA_careers"
+- name: Avis Budget Group
+  tenant: "avisbudget"
+  instance: "wd1"
+  board: "abg_careers"
+- name: Axcelis
+  tenant: "axcelis"
+  instance: "wd1"
+  board: "axcelis"
+- name: Axiom Space
+  tenant: "axiomspace"
+  instance: "wd5"
+  board: "External_Career_Site"
 - name: Axos Bank
-  tenant: axos
-  instance: wd5
-  board: Axos
+  tenant: "axos"
+  instance: "wd5"
+  board: "Axos"
+- name: Baird
+  tenant: "baird"
+  instance: "wd1"
+  board: "careers"
 - name: Baker Hughes
-  tenant: bakerhughes
-  instance: wd5
-  board: BakerHughes
+  tenant: "bakerhughes"
+  instance: "wd5"
+  board: "BakerHughes"
 - name: Barclays
-  tenant: barclays
-  instance: wd3
-  board: External_Career_Site_Barclays
+  tenant: "barclays"
+  instance: "wd3"
+  board: "External_Career_Site_Barclays"
+- name: Barr
+  tenant: "barr"
+  instance: "wd1"
+  board: "barrcareers"
 - name: Barry-Wehmiller
-  tenant: barrywehmiller
-  instance: wd1
-  board: BWConfidential
+  tenant: "barrywehmiller"
+  instance: "wd1"
+  board: "BWConfidential"
+- name: basspro
+  tenant: "basspro"
+  instance: "wd1"
+  board: "careers"
+- name: Baxter International
+  tenant: "baxter"
+  instance: "wd1"
+  board: "baxter"
+- name: BDO Canada
+  tenant: "bdo"
+  instance: "wd3"
+  board: "BDO"
 - name: BlackRock
-  tenant: blackrock
-  instance: wd1
-  board: BlackRock_Professional
+  tenant: "blackrock"
+  instance: "wd1"
+  board: "BlackRock_Professional"
 - name: Blackstone
-  tenant: blackstone
-  instance: wd1
-  board: Blackstone_Campus_Careers
+  tenant: "blackstone"
+  instance: "wd1"
+  board: "Blackstone_Campus_Careers"
+- name: Blue Cross and Blue Shield of Kansas
+  tenant: "bcbsks"
+  instance: "wd1"
+  board: "external"
+- name: Blue Origin
+  tenant: "blueorigin"
+  instance: "wd5"
+  board: "blueorigin"
+- name: BlueCross BlueShield of Nebraska
+  tenant: "nebraskablue"
+  instance: "wd1"
+  board: "BCBSNE"
 - name: BMO Financial Group
-  tenant: bmo
-  instance: wd3
-  board: External
+  tenant: "bmo"
+  instance: "wd3"
+  board: "External"
 - name: Boeing
-  tenant: boeing
-  instance: wd1
-  board: EXTERNAL_CAREERS
+  tenant: "boeing"
+  instance: "wd1"
+  board: "EXTERNAL_CAREERS"
 - name: Booz Allen Hamilton
-  tenant: bah
-  instance: wd1
-  board: BAH_Jobs
+  tenant: "bah"
+  instance: "wd1"
+  board: "BAH_Jobs"
 - name: Boston Dynamics
-  tenant: bostondynamics
-  instance: wd1
-  board: Boston_Dynamics_Career
+  tenant: "bostondynamics"
+  instance: "wd1"
+  board: "Boston_Dynamics_Career"
+- name: BP
+  tenant: "bpinternational"
+  instance: "wd3"
+  board: "bpEarlyCareers"
+- name: Bracco
+  tenant: "bracco"
+  instance: "wd103"
+  board: "braccocareers"
+- name: BRG
+  tenant: "thinkbrg"
+  instance: "wd5"
+  board: "BRG_External_Career_Site"
+- name: British Columbia Investment
+  tenant: "bci"
+  instance: "wd10"
+  board: "BCI_Careers"
+- name: Brookfield
+  tenant: "brookfield"
+  instance: "wd5"
+  board: "brookfieldprivate"
 - name: Brunswick
-  tenant: brunswick
-  instance: wd1
-  board: search
+  tenant: "brunswick"
+  instance: "wd1"
+  board: "search"
+- name: C.H. Robinson
+  tenant: "chrobinson"
+  instance: "wd5"
+  board: "CHRobinson"
 - name: CACI
-  tenant: caci
-  instance: wd1
-  board: external
+  tenant: "caci"
+  instance: "wd1"
+  board: "external"
 - name: Cadence Design Systems
-  tenant: cadence
-  instance: wd1
-  board: External_Careers
+  tenant: "cadence"
+  instance: "wd1"
+  board: "External_Careers"
 - name: CAE Inc.
-  tenant: cae
-  instance: wd3
-  board: CAE
+  tenant: "cae"
+  instance: "wd3"
+  board: "CAE"
+- name: CAI
+  tenant: "cai"
+  instance: "wd5"
+  board: "computer_aid"
 - name: Campbell Soup Company
-  tenant: campbellsoup
-  instance: wd5
-  board: externalcareers_globalsite
-- name: Castleton Commodities International
-  tenant: osv-cci
-  instance: wd1
-  board: CCICareers
+  tenant: "campbellsoup"
+  instance: "wd5"
+  board: "externalcareers_globalsite"
 - name: Canadian Tire
-  tenant: canadiantirecorporation
-  instance: wd3
-  board: Enterprise_External_Careers_Site
+  tenant: "canadiantirecorporation"
+  instance: "wd3"
+  board: "Enterprise_External_Careers_Site"
 - name: Capital One
-  tenant: capitalone
-  instance: wd12
-  board: Capital_One
+  tenant: "capitalone"
+  instance: "wd12"
+  board: "Capital_One"
+- name: Cardinal Health
+  tenant: "cardinalhealth"
+  instance: "wd1"
+  board: "EXT"
+- name: Carnegie Mellon University
+  tenant: "cmu"
+  instance: "wd115"
+  board: "CMU"
+- name: Carnegie Mellon University
+  tenant: "cmu"
+  instance: "wd115"
+  board: "sei"
+- name: Castleton Commodities International
+  tenant: "osv-cci"
+  instance: "wd1"
+  board: "CCICareers"
+- name: Cboe Global Markets
+  tenant: "cboe"
+  instance: "wd1"
+  board: "external_career_cboe"
+- name: CCC Intelligent Solutions
+  tenant: "cccis"
+  instance: "wd1"
+  board: "broadbean_external"
+- name: Centene
+  tenant: "centene"
+  instance: "wd5"
+  board: "Centene_External"
+- name: Centific
+  tenant: "centific"
+  instance: "wd1"
+  board: "Centific_Global"
+- name: Central Hudson
+  tenant: "cenhud"
+  instance: "wd5"
+  board: "cenhud"
 - name: Chamberlain Group
-  tenant: chamberlain
-  instance: wd1
-  board: Chamberlain_Group
+  tenant: "chamberlain"
+  instance: "wd1"
+  board: "Chamberlain_Group"
+- name: Charter Manufacturing
+  tenant: "chartermfg"
+  instance: "wd5"
+  board: "Charter_Careers"
+- name: Chemours
+  tenant: "chemours"
+  instance: "wd103"
+  board: "Chemours"
 - name: Chevron
-  tenant: chevron
-  instance: wd5
-  board: jobs
+  tenant: "chevron"
+  instance: "wd5"
+  board: "jobs"
 - name: Chewy
-  tenant: chewy
-  instance: wd5
-  board: External
+  tenant: "chewy"
+  instance: "wd5"
+  board: "External"
+- name: "Church & Dwight"
+  tenant: "churchdwight"
+  instance: "wd1"
+  board: "chdcareers"
+- name: CIBC
+  tenant: "cibc"
+  instance: "wd3"
+  board: "campus"
+- name: CIBC
+  tenant: "cibc"
+  instance: "wd3"
+  board: "search"
 - name: Ciena
-  tenant: ciena
-  instance: wd5
-  board: Careers
+  tenant: "ciena"
+  instance: "wd5"
+  board: "Careers"
+- name: Cigna
+  tenant: "cigna"
+  instance: "wd5"
+  board: "cignacareers"
 - name: Cisco
-  tenant: cisco
-  instance: wd5
-  board: Cisco_Careers
+  tenant: "cisco"
+  instance: "wd5"
+  board: "Cisco_Careers"
 - name: Cisive
-  tenant: cisive
-  instance: wd108
-  board: Cisive
+  tenant: "cisive"
+  instance: "wd108"
+  board: "Cisive"
+- name: Citi
+  tenant: "citi"
+  instance: "wd5"
+  board: "2"
+- name: City of Austin
+  tenant: "austintexas"
+  instance: "wd5"
+  board: "COA_Careers"
+- name: Clarios
+  tenant: "clarios"
+  instance: "wd5"
+  board: "clarioscareers"
 - name: Clearwater Analytics
-  tenant: clearwateranalytics
-  instance: wd1
-  board: Clearwater_Analytics_Careers
+  tenant: "clearwateranalytics"
+  instance: "wd1"
+  board: "Clearwater_Analytics_Careers"
+- name: Cleveland-Cliffs
+  tenant: "aksteel"
+  instance: "wd1"
+  board: "careers"
 - name: Cloudera
-  tenant: cloudera
-  instance: wd5
-  board: External_Career
+  tenant: "cloudera"
+  instance: "wd5"
+  board: "External_Career"
+- name: CME Group
+  tenant: "cmegroup"
+  instance: "wd1"
+  board: "cme_careers"
+- name: CNA Insurance
+  tenant: "cna"
+  instance: "wd1"
+  board: "cna_careers"
 - name: CNO Financial Group
-  tenant: cnoinc
-  instance: wd5
-  board: Careers
+  tenant: "cnoinc"
+  instance: "wd5"
+  board: "Careers"
+- name: Comcast
+  tenant: "comcast"
+  instance: "wd115"
+  board: "Comcast_Careers"
 - name: Comcast NBCUniversal
-  tenant: comcast
-  instance: wd5
-  board: Comcast_Careers
+  tenant: "comcast"
+  instance: "wd5"
+  board: "Comcast_Careers"
 - name: Commerce Bank
-  tenant: commercebank
-  instance: wd1
-  board: CommerceJobs
+  tenant: "commercebank"
+  instance: "wd1"
+  board: "CommerceJobs"
 - name: Conagra Brands
-  tenant: conagrabrands
-  instance: wd1
-  board: careers_us
+  tenant: "conagrabrands"
+  instance: "wd1"
+  board: "careers_us"
 - name: ConocoPhillips
-  tenant: conocophillips
-  instance: wd1
-  board: External
+  tenant: "conocophillips"
+  instance: "wd1"
+  board: "External"
+- name: Continental Resources
+  tenant: "clr"
+  instance: "wd5"
+  board: "CLR_Careers"
 - name: Copart
-  tenant: copart
-  instance: wd12
-  board: copart
+  tenant: "copart"
+  instance: "wd12"
+  board: "copart"
+- name: "Core & Main"
+  tenant: "coreandmain"
+  instance: "wd1"
+  board: "coreandmain"
+- name: Corteva
+  tenant: "corteva"
+  instance: "wd5"
+  board: "corteva"
 - name: CoStar Group
-  tenant: costar
-  instance: wd1
-  board: CoStarCareers
+  tenant: "costar"
+  instance: "wd1"
+  board: "CoStarCareers"
 - name: CoStar Group
-  tenant: costar
-  instance: wd1
-  board: Costar_Campus
+  tenant: "costar"
+  instance: "wd1"
+  board: "Costar_Campus"
+- name: COUNTRY Financial
+  tenant: "countryfinancial"
+  instance: "wd5"
+  board: "COUNTRYCorporateInternships"
 - name: Cox Enterprises
-  tenant: cox
-  instance: wd1
-  board: Cox_External_Career_Site_1
+  tenant: "cox"
+  instance: "wd1"
+  board: "Cox_External_Career_Site_1"
 - name: Cracker Barrel
-  tenant: cbrlgroup
-  instance: wd503
-  board: crackerbarrelexternal
+  tenant: "cbrlgroup"
+  instance: "wd503"
+  board: "crackerbarrelexternal"
+- name: CRC Group
+  tenant: "tihinsurance"
+  instance: "wd1"
+  board: "crc_careers"
 - name: CrowdStrike
-  tenant: crowdstrike
-  instance: wd5
-  board: crowdstrikecareers
+  tenant: "crowdstrike"
+  instance: "wd5"
+  board: "crowdstrikecareers"
 - name: Crowe
-  tenant: crowe
-  instance: wd12
-  board: external_careers
+  tenant: "crowe"
+  instance: "wd12"
+  board: "external_careers"
 - name: CVS Health
-  tenant: cvshealth
-  instance: wd1
-  board: CVS_Health_Careers
+  tenant: "cvshealth"
+  instance: "wd1"
+  board: "CVS_Health_Careers"
+- name: Dairyland Power Cooperative
+  tenant: "dairynet"
+  instance: "wd1"
+  board: "DPCcareers"
 - name: Danaher Corporation
-  tenant: danaher
-  instance: wd1
-  board: danaherjobs
+  tenant: "danaher"
+  instance: "wd1"
+  board: "danaherjobs"
+- name: Datasite
+  tenant: "datasite"
+  instance: "wd1"
+  board: "datasite"
 - name: Dee Zee
-  tenant: deezee
-  instance: wd108
-  board: DeeZee_Careers
+  tenant: "deezee"
+  instance: "wd108"
+  board: "DeeZee_Careers"
 - name: Dell Technologies
-  tenant: dell
-  instance: wd1
-  board: External
+  tenant: "dell"
+  instance: "wd1"
+  board: "External"
 - name: Deutsche Bank
-  tenant: db
-  instance: wd3
-  board: DBWebsite
+  tenant: "db"
+  instance: "wd3"
+  board: "DBWebsite"
 - name: Dexcom
-  tenant: dexcom
-  instance: wd1
-  board: Dexcom
+  tenant: "dexcom"
+  instance: "wd1"
+  board: "Dexcom"
+- name: "Dick's Sporting Goods"
+  tenant: "dickssportinggoods"
+  instance: "wd1"
+  board: "DSG"
+- name: Dimensional
+  tenant: "dimensional"
+  instance: "wd5"
+  board: "dfa_careers"
+- name: Direct Supply
+  tenant: "directsupply"
+  instance: "wd501"
+  board: "direct-supply-careers"
+- name: DIRECTV
+  tenant: "directv"
+  instance: "wd1"
+  board: "careers"
 - name: Disney
-  tenant: disney
-  instance: wd5
-  board: disneycareer
+  tenant: "disney"
+  instance: "wd5"
+  board: "disneycareer"
+- name: Dow Jones
+  tenant: "dowjones"
+  instance: "wd1"
+  board: "Dow_Jones_Career"
 - name: DraftKings
-  tenant: draftkings
-  instance: wd1
-  board: DraftKings
+  tenant: "draftkings"
+  instance: "wd1"
+  board: "DraftKings"
 - name: Draper
-  tenant: draper
-  instance: wd5
-  board: draper_careers
-- name: DuCharme McMillen & Associates
-  tenant: dmainc
-  instance: wd5
-  board: dma
+  tenant: "draper"
+  instance: "wd5"
+  board: "draper_careers"
+- name: DriveTime
+  tenant: "drivetime"
+  instance: "wd1"
+  board: "DriveTime"
+- name: "DuCharme McMillen & Associates"
+  tenant: "dmainc"
+  instance: "wd5"
+  board: "dma"
 - name: DXC Technology
-  tenant: dxctechnology
-  instance: wd1
-  board: DXCJobs
-- name: Enphase Energy
-  tenant: enphaseenergy
-  instance: wd1
-  board: enphase
-- name: Equifax
-  tenant: equifax
-  instance: wd5
-  board: UR_External
+  tenant: "dxctechnology"
+  instance: "wd1"
+  board: "DXCJobs"
 - name: Ecolab
-  tenant: ecolab
-  instance: wd1
-  board: ecolab_external
+  tenant: "ecolab"
+  instance: "wd1"
+  board: "ecolab_external"
+- name: EMC Insurance
+  tenant: "emcins"
+  instance: "wd5"
+  board: "EMC_Careers"
+- name: Enact Mortgage Insurance
+  tenant: "gnw"
+  instance: "wd1"
+  board: "enact_mi"
+- name: Enphase Energy
+  tenant: "enphaseenergy"
+  instance: "wd1"
+  board: "enphase"
+- name: Ensemble Health Partners
+  tenant: "ensemblehp"
+  instance: "wd5"
+  board: "ensemblehealthpartnerscareers"
+- name: Entegris
+  tenant: "entegris"
+  instance: "wd1"
+  board: "entegriscareers"
+- name: Entrust
+  tenant: "entrust"
+  instance: "wd1"
+  board: "entrustcareers"
+- name: Equifax
+  tenant: "equifax"
+  instance: "wd5"
+  board: "UR_External"
+- name: Ercot
+  tenant: "ercot"
+  instance: "wd1"
+  board: "ercot_careers"
 - name: Everfox
-  tenant: evergreenix
-  instance: wd1
-  board: external-careers2
+  tenant: "evergreenix"
+  instance: "wd1"
+  board: "external-careers2"
+- name: Eversource Energy
+  tenant: "eversource"
+  instance: "wd1"
+  board: "ExternalSite"
 - name: Excellus BCBS
-  tenant: lthc
-  instance: wd1
-  board: excellusbcbscareers
+  tenant: "lthc"
+  instance: "wd1"
+  board: "excellusbcbscareers"
+- name: Exclusive Networks
+  tenant: "exclusivenetworks"
+  instance: "wd103"
+  board: "Exclusive-Networks-Career"
 - name: Expedia Group
-  tenant: expedia
-  instance: wd108
-  board: search
-- name: Fannie Mae
-  tenant: fanniemae
-  instance: wd1
-  board: fanniemaecareers
-- name: Freddie Mac
-  tenant: freddiemac
-  instance: wd5
-  board: External
-- name: Fidelity Investments
-  tenant: fmr
-  instance: wd1
-  board: FidelityCareers
-- name: Fifth Third Bank
-  tenant: fifththird
-  instance: wd5
-  board: 53careers
-- name: FINRA
-  tenant: finra
-  instance: wd1
-  board: FINRA
+  tenant: "expedia"
+  instance: "wd108"
+  board: "search"
 - name: F.N.B. Corporation
-  tenant: fnbcorp
-  instance: wd501
-  board: FNBCORP
+  tenant: "fnbcorp"
+  instance: "wd501"
+  board: "FNBCORP"
+- name: F5
+  tenant: "ffive"
+  instance: "wd5"
+  board: "f5jobs"
+- name: Fannie Mae
+  tenant: "fanniemae"
+  instance: "wd1"
+  board: "fanniemaecareers"
+- name: "Fenwick & West"
+  tenant: "fenwick"
+  instance: "wd1"
+  board: "Fenwick_External_Careers"
+- name: Fidelity Investments
+  tenant: "fmr"
+  instance: "wd1"
+  board: "FidelityCareers"
+- name: Fifth Third Bank
+  tenant: "fifththird"
+  instance: "wd5"
+  board: "53careers"
+- name: Finastra
+  tenant: "finastra"
+  instance: "wd3"
+  board: "FINC"
+- name: FINRA
+  tenant: "finra"
+  instance: "wd1"
+  board: "FINRA"
+- name: First American
+  tenant: "firstam"
+  instance: "wd1"
+  board: "firstamericancareers"
 - name: First Orion
-  tenant: firstorion
-  instance: wd1
-  board: first_orion
+  tenant: "firstorion"
+  instance: "wd1"
+  board: "first_orion"
+- name: FIS
+  tenant: "fis"
+  instance: "wd5"
+  board: "searchjobs"
 - name: Fiserv
-  tenant: fiserv
-  instance: wd5
-  board: ext
+  tenant: "fiserv"
+  instance: "wd5"
+  board: "ext"
+- name: Flex
+  tenant: "flextronics"
+  instance: "wd1"
+  board: "Careers"
+- name: FNBO
+  tenant: "firstnational"
+  instance: "wd12"
+  board: "fnbocareers"
 - name: FOX Corporation
-  tenant: fox
-  instance: wd1
-  board: Domestic
+  tenant: "fox"
+  instance: "wd1"
+  board: "Domestic"
 - name: Franklin Templeton
-  tenant: franklintempleton
-  instance: wd5
-  board: primary-external-1
+  tenant: "franklintempleton"
+  instance: "wd5"
+  board: "primary-external-1"
+- name: Freddie Mac
+  tenant: "freddiemac"
+  instance: "wd5"
+  board: "External"
 - name: FreeWheel
-  tenant: comcast
-  instance: wd5
-  board: comcast_careers
+  tenant: "comcast"
+  instance: "wd5"
+  board: "comcast_careers"
+- name: Frost
+  tenant: "frostbank"
+  instance: "wd5"
+  board: "External"
 - name: FTI Consulting
-  tenant: fticonsulting
-  instance: wd108
-  board: FTIConsultingCareers
+  tenant: "fticonsulting"
+  instance: "wd108"
+  board: "FTIConsultingCareers"
 - name: G-Research
-  tenant: gresearch
-  instance: wd103
-  board: G-Research
+  tenant: "gresearch"
+  instance: "wd103"
+  board: "G-Research"
+- name: Gables Residential
+  tenant: "gables"
+  instance: "wd5"
+  board: "Gables_Careers"
+- name: Gartner
+  tenant: "gartner"
+  instance: "wd5"
+  board: "EXT"
 - name: GE Aerospace
-  tenant: geaerospace
-  instance: wd5
-  board: GE_ExternalSite
+  tenant: "geaerospace"
+  instance: "wd5"
+  board: "GE_ExternalSite"
 - name: GE Appliances
-  tenant: haier
-  instance: wd3
-  board: GE_Appliances
+  tenant: "haier"
+  instance: "wd3"
+  board: "GE_Appliances"
 - name: GE HealthCare
-  tenant: gehc
-  instance: wd5
-  board: gehc_externalsite
+  tenant: "gehc"
+  instance: "wd5"
+  board: "gehc_externalsite"
 - name: GE Vernova
-  tenant: gevernova
-  instance: wd5
-  board: vernova_externalsite
+  tenant: "gevernova"
+  instance: "wd5"
+  board: "vernova_externalsite"
+- name: Geico
+  tenant: "geico"
+  instance: "wd1"
+  board: "External"
+- name: Genentech
+  tenant: "roche"
+  instance: "wd3"
+  board: "ROG-A2O-GENE"
+- name: Generac
+  tenant: "generac"
+  instance: "wd5"
+  board: "external"
 - name: General Dynamics Information Technology
-  tenant: gdit
-  instance: wd5
-  board: external_career_site
-- name: Genuine Parts Company
-  tenant: genpt
-  instance: wd1
-  board: Careers
+  tenant: "gdit"
+  instance: "wd5"
+  board: "external_career_site"
 - name: General Motors
-  tenant: generalmotors
-  instance: wd5
-  board: Careers_GM
+  tenant: "generalmotors"
+  instance: "wd5"
+  board: "Careers_GM"
+- name: Genpact
+  tenant: "genpact"
+  instance: "wd108"
+  board: "campussite"
+- name: Genuine Parts Company
+  tenant: "genpt"
+  instance: "wd1"
+  board: "Careers"
+- name: Genworth
+  tenant: "gnw"
+  instance: "wd1"
+  board: "GNW"
+- name: Gilead Sciences
+  tenant: "gilead"
+  instance: "wd1"
+  board: "gileadcareers"
+- name: Global Infrastructure
+  tenant: "gi"
+  instance: "wd1"
+  board: "Global_Infrastructure"
+- name: Global Partners
+  tenant: "global"
+  instance: "wd1"
+  board: "globalpartnerscareers"
 - name: Global Payments
-  tenant: tsys
-  instance: wd1
-  board: TSYS
+  tenant: "tsys"
+  instance: "wd1"
+  board: "TSYS"
 - name: GlobalFoundries
-  tenant: globalfoundries
-  instance: wd1
-  board: External
+  tenant: "globalfoundries"
+  instance: "wd1"
+  board: "External"
+- name: Gordon Food Service
+  tenant: "gfs"
+  instance: "wd5"
+  board: "usjobs-gen-gfs"
+- name: Graco
+  tenant: "graco"
+  instance: "wd501"
+  board: "Graco_Careers"
+- name: Great American Insurance Group
+  tenant: "gaig"
+  instance: "wd1"
+  board: "GAIG_External"
+- name: GreatAmerica Financial Services
+  tenant: "greatamerica"
+  instance: "wd12"
+  board: "greatamericacareers"
 - name: Groundswell
-  tenant: groundswell
-  instance: wd12
-  board: groundswell
+  tenant: "groundswell"
+  instance: "wd12"
+  board: "groundswell"
+- name: Guardian
+  tenant: "guardianlife"
+  instance: "wd5"
+  board: "guardian-life-careers"
+- name: Guidehouse
+  tenant: "guidehouse"
+  instance: "wd1"
+  board: "external"
 - name: Guidewire
-  tenant: guidewire
-  instance: wd5
-  board: external
+  tenant: "guidewire"
+  instance: "wd5"
+  board: "external"
+- name: Harris Computer
+  tenant: "harriscomputer"
+  instance: "wd3"
+  board: "1"
+- name: HD Supply
+  tenant: "hdsupply"
+  instance: "wd1"
+  board: "External"
 - name: Hitachi
-  tenant: hitachi
-  instance: wd1
-  board: hitachi
+  tenant: "hitachi"
+  instance: "wd1"
+  board: "hitachi"
+- name: HMH
+  tenant: "hmhw"
+  instance: "wd12"
+  board: "hmh_careers"
 - name: HNTB
-  tenant: hntb
-  instance: wd5
-  board: hntb_university_careers
+  tenant: "hntb"
+  instance: "wd5"
+  board: "hntb_university_careers"
 - name: Home Depot
-  tenant: homedepot
-  instance: wd5
-  board: CareerDepot
+  tenant: "homedepot"
+  instance: "wd5"
+  board: "CareerDepot"
 - name: HP
-  tenant: hp
-  instance: wd5
-  board: ExternalCareerSite
+  tenant: "hp"
+  instance: "wd5"
+  board: "ExternalCareerSite"
+- name: Humana
+  tenant: "humana"
+  instance: "wd5"
+  board: "Humana_External_Career_Site"
+- name: Huntington Bank
+  tenant: "huntington"
+  instance: "wd12"
+  board: "HNBcareers"
+- name: Hy-Vee
+  tenant: "hyvee"
+  instance: "wd1"
+  board: "HyVeeCareers"
+- name: Hypertherm Associates
+  tenant: "hypertherm"
+  instance: "wd503"
+  board: "hypertherm-careers"
+- name: Iberdrola Group
+  tenant: "iberdrola"
+  instance: "wd3"
+  board: "iberdrola"
+- name: ICF International
+  tenant: "icf"
+  instance: "wd5"
+  board: "icfexternal_career_site"
 - name: IDEXX
-  tenant: idexx
-  instance: wd1
-  board: IDEXX
+  tenant: "idexx"
+  instance: "wd1"
+  board: "IDEXX"
+- name: IGS Energy
+  tenant: "igsenergy"
+  instance: "wd1"
+  board: "IGS"
+- name: iHeartMedia
+  tenant: "iheartmedia"
+  instance: "wd5"
+  board: "External_iHM"
+- name: ING
+  tenant: "ing"
+  instance: "wd3"
+  board: "icsgblcor"
 - name: Ingredion
-  tenant: ingredion
-  instance: wd1
-  board: IngredionCareers
+  tenant: "ingredion"
+  instance: "wd1"
+  board: "IngredionCareers"
+- name: Inmar Intelligence
+  tenant: "inmar"
+  instance: "wd1"
+  board: "inmarcareers"
+- name: Insperity
+  tenant: "insperity"
+  instance: "wd12"
+  board: "NSP"
+- name: Intact
+  tenant: "intactfc"
+  instance: "wd3"
+  board: "intactfc"
+- name: Integrity
+  tenant: "integritymarketing"
+  instance: "wd1"
+  board: "Integrity"
 - name: Intel
-  tenant: intel
-  instance: wd1
-  board: External
+  tenant: "intel"
+  instance: "wd1"
+  board: "External"
+- name: Intelcom
+  tenant: "intelcomgroup"
+  instance: "wd3"
+  board: "Intelcom"
 - name: InterDigital
-  tenant: interdigital
-  instance: wd5
-  board: InterDigital_Career
+  tenant: "interdigital"
+  instance: "wd5"
+  board: "InterDigital_Career"
+- name: International Rescue Committee (IRC)
+  tenant: "theirc"
+  instance: "wd1"
+  board: "External_Careers"
+- name: J.M. Smucker
+  tenant: "smucker"
+  instance: "wd5"
+  board: "US_External_Careers"
+- name: Jabil
+  tenant: "jabil"
+  instance: "wd5"
+  board: "Jabil_Careers"
+- name: Johns Manville
+  tenant: "jm"
+  instance: "wd103"
+  board: "External"
+- name: "Johnson & Johnson"
+  tenant: "jj"
+  instance: "wd5"
+  board: "JJ"
 - name: Juniper Networks
-  tenant: hpe
-  instance: wd5
-  board: Jobsathpe
-- name: Johnson & Johnson
-  tenant: jj
-  instance: wd5
-  board: JJ
+  tenant: "hpe"
+  instance: "wd5"
+  board: "Jobsathpe"
 - name: KBR
-  tenant: kbr
-  instance: wd5
-  board: kbr_careers
-- name: KLA
-  tenant: kla
-  instance: wd1
-  board: Search
+  tenant: "kbr"
+  instance: "wd5"
+  board: "kbr_careers"
+- name: Kensho
+  tenant: "spgi"
+  instance: "wd5"
+  board: "Kensho_Careers"
+- name: Ketjen
+  tenant: "albemarle"
+  instance: "wd5"
+  board: "ketjenexternal"
 - name: KeyBank
-  tenant: keybank
-  instance: wd5
-  board: External_Career_Site
+  tenant: "keybank"
+  instance: "wd5"
+  board: "External_Career_Site"
+- name: Kimberly-Clark
+  tenant: "kimberlyclark"
+  instance: "wd1"
+  board: "global"
+- name: KION Group
+  tenant: "kiongroup"
+  instance: "wd3"
+  board: "kiongroup"
+- name: KLA
+  tenant: "kla"
+  instance: "wd1"
+  board: "Search"
+- name: LabCorp
+  tenant: "labcorp"
+  instance: "wd1"
+  board: "external"
+- name: "Land O'Lakes"
+  tenant: "landolakes"
+  instance: "wd1"
+  board: "landolakes"
 - name: LEGO Group
-  tenant: lego
-  instance: wd103
-  board: lego_executive
+  tenant: "lego"
+  instance: "wd103"
+  board: "lego_executive"
 - name: Leidos
-  tenant: leidos
-  instance: wd5
-  board: External
+  tenant: "leidos"
+  instance: "wd5"
+  board: "External"
 - name: Lennar Corporation
-  tenant: lennar
-  instance: wd1
-  board: Lennar_Jobs
+  tenant: "lennar"
+  instance: "wd1"
+  board: "Lennar_Jobs"
+- name: "LexisNexis Legal & Professional"
+  tenant: "relx"
+  instance: "wd3"
+  board: "LexisNexisLegal"
+- name: LexisNexis Risk Solutions
+  tenant: "relx"
+  instance: "wd3"
+  board: "RiskSolutions"
 - name: Liberty University
-  tenant: liberty
-  instance: wd5
-  board: lu_job_board_staff
-- name: Light & Wonder
-  tenant: lnw
-  instance: wd5
-  board: LightWonderExternalCareers
+  tenant: "liberty"
+  instance: "wd5"
+  board: "lu_job_board_staff"
+- name: "Light & Wonder"
+  tenant: "lnw"
+  instance: "wd5"
+  board: "LightWonderExternalCareers"
+- name: Live Oak Bank
+  tenant: "liveoakbancshares"
+  instance: "wd1"
+  board: "Live_Oak"
 - name: LiveRamp
-  tenant: liveramp
-  instance: wd5
-  board: LiveRampCareers
+  tenant: "liveramp"
+  instance: "wd5"
+  board: "LiveRampCareers"
 - name: Loblaw Companies
-  tenant: myview
-  instance: wd3
-  board: paradox_careers
+  tenant: "myview"
+  instance: "wd3"
+  board: "paradox_careers"
 - name: Logitech
-  tenant: logitech
-  instance: wd5
-  board: logitech
+  tenant: "logitech"
+  instance: "wd5"
+  board: "logitech"
+- name: Louisiana Blue
+  tenant: "bcbsla"
+  instance: "wd1"
+  board: "Generation_Blue"
+- name: "Lowe's"
+  tenant: "lowes"
+  instance: "wd5"
+  board: "LWS_External_CS"
 - name: LPL Financial Holdings
-  tenant: lplfinancial
-  instance: wd1
-  board: university
+  tenant: "lplfinancial"
+  instance: "wd1"
+  board: "university"
 - name: LSEG
-  tenant: lseg
-  instance: wd3
-  board: Careers
-- name: M&T Bank
-  tenant: mtb
-  instance: wd5
-  board: Campus
+  tenant: "lseg"
+  instance: "wd3"
+  board: "Careers"
+- name: "M&T Bank"
+  tenant: "mtb"
+  instance: "wd5"
+  board: "Campus"
+- name: Magna
+  tenant: "magna"
+  instance: "wd3"
+  board: "magna"
+- name: Manhattan Associates
+  tenant: "manh"
+  instance: "wd5"
+  board: "campus"
 - name: Manulife
-  tenant: manulife
-  instance: wd3
-  board: MFCJH_Jobs
+  tenant: "manulife"
+  instance: "wd3"
+  board: "MFCJH_Jobs"
 - name: Maritz
-  tenant: maritz
-  instance: wd1
-  board: Maritz
+  tenant: "maritz"
+  instance: "wd1"
+  board: "Maritz"
 - name: Marmon Holdings
-  tenant: marmon
-  instance: wd501
-  board: Marmon_MSIP_Internships
+  tenant: "marmon"
+  instance: "wd501"
+  board: "Marmon_MSIP_Internships"
+- name: Marsh
+  tenant: "mmc"
+  instance: "wd1"
+  board: "MMC"
 - name: Marvell Technology
-  tenant: marvell
-  instance: wd1
-  board: marvellcareers
+  tenant: "marvell"
+  instance: "wd1"
+  board: "marvellcareers"
+- name: Mary Free Bed Rehabilitation Hospital
+  tenant: "maryfreebed"
+  instance: "wd12"
+  board: "mfb"
 - name: Mastercard
-  tenant: mastercard
-  instance: wd1
-  board: CorporateCareers
+  tenant: "mastercard"
+  instance: "wd1"
+  board: "CorporateCareers"
+- name: McKesson
+  tenant: "mckesson"
+  instance: "wd3"
+  board: "External_Careers"
 - name: MedImpact
-  tenant: medimpact
-  instance: wd5
-  board: medimpact
+  tenant: "medimpact"
+  instance: "wd5"
+  board: "medimpact"
 - name: Medline
-  tenant: medline
-  instance: wd5
-  board: Medline
+  tenant: "medline"
+  instance: "wd5"
+  board: "Medline"
 - name: Medtronic
-  tenant: medtronic
-  instance: wd1
-  board: medtroniccareers
+  tenant: "medtronic"
+  instance: "wd1"
+  board: "medtroniccareers"
+- name: Meijer
+  tenant: "meijer"
+  instance: "wd5"
+  board: "Meijer"
+- name: MGM Resorts
+  tenant: "mgmresorts"
+  instance: "wd5"
+  board: "mgmcareers"
+- name: Michelin
+  tenant: "michelinhr"
+  instance: "wd3"
+  board: "Michelin"
 - name: Microchip Technology
-  tenant: microchiphr
-  instance: wd5
-  board: External
+  tenant: "microchiphr"
+  instance: "wd5"
+  board: "External"
 - name: Micron Technology
-  tenant: micron
-  instance: wd1
-  board: External
+  tenant: "micron"
+  instance: "wd1"
+  board: "External"
 - name: Milwaukee Tool
-  tenant: tti
-  instance: wd1
-  board: Milwaukee
+  tenant: "tti"
+  instance: "wd1"
+  board: "Milwaukee"
+- name: Mimecast
+  tenant: "mimecast"
+  instance: "wd5"
+  board: "Mimecast-Careers"
 - name: Mobileye
-  tenant: mobileye
-  instance: wd3
-  board: Mobileye
+  tenant: "mobileye"
+  instance: "wd3"
+  board: "Mobileye"
+- name: Moderna
+  tenant: "modernatx"
+  instance: "wd1"
+  board: "M_tx"
+- name: Momentive
+  tenant: "momentive"
+  instance: "wd1"
+  board: "MC"
 - name: Monolithic Power Systems
-  tenant: monolithicpower
-  instance: wd12
-  board: MPS_Careers
+  tenant: "monolithicpower"
+  instance: "wd12"
+  board: "MPS_Careers"
 - name: Moog
-  tenant: moog
-  instance: wd5
-  board: MOOG_External_Career_Site
+  tenant: "moog"
+  instance: "wd5"
+  board: "MOOG_External_Career_Site"
+- name: Morgan Stanley
+  tenant: "ms"
+  instance: "wd5"
+  board: "External"
+- name: Morningstar
+  tenant: "morningstar"
+  instance: "wd5"
+  board: "confidential"
+- name: "Moss & Associates"
+  tenant: "mosscm"
+  instance: "wd1"
+  board: "moss_careers"
 - name: Motorola Solutions
-  tenant: motorolasolutions
-  instance: wd5
-  board: Careers
+  tenant: "motorolasolutions"
+  instance: "wd5"
+  board: "Careers"
+- name: MSD
+  tenant: "msd"
+  instance: "wd5"
+  board: "searchjobs"
+- name: Nasdaq
+  tenant: "nasdaq"
+  instance: "wd1"
+  board: "Global_External_Site"
+- name: National Laboratory of the Rockies
+  tenant: "nrel"
+  instance: "wd5"
+  board: "NLR"
+- name: Nationwide
+  tenant: "nationwide"
+  instance: "wd1"
+  board: "Nationwide_Career"
+- name: "Nationwide Children's Hospital"
+  tenant: "nationwidechildrens"
+  instance: "wd5"
+  board: "NCHCareers"
+- name: NCR Atleos
+  tenant: "ncratleos"
+  instance: "wd1"
+  board: "ext_intern"
 - name: NCR Voyix
-  tenant: ncr
-  instance: wd1
-  board: ext_us
+  tenant: "ncr"
+  instance: "wd1"
+  board: "ext_us"
 - name: Neighborly
-  tenant: neighborlybrands
-  instance: wd1
-  board: neighborly
+  tenant: "neighborlybrands"
+  instance: "wd1"
+  board: "neighborly"
 - name: Nelnet
-  tenant: nelnet
-  instance: wd1
-  board: MyNelnet
+  tenant: "nelnet"
+  instance: "wd1"
+  board: "MyNelnet"
 - name: Netflix
-  tenant: netflix
-  instance: wd108
-  board: Netflix
+  tenant: "netflix"
+  instance: "wd108"
+  board: "Netflix"
 - name: Netsmart
-  tenant: ntst
-  instance: wd1
-  board: careers
+  tenant: "ntst"
+  instance: "wd1"
+  board: "careers"
 - name: Newrez
-  tenant: newrez
-  instance: wd1
-  board: NewrezCareers
+  tenant: "newrez"
+  instance: "wd1"
+  board: "NewrezCareers"
 - name: Nidec
-  tenant: nidec
-  instance: wd1
-  board: nidec
+  tenant: "nidec"
+  instance: "wd1"
+  board: "nidec"
 - name: Nightwing
-  tenant: nwis
-  instance: wd12
-  board: NW
+  tenant: "nwis"
+  instance: "wd12"
+  board: "NW"
 - name: Nike
-  tenant: nike
-  instance: wd1
-  board: nke
+  tenant: "nike"
+  instance: "wd1"
+  board: "nke"
+- name: NiSource
+  tenant: "nisource"
+  instance: "wd1"
+  board: "NiSource"
+- name: NJM Insurance Group
+  tenant: "njm"
+  instance: "wd1"
+  board: "njm"
 - name: Nordstrom
-  tenant: nordstrom
-  instance: wd501
-  board: nordstrom_careers
+  tenant: "nordstrom"
+  instance: "wd501"
+  board: "nordstrom_careers"
 - name: Northern Trust
-  tenant: ntrs
-  instance: wd1
-  board: northerntrust
+  tenant: "ntrs"
+  instance: "wd1"
+  board: "northerntrust"
 - name: NorthMark Strategies
-  tenant: northmark
-  instance: wd108
-  board: NMS
+  tenant: "northmark"
+  instance: "wd108"
+  board: "NMS"
 - name: Northrop Grumman
-  tenant: ngc
-  instance: wd1
-  board: northrop_grumman_external_site
+  tenant: "ngc"
+  instance: "wd1"
+  board: "northrop_grumman_external_site"
 - name: Northwestern Mutual
-  tenant: northwesternmutual
-  instance: wd5
-  board: CORPORATE-CAREERS
+  tenant: "northwesternmutual"
+  instance: "wd5"
+  board: "CORPORATE-CAREERS"
 - name: NVIDIA
-  tenant: nvidia
-  instance: wd5
-  board: NVIDIAExternalCareerSite
+  tenant: "nvidia"
+  instance: "wd5"
+  board: "NVIDIAExternalCareerSite"
 - name: NXP Semiconductors
-  tenant: nxp
-  instance: wd3
-  board: careers
+  tenant: "nxp"
+  instance: "wd3"
+  board: "careers"
+- name: OCC
+  tenant: "theocc"
+  instance: "wd5"
+  board: "careers"
+- name: OMERS
+  tenant: "omers"
+  instance: "wd3"
+  board: "omers_external"
+- name: Omnicom Group
+  tenant: "interpublic"
+  instance: "wd5"
+  board: "omc"
+- name: OneMain Financial
+  tenant: "myhrhome"
+  instance: "wd1"
+  board: "OneMainCareers"
+- name: "Ontario Teachers' Pension Plan"
+  tenant: "otppb"
+  instance: "wd3"
+  board: "OntarioTeachers_Careers"
+- name: Oshkosh
+  tenant: "oshkoshcorporation"
+  instance: "wd5"
+  board: "Oshkosh"
+- name: Ovintiv
+  tenant: "ovintiv"
+  instance: "wd3"
+  board: "ovintivcareers"
 - name: Palo Alto Networks
-  tenant: paloaltonetworks
-  instance: wd5
-  board: panwexternalcareers
+  tenant: "paloaltonetworks"
+  instance: "wd5"
+  board: "panwexternalcareers"
 - name: Parsons
-  tenant: parsons
-  instance: wd5
-  board: Search
+  tenant: "parsons"
+  instance: "wd5"
+  board: "Search"
 - name: PayPal
-  tenant: paypal
-  instance: wd1
-  board: jobs
+  tenant: "paypal"
+  instance: "wd1"
+  board: "jobs"
+- name: Pennsylvania State University
+  tenant: "psu"
+  instance: "wd1"
+  board: "PSU_Staff"
+- name: Pentair
+  tenant: "pentair"
+  instance: "wd5"
+  board: "pentair_careers"
+- name: Perseus Group
+  tenant: "talentmanagementsolution"
+  instance: "wd3"
+  board: "perseus-careers"
 - name: Philips
-  tenant: philips
-  instance: wd3
-  board: jobs-and-careers
+  tenant: "philips"
+  instance: "wd3"
+  board: "jobs-and-careers"
 - name: PIMCO
-  tenant: pimco
-  instance: wd1
-  board: pimco-careers
+  tenant: "pimco"
+  instance: "wd1"
+  board: "pimco-careers"
+- name: Plains
+  tenant: "plains"
+  instance: "wd1"
+  board: "plains"
+- name: Plastipak
+  tenant: "plastipak"
+  instance: "wd1"
+  board: "Plastipak"
 - name: Plexus
-  tenant: plexus
-  instance: wd504
-  board: plexus_careers
+  tenant: "plexus"
+  instance: "wd504"
+  board: "plexus_careers"
 - name: PNC
-  tenant: pnc
-  instance: wd5
-  board: External
+  tenant: "pnc"
+  instance: "wd5"
+  board: "External"
+- name: Polar Semiconductor
+  tenant: "polarsemi"
+  instance: "wd501"
+  board: "Polar"
+- name: Polaris
+  tenant: "polaris"
+  instance: "wd5"
+  board: "PolarisJobs"
+- name: Premier
+  tenant: "premierinc"
+  instance: "wd1"
+  board: "external_professional"
 - name: Priceline
-  tenant: priceline
-  instance: wd1
-  board: BookingHoldings
-- name: Procter & Gamble
-  tenant: pg
-  instance: wd5
-  board: 1000
+  tenant: "priceline"
+  instance: "wd1"
+  board: "BookingHoldings"
+- name: "Procter & Gamble"
+  tenant: "pg"
+  instance: "wd5"
+  board: "1000"
+- name: "PROS Holdings, Inc."
+  tenant: "pros"
+  instance: "wd5"
+  board: "pros_careers"
+- name: Protiviti
+  tenant: "roberthalf"
+  instance: "wd1"
+  board: "ProtivitiNA"
 - name: Prudential Financial
-  tenant: pru
-  instance: wd5
-  board: Careers
+  tenant: "pru"
+  instance: "wd5"
+  board: "Careers"
+- name: PSECU
+  tenant: "psecu"
+  instance: "wd12"
+  board: "PSECU"
 - name: PSP Investments
-  tenant: investpsp
-  instance: wd3
-  board: psp_careers
+  tenant: "investpsp"
+  instance: "wd3"
+  board: "psp_careers"
 - name: PTC
-  tenant: ptc
-  instance: wd1
-  board: ptc
+  tenant: "ptc"
+  instance: "wd1"
+  board: "ptc"
+- name: PwC
+  tenant: "pwc"
+  instance: "wd3"
+  board: "US_Entry_Level_Careers"
+- name: PwC
+  tenant: "pwc"
+  instance: "wd3"
+  board: "Global_Campus_Careers"
+- name: Q2
+  tenant: "q2ebanking"
+  instance: "wd5"
+  board: "Q2"
+- name: QTS
+  tenant: "qtsdatacenters"
+  instance: "wd5"
+  board: "qts"
 - name: Qualifacts
-  tenant: qualifacts
-  instance: wd5
-  board: Qualifacts_External_Careers
+  tenant: "qualifacts"
+  instance: "wd5"
+  board: "Qualifacts_External_Careers"
 - name: Radiance Technologies
-  tenant: radiancetech
-  instance: wd12
-  board: Radiance_External
+  tenant: "radiancetech"
+  instance: "wd12"
+  board: "Radiance_External"
 - name: Rakuten International
-  tenant: rakuten
-  instance: wd1
-  board: RakutenAmericas
+  tenant: "rakuten"
+  instance: "wd1"
+  board: "RakutenAmericas"
 - name: Raymond James
-  tenant: raymondjames
-  instance: wd1
-  board: RaymondJamesCareers
+  tenant: "raymondjames"
+  instance: "wd1"
+  board: "RaymondJamesCareers"
+- name: RBI
+  tenant: "rbi"
+  instance: "wd3"
+  board: "RBI_External_Career_Site"
 - name: Red Hat
-  tenant: redhat
-  instance: wd5
-  board: jobs
+  tenant: "redhat"
+  instance: "wd5"
+  board: "jobs"
 - name: Regions Bank
-  tenant: regions
-  instance: wd5
-  board: regions_careers
+  tenant: "regions"
+  instance: "wd5"
+  board: "regions_careers"
+- name: RELX
+  tenant: "relx"
+  instance: "wd3"
+  board: "relx"
 - name: Remitly
-  tenant: remitly
-  instance: wd5
-  board: Remitly_Careers
+  tenant: "remitly"
+  instance: "wd5"
+  board: "Remitly_Careers"
 - name: Rendezvous Robotics
-  tenant: rendezvousrobotics
-  instance: wd1
-  board: rendezvousrobotics
+  tenant: "rendezvousrobotics"
+  instance: "wd1"
+  board: "rendezvousrobotics"
+- name: Republic Airways
+  tenant: "rjet"
+  instance: "wd108"
+  board: "External_Career_Site"
 - name: ResMed
-  tenant: resmed
-  instance: wd3
-  board: ResMed_External_Careers
+  tenant: "resmed"
+  instance: "wd3"
+  board: "ResMed_External_Careers"
+- name: Revvity
+  tenant: "revvity"
+  instance: "wd103"
+  board: "External"
+- name: RFCUNY
+  tenant: "rfcuny"
+  instance: "wd108"
+  board: "RFCUNY"
+- name: Risepoint
+  tenant: "risepoint"
+  instance: "wd503"
+  board: "Risepoint"
 - name: Rocket Companies
-  tenant: rocket
-  instance: wd5
-  board: rocket_careers
+  tenant: "rocket"
+  instance: "wd5"
+  board: "rocket_careers"
+- name: Rocket Companies
+  tenant: "quickenloans"
+  instance: "wd5"
+  board: "rocket_careers"
 - name: Rockwell Automation
-  tenant: rockwellautomation
-  instance: wd1
-  board: external_rockwell_automation
+  tenant: "rockwellautomation"
+  instance: "wd1"
+  board: "external_rockwell_automation"
+- name: ROCKWOOL Group
+  tenant: "rockwoolgroup"
+  instance: "wd3"
+  board: "ROCKWOOL"
+- name: Rolls-Royce
+  tenant: "rollsroyce"
+  instance: "wd3"
+  board: "Intern_Graduate"
 - name: Royal Bank of Canada
-  tenant: rbc
-  instance: wd3
-  board: rbcglobal1
+  tenant: "rbc"
+  instance: "wd3"
+  board: "rbcglobal1"
 - name: RSM
-  tenant: rsm
-  instance: wd1
-  board: rsmcareers
+  tenant: "rsm"
+  instance: "wd1"
+  board: "rsmcareers"
 - name: RTX
-  tenant: globalhr
-  instance: wd5
-  board: REC_RTX_Ext_Gateway
+  tenant: "globalhr"
+  instance: "wd5"
+  board: "REC_RTX_Ext_Gateway"
+- name: Ryan
+  tenant: "ryan"
+  instance: "wd1"
+  board: "Students-Graduates"
+- name: "S&P Global"
+  tenant: "spgi"
+  instance: "wd5"
+  board: "SPGI_Careers"
+- name: Saab
+  tenant: "saabusa"
+  instance: "wd1"
+  board: "saab_careers"
+- name: Safelite
+  tenant: "belron"
+  instance: "wd3"
+  board: "Safelite_Careers"
 - name: SailPoint
-  tenant: sailpoint
-  instance: wd1
-  board: SailPoint
+  tenant: "sailpoint"
+  instance: "wd1"
+  board: "SailPoint"
 - name: Salesforce
-  tenant: salesforce
-  instance: wd12
-  board: External_Career_Site
+  tenant: "salesforce"
+  instance: "wd12"
+  board: "External_Career_Site"
 - name: Sallie Mae
-  tenant: sallie-mae
-  instance: wd5
-  board: Careers
+  tenant: "sallie-mae"
+  instance: "wd5"
+  board: "Careers"
+- name: Samsung
+  tenant: "sec"
+  instance: "wd3"
+  board: "Samsung_Careers"
 - name: Schweitzer Engineering Laboratories
-  tenant: selinc
-  instance: wd1
-  board: SEL
+  tenant: "selinc"
+  instance: "wd1"
+  board: "SEL"
+- name: Securian Financial
+  tenant: "hq"
+  instance: "wd12"
+  board: "Securian_External"
+- name: Sentara Health
+  tenant: "sentara"
+  instance: "wd1"
+  board: "SCS"
+- name: Shirley Ryan AbilityLab
+  tenant: "sralab"
+  instance: "wd1"
+  board: "SRAlabCareers"
 - name: Sierra Nevada Corp
-  tenant: snc
-  instance: wd1
-  board: SNC_External_Career_Site
+  tenant: "snc"
+  instance: "wd1"
+  board: "SNC_External_Career_Site"
+- name: Signify
+  tenant: "lighting"
+  instance: "wd3"
+  board: "jobs-and-careers"
 - name: Silicon Labs
-  tenant: silabs
-  instance: wd1
-  board: SiliconlabsCareers
+  tenant: "silabs"
+  instance: "wd1"
+  board: "SiliconlabsCareers"
+- name: Simon Property Group
+  tenant: "simon"
+  instance: "wd1"
+  board: "Simon"
 - name: Simpson Strong-Tie
-  tenant: strongtie
-  instance: wd1
-  board: external
+  tenant: "strongtie"
+  instance: "wd1"
+  board: "external"
+- name: Smith+Nephew
+  tenant: "smithnephew"
+  instance: "wd5"
+  board: "External"
 - name: Snap
-  tenant: snapchat
-  instance: wd1
-  board: snap
+  tenant: "snapchat"
+  instance: "wd1"
+  board: "snap"
 - name: Solar Turbines
-  tenant: cat
-  instance: wd5
-  board: SolarTurbines
+  tenant: "cat"
+  instance: "wd5"
+  board: "SolarTurbines"
 - name: Sony
-  tenant: sonyglobal
-  instance: wd1
-  board: sonyglobalcareers
+  tenant: "sonyglobal"
+  instance: "wd1"
+  board: "sonyglobalcareers"
+- name: Sony Pictures Entertainment
+  tenant: "spe"
+  instance: "wd1"
+  board: "SonyPicturesEntertainment"
+- name: SOTI
+  tenant: "soti"
+  instance: "wd3"
+  board: "SOTI-Next-Gen"
+- name: Southwest Airlines
+  tenant: "swa"
+  instance: "wd1"
+  board: "external"
+- name: "SS&C"
+  tenant: "ssctech"
+  instance: "wd1"
+  board: "ssctechnologies"
+- name: State of Nebraska
+  tenant: "son"
+  instance: "wd108"
+  board: "NebraskaStateCareers"
+- name: State of North Carolina
+  tenant: "nc"
+  instance: "wd108"
+  board: "NC_Careers"
 - name: State Street
-  tenant: statestreet
-  instance: wd1
-  board: Global
-- name: Sysco
-  tenant: sysco
-  instance: wd5
-  board: SyscoCareers
+  tenant: "statestreet"
+  instance: "wd1"
+  board: "Global"
+- name: Stryker
+  tenant: "stryker"
+  instance: "wd1"
+  board: "StrykerCareers"
+- name: Sun Life
+  tenant: "sunlife"
+  instance: "wd3"
+  board: "Campus"
+- name: SWBC
+  tenant: "swbc"
+  instance: "wd1"
+  board: "swbccareers"
+- name: Swivel
+  tenant: "swbc"
+  instance: "wd1"
+  board: "swivel"
 - name: Symbotic
-  tenant: symbotic
-  instance: wd504
-  board: Symbotic
+  tenant: "symbotic"
+  instance: "wd504"
+  board: "Symbotic"
 - name: Synchrony
-  tenant: synchronyfinancial
-  instance: wd5
-  board: careers
+  tenant: "synchronyfinancial"
+  instance: "wd5"
+  board: "careers"
+- name: Sysco
+  tenant: "sysco"
+  instance: "wd5"
+  board: "SyscoCareers"
 - name: T. Rowe Price
-  tenant: troweprice
-  instance: wd5
-  board: TRowePrice
+  tenant: "troweprice"
+  instance: "wd5"
+  board: "TRowePrice"
 - name: Target Corporation
-  tenant: target
-  instance: wd5
-  board: targetcareers
+  tenant: "target"
+  instance: "wd5"
+  board: "targetcareers"
+- name: Tarrant Regional Water District
+  tenant: "trwd"
+  instance: "wd1"
+  board: "TRWDCareers"
 - name: TD Bank
-  tenant: td
-  instance: wd3
-  board: TD_Bank_Careers
+  tenant: "td"
+  instance: "wd3"
+  board: "TD_Bank_Careers"
 - name: Teledyne
-  tenant: flir
-  instance: wd1
-  board: flircareers
+  tenant: "flir"
+  instance: "wd1"
+  board: "flircareers"
 - name: Tencent
-  tenant: tencent
-  instance: wd1
-  board: tencent_careers
+  tenant: "tencent"
+  instance: "wd1"
+  board: "tencent_careers"
+- name: "Texas A&M International University"
+  tenant: "tamus"
+  instance: "wd1"
+  board: "TAMIU_Student_Employment"
+- name: Thales
+  tenant: "thales"
+  instance: "wd3"
+  board: "Careers"
+- name: The Aerospace Corporation
+  tenant: "aero"
+  instance: "wd5"
+  board: "external"
+- name: The Federal Reserve System
+  tenant: "rb"
+  instance: "wd5"
+  board: "FRS"
 - name: The Hartford
-  tenant: thehartford
-  instance: wd5
-  board: Careers_External
+  tenant: "thehartford"
+  instance: "wd5"
+  board: "Careers_External"
 - name: The Mosaic Company
-  tenant: mosaic
-  instance: wd5
-  board: mosaic
+  tenant: "mosaic"
+  instance: "wd5"
+  board: "mosaic"
+- name: The RealReal
+  tenant: "therealreal"
+  instance: "wd1"
+  board: "careers"
+- name: The Toro Company
+  tenant: "ttc"
+  instance: "wd1"
+  board: "Toro_External_Careers"
+- name: Thermo Fisher Scientific
+  tenant: "thermofisher"
+  instance: "wd5"
+  board: "ThermoFisherCareers"
+- name: Thomson Reuters
+  tenant: "thomsonreuters"
+  instance: "wd5"
+  board: "External_Career_Site"
+- name: Thrivent
+  tenant: "thrivent"
+  instance: "wd5"
+  board: "external"
+- name: TJX
+  tenant: "tjx"
+  instance: "wd1"
+  board: "tjx_external"
+- name: TMX Group
+  tenant: "tmx"
+  instance: "wd3"
+  board: "TMX_Careers"
+- name: Tokio Marine HCC
+  tenant: "tmhcc"
+  instance: "wd108"
+  board: "external"
+- name: Tokyo Electron
+  tenant: "tel"
+  instance: "wd3"
+  board: "tel-careers"
+- name: Torch Technologies
+  tenant: "starfish"
+  instance: "wd501"
+  board: "Careers"
+- name: Toyota
+  tenant: "toyota"
+  instance: "wd503"
+  board: "tmna"
+- name: Transamerica
+  tenant: "transamerica"
+  instance: "wd5"
+  board: "US"
 - name: Travelers
-  tenant: travelers
-  instance: wd5
-  board: External
+  tenant: "travelers"
+  instance: "wd5"
+  board: "External"
+- name: Trend Micro
+  tenant: "trendmicro"
+  instance: "wd3"
+  board: "External"
 - name: Trimble
-  tenant: trimble
-  instance: wd1
-  board: trimblecareers
+  tenant: "trimble"
+  instance: "wd1"
+  board: "trimblecareers"
 - name: Truist
-  tenant: truist
-  instance: wd1
-  board: Careers
+  tenant: "truist"
+  instance: "wd1"
+  board: "Careers"
+- name: TSC
+  tenant: "tsc"
+  instance: "wd12"
+  board: "TSC-Careers"
+- name: TTM Technologies
+  tenant: "ttmtech"
+  instance: "wd5"
+  board: "jobs"
+- name: Tyson Foods
+  tenant: "tysonfoods"
+  instance: "wd5"
+  board: "TSN"
 - name: U.S. Bank
-  tenant: usbank
-  instance: wd1
-  board: US_Bank_Careers
+  tenant: "usbank"
+  instance: "wd1"
+  board: "US_Bank_Careers"
+- name: U.S. Venture
+  tenant: "usventure"
+  instance: "wd1"
+  board: "usvexternal"
 - name: Uline
-  tenant: uline
-  instance: wd1
-  board: Uline_Careers
+  tenant: "uline"
+  instance: "wd1"
+  board: "Uline_Careers"
+- name: UMB
+  tenant: "umb"
+  instance: "wd1"
+  board: "UMBExternal"
+- name: United Parcel Service
+  tenant: "hcmportal"
+  instance: "wd5"
+  board: "Search"
+- name: University of Pennsylvania
+  tenant: "upenn"
+  instance: "wd1"
+  board: "careers-at-penn"
+- name: University of Rochester
+  tenant: "rochester"
+  instance: "wd5"
+  board: "UR_Staff"
+- name: University of Texas at Austin
+  tenant: "utaustin"
+  instance: "wd1"
+  board: "utstudent"
+- name: University of Virginia
+  tenant: "uva"
+  instance: "wd1"
+  board: "uvastudentjobs"
+- name: US Foods
+  tenant: "usfoods"
+  instance: "wd1"
+  board: "usfoodscareersexternal"
+- name: USAA
+  tenant: "usaa"
+  instance: "wd1"
+  board: "USAAJOBSWD"
+- name: Valeo
+  tenant: "valeo"
+  instance: "wd3"
+  board: "valeo_jobs"
 - name: Vanderbilt University Medical Center
-  tenant: vumc
-  instance: wd1
-  board: vumccareers
+  tenant: "vumc"
+  instance: "wd1"
+  board: "vumccareers"
 - name: Vanguard
-  tenant: vanguard
-  instance: wd5
-  board: vanguard_external
+  tenant: "vanguard"
+  instance: "wd5"
+  board: "vanguard_external"
+- name: Varian
+  tenant: "onehealthineers"
+  instance: "wd3"
+  board: "SHSJB"
+- name: Veralto
+  tenant: "veralto"
+  instance: "wd1"
+  board: "hachjobs"
+- name: Verdantas
+  tenant: "verdantas"
+  instance: "wd108"
+  board: "Verdantas"
+- name: Verizon Communications
+  tenant: "verizon"
+  instance: "wd12"
+  board: "verizon-careers"
+- name: Vermeer
+  tenant: "vermeer"
+  instance: "wd5"
+  board: "externalcareersite"
+- name: VIAVI
+  tenant: "viavisolutions"
+  instance: "wd1"
+  board: "careers"
+- name: Visa
+  tenant: "visa"
+  instance: "wd5"
+  board: "visa_early_careers"
+- name: Visa
+  tenant: "visa"
+  instance: "wd5"
+  board: "Visa"
 - name: VMware
-  tenant: broadcom
-  instance: wd1
-  board: External_Career
+  tenant: "broadcom"
+  instance: "wd1"
+  board: "External_Career"
 - name: Volaris Group
-  tenant: volarisgroup
-  instance: wd3
-  board: volaris
+  tenant: "volarisgroup"
+  instance: "wd3"
+  board: "volaris"
+- name: Walmart
+  tenant: "walmart"
+  instance: "wd504"
+  board: "WalmartExternal"
+- name: Warner Bros.
+  tenant: "warnerbros"
+  instance: "wd5"
+  board: "global"
+- name: Watts Water
+  tenant: "wattswater"
+  instance: "wd5"
+  board: "Intern-External"
 - name: Waystar
-  tenant: waystar
-  instance: wd1
-  board: Waystar
+  tenant: "waystar"
+  instance: "wd1"
+  board: "Waystar"
+- name: Wellington Management
+  tenant: "wellington"
+  instance: "wd5"
+  board: "Campus"
 - name: Wells Fargo
-  tenant: wf
-  instance: wd1
-  board: WellsFargoJobs
+  tenant: "wf"
+  instance: "wd1"
+  board: "WellsFargoJobs"
+- name: Wex
+  tenant: "wexinc"
+  instance: "wd5"
+  board: "WEXInc"
+- name: Wonder
+  tenant: "wonder"
+  instance: "wd1"
+  board: "WG"
+- name: Workday Inc
+  tenant: "workday"
+  instance: "wd5"
+  board: "Workday"
 - name: Workiva
-  tenant: workiva
-  instance: wd503
-  board: careers
+  tenant: "workiva"
+  instance: "wd503"
+  board: "careers"
+- name: World Vision
+  tenant: "worldvision"
+  instance: "wd1"
+  board: "worldvisioninternational"
+- name: Xcel Energy
+  tenant: "xcelenergy"
+  instance: "wd1"
+  board: "External"
 - name: Yahoo
-  tenant: ouryahoo
-  instance: wd5
-  board: careers
+  tenant: "ouryahoo"
+  instance: "wd5"
+  board: "careers"
 - name: Yulista
-  tenant: calistacorp
-  instance: wd1
-  board: yulista
+  tenant: "calistacorp"
+  instance: "wd1"
+  board: "yulista"
 - name: Zebra Technologies
-  tenant: zebra
-  instance: wd501
-  board: Zebra_careers
+  tenant: "zebra"
+  instance: "wd501"
+  board: "Zebra_careers"
 - name: Zoom
-  tenant: zoom
-  instance: wd5
-  board: zoom
+  tenant: "zoom"
+  instance: "wd5"
+  board: "zoom"
+- name: Zurn Elkay Water Solutions
+  tenant: "elkay"
+  instance: "wd1"
+  board: "Elkay_External"
+
 icims:
-- name: Peraton
-  host: careers-peraton.icims.com
-  # Campus / early-career oriented keyword searches (iCIMS has no public JSON API)
+- name: Adtheorant
+  host: "careers-cadent.icims.com"
   keywords:
-  - '2027'
-  - '#PeratonEarlyCareer'
-  - intern
-  - associate
-  - 'early career'
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Alliance Laundry Systems
+  host: "uscareeropenings-alliancelaundry.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: AMD
+  host: "campus-amd.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: AMD
+  host: "careers-amd.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: American Enterprise Institute
+  host: "internships-aei.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: AMERICAN SYSTEMS
+  host: "careers-americansystems.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Atlassian
+  host: "campus-globalcareers-atlassian.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Atlassian
+  host: "careers-americas.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Bank of China USA
+  host: "careers-bocusa.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Blackhawk Network Holdings
+  host: "careers-blackhawknetwork.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: By Light Professional IT Services
+  host: "jobs-bylight.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Charles Schwab
+  host: "career-schwab.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Cook Group
+  host: "americas-cookmedical.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Cooper University Health Care
+  host: "careers-cooperhealth.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Cotiviti
+  host: "careers-cotiviti.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Dayton Freight
+  host: "careers-daytonfreight.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: DecisionPoint
+  host: "careers-decisionpointcorp.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: East Penn Manufacturing Company
+  host: "careers-eastpennmanufacturing.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Emory University
+  host: "staff-emory.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Empirical Foods
+  host: "careers-empiricalfoods.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Enterprise
+  host: "us-erac.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Federated Insurance
+  host: "careers-federatedinsurance.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: fgf brands
+  host: "careerscoopinternen-fgfbrands.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Framatome
+  host: "careers-framatome.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Gannett Fleming
+  host: "careers-gannettfleming.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: General Dynamics
+  host: "careers-gdeb.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: General Dynamics Mission Systems
+  host: "careers-gdms.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Grow Financial
+  host: "careers-growfinancial.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: GSK
+  host: "gsk-us-earlytalent.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: GTS
+  host: "careers-gtsx.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Hexagon AB
+  host: "careers-hexagonpositioning.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: i3
+  host: "careers-i3-corps.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: ITT
+  host: "careersenus-itt-inc.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Kinaxis
+  host: "careers-kinaxis.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Lennox
+  host: "uscareers-lennox.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Lennox
+  host: "careers-lennox.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Liberty Mutual
+  host: "campus-libertymutual.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: LMI
+  host: "careers-lmi.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Mackenzie Investments
+  host: "careersen-mackenzieinvestments.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Magnera
+  host: "careers-magnera.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: MaxLinear
+  host: "careersus-maxlinear.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Metova Federal
+  host: "jobs-cesi.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: North American Construction Group
+  host: "careers-nacg.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Otter Products
+  host: "careers-otterproducts.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: PepsiCo
+  host: "globalcampus-pepsico.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: PepsiCo
+  host: "uscampus-pepsico.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: PepsiCo
+  host: "campus-pepsico.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Peraton
+  host: "careers-peraton.icims.com"
+  keywords:
+  - "2027"
+  - "None"
+  - "intern"
+  - "associate"
+  - "early career"
+- name: Resonetics
+  host: "careers-resonetics.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: "Sargent & Lundy"
+  host: "careers-sargentlundy.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: SECURE
+  host: "careers-canada-secure.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Shure
+  host: "careersus-shure.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: SimVentions
+  host: "careers-simventions.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Springs Window Fashions
+  host: "careers-springswindowfashions.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: SRI International
+  host: "careers-sri.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Steel Dynamics
+  host: "careers-steeldynamics.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Steel Dynamics
+  host: "careers-aluminumdynamics.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Susquehanna International Group
+  host: "careers-sig.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: The Friedkin Group
+  host: "external-careers-friedkin.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: The Friedkin Group
+  host: "careers-friedkin.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: "Tighe & Bond"
+  host: "careers-tighebond.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Uber
+  host: "university-uber.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: University of St. Thomas
+  host: "studentemployment-stthomas.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Upbring
+  host: "careers-upbring.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: URBN
+  host: "homeoffice-na-urbn.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: W.R. Berkley
+  host: "careers-berkley.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: "Western & Southern Financial Group"
+  host: "careers-westernsouthern.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: "Willkie Farr & Gallagher"
+  host: "uscareers-willkie.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: "Willkie Farr & Gallagher"
+  host: "careers-willkie.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
+- name: Wipfli
+  host: "careers-wipfli.icims.com"
+  keywords:
+  - "2027"
+  - "Intern"
+  - "Internship"
+  - "New Grad"
+  - "Campus"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "co-op"
+  - "Associate"
 
 avature:
 - name: Bloomberg
-  portal: bloomberg
+  portal: "bloomberg"
   keywords:
-  - '2027'
-  - Internship
-  - Graduate
-  - Student
-  - 'Early Career'
-  - Intern
+  - "2027"
+  - "Internship"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "Intern"
 
 linkedin:
 - name: Apple
-  company_id: 162479
+  company_id: "162479"
 - name: Goldman Sachs
-  company_id: 1067
+  company_id: "1067"
 - name: Jane Street
-  company_id: 11482
+  company_id: "11482"
 - name: JPMorgan Chase
-  company_id: 1093
+  company_id: "1093"
 - name: Meta
-  company_id: 10667
+  company_id: "10667"
 - name: Microsoft
-  company_id: 1035
+  company_id: "1035"
 - name: Morgan Stanley
-  company_id: 2282
+  company_id: "2282"
 - name: Two Sigma
-  company_id: 9879
+  company_id: "9879"
+
 ashby:
 - name: 1Password
-  slug: 1password
+  slug: "1password"
+- name: 1X
+  slug: "1x"
 - name: Abridge
-  slug: abridge
+  slug: "abridge"
+- name: Abundant
+  slug: "abundant"
+- name: AfterQuery
+  slug: "afterquery"
 - name: Airwallex
-  slug: airwallex
+  slug: "airwallex"
 - name: Allen Control Systems
-  slug: allen-control-systems
+  slug: "allen-control-systems"
+- name: Alljoined
+  slug: "alljoined"
 - name: Alloy
-  slug: alloy
+  slug: "alloy"
 - name: Ambrook
-  slug: ambrook
+  slug: "ambrook"
 - name: Amperity
-  slug: amperity
+  slug: "amperity"
 - name: Anima
-  slug: Anima
+  slug: "Anima"
+- name: Antares
+  slug: "antares"
 - name: Anthelion Capital
-  slug: anthelioncap
+  slug: "anthelioncap"
 - name: Anyscale
-  slug: anyscale
+  slug: "anyscale"
+- name: Apex
+  slug: "apex-technology-inc"
 - name: Applied Intuition
-  slug: applied
+  slug: "applied"
+- name: Arch
+  slug: "arch.co"
+- name: Armadin
+  slug: "armadin"
+- name: Astera Institute
+  slug: "astera"
 - name: Atomic Semi
-  slug: fab2
+  slug: "fab2"
 - name: Auctor
-  slug: auctor
+  slug: "auctor"
 - name: Backbone Systems
-  slug: backbone
+  slug: "backbone"
+- name: "Barnes & Thornburg"
+  slug: "barnes"
 - name: Base Power Company
-  slug: base-power
+  slug: "base-power"
+- name: Baseten
+  slug: "baseten"
 - name: Beacon Software
-  slug: beaconsoftware
+  slug: "beaconsoftware"
+- name: Bedrock Robotics
+  slug: "bedrock-robotics"
 - name: Benchling
-  slug: benchling
+  slug: "benchling"
+- name: Bestow
+  slug: "bestow"
 - name: Bild AI
-  slug: bild-ai
+  slug: "bild-ai"
 - name: Binance.US
-  slug: binance.us
+  slug: "binance.us"
+- name: Blackstar Computers
+  slug: "blackstar"
+- name: Bland
+  slug: "bland"
 - name: Blockhouse
-  slug: blockhouse
+  slug: "blockhouse"
 - name: Bolt
-  slug: bolt
+  slug: "bolt"
+- name: Brain Co.
+  slug: "brainco"
 - name: Brainbase Labs
-  slug: brainbaselabs
+  slug: "brainbaselabs"
 - name: Braintrust
-  slug: braintrust
+  slug: "braintrust"
+- name: Bree
+  slug: "bree"
 - name: Bridger
-  slug: bridger
+  slug: "bridger"
 - name: BRM
-  slug: brm.ai
+  slug: "brm.ai"
 - name: Browserbase
-  slug: browserbase
+  slug: "browserbase"
 - name: Candid Health
-  slug: candidhealth
+  slug: "candidhealth"
 - name: Cape
-  slug: cape
+  slug: "cape"
 - name: Capy
-  slug: capy
+  slug: "capy"
 - name: Centerfield
-  slug: centerfield
+  slug: "centerfield"
 - name: Cerebras
-  slug: cerebras
+  slug: "cerebras"
 - name: ChargePoint
-  slug: chargepoint
+  slug: "chargepoint"
+- name: Charta Health
+  slug: "chartahealth"
+- name: Cheiron
+  slug: "cheiron"
 - name: Circleback
-  slug: circleback
+  slug: "circleback"
 - name: Citizen Health
-  slug: Citizen%20Health
+  slug: "Citizen%20Health"
 - name: Clera
-  slug: clera
+  slug: "clera"
+- name: ClickUp
+  slug: "clickup"
 - name: Clipboard Health
-  slug: clipboard
+  slug: "clipboard"
 - name: Coalesce
-  slug: Coalesce
+  slug: "Coalesce"
+- name: CoBot
+  slug: "cobot"
 - name: Cognition AI
-  slug: cognition
+  slug: "cognition"
 - name: Cohere
-  slug: cohere
+  slug: "cohere"
 - name: Collective
-  slug: collective
+  slug: "collective"
+- name: Colonist
+  slug: "colonist"
 - name: Color Health
-  slug: color-health
+  slug: "color-health"
 - name: Commure
-  slug: commure
+  slug: "commure"
 - name: Composio
-  slug: composio
+  slug: "composio"
+- name: ConductorAI
+  slug: "conductorai"
 - name: Confido
-  slug: confido
+  slug: "confido"
 - name: Confluent
-  slug: confluent
+  slug: "confluent"
+- name: Constellation Space
+  slug: "constellationspace"
 - name: Corvus Robotics
-  slug: corvus-robotics
+  slug: "corvus-robotics"
 - name: CreditGenie
-  slug: creditgenie
+  slug: "creditgenie"
 - name: Crusoe Energy Systems
-  slug: crusoe
+  slug: "crusoe"
 - name: CTGT
-  slug: ctgt
+  slug: "ctgt"
 - name: Cursor
-  slug: cursor
+  slug: "cursor"
 - name: Cylake
-  slug: cylake-inc
+  slug: "cylake-inc"
+- name: Cyvl
+  slug: "cyvl"
 - name: d-Matrix
-  slug: d-Matrix
+  slug: "d-Matrix"
+- name: DatologyAI
+  slug: "datologyai"
 - name: Decagon
-  slug: decagon
+  slug: "decagon"
+- name: Dedalus Labs
+  slug: "dedalus-labs"
 - name: Deepgram
-  slug: deepgram
+  slug: "deepgram"
+- name: Dexmate
+  slug: "dexmate"
+- name: Droyd Robotics
+  slug: "droyd"
 - name: Dune
-  slug: dune
+  slug: "dune"
 - name: Egra
-  slug: egra
+  slug: "egra"
+- name: Eight Sleep
+  slug: "eightsleep"
 - name: ElevenLabs
-  slug: elevenlabs
+  slug: "elevenlabs"
 - name: EliseAI
-  slug: eliseai
+  slug: "eliseai"
 - name: Ellipsis Labs
-  slug: ellipsislabs
+  slug: "ellipsislabs"
 - name: Epirus
-  slug: epirus
+  slug: "epirus"
 - name: Eragon
-  slug: eragon
+  slug: "eragon"
 - name: Etched
-  slug: etched
+  slug: "etched"
+- name: ETHGlobal
+  slug: "ethglobal"
 - name: Eulerity
-  slug: eulerity
-- name: Exa
-  slug: exa
+  slug: "eulerity"
 - name: Eventual
-  slug: eventualcomputing
+  slug: "eventualcomputing"
+- name: Exa
+  slug: "exa"
+- name: Exegy
+  slug: "exegy"
+- name: Fable
+  slug: "fable"
 - name: Faros AI
-  slug: faros-ai
+  slug: "faros-ai"
 - name: Figure
-  slug: figure
+  slug: "figure"
 - name: Firetiger
-  slug: firetiger
+  slug: "firetiger"
 - name: Flashpoint
-  slug: flashpoint.io
+  slug: "flashpoint.io"
 - name: Flock Safety
-  slug: flock-safety
+  slug: "flock-safety"
+- name: Flock Safety
+  slug: "flock%20safety"
 - name: Flow Engineering
-  slug: flowengineering
+  slug: "flowengineering"
 - name: Form Energy
-  slug: formenergy
+  slug: "formenergy"
+- name: Fundwell
+  slug: "fundwell"
 - name: FurtherAI
-  slug: furtherAI
+  slug: "furtherAI"
 - name: Gatik
-  slug: gatik
+  slug: "gatik"
 - name: Gecko Robotics
-  slug: gecko-robotics
+  slug: "gecko-robotics"
 - name: Gen Digital
-  slug: gen-digital
+  slug: "gen-digital"
+- name: GenMD
+  slug: "genmd"
+- name: Georgian Partners Growth
+  slug: "georgian"
 - name: Giga AI
-  slug: gigaml
+  slug: "gigaml"
+- name: GrayMatter Robotics
+  slug: "graymatter-robotics"
 - name: Gritt Robotics
-  slug: gritt
+  slug: "gritt"
 - name: Group One Trading
-  slug: group1trading
+  slug: "group1trading"
+- name: Gumloop
+  slug: "gumloop"
+- name: Hadrian
+  slug: "hadrian-automation"
 - name: Handshake
-  slug: handshake
+  slug: "handshake"
 - name: Harvey
-  slug: harvey
+  slug: "harvey"
 - name: Heliux
-  slug: heliux
-- name: Hypercubic
-  slug: hypercubic
+  slug: "heliux"
+- name: Heron Power
+  slug: "heron-power"
 - name: Hipp Health
-  slug: hipp
+  slug: "hipp"
+- name: Hippocratic AI
+  slug: "hippocratic%20ai"
 - name: Homebase
-  slug: homebase
+  slug: "homebase"
 - name: Human Computer Lab
-  slug: human-computer-lab
+  slug: "human-computer-lab"
+- name: Hypercubic
+  slug: "hypercubic"
+- name: ibotta
+  slug: "ibotta"
+- name: Illumio
+  slug: "illumio"
 - name: Inductive Automation
-  slug: inductive-automation-llc
+  slug: "inductive-automation-llc"
 - name: Interaction
-  slug: interaction
+  slug: "interaction"
+- name: Interplay
+  slug: "interplay"
+- name: Juicebox
+  slug: "juicebox"
 - name: Julius AI
-  slug: julius
+  slug: "julius"
 - name: Kastle
-  slug: kastle
+  slug: "kastle"
+- name: Kirin
+  slug: "kirin"
 - name: Koah
-  slug: koahlabs
+  slug: "koahlabs"
+- name: Kognitos
+  slug: "kognitos"
 - name: kos.ai
-  slug: kos.ai
+  slug: "kos.ai"
 - name: Kraken
-  slug: kraken
+  slug: "kraken"
 - name: Kustomer
-  slug: kustomer
+  slug: "kustomer"
 - name: Lambda
-  slug: lambda
+  slug: "lambda"
 - name: Latent Defense
-  slug: Latent Defense
+  slug: "Latent Defense"
+- name: Latent Defense
+  slug: "latent%20defense"
 - name: Leland
-  slug: leland
+  slug: "leland"
 - name: Lightfield
-  slug: lightfield
+  slug: "lightfield"
 - name: Lightspeed Commerce
-  slug: lightspeedhq
+  slug: "lightspeedhq"
 - name: Linear
-  slug: linear
+  slug: "linear"
+- name: Magical
+  slug: "magical"
+- name: MaintainX
+  slug: "maintainx"
+- name: Mandolin
+  slug: "mandolin"
+- name: Mariana Minerals
+  slug: "marianaminerals"
 - name: Maximor AI
-  slug: maximor
+  slug: "maximor"
+- name: Mechanize
+  slug: "mechanize"
+- name: MegazoneCloud
+  slug: "megazone"
 - name: Melius
-  slug: melius
+  slug: "melius"
+- name: Meow
+  slug: "meow"
+- name: Mercor
+  slug: "mercor"
 - name: MetroStar
-  slug: metrostarsystems
+  slug: "metrostarsystems"
 - name: Miro
-  slug: miro
+  slug: "miro"
 - name: Mistral AI
-  slug: mistral.ai
+  slug: "mistral.ai"
 - name: Modal
-  slug: modal
+  slug: "modal"
 - name: Modern Treasury
-  slug: moderntreasury
+  slug: "moderntreasury"
+- name: Monogram
+  slug: "monogram"
 - name: Morris Health Technologies
-  slug: morrishealthtech
+  slug: "morrishealthtech"
 - name: MyJunior AI
-  slug: junior
+  slug: "junior"
 - name: N1
-  slug: n1
+  slug: "n1"
+- name: NationGraph
+  slug: "nationgraph"
+- name: NeoCognition
+  slug: "neocognition"
 - name: Neon
-  slug: neon
+  slug: "neon"
 - name: NerdWallet
-  slug: nerdwallet
+  slug: "nerdwallet"
 - name: Netic
-  slug: netic
+  slug: "netic"
 - name: Nexxen
-  slug: nexxen
+  slug: "nexxen"
 - name: Niantic
-  slug: niantic-spatial
-- name: Northslope Technologies
-  slug: northslope-technologies
-- name: Northspyre
-  slug: northspyre
+  slug: "niantic-spatial"
 - name: Nooks
-  slug: nooks
+  slug: "nooks"
+- name: Northslope Technologies
+  slug: "northslope-technologies"
+- name: Northspyre
+  slug: "northspyre"
 - name: Northwood Space
-  slug: northwoodspace
+  slug: "northwoodspace"
 - name: Notion
-  slug: notion
+  slug: "notion"
 - name: NTT DATA AIVista
-  slug: ntt-data-aivista
+  slug: "ntt-data-aivista"
 - name: Nubank
-  slug: nubank
+  slug: "nubank"
+- name: Nuclear Promise X
+  slug: "npx"
+- name: Oceanus Marine Technologies
+  slug: "oceanus"
+- name: Oligo Space
+  slug: "oligo"
+- name: ONE Finance
+  slug: "oneapp"
 - name: OpenAI
-  slug: openai
+  slug: "openai"
 - name: OpenGov
-  slug: opengov
+  slug: "opengov"
 - name: OpusClip
-  slug: opusclip
+  slug: "opusclip"
+- name: Output Biosciences
+  slug: "output"
+- name: Pace
+  slug: "withpace"
 - name: Parafin
-  slug: parafin
+  slug: "parafin"
 - name: Parallel Web Systems
-  slug: parallel
+  slug: "parallel"
 - name: Pariveda
-  slug: pariveda
+  slug: "pariveda"
+- name: Pear VC
+  slug: "pear-vc"
+- name: People Culture Talent
+  slug: "people-culture-talent"
 - name: Perplexity
-  slug: perplexity
+  slug: "perplexity"
 - name: Persona
-  slug: persona
+  slug: "persona"
 - name: Persona AI
-  slug: persona.ai
+  slug: "persona.ai"
+- name: Phlair
+  slug: "phlair"
+- name: Phoebe
+  slug: "phoebe-work"
+- name: Phonely
+  slug: "phonely"
+- name: Phonic
+  slug: "phonic"
 - name: Physical Intelligence
-  slug: physicalintelligence
+  slug: "physicalintelligence"
+- name: Pika
+  slug: "pika"
 - name: Pinecone
-  slug: pinecone
+  slug: "pinecone"
 - name: Plaid
-  slug: plaid
+  slug: "plaid"
+- name: Pluralis Research
+  slug: "pluralis-research"
 - name: PointOne
-  slug: pointone
+  slug: "pointone"
+- name: Poshmark
+  slug: "poshmark"
 - name: PostHog
-  slug: posthog
+  slug: "posthog"
 - name: Preference Model
-  slug: preference-model
+  slug: "preference-model"
+- name: PressW
+  slug: "pressw"
+- name: Primer
+  slug: "primer"
 - name: Profound
-  slug: profound
+  slug: "profound"
+- name: Pulse
+  slug: "pulse"
 - name: Pylon
-  slug: pylon-labs
+  slug: "pylon-labs"
+- name: Pylon
+  slug: "pylon"
+- name: Quadrillion
+  slug: "quadrillion-labs"
+- name: Qualified Health
+  slug: "qualified-health-pbc"
 - name: Quantbot Technologies
-  slug: quantbot
+  slug: "quantbot"
 - name: Quora
-  slug: quora
+  slug: "quora"
+- name: Radiant
+  slug: "radiant-industries"
 - name: Radiant Nuclear
-  slug: radiantnuclear
+  slug: "radiantnuclear"
 - name: Ramp
-  slug: ramp
+  slug: "ramp"
+- name: RapDev
+  slug: "rapdev"
 - name: Realm Alliance
-  slug: realmalliance
+  slug: "realmalliance"
 - name: Redis
-  slug: redis
+  slug: "redis"
+- name: Reflect Orbital
+  slug: "reflect-orbital"
 - name: Reframe Systems
-  slug: reframesystems
+  slug: "reframesystems"
 - name: Relativity Space
-  slug: relativityspace
+  slug: "relativityspace"
 - name: Reliable Robotics
-  slug: reliable-robotics
+  slug: "reliable-robotics"
+- name: Remarcable
+  slug: "remarcable-inc"
 - name: Remodel Health
-  slug: remodelhealth
+  slug: "remodelhealth"
 - name: Replit
-  slug: replit
+  slug: "replit"
 - name: Retell AI
-  slug: retell-ai
-  slug: replit
+  slug: "replit"
+- name: Retell AI
+  slug: "retell-ai"
 - name: Revel
-  slug: revel
+  slug: "revel"
 - name: Rho
-  slug: rho
+  slug: "rho"
+- name: Rilla
+  slug: "rilla"
+- name: Riveron
+  slug: "riveron"
+- name: Rivet Industries
+  slug: "rivet"
 - name: Rivian and Volkswagen Group Technologies
-  slug: rivianvw.tech
+  slug: "rivianvw.tech"
 - name: Rokt
-  slug: Rokt
+  slug: "Rokt"
 - name: Rollout
-  slug: rollout
+  slug: "rollout"
+- name: Roserocket
+  slug: "rose%20rocket"
+- name: Rundoo
+  slug: "rundoo"
+- name: RunPod
+  slug: "runpod"
 - name: Runway
-  slug: runway
+  slug: "runway"
 - name: Saronic Technologies
-  slug: saronic
+  slug: "saronic"
+- name: Semgrep
+  slug: "semgrep"
 - name: SentiLink
-  slug: sentilink
+  slug: "sentilink"
+- name: Sentra
+  slug: "sentra"
 - name: Sentry
-  slug: sentry
+  slug: "sentry"
+- name: Sequence Holdings
+  slug: "seqholdings"
 - name: Serval
-  slug: serval
+  slug: "serval"
 - name: Serve Robotics
-  slug: serve-robotics
+  slug: "serve-robotics"
 - name: Sierra
-  slug: sierra
+  slug: "sierra"
+- name: SIFT
+  slug: "siftstack"
 - name: Skydio
-  slug: skydio
+  slug: "skydio"
 - name: SMX
-  slug: smxtech
+  slug: "smxtech"
 - name: Snowflake
-  slug: snowflake
+  slug: "snowflake"
+- name: Solace Health
+  slug: "solace"
 - name: Spacial
-  slug: spacial
+  slug: "spacial"
 - name: Span.io
-  slug: span
+  slug: "span"
 - name: SpreeAI
-  slug: spreeai
+  slug: "spreeai"
 - name: Strada
-  slug: stradahq
+  slug: "stradahq"
 - name: Suno
-  slug: suno
+  slug: "suno"
 - name: Supabase
-  slug: supabase
+  slug: "supabase"
+- name: Super
+  slug: "super.com"
+- name: Superhuman
+  slug: "superhuman%20platform%20inc"
 - name: Sybil
-  slug: runsybil-jobs
+  slug: "runsybil-jobs"
 - name: Tailscale
-  slug: tailscale
+  slug: "tailscale"
+- name: Talos
+  slug: "talos-trading"
+- name: Teamworks
+  slug: "teamworks"
 - name: TELUS Digital
-  slug: telus-digital
+  slug: "telus-digital"
 - name: Temporal
-  slug: temporal
+  slug: "temporal"
+- name: Terminal
+  slug: "terminal"
 - name: Terranova
-  slug: terranova
+  slug: "terranova"
 - name: Tessera Labs
-  slug: tessera-labs
+  slug: "tessera-labs"
+- name: The Exploration Company
+  slug: "the-exploration-company"
 - name: Titan
-  slug: titan-msp
+  slug: "titan-msp"
 - name: Traba
-  slug: traba
+  slug: "traba"
 - name: Tracebit
-  slug: tracebit
+  slug: "tracebit"
+- name: Trulioo
+  slug: "trulioo"
 - name: Uncountable
-  slug: uncountable
+  slug: "uncountable"
 - name: Uniswap
-  slug: uniswap
+  slug: "uniswap"
+- name: Valon
+  slug: "valon"
+- name: Valstad
+  slug: "valstad"
 - name: Vanta
-  slug: vanta
+  slug: "vanta"
 - name: Veeda AI
-  slug: veeda-labs
+  slug: "veeda-labs"
 - name: Vercel
-  slug: vercel
+  slug: "vercel"
+- name: Vital Lyfe
+  slug: "vital-lyfe"
 - name: Voleon Group
-  slug: voleon
+  slug: "voleon"
+- name: Vultr
+  slug: "vultr"
 - name: Waabi
-  slug: waabi
+  slug: "waabi"
+- name: Watershed
+  slug: "watershed"
 - name: Wealthsimple
-  slug: wealthsimple
+  slug: "wealthsimple"
 - name: Weave
-  slug: weave
+  slug: "weave"
 - name: Weaviate
-  slug: weaviate
+  slug: "weaviate"
 - name: WhatNot
-  slug: whatnot
+  slug: "whatnot"
 - name: Windborne Systems
-  slug: windborne-systems
+  slug: "windborne-systems"
+- name: Wispr Flow
+  slug: "wispr-flow"
 - name: Wiz
-  slug: wiz
+  slug: "wiz"
+- name: Xterra AI
+  slug: "xterra%20ai"
 - name: Yotta
-  slug: yotta
+  slug: "yotta"
 - name: Zapier
-  slug: zapier
+  slug: "zapier"
 - name: Zello
-  slug: Zello
+  slug: "Zello"
 - name: Zip
-  slug: zip
+  slug: "zip"
+- name: Zuru
+  slug: "zuru"
+
 oracle:
 - name: American Express
-  host: egug.fa.us2.oraclecloud.com
-  site: CX_1
+  host: "egug.fa.us2.oraclecloud.com"
+  site: "CX_1"
+- name: Arconic
+  host: "hdnn.fa.us6.oraclecloud.com"
+  site: "CX"
+- name: ATCO
+  host: "eezy.fa.ca2.oraclecloud.com"
+  site: "CX"
+- name: Berkshire Hathaway Energy
+  host: "fa-essf-saasfaprod1.fa.ocs.oraclecloud.com"
+  site: "CX_1"
+- name: Blue Cross Blue Shield of Michigan
+  host: "ejko.fa.us2.oraclecloud.com"
+  site: "CX_3"
 - name: BNY
-  host: eofe.fa.us2.oraclecloud.com
-  site: CX_1001
+  host: "eofe.fa.us2.oraclecloud.com"
+  site: "CX_1001"
+- name: Citizens Financial Group
+  host: "hcgn.fa.us2.oraclecloud.com"
+  site: "CX_1"
+- name: Conduent
+  host: "egua.fa.us2.oraclecloud.com"
+  site: "CX_1"
+- name: CSX
+  host: "fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com"
+  site: "CSXCareers"
+- name: Cummins
+  host: "fa-espx-saasfaprod1.fa.ocs.oraclecloud.com"
+  site: "CX_1"
+- name: Definity Financial
+  host: "hdks.fa.ca2.oraclecloud.com"
+  site: "CX_1"
+- name: Dell Technologies
+  host: "iawmqy.fa.ocs.oraclecloud.com"
+  site: "careers"
+- name: DNV
+  host: "ecyq.fa.em2.oraclecloud.com"
+  site: "CX_1"
+- name: DTCC
+  host: "ebxr.fa.us2.oraclecloud.com"
+  site: "CX_1"
+- name: Duracell
+  host: "fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com"
+  site: "CX_26"
+- name: Emerson Electric
+  host: "hdjq.fa.us2.oraclecloud.com"
+  site: "CX_1"
+- name: EXL
+  host: "fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com"
+  site: "CX_2"
+- name: Fortinet
+  host: "edel.fa.us2.oraclecloud.com"
+  site: "CX_2001"
+- name: GCI
+  host: "edqv.fa.us2.oraclecloud.com"
+  site: "CX"
+- name: GM Financial
+  host: "fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com"
+  site: "CX_1"
+- name: Grant Thornton
+  host: "ehzq.fa.us2.oraclecloud.com"
+  site: "CX_1"
+- name: GuideWell Mutual
+  host: "fa-etum-saasfaprod1.fa.ocs.oraclecloud.com"
+  site: "CX_1"
+- name: Hearst
+  host: "eevd.fa.us6.oraclecloud.com"
+  site: "CX_1"
+- name: Hilton Worldwide
+  host: "efet.fa.us2.oraclecloud.com"
+  site: "CX_1009"
+- name: Hoffman Construction
+  host: "efsp.fa.us6.oraclecloud.com"
+  site: "CX"
+- name: Honeywell
+  host: "ibqbjb.fa.ocs.oraclecloud.com"
+  site: "Honeywell"
+- name: Howmet Aerospace
+  host: "fa-exty-saasfaprod1.fa.ocs.oraclecloud.com"
+  site: "CX_1"
+- name: Infoblox
+  host: "efpv.fa.us6.oraclecloud.com"
+  site: "CX_1"
+- name: JPMorganChase
+  host: "jpmc.fa.oraclecloud.com"
+  site: "CX_1001"
+- name: Lazard
+  host: "icbpjb.fa.ocs.oraclecloud.com"
+  site: "LazardProfessionalCareers"
+- name: Montenson
+  host: "fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com"
+  site: "CX_1"
+- name: Navy Federal
+  host: "fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com"
+  site: "nfcu"
+- name: Nokia
+  host: "fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com"
+  site: "CX_1"
+- name: NOV
+  host: "egay.fa.us6.oraclecloud.com"
+  site: "CX_4001"
+- name: Omnicell
+  host: "elrj.fa.us2.oraclecloud.com"
+  site: "search"
+- name: onsemi
+  host: "hctz.fa.us2.oraclecloud.com"
+  site: "CX_1001"
+- name: Oracle
+  host: "eeho.fa.us2.oraclecloud.com"
+  site: "CX_45001"
+- name: Pella
+  host: "ebgj.fa.us2.oraclecloud.com"
+  site: "CX_1"
+- name: Photon
+  host: "fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com"
+  site: "CX_2"
+- name: Schroders
+  host: "ekbq.fa.em2.oraclecloud.com"
+  site: "CX_2"
+- name: SCOR
+  host: "fa-errt-saasfaprod1.fa.ocs.oraclecloud.com"
+  site: "CX_2001"
+- name: Stantec
+  host: "hdhl.fa.us6.oraclecloud.com"
+  site: "CX_1"
+- name: Texas Instruments
+  host: "edbz.fa.us2.oraclecloud.com"
+  site: "CX"
+- name: Tradeweb
+  host: "ecnf.fa.us2.oraclecloud.com"
+  site: "CX"
+- name: Uber
+  host: "iaziqy.fa.ocs.oraclecloud.com"
+  site: "CX_1"
+- name: Verisk
+  host: "fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com"
+  site: "CX_1"
+- name: Vertiv
+  host: "egup.fa.us2.oraclecloud.com"
+  site: "CX"
+- name: WSP
+  host: "emit.fa.ca3.oraclecloud.com"
+  site: "CX_2001"
+- name: WTW
+  host: "eedu.fa.em3.oraclecloud.com"
+  site: "CX_1003"
+
 workable:
+- name: Al Warren Oil Company
+  slug: "al-warren-oil-company-inc"
+- name: Altom Transport
+  slug: "altom-transport"
+- name: Caddi Workflow Automation
+  slug: "trycaddi"
+- name: ConnectPrep
+  slug: "connectprep"
+- name: Coretek Services
+  slug: "coretek-services"
+- name: ENFOS
+  slug: "enfos-inc"
+- name: Flexion Robotics
+  slug: "flexion-robotics"
+- name: Generation West Virginia
+  slug: "generation-west-virginia-1"
+- name: Halo Industries
+  slug: "halo-industries"
+- name: Hugging Face
+  slug: "huggingface"
+- name: HyperLight
+  slug: "hyperlight"
+- name: InterImage
+  slug: "interimage"
+- name: Luminance
+  slug: "luminance-1"
 - name: Pony.ai
-  slug: pony-dot-ai
+  slug: "pony-dot-ai"
+- name: Praytell
+  slug: "praytell"
+- name: ProNexus
+  slug: "pronexus-1"
+- name: qode.world
+  slug: "qodeworld"
+- name: Quadric
+  slug: "quadric-dot-i-o-inc"
+- name: RAVE Aerospace
+  slug: "raveaerospace"
+- name: ResponsiveAds
+  slug: "responsiveads-inc"
+- name: Rokt
+  slug: "rokt"
+- name: Saalex
+  slug: "saalex"
+- name: Security Risk Advisors
+  slug: "securityriskadvisors"
+- name: Syntiant
+  slug: "syntiant"
+- name: talentpluto
+  slug: "talentpluto"
+- name: Texas Sports Academy
+  slug: "texas-sports-academy-main"
+- name: TMEIC
+  slug: "tmeic-corporation-americas"
+- name: Turabify
+  slug: "turabify-co"
+- name: TWG Global
+  slug: "twgai"
+- name: WallStreetQuants
+  slug: "wallstreetquants"
+- name: Zaber Technologies
+  slug: "zaber"

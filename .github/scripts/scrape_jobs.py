@@ -1446,26 +1446,52 @@ def scrape_workable(company, slug):
         jobs = []
         for job in resp.json().get('jobs', []):
             title = job.get('title', '')
-            loc = job.get('location', {})
-            country = loc.get('countryCode', '').lower()
-            remote = loc.get('remote', False)
-            city = loc.get('city', '')
-            region = loc.get('region', '')
+            loc = job.get('location', {}) or {}
+            country = (loc.get('countryCode') or loc.get('country') or '').lower()
+            remote = bool(loc.get('remote', False))
+            city = loc.get('city', '') or ''
+            region = loc.get('region', '') or ''
+            title_l = title.lower()
 
-            if not (country in ('us', 'ca') or remote):
+            # Some Workable boards leave location empty and encode geo in the title
+            # (e.g. "US Remote" / "EMEA Remote").
+            if not country and not city:
+                if re.search(r'\b(us|usa|united states|canada)\b.*\bremote\b|\bremote\b.*\b(us|usa|canada)\b', title_l):
+                    remote = True
+                    if 'canada' in title_l:
+                        country = 'ca'
+                    else:
+                        country = 'us'
+                elif re.search(r',\s*[A-Z]{2}\b', title):
+                    country = 'us'
+
+            if country and country not in ('us', 'ca', 'usa', 'united states', 'canada') and not remote:
+                continue
+            if not country and not remote:
+                continue
+            # Skip clearly non-NA title geos even when remote flag is set without country
+            if re.search(r'\b(emea|europe|uk|london|india|apac|latam)\b', title_l) and not re.search(
+                r'\b(us|usa|united states|canada)\b', title_l
+            ):
                 continue
 
-            if remote:
-                location = 'Remote'
+            if remote and country in ('ca', 'canada'):
+                location = 'Remote (Canada)'
+            elif remote:
+                location = 'Remote (US)'
             elif city and region:
                 location = f'{city}, {region}'
             elif city:
                 location = city
+            elif country in ('us', 'usa', 'united states'):
+                location = 'Remote (US)'
+            elif country in ('ca', 'canada'):
+                location = 'Remote (Canada)'
             else:
                 location = country.upper() if country else ''
 
             relevant = is_candidate_title(title)
-            if relevant:
+            if relevant and is_us_location(location):
                 job_id = job.get('shortcode', job.get('id', ''))
                 jobs.append({
                     'id': f'workable_{slug}_{job_id}',
@@ -1748,6 +1774,28 @@ def _parse_icims_locations(raw):
             parts.append(piece)
     return normalize_location('; '.join(parts))
 
+def _icims_infer_location(card_html, host):
+    """Best-effort location when iCIMS search cards omit Job Locations."""
+    m = re.search(r'\bUS-([A-Z]{2})-([A-Za-z0-9 .\'-]+)', card_html)
+    if m:
+        return _parse_icims_locations(f'US-{m.group(1)}-{m.group(2).strip()}')
+    m = re.search(r'\bCA-([A-Z]{2})-([A-Za-z0-9 .\'-]+)', card_html)
+    if m:
+        return f'{m.group(2).strip()}, {m.group(1).upper()}'
+    m = re.search(r'\b([A-Z][a-zA-Z .\'-]{1,40},\s*[A-Z]{2})\b', card_html)
+    if m:
+        cand = m.group(1).strip()
+        abbr = cand.split(',')[-1].strip()
+        if abbr in _US_STATE_ABBRS or abbr in set(CA_PROVINCE_ABBRS.values()):
+            return cand
+    host_l = (host or '').lower()
+    if re.search(r'uk\.|eu\.|emea|ireland|india|singapore', host_l):
+        return ''
+    if re.search(r'canada|careersen-|careersca-|\.ca\.|canadian', host_l):
+        return 'Remote (Canada)'
+    return 'Remote (US)'
+
+
 def scrape_icims(company, host, keywords=None):
                                                                        
     keywords = keywords or ['2027', 'intern', 'new grad', 'early career', 'associate']
@@ -1809,16 +1857,26 @@ def scrape_icims(company, host, keywords=None):
                     if h3:
                         title = re.sub(r'<[^>]+>', '', _html.unescape(h3.group(1))).strip() or title
                     loc_m = re.search(
-                        r'Job Locations?</span>\s*<span[^>]*>\s*([^<]+)',
+                        r'Job Locations?</span>.*?<span[^>]*>\s*([^<]+)',
                         card,
-                        re.I,
+                        re.S | re.I,
                     )
                     location = _parse_icims_locations(loc_m.group(1).strip() if loc_m else '')
+                    # Do not treat other header fields (Experience Level, Category) as location.
+                    if location and not (
+                        re.match(r'US-[A-Z]{2}-', location)
+                        or re.search(r',\s*[A-Z]{2}$', location)
+                        or re.match(r'(?i)^remote', location)
+                    ):
+                        # Parsed something that isn't a geo — discard
+                        if not re.search(r',\s*[A-Z]{2}\b|US-[A-Z]{2}', loc_m.group(1) if loc_m else ''):
+                            location = ''
                     if not location:
-                                                                                       
                         tm = re.search(r'\s[-–—]\s+([A-Za-z .]+,\s*[A-Z]{2})\s*$', title)
                         if tm:
                             location = tm.group(1).strip()
+                    if not location:
+                        location = _icims_infer_location(card, host)
                     if url.startswith('/'):
                         url = f'{base}{url}'
                     url = re.sub(r'\?.*$', '', url)
