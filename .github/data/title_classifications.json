@@ -76294,8 +76294,8 @@
   },
   "production associate (waltham, ma)": {
     "t": false,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 0
   },
   "kabc-tv (abc7) broadcast technology/it intern, spring 2027": {
@@ -76561,5 +76561,25 @@
     "v": "cs-is-v2",
     "a": 0,
     "b": "s"
+  },
+  "systems engineering - summer intern 2027 - onsite": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "commercial engines business intern (summer 2027)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "supplier development engineer co-op": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "o"
   }
 }
