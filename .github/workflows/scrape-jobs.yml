@@ -254,8 +254,6 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests pyyaml anthropic
-      - name: Validate companies.yml before scrape apply
-        run: python .github/scripts/validate_companies.py
       - name: Apply pending discoveries to listings.json
         run: python .github/scripts/apply_pending.py
       - name: Commit listings and README

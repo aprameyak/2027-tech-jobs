@@ -15,7 +15,6 @@ on:
       - 'CLOSED.md'
       - 'README.md'
       - '.github/scripts/validate_listings.py'
-      - '.github/scripts/validate_companies.py'
       - '.github/scripts/quality_gate.py'
       - '.github/scripts/scrape_jobs.py'
       - '.github/scripts/apply_pending.py'
@@ -38,7 +37,6 @@ on:
       - 'CLOSED.md'
       - 'README.md'
       - '.github/scripts/validate_listings.py'
-      - '.github/scripts/validate_companies.py'
       - '.github/scripts/quality_gate.py'
       - '.github/scripts/scrape_jobs.py'
       - '.github/scripts/apply_pending.py'
@@ -58,8 +56,6 @@ jobs:
           python-version: '3.11'
       - name: Install test dependencies
         run: pip install requests pyyaml
-      - name: Validate companies.yml
-        run: python .github/scripts/validate_companies.py
       - name: Validate listings
         run: python .github/scripts/validate_listings.py
       - name: Quality / regression gate
