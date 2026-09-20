@@ -64677,7 +64677,7 @@
   },
   "product management intern (summer 2027)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -64898,7 +64898,7 @@
   },
   "cyber security intern": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -66091,7 +66091,7 @@
   },
   "junior systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "n"
@@ -66512,7 +66512,7 @@
   },
   "product management intern": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -77527,6 +77527,33 @@
   "founding research scientist": {
     "t": false,
     "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "don't see internships you are looking for?": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "co-op student": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "o"
+  },
+  "summer 2027 - general program (new grad)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "n"
+  },
+  "gt - 2027 r&d program": {
+    "t": false,
+    "c": "low",
     "v": "cs-is-v2",
     "a": 0
   }
