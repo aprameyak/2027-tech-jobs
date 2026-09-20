@@ -6,7 +6,7 @@
   },
   "ai solutions engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37,7 +37,7 @@
   },
   "analytics engineer ii": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -108,7 +108,7 @@
   },
   "director, information technology & security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -241,14 +241,14 @@
   },
   "manager, software engineering (reliability platform)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "manager, software engineering (resilience engineering)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -268,7 +268,7 @@
   },
   "revenue enablement program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -280,14 +280,14 @@
   },
   "security risk management lead": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior ciam software engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -311,7 +311,7 @@
   },
   "senior machine learning engineer (fraud)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -357,7 +357,7 @@
   },
   "senior product manager, credit & pricing": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -376,7 +376,7 @@
   },
   "senior product security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -413,7 +413,7 @@
   },
   "senior software engineer, backend (merchant & partner lifecycle)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -438,7 +438,7 @@
   },
   "senior software engineer, fullstack (consumer engineering)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -475,7 +475,7 @@
   },
   "senior staff software engineer, frontend (web infra)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -563,28 +563,28 @@
   },
   "staff product manager, affirm bank": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff product manager, app platform & experience": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff product manager, app platform & experience ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff product security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -598,7 +598,7 @@
   },
   "staff software engineer, backend (capacity modeling)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -617,14 +617,14 @@
   },
   "staff software engineer (continuous integration)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff technical program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -805,7 +805,7 @@
   },
   "lead, advanced analytics, acquisition": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -830,7 +830,7 @@
   },
   "lead, advanced analytics, payments": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -1012,7 +1012,7 @@
   },
   "principal machine learning engineer- llm fine-tuning and optimization ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -1041,14 +1041,14 @@
   },
   "product manager, relevance and personalization": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "product program manager, roadmap planning & program management": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -1150,7 +1150,7 @@
   },
   "senior data scientist, guest & host": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -1287,7 +1287,7 @@
   },
   "senior platform manager, trust and safety": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -1304,7 +1304,7 @@
   },
   "senior product program manager, roadmap planning & program management ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -1379,7 +1379,7 @@
   },
   "senior staff data engineer - data stewardship": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -1392,7 +1392,7 @@
   },
   "senior staff data scientist, guest & host marketplace ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -1405,35 +1405,35 @@
   },
   "senior staff machine learning engineer, data & eval": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior staff machine learning engineer, growth platform engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior staff machine learning engineer, guest & host": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior staff machine learning engineer, post training": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior staff machine learning engineer, trust": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -1446,21 +1446,21 @@
   },
   "senior staff software engineer, host pricing & settings": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior staff software engineer, payments": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior staff software engineer, trust": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -1567,7 +1567,7 @@
   },
   "staff analyst, advanced analytics, payments": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -1680,7 +1680,7 @@
   },
   "strategic sourcing, manager - engineering & infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -1758,14 +1758,14 @@
   },
   "senior ai engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior data scientist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -1791,7 +1791,7 @@
   },
   "senior software engineer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -1846,7 +1846,7 @@
   },
   "software engineering manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -1887,7 +1887,7 @@
   },
   "technical support engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2064,7 +2064,7 @@
   },
   "associate director, army mission operations": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -2231,7 +2231,7 @@
   },
   "chief engineer, intel systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2250,7 +2250,7 @@
   },
   "classified system administrator (active clearance), intelligence systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2346,7 +2346,7 @@
   },
   "contractor special security officer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2396,7 +2396,7 @@
   },
   "curriculum developer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2455,7 +2455,7 @@
   },
   "deployment lead, air defense": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2537,7 +2537,7 @@
   },
   "deputy head of production, autonomous airpower (fury)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2700,7 +2700,7 @@
   },
   "director of engineering, rocket motor systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2981,7 +2981,7 @@
   },
   "engineering technician, vacuum & cryogenic systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3079,7 +3079,7 @@
   },
   "facility security officer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3252,7 +3252,7 @@
   },
   "formulations manager, rocket motor systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3592,7 +3592,7 @@
   },
   "information systems security officer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3611,7 +3611,7 @@
   },
   "infrastructure engineer, kubernetes": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3640,7 +3640,7 @@
   },
   "integrated power systems engineer/technician": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3708,7 +3708,7 @@
   },
   "it systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3806,7 +3806,7 @@
   },
   "lead production technician, intelligence systems ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3855,7 +3855,7 @@
   },
   "lead systems engineer, battlespace": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3951,7 +3951,7 @@
   },
   "manager, manufacturing test engineering (intelligence systems)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4023,7 +4023,7 @@
   },
   "manager, software engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4045,7 +4045,7 @@
   },
   "manager, technical revenue accounting": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4128,14 +4128,14 @@
   },
   "manufacturing test engineer, intelligence systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "manufacturing test engineer, intelligence systems (2nd shift) ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4287,7 +4287,7 @@
   },
   "mission operations engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4300,20 +4300,20 @@
   },
   "mission operations engineer, connected warfare (active clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "mission operations manager, c2": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
   "mission operations product manager, group 5 mission autonomy": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4468,7 +4468,7 @@
   },
   "npi program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4618,7 +4618,7 @@
   },
   "plm developer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4764,7 +4764,7 @@
   },
   "production coordinator, intelligence systems ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4795,7 +4795,7 @@
   },
   "production program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4808,7 +4808,7 @@
   },
   "production program manager, intelligence systems ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4894,7 +4894,7 @@
   },
   "production technician, intelligence systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4913,7 +4913,7 @@
   },
   "production technician, missiles": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4962,7 +4962,7 @@
   },
   "product manager, deployed optical systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4999,7 +4999,7 @@
   },
   "product operations technical specialist, air defense": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5012,7 +5012,7 @@
   },
   "product operations technical specialist, counter intrusion": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5144,7 +5144,7 @@
   },
   "program director, rocket motor systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5270,7 +5270,7 @@
   },
   "quality manager, intelligence systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5292,21 +5292,21 @@
   },
   "quality specialist, intelligence systems (second shift)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   " quality specialist, intelligence systems (secret clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "quality specialist, intelligence systems (secret clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5393,7 +5393,7 @@
   },
   "reliability engineer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5533,7 +5533,7 @@
   },
   "security specialist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5587,7 +5587,7 @@
   },
   "senior analytics engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5642,7 +5642,7 @@
   },
   "senior bom engineer, intelligence systems (active clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5694,7 +5694,7 @@
   },
   "senior cloud security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5751,7 +5751,7 @@
   },
   "senior cost value engineer, intelligence systems (active clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5764,7 +5764,7 @@
   },
   "senior data engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5902,7 +5902,7 @@
   },
   "senior director, software engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6041,7 +6041,7 @@
   },
   "senior engineer, edge-cloud reliability": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6142,7 +6142,7 @@
   },
   "senior flight software engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6209,7 +6209,7 @@
   },
   "senior front end software engineer, react": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6222,7 +6222,7 @@
   },
   "senior full stack software engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6353,7 +6353,7 @@
   },
   "senior ground software engineer, space": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6418,7 +6418,7 @@
   },
   "senior it systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6449,7 +6449,7 @@
   },
   "senior machine learning engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6545,7 +6545,7 @@
   },
   "senior manager, software engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6586,7 +6586,7 @@
   },
   "senior manufacturing software engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6611,7 +6611,7 @@
   },
   "senior manufacturing test engineer, intelligence systems (2nd shift) ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6640,7 +6640,7 @@
   },
   "senior mission operations engineer, connected warfare (active clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6653,7 +6653,7 @@
   },
   "senior mission software engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6732,7 +6732,7 @@
   },
   "senior network administrator": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6751,7 +6751,7 @@
   },
   "senior network security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6902,7 +6902,7 @@
   },
   "senior production software engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6933,7 +6933,7 @@
   },
   "senior product security engineer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6994,7 +6994,7 @@
   },
   "senior product sourcing engineer, intelligence systems (active clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7043,7 +7043,7 @@
   },
   "senior program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7068,7 +7068,7 @@
   },
   "senior program manager, launched effects": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7133,7 +7133,7 @@
   },
   "senior quality systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7164,14 +7164,14 @@
   },
   "senior reliability engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior reliability engineer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7220,7 +7220,7 @@
   },
   "senior rf test engineer, intelligence systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7263,7 +7263,7 @@
   },
   "senior robotics software engineer, sentry tower": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7288,7 +7288,7 @@
   },
   "senior site reliability engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7313,14 +7313,14 @@
   },
   "senior software engineer, active clearance, air defense": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, air defense": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7333,7 +7333,7 @@
   },
   "senior software engineer, api/sdk": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7346,7 +7346,7 @@
   },
   "senior software engineer, battlespace awareness ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7359,7 +7359,7 @@
   },
   "senior software engineer, c++": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7396,14 +7396,14 @@
   },
   "senior software engineer, devops": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, discovery": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7428,7 +7428,7 @@
   },
   "senior software engineer - forge factory automation ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7448,7 +7448,7 @@
   },
   "senior software engineer (full stack), intelligence systems ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7461,21 +7461,21 @@
   },
   "senior software engineer, generalist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, generalist (active clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7494,7 +7494,7 @@
   },
   "senior software engineer, manufacturing test": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7531,14 +7531,14 @@
   },
   "senior software engineer, platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, platform security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7569,7 +7569,7 @@
   },
   "senior software engineer, robotics": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7582,21 +7582,21 @@
   },
   "senior software engineer, robotics tracking and fusion": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, rust ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, satellite command and control": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7621,14 +7621,14 @@
   },
   "senior software engineer, site reliability": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, state estimation ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7659,14 +7659,14 @@
   },
   "senior software engineer, video ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software product manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7801,7 +7801,7 @@
   },
   "senior supplier sourcing engineer, intelligence systems (active clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7830,7 +7830,7 @@
   },
   "senior systems administrator": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7855,7 +7855,7 @@
   },
   "senior systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7880,14 +7880,14 @@
   },
   "senior systems engineer, battlespace": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior systems engineer, c2 integration": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7906,7 +7906,7 @@
   },
   "senior systems engineer, launched effects ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7971,7 +7971,7 @@
   },
   "senior technical program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8068,14 +8068,14 @@
   },
   "senior technical program manager, production engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior technical program manager, quality": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8094,28 +8094,28 @@
   },
   "senior technical program manager, rms": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior technical program manager, sentry fixed site systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior technical program manager, sentry maneuver systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior technical program manager, sentry platform technologies": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8128,7 +8128,7 @@
   },
   "senior technical program manager, space battle management": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8252,7 +8252,7 @@
   },
   "senior tracking software engineer, space": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8783,7 +8783,7 @@
   },
   "staff flight test engineer, air dominance & strike": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8943,7 +8943,7 @@
   },
   "staff reliability engineer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8986,7 +8986,7 @@
   },
   "staff robotics software engineer, air vehicle autonomy": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9005,14 +9005,14 @@
   },
   "staff software engineer, active clearance, air defense": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, air defense": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9031,7 +9031,7 @@
   },
   "staff software engineer, developer platform ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9056,14 +9056,14 @@
   },
   "staff software engineer, robotics": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9183,21 +9183,21 @@
   },
   "staff technical program manager, sentry fixed site systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff technical program manager, sentry maneuver systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff technical program manager, sentry platform technologies": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9359,7 +9359,7 @@
   },
   "support systems lead, seabed sentry": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9382,7 +9382,7 @@
   },
   "system administrator (active clearance), intelligence systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9407,7 +9407,7 @@
   },
   "systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9426,14 +9426,14 @@
   },
   "systems engineer, battlespace": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "systems engineer, battlespace ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9512,7 +9512,7 @@
   },
   "systems integration engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9531,7 +9531,7 @@
   },
   "systems safety engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9592,7 +9592,7 @@
   },
   "technical operations engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9635,7 +9635,7 @@
   },
   "technical operations engineer, intelligence systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9684,7 +9684,7 @@
   },
   "technical program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9745,7 +9745,7 @@
   },
   "technical program manager, rms": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9794,7 +9794,7 @@
   },
   "technical writer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9807,7 +9807,7 @@
   },
   "technical writer, autonomous airpower": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9832,7 +9832,7 @@
   },
   "technical writer, maritime": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -10031,7 +10031,7 @@
   },
   "warfighting systems analyst, maritime": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -10122,7 +10122,7 @@
   },
   "applied ai architect": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -10135,14 +10135,14 @@
   },
   "applied ai architect, commercial": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "applied ai architect, enterprise tech": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -10155,7 +10155,7 @@
   },
   "applied ai architect, industries": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -10180,7 +10180,7 @@
   },
   "applied ai architect, partnerships ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -10430,7 +10430,7 @@
   },
   "engineering manager, cybersecurity products": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -10449,14 +10449,14 @@
   },
   "engineering manager, gpu (ml accelerator)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "engineering manager, grc platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -10475,7 +10475,7 @@
   },
   "engineering manager, research data platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -10658,7 +10658,7 @@
   },
   "global senior equity program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -10735,7 +10735,7 @@
   },
   "infrastructure tax lead": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -10765,7 +10765,7 @@
   },
   "legal program manager, compute & infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -10796,7 +10796,7 @@
   },
   "manager, applied ai engineering,  beneficial deployments (life sciences)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -10861,7 +10861,7 @@
   },
   "ml/research engineer, safeguards": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -10949,7 +10949,7 @@
   },
   "performance engineer, inference systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11014,7 +11014,7 @@
   },
   "product management, human data platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11045,7 +11045,7 @@
   },
   "product manager, multi-cloud growth - google": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11058,7 +11058,7 @@
   },
   " product manager, safeguards rare harms": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11127,7 +11127,7 @@
   },
   "research economist, economic research": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11140,7 +11140,7 @@
   },
   "research engineer, computer use": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11288,7 +11288,7 @@
   },
   "research engineer / scientist, alignment": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11371,7 +11371,7 @@
   },
   "security controls assurance lead": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11417,7 +11417,7 @@
   },
   "senior business systems analyst, finance systems (assets & lease management)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11466,14 +11466,14 @@
   },
   "senior software engineer, full-stack": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, inference": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11486,7 +11486,7 @@
   },
   "senior software security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11505,7 +11505,7 @@
   },
   "senior staff software engineer, api": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11578,14 +11578,14 @@
   },
   "staff+ application security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff engineer, datacenter server lifecycle": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11598,7 +11598,7 @@
   },
   "staff+ infrastructure engineer, cluster infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11611,7 +11611,7 @@
   },
   "staff+ security engineer, risk engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11624,7 +11624,7 @@
   },
   "staff + senior software engineer, inference deployment": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11637,14 +11637,14 @@
   },
   "staff+ software engineer, account abuse": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, ai reliability": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11657,7 +11657,7 @@
   },
   "staff software engineer, android": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11670,14 +11670,14 @@
   },
   "staff software engineer, billing platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff+ software engineer, caching": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11690,21 +11690,21 @@
   },
   "staff+ software engineer, claude app infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff+ software engineer, databases": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff+ software engineer, developer productivity": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11723,21 +11723,21 @@
   },
   "staff+ software engineer, enterprise": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff+ software engineer, full-stack": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff+ software engineer, grc platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11750,7 +11750,7 @@
   },
   "staff software engineer, inference": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11769,35 +11769,35 @@
   },
   "staff software engineer, ios": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, people products": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff+ software engineer, platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff+ software engineer, privacy": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff+ software engineer, public sector": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11822,14 +11822,14 @@
   },
   "staff+ software security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff + sr. software engineer, cloud inference": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11912,7 +11912,7 @@
   },
   "technical architect": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11925,56 +11925,56 @@
   },
   "technical cyber threat investigator ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical program manager, api platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical program manager, apps platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical program manager, cloud inference": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical program manager, compute ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical program manager, databases": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical program manager, data center infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical program manager, enterprise commerce": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11987,14 +11987,14 @@
   },
   "technical program manager, infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical program manager, launches  ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12007,21 +12007,21 @@
   },
   "technical program manager, research": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical program manager, safeguards (infrastructure & evals)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical program manager, security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12056,7 +12056,7 @@
   },
   "transformative ai research economist, economic research\u00a0": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12074,7 +12074,7 @@
   },
   "workday business systems analyst, people systems": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -12189,7 +12189,7 @@
   },
   "digital designer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12244,7 +12244,7 @@
   },
   "enterprise product manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12392,7 +12392,7 @@
   },
   "product manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12451,14 +12451,14 @@
   },
   "security technical program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior engineering manager, ai agents": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12501,7 +12501,7 @@
   },
   "senior product manager, project & task experience": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12562,14 +12562,14 @@
   },
   "senior software engineer, web app performance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior staff software engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12631,7 +12631,7 @@
   },
   "solutions consultant": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12656,7 +12656,7 @@
   },
   "staff software engineer, ai developer experience": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12715,14 +12715,14 @@
   },
   "ai partnerships": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "associate technical consultant": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12763,7 +12763,7 @@
   },
   "developer relations engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12829,7 +12829,7 @@
   },
   "infrastructure engineer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12930,14 +12930,14 @@
   },
   "senior cloud engineer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior developer relations engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12967,7 +12967,7 @@
   },
   "senior platform engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13033,14 +13033,14 @@
   },
   "senior software engineer, device security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, storage platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13075,7 +13075,7 @@
   },
   "senior technical consultant": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13154,7 +13154,7 @@
   },
   "staff security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13172,7 +13172,7 @@
   },
   "technical consultant": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13295,7 +13295,7 @@
   },
   "enterprise implementation consultant": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13327,7 +13327,7 @@
   },
   "group product manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13354,7 +13354,7 @@
   },
   "manager, cx ai strategy": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13404,7 +13404,7 @@
   },
   "senior application security engineer (remote)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13437,28 +13437,28 @@
   },
   "senior product manager, ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior security operations engineer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, backend": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, backend (product engineering)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13471,21 +13471,21 @@
   },
   " senior software engineer, data enablement platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, data enablement platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, frontend": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13498,7 +13498,7 @@
   },
   "senior software engineer, release infra ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13543,7 +13543,7 @@
   },
   "staff application security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13565,35 +13565,35 @@
   },
   "staff product manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff product manager, ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff product manager, growth": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, banking": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical consultant i": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13658,7 +13658,7 @@
   },
   "lead product manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13702,21 +13702,21 @@
   },
   "senior software engineer ii": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer ii, developer experience": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical senior manager, fund tax": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13913,7 +13913,7 @@
   },
   "staff data engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13943,7 +13943,7 @@
   },
   "staff software engineer, screenings & verifications": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -14139,7 +14139,7 @@
   },
   "senior analytics engineer, product": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -14248,7 +14248,7 @@
   },
   "senior software engineer - cloud infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -15042,7 +15042,7 @@
   },
   "senior network engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -15564,7 +15564,7 @@
   },
   "member of technical staff (storage)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -15650,7 +15650,7 @@
   },
   "analytics engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -15714,14 +15714,14 @@
   },
   "group product manager, core infrastructure & reliability": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "group product manager, developer infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -15818,7 +15818,7 @@
   },
   "senior data scientist, cx analytics": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -15893,7 +15893,7 @@
   },
   "senior software engineer, backend (consumer - risk)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -15918,28 +15918,28 @@
   },
   "senior software engineer - data platform ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, developer infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer (eaa)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, frontend (consumer - payments)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -15970,21 +15970,21 @@
   },
   "senior staff software engineer - blockchain platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior staff software engineer, core automation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior staff software engineer, data platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -16029,7 +16029,7 @@
   },
   "staff machine learning engineer(platform - identity)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -16072,7 +16072,7 @@
   },
   "staff software engineer, backend (consumer - prediction markets)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -16115,14 +16115,14 @@
   },
   "staff software engineer, eaa cx": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, frontend (consumer - advanced trading)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -16135,14 +16135,14 @@
   },
   "staff software engineer, solana staking protocol ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff technical program manager, cx agent experience": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -16154,14 +16154,14 @@
   },
   "technical program manager, cx intelligence & ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical program manager, knowledge systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -16411,14 +16411,14 @@
   },
   "engineering manager - databricks sql control plane": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "engineering manager - data visualization platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -16449,7 +16449,7 @@
   },
   "engineering manager, serverless compute platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -16462,7 +16462,7 @@
   },
   "engineering manager - ui platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -16634,7 +16634,7 @@
   },
   "go-to-market (gtm) digital natives program leader": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -16737,7 +16737,7 @@
   },
   "manager, engineering - ai/bi": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -16941,7 +16941,7 @@
   },
   "program manager, product legal": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -16968,7 +16968,7 @@
   },
   "senior applied ai engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -16980,7 +16980,7 @@
   },
   "senior customer enablement program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -16993,7 +16993,7 @@
   },
   "senior data scientist ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17017,7 +17017,7 @@
   },
   "senior engineering manager for workspace platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17092,7 +17092,7 @@
   },
   "senior manager, infrastructure data science": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17116,35 +17116,35 @@
   },
   "senior software engineer, ai runtime": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer  - application traffic team": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer - backend": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer (backend) - ai/ml environments": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, compute infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17158,14 +17158,14 @@
   },
   "senior software engineer - distributed data systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer - fullstack": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17178,14 +17178,14 @@
   },
   "senior software engineer - infrastructure and tools": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, model serving": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17198,7 +17198,7 @@
   },
   "senior software engineer  - money team": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17217,14 +17217,14 @@
   },
   "senior software engineer - observability": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer - security ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17243,7 +17243,7 @@
   },
   "senior software frontend engineer \u2013 dashboards": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17294,7 +17294,7 @@
   },
   "senior staff applied ai engineer - context retrieval": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17307,7 +17307,7 @@
   },
   "senior staff software engineer - app and partner ecosystem": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17332,21 +17332,21 @@
   },
   "senior staff software engineer - enzyme": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior staff software engineer - iam": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior staff software engineer - lakeflow pipelines datasets": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17365,7 +17365,7 @@
   },
   "senior staff software engineer - security infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17445,7 +17445,7 @@
   },
   "solutions architect - digital native business": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17566,7 +17566,7 @@
   },
   "specialist solutions architect - ai/ml": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17683,7 +17683,7 @@
   },
   "sr. developer advocate - neon": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17718,14 +17718,14 @@
   },
   "sr. engineering manager - agentic service platform ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "sr. engineering manager, ai runtime": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17738,7 +17738,7 @@
   },
   "sr. engineering manager - notebook dataplane": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17893,7 +17893,7 @@
   },
   "sr. manager \u2013 data & ai support engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17912,7 +17912,7 @@
   },
   "sr. manager, engineering  configuration platform team": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17994,7 +17994,7 @@
   },
   "sr. product designer, ai/bi": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18007,49 +18007,49 @@
   },
   "sr. product manager, compute platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "sr. product manager, databricks ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "sr. product manager, databricks free edition": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "sr. product manager, databricks repos": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "sr. product manager, data engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "sr. product manager, data governance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "sr product manager, employee experience": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18062,7 +18062,7 @@
   },
   "sr. product manager - technical": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18285,7 +18285,7 @@
   },
   "sr. staff fullstack engineer, agentic applications": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18322,14 +18322,14 @@
   },
   "sr. staff software engineer - managed tables ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "sr. staff software engineer - money team": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18348,21 +18348,21 @@
   },
   "sr. staff software engineer \u2014 observability, insights & governance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "sr. staff software engineer - unity catalog data governance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "sr. staff technical program manager - reliability": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18381,7 +18381,7 @@
   },
   "sr technical solutions engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18399,14 +18399,14 @@
   },
   "staff backend software engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff backend software engineer- (ai platform)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18425,21 +18425,21 @@
   },
   "staff data scientist ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff data scientist - infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   " staff data scientist - trust and safety": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18475,28 +18475,28 @@
   },
   "staff fullstack engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff fullstack engineer, agentic applications": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff machine learning engineer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff machine learning engineer, customerlake (ml/llm)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18515,7 +18515,7 @@
   },
   "staff product designer, ai products ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18528,7 +18528,7 @@
   },
   "staff product manager, agentic ai applications": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18541,14 +18541,14 @@
   },
   "staff product manager, security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff product manager, serverless workspaces": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18573,7 +18573,7 @@
   },
   "staff security assurance engineer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18604,56 +18604,56 @@
   },
   "staff software engineer - agent quality": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, ai native web platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer - ai platform (nyc)   ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer - ai research infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, ai runtime": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, ai search": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer - backend": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer - backend ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18678,14 +18678,14 @@
   },
   "staff software engineer - customer engagement & docs platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer \u2013 customer experience intelligence (cxi)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18712,7 +18712,7 @@
   },
   "staff software engineer - data platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18731,56 +18731,56 @@
   },
   "staff software engineer - distributed data systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, foundational model serving": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer - frontend (nyc)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer - fullstack": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, fullstack - ai product (nyc)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer - genai inference": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer - genai performance and kernel": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer - iam": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18817,7 +18817,7 @@
   },
   "staff software engineer, model serving ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18830,7 +18830,7 @@
   },
   "staff software engineer - money team": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18849,7 +18849,7 @@
   },
   "staff software engineer, observability ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18868,7 +18868,7 @@
   },
   "staff software engineer, search quality": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18881,28 +18881,28 @@
   },
   "staff software engineer - security infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer - user activation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff technical program manager- platform features": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff technical solution engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19196,14 +19196,14 @@
   },
   "datadog for startups - forward deployed engineering lead": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "datadog for startups founding engineering lead": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19287,7 +19287,7 @@
   },
   "director, technical program management - technical solutions operations": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19306,7 +19306,7 @@
   },
   "distinguished architect, ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19381,7 +19381,7 @@
   },
   "group product manager - bring your own cloud": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19394,7 +19394,7 @@
   },
   "group product manager - code security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19467,7 +19467,7 @@
   },
   "manager i, engineering - change experience platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19480,14 +19480,14 @@
   },
   "manager i, engineering - core analytics": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "manager i, engineering - data visualization explorations": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19564,7 +19564,7 @@
   },
   "manager i, technical account management - chicago/denver": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19594,7 +19594,7 @@
   },
   "manager, strategic sourcing, ai infrastructure & services": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19631,7 +19631,7 @@
   },
   "network engineer ii": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19726,7 +19726,7 @@
   },
   "people systems developer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19769,7 +19769,7 @@
   },
   "product manager ii, ai & data security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19812,7 +19812,7 @@
   },
   "product strategy and corporate development lead, ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19848,14 +19848,14 @@
   },
   "senior application security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior applied scientist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19890,7 +19890,7 @@
   },
   "senior corporate development lead, ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19914,7 +19914,7 @@
   },
   "senior financial systems analyst": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -19982,7 +19982,7 @@
   },
   "senior platform product manager - ai sdlc trusted throughput": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20013,7 +20013,7 @@
   },
   "senior product manager - data agent": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20032,14 +20032,14 @@
   },
   "senior product manager - network path": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior product manager - search": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20088,7 +20088,7 @@
   },
   "senior services architect, security-cloud siem": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20119,7 +20119,7 @@
   },
   "senior software engineer - distributed systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20156,14 +20156,14 @@
   },
   "senior software engineer - streaming platform ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer - streaming platform client": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20183,7 +20183,7 @@
   },
   "senior staff software engineer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20230,14 +20230,14 @@
   },
   "staff applied scientist - agentic interfaces": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff applied scientist - dashboards": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20269,21 +20269,21 @@
   },
   "staff software engineer - logs management": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer - logs observability pipelines ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer - ml observability": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20415,7 +20415,7 @@
   },
   "technical support engineer 2": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20475,7 +20475,7 @@
   },
   "engineering manager, data platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20570,7 +20570,7 @@
   },
   "senior full-stack software engineer, social commerce": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20587,7 +20587,7 @@
   },
   "senior product designer, developer success": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20624,7 +20624,7 @@
   },
   "senior security engineer, enterprise security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20637,7 +20637,7 @@
   },
   "senior software engineer, consumer revenue": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20729,14 +20729,14 @@
   },
   "staff software engineer - consumer revenue": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, data platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20755,7 +20755,7 @@
   },
   "staff software engineer, safety processing": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20987,7 +20987,7 @@
   },
   "business development lead - digital ordering specialist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -21174,7 +21174,7 @@
   },
   "director, analytics, commerce platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -21251,7 +21251,7 @@
   },
   "engineering manager, data": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -21264,7 +21264,7 @@
   },
   "engineering manager, merchant, ai/ml": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -21474,7 +21474,7 @@
   },
   "manager, data science": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -21579,28 +21579,28 @@
   },
   "principal machine learning engineer, ads & promos delivery": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal software engineer, ads": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "product manager, in-store": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "product manager (multiple levels)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -21859,7 +21859,7 @@
   },
   "senior manager, finance & strategy - digital ordering - saas": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -21925,7 +21925,7 @@
   },
   "senior product manager, trust & safety, integrity and fraud": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -21937,7 +21937,7 @@
   },
   "senior security engineer, red team": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -21959,21 +21959,21 @@
   },
   "senior software engineer, data engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, ios": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, machine learning infrastructure - generative ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -21986,7 +21986,7 @@
   },
   "senior software engineer, spark platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -22004,14 +22004,14 @@
   },
   "senior staff machine learning engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior staff machine learning engineer, consumer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -22441,14 +22441,14 @@
   },
   "staff machine learning engineer - dashpass": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff machine learning engineer, fulfillment planning": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -22467,35 +22467,35 @@
   },
   "staff software engineer, backend": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, data engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, machine learning - personalization": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software technical program manager - autonomy & robotics": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -22655,7 +22655,7 @@
   },
   "senior ios engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -22679,7 +22679,7 @@
   },
   "senior product manager, det": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -22692,21 +22692,21 @@
   },
   "senior product manager, learning": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior product manager, monetization": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior product manager, notifications": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -22732,7 +22732,7 @@
   },
   "staff ai research engineer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -22893,7 +22893,7 @@
   },
   "ai applied scientist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -22989,7 +22989,7 @@
   },
   "director, business systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -23012,14 +23012,14 @@
   },
   "director, solutions consulting": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "director, technical revenue accounting": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -23106,7 +23106,7 @@
   },
   "manager, security operations": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -23125,14 +23125,14 @@
   },
   "manager, software engineering - billing": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "manager, software engineering - devex ai tools": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -23145,14 +23145,14 @@
   },
   "manager, software engineering - growth platform ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "manager, software engineering - interaction design": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -23177,7 +23177,7 @@
   },
   "manager, solutions consulting": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -23230,14 +23230,14 @@
   },
   "product designer, ai models": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "product designer, design, dev, & ai tools": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -23256,7 +23256,7 @@
   },
   "product manager, ai growth": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -23479,7 +23479,7 @@
   },
   "voice of the customer program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -23726,7 +23726,7 @@
   },
   "senior product manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -23739,7 +23739,7 @@
   },
   "senior software engineer, autonomous freight systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -23781,7 +23781,7 @@
   },
   "staff software engineer, autonomous freight systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -24164,35 +24164,35 @@
   },
   "staff ai engineer | canada | remote": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff ai engineer - grafana ai/ml | canada | remote": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff ai engineer - grafana ai/ml | usa | remote": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff ai engineer | us | remote": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff ai product analyst, product management | canada | remote": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -24223,7 +24223,7 @@
   },
   "staff ai product analyst, product management | usa, est | remote": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -24284,42 +24284,42 @@
   },
   "staff backend engineer - databases tempo | canada | remote": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff backend engineer - databases tempo | us | remote": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff backend engineer - grafana app platform | canada | remote": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff backend engineer - grafana app platform | us | remote": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff backend engineer - grafana enterprise | canada | remote": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff backend engineer - grafana enterprise | us | remote": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -24431,7 +24431,7 @@
   },
   "channel partnerships manager, investor ecosystems (vc & pe)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -24588,7 +24588,7 @@
   },
   "principal software engineer - pay group engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -24629,7 +24629,7 @@
   },
   "senior product manager, symmetry new tax products": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -24641,7 +24641,7 @@
   },
   "senior staff engineer - tax platform engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -24665,14 +24665,14 @@
   },
   "senior staff software engineer, money group ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior staff software engineer - pricing and packaging": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -24685,7 +24685,7 @@
   },
   "staff business systems analyst": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -24728,14 +24728,14 @@
   },
   "staff software engineer, core ai platforms": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, core products": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -24766,7 +24766,7 @@
   },
   "staff software engineer, pricing and packaging engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -24779,7 +24779,7 @@
   },
   "staff software engineer, tax experiences": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -24928,7 +24928,7 @@
   },
   "data center engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -25050,7 +25050,7 @@
   },
   "hpc systems architect ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -25161,7 +25161,7 @@
   },
   "network engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -25354,7 +25354,7 @@
   },
   "quantitative trading strategist - equity options": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -25441,7 +25441,7 @@
   },
   "technical product manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -25534,7 +25534,7 @@
   },
   "ai solutions architect": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -25568,7 +25568,7 @@
   },
   "engineering manager, service platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -25661,7 +25661,7 @@
   },
   "program manager ii": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -25680,7 +25680,7 @@
   },
   "senior applied scientist ii, ads optimization": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -25693,7 +25693,7 @@
   },
   "senior data analyst": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -25747,7 +25747,7 @@
   },
   "senior machine learning engineer ii, ads response prediction": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -25760,7 +25760,7 @@
   },
   "senior machine learning engineer, operations research": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -25796,7 +25796,7 @@
   },
   "senior product manager, retailer platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -25809,7 +25809,7 @@
   },
   "senior product security engineer ii": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -25828,21 +25828,21 @@
   },
   "senior software engineer, ads": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, ai productivity": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, backend platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -25855,28 +25855,28 @@
   },
   "senior software engineer, developer experience": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer i \u2014 agentic analytics": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer ii, ads data solutions engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer ii, ai labs & foundations": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -25983,7 +25983,7 @@
   },
   "staff software engineer, data infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26185,7 +26185,7 @@
   },
   "analytics lead, market insights": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26198,7 +26198,7 @@
   },
   "applied scientist- pricing, dynamic pricing & offer selection": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26232,7 +26232,7 @@
   },
   "business systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26379,7 +26379,7 @@
   },
   "engineering manager \u2013 data platform, lakehouse foundation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26420,7 +26420,7 @@
   },
   "group product manager, verticals": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26449,7 +26449,7 @@
   },
   "product design manager, design systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26490,7 +26490,7 @@
   },
   "senior ai software engineer, risk - insurance claims management": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26512,7 +26512,7 @@
   },
   "senior data scientist, causal inference": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26560,7 +26560,7 @@
   },
   "senior machine learning engineer, recommendations": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26577,7 +26577,7 @@
   },
   "senior ml software engineer, mapping": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26626,14 +26626,14 @@
   },
   "senior software engineer, lyft business": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, pricing": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26700,14 +26700,14 @@
   },
   "staff product manager, core rider": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff product manager i, ad serving": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26806,7 +26806,7 @@
   },
   "senior backend engineer - product": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26847,7 +26847,7 @@
   },
   "senior full-stack engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26859,7 +26859,7 @@
   },
   "senior machine learning operations engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26907,7 +26907,7 @@
   },
   "senior product manager - business lending": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26936,14 +26936,14 @@
   },
   "senior software engineer - investments": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer - mercury command": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26963,14 +26963,14 @@
   },
   "staff software engineer - fraud": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff visual designer - design systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -27036,35 +27036,35 @@
   },
   "senior product manager, platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, ai platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, ai product insights": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, data foundation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -27192,7 +27192,7 @@
   },
   "cloud operations engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -27442,7 +27442,7 @@
   },
   "manager, site reliability engineering - storage layer service": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -27514,7 +27514,7 @@
   },
   "program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -27584,7 +27584,7 @@
   },
   "senior consulting engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -27597,14 +27597,14 @@
   },
   "senior data product manager, product telemetry": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior developer advocate": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -27857,7 +27857,7 @@
   },
   "senior software engineer, observability": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -27882,14 +27882,14 @@
   },
   "senior software engineer, server security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, storage layer services": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -27940,14 +27940,14 @@
   },
   "senior staff product manager, query": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior staff technical program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -27991,7 +27991,7 @@
   },
   "site reliability engineer (senior or staff), storage layer services (sls)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28174,7 +28174,7 @@
   },
   "staff product manager - internal ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28193,7 +28193,7 @@
   },
   "staff software engineer - query execution": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28248,7 +28248,7 @@
   },
   "technical services engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28267,7 +28267,7 @@
   },
   "technical services engineer, infrastructure - weekend": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28431,7 +28431,7 @@
   },
   "director of engineering, eval platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28501,7 +28501,7 @@
   },
   "principal software engineer, onboard infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28538,28 +28538,28 @@
   },
   "senior software engineer, autonomy visualization": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, behavior planning": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, collision avoidance testing": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, devices platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28578,21 +28578,21 @@
   },
   "senior software engineer, ml infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, networking & real-time systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, onboard autonomy": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28605,7 +28605,7 @@
   },
   "senior software engineer, perception ml data": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28618,42 +28618,42 @@
   },
   "senior software engineer, performance tooling and infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, routing": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, sensor platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, simulation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, video streaming": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior/staff engineer, machine learning - online mapping": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28666,35 +28666,35 @@
   },
   "senior/staff software engineer,  behavior verification": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior/staff software engineer, data platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior/staff software engineer, labeling platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior/staff software engineer, ml data infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior/staff software engineer, ml infrastructure, optimization": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28707,14 +28707,14 @@
   },
   "senior/staff systems engineer, autonomy verification": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior systems test engineer, autonomy behavior": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28823,14 +28823,14 @@
   },
   "software operations specialist (12 month duration)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "software reliability engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28854,7 +28854,7 @@
   },
   "sr. technical sourcer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28867,49 +28867,49 @@
   },
   "staff/senior software engineer, offboard infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff/senior software engineer, onboard infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, behavior ml data": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, routing": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical lead, behavior & triage labeling": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical lead, evaluation infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical lead manager, autonomy evaluation and intelligence": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28934,7 +28934,7 @@
   },
   "ai trainer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -29113,7 +29113,7 @@
   },
   "finance manager, products & technology": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -29200,7 +29200,7 @@
   },
   "manager, site reliability engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -29235,7 +29235,7 @@
   },
   "principal classified systems architect, okta federal": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -29259,7 +29259,7 @@
   },
   "principal forward deployed engineer - okta for ai agents": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -29290,14 +29290,14 @@
   },
   "principal site reliability engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal software engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -29453,7 +29453,7 @@
   },
   "senior database reliability engineer (dbre)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -29466,7 +29466,7 @@
   },
   "senior developer advocate ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -29509,7 +29509,7 @@
   },
   "senior forward deployed engineer - okta for ai agents": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -29526,14 +29526,14 @@
   },
   "senior manager, site reliability engineering (federal)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior manager, site reliability engineering -  infrastructure platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -29576,7 +29576,7 @@
   },
   "senior product manager, data platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -29601,7 +29601,7 @@
   },
   "senior product manager - ui platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -29691,7 +29691,7 @@
   },
   "senior software engineer, platform network (auth0)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -29761,7 +29761,7 @@
   },
   "senior technical writer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -29909,7 +29909,7 @@
   },
   "sr. product manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -29986,7 +29986,7 @@
   },
   "staff product security engineer, reviews": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -29999,7 +29999,7 @@
   },
   "staff site reliability engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30018,7 +30018,7 @@
   },
   "staff site reliability engineer - kubernetes": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30055,7 +30055,7 @@
   },
   "staff software engineer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30068,14 +30068,14 @@
   },
   "staff software engineer, ai agentic experience (auth0)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, ai-core (federal)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30118,7 +30118,7 @@
   },
   "staff software engineer, delegated administration (auth0)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30131,7 +30131,7 @@
   },
   "staff software engineer, developer platform (auth0)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30234,7 +30234,7 @@
   },
   "staff software engineer, resiliency (federal)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30247,7 +30247,7 @@
   },
   "staff software engineer - ui platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30311,7 +30311,7 @@
   },
   "technical architect ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30346,7 +30346,7 @@
   },
   "developer educator": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30412,7 +30412,7 @@
   },
   "ads conversion modeling, machine learning engineering manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30560,7 +30560,7 @@
   },
   "machine learning engineering manager - ads engagement modeling ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30584,7 +30584,7 @@
   },
   "principal data scientist, ads": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30597,7 +30597,7 @@
   },
   "principal technical program manager, performance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30633,7 +30633,7 @@
   },
   "senior backend engineer, iam": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30667,7 +30667,7 @@
   },
   "senior data scientist, ads": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30732,14 +30732,14 @@
   },
   "senior machine learning systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior machine learning systems engineer, ads ml experience platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30770,7 +30770,7 @@
   },
   "senior software engineer, core platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30802,7 +30802,7 @@
   },
   "senior software engineer, storage": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30815,7 +30815,7 @@
   },
   "senior staff data scientist - consumer experimentation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30828,7 +30828,7 @@
   },
   "senior staff machine learning engineer, genai platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30884,7 +30884,7 @@
   },
   "staff android engineer, brand ad formats": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30915,7 +30915,7 @@
   },
   "staff data scientist, ads": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30934,7 +30934,7 @@
   },
   "staff ios engineer, media foundation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30953,7 +30953,7 @@
   },
   "staff machine learning engineer, consumer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30972,7 +30972,7 @@
   },
   "staff machine learning systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31015,28 +31015,28 @@
   },
   "staff software engineer, devplatform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, identity & access management": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, media experiences": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, onboarding": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31049,7 +31049,7 @@
   },
   "staff technical product manager, ads ml platform ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31129,7 +31129,7 @@
   },
   "director, technical program management-monetization": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31251,7 +31251,7 @@
   },
   "manager ii, machine learning \u2013 conversion visibility": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31302,7 +31302,7 @@
   },
   "principal engineer, ai platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31315,14 +31315,14 @@
   },
   "principal machine learning engineer, ads delivery": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal product designer, ai native, core": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31688,14 +31688,14 @@
   },
   "sr. staff software engineer, ios search and shopping journeys": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "sr. staff software engineer, merchants": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31719,28 +31719,28 @@
   },
   "staff data scientist, ads delivery": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff data scientist, ads product": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff data scientist, forecasting": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff machine learning engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31795,7 +31795,7 @@
   },
   "staff product manager, billing": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31832,7 +31832,7 @@
   },
   "staff software engineer, ads measurement signal ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31851,7 +31851,7 @@
   },
   "staff software engineer, big data, tvscientific": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31864,7 +31864,7 @@
   },
   "staff software engineer, capacity engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31883,7 +31883,7 @@
   },
   "staff software engineer, observability": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31914,7 +31914,7 @@
   },
   "staff technical program manager, monetization data science": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31927,7 +31927,7 @@
   },
   "android engineer, money experience": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32088,7 +32088,7 @@
   },
   "ios engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32107,14 +32107,14 @@
   },
   "senior android engineer, irad": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior android engineer, trading products": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32132,7 +32132,7 @@
   },
   "senior ios engineer, crypto trading": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32189,7 +32189,7 @@
   },
   "senior product manager, money movement": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32214,7 +32214,7 @@
   },
   "senior software developer, kubernetes compute": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32227,21 +32227,21 @@
   },
   "senior software engineer - robinhood command center": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, robinhood command center": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, security platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32284,14 +32284,14 @@
   },
   "staff data scientist,  ml (credit risk)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff offensive security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32310,7 +32310,7 @@
   },
   "staff product manager, banking": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32341,14 +32341,14 @@
   },
   "staff software engineer, storage platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, web3": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32625,7 +32625,7 @@
   },
   "implementation consultant": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32685,7 +32685,7 @@
   },
   "manager, consulting services": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32720,7 +32720,7 @@
   },
   "manager, technical account management": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32795,7 +32795,7 @@
   },
   "principal product manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32808,7 +32808,7 @@
   },
   "product manager - revenue tools": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32911,7 +32911,7 @@
   },
   "senior manager, safety ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32935,14 +32935,14 @@
   },
   "senior product manager, growth": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior security operations engineer i": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32955,7 +32955,7 @@
   },
   "senior software engineer - data platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -33150,7 +33150,7 @@
   },
   "staff machine learning engineer - edge ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -33199,7 +33199,7 @@
   },
   "strategic implementation consultant": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -33254,7 +33254,7 @@
   },
   "ai strategy consultant, frontier tech": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -33403,14 +33403,14 @@
   },
   "forward deployed engineer, genai ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "forward deployed product manager, enterprise": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -33592,7 +33592,7 @@
   },
   "ml research engineer, ml systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -33605,14 +33605,14 @@
   },
   "national security hackathon 2026 - general interest": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "operations program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -33648,7 +33648,7 @@
   },
   "product manager, enterprise core platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -33738,7 +33738,7 @@
   },
   "senior ai product manager, finance agents": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -33785,28 +33785,28 @@
   },
   "senior software engineer - agentic tooling & productivity": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   " senior software engineer,  full-stack \u2013 scale gp": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, genai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, public sector": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -33819,7 +33819,7 @@
   },
   "senior/staff machine learning research engineer, general agents, enterprise genai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -33978,14 +33978,14 @@
   },
   "staff product manager, agentic platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer, enterprise genai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -33998,7 +33998,7 @@
   },
   "staff software engineer, public sector": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -34038,7 +34038,7 @@
   },
   "strategic projects lead, generative ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -34082,7 +34082,7 @@
   },
   "tech lead manager- mlre, ml systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -34107,21 +34107,21 @@
   },
   "technical program manager, engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical program manager, enterprise": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical program manager, gen ai operations planning": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -34134,14 +34134,14 @@
   },
   "technical program manager, platform ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical program manager, public sector": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -34246,7 +34246,7 @@
   },
   "staff software engineer, backend (communications platform)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -34467,14 +34467,14 @@
   },
   "android engineer, terminal": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "android engineer, terminal os platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -34691,7 +34691,7 @@
   },
   "credit risk strategy and analytics": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -34726,7 +34726,7 @@
   },
   "data science manager, finance and strategy": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -34809,7 +34809,7 @@
   },
   "engineering manager, ai conversation platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -35093,7 +35093,7 @@
   },
   "head of enterprise solutions architecture platforms": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -35132,7 +35132,7 @@
   },
   "infrastructure engineer, privy": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -35192,7 +35192,7 @@
   },
   "internal product engineer, developer productivity ai ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -35279,7 +35279,7 @@
   },
   "ml engineer manager, ai conversation platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -35436,7 +35436,7 @@
   },
   "product counsel, data products": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -35503,7 +35503,7 @@
   },
   "product lead, data products": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -35528,7 +35528,7 @@
   },
   "product manager, ecosystem risk": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -35559,21 +35559,21 @@
   },
   "product manager, link - consumer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "product manager, link - local payment methods": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "product manager, payments": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -35598,7 +35598,7 @@
   },
   "product manager, treasury for platforms": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36012,7 +36012,7 @@
   },
   "staff fullstack engineer, user auth experience": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36037,7 +36037,7 @@
   },
   "staff product manager, enterprise": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36062,7 +36062,7 @@
   },
   "staff product manager, support experience": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36087,7 +36087,7 @@
   },
   "staff software engineer, machine learning platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36187,7 +36187,7 @@
   },
   "technical program manager, link": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36212,7 +36212,7 @@
   },
   "technical solutions engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36256,7 +36256,7 @@
   },
   "analyste en s\u00e9curit\u00e9 de l\u2019information / information security analyst": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36307,7 +36307,7 @@
   },
   "d\u00e9veloppeur des op\u00e9rations de n\u00e9gociation / trade operations developer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36377,7 +36377,7 @@
   },
   "python developer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36452,14 +36452,14 @@
   },
   "quantitative trader / researcher - us": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "reliability engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36497,14 +36497,14 @@
   },
   "senior options quantitative researcher": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior quantitative researcher": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36544,7 +36544,7 @@
   },
   "sp\u00e9cialiste en fiabilit\u00e9 / reliability specialist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36635,7 +36635,7 @@
   },
   "global security operations center operator": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36654,7 +36654,7 @@
   },
   "manager, technical support": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36685,7 +36685,7 @@
   },
   "partner program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36779,14 +36779,14 @@
   },
   "senior manager, machine learning": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior manager software engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36933,7 +36933,7 @@
   },
   "staff enterprise security engineer, ai security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36952,7 +36952,7 @@
   },
   "staff software engineer (l4)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36965,7 +36965,7 @@
   },
   "staff software engineer (l4) data platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37053,7 +37053,7 @@
   },
   "technical support engineer (l2)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37221,7 +37221,7 @@
   },
   "director of global security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37251,7 +37251,7 @@
   },
   "engineering manager, atlas (spatial systems)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37264,7 +37264,7 @@
   },
   "engineering manager - storage systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37567,7 +37567,7 @@
   },
   "lead product manager, new alarms product": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37638,21 +37638,21 @@
   },
   "senior android engineer - alarms": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior android engineer - mobile platform & systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior backend engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37665,21 +37665,21 @@
   },
   "senior backend engineer - device platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior backend engineer - virtual guard": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior backend software engineer - workplace products": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37716,21 +37716,21 @@
   },
   "senior frontend engineer - access control": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior frontend engineer, business systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior frontend engineer - web platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37753,7 +37753,7 @@
   },
   "senior growth product manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37781,7 +37781,7 @@
   },
   "senior product manager, new alarms product": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37794,35 +37794,35 @@
   },
   "senior software engineer, business systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer - c++": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, data platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer \u2013 storage systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior-staff software engineer, engineering productivity": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37835,21 +37835,21 @@
   },
   "senior-staff software engineer, tooling": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior technical sourcer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior technical support engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37882,14 +37882,14 @@
   },
   "software engineering manager - alarms": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "software engineering manager, data protection platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37902,14 +37902,14 @@
   },
   "software engineering manager - intercom": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "software engineering manager - search": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37952,7 +37952,7 @@
   },
   "sr. analyst business systems  ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37964,7 +37964,7 @@
   },
   "sr. channel enablement program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37976,14 +37976,14 @@
   },
   "sr. it systems engineer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff backend engineer - device security ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -37996,21 +37996,21 @@
   },
   "staff frontend engineer - design systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff frontend engineer - mapping & spatial platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff+ security engineer, developer tools": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -38029,7 +38029,7 @@
   },
   "staff software engineer - detection and response platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -38075,7 +38075,7 @@
   },
   "technical support engineering manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -38088,7 +38088,7 @@
   },
   "technical trainer, vce": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -38166,7 +38166,7 @@
   },
   "senior software engineer, fullstack": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -38466,14 +38466,14 @@
   },
   "forward deployed infrastructure engineer - us government": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "forward deployed reliability engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -38722,7 +38722,7 @@
   },
   "platform intelligence engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -38747,7 +38747,7 @@
   },
   "product reliability engineer - defense": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -38765,49 +38765,49 @@
   },
   "senior backend software engineer - application development": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior backend software engineer - infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior front end software engineer - application development": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior identity security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer - autonomous systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, network infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, substrate": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -38908,7 +38908,7 @@
   },
   "software engineer - mission manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -38989,7 +38989,7 @@
   },
   "technical program manager (tpm)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -39007,7 +39007,7 @@
   },
   "web application developer - defense": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -39242,7 +39242,7 @@
   },
   "product manager - data platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -39314,7 +39314,7 @@
   },
   "senior machine learning engineer - policy & safety": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -39607,7 +39607,7 @@
   },
   "senior software development engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -39758,7 +39758,7 @@
   },
   "senior technical product manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -40242,7 +40242,7 @@
   },
   "technical operations manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -40364,7 +40364,7 @@
   },
   "product manager - network": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -40640,7 +40640,7 @@
   },
   "network support engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -40664,7 +40664,7 @@
   },
   "data science analyst": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -41691,7 +41691,7 @@
   },
   "senior endpoint security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -42167,7 +42167,7 @@
   },
   "senior cloud infrastructure engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -42219,7 +42219,7 @@
   },
   "senior staff product manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -42559,7 +42559,7 @@
   },
   "principal machine learning engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -43411,7 +43411,7 @@
   },
   "security officer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -43552,7 +43552,7 @@
   },
   "distributed systems engineer (l4) - data platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -43643,7 +43643,7 @@
   },
   "rigging technical assistant": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -44169,7 +44169,7 @@
   },
   "product manager (l5), privacy & data protection engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -44633,7 +44633,7 @@
   },
   "manager, member innovation - data engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -45046,7 +45046,7 @@
   },
   "senior product designer, design systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -45508,7 +45508,7 @@
   },
   "engineering manager, privacy infrastructure engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -45644,7 +45644,7 @@
   },
   "manager, data engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -46948,7 +46948,7 @@
   },
   "staff data scientist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -47480,7 +47480,7 @@
   },
   "services principal consultant": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -47530,7 +47530,7 @@
   },
   "front-end web developer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -47637,7 +47637,7 @@
   },
   "senior managing counsel, commercial, bkng fintech legal": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -47776,7 +47776,7 @@
   },
   "it technology enablement specialist": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -47793,7 +47793,7 @@
   },
   "senior software engineer in test": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -47806,7 +47806,7 @@
   },
   "senior solutions consultant": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -47915,7 +47915,7 @@
   },
   "program manager, community support": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -47934,7 +47934,7 @@
   },
   "algorithm engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -48141,7 +48141,7 @@
   },
   "staff+ software engineer, safeguards": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -48160,7 +48160,7 @@
   },
   "strategy & operations, applied ai - amer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -48183,7 +48183,7 @@
   },
   "associate technical support engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -48196,7 +48196,7 @@
   },
   "staff product designer, ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -48549,7 +48549,7 @@
   },
   "senior software engineer, marketplace": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -48647,7 +48647,7 @@
   },
   "senior software engineer, ai authentication (auth0)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -48659,21 +48659,21 @@
   },
   " sr. product manager - agentic security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "sr. product manager - agentic security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff site reliability engineer - splunk": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -48707,7 +48707,7 @@
   },
   "staff machine learning engineer, ads conversion core modeling": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49007,14 +49007,14 @@
   },
   "principal software engineer, ai enablement - central product": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal software engineer, gameplay - teamfight tactics": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49033,7 +49033,7 @@
   },
   "principal software engineer, test automation -  league of legends": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49240,7 +49240,7 @@
   },
   "senior manager, software engineering, platform engineering - valorant": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49295,14 +49295,14 @@
   },
   "senior software engineer, riot client - publishing platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, sdk foundations - publishing platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49450,14 +49450,14 @@
   },
   "staff data and ai engineer - enterprise": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff machine learning engineer - game tech group, ml platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49470,7 +49470,7 @@
   },
   "staff software engineer, build platforms - valorant": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49495,7 +49495,7 @@
   },
   "staff software engineer, developer experience & workflows - valorant": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49538,7 +49538,7 @@
   },
   " staff software engineer, riot client - publishing platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49563,7 +49563,7 @@
   },
   "systems engineer (esports)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49700,7 +49700,7 @@
   },
   "developer engagement representative - anz (australia / new zealand)  (part-time contract)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49713,21 +49713,21 @@
   },
   "developer engagement representative - latam (part-time contract)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "developer engagement representative - malaysia  (part-time contract)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "developer engagement representative - thailand (part-time contract)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49786,7 +49786,7 @@
   },
   "director of engineering \u2013 studio systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49818,14 +49818,14 @@
   },
   "engineering manager - account security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "engineering manager, application security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49844,7 +49844,7 @@
   },
   "engineering manager, observability infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49878,7 +49878,7 @@
   },
   "global developer engagement representative, part-time, contractor": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49912,7 +49912,7 @@
   },
   "localization program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -49984,14 +49984,14 @@
   },
   "principal frontend software engineer, connections": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal machine learning engineer, alt defense": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50004,7 +50004,7 @@
   },
   "principal machine learning engineer, embodied ai and smart npcs": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50017,14 +50017,14 @@
   },
   "principal network engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal security software engineer, application security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50037,7 +50037,7 @@
   },
   "principal/senior machine learning scientist - search and discovery ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50056,28 +50056,28 @@
   },
   "principal software engineer, backend - sharing": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal software engineer, compute fleet management": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal software engineer - compute (kubernetes)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal software engineer - content lifecycle": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50102,21 +50102,21 @@
   },
   "principal software engineer - creator distributed systems & storage   ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal software engineer, data engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal software engineer, data infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50141,28 +50141,28 @@
   },
   "principal software engineer, gpu compute": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal software engineer, physics": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal software engineer - roblox database": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal software engineer - roblox economy platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50239,7 +50239,7 @@
   },
   "senior cloud security engineer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50251,7 +50251,7 @@
   },
   "senior data scientist - consumer frontend": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50294,14 +50294,14 @@
   },
   "senior enterprise security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior frontend engineer, voice communication": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50314,7 +50314,7 @@
   },
   "senior frontend/fullstack software engineer, social graph": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50327,7 +50327,7 @@
   },
   "senior frontend software engineer - marketplace": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50364,7 +50364,7 @@
   },
   "senior machine learning engineer, ads": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50424,7 +50424,7 @@
   },
   "senior / principal infrastructure engineer - ml platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50437,7 +50437,7 @@
   },
   "senior privacy software engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50450,7 +50450,7 @@
   },
   "senior product manager, ai content safety": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50469,7 +50469,7 @@
   },
   "senior product manager, compute platform ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50488,7 +50488,7 @@
   },
   "senior product manager, engineering acceleration": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50573,63 +50573,63 @@
   },
   "senior security software engineer, application security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior security software engineer, iam": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior security software engineer, infrastructure security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior security software engineer, vulnerability management": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior site reliability engineer, compute": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, ads experience (c++) ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, ads platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, app performance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, avatar animation ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50642,7 +50642,7 @@
   },
   "senior software engineer - avatar personalization": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50667,14 +50667,14 @@
   },
   "senior software engineer (c++)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, client systems (c++)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50699,7 +50699,7 @@
   },
   "senior software engineer, core ui": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50718,35 +50718,35 @@
   },
   "senior software engineer - data access": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, data infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer - data infrastructure, safety": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, engine systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer - fraud": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50765,7 +50765,7 @@
   },
   "senior software engineer, game engine systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50778,7 +50778,7 @@
   },
   "senior software engineer, geometry": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50803,42 +50803,42 @@
   },
   "senior software engineer - release ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer - safety experience": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, safety foundation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, service mesh": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer - storage cache": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, ugc validation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50862,7 +50862,7 @@
   },
   "software engineering manager, engine ui": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50908,14 +50908,14 @@
   },
   "technical director - ai roblox studio": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical director, content platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50934,7 +50934,7 @@
   },
   "manager, technical program management": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50953,7 +50953,7 @@
   },
   "senior software engineer, identity": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -51057,7 +51057,7 @@
   },
   "antenna engineer (starlink mobile)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -51444,7 +51444,7 @@
   },
   "build reliability engineer (starship)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -51682,7 +51682,7 @@
   },
   "compressed air technician (facilities)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -51734,7 +51734,7 @@
   },
   "construction project manager (facilities infrastructure)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -51884,7 +51884,7 @@
   },
   "data center administrator": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -51897,7 +51897,7 @@
   },
   "data & control systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -51923,7 +51923,7 @@
   },
   "data infrastructure operations manager ii (starlink) ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -51936,7 +51936,7 @@
   },
   "data infrastructure operations specialist ii (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -52404,7 +52404,7 @@
   },
   "equipment maintenance & reliability engineer, pcb (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -52431,7 +52431,7 @@
   },
   "equipment reliability engineer, pcb maintenance (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -52444,7 +52444,7 @@
   },
   "equipment reliability engineer (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -52664,7 +52664,7 @@
   },
   "flight software infrastructure engineer (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -52683,7 +52683,7 @@
   },
   "fluids systems technician (starship)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -52807,7 +52807,7 @@
   },
   "global relocation program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -52852,7 +52852,7 @@
   },
   "global supply manager, datacenter switches and optics (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -52869,7 +52869,7 @@
   },
   "global supply manager, ground infrastructure (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -52937,7 +52937,7 @@
   },
   "global supply manager, utilities & infrastructure (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -52992,7 +52992,7 @@
   },
   "gnc engineer, satellite power systems (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -53055,7 +53055,7 @@
   },
   "ground network specialist (starshield)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -53260,28 +53260,28 @@
   },
   "information security analyst": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "information system security manager ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "information system security officer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "infrastructure engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -53434,7 +53434,7 @@
   },
   "international infrastructure operations specialist (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -53462,42 +53462,42 @@
   },
   "it network engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "it network engineer - top secret clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "it network infrastructure engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "it network infrastructure engineer, launch": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "it network infrastructure specialist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "it network infrastructure technician": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -53509,14 +53509,14 @@
   },
   "it systems administrator, launch": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "it systems administrator, mission systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -53529,14 +53529,14 @@
   },
   "it systems engineer - top secret clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "it windows systems engineer - top secret clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -53559,7 +53559,7 @@
   },
   "kubernetes platform infrastructure engineer (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -53588,7 +53588,7 @@
   },
   "launch engineer, fluid systems (starship)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -53623,7 +53623,7 @@
   },
   "launch pad engineer, fluid systems (falcon 9)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -53645,7 +53645,7 @@
   },
   "launch reliability engineer (launch pads & recovery)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -53663,7 +53663,7 @@
   },
   "lead automation and controls engineer, silicon technology (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -53721,7 +53721,7 @@
   },
   "lead security officer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54295,21 +54295,21 @@
   },
   "mission integration engineer, ai (starshield) - top secret clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "mission integration engineer, c3 - top secret clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "mission integration engineer, mission systems (starshield)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54322,7 +54322,7 @@
   },
   "mission integration engineer (starshield)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54335,7 +54335,7 @@
   },
   "mission manager, space lasers (starshield)": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -54346,7 +54346,7 @@
   },
   "ml engineer, surrogate modeling (vehicle engineering)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54415,28 +54415,28 @@
   },
   "network engineer (starlink community gateway)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "network operations engineer (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "network operations technician (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "network software integration engineer (starlink) ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54538,7 +54538,7 @@
   },
   "operations analyst, reliability (starship)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54713,7 +54713,7 @@
   },
   "pcb reliability engineer (starshield)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54737,7 +54737,7 @@
   },
   "physical security specialist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54760,7 +54760,7 @@
   },
   "platform integrity manager (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54799,7 +54799,7 @@
   },
   "power systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54812,7 +54812,7 @@
   },
   "power systems engineer (starship)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54871,14 +54871,14 @@
   },
   "principal network engineer (starlink ground network)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal optical network engineer (starlink ground network)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54897,28 +54897,28 @@
   },
   "principal rf software engineer (starshield)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal software engineer, cdn  (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal software engineer, continuous integration (starship)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal software engineer (platform team)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54931,7 +54931,7 @@
   },
   "principal wi-fi software engineer (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54978,7 +54978,7 @@
   },
   "product growth strategy & analytics lead (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -55105,7 +55105,7 @@
   },
   "production reliability engineer (starship electronics)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -55479,14 +55479,14 @@
   },
   "reliability engineer (starlink/akoustis)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "reliability technician (starlink aviation)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -55560,7 +55560,7 @@
   },
   "rf systems analysis engineer, regulatory (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -55612,7 +55612,7 @@
   },
   "satellite policy manager (starlink mobile)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -55632,7 +55632,7 @@
   },
   "security analyst (detection and incident response)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -55658,7 +55658,7 @@
   },
   "security officer 3": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -55671,7 +55671,7 @@
   },
   "security operator 3": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -56219,14 +56219,14 @@
   },
   "software infrastructure engineer, flight software (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "software infrastructure engineer (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -56274,7 +56274,7 @@
   },
   "sourcing manager, ground infrastructure (starlink) ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -56811,7 +56811,7 @@
   },
   "sr. equipment reliability engineer (starship)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -56842,7 +56842,7 @@
   },
   "sr. fluids systems engineer, solar cell factory (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -56861,7 +56861,7 @@
   },
   "sr. full stack engineer (application software)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -56978,7 +56978,7 @@
   },
   "sr. it systems administrator (top secret clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -57010,7 +57010,7 @@
   },
   "sr. launch reliability engineer (launch pads & recovery)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -57069,14 +57069,14 @@
   },
   "sr. network edge engineer (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "sr. network engineer (starshield)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -57130,7 +57130,7 @@
   },
   "sr. platform integrity analyst (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -57234,7 +57234,7 @@
   },
   "sr. quality systems engineer (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -57344,7 +57344,7 @@
   },
   "sr. rf systems analysis engineer, regulatory (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -57357,7 +57357,7 @@
   },
   "sr. satellite policy manager (starlink mobile)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -57389,7 +57389,7 @@
   },
   "sr. security software enginer (starshield)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -57657,7 +57657,7 @@
   },
   "sr. software infrastructure engineer (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -57756,7 +57756,7 @@
   },
   "sr. technical business development manager (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -58109,7 +58109,7 @@
   },
   "supervisor, security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -58232,7 +58232,7 @@
   },
   "supplier development engineer, reliability (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -58283,21 +58283,21 @@
   },
   "technical satellite policy analyst": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical site planning manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical trainer, cnc machining (starship components)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -58411,7 +58411,7 @@
   },
   "test stand design & build engineer (structures/fluid systems)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -58676,7 +58676,7 @@
   },
   "welding technical trainer, gtaw (starship)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -58712,7 +58712,7 @@
   },
   "wireless systems engineer (starlink mobile)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -58746,7 +58746,7 @@
   },
   "credit risk strategy and analytics ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -58759,7 +58759,7 @@
   },
   "financial connections techops integration reliability engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -58850,7 +58850,7 @@
   },
   "senior product manager, commerce": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -58873,7 +58873,7 @@
   },
   "software development manager, commerce": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -58954,14 +58954,14 @@
   },
   "automotive hvac systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "brand media strategy & analytics manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59045,7 +59045,7 @@
   },
   "emergency management program manager ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59190,7 +59190,7 @@
   },
   "head of technical services": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59224,7 +59224,7 @@
   },
   "lead technical program manager, simulation ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59306,7 +59306,7 @@
   },
   "manufacturing program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59337,7 +59337,7 @@
   },
   "oem platform integration engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59404,7 +59404,7 @@
   },
   "principal software engineer, onboard field response": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59423,7 +59423,7 @@
   },
   "product manager, growth": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59454,7 +59454,7 @@
   },
   "program manager, external reporting": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59467,14 +59467,14 @@
   },
   "program manager, new markets & platforms": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "program manager, risk & insurance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59559,7 +59559,7 @@
   },
   "senior android engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59572,7 +59572,7 @@
   },
   "senior android engineer, in-car experience": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59591,7 +59591,7 @@
   },
   "senior android platform engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59620,7 +59620,7 @@
   },
   "senior data science manager, driving quality": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59651,7 +59651,7 @@
   },
   "senior machine learning engineer, computer vision/vlm": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59670,35 +59670,35 @@
   },
   "senior machine learning engineer, perception llm/vlm": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior machine learning engineer, robotics": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior machine learning engineer, runtime and serving": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior machine learning engineer, simulation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior machine learning engineer, simulation evaluation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59716,7 +59716,7 @@
   },
   "senior manager, product data science - fleet optimization and orchestration": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59728,7 +59728,7 @@
   },
   "senior ml compiler engineer, compute": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59753,7 +59753,7 @@
   },
   "senior product manager, fleet optimization": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59796,14 +59796,14 @@
   },
   "senior software engineer,  devai ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, eval authoring apis": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59834,7 +59834,7 @@
   },
   "senior software engineer, inertial navigation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59854,7 +59854,7 @@
   },
   "senior software engineer, linux kernel": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59867,21 +59867,21 @@
   },
   "senior software engineer, mapping field response": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, ml/eval data platforms & infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, ml evaluation infra and efficiency": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59894,7 +59894,7 @@
   },
   "senior software engineer - multiverse": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59925,7 +59925,7 @@
   },
   "senior software engineer, quantitative evaluations": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59956,7 +59956,7 @@
   },
   "senior software engineer, simulator orchestration": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59969,21 +59969,21 @@
   },
   "senior software engineer, statistical evaluation and sampling": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, training efficiency": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, vehicle platforms c++": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60019,7 +60019,7 @@
   },
   "senior staff machine learning engineer, llm/vlm model architecture & optimization": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60032,14 +60032,14 @@
   },
   "senior/staff ml engineer, 3d/4d world modeling, simulation ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior staff ml engineer, driver understanding and evaluation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60057,14 +60057,14 @@
   },
   "senior staff technical lead manager, perception optimization": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior staff tlm, data mining and sampling for ml and evaluation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60110,14 +60110,14 @@
   },
   "senior systems engineer,  vehicle body control systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior systems engineer, vehicle security": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60142,7 +60142,7 @@
   },
   "senior technical program manager, simulation ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60375,21 +60375,21 @@
   },
   "software quality operations specialist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "software quality operations specialist ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "software quality operations specialist, domain expansion": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60458,14 +60458,14 @@
   },
   "staff android engineer, in-car experience": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff data scientist, weather": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60478,14 +60478,14 @@
   },
   "staff ios engineer, growth": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff machine learning engineer, data flywheel": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60540,7 +60540,7 @@
   },
   "staff product data scientist, infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60553,7 +60553,7 @@
   },
   "staff software engineer, 3d & data visualization tools": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60572,7 +60572,7 @@
   },
   "staff software engineer, compute reliability": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60597,7 +60597,7 @@
   },
   "staff software engineer, due experience": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60634,7 +60634,7 @@
   },
   "staff software engineer, privacy": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60647,7 +60647,7 @@
   },
   "staff software engineer, quantitative evaluations": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60660,7 +60660,7 @@
   },
   "staff software engineer - simulation realism": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60679,14 +60679,14 @@
   },
   "staff software engineer/ tech lead - onboard model consolidation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff software engineer / technical lead manager ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60699,7 +60699,7 @@
   },
   "staff systems engineer, driving behaviors": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60718,7 +60718,7 @@
   },
   "staff technical lead manager, ml sensor validation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60731,14 +60731,14 @@
   },
   "staff technical lead manager, simulation, machine learning ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff technical program manager, simulation infrastructure resource management ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60811,7 +60811,7 @@
   },
   "tech lead, fleet response infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60824,7 +60824,7 @@
   },
   "tech lead manager, data engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60836,14 +60836,14 @@
   },
   "tech lead  manager ml optimization": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "tech lead manager- onboard software performance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60856,14 +60856,14 @@
   },
   "tech lead, self driving eval infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical lead manager, perception, traffic control understanding": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60882,14 +60882,14 @@
   },
   "technical lead manager, prediction, ml evaluation": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical lead manager, query & storage swe": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60920,7 +60920,7 @@
   },
   "technical training manager (wra/rs)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -61027,7 +61027,7 @@
   },
   "principal software developer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -61269,7 +61269,7 @@
   },
   "software qa engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -61764,7 +61764,7 @@
   },
   "senior software developer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -61787,7 +61787,7 @@
   },
   "technical advisor": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
