@@ -60264,11 +60264,10 @@
     "b": "s"
   },
   "engineering intern": {
-    "t": true,
-    "c": "stale",
-    "v": "",
-    "a": 1,
-    "b": "s"
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "public policy intern": {
     "t": false,
@@ -62229,9 +62228,11 @@
     "v": ""
   },
   "technology intern": {
-    "t": false,
-    "c": "stale",
-    "v": ""
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
   },
   "tmz podcast intern - fall 2026": {
     "t": false,
@@ -62412,8 +62413,8 @@
   },
   "junior software developer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 1,
     "b": "n"
   },
@@ -62867,8 +62868,9 @@
   },
   "it intern - summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "finance intern - summer 2027": {
     "t": false,
@@ -64711,8 +64713,9 @@
   },
   "software developer intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "s"
   },
   "software engineer i, entry-level (graduation date: fall 2025-summer 2026)": {
@@ -65181,8 +65184,9 @@
   },
   "junior devops engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "n"
   },
   "algorithmic trader intern": {
@@ -65633,8 +65637,9 @@
   },
   "software engineering co-op - winter 2027": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "o"
   },
   "fall 2026 intern - it wafer systems automation": {
@@ -66504,9 +66509,9 @@
   },
   "product management intern": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
-    "a": 1,
+    "a": 0,
     "b": "s"
   },
   "software engineering intern (winter)": {
@@ -72789,8 +72794,8 @@
   },
   "data engineer intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 1,
     "b": "s"
   },
@@ -73972,8 +73977,9 @@
   },
   "financial analyst intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "ventures intern": {
     "t": false,
@@ -74601,8 +74607,8 @@
   },
   "software engineering co-op": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 1,
     "b": "o"
   },
