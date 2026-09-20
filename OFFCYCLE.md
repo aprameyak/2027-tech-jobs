@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1357 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1365 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -77,6 +77,7 @@
 | ↳ | Co-op Winter 2027 - Software Developer - 8 Months | Ottawa, ON | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147554134) | Sep 20 |
 | ↳ | Infrastructure Engineer Co-op (Fall 2026 or Spring 2027) | Pittsfield, MA | Co-op | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/74607/infrastructure-engineer-co-op-%28fall-2026-or-spring-2027%29/job) | Sep 20 |
 | Hearst | 2027 Hearst AI Newsroom Developer Fellowship Program | San Francisco, CA | Co-op | Undergrad | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027417) | Sep 20 |
+| ↳ | Marty Faubell Broadcasting Technology Fellowship | United States | Co-op | Undergrad | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025908) | Sep 20 |
 | Hypertherm Associates | Software Engineering - CAM - Spring/Summer Internship or Co-Op | Lockport, NY | Co-op | Undergrad | [Apply](https://hypertherm.wd503.myworkdayjobs.com/en-US/hypertherm-careers/job/Lockport-NY/Software-Engineering---CAM---Spring-Summer-Internship-or-Co-Op_R4038?utm_source=aprameyak) | Sep 20 |
 | Innovative Systems | Intern/Co-op-Spring 2027 - Software Engineering | Pittsburgh, PA | Spring 2027 | Undergrad | [Apply](http://career.innovativesystems.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering) | Sep 20 |
 | Intact | Security Analyst– 4-month Internship/Coop (Winter 2027) | Toronto, Ontario, CAN | Co-op | Undergrad | [Apply](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Security-Analyst--4-month-Internship-Coop--Winter-2027--_R155332?utm_source=aprameyak) | Sep 20 |
@@ -125,10 +126,17 @@
 | ↳ | Data Analytics & AI Co-op | Remote (US) | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39743) | Sep 20 |
 | ↳ | AI R&D Engineer Co-op | Remote (US) | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39284) | Sep 20 |
 | ↳ | AI R&D Engineering Co-op | Remote (US) | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39287) | Sep 20 |
+| ↳ | Customer Applications Eng Co-op/Intern | Canada | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39430) | Sep 20 |
+| ↳ | Customer Technical Support Co-op/Intern | Canada | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39973) | Sep 20 |
+| ↳ | IP Routing App Engineer Co-op/Intern | Canada | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39165) | Sep 20 |
+| ↳ | Optical Test Automation Co-op/Intern | Canada | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40117) | Sep 20 |
+| ↳ | Customer Engineering Co-op | United States | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36103) | Sep 20 |
 | Notion | Software Engineer Intern (Winter 2027) | Remote | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8?utm_source=aprameyak) | Sep 20 |
 | ↳ | Data Science Intern - Winter 2027 | San Francisco, CA | Winter 2027 | Undergrad | [Apply](https://www.notion.com/) | Sep 20 |
 | OMERS | Student Analyst, OT Cybersecurity (Winter 2027, 4 Months) | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://omers.wd3.myworkdayjobs.com/en-US/omers_external/job/Toronto-Ontario/Student-Analyst--OT-Cybersecurity--Winter-2027--4-Months-_JR-8407?utm_source=aprameyak) | Sep 20 |
 | ↳ | Student, AI/ML Engineer (Winter 2027, 8 Months) | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://omers.wd3.myworkdayjobs.com/en-US/omers_external/job/Toronto-Ontario/Student--AI-ML-Engineer--Winter-2027--8-Months-_JR-8403?utm_source=aprameyak) | Sep 20 |
+| OpenAI | Software Engineer, Backend (Cooperative AI) | San Francisco | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/openai/bd190cad-99ec-4fe7-8f8f-de96b5aa5969/application?utm_source=aprameyak) | Sep 20 |
+| ↳ | Software Engineer, Cooperative AI | San Francisco | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/openai/7613aca3-9dd8-41cd-b114-06ef4de967a9/application?utm_source=aprameyak) | Sep 20 |
 | Orennia | Analytics Intern (Fall 2026 Term) - Engineering | Calgary Headquarters | Fall 2026 | Undergrad | [Apply](https://boards.greenhouse.io/orennia/jobs/5277706008?gh_jid=5277706008&utm_source=aprameyak) | Sep 20 |
 | Parsons | Software Developer Intern - Fall 2026/Spring 2027 | Remote | Spring 2027 | Undergrad | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Software-Developer-Intern_R185565?utm_source=aprameyak) | Sep 20 |
 | Priceline | Software Engineering - Web/Javascript - Northeastern Co-op | New York City, NY | Co-op | Undergrad | [Apply](https://priceline.wd1.myworkdayjobs.com/en-US/priceline-collegehiring/job/New-York/Software-Engineering---Web-Javascript--Northeastern-Co-op-_R5818?utm_source=aprameyak) | Sep 20 |
