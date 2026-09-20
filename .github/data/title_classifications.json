@@ -467,8 +467,9 @@
   },
   "software engineer, early career": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "n"
   },
   "software engineer ii, backend (capital orchestration)": {
@@ -5292,9 +5293,9 @@
     "b": "s"
   },
   "research scientist": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 0
   },
   "research scientist, battlespace awareness ": {
@@ -61570,8 +61571,9 @@
   },
   "software engineering intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "s"
   },
   "associate, software engineer, new grad card expansion": {
@@ -62572,8 +62574,8 @@
   },
   "software engineer intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 1,
     "b": "s"
   },
@@ -62675,8 +62677,9 @@
   },
   "junior software engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "n"
   },
   "2027 vet transition program  - acb": {
@@ -62920,8 +62923,9 @@
   },
   "software engineering intern - summer 2027": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "s"
   },
   "embedded software engineer intern - fall 2026": {
@@ -63377,8 +63381,9 @@
   },
   "machine learning intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "s"
   },
   "applications engineering internship - spring 2027": {
@@ -64677,8 +64682,9 @@
   },
   "ai/ml research intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "s"
   },
   "leadership rotation network intern": {
@@ -64719,8 +64725,9 @@
   },
   "data science intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "s"
   },
   "campus full time 2027 - quantitative trader": {
@@ -64826,9 +64833,10 @@
     "b": "s"
   },
   "research intern": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v2",
+    "a": 0,
     "b": "s"
   },
   "software engineer i, toronto co-op ": {
@@ -65229,8 +65237,9 @@
   },
   "junior software engineer ": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "n"
   },
   "quantitative developer intern 2027": {
@@ -65378,9 +65387,10 @@
     "b": "o"
   },
   "product designer, internship": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 0,
     "b": "s"
   },
   "product designer, internship - us government": {
@@ -66154,9 +66164,9 @@
   },
   "associate product manager": {
     "t": true,
-    "c": "stale",
-    "v": "",
-    "a": 1,
+    "c": "low",
+    "v": "cs-is-v2",
+    "a": 0,
     "b": "n"
   },
   "software engineering intern, dynamo - fall 2026": {
@@ -66941,8 +66951,9 @@
   },
   "data engineering intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "s"
   },
   "hardware test intern (spring 2027)": {
@@ -67625,8 +67636,9 @@
   },
   "software engineer intern ": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "s"
   },
   "r&d intern - summer 2027 (chicago)": {
@@ -68423,8 +68435,8 @@
   },
   "software engineering intern (summer 2027)": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 1,
     "b": "s"
   },
@@ -70892,8 +70904,9 @@
   },
   "corporate finance intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "asset management intern - investments": {
     "t": false,
@@ -72836,9 +72849,10 @@
     "a": 0
   },
   "product design intern": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 0,
     "b": "s"
   },
   "product manager (hr technology) intern": {
@@ -76581,5 +76595,916 @@
     "v": "cs-is-v2",
     "a": 0,
     "b": "o"
+  },
+  "frontend engineer, internship": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer internship, agent systems": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "reactor software engineering intern - summer 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer | early careers, 2027 start": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "n"
+  },
+  "software engineering internship, embedded systems (spring or summer 2027)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "avionics internship (spring or summer 2027)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "software engineering internship, test & automation (summer 2027)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "ground software engineering internship (spring or summer 2027)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "simulation software engineering internship (spring or summer 2027) ": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "avionics internship, power electronics (spring or summer 2027)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "avionics test engineering internship (spring 2027)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "propulsion internship (summer 2027) ": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "internship 2027 onboard infrastructure engineer, ml inference": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "internship 2027 behavior machine learning engineer, world models": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "internship 2027 software engineer, fleet platform": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "early career machine learning engineer, applied ai": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "n"
+  },
+  "machine learning engineering, intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, backend (co-op)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "o"
+  },
+  "software engineer, product (co-op)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "o"
+  },
+  "software engineer (fde / platform) - intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "graduate/phd research intern, machine learning": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineering intern - swe/ml (summer 2027)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "infrastructure engineer intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "hardware support & test intern": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "stagiaire en d\u00e9veloppement logiciel / software developer intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "ai/ml engineer intern (2027)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "data science/ data engineer intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer - new graduate": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "n"
+  },
+  "software engineer co-op 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "o"
+  },
+  "data engineer co-op 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "o"
+  },
+  "machine learning research intern 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "flight software engineering intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "2027 new graduate - software engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "n"
+  },
+  "2027 new graduate - thermal engineer": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "software engineer intern, xr team (fall 2026)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "o"
+  },
+  "software engineer (new grad)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "n"
+  },
+  "software engineering intern, 2028 grads ": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, new grads ": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "n"
+  },
+  "marketing engineering intern": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "software engineer (intern)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer \u2013 new college graduate": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "n"
+  },
+  "associate platform engineer (college grad 2027)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "n"
+  },
+  "associate data scientist (college grad 2027)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "n"
+  },
+  "performance marketing associate (college grad 2027)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "associate marketing designer (college grad 2027)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "associate software engineer (college grad 2027)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "n"
+  },
+  "influencer marketing associate (college grad 2027)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "partnership marketing associate (college grad 2027)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "software engineer intern, dealer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer intern, rfq": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "quantitative analyst intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer new grad": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "n"
+  },
+  "software engineering internship - fall 2026": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "o"
+  },
+  "data analyst intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "research fellow": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "member of technical staff, research (intern) ": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "internship - cnc machine park": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "nuclear engineering intern - summer 2027": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "thermofluids analysis intern - summer 2027": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "business operations finance intern - summer 2027": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "it helpdesk intern - summer 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "multiphysics software intern - summer 2027": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "thermal engineering internship (spring or summer 2027)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "internship 2027 sensor systems engineer": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "internship 2027 validation & verification test engineer ": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "business operations and ai intern": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "data operations intern (summer 2027)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "systems engineer intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "design engineer intern": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "product manager intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "ai/ml research internship": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "prototype & test engineering intern, new product development": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "ai innovation internship": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "ai research scientist intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "ai research intern: foundation models": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "robotics engineering intern: systems & applications": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "client partnerships intern": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "ai labs intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "robotics engineer intern": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "forward deployed engineer intern (mountain view)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "forward deployed engineer, intern": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "member of technical staff, intern": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "ai research intern - optexity (usa)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "research intern (bs/ms/phd)": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "research scientist intern": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "spring/summer 2027 engineering intern": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "medical scribe intern, clinical ai safety & evaluation": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "clinical ai evaluation intern": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "gnc engineering intern": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "generalist intern, 2027 ": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "vertical operations intern": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "travel risk operations intern": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "fraud analyst intern": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "fraud analyst intern (earnings)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "chargeback analyst intern": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "corporate strategy intern": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "creative production intern": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "paid social media intern": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "brand design intern": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "user experience research intern": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "summer 2027 internship (engineering)": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "research scientist (intern)": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "s"
+  },
+  "visual design co-op 2027": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "o"
+  },
+  "cloud operations co-op 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "o"
+  },
+  "full stack developer (student co-op)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "o"
+  },
+  "spring 2027 internship (engineering)": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "o"
+  },
+  "operations associate | early careers, summer 2027 start": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "n"
+  },
+  "business development representative | early careers, summer 2027 start": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "n"
+  },
+  "operations engineer | early careers, 2027 start": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "n"
+  },
+  "build engineer, turbomachinery - 2026 new graduate": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "n"
+  },
+  "2027 new graduate - nuclear engineer": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "n"
+  },
+  "2027 new graduate - reactor operations engineer": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "n"
+  },
+  "forward deployed engineer, new grad": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "n"
+  },
+  "associate product designer (college grad 2027)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "n"
+  },
+  "associate product manager (college grad 2027)": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "n"
+  },
+  "associate video editor (college grad 2027)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "n"
+  },
+  "clinical operations associate i (college grad 2027)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "n"
+  },
+  "general application (college grad 2027)": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "n"
+  },
+  "research scientist - post training": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "research scientist \u2013 frontier evaluations": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "post-training research scientist": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "research scientist, speech technologies (senior, staff, senior staff)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "junior forward deployed engineer": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "operations research scientist ": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "forward deployed engineer \u2014 associate (contract-to-hire)": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "research scientist, apex benchmarks": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "founding ai research scientist - optexity (usa)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "research scientist, post-training \u2014 video generation": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "research scientist, data": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "machine learning research scientist": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "senior associate product manager (mba grad 2027)": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v2",
+    "a": 1,
+    "b": "n"
+  },
+  "clinical strategy and operations lead (mba grad 2027)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "ai research scientist": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
+  },
+  "founding research scientist": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   }
 }
