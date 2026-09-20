@@ -359,32 +359,11 @@ def is_out_of_scope_title(title):
 def is_in_scope_listing_title(title, table=None):
     """Structural gate only: campus + not hard-out. Discipline is Claude's job.
 
-    Do not require a fixed CS/IS/SWE keyword allowlist here — that overrode the
-    LLM and narrowed roles into static buckets. Hard rejects still apply.
+    Do not require a fixed CS/IS/SWE keyword allowlist — that falsely rejected
+    MotS, SWE, AIML Resident, programmer analyst, etc. Hard rejects still apply.
     """
     if is_out_of_scope_title(title):
         return False
     if not is_campus_role_title(title, table=table):
-        return False
-    # Intern / co-op / fellow / student: hard-reject gate is enough; Claude
-    # decides tech vs non-tech when classifying.
-    if _INTERN_COOP.search(title or ''):
-        return True
-    # New-grad / early-career without intern wording: need a broad tech hint
-    # so pure non-tech campus roles (e.g. video producer) don't auto-pass
-    # validate before Claude has seen them.
-    if not re.search(
-        r'software|developer|engineer|devops|technolog|technologist|\btech\b|'
-        r'machine learning|\bml\b|\bai\b|artificial|gen\s*ai|deep learning|'
-        r'data scien|data engineer|data analyst|data analytics|quant|'
-        r'cyber|security|cloud|platform|backend|frontend|full-?stack|'
-        r'product manag|product design|consultant|programming|computer|'
-        r'research scientist|research engineer|\bsre\b|reliability|'
-        r'network|systems|infrastructure|sdet|\bqa\b|compiler|'
-        r'information technology|\bit\b|analytics|automation|'
-        r'applied science|algorithm|\btrading\b|informatics|\bmis\b|\bcis\b',
-        title or '',
-        re.I,
-    ):
         return False
     return True
