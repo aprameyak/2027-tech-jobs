@@ -1,9 +1,15 @@
 # 🎓 New Grad 2027 — Other Tech
 
-**27** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**33** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Anthrogen | Member of Technical Staff 🇺🇸 | San Francisco, CA |  | Undergrad | [Apply](https://www.workatastartup.com/jobs/83750) | Sep 20 |
+| Apple | AIML Resident - Input Experience NLP | Cupertino, CA |  | Undergrad | [Apply](https://jobs.apple.com/en-us/details/200630840-0836/aiml-resident-input-experience-nlp) | Sep 20 |
+| BDO Canada | Business Analyst New Grad - Data & Analytics | Montreal, QC, Canada Toronto, ON, Canada Calgary, AB, Canada Oakville, ON, Canada Edmonton, AB, Canada Ottawa, ON, Canada Halifax Regional Municipality, NS |  | Undergrad | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst---Data---Analytics---New-Grad--January-2027-_JR7065?utm_source=aprameyak) | Sep 20 |
+| Herdora | Member of Technical Staff | San Francisco, CA |  | Undergrad | [Apply](https://www.workatastartup.com/jobs/83031) | Sep 20 |
+| Interaction | Member of Technical Staff | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/interaction/56b66af2-bce5-4ad7-baf9-ace14eb6a29a?utm_source=aprameyak) | Sep 20 |
+| Trellis AI | Member of Technical Staff 🇺🇸 | San Francisco, CA |  | Undergrad | [Apply](https://www.workatastartup.com/jobs/85607) | Sep 20 |
 | Safelite | Predictive Analytics Global Early Career Professional | Columbus, OH | Spring 2027 | Undergrad | [Apply](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Predictive-Analytics-Global-Early-Career-Professional_JR74275?utm_source=aprameyak) | Sep 19 |
 | ↳ | Customer Analytics & Insights Global Early Career Professional | Columbus, OH | Spring 2027 | Undergrad | [Apply](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Customer-Analytics---Insights-Global-Early-Career-Professional_JR74210?utm_source=aprameyak) | Sep 19 |
 | KBR | Junior Systems Engineer | Beavercreek, OH |  | Masters | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2127554?utm_source=aprameyak) | Sep 15 |
@@ -12,11 +18,11 @@
 | ↳ | 2027 Entry Level Suppler Technical Engineer | San Diego, CA | Spring 2027 | Undergrad | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Suppler-Technical-Engineer-_R0000383122?utm_source=aprameyak) | Sep 14 |
 | ↳ | 2027 TMP Tech & NPI Entry Level Engineering Rotation - MS/PHD | San Diego, CA | Spring 2027 | PhD | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/SolarTurbines/job/San-Diego-California/XMLNAME-2027-TMP-Tech---NPI-Entry-Level-Engineering-Rotation---MS-PHD_R0000381837?utm_source=aprameyak) | Sep 14 |
 | DoorDash | Product Design, Entry-Level (2027 start) | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8188161?utm_source=aprameyak) | Sep 10 |
-| UBS | 2027 Graduate Talent Program — Technology | <details><summary>**2 locations**</summary>New York, NY</br>Weehawken, NJ</details> | Spring 2027 | Undergrad | [Apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25008&siteid=5131&jobId=348622) | Sep 1 |
+| UBS | 2027 Graduate Talent Program — Technology | <details><summary>**2 locations**</summary>New York, NY</br>Weehawken, NJ</details> | Spring 2027 | Undergrad | [Apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobId=348622&partnerid=25008&siteid=5131) | Sep 1 |
 | Netic | Forward Deployed Engineer (FDE) - New Grad - 2026-2027 | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/netic/f2d170eb-c4c3-4715-9d2e-84dd4fe857c8/application?utm_source=aprameyak) | Aug 30 |
 | Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | <details><summary>**2 locations**</summary>New York, NY</br>Boston, MA</details> |  | Undergrad | [Apply](https://jobs.lever.co/veeva/f792925e-aefc-418c-8bf8-a1bdb6250a25?utm_source=aprameyak) | Aug 30 |
 | Accenture Federal Services 🛂 | Junior Systems Engineer | Annapolis Junction, MD |  | Undergrad | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4627901006?gh_jid=4627901006&utm_source=aprameyak) | Aug 29 |
-| LMI | Junior Android Engineer - RFID | Remote (US) |  | Undergrad | [Apply](https://careers-lmi.icims.com/jobs/14418/job?mobile=true&needsRedirect=false&utm_source=aprameyak) | Aug 28 |
+| LMI | Junior Android Engineer - RFID | Remote (US) |  | Undergrad | [Apply](https://careers-lmi.icims.com/jobs/14418/job?mobile=true&needsRedirect=false) | Aug 28 |
 | Fannie Mae | Campus – Analytics & Modeling Program Associate | Washington, DC |  | Undergrad | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/fanniemaecareers/job/Washington-DC/Campus---Analytics---Modeling-Program-Associate_JR2816-1?utm_source=aprameyak) | Aug 25 |
 | FTI Consulting | 2027 Entry Level Consultant - Technology | Remote (US) | Spring 2027 | Undergrad | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/United-States/XMLNAME-2027-Entry-Level-Consultant---Technology_JR260338-1?utm_source=aprameyak) | Aug 17 |
 | CACI 🛂 🇺🇸 | Junior Vulnerability Researcher (Cloud & Containers) | Florham Park, NJ |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Junior-Vulnerability-Researcher--Cloud---Containers-_330398?utm_source=aprameyak) | Aug 10 |
@@ -29,5 +35,5 @@
 | Veeva Systems | Associate Technical Consultant - Entry-Level Consulting (Life Sciences) | New York, NY |  | Undergrad | [Apply](https://jobs.lever.co/veeva/2f1ed4cd-5999-47a0-8c06-38898fed4711?utm_source=aprameyak) | Jul 21 |
 | ↳ | Associate Technical Consultant - Entry-Level Consulting (Life Sciences) | Boston, MA |  | Undergrad | [Apply](https://jobs.lever.co/veeva/0893f708-83d9-4a62-8011-5223ec3d373b?utm_source=aprameyak) | Jul 21 |
 | Verkada | Technical Support Engineer - University Graduate | San Mateo, CA | Spring 2026 | Undergrad; Masters | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007?utm_source=aprameyak) | Jul 18 |
-| Jump Trading | Campus Systems Engineer (Full-Time) | Chicago, IL |  | Masters | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8008112&utm_source=aprameyak) | Jul 11 |
+| Jump Trading | Campus Systems Engineer (Full-Time) | Chicago, IL |  | Masters | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8008112) | Jul 11 |
 | Ramp | Design Engineer, Design Systems | <details><summary>**3 locations**</summary>New York, NY</br>Remote (US)</br>San Francisco, CA</details> |  | Undergrad | [Apply](https://jobs.ashbyhq.com/ramp/6b9108d1-128d-4fd3-8465-fb514ea0e4c4?utm_source=aprameyak) | Jul 10 |

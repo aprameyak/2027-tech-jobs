@@ -1,9 +1,14 @@
 # 🔄 Off-Cycle Internships & Co-ops — Other Tech
 
-**138** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
+**143** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Megazone Cloud US | Cloud Operations Co-op 2027 | Rochester, NY | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/megazone/1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f?utm_source=aprameyak) | Sep 20 |
+| Micron Technology | Marketing Analytics Intern - Global Communications & Marketing | Meridian, ID | Fall 2026 | Masters | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Meridian-ID/Intern---Marketing-Analytics_JR109458?utm_source=aprameyak) | Sep 20 |
+| Risepoint | Marketing & Operations Analytics Co-op - Strategy & Analytics | Remote in | Co-op | Undergrad | [Apply](https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Marketing---Ops-Analytics-Co-Op_JR101345?utm_source=aprameyak) | Sep 20 |
+| Wasabi | Cloud Tech Support Engineer - Co-op | Remote (US) | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/wasabi/jobs/5418393008?utm_source=aprameyak) | Sep 20 |
+| Wonder | Growth & Marketing Analytics Intern - Growth Analytics | NYC | Fall 2026 | Undergrad | [Apply](https://wonder.wd1.myworkdayjobs.com/WG/job/New-York-NY/Growth---Marketing-Analytics-Intern_JR101323?utm_source=aprameyak) | Sep 20 |
 | Abundant | Member of Technical Staff Intern - Research | SF | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Allstate Insurance Company | Quantum Algorithm Development Intern | Chicago, IL | Fall 2026 | Undergrad | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Quantum-Algorithm-Development-Intern_R34881?utm_source=aprameyak) | Sep 19 |
 | Altar'd State | IT Data Intern | Knoxville, TN | Fall 2026 | Undergrad | [Apply](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Data-Intern_SOSJ12488-1?utm_source=aprameyak) | Sep 19 |
@@ -60,7 +65,7 @@
 | Loblaw Companies | Technology Transformation Co-op - Technology Transformation | Brampton, ON | Co-op | Undergrad | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Loblaw-Brands--Technology-Transformation---Co-op-Student_R2000695051?utm_source=aprameyak) | Sep 19 |
 | ↳ | Replenishment Optimization Data & Analytics Co-op | Brampton, ON | Co-op | Undergrad | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Replenishment-Optimization-Data---Analytics---Co-op-Student_R2000697074?utm_source=aprameyak) | Sep 19 |
 | ↳ | Technical Analyst Co-op | Mississauga, ON | Co-op | Undergrad | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1685-Tech-Ave-Mississauga-ON/Business-Analyst-Co-op-Student_R2000697512-2?utm_source=aprameyak) | Sep 19 |
-| Metropolitan Transportation Authority | Technology Support Intern - Emerging Talent | Brooklyn, NY | Fall 2026 | Undergrad | [Apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/oQsIAfwk?nl=1&nl=1&fr=false) | Sep 19 |
+| Metropolitan Transportation Authority | Technology Support Intern - Emerging Talent | Brooklyn, NY | Fall 2026 | Undergrad | [Apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/oQsIAfwk?fr=false&nl=1&nl=1) | Sep 19 |
 | Micron Technology | Memory and System Architecture Research Intern | San Jose, CAFolsom, CA | Fall 2026 | Masters | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Memory---System-Architecture-Research_JR110475?utm_source=aprameyak) | Sep 19 |
 | Nebo | Front-End Engineer Intern | Atlanta, GA | Fall 2026 | Undergrad | [Apply](https://neboagency.applytojob.com/apply/TtGKnP4ODV/FrontEnd-Engineering-Intern) | Sep 19 |
 | Nelnet | Front-End Engineer Intern - UX/UI | Madison, WI | Fall 2026 | Undergrad | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Madison-WI/Intern---UX-UI-Front-End-Engineer_R23118?utm_source=aprameyak) | Sep 19 |
@@ -137,8 +142,8 @@
 | Ancestry | Product Design Co-op – International Growth | Remote (US) | Co-op | Undergrad | [Apply](https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Remote/Product-Design-Co-op---International-Growth_R003417?utm_source=aprameyak) | Aug 17 |
 | GlobalFoundries | IP & Design Engineering Intern | Richardson, TX | Fall 2026 | Undergrad | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699?utm_source=aprameyak) | Aug 17 |
 | Anthropic | Anthropic Fellows Program, ML Systems & Performance | <details><summary>**2 locations**</summary>San Francisco, CA</br>Remote (US)</details> | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008?utm_source=aprameyak) | Aug 4 |
-| Hugging Face | ML Engineer Internship, Evaluate | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/66C7B15E3D/?utm_source=aprameyak) | Aug 4 |
-| Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | San Francisco, CA | Co-op | PhD | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008&utm_source=aprameyak) | Jul 21 |
-| ↳ | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Toronto, ON | Co-op | PhD | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008&utm_source=aprameyak) | Jul 21 |
+| Hugging Face | ML Engineer Internship, Evaluate | Remote (US) | Co-op | Undergrad | [Apply](https://apply.workable.com/huggingface/j/66C7B15E3D/) | Aug 4 |
+| Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | San Francisco, CA | Co-op | PhD | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) | Jul 21 |
+| ↳ | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Toronto, ON | Co-op | PhD | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) | Jul 21 |
 | Motorola Solutions | R&D Intern - Wireless Systems Engineer | Los Angeles, CA | Summer 2026 | Masters | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376?utm_source=aprameyak) | Jul 21 |
 | NVIDIA | Applied Research Intern, NLP | Santa Clara, CA | Fall 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488?utm_source=aprameyak) | Jul 10 |

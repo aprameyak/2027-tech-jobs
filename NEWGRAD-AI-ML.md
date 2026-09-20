@@ -1,9 +1,12 @@
 # 🎓 New Grad 2027 — Data Science, AI & Machine Learning
 
-**217** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**220** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Cohere | Member of Technical Staff, MLE | <details><summary>**3 locations**</summary>San Francisco, CA</br>New York, NY</br>Toronto, Canada Montreal, Canada Remote</details> |  | Undergrad | [Apply](https://jobs.ashbyhq.com/cohere/110ba167-4efd-43b7-85d2-3ff719a28b0f?utm_source=aprameyak) | Sep 20 |
+| Renaissance Technologies | Research Scientist 🇺🇸 | East Setauket, NY |  | Undergrad | [Apply](https://www.rentec.com/Careers.action?jobs=true&selectedPosition=researchScientist) | Sep 20 |
+| Travelers | Software Engineer I (AI Driven) 🛂 | Atlanta, GA |  | Undergrad | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AI-Driven-_R-49831?utm_source=aprameyak) | Sep 20 |
 | American Express | Data Engineer 1 - Enterprise Technology Services | Phoenix, AZ |  | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013286) | Sep 19 |
 | Canadian Tire | Data Science Associate New Grad - Finance Rotational Program | Toronto, ON |  | Undergrad | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983?utm_source=aprameyak) | Sep 19 |
 | Capital One | Data Scientist New Grad | Toronto, ON | Spring 2027 | Undergrad | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1?utm_source=aprameyak) | Sep 19 |
@@ -39,7 +42,7 @@
 | Clarity Innovations | Junior Data Analyst | Hurlburt Field, FL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5238058007?utm_source=aprameyak) | Sep 15 |
 | Solace Health | Associate Data Scientist (College Grad 2027) | Redwood City, CA |  | Undergrad; Masters | [Apply](https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443?utm_source=aprameyak) | Sep 15 |
 | Google | Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start | Sunnyvale, CA | Spring 2027 | PhD | [Apply](https://www.google.com/about/careers/applications/jobs/results/123087196289671878) | Sep 14 |
-| Peraton 🇺🇸 | Data Science, Associate | Herndon, VA |  | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/170473/job?utm_source=aprameyak) | Sep 14 |
+| Peraton 🇺🇸 | Data Science, Associate | Herndon, VA |  | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/170473/job) | Sep 14 |
 | ↳ | Data Science, Associate - Herndon, VA | Herndon, VA |  | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/170473/data-science%2c-associate---herndon%2c-va/job) | Sep 14 |
 | Roku | Software Engineer, Early Careers focused on AI and UI | San Jose, CA |  | Undergrad | [Apply](https://www.weareroku.com/jobs/8188714?gh_jid=8188714) | Sep 14 |
 | Philips | Full Time- Graduate Development Program-AI & Analytics Associate-Nashville, TN or Cambridge, MA-2027 | <details><summary>**2 locations**</summary>Nashville, TN</br>Cambridge, MA</details> | Spring 2026 | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time--Graduate-Development-Program-AI---Analytics-Associate-Nashville--TN-or-Cambridge--MA-2026_587083?utm_source=aprameyak) | Sep 12 |
@@ -47,13 +50,13 @@
 | NVIDIA | Research Scientist, AI for Graphics and Gaming - New College Grad | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267?utm_source=aprameyak) | Sep 9 |
 | Capital One | Associate, Data Analyst - New Grad, 2027 Start | Toronto, ON | Spring 2027 | Undergrad | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1?utm_source=aprameyak) | Sep 8 |
 | Canadian Tire | New Graduate Program - 2027 Data Science Associate, Finance Rotational Program | Toronto, ON | Spring 2027 | Undergrad | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983?utm_source=aprameyak) | Sep 4 |
-| The MIL Corporation | AI Developer (Software Engineering, Junior Analyst) | Washington, DC |  | Undergrad | [Apply](https://phh.tbe.taleo.net/phh03/ats/careers/requisition.jsp?org=MILCORP&cws=38&rid=16305&utm_source=aprameyak) | Sep 4 |
-| TikTok | Research Scientist Graduate (TikTok Recommendation - NextGen LLM) - 2027 Start (PhD) | San Jose, CA |  | Undergrad | [Apply](https://careers.tiktok.com/resume/7633605978976520453/apply?utm_source=aprameyak) | Sep 4 |
+| The MIL Corporation | AI Developer (Software Engineering, Junior Analyst) | Washington, DC |  | Undergrad | [Apply](https://phh.tbe.taleo.net/phh03/ats/careers/requisition.jsp?cws=38&org=MILCORP&rid=16305) | Sep 4 |
+| TikTok | Research Scientist Graduate (TikTok Recommendation - NextGen LLM) - 2027 Start (PhD) | San Jose, CA |  | Undergrad | [Apply](https://careers.tiktok.com/resume/7633605978976520453/apply) | Sep 4 |
 | Torc Robotics | Software Engineer, I - Data Engineering | Ann Arbor, MI |  | Undergrad | [Apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8649372002?utm_source=aprameyak) | Sep 4 |
 | AIG | 2027 Early Careers: Analyst, Gen AI - Data Science – United States, Atlanta, GA | Atlanta, GA | Spring 2027 | Undergrad | [Apply](https://aig.wd1.myworkdayjobs.com/en-US/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI---Data-Science---United-States--Atlanta--GA_JR2603656-1?utm_source=aprameyak) | Sep 1 |
 | NVIDIA | Research Scientist New Grad - Efficient Deep Learning | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1?utm_source=aprameyak) | Sep 1 |
-| Precisely | Associate Software Engineer (Python AI) | Remote (US) |  | Undergrad | [Apply](https://www.precisely.com/careers-and-culture/us-jobs/job/4722721005?gh_jid=4722721005&utm_source=aprameyak) | Sep 1 |
-| Texas Sports Academy | Junior Software Engineer - AI-Forward | Austin, TX |  | Undergrad | [Apply](https://apply.workable.com/texas-sports-academy-main/j/009164EC9C/apply?utm_source=aprameyak) | Sep 1 |
+| Precisely | Associate Software Engineer (Python AI) | Remote (US) |  | Undergrad | [Apply](https://www.precisely.com/careers-and-culture/us-jobs/job/4722721005?gh_jid=4722721005) | Sep 1 |
+| Texas Sports Academy | Junior Software Engineer - AI-Forward | Austin, TX |  | Undergrad | [Apply](https://apply.workable.com/texas-sports-academy-main/j/009164EC9C/apply) | Sep 1 |
 | Clera | Research Engineer / Research Scientist — Robotics & Physical AI | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/clera/7419e500-2621-4e31-ba44-6201367d18bf?utm_source=aprameyak) | Aug 31 |
 | Physical Intelligence | Research Scientist | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/physicalintelligence/f83ba447-2261-4832-95db-a2f88454e0ba?utm_source=aprameyak) | Aug 31 |
 | Ambrook | Software Engineer, AI | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/ambrook/6bfcac6b-6488-4144-ab57-da96758f839f?utm_source=aprameyak) | Aug 30 |
@@ -115,7 +118,7 @@
 | Hatch IT | Junior Data Engineer - DEA | Arlington County, Arlington, VA |  | Undergrad | [Apply](https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97/apply?utm_source=aprameyak) | Aug 28 |
 | KBR | Junior Data Engineer | Chantilly, VA |  | Undergrad | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer--JR_R2128783?utm_source=aprameyak) | Aug 28 |
 | Micron Technology | AI Innovation Research Engineer New Grad | San Jose, CA |  | PhD | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594?utm_source=aprameyak) | Aug 28 |
-| Smarter Agent | Junior Data Engineer - Multiple Teams | Collingswood, NJ |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/SmarterAgent/743999706496509?utm_source=aprameyak) | Aug 28 |
+| Smarter Agent | Junior Data Engineer - Multiple Teams | Collingswood, NJ |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/SmarterAgent/743999706496509) | Aug 28 |
 | Solace Health | Associate Data Engineer - College Grad | Redwood City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/solace/7deb5d7e-9960-4407-9600-aa8e84d9edba/application?embed=true&utm_source=aprameyak) | Aug 28 |
 | True Anomaly | Data Engineer 1 | <details><summary>**2 locations**</summary>Long Beach, CA</br>Denver, CO</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007?utm_source=aprameyak) | Aug 28 |
 | Clarity Innovations | Junior Reverse Engineering/Vulnerability Research Engineer | Remote (US) |  | Undergrad | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5217636007?utm_source=aprameyak) | Aug 25 |
@@ -128,38 +131,38 @@
 | SentiLink | Research Scientist New Grad | Remote (US) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/sentilink/f9a47314-c48a-4053-a113-6974b211559f/application?embed=true&utm_source=aprameyak) | Aug 12 |
 | NVIDIA | Research Scientist, Fundamental Generative AI - New College Grad | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698?utm_source=aprameyak) | Aug 11 |
 | ↳ | Research Scientist, Robotics Research - PhD New College Grad | Seattle, WA | Spring 2026 | PhD | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473?utm_source=aprameyak) | Aug 11 |
-| Susquehanna International Group | Machine Learning Researcher - PhD | New York, NY |  | PhD | [Apply](https://careers-sig.icims.com/jobs/10788/job?utm_source=aprameyak) | Aug 9 |
+| Susquehanna International Group | Machine Learning Researcher - PhD | New York, NY |  | PhD | [Apply](https://careers-sig.icims.com/jobs/10788/job) | Aug 9 |
 | Lightfield | Software Engineer, New Grad - Applied AI | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d?utm_source=aprameyak) | Aug 8 |
 | EvenUp | Backend Software Engineer, AI Document Generation (All Levels) | Remote (Canada) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/evenup/575484a3-ed12-478f-a575-8db524f9cc96?utm_source=aprameyak) | Aug 7 |
 | Figma | Data Scientist, Core Data | San Francisco, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004&utm_source=aprameyak) | Aug 7 |
-| Lockheed Martin | AI Platform Engineer | Remote (US) |  | Undergrad | [Apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5010&PageType=JobDetails&jobid=792011&utm_source=aprameyak#jobDetails=792011_5010) | Aug 7 |
-| Meta | Data Engineer – University Grad - Product Analytics | <details><summary>**3 locations**</summary>Menlo Park, CA</br>New York, NY</br>Bellevue, WA</details> |  | Undergrad | [Apply](https://www.metacareers.com/jobs/1468691051611430?utm_source=aprameyak) | Aug 7 |
+| Lockheed Martin | AI Platform Engineer | Remote (US) |  | Undergrad | [Apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=792011&partnerid=25037&siteid=5010) | Aug 7 |
+| Meta | Data Engineer – University Grad - Product Analytics | <details><summary>**3 locations**</summary>Menlo Park, CA</br>New York, NY</br>Bellevue, WA</details> |  | Undergrad | [Apply](https://www.metacareers.com/jobs/1468691051611430) | Aug 7 |
 | Quora | Software Engineer New Grad - Machine Learning Platform | Remote (US) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true&utm_source=aprameyak) | Aug 7 |
 | Shirley Ryan AbilityLab | Machine Learning Ops Engineer 1 - CBM Lab | Chicago, IL |  | Undergrad | [Apply](https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Engineer-I--Machine-Learning-Ops-CBM-Lab_JR-1065210-2?utm_source=aprameyak) | Aug 7 |
-| Texas Sports Academy | Junior AI Software Engineer | Austin, TX |  | Undergrad | [Apply](https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply?utm_source=aprameyak) | Aug 7 |
+| Texas Sports Academy | Junior AI Software Engineer | Austin, TX |  | Undergrad | [Apply](https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply) | Aug 7 |
 | University of Pennsylvania | Neuroimaging Data Analyst Junior | Philadelphia, PA |  | Undergrad | [Apply](https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/Med-Sch-Richards-Building---5th-Floor/Neuroimaging-Data-Analyst-Junior_JR00121050-1?utm_source=aprameyak) | Aug 7 |
-| Varsity Brands | Data Engineer 1 | Farmers Branch, TX |  | Undergrad | [Apply](https://careers.varsitybrands.com/global/en/job/JR114562?utm_source=aprameyak) | Aug 7 |
-| WSP | Early Career Project Controls Data Analyst | <details><summary>**3 locations**</summary>Fort Lauderdale, FL</br>New York, NY</br>Minneapolis, MN</details> |  | Undergrad | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91898?utm_source=aprameyak) | Aug 7 |
-| Two Sigma | AI Research Scientist - New Grad (Campus Full-Time) | New York, NY |  | Masters; PhD | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Campus-Full-Time/13671?utm_source=aprameyak) | Aug 5 |
+| Varsity Brands | Data Engineer 1 | Farmers Branch, TX |  | Undergrad | [Apply](https://careers.varsitybrands.com/global/en/job/JR114562) | Aug 7 |
+| WSP | Early Career Project Controls Data Analyst | <details><summary>**3 locations**</summary>Fort Lauderdale, FL</br>New York, NY</br>Minneapolis, MN</details> |  | Undergrad | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91898) | Aug 7 |
+| Two Sigma | AI Research Scientist - New Grad (Campus Full-Time) | New York, NY |  | Masters; PhD | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Campus-Full-Time/13671) | Aug 5 |
 | Chime | Software Engineer, AI Enablement | Remote (US) |  | Undergrad | [Apply](https://boards.greenhouse.io/chime/jobs/8578967002?utm_source=aprameyak) | Aug 4 |
 | Glean | Machine Learning Engineer, Assistant | San Francisco, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4711484005?utm_source=aprameyak) | Aug 4 |
 | Handshake | Machine Learning Engineer I, Network | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/handshake/59dae1e7-2059-46c5-98d2-7d475c689191?utm_source=aprameyak) | Aug 4 |
 | OpenAI | Research Engineer / Scientist | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/openai/1bf678c5-1058-45ca-b9bd-b0029fccd60e?utm_source=aprameyak) | Aug 4 |
-| ByteDance | Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling | Seattle, WA |  | Undergrad | [Apply](https://jobs.bytedance.com/en/position/7668799020705679669/detail?utm_source=aprameyak) | Aug 3 |
-| ↳ | Software Engineer New Grad - AI Infra Compute | Seattle, WA |  | PhD | [Apply](https://jobs.bytedance.com/en/position/7667303429264115973/detail?utm_source=aprameyak) | Aug 3 |
-| ↳ | Research Scientist New Grad - Multi-modal Agentic Databases | Seattle, WA |  | PhD | [Apply](https://jobs.bytedance.com/en/position/7665104241446652213/detail?utm_source=aprameyak) | Aug 3 |
-| ↳ | Research Scientist New Grad - Computational Imaging | San Jose, CA |  | PhD | [Apply](https://jobs.bytedance.com/en/position/7665836153219959093/detail?utm_source=aprameyak) | Aug 3 |
-| ↳ | Research Scientist New Grad - AI for Infrastructure | San Jose, CA |  | PhD | [Apply](https://jobs.bytedance.com/en/position/7667291055662811445/detail?utm_source=aprameyak) | Aug 3 |
-| ↳ | Research Scientist New Grad - Infrastructure System Lab | San Jose, CA |  | PhD | [Apply](https://jobs.bytedance.com/en/position/7665108869591140613/detail?utm_source=aprameyak) | Aug 3 |
-| ↳ | Research Scientist New Grad - Distributed NoSQL Database Systems | Seattle, WA |  | PhD | [Apply](https://jobs.bytedance.com/en/position/7668365143156721973/detail?utm_source=aprameyak) | Aug 3 |
+| ByteDance | Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling | Seattle, WA |  | Undergrad | [Apply](https://jobs.bytedance.com/en/position/7668799020705679669/detail) | Aug 3 |
+| ↳ | Software Engineer New Grad - AI Infra Compute | Seattle, WA |  | PhD | [Apply](https://jobs.bytedance.com/en/position/7667303429264115973/detail) | Aug 3 |
+| ↳ | Research Scientist New Grad - Multi-modal Agentic Databases | Seattle, WA |  | PhD | [Apply](https://jobs.bytedance.com/en/position/7665104241446652213/detail) | Aug 3 |
+| ↳ | Research Scientist New Grad - Computational Imaging | San Jose, CA |  | PhD | [Apply](https://jobs.bytedance.com/en/position/7665836153219959093/detail) | Aug 3 |
+| ↳ | Research Scientist New Grad - AI for Infrastructure | San Jose, CA |  | PhD | [Apply](https://jobs.bytedance.com/en/position/7667291055662811445/detail) | Aug 3 |
+| ↳ | Research Scientist New Grad - Infrastructure System Lab | San Jose, CA |  | PhD | [Apply](https://jobs.bytedance.com/en/position/7665108869591140613/detail) | Aug 3 |
+| ↳ | Research Scientist New Grad - Distributed NoSQL Database Systems | Seattle, WA |  | PhD | [Apply](https://jobs.bytedance.com/en/position/7668365143156721973/detail) | Aug 3 |
 | Luma AI | Research Scientist / Engineer - Data | Remote (US) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/luma-ai/f41a9fc6-40b5-4063-b093-b50ffe919ad8?utm_source=aprameyak) | Jul 31 |
 | EvenUp | Early Career Machine Learning Engineer | <details><summary>**2 locations**</summary>San Francisco, CA</br>Toronto, ON</details> |  | Undergrad | [Apply](https://jobs.ashbyhq.com/evenup/fe3d36b4-696b-4c47-be72-2186b266035b?utm_source=aprameyak) | Jul 30 |
-| Infoblox | Associate Data Engineer | Burnaby, BC |  | Undergrad | [Apply](https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6828?utm_source=aprameyak) | Jul 30 |
+| Infoblox | Associate Data Engineer | Burnaby, BC |  | Undergrad | [Apply](https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6828) | Jul 30 |
 | Magical | Junior Software Engineer, AI | <details><summary>**2 locations**</summary>Toronto, ON</br>San Francisco, CA</details> |  | Undergrad | [Apply](https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249?utm_source=aprameyak) | Jul 30 |
-| L2TMedia | Junior Digital Media Data Analyst | Evanston, IL |  | Undergrad | [Apply](https://l2tmediallc.applytojob.com/b2dvJrHuSV/Junior-Digital-Media-Data-Analyst?utm_source=aprameyak) | Jul 28 |
+| L2TMedia | Junior Digital Media Data Analyst | Evanston, IL |  | Undergrad | [Apply](https://l2tmediallc.applytojob.com/b2dvJrHuSV/Junior-Digital-Media-Data-Analyst) | Jul 28 |
 | PMG | Graduate Leadership Program - AI and Software Engineering | Dallas, TX | Fall 2026 | Undergrad; Masters | [Apply](https://job-boards.greenhouse.io/pmg/jobs/8587038002?utm_source=aprameyak) | Jul 28 |
 | Quora | New Grad: Machine Learning Engineer | Remote (US) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/quora/e8acc816-a9af-445d-8135-47599ac9be0f?utm_source=aprameyak) | Jul 28 |
-| AMERICAN SYSTEMS | Data Engineer - Junior | Quantico, VA |  | Undergrad | [Apply](https://careers-americansystems.icims.com/jobs/4391/job?mobile=true&needsRedirect=false&utm_source=aprameyak) | Jul 27 |
+| AMERICAN SYSTEMS | Data Engineer - Junior | Quantico, VA |  | Undergrad | [Apply](https://careers-americansystems.icims.com/jobs/4391/job?mobile=true&needsRedirect=false) | Jul 27 |
 | Brain Co. | Early Career AI/ML Engineer | Remote (US) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839/application?utm_source=aprameyak) | Jul 27 |
 | Handshake | Machine Learning Engineer 1 | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application?utm_source=aprameyak) | Jul 27 |
 | NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | Mountain View, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4700278006?utm_source=aprameyak) | Jul 27 |
@@ -170,54 +173,54 @@
 | Travelers | Data Engineer 1 - Multiple Teams | <details><summary>**3 locations**</summary>Sparks, MD</br>Hartford, CT</br>St Paul, MN</details> |  | Undergrad | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--Databricks--AWS--Python-_R-51638?utm_source=aprameyak) | Jul 27 |
 | NewsBreak | NewsBreak Venture, AI Growth Intelligence Engineer (New Grad） | Mountain View, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4694899006?utm_source=aprameyak) | Jul 26 |
 | Dune | Data Engineer | Remote (US) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/dune/f3846675-ec16-49df-840d-a428cb421e8c?utm_source=aprameyak) | Jul 24 |
-| Meta | Data Engineer, Analytics | New York, NY |  | Undergrad | [Apply](https://www.metacareers.com/jobs/2578176955882259?utm_source=aprameyak) | Jul 24 |
-| Qualcomm | Software Engineer, Gaming AI, PC Compute | San Diego, CA |  | Undergrad | [Apply](https://careers.qualcomm.com/careers/job/446704371557?utm_source=aprameyak) | Jul 24 |
-| SMX | Junior Data Scientist | Patuxent River, MD |  | Undergrad | [Apply](https://www.smxtech.com/careers/?gh_jid=7498313003&utm_source=aprameyak) | Jul 24 |
-| Tesla | AI Engineer, Vision & Foundation Models, Optimus | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/233307?utm_source=aprameyak) | Jul 24 |
-| ↳ | AI Engineer, Reinforcement Learning, Self-Driving | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/259019?utm_source=aprameyak) | Jul 24 |
-| ↳ | Software Engineer, AI Inference Codesign | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/256595?utm_source=aprameyak) | Jul 24 |
-| ↳ | AI Engineer, ML Inference Optimization, Autonomy & Robotics | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/255357?utm_source=aprameyak) | Jul 24 |
-| ↳ | Machine Learning Engineer, Tesla Insurance | Fremont, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/249570?utm_source=aprameyak) | Jul 24 |
-| ↳ | Machine Learning Infrastructure Simulation Engineer, Optimus | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/252374?utm_source=aprameyak) | Jul 24 |
-| ↳ | Data Engineer, Energy Service Engineering | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/250277?utm_source=aprameyak) | Jul 24 |
-| ↳ | Machine Learning Engineer, Embodied Intelligence, Optimus | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/249027?utm_source=aprameyak) | Jul 24 |
-| ↳ | Software Engineer, Frontend, AI Infrastructure Engineering & Tools | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/249133?utm_source=aprameyak) | Jul 24 |
-| ↳ | AI Engineer, Multimodal Model Optimization, Autonomy & Robotics | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/248886?utm_source=aprameyak) | Jul 24 |
-| ↳ | Software Engineer, Core Infrastructure, AI | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/248409?utm_source=aprameyak) | Jul 24 |
-| ↳ | Machine Learning Engineer, Model Optimization & Deployment, Optimus | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/247659?utm_source=aprameyak) | Jul 24 |
-| ↳ | Camera Software Engineer, AI Platforms | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/246198?utm_source=aprameyak) | Jul 24 |
-| ↳ | Software Engineer, Machine Learning Integration, Optimus | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/245229?utm_source=aprameyak) | Jul 24 |
-| ↳ | Software Engineer, AI Systems Performance Modeling, Dojo | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/244263?utm_source=aprameyak) | Jul 24 |
-| ↳ | Software Engineer, AI Systems Performance Modeling | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/242774?utm_source=aprameyak) | Jul 24 |
-| ↳ | Software Engineer, AI Driven Test Automation | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/235630?utm_source=aprameyak) | Jul 24 |
-| ↳ | Frontend Engineer, GenAI Model Evaluation | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/frontend-engineer-genai-model-evaluation-226925?utm_source=aprameyak) | Jul 24 |
-| ↳ | Software Engineer, Metrics, GenAI Model Evaluation | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/software-engineer-metrics-genai-model-evaluation-226926?utm_source=aprameyak) | Jul 24 |
-| Tria Federal 🇺🇸 | Data Analyst | Falls Church, VA |  | Undergrad | [Apply](https://triafed.com/jobs/?gh_jid=4881899008&utm_source=aprameyak) | Jul 24 |
+| Meta | Data Engineer, Analytics | New York, NY |  | Undergrad | [Apply](https://www.metacareers.com/jobs/2578176955882259) | Jul 24 |
+| Qualcomm | Software Engineer, Gaming AI, PC Compute | San Diego, CA |  | Undergrad | [Apply](https://careers.qualcomm.com/careers/job/446704371557) | Jul 24 |
+| SMX | Junior Data Scientist | Patuxent River, MD |  | Undergrad | [Apply](https://www.smxtech.com/careers/?gh_jid=7498313003) | Jul 24 |
+| Tesla | AI Engineer, Vision & Foundation Models, Optimus | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/233307) | Jul 24 |
+| ↳ | AI Engineer, Reinforcement Learning, Self-Driving | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/259019) | Jul 24 |
+| ↳ | Software Engineer, AI Inference Codesign | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/256595) | Jul 24 |
+| ↳ | AI Engineer, ML Inference Optimization, Autonomy & Robotics | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/255357) | Jul 24 |
+| ↳ | Machine Learning Engineer, Tesla Insurance | Fremont, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/249570) | Jul 24 |
+| ↳ | Machine Learning Infrastructure Simulation Engineer, Optimus | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/252374) | Jul 24 |
+| ↳ | Data Engineer, Energy Service Engineering | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/250277) | Jul 24 |
+| ↳ | Machine Learning Engineer, Embodied Intelligence, Optimus | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/249027) | Jul 24 |
+| ↳ | Software Engineer, Frontend, AI Infrastructure Engineering & Tools | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/249133) | Jul 24 |
+| ↳ | AI Engineer, Multimodal Model Optimization, Autonomy & Robotics | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/248886) | Jul 24 |
+| ↳ | Software Engineer, Core Infrastructure, AI | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/248409) | Jul 24 |
+| ↳ | Machine Learning Engineer, Model Optimization & Deployment, Optimus | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/247659) | Jul 24 |
+| ↳ | Camera Software Engineer, AI Platforms | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/246198) | Jul 24 |
+| ↳ | Software Engineer, Machine Learning Integration, Optimus | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/245229) | Jul 24 |
+| ↳ | Software Engineer, AI Systems Performance Modeling, Dojo | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/244263) | Jul 24 |
+| ↳ | Software Engineer, AI Systems Performance Modeling | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/242774) | Jul 24 |
+| ↳ | Software Engineer, AI Driven Test Automation | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/235630) | Jul 24 |
+| ↳ | Frontend Engineer, GenAI Model Evaluation | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/frontend-engineer-genai-model-evaluation-226925) | Jul 24 |
+| ↳ | Software Engineer, Metrics, GenAI Model Evaluation | Palo Alto, CA |  | Undergrad | [Apply](https://www.tesla.com/careers/search/job/software-engineer-metrics-genai-model-evaluation-226926) | Jul 24 |
+| Tria Federal 🇺🇸 | Data Analyst | Falls Church, VA |  | Undergrad | [Apply](https://triafed.com/jobs/?gh_jid=4881899008) | Jul 24 |
 | Yotta Labs | Research Engineer - Decentralized AI Systems | Remote (US) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/yotta/b5202314-91e1-4940-b8a1-9be0e02d1db5?utm_source=aprameyak) | Jul 24 |
 | Allen Control Systems | Junior Computer Vision & Machine Learning Engineer | Austin, TX |  | Undergrad | [Apply](https://jobs.ashbyhq.com/allen-control-systems/cfb348d0-ab31-4fa5-9bd5-def1de764ca9?utm_source=aprameyak) | Jul 23 |
 | Flashpoint | Data Engineer 1 | Remote (US) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/flashpoint.io/84e64d83-f0b2-43db-8151-94dc75f2c705?utm_source=aprameyak) | Jul 23 |
 | Gen Digital | AI & Machine Learning Engineer 1 | Mountain View, CA |  | Masters; PhD | [Apply](https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf?utm_source=aprameyak) | Jul 23 |
 | GlobalFoundries | Biz App and Data Engineer - New College Graduate | Austin, TX | Spring 2026 | Undergrad | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1?utm_source=aprameyak) | Jul 23 |
-| Insilico Logix | Business Analyst / Data Analyst - Entry Level | Reston, VA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331?utm_source=aprameyak) | Jul 23 |
+| Insilico Logix | Business Analyst / Data Analyst - Entry Level | Reston, VA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331) | Jul 23 |
 | Parallel Web Systems | Early Career Research Engineer | Palo Alto, CA |  | Undergrad; Masters | [Apply](https://jobs.ashbyhq.com/parallel/056e41f8-7d5f-41c1-99fd-bf002dc072fd?utm_source=aprameyak) | Jul 23 |
-| Quadric | Data Scientist New Grad - Model Optimization | Burlingame, CA |  | Undergrad | [Apply](https://apply.workable.com/quadric-dot-i-o-inc/j/5A15DE8CCE?utm_source=aprameyak) | Jul 23 |
-| ↳ | Deep Learning Compiler Engineer New Grad | Burlingame, CA |  | Undergrad | [Apply](https://apply.workable.com/quadric-dot-i-o-inc/j/43779C9213?utm_source=aprameyak) | Jul 23 |
+| Quadric | Data Scientist New Grad - Model Optimization | Burlingame, CA |  | Undergrad | [Apply](https://apply.workable.com/quadric-dot-i-o-inc/j/5A15DE8CCE) | Jul 23 |
+| ↳ | Deep Learning Compiler Engineer New Grad | Burlingame, CA |  | Undergrad | [Apply](https://apply.workable.com/quadric-dot-i-o-inc/j/43779C9213) | Jul 23 |
 | Quora | Machine Learning Engineer New Grad | Remote (US) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4?utm_source=aprameyak) | Jul 23 |
 | SentiLink | Data Scientist - New Grad | Remote (US) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408?utm_source=aprameyak) | Jul 23 |
 | Snowflake | AI Research Scientist New Grad - Agents & Reinforcement Learning | Bellevue, WA |  | Masters; PhD | [Apply](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698?utm_source=aprameyak) | Jul 23 |
-| Software Quality Experts | Entry Level Business Analyst / Data Analyst | Dulles, VA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/SQexpetsLLC/743999653805861?utm_source=aprameyak) | Jul 23 |
+| Software Quality Experts | Entry Level Business Analyst / Data Analyst | Dulles, VA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/SQexpetsLLC/743999653805861) | Jul 23 |
 | Wonderschool | Early Career Software Engineer - Applied AI | San Francisco, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/wonderschool/jobs/6359139003?utm_source=aprameyak) | Jul 23 |
 | Zello | Software Engineer 1 - AI Generalist | Austin, TX |  | Undergrad | [Apply](https://jobs.ashbyhq.com/Zello/66de7a50-17cb-42aa-87eb-cd40c637338e?utm_source=aprameyak) | Jul 23 |
-| ByteDance | Software Engineer Graduate - AI Applications | San Jose, CA |  | Undergrad; Masters | [Apply](https://joinbytedance.com/search/7540808448918079752?utm_source=aprameyak) | Jul 20 |
-| ↳ | Machine Learning Engineer Graduate - eCommerce User Growth | Seattle, WA |  | Undergrad; Masters | [Apply](https://joinbytedance.com/search/7542674819873081608?utm_source=aprameyak) | Jul 20 |
-| Revionics | Machine Learning Engineer | <details><summary>**2 locations**</summary>Austin, TX</br>Atlanta, GA</details> |  | Undergrad | [Apply](https://revionics.com/about/careers/open-jobs?gh_jid=7172125&utm_source=aprameyak) | Jul 20 |
+| ByteDance | Software Engineer Graduate - AI Applications | San Jose, CA |  | Undergrad; Masters | [Apply](https://joinbytedance.com/search/7540808448918079752) | Jul 20 |
+| ↳ | Machine Learning Engineer Graduate - eCommerce User Growth | Seattle, WA |  | Undergrad; Masters | [Apply](https://joinbytedance.com/search/7542674819873081608) | Jul 20 |
+| Revionics | Machine Learning Engineer | <details><summary>**2 locations**</summary>Austin, TX</br>Atlanta, GA</details> |  | Undergrad | [Apply](https://revionics.com/about/careers/open-jobs?gh_jid=7172125) | Jul 20 |
 | Motorola Solutions | Junior Software Engineer, AI Agent Platform | Remote (US) |  | Undergrad | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146?utm_source=aprameyak) | Jul 17 |
 | Notion | Software Engineer - Early Career (AI) | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28?utm_source=aprameyak) | Jul 15 |
 | Figma | Data Scientist, Core Data - PhD (2026) | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> | Spring 2026 | PhD | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004&utm_source=aprameyak) | Jul 13 |
 | IMC Trading | Graduate Machine Learning Researcher - Chicago | Chicago, IL |  | PhD | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101?utm_source=aprameyak) | Jul 13 |
-| Jump Trading | Campus AI Research Engineer (Full-Time) | <details><summary>**2 locations**</summary>Chicago, IL</br>New York, NY</details> |  | Undergrad | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8052313&utm_source=aprameyak) | Jul 11 |
-| ↳ | Campus AI Research Engineer – Deep Learning(Full-Time) | <details><summary>**2 locations**</summary>Chicago, IL</br>New York, NY</details> |  | Undergrad | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8052343&utm_source=aprameyak) | Jul 11 |
+| Jump Trading | Campus AI Research Engineer (Full-Time) | <details><summary>**2 locations**</summary>Chicago, IL</br>New York, NY</details> |  | Undergrad | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8052313) | Jul 11 |
+| ↳ | Campus AI Research Engineer – Deep Learning(Full-Time) | <details><summary>**2 locations**</summary>Chicago, IL</br>New York, NY</details> |  | Undergrad | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8052343) | Jul 11 |
 | NVIDIA | Research Scientist, Efficient Deep Learning - New College Grad | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1?utm_source=aprameyak) | Jul 10 |
-| Roblox | [2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career | San Mateo, CA | Spring 2026 | PhD | [Apply](https://careers.roblox.com/jobs/7350081?gh_jid=7350081&utm_source=aprameyak) | Jul 10 |
-| Roblox | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career | San Mateo, CA | Spring 2026 | PhD | [Apply](https://careers.roblox.com/jobs/8027588?gh_jid=8027588&utm_source=aprameyak) | Jul 9 |
-| Nuro | Software Engineer, AI Platform - New Grad | Mountain View, CA |  | Undergrad | [Apply](https://nuro.ai/careersitem?gh_jid=7351066&utm_source=aprameyak) | Jul 7 |
+| Roblox | [2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career | San Mateo, CA | Spring 2026 | PhD | [Apply](https://careers.roblox.com/jobs/7350081?gh_jid=7350081) | Jul 10 |
+| Roblox | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career | San Mateo, CA | Spring 2026 | PhD | [Apply](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) | Jul 9 |
+| Nuro | Software Engineer, AI Platform - New Grad | Mountain View, CA |  | Undergrad | [Apply](https://nuro.ai/careersitem?gh_jid=7351066) | Jul 7 |
