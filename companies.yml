@@ -1691,10 +1691,6 @@ workday:
   tenant: "freddiemac"
   instance: "wd5"
   board: "External"
-- name: FreeWheel
-  tenant: "comcast"
-  instance: "wd5"
-  board: "comcast_careers"
 - name: Frost
   tenant: "frostbank"
   instance: "wd5"
@@ -4314,8 +4310,6 @@ ashby:
 - name: Remodel Health
   slug: "remodelhealth"
 - name: Replit
-  slug: "replit"
-- name: Retell AI
   slug: "replit"
 - name: Retell AI
   slug: "retell-ai"

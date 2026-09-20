@@ -29,7 +29,7 @@ jobs:
           python-version: '3.11'
       - run: pip install requests pyyaml anthropic
       - name: Scrape Greenhouse
-        timeout-minutes: 50
+        timeout-minutes: 55
         env:
           BOARD_GROUP: greenhouse
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -67,7 +67,7 @@ jobs:
           python-version: '3.11'
       - run: pip install requests pyyaml anthropic
       - name: Scrape Ashby
-        timeout-minutes: 30
+        timeout-minutes: 45
         env:
           BOARD_GROUP: ashby
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -104,7 +104,7 @@ jobs:
           python-version: '3.11'
       - run: pip install requests pyyaml anthropic
       - name: Scrape Workday
-        timeout-minutes: 55
+        timeout-minutes: 90
         env:
           BOARD_GROUP: workday
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -179,7 +179,7 @@ jobs:
           python-version: '3.11'
       - run: pip install requests pyyaml anthropic
       - name: Scrape Oracle HCM
-        timeout-minutes: 40
+        timeout-minutes: 55
         env:
           BOARD_GROUP: oracle
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -216,7 +216,7 @@ jobs:
           python-version: '3.11'
       - run: pip install requests pyyaml anthropic
       - name: Scrape Lever / SmartRecruiters / Workable / Recruitee / Pinpoint / iCIMS / Avature
-        timeout-minutes: 40
+        timeout-minutes: 75
         env:
           BOARD_GROUP: other
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -254,13 +254,17 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests pyyaml anthropic
+      - name: Validate companies.yml before scrape apply
+        run: python .github/scripts/validate_companies.py
       - name: Apply pending discoveries to listings.json
         run: python .github/scripts/apply_pending.py
       - name: Commit listings and README
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add listings.json README.md SUMMER.md OFFCYCLE.md NEWGRAD.md .github/data/
+          git add listings.json README.md CLOSED.md \
+            SUMMER.md SUMMER-*.md OFFCYCLE.md OFFCYCLE-*.md NEWGRAD.md NEWGRAD-*.md \
+            .github/data/ || true
           if ! git diff --staged --quiet; then
             git commit -m "add auto-discovered listings and update scraper data"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done

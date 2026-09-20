@@ -5,30 +5,48 @@ on:
     branches: [main]
     paths:
       - 'listings.json'
+      - 'companies.yml'
       - 'SUMMER.md'
+      - 'SUMMER-*.md'
       - 'OFFCYCLE.md'
+      - 'OFFCYCLE-*.md'
       - 'NEWGRAD.md'
+      - 'NEWGRAD-*.md'
+      - 'CLOSED.md'
       - 'README.md'
       - '.github/scripts/validate_listings.py'
+      - '.github/scripts/validate_companies.py'
       - '.github/scripts/quality_gate.py'
       - '.github/scripts/scrape_jobs.py'
+      - '.github/scripts/apply_pending.py'
+      - '.github/scripts/scope_rules.py'
       - '.github/scripts/claude_board_prompts.py'
       - '.github/scripts/test_infer_listing_type.py'
       - '.github/scripts/test_claude_board_prompts.py'
+      - '.github/workflows/validate.yml'
   pull_request:
     branches: [main]
     paths:
       - 'listings.json'
+      - 'companies.yml'
       - 'SUMMER.md'
+      - 'SUMMER-*.md'
       - 'OFFCYCLE.md'
+      - 'OFFCYCLE-*.md'
       - 'NEWGRAD.md'
+      - 'NEWGRAD-*.md'
+      - 'CLOSED.md'
       - 'README.md'
       - '.github/scripts/validate_listings.py'
+      - '.github/scripts/validate_companies.py'
       - '.github/scripts/quality_gate.py'
       - '.github/scripts/scrape_jobs.py'
+      - '.github/scripts/apply_pending.py'
+      - '.github/scripts/scope_rules.py'
       - '.github/scripts/claude_board_prompts.py'
       - '.github/scripts/test_infer_listing_type.py'
       - '.github/scripts/test_claude_board_prompts.py'
+      - '.github/workflows/validate.yml'
 
 jobs:
   validate:
@@ -40,6 +58,8 @@ jobs:
           python-version: '3.11'
       - name: Install test dependencies
         run: pip install requests pyyaml
+      - name: Validate companies.yml
+        run: python .github/scripts/validate_companies.py
       - name: Validate listings
         run: python .github/scripts/validate_listings.py
       - name: Quality / regression gate

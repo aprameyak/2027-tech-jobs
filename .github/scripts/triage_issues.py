@@ -359,7 +359,14 @@ def main():
         if add_via_script(decision, url):
             subprocess.run(['python3', '.github/scripts/rebuild_readme.py'], check=False)
             subprocess.run(
-                ['git', 'add', 'listings.json', 'SUMMER.md', 'OFFCYCLE.md', 'NEWGRAD.md', 'README.md'],
+                [
+                    'git', 'add',
+                    'listings.json', 'README.md', 'CLOSED.md',
+                    'SUMMER.md', 'OFFCYCLE.md', 'NEWGRAD.md',
+                    'SUMMER-SWE.md', 'SUMMER-PM.md', 'SUMMER-AI-ML.md', 'SUMMER-QUANT.md', 'SUMMER-OTHER.md',
+                    'OFFCYCLE-SWE.md', 'OFFCYCLE-PM.md', 'OFFCYCLE-AI-ML.md', 'OFFCYCLE-QUANT.md', 'OFFCYCLE-OTHER.md',
+                    'NEWGRAD-SWE.md', 'NEWGRAD-PM.md', 'NEWGRAD-AI-ML.md', 'NEWGRAD-QUANT.md', 'NEWGRAD-OTHER.md',
+                ],
                 check=False,
             )
             msg = f"add {decision.get('company','')} — {decision.get('role','')}"[:90]

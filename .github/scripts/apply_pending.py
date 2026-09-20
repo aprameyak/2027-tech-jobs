@@ -84,12 +84,19 @@ def main():
     added = 0
     skipped_invalid = 0
     total_pending = 0
+    consumed: list[Path] = []
 
     for pending_file in pending_files:
         with open(pending_file) as f:
             pending = json.load(f)
+        if not isinstance(pending, list):
+            print(f'  Skip (bad JSON shape): {pending_file.name}')
+            continue
         total_pending += len(pending)
         for entry in pending:
+            if not isinstance(entry, dict):
+                skipped_invalid += 1
+                continue
             violations = validate_entry(entry)
             if violations:
                 skipped_invalid += 1
@@ -104,8 +111,7 @@ def main():
                 print(f'  Added: {entry["company"]} — {entry["role"]}')
             else:
                 print(f'  Skip (dup): {entry["company"]} — {entry["role"]}')
-        pending_file.unlink()
-        print(f'  Removed {pending_file.name}')
+        consumed.append(pending_file)
 
     if skipped_invalid:
         print(f'  Skipped {skipped_invalid} invalid pending entr(y/ies)')
@@ -113,7 +119,8 @@ def main():
     if added > 0:
         tmp = LISTINGS_FILE.with_suffix('.tmp')
         with open(tmp, 'w') as f:
-            json.dump(listings, f, indent=2)
+            json.dump(listings, f, indent=2, ensure_ascii=False)
+            f.write('\n')
         tmp.replace(LISTINGS_FILE)
 
         result = subprocess.run(
@@ -124,11 +131,37 @@ def main():
             print(f'rebuild_readme.py failed: {result.stderr[:300]}')
             sys.exit(1)
 
+        gate = subprocess.run(
+            ['python3', '.github/scripts/validate_listings.py'],
+            capture_output=True, text=True,
+        )
+        print(gate.stdout[-500:] if gate.stdout else '')
+        if gate.returncode != 0:
+            print(f'validate_listings.py failed after apply:\n{gate.stderr[:400]}')
+            sys.exit(1)
+
+        qg = subprocess.run(
+            ['python3', '.github/scripts/quality_gate.py'],
+            capture_output=True, text=True,
+        )
+        print(qg.stdout[-800:] if qg.stdout else '')
+        if qg.returncode != 0:
+            print(f'quality_gate.py failed after apply — not clearing pending')
+            sys.exit(1)
+
         print(f'README rebuilt — {added} listing(s) added')
     elif total_pending == 0:
         print('No pending entries to apply — listings.json unchanged')
     else:
         print('All pending entries were duplicates or invalid — listings.json unchanged')
+
+    # Only clear pending after a successful apply path (or pure no-op/dup clear).
+    for pending_file in consumed:
+        try:
+            pending_file.unlink()
+            print(f'  Removed {pending_file.name}')
+        except FileNotFoundError:
+            pass
 
 if __name__ == '__main__':
     main()

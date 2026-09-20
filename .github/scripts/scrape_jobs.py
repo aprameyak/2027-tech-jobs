@@ -52,14 +52,20 @@ TITLE_PROMPT_MAX_LEN = 120
 _claude_client = None
 _claude_usage_dirty = False
 
-MAX_WORKDAY_PAGES_PER_TERM = 15
-MAX_ORACLE_PAGES_PER_TERM = 20
+MAX_WORKDAY_PAGES_PER_TERM = 10
+MAX_ORACLE_PAGES_PER_TERM = 12
 ORACLE_PAGE_SIZE = 50
 ORACLE_SEARCH_TERMS = (
     '2027', 'Intern', 'Internship', 'Campus', 'Graduate', 'New Grad',
     'Analyst Program', 'co-op', 'university', 'entry level', 'early career',
 )
 SCRAPER_MAX_WORKERS = 12
+# Compact campus keyword set for iCIMS throughput (entry lists are capped to this).
+ICIMS_CAMPUS_KEYWORDS = [
+    '2027', 'Intern', 'Internship', 'New Grad', 'Campus',
+    'Graduate', 'Student', 'Early Career', 'co-op', 'Associate',
+]
+MAX_ICIMS_PAGES = 5
 
 _title_cache = None
 _confidence_cache = {}
@@ -1797,14 +1803,20 @@ def _icims_infer_location(card_html, host):
 
 
 def scrape_icims(company, host, keywords=None):
-                                                                       
-    keywords = keywords or ['2027', 'intern', 'new grad', 'early career', 'associate']
+    raw = list(keywords) if keywords else list(ICIMS_CAMPUS_KEYWORDS)
+    # Prefer compact campus set for hourly-run throughput; keep order, cap size.
+    keywords = []
+    for kw in list(ICIMS_CAMPUS_KEYWORDS) + [str(k) for k in raw]:
+        if kw and kw not in keywords:
+            keywords.append(kw)
+        if len(keywords) >= len(ICIMS_CAMPUS_KEYWORDS):
+            break
     jobs = []
     seen_ids = set()
     base = f'https://{host}'
 
     for keyword in keywords:
-        for page in range(0, 8):
+        for page in range(0, MAX_ICIMS_PAGES):
             params = {
                 'ss': '1',
                 'searchKeyword': keyword,
@@ -2345,6 +2357,7 @@ def main():
 
     candidate_jobs = []
     print(f'Scraping {len(scrape_tasks)} sources concurrently (max {SCRAPER_MAX_WORKERS} workers)...')
+    scrape_ok = scrape_fail = scrape_empty = 0
 
     with ThreadPoolExecutor(max_workers=SCRAPER_MAX_WORKERS) as executor:
         futures = {}
@@ -2363,13 +2376,23 @@ def main():
 
         for future in as_completed(futures):
             try:
-                for job in future.result():
+                result = future.result()
+                if not result:
+                    scrape_empty += 1
+                else:
+                    scrape_ok += 1
+                for job in result:
                     if job['id'] not in seen:
                         candidate_jobs.append(job)
             except Exception as e:
+                scrape_fail += 1
                 print(f'  [task] Future error: {e}')
 
-    print(f'\nPass 1 complete: {len(candidate_jobs)} candidate job(s) to classify')
+    print(
+        f'\nPass 1 complete: {len(candidate_jobs)} candidate job(s) to classify '
+        f'(sources ok={scrape_ok} empty={scrape_empty} fail={scrape_fail} '
+        f'total={len(scrape_tasks)})'
+    )
 
     if candidate_jobs:
         all_titles = list(dict.fromkeys(j['title'] for j in candidate_jobs))
