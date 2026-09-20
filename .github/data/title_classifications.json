@@ -365,8 +365,9 @@
   },
   "senior product security engineer": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "senior software engineer, backend (continuous delivery)": {
@@ -1804,8 +1805,9 @@
   },
   "software engineering manager": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "sr. order management analyst": {
@@ -1844,8 +1846,9 @@
   },
   "technical support engineer": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "technical support engineer (statsig)": {
@@ -5803,8 +5806,9 @@
   },
   "senior director, software engineering": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "senior dsp engineer": {
@@ -6441,8 +6445,9 @@
   },
   "senior manager, software engineering": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "senior manager, talent acquisition, manufacturing": {
@@ -19170,8 +19175,9 @@
   },
   "network engineer ii": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "order operations analyst": {
@@ -19931,8 +19937,9 @@
   },
   "technical support engineer 2": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "technical support engineer 2 (mexico city)": {
@@ -20974,8 +20981,9 @@
   },
   "manager, data science": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "manager, digital ordering - strategy & operations": {
@@ -22189,8 +22197,9 @@
   },
   "software engineer ii": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "staff accountant": {
@@ -29192,8 +29201,9 @@
   },
   "sr. product manager": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "sr solutions engineer - japan": {
@@ -31874,8 +31884,9 @@
   },
   "manager, consulting services": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "manager ii - it  automation engineer": {
@@ -31982,8 +31993,9 @@
   },
   "principal product manager": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "principal product manager - maintenance": {
@@ -39291,8 +39303,9 @@
   },
   "technical operations manager": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "software engineering technical leader \u2013 identity engineering (hybrid)": {
