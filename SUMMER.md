@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4810 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4811 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -1192,6 +1192,7 @@
 | Verkada | Technical Support Engineering Intern - Summer 2027 | San Mateo, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5233011007?utm_source=aprameyak) | Sep 20 |
 | Vertiv | Software Engineer Intern | Delaware, OH | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777) | Sep 20 |
 | VetsEZ | Full Stack Developer Intern | Remote | Undergrad | [Apply](https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity) | Sep 20 |
+| VIAVI | Rotational Program Development Engineer-Generative AI | Colorado Springs, CO USA | Undergrad | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Colorado-Springs-CO-USA/Rotational-Program-Development-Engineer_260004989-1?utm_source=aprameyak) | Sep 20 |
 | Viavi Solutions | Software Development Data Analytics Intern | Remote | Undergrad | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260004919-1?utm_source=aprameyak) | Sep 20 |
 | Virtu Financial | Frontend & User Experience Intern | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002?utm_source=aprameyak) | Sep 20 |
 | ↳ | 2027 Internship - Quantitative Researcher - PhD | New York City, NY | PhD | [Apply](https://www.virtu.com) | Sep 20 |

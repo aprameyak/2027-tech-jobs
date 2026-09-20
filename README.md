@@ -13,9 +13,9 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4810)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1365)
-- [🎓 New Grad 2027](./NEWGRAD.md) (2468)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4811)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1373)
+- [🎓 New Grad 2027](./NEWGRAD.md) (2469)
 
 ---
 
@@ -28,7 +28,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4810** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4811** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -113,7 +113,7 @@ Showing newest **75** of **4810** listings · [View full table](./SUMMER.md)
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1365** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1373** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
@@ -170,6 +170,14 @@ Showing newest **75** of **1365** listings · [View full table](./OFFCYCLE.md)
 | ↳ | Technology Solutions Co-op, Personal Insurance - Fall 2026 Co-op/Intern | Waterloo, ONT, Canada | Co-op | Undergrad | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9286) | Sep 20 |
 | Emerson Electric | Cybersecurity Engineering Co-op (Jan27-May27) | Shakopee, MN | Co-op | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009321) | Sep 20 |
 | Entegris | Cybersecurity Engineer Co-Op | Chaska, MN | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1?utm_source=aprameyak) | Sep 20 |
+| ↳ | Reliability Engineer Co-Op | Bedford, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Bedford-MA/Reliability-Engineer-Co-Op_REQ-14399?utm_source=aprameyak) | Sep 20 |
+| ↳ | Manufacturing Systems and Planning Co-Op | Rockrimmon, Colorado Springs, CO | Co-op | Masters | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Manufacturing-Systems-and-Planning-Co-Op_REQ-14410?utm_source=aprameyak) | Sep 20 |
+| ↳ | Digital Operations Co-Op | Billerica, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Billerica-MA/Digital-Operations-Co-Op_REQ-14395?utm_source=aprameyak) | Sep 20 |
+| ↳ | Microanalysis Scientist Co-Op | Billerica, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Billerica-MA/Microanalysis-Scientist-Co-Op_REQ-14476?utm_source=aprameyak) | Sep 20 |
+| ↳ | Research and Development Engineer/Scientist Co-Op | Danbury, CT | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Danbury-CT/Research-and-Development-Engineer-Scientist-Co-Op_REQ-14430?utm_source=aprameyak) | Sep 20 |
+| ↳ | R&D Analytical Chemist Co-Op | Danbury, CT | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Danbury-CT/R-D-Analytical-Chemist-Co-Op_REQ-14471?utm_source=aprameyak) | Sep 20 |
+| ↳ | Analytical scientist Co-Op | Billerica, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Billerica-MA/Analytical-scientist-Co-Op_REQ-14500-1?utm_source=aprameyak) | Sep 20 |
+| ↳ | Technical Training Co-op | Rockrimmon, Colorado Springs, CO | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Technical-Training-Co-op_REQ-14467?utm_source=aprameyak) | Sep 20 |
 | Ernst & Young | Intern/Co-op - Assurance Technology Risk - Gestion des risques technologiques | Edmonton, AB | Co-op | Undergrad | [Apply](https://eyglobal.yello.co/jobs/Z5l1IcAarbkthLOcBeIpRQ?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Sep 20 |
 | Excellus BCBS | College Intern - AI Engineering - Fall 2026 - Multiple Openings | Buffalo, NY | Fall 2026 | Undergrad | [Apply](https://careers.excellusbcbs.com/us/en) | Sep 20 |
 | F5 | Software Development Engineer I - Former Summer 2026 Interns | Seattle, WA | Summer 2026 | Undergrad | [Apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-I--Former-Summer-2026-Interns-_RP1038795?utm_source=aprameyak) | Sep 20 |
@@ -186,19 +194,11 @@ Showing newest **75** of **1365** listings · [View full table](./OFFCYCLE.md)
 | General Dynamics Mission Systems | Co-op Winter 2027 - Software Engineering (TacCIS Solutions) -12 Months | Calgary, AB | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000149415235) | Sep 20 |
 | ↳ | Co-op Winter 2027  DevOps Engineering - 8-16 Months | Ottawa, ON | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000149071040) | Sep 20 |
 | ↳ | Co-op Winter 2027 - Software Engineering - 8 Months | Ottawa, ON | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147561809) | Sep 20 |
-| ↳ | Co-op Winter 2027 - Software Engineering Developer - 16-Months | Calgary, AB | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147556214) | Sep 20 |
-| ↳ | Co-op Winter 2027 - Software Developer - 8 Months | Ottawa, ON | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147554134) | Sep 20 |
-| ↳ | Infrastructure Engineer Co-op (Fall 2026 or Spring 2027) | Pittsfield, MA | Co-op | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/74607/infrastructure-engineer-co-op-%28fall-2026-or-spring-2027%29/job) | Sep 20 |
-| Hearst | 2027 Hearst AI Newsroom Developer Fellowship Program | San Francisco, CA | Co-op | Undergrad | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027417) | Sep 20 |
-| ↳ | Marty Faubell Broadcasting Technology Fellowship | United States | Co-op | Undergrad | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025908) | Sep 20 |
-| Hypertherm Associates | Software Engineering - CAM - Spring/Summer Internship or Co-Op | Lockport, NY | Co-op | Undergrad | [Apply](https://hypertherm.wd503.myworkdayjobs.com/en-US/hypertherm-careers/job/Lockport-NY/Software-Engineering---CAM---Spring-Summer-Internship-or-Co-Op_R4038?utm_source=aprameyak) | Sep 20 |
-| Innovative Systems | Intern/Co-op-Spring 2027 - Software Engineering | Pittsburgh, PA | Spring 2027 | Undergrad | [Apply](http://career.innovativesystems.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering) | Sep 20 |
-| Intact | Security Analyst– 4-month Internship/Coop (Winter 2027) | Toronto, Ontario, CAN | Co-op | Undergrad | [Apply](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Security-Analyst--4-month-Internship-Coop--Winter-2027--_R155332?utm_source=aprameyak) | Sep 20 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **2468** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **2469** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 

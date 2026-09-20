@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1365 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1373 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -57,6 +57,14 @@
 | ↳ | Technology Solutions Co-op, Personal Insurance - Fall 2026 Co-op/Intern | Waterloo, ONT, Canada | Co-op | Undergrad | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9286) | Sep 20 |
 | Emerson Electric | Cybersecurity Engineering Co-op (Jan27-May27) | Shakopee, MN | Co-op | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009321) | Sep 20 |
 | Entegris | Cybersecurity Engineer Co-Op | Chaska, MN | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1?utm_source=aprameyak) | Sep 20 |
+| ↳ | Reliability Engineer Co-Op | Bedford, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Bedford-MA/Reliability-Engineer-Co-Op_REQ-14399?utm_source=aprameyak) | Sep 20 |
+| ↳ | Manufacturing Systems and Planning Co-Op | Rockrimmon, Colorado Springs, CO | Co-op | Masters | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Manufacturing-Systems-and-Planning-Co-Op_REQ-14410?utm_source=aprameyak) | Sep 20 |
+| ↳ | Digital Operations Co-Op | Billerica, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Billerica-MA/Digital-Operations-Co-Op_REQ-14395?utm_source=aprameyak) | Sep 20 |
+| ↳ | Microanalysis Scientist Co-Op | Billerica, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Billerica-MA/Microanalysis-Scientist-Co-Op_REQ-14476?utm_source=aprameyak) | Sep 20 |
+| ↳ | Research and Development Engineer/Scientist Co-Op | Danbury, CT | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Danbury-CT/Research-and-Development-Engineer-Scientist-Co-Op_REQ-14430?utm_source=aprameyak) | Sep 20 |
+| ↳ | R&D Analytical Chemist Co-Op | Danbury, CT | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Danbury-CT/R-D-Analytical-Chemist-Co-Op_REQ-14471?utm_source=aprameyak) | Sep 20 |
+| ↳ | Analytical scientist Co-Op | Billerica, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Billerica-MA/Analytical-scientist-Co-Op_REQ-14500-1?utm_source=aprameyak) | Sep 20 |
+| ↳ | Technical Training Co-op | Rockrimmon, Colorado Springs, CO | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Technical-Training-Co-op_REQ-14467?utm_source=aprameyak) | Sep 20 |
 | Ernst & Young | Intern/Co-op - Assurance Technology Risk - Gestion des risques technologiques | Edmonton, AB | Co-op | Undergrad | [Apply](https://eyglobal.yello.co/jobs/Z5l1IcAarbkthLOcBeIpRQ?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Sep 20 |
 | Excellus BCBS | College Intern - AI Engineering - Fall 2026 - Multiple Openings | Buffalo, NY | Fall 2026 | Undergrad | [Apply](https://careers.excellusbcbs.com/us/en) | Sep 20 |
 | F5 | Software Development Engineer I - Former Summer 2026 Interns | Seattle, WA | Summer 2026 | Undergrad | [Apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-I--Former-Summer-2026-Interns-_RP1038795?utm_source=aprameyak) | Sep 20 |

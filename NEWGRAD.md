@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-2468 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2469 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -177,6 +177,7 @@
 | Trulioo | Junior Software Engineer | San Diego, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e/application?utm_source=aprameyak) | Sep 20 |
 | Unity Technologies | Software Engineer 🛂 | Remote |  | Undergrad | [Apply](https://unity.com/careers/positions/7435121) | Sep 20 |
 | Veolia | Junior Manufacturing Software Engineer | Boulder, CO |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000148551520) | Sep 20 |
+| VIAVI | Early Careers Rotational Program Development Engineer - Software Engineering/AI Track | Morrisville, NC USA |  | Undergrad | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1?utm_source=aprameyak) | Sep 20 |
 | Visa | New Grad 2026: Site Reliability Engineer 🛂 | Ashburn, VA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/visa/744000080909305-site-reliability-engineer-new-college-grad-2026) | Sep 20 |
 | ↳ | New Grad 2026: Software Engineer 🛂 | Highlands Ranch, CO |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/visa/744000080906828-software-engineer-new-college-grad-2026) | Sep 20 |
 | ↳ | New Grad 2026: Associate Product Manager (APM) 🛂 | Foster City, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/visa/744000080643295-associate-product-manager-apm-new-college-graduate-rotational-program-2026) | Sep 20 |
