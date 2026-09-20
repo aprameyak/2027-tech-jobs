@@ -13909,6 +13909,7 @@
     "t": true,
     "c": "stale",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "staff data engineer": {
@@ -47613,6 +47614,7 @@
     "t": true,
     "c": "stale",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "financial crime risk senior manager, b2b": {
@@ -61773,6 +61775,7 @@
     "t": true,
     "c": "stale",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "senior accounts receivable specialist": {
@@ -76150,8 +76153,8 @@
   },
   "software engineering co-op": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "o"
   },
