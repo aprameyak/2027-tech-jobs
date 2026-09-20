@@ -13,40 +13,22 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-### Browse 5010 open roles
-
-- [☀️ Summer 2027 Internships](./SUMMER.md) (2989 open / 4782 total)
-  - [💻 Software Engineering](./SUMMER-SWE.md) (1194)
-  - [📱 Product Management](./SUMMER-PM.md) (109)
-  - [🤖 Data Science, AI & Machine Learning](./SUMMER-AI-ML.md) (917)
-  - [📈 Quantitative Finance](./SUMMER-QUANT.md) (186)
-  - [🧩 Other Tech](./SUMMER-OTHER.md) (583)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (986 open / 1357 total)
-  - [💻 Software Engineering](./OFFCYCLE-SWE.md) (399)
-  - [📱 Product Management](./OFFCYCLE-PM.md) (39)
-  - [🤖 Data Science, AI & Machine Learning](./OFFCYCLE-AI-ML.md) (349)
-  - [📈 Quantitative Finance](./OFFCYCLE-QUANT.md) (18)
-  - [🧩 Other Tech](./OFFCYCLE-OTHER.md) (181)
-- [🎓 New Grad 2027](./NEWGRAD.md) (1035 open / 2396 total)
-  - [💻 Software Engineering](./NEWGRAD-SWE.md) (697)
-  - [📱 Product Management](./NEWGRAD-PM.md) (28)
-  - [🤖 Data Science, AI & Machine Learning](./NEWGRAD-AI-ML.md) (224)
-  - [📈 Quantitative Finance](./NEWGRAD-QUANT.md) (50)
-  - [🧩 Other Tech](./NEWGRAD-OTHER.md) (36)
-- [🔒 Closed listings](./CLOSED.md) (3525)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4782)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1357)
+- [🎓 New Grad 2027](./NEWGRAD.md) (2396)
 
 ---
 
 ## Legend
  - 🛂 - Does NOT offer Sponsorship
  - 🇺🇸 - Requires U.S. Citizenship
- - 🔒 - Application is closed ([full closed list](./CLOSED.md))
+ - 🔒 - Application is closed
 
 ---
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **2989** open listings (4782 total incl. closed) · [View full open table](./SUMMER.md)
+Showing newest **75** of **4782** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -131,7 +113,7 @@ Showing newest **75** of **2989** open listings (4782 total incl. closed) · [Vi
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **986** open listings (1357 total incl. closed) · [View full open table](./OFFCYCLE.md)
+Showing newest **75** of **1357** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
@@ -216,7 +198,7 @@ Showing newest **75** of **986** open listings (1357 total incl. closed) · [Vie
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **1035** open listings (2396 total incl. closed) · [View full open table](./NEWGRAD.md)
+Showing newest **75** of **2396** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 

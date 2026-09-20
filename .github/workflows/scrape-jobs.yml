@@ -260,9 +260,7 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add listings.json README.md CLOSED.md \
-            SUMMER.md SUMMER-*.md OFFCYCLE.md OFFCYCLE-*.md NEWGRAD.md NEWGRAD-*.md \
-            .github/data/ || true
+          git add listings.json README.md SUMMER.md OFFCYCLE.md NEWGRAD.md .github/data/ || true
           if ! git diff --staged --quiet; then
             git commit -m "add auto-discovered listings and update scraper data"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done

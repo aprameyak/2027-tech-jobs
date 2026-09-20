@@ -5,14 +5,9 @@ on:
     branches: [main]
     paths:
       - 'listings.json'
-      - 'companies.yml'
       - 'SUMMER.md'
-      - 'SUMMER-*.md'
       - 'OFFCYCLE.md'
-      - 'OFFCYCLE-*.md'
       - 'NEWGRAD.md'
-      - 'NEWGRAD-*.md'
-      - 'CLOSED.md'
       - 'README.md'
       - '.github/scripts/validate_listings.py'
       - '.github/scripts/quality_gate.py'
@@ -27,14 +22,9 @@ on:
     branches: [main]
     paths:
       - 'listings.json'
-      - 'companies.yml'
       - 'SUMMER.md'
-      - 'SUMMER-*.md'
       - 'OFFCYCLE.md'
-      - 'OFFCYCLE-*.md'
       - 'NEWGRAD.md'
-      - 'NEWGRAD-*.md'
-      - 'CLOSED.md'
       - 'README.md'
       - '.github/scripts/validate_listings.py'
       - '.github/scripts/quality_gate.py'

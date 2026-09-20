@@ -8,7 +8,6 @@ from pathlib import Path
 
 LISTINGS_FILE = Path('listings.json')
 README_FILE = Path('README.md')
-CLOSED_FILE = Path('CLOSED.md')
 
 TABLE_FILES = {
     'summer': Path('SUMMER.md'),
@@ -37,9 +36,8 @@ TABLE_HEADERS = {
     ),
 }
 
-# Newest rows shown in README per board. Full *open* tables live in
-# SUMMER/OFFCYCLE/NEWGRAD; closed rows live in CLOSED.md — keeps the repo
-# homepage under GitHub's ~500KB README render limit (same pattern as peer lists).
+# Newest rows shown in README per board. Full tables live in SUMMER/OFFCYCLE/NEWGRAD
+# so the repo homepage stays under GitHub's ~500KB README render limit.
 README_PREVIEW_ROWS = 75
 
 TOC_HREFS = {
@@ -47,78 +45,6 @@ TOC_HREFS = {
     'offcycle': './OFFCYCLE.md',
     'newgrad': './NEWGRAD.md',
 }
-
-CATEGORY_FILES = {
-    'summer': {
-        'swe': Path('SUMMER-SWE.md'),
-        'pm': Path('SUMMER-PM.md'),
-        'ai_ml': Path('SUMMER-AI-ML.md'),
-        'quant': Path('SUMMER-QUANT.md'),
-        'other': Path('SUMMER-OTHER.md'),
-    },
-    'offcycle': {
-        'swe': Path('OFFCYCLE-SWE.md'),
-        'pm': Path('OFFCYCLE-PM.md'),
-        'ai_ml': Path('OFFCYCLE-AI-ML.md'),
-        'quant': Path('OFFCYCLE-QUANT.md'),
-        'other': Path('OFFCYCLE-OTHER.md'),
-    },
-    'newgrad': {
-        'swe': Path('NEWGRAD-SWE.md'),
-        'pm': Path('NEWGRAD-PM.md'),
-        'ai_ml': Path('NEWGRAD-AI-ML.md'),
-        'quant': Path('NEWGRAD-QUANT.md'),
-        'other': Path('NEWGRAD-OTHER.md'),
-    },
-}
-
-
-CATEGORIES = (
-    ('swe', '💻 Software Engineering'),
-    ('pm', '📱 Product Management'),
-    ('ai_ml', '🤖 Data Science, AI & Machine Learning'),
-    ('quant', '📈 Quantitative Finance'),
-    ('other', '🧩 Other Tech'),
-)
-
-CATEGORY_TITLES = {
-    'swe': 'Software Engineering',
-    'pm': 'Product Management',
-    'ai_ml': 'Data Science, AI & Machine Learning',
-    'quant': 'Quantitative Finance',
-    'other': 'Other Tech',
-}
-
-def classify_category(role):
-    t = (role or '').lower()
-    if re.search(
-        r'\bquant(?:itative)?\b|\btrading\b|\btrader\b|market maker|'
-        r'prop(?:rietary)? trad',
-        t,
-    ):
-        return 'quant'
-    if re.search(
-        r'product manager|product management|\bapm\b|associate product|'
-        r'product owner|technical product',
-        t,
-    ):
-        return 'pm'
-    if re.search(
-        r'machine learning|\bmle\b|\bai\b|artificial intelligence|gen\s*ai|genai|'
-        r'data scien|data engineer|data analyst|data analytics|deep learning|'
-        r'\bllm\b|applied science|research scientist|research engineer',
-        t,
-    ):
-        return 'ai_ml'
-    if re.search(
-        r'\bsoftware\b|\bdeveloper\b|\bsde\b|\bswe\b|\bdevops\b|\bsre\b|'
-        r'site reliability|backend|frontend|full-?stack|platform engineer|'
-        r'cloud engineer|security engineer|cyber|programmer|information technology|'
-        r'\bit\b engineer|solutions engineer|technology analyst',
-        t,
-    ):
-        return 'swe'
-    return 'other'
 
 
 def _company_sort_key(name):
@@ -214,71 +140,16 @@ def build_table(entries):
     return rows
 
 
-def build_categorized_markdown(marker, entries):
-    """Hub file + per-category files so each page stays under GitHub's render limit."""
-    title = TABLE_TITLES[marker]
-    header = TABLE_HEADERS[marker]
-    open_entries = [e for e in entries if e.get('url')]
-    closed_n = len(entries) - len(open_entries)
-
-    by_cat = {k: [] for k, _ in CATEGORIES}
-    for e in open_entries:
-        by_cat[classify_category(e.get('role', ''))].append(e)
-
-    cat_counts = {k: len(by_cat[k]) for k, _ in CATEGORIES}
-
-    # Per-category full tables
-    for key, label in CATEGORIES:
-        cat_entries = by_cat[key]
-        rows = build_table(cat_entries)
-        body = '\n'.join(rows) + '\n' if rows else ''
-        path = CATEGORY_FILES[marker][key]
-        path.write_text(
-            f'# {title} — {CATEGORY_TITLES[key]}\n\n'
-            f'**{len(cat_entries)}** open listing(s). '
-            f'Board hub: [`{TABLE_FILES[marker].name}`](./{TABLE_FILES[marker].name}). '
-            f'Back to [`README`](./README.md).\n\n'
-            f'{header}'
-            f'{body}',
-            encoding='utf-8',
-        )
-
-    # Hub with category links only (always renders fully)
-    parts = [
-        f'# {title}\n\n',
-        f'**{len(open_entries)}** open listing(s)',
-    ]
-    if closed_n:
-        parts.append(f' · **{closed_n}** closed in [`CLOSED.md`](./CLOSED.md)')
-    parts.append(
-        '. Canonical data: [`listings.json`](./listings.json). '
-        'Back to [`README`](./README.md).\n\n'
-        '### Browse by category\n\n'
-    )
-    for key, label in CATEGORIES:
-        href = f'./{CATEGORY_FILES[marker][key].name}'
-        parts.append(f'- [{label}]({href}) ({cat_counts[key]})\n')
-    parts.append(
-        '\n> Full role tables are split by category so GitHub can render every page. '
-        'Closed applications are listed separately in [`CLOSED.md`](./CLOSED.md).\n'
-    )
-
-    return ''.join(parts), len(open_entries), cat_counts
-
-
-def format_table_block(marker, rows, open_n, total_n, href, preview=False):
+def format_table_block(marker, rows, count, href, preview=False):
     header = TABLE_HEADERS[marker]
     body = '\n'.join(rows) + '\n' if rows else ''
-    if preview and open_n > len(rows):
+    if preview and count > len(rows):
         summary = (
-            f'Showing newest **{len(rows)}** of **{open_n}** open listings '
-            f'({total_n} total incl. closed) · [View full open table]({href})\n\n'
+            f'Showing newest **{len(rows)}** of **{count}** listings · '
+            f'[View full table]({href})\n\n'
         )
     else:
-        summary = (
-            f'**{open_n}** open · **{total_n - open_n}** closed · '
-            f'[View full open table]({href})\n\n'
-        )
+        summary = f'{count} listing(s) · [View full table]({href})\n\n'
     return (
         f'## {TABLE_TITLES[marker]}\n\n'
         f'{summary}'
@@ -289,45 +160,23 @@ def format_table_block(marker, rows, open_n, total_n, href, preview=False):
     )
 
 
-def write_closed_file(closed_entries):
-    if not closed_entries:
-        CLOSED_FILE.write_text(
-            '# Closed Listings\n\nNo closed listings.\n\n'
-            'Back to [`README`](./README.md).\n',
-            encoding='utf-8',
-        )
-        return
-
-    by_type = {'summer': [], 'offcycle': [], 'newgrad': []}
-    for e in closed_entries:
-        by_type.setdefault(e.get('type', 'summer'), []).append(e)
-
-    parts = [
-        '# Closed Listings\n\n',
-        f'**{len(closed_entries)}** closed listing(s) (🔒). '
-        'Kept for history — roles existed but are no longer accepting applications. '
-        'Back to [`README`](./README.md).\n\n',
-    ]
-    for marker in ('summer', 'offcycle', 'newgrad'):
-        entries = by_type.get(marker, [])
-        rows = build_table(entries)
-        body = '\n'.join(rows) + '\n' if rows else ''
-        parts.append(
-            f'## {TABLE_TITLES[marker]}\n\n'
-            f'{len(entries)} closed\n\n'
-            f'{TABLE_HEADERS[marker]}'
-            f'{body}\n'
-        )
-    CLOSED_FILE.write_text(''.join(parts), encoding='utf-8')
+def write_table_file(marker, rows, count):
+    title = TABLE_TITLES[marker]
+    header = TABLE_HEADERS[marker]
+    body = '\n'.join(rows) + '\n' if rows else ''
+    content = (
+        f'# {title}\n\n'
+        f'{count} listing(s). Canonical data lives in [`listings.json`](./listings.json). '
+        f'Back to [`README`](./README.md).\n\n'
+        f'<!-- TABLE_START {marker} -->\n\n'
+        f'{header}'
+        f'{body}'
+        f'<!-- TABLE_END {marker} -->\n'
+    )
+    TABLE_FILES[marker].write_text(content, encoding='utf-8')
 
 
-def update_readme(
-    summer_rows, offcycle_rows, newgrad_rows,
-    summer_open, offcycle_open, newgrad_open,
-    summer_n, offcycle_n, newgrad_n,
-    summer_cats, offcycle_cats, newgrad_cats,
-    closed_n,
-):
+def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n, newgrad_n):
     if not README_FILE.exists():
         print('ERROR: README.md not found')
         sys.exit(1)
@@ -344,28 +193,11 @@ def update_readme(
             flags=re.S,
         )
 
-    open_total = summer_open + offcycle_open + newgrad_open
-
-    def cat_lines(cats, marker):
-        lines = []
-        for key, label in CATEGORIES:
-            href = f'./{CATEGORY_FILES[marker][key].name}'
-            lines.append(f'  - [{label}]({href}) ({cats.get(key, 0)})')
-        return '\n'.join(lines)
-
     toc = (
         f'**Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)\n\n'
-        f'### Browse {open_total} open roles\n\n'
-        f'- [☀️ Summer 2027 Internships]({TOC_HREFS["summer"]}) '
-        f'({summer_open} open / {summer_n} total)\n'
-        f'{cat_lines(summer_cats, "summer")}\n'
-        f'- [🔄 Off-Cycle Internships & Co-ops]({TOC_HREFS["offcycle"]}) '
-        f'({offcycle_open} open / {offcycle_n} total)\n'
-        f'{cat_lines(offcycle_cats, "offcycle")}\n'
-        f'- [🎓 New Grad 2027]({TOC_HREFS["newgrad"]}) '
-        f'({newgrad_open} open / {newgrad_n} total)\n'
-        f'{cat_lines(newgrad_cats, "newgrad")}\n'
-        f'- [🔒 Closed listings](./CLOSED.md) ({closed_n})\n'
+        f'- [☀️ Summer 2027 Internships]({TOC_HREFS["summer"]}) ({summer_n})\n'
+        f'- [🔄 Off-Cycle Internships & Co-ops]({TOC_HREFS["offcycle"]}) ({offcycle_n})\n'
+        f'- [🎓 New Grad 2027]({TOC_HREFS["newgrad"]}) ({newgrad_n})\n'
     )
 
     # Remove prior truncation notes so TOC replace stays idempotent.
@@ -377,14 +209,9 @@ def update_readme(
 
     toc_pattern = re.compile(
         r'(?:\*\*Browse the searchable site:\*\* \[aprameyak-jobs\.vercel\.app\]\([^)]+\)\n\n)?'
-        r'(?:### Browse \d+ open roles\n\n)?'
-        r'- \[☀️ Summer 2027 Internships\]\([^)]+\)[^\n]*\n'
-        r'(?:  - \[[^\]]+\]\([^)]+\)[^\n]*\n)*'
-        r'- \[🔄 Off-Cycle Internships & Co-ops\]\([^)]+\)[^\n]*\n'
-        r'(?:  - \[[^\]]+\]\([^)]+\)[^\n]*\n)*'
-        r'- \[🎓 New Grad 2027\]\([^)]+\)[^\n]*\n'
-        r'(?:  - \[[^\]]+\]\([^)]+\)[^\n]*\n)*'
-        r'(?:- \[🔒 Closed listings\]\([^)]+\)[^\n]*\n)?'
+        r'- \[☀️ Summer 2027 Internships\]\([^)]+\)(?:\s*\(\d+\))?\n'
+        r'- \[🔄 Off-Cycle Internships & Co-ops\]\([^)]+\)(?:\s*\(\d+\))?\n'
+        r'- \[🎓 New Grad 2027\]\([^)]+\)(?:\s*\(\d+\))?\n'
     )
     if toc_pattern.search(content):
         content = toc_pattern.sub(toc, content, count=1)
@@ -392,36 +219,30 @@ def update_readme(
         print('ERROR: Could not find TOC links to update in README.md')
         sys.exit(1)
 
-    # Ensure legend mentions closed file.
-    if 'Closed listings' not in content and '## Legend' in content:
-        content = content.replace(
-            ' - 🔒 - Application is closed\n',
-            ' - 🔒 - Application is closed '
-            '([full closed list](./CLOSED.md))\n',
-            1,
-        )
-
+    # Collapse leftover separators from prior table removals.
     content = re.sub(r'(?:\n---\s*){2,}\n', '\n---\n', content)
     content = re.sub(r'\n{3,}', '\n\n', content)
 
-    # README previews use open rows only (newest first — build_table sorts closed last).
+    # README gets newest-N previews so GitHub can render the full page;
+    # standalone files keep every row.
     tables = (
         format_table_block(
-            'summer', summer_rows[:README_PREVIEW_ROWS], summer_open, summer_n,
+            'summer', summer_rows[:README_PREVIEW_ROWS], summer_n,
             TOC_HREFS['summer'], preview=True,
         )
         + '\n'
         + format_table_block(
-            'offcycle', offcycle_rows[:README_PREVIEW_ROWS], offcycle_open, offcycle_n,
+            'offcycle', offcycle_rows[:README_PREVIEW_ROWS], offcycle_n,
             TOC_HREFS['offcycle'], preview=True,
         )
         + '\n'
         + format_table_block(
-            'newgrad', newgrad_rows[:README_PREVIEW_ROWS], newgrad_open, newgrad_n,
+            'newgrad', newgrad_rows[:README_PREVIEW_ROWS], newgrad_n,
             TOC_HREFS['newgrad'], preview=True,
         )
     )
 
+    # Insert tables after Legend, before Disclaimer (or License).
     disclaimer = re.search(r'\n## Disclaimer\n', content)
     license_h = re.search(r'\n## License\n', content)
     if disclaimer:
@@ -449,40 +270,25 @@ def main():
     summer = [e for e in listings if e['type'] == 'summer']
     offcycle = [e for e in listings if e['type'] == 'offcycle']
     newgrad = [e for e in listings if e['type'] == 'newgrad']
-    closed = [e for e in listings if not e.get('url')]
 
     print(
         f'Loaded {len(listings)} listings: '
-        f'{len(summer)} summer, {len(offcycle)} offcycle, {len(newgrad)} newgrad '
-        f'({len(closed)} closed)'
+        f'{len(summer)} summer, {len(offcycle)} offcycle, {len(newgrad)} newgrad'
     )
 
-    summer_md, summer_open, summer_cats = build_categorized_markdown('summer', summer)
-    offcycle_md, offcycle_open, offcycle_cats = build_categorized_markdown('offcycle', offcycle)
-    newgrad_md, newgrad_open, newgrad_cats = build_categorized_markdown('newgrad', newgrad)
+    summer_rows = build_table(summer)
+    offcycle_rows = build_table(offcycle)
+    newgrad_rows = build_table(newgrad)
 
-    TABLE_FILES['summer'].write_text(summer_md, encoding='utf-8')
-    TABLE_FILES['offcycle'].write_text(offcycle_md, encoding='utf-8')
-    TABLE_FILES['newgrad'].write_text(newgrad_md, encoding='utf-8')
-    write_closed_file(closed)
-
-    # README previews: open rows only, newest first.
-    summer_rows = build_table([e for e in summer if e.get('url')])
-    offcycle_rows = build_table([e for e in offcycle if e.get('url')])
-    newgrad_rows = build_table([e for e in newgrad if e.get('url')])
-
+    write_table_file('summer', summer_rows, len(summer))
+    write_table_file('offcycle', offcycle_rows, len(offcycle))
+    write_table_file('newgrad', newgrad_rows, len(newgrad))
     update_readme(
         summer_rows, offcycle_rows, newgrad_rows,
-        summer_open, offcycle_open, newgrad_open,
         len(summer), len(offcycle), len(newgrad),
-        summer_cats, offcycle_cats, newgrad_cats,
-        len(closed),
     )
 
-    print(
-        'Rebuilt README.md + category tables in SUMMER/OFFCYCLE/NEWGRAD.md '
-        f'+ CLOSED.md ({len(closed)} closed)'
-    )
+    print('Rebuilt README.md tables plus SUMMER.md, OFFCYCLE.md, and NEWGRAD.md')
 
 
 if __name__ == '__main__':
