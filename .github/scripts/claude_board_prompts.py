@@ -1,20 +1,27 @@
 #!/usr/bin/env python3
-"""Board-specific Claude prompts for campus tech listing classification."""
+"""Board-specific Claude prompts for campus tech listing classification.
+
+Claude decides discipline and board fit dynamically. Do not re-filter its
+decisions with fixed SWE/PM/ML/Quant category lists or CS keyword allowlists.
+Hard rejects (hardware, manufacturing, etc.) still apply in scope_rules before
+titles reach the API.
+"""
 
 # Bump when discipline/board rules change so scrapers re-ask Claude instead of
 # trusting stale cache decisions from older prompts.
-CLASSIFIER_VERSION = 'cs-is-v3'
+CLASSIFIER_VERSION = 'cs-is-v4'
 
-# Shared discipline scope for all three boards.
+# Shared discipline scope for all three boards — judgment task for Claude.
 _DISCIPLINE = (
-    'You decide discipline dynamically — do not require a fixed keyword list. '
-    'IN-SCOPE campus tech (CS / IS / MIS and close neighbors): software/SWE/SDE/'
-    'developer, AI/ML/MLE, data science/eng/analytics, quant research/trading/'
-    'dev/strats, product management (tech), technical/technology consulting, '
-    'devops/SRE/cloud/platform, cybersecurity/info security, IT/MIS/CIS/'
-    'informatics, technology analyst/associate, solutions engineering, '
-    'network/systems admin (IT), UX/HCI when tech-focused, and other clearly '
-    'tech-adjacent campus roles you judge fit this board. '
+    'Decide dynamically whether each title is campus tech (CS / information '
+    'science / information systems and close neighbors). '
+    'IN-SCOPE examples: software/SWE/SDE/developer, AI/ML/MLE, data science/'
+    'data eng/analytics, quant research/trading/dev/strats, product management '
+    '(tech), technical/technology consulting, devops/SRE/cloud/platform, '
+    'cybersecurity/information security, IT/MIS/CIS/informatics, technology '
+    'analyst or associate, solutions engineering, network/systems admin (IT), '
+    'UX/HCI when tech-focused, and other roles you judge as tech-adjacent to '
+    'those. '
     'OUT-OF-SCOPE (always reject): hardware or any title containing "hardware"; '
     'semiconductors/silicon/chip/DRAM/fab/ASIC/FPGA; mechanical/electrical/civil/'
     'chemical/manufacturing/process/aerospace/propulsion/thermal/structures; '
@@ -22,14 +29,15 @@ _DISCIPLINE = (
     'clinical/biologics/pharmacy; sales (non-solutions), marketing/HR/legal/'
     'finance(non-quant), supply chain/logistics; senior/staff/principal/director/'
     'manager unless explicitly new-grad / PhD early career / MotS new grad. '
-    'When unsure but the title looks like campus tech work, ACCEPT (t=1). '
-    'Only reject when clearly out-of-scope or not a campus role.'
+    'You own the gray area — do not require an exact keyword match. '
+    'Be quality-focused: false accepts of non-tech roles are costly; when truly '
+    'unsure and no tech signal exists, reject.'
 )
 
 _FEW_SHOT = (
     'Examples (follow these judgments):\n'
-    '- "Software Engineer Intern" → t=1,a=1 (in-scope SWE campus)\n'
-    '- "Information Systems Intern" → t=1,a=1 (IS/MIS-adjacent)\n'
+    '- "Software Engineer Intern" → t=1,a=1\n'
+    '- "Information Systems Intern" → t=1,a=1\n'
     '- "IT Intern" → t=1,a=1\n'
     '- "Technology Analyst Intern" → t=1,a=1\n'
     '- "Business Technology Intern" → t=1,a=1\n'
@@ -106,20 +114,21 @@ def build_classify_prompt(titles, board='unknown'):
     )
 
     return (
-        f'You classify titles for a US/Canada 2027 tech campus job board.\n'
-        f'Use judgment dynamically; false rejects of real campus tech roles are costly.\n'
+        f'You classify titles for a US/Canada 2027 tech campus job board with '
+        f'three tables only (summer / off-cycle / new-grad) — not role categories.\n'
+        f'Quality matters; use judgment, not a fixed keyword checklist.\n'
         f'{_DISCIPLINE}\n\n'
         f'{_FEW_SHOT}\n'
         f'{_BOARD_RULES[board]}\n\n'
         f'{board_lock}\n'
         f'Return a JSON array of length {n} in the same order. '
         f'Each element: {{"t":0|1,"c":"h"|"m"|"l","a":0|1,"b":"{b_token}"}}.\n'
-        f't=1 if you judge it an in-scope campus tech discipline (decide dynamically). '
+        f't=1 if you judge it in-scope campus tech. '
         f'a=1 only if t=1 AND it belongs on this board '
         f'(campus intern/co-op/new-grad as defined above). '
         f'c=h high confidence, m medium, l low/unsure.\n'
-        f'If unsure but tech-adjacent campus: prefer t=1/a=1. '
-        f'Reject (t=0,a=0,b=x) only when clearly out-of-scope or wrong board.\n'
+        f'When unsure with a real tech signal, prefer t=1; '
+        f'when unsure with no tech signal, prefer t=0/a=0/b=x.\n'
         f'Titles:\n{numbered}\n'
         f'JSON only — no markdown, no commentary.'
     )

@@ -44,9 +44,11 @@ CLAUDE_MODEL = 'claude-haiku-4-5-20251001'
 # Larger batches = fewer API round-trips (prompt amortized). Quality still OK at 60.
 CLAUDE_BATCH_SIZE = int(os.environ.get('CLAUDE_BATCH_SIZE', '60'))
 # Hard caps so credit use stays bounded even after classifier version bumps.
-CLAUDE_MAX_CALLS_PER_RUN = int(os.environ.get('CLAUDE_MAX_CALLS_PER_RUN', '12'))
-CLAUDE_MAX_CALLS_PER_DAY = int(os.environ.get('CLAUDE_MAX_CALLS_PER_DAY', '60'))
-CLAUDE_MAX_TITLES_PER_RUN = int(os.environ.get('CLAUDE_MAX_TITLES_PER_RUN', '360'))
+# Budget sized so gray-area titles actually reach Claude instead of dying on
+# keyword heuristics. Override via env in the workflow if needed.
+CLAUDE_MAX_CALLS_PER_RUN = int(os.environ.get('CLAUDE_MAX_CALLS_PER_RUN', '24'))
+CLAUDE_MAX_CALLS_PER_DAY = int(os.environ.get('CLAUDE_MAX_CALLS_PER_DAY', '120'))
+CLAUDE_MAX_TITLES_PER_RUN = int(os.environ.get('CLAUDE_MAX_TITLES_PER_RUN', '720'))
 TITLE_PROMPT_MAX_LEN = 120
 _claude_client = None
 _claude_usage_dirty = False
