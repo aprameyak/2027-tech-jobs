@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027 — Product Management
 
-**29** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**28** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
@@ -9,7 +9,6 @@
 | Relay | Associate Product Manager - New Graduate Program | Raleigh, NC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/relaypro/jobs/7698008?utm_source=aprameyak) | Sep 20 |
 | Roblox | New Grad 2026: Associate Product Designer 🛂 | San Mateo, CA |  | Undergrad | [Apply](https://careers.roblox.com/jobs/7167345) | Sep 20 |
 | Solace Health | Senior Associate Product Manager (MBA Grad 2027) | Redwood City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/solace/fffa0e2e-e92f-4e00-bd9f-cb39049b7934/application?utm_source=aprameyak) | Sep 20 |
-| ↳ | Associate Product Manager (College Grad 2027) | Redwood City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/solace/ee8ee239-ad20-4c1e-868d-3357799589ea/application?utm_source=aprameyak) | Sep 20 |
 | Visa | New Grad 2026: Associate Product Manager (APM) 🛂 | Foster City, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/visa/744000080643295-associate-product-manager-apm-new-college-graduate-rotational-program-2026) | Sep 20 |
 | ID.me | Associate Product Manager New Grad | Mountain View, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986694003?utm_source=aprameyak) | Sep 19 |
 | Robinhood | Associate Product Manager New Grad | Menlo Park, CANYC | Spring 2027 | Undergrad | [Apply](https://boards.greenhouse.io/robinhood/jobs/8199973?utm_source=aprameyak) | Sep 19 |

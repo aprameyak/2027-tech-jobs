@@ -64,14 +64,27 @@ def normalize_url(url: str) -> str:
     params = {
         k: v for k, v in parse_qs(p.query, keep_blank_values=True).items()
         if k.lower() not in STRIP
+        and k.lower() not in {'mobile', 'needsredirect', 'in_iframe', 'mode', 'iis', 'iisn', 'ss'}
     }
+    path = p.path or ''
+    # Collapse ATS apply-flow suffixes onto the canonical job path.
+    path = re.sub(r'/(?:application|apply)/?$', '', path, flags=re.I)
+    # iCIMS: host/jobs/12345/anything -> host/jobs/12345
+    path = re.sub(r'(?i)(/jobs/\d+)(?:/[^/]+)*$', r'\1', path)
     u = urlunparse(p._replace(
         scheme=(p.scheme or 'https').lower(),
         netloc=p.netloc.lower(),
+        path=path,
         query=urlencode(sorted(params.items()), doseq=True),
         fragment='',
     ))
-    u = re.sub(r'(myworkdayjobs\.com)/en-[A-Z]{2}/[^/]+/job/', r'\1/BOARD/job/', u)
+    # Workday: drop locale + board name; identity is tenant + job path.
+    u = re.sub(
+        r'(myworkdayjobs\.com)/(?:en-[a-z]{2}/)?[^/]+/job/',
+        r'\1/BOARD/job/',
+        u,
+        flags=re.I,
+    )
     return u.lower().rstrip('/')
 
 

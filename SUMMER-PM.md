@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships — Product Management
 
-**113** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**109** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -50,14 +50,12 @@
 | Mastercard | Technical Product Management Intern - Switching Solutions | O'Fallon, MO | Undergrad | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711?utm_source=aprameyak) | Sep 19 |
 | Momentive | Product Management Intern - Specialty Additives | Friendly, WV | Undergrad | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816?utm_source=aprameyak) | Sep 19 |
 | NJM Insurance Group | Insurance Product Management Analyst Intern 3 | Trenton, NJ | Undergrad | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190?utm_source=aprameyak) | Sep 19 |
-| NVIDIA | Product Management MBA Intern - Data Center GPU | Santa Clara, CA | Masters | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1?utm_source=aprameyak) | Sep 19 |
 | PricewaterhouseCoopers (PwC) | Product Management Intern - Commercial Tech & Innovation | Rosemont, IL | Undergrad | [Apply](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Advisory-National---Commercial-Tech---Innovation---Product-Management-Intern---Summer-2027_760527WD?utm_source=aprameyak) | Sep 19 |
 | Publicis Groupe | Product Manager Intern - Class of 2028 | Chicago, IL | Undergrad | [Apply](https://careers.publicisgroupe.com/jobs/172574?icims=1) | Sep 19 |
 | Robert Bosch Venture Capital | Product Management AI-Tool Intern - 8 months/40hrs per week | Farmington Hills, MI | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) | Sep 19 |
 | Shure | Global Product Management Intern - Conferencing | Niles, IL | Undergrad | [Apply](https://careersus-shure.icims.com/jobs/4990/job?mobile=true&needsRedirect=false) | Sep 19 |
 | ↳ | Global Product Management Data Intern | Niles, IL | Undergrad | [Apply](https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false) | Sep 19 |
 | Trimble | Product Management Intern | Westminster, COSan Diego, CA | Undergrad | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1?utm_source=aprameyak) | Sep 19 |
-| U.S. Bank | Product Management Intern | Minneapolis, MN | Undergrad | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766?utm_source=aprameyak) | Sep 19 |
 | Ulta Beauty | Digital Product Management Intern | Bolingbrook, IL | Undergrad | [Apply](https://careers.ulta.com/jobs/423575?icims=1) | Sep 19 |
 | USAA | Digital/Technical Product Manager Intern - Digital and Omnichannel Servicing | San Antonio, TX | Undergrad | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Operations---Digital-Technical-Product-Manager-Intern_R0121101?utm_source=aprameyak) | Sep 19 |
 | ↳ | Product Management Analyst Intern - Property and Casualty | San Antonio, TX | Undergrad | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949?utm_source=aprameyak) | Sep 19 |
@@ -79,7 +77,6 @@
 | Roblox | [Summer 2027] Product Management Intern | San Mateo, CA | Undergrad | [Apply](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | Sep 4 |
 | Blackhawk Network Holdings | Product Management Intern | Coppell, TX | Undergrad | [Apply](https://careers-blackhawknetwork.icims.com/jobs/26868/job?mobile=true&needsRedirect=false) | Sep 1 |
 | ↳ | Product Management Intern | Pleasanton, CA | Undergrad | [Apply](https://careers-blackhawknetwork.icims.com/jobs/26869/job?mobile=true&needsRedirect=false) | Sep 1 |
-| Chamberlain Group | Community Product Management Intern | Oak Brook, IL | Undergrad | [Apply](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309?utm_source=aprameyak) | Sep 1 |
 | Clearwater Analytics | Product Management Intern | New York, NY | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12200?utm_source=aprameyak) | Sep 1 |
 | GE Vernova | Product Management Intern - Controls Lifecare Services | <details><summary>**2 locations**</summary>Longmont, CO</br>Greenville, SC</details> | Undergrad | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-1?utm_source=aprameyak) | Sep 1 |
 | ↳ | Product Management Intern - Controls Lifecare Services | Longmont, CO | Undergrad | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2?utm_source=aprameyak) | Sep 1 |
@@ -88,7 +85,6 @@
 | ↳ | Product Management Intern | Appleton, WI | Undergrad | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746?utm_source=aprameyak) | Sep 1 |
 | Tencent | Tencent Cloud CPaaS Product Management Intern | Palo Alto, CA | Undergrad | [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019?utm_source=aprameyak) | Sep 1 |
 | ↳ | Tencent Cloud CPaaS Product Management Intern | Los Angeles, CA | Undergrad | [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Los-Angeles/Tencent-Cloud-CPaaS-Product-Management-Intern_R108020?utm_source=aprameyak) | Sep 1 |
-| The Home Depot | Product Management Intern | Atlanta, GA | Undergrad | [Apply](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931?utm_source=aprameyak) | Sep 1 |
 | Home Depot | 2027 Summer Internship - Product Management | Atlanta, GA | Undergrad | [Apply](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931?utm_source=aprameyak) | Aug 31 |
 | OpusClip | AI Product Management Intern | Mountain View, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea/application?utm_source=aprameyak) | Aug 30 |
 | Workiva | Spring & Summer 2027 Intern - Product Management | Remote (US) | Undergrad | [Apply](https://workiva.wd503.myworkdayjobs.com/en-US/careers/job/USA---Remote/Spring---Summer-2027-Intern---Product-Management_R12355?utm_source=aprameyak) | Aug 30 |

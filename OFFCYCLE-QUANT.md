@@ -1,11 +1,10 @@
 # 🔄 Off-Cycle Internships & Co-ops — Quantitative Finance
 
-**19** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
+**18** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
 | Ameriprise | Quantitative Investment Research Co-op - Equities | Boston, MA | Co-op | Undergrad | [Apply](https://www.ameriprise.com) | Sep 20 |
-| Fidelity Investments | Co-op - Quantitative Analyst | Boston, MA | Co-op | Undergrad | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Quantitative-Analyst_2135235?utm_source=aprameyak) | Sep 20 |
 | Thomson Reuters | Quantitative Technology Services Co-op, Software Developer | Montreal, QC | Co-op | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676?utm_source=aprameyak) | Sep 20 |
 | Fidelity Investments | Quantitative Analyst Co-op | 4 locationsBoston, MAWestlake, TXSmithfield, RIMerrimack, NH | Co-op | Undergrad | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Quantitative-Analyst_2135235?utm_source=aprameyak) | Sep 19 |
 | Hudson River Trading | Trading and Technology Internship - Witti | NYC | Fall 2026 | Undergrad | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637) | Sep 19 |

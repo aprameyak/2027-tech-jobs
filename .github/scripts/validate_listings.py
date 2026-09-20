@@ -170,22 +170,28 @@ def validate_entry(entry):
     return [(company, role, v) for v in violations]
 
 def validate_duplicate_urls(listings):
-                                   
+    """Reject live listings that share a normalized URL identity."""
+    # Import here to keep validate_listings usable without circular imports at module load.
+    from quality_gate import normalize_url
+
     seen = {}
     violations = []
     for entry in listings:
-        url = entry.get('url', '').strip()
+        url = (entry.get('url') or '').strip()
         if not url:
             continue
-        if url in seen:
-            other = seen[url]
+        key = normalize_url(url)
+        if not key:
+            continue
+        if key in seen:
+            other = seen[key]
             violations.append((
                 entry.get('company', ''),
                 entry.get('role', ''),
                 f'duplicate live URL also used by {other.get("company")}: {other.get("role")!r}',
             ))
         else:
-            seen[url] = entry
+            seen[key] = entry
     return violations
 
 def main():
