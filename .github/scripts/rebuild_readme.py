@@ -36,12 +36,14 @@ TABLE_HEADERS = {
     ),
 }
 
-# Full tables are embedded in README.md (and mirrored in SUMMER/OFFCYCLE/NEWGRAD).
+# Newest rows shown in README per board. Full tables live in SUMMER/OFFCYCLE/NEWGRAD
+# so the repo homepage stays under GitHub's ~500KB README render limit.
+README_PREVIEW_ROWS = 75
 
 TOC_HREFS = {
-    'summer': '#-summer-2027-internships',
-    'offcycle': '#-off-cycle-internships--co-ops',
-    'newgrad': '#-new-grad-2027',
+    'summer': './SUMMER.md',
+    'offcycle': './OFFCYCLE.md',
+    'newgrad': './NEWGRAD.md',
 }
 
 
@@ -138,10 +140,16 @@ def build_table(entries):
     return rows
 
 
-def format_table_block(marker, rows, count, href=None, preview=False):
+def format_table_block(marker, rows, count, href, preview=False):
     header = TABLE_HEADERS[marker]
     body = '\n'.join(rows) + '\n' if rows else ''
-    summary = f'{count} listing(s)\n\n'
+    if preview and count > len(rows):
+        summary = (
+            f'Showing newest **{len(rows)}** of **{count}** listings · '
+            f'[View full table]({href})\n\n'
+        )
+    else:
+        summary = f'{count} listing(s) · [View full table]({href})\n\n'
     return (
         f'## {TABLE_TITLES[marker]}\n\n'
         f'{summary}'
@@ -215,13 +223,23 @@ def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n
     content = re.sub(r'(?:\n---\s*){2,}\n', '\n---\n', content)
     content = re.sub(r'\n{3,}', '\n\n', content)
 
-    # Full tables in README (every listing).
+    # README gets newest-N previews so GitHub can render the full page;
+    # standalone files keep every row.
     tables = (
-        format_table_block('summer', summer_rows, summer_n)
+        format_table_block(
+            'summer', summer_rows[:README_PREVIEW_ROWS], summer_n,
+            TOC_HREFS['summer'], preview=True,
+        )
         + '\n'
-        + format_table_block('offcycle', offcycle_rows, offcycle_n)
+        + format_table_block(
+            'offcycle', offcycle_rows[:README_PREVIEW_ROWS], offcycle_n,
+            TOC_HREFS['offcycle'], preview=True,
+        )
         + '\n'
-        + format_table_block('newgrad', newgrad_rows, newgrad_n)
+        + format_table_block(
+            'newgrad', newgrad_rows[:README_PREVIEW_ROWS], newgrad_n,
+            TOC_HREFS['newgrad'], preview=True,
+        )
     )
 
     # Insert tables after Legend, before Disclaimer (or License).
@@ -270,7 +288,7 @@ def main():
         len(summer), len(offcycle), len(newgrad),
     )
 
-    print('Rebuilt README.md with full tables plus SUMMER.md, OFFCYCLE.md, and NEWGRAD.md')
+    print('Rebuilt README.md tables plus SUMMER.md, OFFCYCLE.md, and NEWGRAD.md')
 
 
 if __name__ == '__main__':
