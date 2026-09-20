@@ -76533,5 +76533,33 @@
     "c": "high",
     "v": "cs-is-v2",
     "a": 0
+  },
+  "nextstay fellow, tech ops & programs": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "senior fellow, energetics safety": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "skillbridge internships": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
+  },
+  "fundamental research fellow, canvas ": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v2",
+    "a": 0,
+    "b": "s"
   }
 }
