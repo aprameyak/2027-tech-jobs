@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027 — Data Science, AI & Machine Learning
 
-**220** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**219** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
@@ -134,7 +134,6 @@
 | Susquehanna International Group | Machine Learning Researcher - PhD | New York, NY |  | PhD | [Apply](https://careers-sig.icims.com/jobs/10788/job) | Aug 9 |
 | Lightfield | Software Engineer, New Grad - Applied AI | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d?utm_source=aprameyak) | Aug 8 |
 | EvenUp | Backend Software Engineer, AI Document Generation (All Levels) | Remote (Canada) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/evenup/575484a3-ed12-478f-a575-8db524f9cc96?utm_source=aprameyak) | Aug 7 |
-| Figma | Data Scientist, Core Data | San Francisco, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004&utm_source=aprameyak) | Aug 7 |
 | Lockheed Martin | AI Platform Engineer | Remote (US) |  | Undergrad | [Apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=792011&partnerid=25037&siteid=5010) | Aug 7 |
 | Meta | Data Engineer – University Grad - Product Analytics | <details><summary>**3 locations**</summary>Menlo Park, CA</br>New York, NY</br>Bellevue, WA</details> |  | Undergrad | [Apply](https://www.metacareers.com/jobs/1468691051611430) | Aug 7 |
 | Quora | Software Engineer New Grad - Machine Learning Platform | Remote (US) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true&utm_source=aprameyak) | Aug 7 |

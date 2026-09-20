@@ -1,10 +1,53 @@
 # ☀️ Summer 2027 Internships — Quantitative Finance
 
-**149** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**191** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Akuna Capital | Quantitative Development & Strategy Intern - Summer 2027 | Chicago, IL | Undergrad | [Apply](https://akunacapital.com) | Sep 20 |
+| American Century Investments | Quantitative Research Intern | Kansas City, MO | Undergrad | [Apply](https://americancentury.wd5.myworkdayjobs.com/en-US/americancenturyinvestments/job/Kansas-City-Missouri/Quantitative-Research-Intern_R0005728?utm_source=aprameyak) | Sep 20 |
+| Barclays | Markets Quantitative Analyst Summer Internship 2027 New York | New York, NY | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Markets-Quantitative-Analyst-Summer-Internship-2027-New-York_JR-0000083408?utm_source=aprameyak) | Sep 20 |
+| Belvedere Trading | Quantitative Trading Intern - Summer 2027 | Chicago, IL | Undergrad | [Apply](http://www.belvederetrading.com) | Sep 20 |
+| BP | Trading, Origination, Analytics, and Operations Intern - Supply, Trading, & Shipping - Trading, Origination, Analytics, & Operations | Houston, TX | Undergrad | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping---Trading--Origination----Analytics--Houston--TX_RQ115366?utm_source=aprameyak) | Sep 20 |
+| Chicago Trading Company | Quant Trading Internship - Summer 2027 | Chicago, IL | Undergrad | [Apply](https://www.chicagotrading.com) | Sep 20 |
+| Citadel | Quantitative Trader: Equity Quantitative Research Intern | New York, NY | Undergrad | [Apply](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) | Sep 20 |
+| Citi | Quantitative Risk Management Summer Analyst Intern | Tampa, FL | Undergrad | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Tampa---USA--2027_26990051?utm_source=aprameyak) | Sep 20 |
+| ↳ | Quantitative Risk Management Summer Analyst Intern - Functions | Irving, TX | Undergrad | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Irving---USA--2027_26990048?utm_source=aprameyak) | Sep 20 |
+| CME Group | Quant Risk Management Intern | New York, NY | Undergrad | [Apply](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quant-Risk-Management-Intern---Year-Round_34278?utm_source=aprameyak) | Sep 20 |
+| Deutsche Bank | Quant Intern - Strategic Analytics | New York, NY | Undergrad | [Apply](https://db.recsolu.com/external/requisitions/o6Cp44Ol7NVnH0MbcO81eA) | Sep 20 |
+| ↳ | Quantitative Trading Intern - Fixed Income & Currencies | New York, NY | Undergrad | [Apply](https://db.recsolu.com/external/requisitions/gtKeu9-kQinTxakrqIWSRg) | Sep 20 |
+| DV Trading | Quantitative Trading Intern - Summer 2027 - DV Equities | New York City, NY | Undergrad | [Apply](https://www.dvtrading.co) | Sep 20 |
+| Five Rings | Summer Intern 2027 - Quantitative Researcher - PhD | New York City, NY | PhD | [Apply](https://fiverings.com/careers/) | Sep 20 |
+| Freddie Mac | Risk Management Graduate Intern - Quantitative Summer 2027 | McLean, VA | Undergrad | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/external/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553?utm_source=aprameyak) | Sep 20 |
+| Geneva Trading | Quantitative Trading Internship - Summer 2027 | Chicago, IL | Undergrad | [Apply](https://www.genevatrading.com) | Sep 20 |
+| Goldman Sachs | Associate Intern - The Core Quantitative Strats | Dallas, TX | Undergrad | [Apply](https://higher.gs.com/roles/171546?type=students) | Sep 20 |
+| IMC Trading | Quantitative Trading Intern | Chicago, IL | Undergrad | [Apply](https://www.imc.com/us/careers/jobs/4823923101) | Sep 20 |
+| ↳ | Quantitative Research Intern - BS/MS | Chicago, IL | Undergrad; Masters | [Apply](https://www.imc.com/us/careers/jobs/4907399101) | Sep 20 |
+| ↳ | Quantitative Research Intern - PhD | Chicago, IL | PhD | [Apply](https://www.imc.com/us/careers/jobs/4907400101) | Sep 20 |
+| JPMorganChase | 2027 Quantitative Research - Risk and Treasury - Summer Internship - Associate - United States | <details><summary>**3 locations**</summary>New York, NY</br>Plano, TX</br>Chicago, IL</details> | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773978) | Sep 20 |
+| Kirin | Quantitative Research Intern - Prediction Markets | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/kirin/93648515-7e6c-43f4-bdcb-0c072f22a15a/application?embed=true&utm_source=aprameyak) | Sep 20 |
+| Morningstar | Morningstar Internship Program- Quantitative Research Intern 2027 - Partner Link | Chicago, IL | Undergrad | [Apply](https://morningstar.wd5.myworkdayjobs.com/en-US/confidential/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027--Partner-Link-_REQ-057910-1?utm_source=aprameyak) | Sep 20 |
+| MSD | 2027 Future Talent Program - Quantitative Biosciences Cellular Pharmacology - Intern | South San Francisco, CA | Undergrad | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Quantitative-Biosciences-Cellular-Pharmacology---Intern_R412426?utm_source=aprameyak) | Sep 20 |
+| OCC | Summer Intern - Quantitative Risk Management | Chicago, IL | Undergrad | [Apply](https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4864?utm_source=aprameyak) | Sep 20 |
+| Optiver | Quantitative Research Intern - PhD - Summer 2027 | Austin, TX | PhD | [Apply](https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002) | Sep 20 |
+| Picton Mahoney Asset Management | Quantitative Research & Risk Intern | Toronto, ON | Undergrad | [Apply](https://pictonmahoney.bamboohr.com/careers/350/) | Sep 20 |
+| PIMCO | 2027 Summer Intern - Masters Quant Research Analyst - Client Solutions & Analytics - US | Newport Beach, CA | Masters | [Apply](https://www.pimco.com) | Sep 20 |
 | Quantbot Technologies | Quantitative Developer Internship - 2027 - New York | New York City, NY | Undergrad | [Apply](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) | Sep 20 |
+| ↳ | Quantitative Researcher Internship - 2027 - New York | New York City, NY | Undergrad | [Apply](https://www.quantbot.com) | Sep 20 |
+| Susquehanna International Group | Quantitative Systematic Trading Internship - PhD: Summer 2027 | New York City, NY | PhD | [Apply](https://careers-sig.icims.com/jobs/10822/quantitative-systematic-trading-internship---phd%3a-summer-2027/job) | Sep 20 |
+| ↳ | Quantitative Systematic Trading Internship - Master's: Summer 2027 | New York City, NY | Masters | [Apply](https://careers-sig.icims.com/jobs/10824/quantitative-systematic-trading-internship-%e2%80%93-master%27s%3a-summer-2027/job) | Sep 20 |
+| ↳ | Quantitative Research Internship - Master's: Summer 2027 | New York City, NY | Masters | [Apply](https://careers-sig.icims.com/jobs/10820/quantitative-research-internship-%e2%80%93-master%27s%3a-summer-2027/job) | Sep 20 |
+| ↳ | Quantitative Research Internship - PhD: Summer 2027 | New York City, NY | PhD | [Apply](https://careers-sig.icims.com/jobs/10818/quantitative-research-internship---phd%3a-summer-2027/job) | Sep 20 |
+| Susquehanna International Group (SIG) | Trading System Engineering Intern | Ardmore, PA | Undergrad | [Apply](https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false) | Sep 20 |
+| ↳ | Quantitative Research Intern - PhD: Summer 2027 | Ardmore, PA | PhD | [Apply](https://careers-sig.icims.com/jobs/10817/job?mobile=true&needsRedirect=false) | Sep 20 |
+| ↳ | Quantitative Systematic Trading Intern - Master's: Summer 2027 | Ardmore, PA | Masters | [Apply](https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false) | Sep 20 |
+| Tower Research Capital | Quantitative Trader/Researcher Intern - Summer 2027 | Chicago, IL | Undergrad | [Apply](https://www.tower-research.com) | Sep 20 |
+| Virtu Financial | 2027 Internship - Quantitative Researcher - PhD | New York City, NY | PhD | [Apply](https://www.virtu.com) | Sep 20 |
+| Walleye Capital | Central Equity Quant Research Intern - Ceqr | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006?utm_source=aprameyak) | Sep 20 |
+| ↳ | Quantic – Quantitative Researcher Intern | Boston, MA | Undergrad | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006?utm_source=aprameyak) | Sep 20 |
+| ↳ | Quantitative Research Intern - Data Science | <details><summary>**3 locations**</summary>New York, NY</br>Boston, MA</br>Miami, FL</details> | Undergrad | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006?utm_source=aprameyak) | Sep 20 |
+| Wells Fargo | 2027 Quantitative Analytics Summer Internship Risk Analytics and Decision Sciences - RADS PhD - Early Careers | Charlotte, NC | PhD | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-PhD----Early-Careers_R-569912?utm_source=aprameyak) | Sep 20 |
+| ↳ | 2027 Quantitative Analytics Summer Internship Risk Analytics and Decision Sciences - RADS Masters - Early Careers | Charlotte, NC | Masters | [Apply](https://www.wellsfargo.com) | Sep 20 |
 | AQR Capital Management | Quantitative Prediction Markets Research Summer Analyst Intern | Greenwich, CT | Undergrad | [Apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) | Sep 19 |
 | AXQ Capital | Quantitative Research Intern - Summer 2027 | NYC | Undergrad | [Apply](https://job-boards.greenhouse.io/axq/jobs/6181069004?utm_source=aprameyak) | Sep 19 |
 | Bank of Montreal | Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams | Toronto, ON | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2?utm_source=aprameyak) | Sep 19 |
@@ -62,7 +105,6 @@
 | ↳ | Quantitative Portfolio Management Intern | Newport Beach, CA | Masters | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830?utm_source=aprameyak) | Sep 1 |
 | ↳ | Quantitative Research Analyst Intern - Portfolio Management | Newport Beach, CA | Masters | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749?utm_source=aprameyak) | Sep 1 |
 | Quantbot Technologies | Quantitative Researcher Intern | New York, NY | Undergrad | [Apply](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | Sep 1 |
-| Tower Research | Quantitative Developer Intern | Chicago, ILNew York, NY | Undergrad | [Apply](https://tower-research.com/open-positions/?gh_jid=8044334) | Sep 1 |
 | Wells Fargo | Quantitative Analytics Intern - Applied Computational Intelligence | Charlotte, NC | Masters | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-PhD----Early-Careers_R-571703?utm_source=aprameyak) | Aug 29 |
 | Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | New York, NY | PhD | [Apply](https://higher.gs.com/roles/171535?type=students) | Aug 28 |
 | Hudson River Trading | Algorithm Development Intern - Quant Research | New York, NY | PhD | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837) | Aug 28 |

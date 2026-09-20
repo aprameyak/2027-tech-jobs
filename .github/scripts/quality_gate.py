@@ -50,7 +50,7 @@ MUST_LIVE = [
     ('DoorDash US intern', '8171041'),
     ('DoorDash TOR intern', '8170944'),
     ('Waymo Commercialization intern', '8198218'),
-    ('Atlassian Canada intern', '26275'),
+    ('Atlassian Canada intern', '/jobs/26275'),
     ('Adobe SWE intern', 'R171666'),
     ('Capital One AI PhD intern', 'R249110'),
     ('Capital One AI Masters intern', 'R249109'),

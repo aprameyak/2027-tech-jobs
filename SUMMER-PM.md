@@ -1,12 +1,29 @@
 # ☀️ Summer 2027 Internships — Product Management
 
-**88** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**105** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | American Express | Product Management Intern, Global Merchant & Network Services 🛂 | Phoenix, AZ | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148) | Sep 20 |
 | ↳ | Product Management Intern 🛂 | New York, NY | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916) | Sep 20 |
 | Appian | Product Manager Intern 🛂 | McLean, VA | Undergrad | [Apply](https://careers.appian.com/jobs/8041243-product-manager-intern-) | Sep 20 |
+| Bosch | Product Management AI-Tool Intern - 8 months/40hrs per week | Farmington Hills, MI | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148575999-product-management-ai-tool-intern-8-months-40hrs-per-week-?oga=true) | Sep 20 |
+| Charles Schwab | Product Management Intern - Thinkorswim | Austin, TX | Undergrad | [Apply](https://career-schwab.icims.com/jobs/126266/job?mobile=true&needsRedirect=false) | Sep 20 |
+| Databricks | Product Management Intern (Summer 2027) | Bellevue, WA | Undergrad | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Sep 20 |
+| DTCC | Product Management Intern | Tampa, FL | Undergrad | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214160) | Sep 20 |
+| GE Vernova | GE Vernova Grid Automation Product Management Intern | Rochester, NY | Undergrad | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Automation-Product-Management-Intern---Fall-2026_R5035460?utm_source=aprameyak) | Sep 20 |
+| Goldman Sachs | AWM Product Management Analyst Intern | Dallas, TX | Undergrad | [Apply](https://higher.gs.com/roles/171513?type=students) | Sep 20 |
+| ↳ | Summer Analyst Intern - Americas - AWM Product Management | New York, NY | Undergrad | [Apply](https://higher.gs.com/roles/182389?type=students) | Sep 20 |
+| Naver U.Hub INC | Product Management Intern | Redwood City, CA | Undergrad | [Apply](https://naveruhubinc.applytojob.com/apply/snw35vU7eX/ThingsBook-Product-Management-Intern) | Sep 20 |
+| PricewaterhouseCoopers (PwC) | Tax Innovation Delivery Experience Intern - Product Management | Rosemont, IL | Undergrad | [Apply](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Innovation-Delivery-Experience--TIDE----Product-Management---Intern---Summer-2027_756419WD?utm_source=aprameyak) | Sep 20 |
+| RLI | Product Management Intern | Honolulu, HI | Undergrad | [Apply](https://wd1.myworkdaysite.com/recruiting/rlicorp/RLI_Corp_Careers/job/Honolulu-HI/Product-Management-Intern--Honolulu--HI_R1646?utm_source=aprameyak) | Sep 20 |
+| ROCKWOOL Group | Product Management Intern | Chicago, IL | Undergrad | [Apply](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795?utm_source=aprameyak) | Sep 20 |
+| Royal Bank of Canada | Product Management Intern - Global Asset Management | Toronto, ON | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Global-Asset-Management--Product-Management-Intern-Winter-Spring--8-months-_R-0000185514?utm_source=aprameyak) | Sep 20 |
+| Signify | Product Management Intern | Menlo Park, CA | Undergrad | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Menlo-Park/Product-Management-Intern---Fall-2026_365521?utm_source=aprameyak) | Sep 20 |
+| Tesla | Product Management Intern - Product Engineer - Applications Engineering | Fremont, CA | Undergrad | [Apply](https://www.tesla.com/careers/search/job/274754) | Sep 20 |
+| Toshiba Global Commerce | AI Product Management Intern | Durham, NC | Undergrad | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007?utm_source=aprameyak) | Sep 20 |
+| Tuckernuck | Product Management Intern | Washington, DC | Undergrad | [Apply](https://tnuck.bamboohr.com/careers/273/) | Sep 20 |
+| Waymo | 2027 Summer Intern, MBA, Salesforce Product Owner | Los Angeles, CA | Undergrad | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Sep 20 |
 | Allied Solutions | Product Management Intern - Risk Management | St Paul, MN | Undergrad | [Apply](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083?utm_source=aprameyak) | Sep 19 |
 | Altar'd State | IT Ecommerce Product Owner Intern | Knoxville, TN | Undergrad | [Apply](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Ecommerce-Product-Owner-Intern_SOSJ12489?utm_source=aprameyak) | Sep 19 |
 | AspenTech | Product Owner Intern - Product Management | Houston, TXBedford, MA | Undergrad | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471?utm_source=aprameyak) | Sep 19 |

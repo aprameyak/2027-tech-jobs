@@ -16,7 +16,7 @@
 | General Dynamics Mission Systems | Junior Software Engineer 🇺🇸 | Dedham, MA |  | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/68413) | Sep 20 |
 | i3 | Full-Stack Software Engineer 🇺🇸 | Hunstville, AL |  | Undergrad | [Apply](https://careers-i3-corps.icims.com/jobs/4833/entry-level-full-stack-software-engineer/job) | Sep 20 |
 | Idler | Software Engineer 🇺🇸 | San Francisco, CA |  | Undergrad | [Apply](https://www.workatastartup.com/jobs/83889) | Sep 20 |
-| Jane Street | Cybersecurity Analyst 🇺🇸 | New York |  | Undergrad | [Apply](https://www.janestreet.com/join-jane-street/position/8053215002/) | Sep 20 |
+| Jane Street | Cybersecurity Analyst 🇺🇸 | New York, NY |  | Undergrad | [Apply](https://www.janestreet.com/join-jane-street/position/8053215002/) | Sep 20 |
 | Marlabs | Entry Level Programmer Analyst | Piscataway, NJ |  | Masters | [Apply](https://jobs.smartrecruiters.com/MarlabsInc1/83216249) | Sep 20 |
 | Palantir | New Grad: Software Engineer 🇺🇸 | Washington, DC |  | Undergrad | [Apply](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79?utm_source=aprameyak) | Sep 20 |
 | Peraton | Software Engineering, Associate 🇺🇸 | Herndon, VA |  | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job) | Sep 20 |
