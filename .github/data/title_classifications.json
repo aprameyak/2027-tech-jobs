@@ -61519,8 +61519,9 @@
   },
   "associate software engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "n"
   },
   "expression of interest: 2027 trading sneak peek weeks": {
@@ -62761,10 +62762,10 @@
     "v": ""
   },
   "quant trading associate - 2027 start": {
-    "t": true,
-    "c": "stale",
-    "v": "",
-    "b": "s"
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "software engineer, ml infra (junior & new grad)": {
     "t": true,
@@ -63580,8 +63581,9 @@
   },
   "customer success intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "payroll clerk internship-america's car-mart": {
     "t": false,
@@ -64591,21 +64593,23 @@
     "b": "o"
   },
   "associate engineer - 2027 start": {
-    "t": true,
-    "c": "stale",
-    "v": "",
-    "b": "s"
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "quant trading internship - summer 2027": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "s"
   },
   "software engineering internship - summer 2027": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 1,
     "b": "s"
   },
   "junior software engineer internship": {
@@ -67479,8 +67483,8 @@
   },
   "software engineer intern (summer 2027)": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 1,
     "b": "s"
   },
@@ -72829,8 +72833,9 @@
   },
   "internal audit intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "learning & development intern": {
     "t": false,
@@ -74340,11 +74345,10 @@
     "b": "s"
   },
   "product intern": {
-    "t": true,
-    "c": "stale",
-    "v": "",
-    "a": 1,
-    "b": "s"
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v2",
+    "a": 0
   },
   "sdr intern": {
     "t": false,
@@ -74527,15 +74531,15 @@
   },
   "software engineer, intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 1,
     "b": "s"
   },
   "software engineer, thrive intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 1,
     "b": "s"
   },
@@ -74562,8 +74566,8 @@
   },
   "associate product manager, intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v2",
     "a": 1,
     "b": "s"
   },
