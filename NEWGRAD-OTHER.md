@@ -1,14 +1,17 @@
 # 🎓 New Grad 2027 — Other Tech
 
-**33** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**36** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | Anthrogen | Member of Technical Staff 🇺🇸 | San Francisco, CA |  | Undergrad | [Apply](https://www.workatastartup.com/jobs/83750) | Sep 20 |
 | Apple | AIML Resident - Input Experience NLP | Cupertino, CA |  | Undergrad | [Apply](https://jobs.apple.com/en-us/details/200630840-0836/aiml-resident-input-experience-nlp) | Sep 20 |
 | BDO Canada | Business Analyst New Grad - Data & Analytics | Montreal, QC, Canada Toronto, ON, Canada Calgary, AB, Canada Oakville, ON, Canada Edmonton, AB, Canada Ottawa, ON, Canada Halifax Regional Municipality, NS |  | Undergrad | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst---Data---Analytics---New-Grad--January-2027-_JR7065?utm_source=aprameyak) | Sep 20 |
+| ↳ | New Grad - Business Analysis & Quality Assurance (January 2027) | Ottawa - Kent St | Spring 2027 | Undergrad | [Apply](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Ottawa---Kent-St/New-Grad---Business-Analysis---Quality-Assurance--January-2027-_JR7096?utm_source=aprameyak) | Sep 20 |
 | Herdora | Member of Technical Staff | San Francisco, CA |  | Undergrad | [Apply](https://www.workatastartup.com/jobs/83031) | Sep 20 |
 | Interaction | Member of Technical Staff | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/interaction/56b66af2-bce5-4ad7-baf9-ace14eb6a29a?utm_source=aprameyak) | Sep 20 |
+| PMG | Graduate Leadership Program - Creative Technologist | Dallas, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/pmg/jobs/8594719002?utm_source=aprameyak) | Sep 20 |
+| Retell AI | Forward Deployed Engineer, New Grad | San Francisco Bay Area |  | Undergrad | [Apply](https://jobs.ashbyhq.com/retell-ai/161bcfc9-56dd-4d0c-869d-e5de1431a940/application?utm_source=aprameyak) | Sep 20 |
 | Trellis AI | Member of Technical Staff 🇺🇸 | San Francisco, CA |  | Undergrad | [Apply](https://www.workatastartup.com/jobs/85607) | Sep 20 |
 | Safelite | Predictive Analytics Global Early Career Professional | Columbus, OH | Spring 2027 | Undergrad | [Apply](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Predictive-Analytics-Global-Early-Career-Professional_JR74275?utm_source=aprameyak) | Sep 19 |
 | ↳ | Customer Analytics & Insights Global Early Career Professional | Columbus, OH | Spring 2027 | Undergrad | [Apply](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Customer-Analytics---Insights-Global-Early-Career-Professional_JR74210?utm_source=aprameyak) | Sep 19 |

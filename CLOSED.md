@@ -1,10 +1,10 @@
 # Closed Listings
 
-**3000** closed listing(s) (🔒). Kept for history — roles existed but are no longer accepting applications. Back to [`README`](./README.md).
+**3001** closed listing(s) (🔒). Kept for history — roles existed but are no longer accepting applications. Back to [`README`](./README.md).
 
 ## ☀️ Summer 2027 Internships
 
-1404 closed
+1405 closed
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -74,6 +74,7 @@
 | K2 Space | Software Engineering Intern - Summer 2027 | Los Angeles, CA | Undergrad | 🔒 | Sep 20 |
 | Kastle | Software Engineer - Intern | San Francisco, CA | Undergrad | 🔒 | Sep 20 |
 | LexisNexis | Software Engineer Internship | Raleigh, NC | Undergrad | 🔒 | Sep 20 |
+| LLNL | Data Science Institute Undergraduate Student Intern - Summer 2027 | Livermore, CA | Undergrad | 🔒 | Sep 20 |
 | Lyft | Software Engineer Intern - Backend - Summer 2027 - SF | San Francisco, CA | Undergrad | 🔒 | Sep 20 |
 | Medline | Software Engineering Intern - Summer 2027 | Northbrook, IL | Undergrad | 🔒 | Sep 20 |
 | Medtronic | Software Engineering Intern - Summer 2027 | Fridley, MN | Undergrad | 🔒 | Sep 20 |

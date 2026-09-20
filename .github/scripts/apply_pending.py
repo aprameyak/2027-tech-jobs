@@ -15,6 +15,7 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 from validate_listings import validate_entry
+from quality_gate import normalize_url as _qg_normalize_url
 
 LISTINGS_FILE = Path('listings.json')
 DATA_DIR = Path('.github/data')
@@ -54,20 +55,28 @@ def _with_aprameyak_utm(url):
         return url
 
 def _norm_url(u):
+    """Match quality_gate URL identity so apply cannot reintroduce live dups."""
     if not u:
-        return u
-    u = u.split('?')[0].split('#')[0].rstrip('/')
-    m = re.match(r'(https?://)([^/]+)(.*)', u)
-    if m:
-        scheme, host, path = m.groups()
-        host = host.lower()
-        if host.startswith('www.'):
-            host = host[4:]
-        u = scheme + host + path
-    u = re.sub(r'/application$', '', u)
-    u = re.sub(r'(myworkdayjobs\.com)/(?:[a-z]{2}-[A-Z]{2}/)?[^/]+/job/', r'\1/job/', u)
-    u = re.sub(r'(_(JR|REQ|R)\d+)-\d+$', r'\1', u, flags=re.I)
-    return u
+        return ''
+    return _qg_normalize_url(u)
+
+def _dedupe_live_urls(listings):
+    """Keep first live row per normalized URL; close later duplicates."""
+    seen = {}
+    closed = 0
+    for e in listings:
+        url = e.get('url') or ''
+        if not url:
+            continue
+        n = _norm_url(url)
+        if not n:
+            continue
+        if n in seen:
+            e['url'] = ''
+            closed += 1
+        else:
+            seen[n] = e
+    return closed
 
 def main():
     pending_files = sorted(DATA_DIR.glob('pending_*.json'))
@@ -116,7 +125,12 @@ def main():
     if skipped_invalid:
         print(f'  Skipped {skipped_invalid} invalid pending entr(y/ies)')
 
-    if added > 0:
+    closed_dups = _dedupe_live_urls(listings)
+    if closed_dups:
+        print(f'  Closed {closed_dups} live URL duplicate(s) after merge')
+        added = max(added, 1)  # force write/rebuild/gate path
+
+    if added > 0 or closed_dups:
         tmp = LISTINGS_FILE.with_suffix('.tmp')
         with open(tmp, 'w') as f:
             json.dump(listings, f, indent=2, ensure_ascii=False)
@@ -130,23 +144,33 @@ def main():
         if result.returncode != 0:
             print(f'rebuild_readme.py failed: {result.stderr[:300]}')
             sys.exit(1)
+        print(result.stdout.strip() if result.stdout else 'rebuild ok')
 
         gate = subprocess.run(
             ['python3', '.github/scripts/validate_listings.py'],
             capture_output=True, text=True,
         )
-        print(gate.stdout[-500:] if gate.stdout else '')
+        print(gate.stdout.strip() if gate.stdout else '')
         if gate.returncode != 0:
             print(f'validate_listings.py failed after apply:\n{gate.stderr[:400]}')
+            print(gate.stdout)
             sys.exit(1)
 
         qg = subprocess.run(
             ['python3', '.github/scripts/quality_gate.py'],
             capture_output=True, text=True,
         )
-        print(qg.stdout[-800:] if qg.stdout else '')
+        # Always surface ERROR lines so CI logs are actionable.
+        out = (qg.stdout or '') + (qg.stderr or '')
+        for line in out.splitlines():
+            if 'ERROR:' in line or 'QUALITY GATE' in line or line.startswith('Checked '):
+                print(line)
         if qg.returncode != 0:
             print(f'quality_gate.py failed after apply — not clearing pending')
+            # Print a short warning sample for context
+            warns = [ln for ln in out.splitlines() if 'WARN:' in ln][:5]
+            for ln in warns:
+                print(ln)
             sys.exit(1)
 
         print(f'README rebuilt — {added} listing(s) added')

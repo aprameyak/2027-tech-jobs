@@ -1,11 +1,25 @@
 # 🎓 New Grad 2027 — Data Science, AI & Machine Learning
 
-**219** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**233** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Bot Auto | Algorithm Engineer, Deep Learning & Vision (New Grad) | Houston, TX or San Francisco Bay Area |  | Undergrad | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5371947008?utm_source=aprameyak) | Sep 20 |
 | Cohere | Member of Technical Staff, MLE | <details><summary>**3 locations**</summary>San Francisco, CA</br>New York, NY</br>Toronto, Canada Montreal, Canada Remote</details> |  | Undergrad | [Apply](https://jobs.ashbyhq.com/cohere/110ba167-4efd-43b7-85d2-3ff719a28b0f?utm_source=aprameyak) | Sep 20 |
+| Hatch IT | Junior Data Engineer (DEA) | Arlington, VA |  | Undergrad | [Apply](https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97?utm_source=aprameyak) | Sep 20 |
+| Howmet Aerospace | Operations Research Scientist | Whitehall, MI |  | Undergrad | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118621) | Sep 20 |
+| JPMorganChase | 2027 Data & AI Program - Full Time - Analyst - United States | New York, NY | Spring 2027 | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773954) | Sep 20 |
+| PMG | Graduate Leadership Program - AI & Software Engineering (January Start) | Dallas, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/pmg/jobs/8587050002?utm_source=aprameyak) | Sep 20 |
+| ↳ | Graduate Leadership Program - Data Analytics (January Start) | Dallas, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/pmg/jobs/8587053002?utm_source=aprameyak) | Sep 20 |
+| ↳ | Graduate Leadership Program - Data Analytics (June Start) | Dallas, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/pmg/jobs/8587036002?utm_source=aprameyak) | Sep 20 |
+| Prosidian Consulting | Junior Data Analyst | Rockville, MD |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/prosidianconsulting/743999681971342) | Sep 20 |
 | Renaissance Technologies | Research Scientist 🇺🇸 | East Setauket, NY |  | Undergrad | [Apply](https://www.rentec.com/Careers.action?jobs=true&selectedPosition=researchScientist) | Sep 20 |
+| Solace Health | Associate Data Scientist (College Grad 2027) | Redwood City, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443/application?utm_source=aprameyak) | Sep 20 |
+| SWBC | Junior Data Engineer | San Antonio, TX |  | Undergrad | [Apply](https://swbc.wd1.myworkdayjobs.com/en-US/swbccareers/job/San-Antonio-TX/Data-Engineer_R0014827?utm_source=aprameyak) | Sep 20 |
+| Tax Relief Advocates | Junior AI Data Engineer (Marketing) | Irvine, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4895362008?utm_source=aprameyak) | Sep 20 |
+| Texas Sports Academy | Junior AI Software Engineer (Austin, TX) | Remote (US) |  | Undergrad | [Apply](https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/) | Sep 20 |
+| ↳ | Junior Software Engineer, AI-Forward | Remote (US) |  | Undergrad | [Apply](https://apply.workable.com/texas-sports-academy-main/j/EE83780698/) | Sep 20 |
+| Torch Technologies | Junior Level Data Scientist | Colorado Springs, CO |  | Undergrad | [Apply](https://starfish.wd501.myworkdayjobs.com/en-US/Careers/job/Colorado-Springs-CO/Junior-Level-Data-Scientist_R1702?utm_source=aprameyak) | Sep 20 |
 | Travelers | Software Engineer I (AI Driven) 🛂 | Atlanta, GA |  | Undergrad | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AI-Driven-_R-49831?utm_source=aprameyak) | Sep 20 |
 | American Express | Data Engineer 1 - Enterprise Technology Services | Phoenix, AZ |  | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013286) | Sep 19 |
 | Canadian Tire | Data Science Associate New Grad - Finance Rotational Program | Toronto, ON |  | Undergrad | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983?utm_source=aprameyak) | Sep 19 |

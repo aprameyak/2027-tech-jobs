@@ -1,9 +1,12 @@
 # 🎓 New Grad 2027 — Quantitative Finance
 
-**47** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
+**50** open listing(s). Board hub: [`NEWGRAD.md`](./NEWGRAD.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| BP | Supply, Trading, and Shipping Graduate Program- Trading & Analytics- Calgary | Canada - Calgary |  | Undergrad | [Apply](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpEarlyCareers/job/Canada---Calgary/Supply--Trading--and-Shipping-Graduate-Program--Trading---Analytics--Calgary_RQ115339?utm_source=aprameyak) | Sep 20 |
+| ↳ | Supply, Trading, and Shipping Graduate Program- Analytics- Houston, TX | United States of America - Texas - Houston |  | Undergrad | [Apply](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Supply--Trading--and-Shipping-Graduate-Program--Analytics--Houston--TX_RQ115335?utm_source=aprameyak) | Sep 20 |
+| ↳ | Supply, Trading, and Shipping Graduate Program- Analytics- Chicago, IL | United States of America - Illinois - Chicago |  | Undergrad | [Apply](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Supply--Trading--and-Shipping-Graduate-Program--Analytics--Chicago--IL_RQ115341?utm_source=aprameyak) | Sep 20 |
 | Akuna Capital University | Junior Quantitative Researcher | Chicago, IL |  | Undergrad | [Apply](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) | Sep 19 |
 | ↳ | Junior Quantitative Researcher - Prediction Markets | Chicago, IL |  | Undergrad | [Apply](https://www.akunacapital.com/careers/job/7863348/?gh_jid=7863348) | Sep 19 |
 | Citadel Securities | Quantitative Trader – University Graduate | Miami, FL | Spring 2027 | Undergrad | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/) | Sep 19 |

@@ -1,9 +1,10 @@
 # 🔄 Off-Cycle Internships & Co-ops — Product Management
 
-**45** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
+**46** open listing(s). Board hub: [`OFFCYCLE.md`](./OFFCYCLE.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Altard State | Spring 2027 IT Ecommerce Product Owner Intern | Knoxville, TN | Spring 2027 | Undergrad | [Apply](https://standoutforgood.wd12.myworkdayjobs.com/en-US/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Ecommerce-Product-Owner-Intern_SOSJ12489?utm_source=aprameyak) | Sep 20 |
 | Acxiom | Product Manager Intern - Real Identity Product Team | Conway, AR | Fall 2026 | Undergrad | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Management_JR014473-1?utm_source=aprameyak) | Sep 19 |
 | Autodesk | Product Management Intern | Montreal, QC | Fall 2026 | Undergrad | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1?utm_source=aprameyak) | Sep 19 |
 | Bosch Home Comfort | Product Management Intern | Southfield, MI | Fall 2026 | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) | Sep 19 |

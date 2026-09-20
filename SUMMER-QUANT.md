@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships — Quantitative Finance
 
-**191** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
+**198** open listing(s). Board hub: [`SUMMER.md`](./SUMMER.md). Back to [`README`](./README.md).
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
@@ -24,6 +24,8 @@
 | IMC Trading | Quantitative Trading Intern | Chicago, IL | Undergrad | [Apply](https://www.imc.com/us/careers/jobs/4823923101) | Sep 20 |
 | ↳ | Quantitative Research Intern - BS/MS | Chicago, IL | Undergrad; Masters | [Apply](https://www.imc.com/us/careers/jobs/4907399101) | Sep 20 |
 | ↳ | Quantitative Research Intern - PhD | Chicago, IL | PhD | [Apply](https://www.imc.com/us/careers/jobs/4907400101) | Sep 20 |
+| InfiniteQuant | Quantitative Researcher - Internship - Summer 2027 | New York, NY | Undergrad | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000147161390) | Sep 20 |
+| ↳ | Quantitative Developer - Internship - Summer 2027 | Remote (US) | Undergrad | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879) | Sep 20 |
 | JPMorganChase | 2027 Quantitative Research - Risk and Treasury - Summer Internship - Associate - United States | <details><summary>**3 locations**</summary>New York, NY</br>Plano, TX</br>Chicago, IL</details> | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773978) | Sep 20 |
 | Kirin | Quantitative Research Intern - Prediction Markets | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/kirin/93648515-7e6c-43f4-bdcb-0c072f22a15a/application?embed=true&utm_source=aprameyak) | Sep 20 |
 | Morningstar | Morningstar Internship Program- Quantitative Research Intern 2027 - Partner Link | Chicago, IL | Undergrad | [Apply](https://morningstar.wd5.myworkdayjobs.com/en-US/confidential/job/Chicago/Morningstar-Internship-Program--Quantitative-Research-Intern-2027--Partner-Link-_REQ-057910-1?utm_source=aprameyak) | Sep 20 |
@@ -38,9 +40,14 @@
 | ↳ | Quantitative Systematic Trading Internship - Master's: Summer 2027 | New York City, NY | Masters | [Apply](https://careers-sig.icims.com/jobs/10824/quantitative-systematic-trading-internship-%e2%80%93-master%27s%3a-summer-2027/job) | Sep 20 |
 | ↳ | Quantitative Research Internship - Master's: Summer 2027 | New York City, NY | Masters | [Apply](https://careers-sig.icims.com/jobs/10820/quantitative-research-internship-%e2%80%93-master%27s%3a-summer-2027/job) | Sep 20 |
 | ↳ | Quantitative Research Internship - PhD: Summer 2027 | New York City, NY | PhD | [Apply](https://careers-sig.icims.com/jobs/10818/quantitative-research-internship---phd%3a-summer-2027/job) | Sep 20 |
+| ↳ | Quantitative Strategy Developer Internship: Summer 2027 | Remote (US) | Undergrad | [Apply](https://careers-sig.icims.com/jobs/10838/quantitative-strategy-developer-internship%3a-summer-2027/job) | Sep 20 |
+| ↳ | Quantitative Strategy Developer Internship: Summer 2027 | Remote (US) | Undergrad | [Apply](https://careers-sig.icims.com/jobs/11170/quantitative-strategy-developer-internship%3a-summer-2027/job) | Sep 20 |
+| ↳ | Quantitative Strategy Developer Internship: Summer 2027 (Dublin) | Remote (US) | Undergrad | [Apply](https://careers-sig.icims.com/jobs/11332/quantitative-strategy-developer-internship%3a-summer-2027-%28dublin%29/job) | Sep 20 |
+| ↳ | Quantitative Strategy Developer Internship: Summer 2027 (London) | Remote (US) | Undergrad | [Apply](https://careers-sig.icims.com/jobs/11333/quantitative-strategy-developer-internship%3a-summer-2027-%28london%29/job) | Sep 20 |
 | Susquehanna International Group (SIG) | Trading System Engineering Intern | Ardmore, PA | Undergrad | [Apply](https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false) | Sep 20 |
 | ↳ | Quantitative Research Intern - PhD: Summer 2027 | Ardmore, PA | PhD | [Apply](https://careers-sig.icims.com/jobs/10817/job?mobile=true&needsRedirect=false) | Sep 20 |
 | ↳ | Quantitative Systematic Trading Intern - Master's: Summer 2027 | Ardmore, PA | Masters | [Apply](https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false) | Sep 20 |
+| Talos | Quantitative Analyst Intern | New York | Undergrad | [Apply](https://jobs.ashbyhq.com/talos-trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b/application?utm_source=aprameyak) | Sep 20 |
 | Tower Research Capital | Quantitative Trader/Researcher Intern - Summer 2027 | Chicago, IL | Undergrad | [Apply](https://www.tower-research.com) | Sep 20 |
 | Virtu Financial | 2027 Internship - Quantitative Researcher - PhD | New York City, NY | PhD | [Apply](https://www.virtu.com) | Sep 20 |
 | Walleye Capital | Central Equity Quant Research Intern - Ceqr | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006?utm_source=aprameyak) | Sep 20 |
