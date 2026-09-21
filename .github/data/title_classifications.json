@@ -1764,9 +1764,9 @@
     "b": "s"
   },
   "senior data scientist": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -12980,8 +12980,9 @@
   },
   "senior product manager, data governance": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior product manager, ediscovery": {
@@ -48338,9 +48339,10 @@
     "v": ""
   },
   "associate strategic account development executive - platform": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "n"
   },
   "director / gm, dashpass strategy & operations": {
@@ -53501,8 +53503,8 @@
   },
   "it network infrastructure technician": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -66274,8 +66276,8 @@
   },
   "data science intern": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "s"
   },
