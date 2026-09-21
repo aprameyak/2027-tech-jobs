@@ -13,9 +13,9 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4811)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1373)
-- [🎓 New Grad 2027](./NEWGRAD.md) (2469)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4815)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1374)
+- [🎓 New Grad 2027](./NEWGRAD.md) (2475)
 
 ---
 
@@ -28,12 +28,16 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4811** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4815** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Northrop Grumman | 2027 Digital Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1?utm_source=aprameyak) | Sep 21 |
+| ↳ | 2027 Systems Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Systems-Engineer-Intern---Baltimore-MD_R10251094?utm_source=aprameyak) | Sep 21 |
+| The Federal Reserve System | 2027 Summer Internship - Research | St. Louis, MO | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/St-Louis-MO/XMLNAME-2027-Summer-Internship---Research_R-0000033457?utm_source=aprameyak) | Sep 21 |
+| ↳ | 2027 Summer Internship - Business Technology | St. Louis, MO | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/St-Louis-MO/XMLNAME-2027-Summer-Internship---Business-Technology_R-0000033461?utm_source=aprameyak) | Sep 21 |
 | 1X | AI Residency Intern | San Carlos, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/1x/5b2b4c73-13b5-46ca-8467-8024741a4b57/application?utm_source=aprameyak) | Sep 20 |
 | AArete | Business Analytics Intern - Summer 2027 | Chicago, IL | Undergrad | [Apply](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false) | Sep 20 |
 | Abundant | Member of Technical Staff, Research (Intern) | San Francisco | Undergrad | [Apply](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?utm_source=aprameyak) | Sep 20 |
@@ -105,20 +109,17 @@ Showing newest **75** of **4811** listings · [View full table](./SUMMER.md)
 | Ankura | University Intern, Forensic Data & Analytics | New York, NY | Undergrad | [Apply](https://ankura.wd5.myworkdayjobs.com/en-US/ankura/job/New-York-NY/University-Intern--Forensic-Data---Analytics_R104943?utm_source=aprameyak) | Sep 20 |
 | Antares | Multiphysics Software Intern - Summer 2027 | Los Angeles, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/antares/922a527d-9826-446d-9aba-ffc611995830?utm_source=aprameyak) | Sep 20 |
 | ↳ | Reactor Software Engineering Intern - Summer 2027 | Los Angeles, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/antares/419ef2df-f0aa-4b68-994a-077e08a959e3?utm_source=aprameyak) | Sep 20 |
-| ↳ | IT Helpdesk Intern - Summer 2027 | Los Angeles | Undergrad | [Apply](https://jobs.ashbyhq.com/antares/c06333ba-ce06-43c2-be34-615a3582d5df/application?utm_source=aprameyak) | Sep 20 |
-| Apex Technology | Simulation Software Engineering Internship - Spring or Summer 2027 | Los Angeles, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/d3e21f84-3637-4521-833d-fd07b3ca5f2e?utm_source=aprameyak) | Sep 20 |
-| ↳ | Software Engineering Internship - Test & Automation - Summer 2027 | Los Angeles, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344?utm_source=aprameyak) | Sep 20 |
-| ↳ | Ground Software Engineering Internship - Spring or Summer 2027 | Los Angeles, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c?utm_source=aprameyak) | Sep 20 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1373** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1374** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Johnson & Johnson | Advanced Process Analytics Co-op | Titusville, NJ | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Advanced-Process-Analytics-Co-op_R-098443?utm_source=aprameyak) | Sep 21 |
 | Abridge | Software Engineering Intern - Spring | San Francisco, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e?utm_source=aprameyak) | Sep 20 |
 | Altard State | Spring 2027 IT Security Analyst Intern | Knoxville, TN | Spring 2027 | Undergrad | [Apply](https://standoutforgood.wd12.myworkdayjobs.com/en-US/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Security-Analyst-Intern_SOSJ12501?utm_source=aprameyak) | Sep 20 |
 | ↳ | Spring 2027 IT Help Desk Intern | Knoxville, TN | Spring 2027 | Undergrad | [Apply](https://standoutforgood.wd12.myworkdayjobs.com/en-US/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Help-Desk-Intern_SOSJ12503-1?utm_source=aprameyak) | Sep 20 |
@@ -193,17 +194,22 @@ Showing newest **75** of **1373** listings · [View full table](./OFFCYCLE.md)
 | Lawrence Livermore National Laboratory (LLNL) | Energy Systems Analyst Graduate Intern - Fall 2026 | Livermore, CA | Fall 2026 | Undergrad | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990014731696) | Sep 20 |
 | Liberty Mutual | Solaria Labs Software Development Co-op - Jan - June 2027 | Boston, MA | Co-op | Undergrad | [Apply](https://campus-libertymutual.icims.com/jobs/261797/solaria-labs-software-development-co-op-%28jan---june-2027%29/job) | Sep 20 |
 | ↳ | Solaria Labs Data Science Co-op - January - June 2027 | Boston, MA | Co-op | Undergrad | [Apply](https://campus-libertymutual.icims.com/jobs/261811/solaria-labs-data-science-co-op-%28january---june-2027%29/job) | Sep 20 |
-| ↳ | Cybersecurity Co-op (January - June 2027) | Boston, MA | Co-op | Undergrad | [Apply](https://campus-libertymutual.icims.com/jobs/226276/cybersecurity-co-op-%28january---june-2027%29/job) | Sep 20 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **2469** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **2475** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| JPMorganChase | Quantitative Trading & Research - Equity Derivatives Exotics - Analyst | New York, NY |  | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770118) | Sep 21 |
+| Northrop Grumman | 2027 Associate Digital Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Digital-Engineer---Pathways-Program---Baltimore-MD_R10251163?utm_source=aprameyak) | Sep 21 |
+| ↳ | 2027 Associate Systems Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | Spring 2027 | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Systems-Engineer---Pathways-Program---Baltimore-MD_R10251791?utm_source=aprameyak) | Sep 21 |
+| Protiviti | Atlanta Technology Consulting Consultant - 2027 | ATLANTA - PEACHTREE RD |  | Undergrad | [Apply](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/ATLANTA---PEACHTREE-RD/Atlanta-Technology-Consulting-Consultant---2027_JR-257677?utm_source=aprameyak) | Sep 21 |
+| ↳ | Chicago Technology Consulting Consultant - 2027 | Chicago, IL |  | Undergrad | [Apply](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/CHICAGO/Chicago-Technology-Consulting-Consultant---2027_JR-257687?utm_source=aprameyak) | Sep 21 |
+| Torch Technologies | Junior Systems Engineer | Hanscom AFB, MA |  | Masters | [Apply](https://starfish.wd501.myworkdayjobs.com/en-US/Careers/job/Hanscom-AFB-MA/Junior-Systems-Engineer_R1204?utm_source=aprameyak) | Sep 21 |
 | 9to9 Software Solutions | Entry level software Developer | Pittsburgh, PA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677209227) | Sep 20 |
 | ↳ | Entry Level Java Developer | Elk Grove, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677209089) | Sep 20 |
 | ↳ | .Net Developer | Omaha, NE |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999676959395) | Sep 20 |
@@ -273,12 +279,6 @@ Showing newest **75** of **2469** listings · [View full table](./NEWGRAD.md)
 | ↳ | Entry level DevOps Engineer | Sacramento, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Jobsbridge1/93627875) | Sep 20 |
 | ↳ | Junior Devops Engineer | Dallas, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Jobsbridge1/88269695) | Sep 20 |
 | ↳ | Full Stack Developer | San Jose, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Jobsbridge1/98917406) | Sep 20 |
-| ↳ | Full Stack Developer | San Mateo, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Jobsbridge1/98325696) | Sep 20 |
-| ↳ | Full Stack Developer | Roseville, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Jobsbridge1/95372662) | Sep 20 |
-| ↳ | .NET Developer | Santa Ana, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Jobsbridge1/93398126) | Sep 20 |
-| ↳ | Full Stack Developer | Cupertino, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Jobsbridge1/91611473) | Sep 20 |
-| ↳ | .NET Developer | Mountain View, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Jobsbridge1/88032882) | Sep 20 |
-| ↳ | .Net Developer | Palo Alto, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Jobsbridge1/87302810) | Sep 20 |
 <!-- TABLE_END newgrad -->
 
 ## Disclaimer
