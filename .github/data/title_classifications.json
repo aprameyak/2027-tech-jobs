@@ -63191,9 +63191,10 @@
     "v": ""
   },
   "research scientist - personalization": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "associate engineer, technology ii": {
@@ -64252,9 +64253,10 @@
     "v": ""
   },
   "principal research scientist ii, process chemistry": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "tmz dc intern - fall 2026": {
