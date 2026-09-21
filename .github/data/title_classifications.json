@@ -71188,9 +71188,10 @@
   },
   "finance intern": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "usis technology intern": {
     "t": false,
@@ -75930,10 +75931,11 @@
     "b": "s"
   },
   "product intern": {
-    "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   },
   "sdr intern": {
     "t": false,
@@ -76116,8 +76118,8 @@
   },
   "software engineer, intern": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "s"
   },
@@ -87281,6 +87283,151 @@
     "b": "s"
   },
   "software engineering manager, google payments": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "early flight software engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer,  frontend and mobile": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "distributed systems security engineer ": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "machine learning engineer (mid-level)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, ai & data systems": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "machine learning engineer, monetization ai/ml": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, plugin ecosystem": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "member of technical staff, ios engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, frontend, growth": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "partnerships intern": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "legal & compliance intern": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "design intern": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "ai research, intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "global aml manager": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer, inference api": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "manager, software engineering - developer experince": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior staff technical program manager, cloud engineering operations": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "technical sourcer": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "product manager, plaid account [consumer]": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "product manager, link growth [consumer]": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "product manager, enterprise identity ": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "specialist, security risk management": {
     "t": false,
     "c": "high",
     "v": "cs-is-v4",
