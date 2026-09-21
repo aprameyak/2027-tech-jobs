@@ -15042,9 +15042,9 @@
     "a": 0
   },
   "senior network engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -27043,9 +27043,9 @@
     "b": "s"
   },
   "senior security engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -27514,9 +27514,9 @@
     "b": "s"
   },
   "program manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -72186,13 +72186,17 @@
   },
   "credit analyst internship - san francisco, ca (summer 2027)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "commercial analyst development program - seattle, wa (new grad 2027)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "n"
   },
   "commercial analyst development program - phoenix, az (new grad 2027)": {
     "t": false,
@@ -72816,9 +72820,10 @@
   },
   "operational excellence co-op": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "2027 etp intern - marketing and communications, multiple opportunities, birmingham, al": {
     "t": false,
