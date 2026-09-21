@@ -87182,5 +87182,24 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "software engineer iii, android xr developer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "senior software engineer, generative ai/machine learning, google ads": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer, site reliability engineering, vertex 1p genai sre": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
