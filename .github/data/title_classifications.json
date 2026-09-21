@@ -3079,8 +3079,8 @@
   },
   "facility security officer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -7042,9 +7042,9 @@
     "b": "s"
   },
   "senior program manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -7854,9 +7854,9 @@
     "b": "s"
   },
   "senior systems engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -67623,9 +67623,9 @@
   },
   "junior systems engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
-    "a": 0,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "n"
   },
   "ge vernova nuclear engineering co-op/intern - spring 2027": {
@@ -71499,8 +71499,10 @@
   },
   "private wealth analyst, summer 2027 (co-op/internship) - 4 months": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "new graduate program - 2027 merchandising rotational program": {
     "t": false,
@@ -72149,28 +72151,38 @@
   },
   "credit analyst internship - tampa, fl (summer 2027)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "credit analyst internship - seattle, wa (summer 2027)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "credit analyst internship - phoenix, az (summer 2027)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "credit analyst internship - green bay, wi (summer 2027)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "credit analyst internship - atlanta, ga (summer 2027)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "credit analyst internship - san francisco, ca (summer 2027)": {
     "t": false,
@@ -72637,13 +72649,17 @@
   },
   "credit analyst internship - madison, wi (summer2027)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "credit analyst internship - minneapolis, mn (summer 2027)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "bmo capital markets new grad 2027  corporate banking analyst, toronto \u2013 real estate": {
     "t": false,
