@@ -6544,9 +6544,9 @@
     "b": "s"
   },
   "senior manager, software engineering": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -7287,9 +7287,9 @@
     "b": "s"
   },
   "senior site reliability engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -12391,9 +12391,9 @@
     "b": "s"
   },
   "product manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -25442,10 +25442,10 @@
   },
   "technical product manager": {
     "t": true,
-    "c": "stale",
-    "v": "",
-    "a": 0,
-    "b": "s"
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "n"
   },
   "trader assistant (working student)": {
     "t": false,
@@ -44182,8 +44182,9 @@
   },
   "software engineer 5 \u2013 agent platform, ai platform": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "sr. mp&o associate (ucan)": {
@@ -62982,9 +62983,10 @@
   },
   "pharmacy intern": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "5k new hire bonus! case manager behavioral health - lcsw or lcpc (field - chinatown area)": {
     "t": false,
@@ -63796,9 +63798,10 @@
   },
   "foreign pharmacy grad - international pharmacy intern": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "entry-level wheel designer": {
     "t": false,
@@ -67448,8 +67451,9 @@
   },
   "entry level software engineer - atlanta, ga": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "n"
   },
   "entry-level network technician": {
@@ -71404,8 +71408,8 @@
   },
   "junior data engineer": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "n"
   },
@@ -71492,8 +71496,9 @@
   },
   "university - 2027 summer games systems engineer intern - el segundo, ca": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "university - 2027 summer games systems engineer intern - san diego, ca": {
@@ -75081,9 +75086,10 @@
   },
   "r&d co-op": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "intern - instructional design and training development - starting spring 2027": {
     "t": false,
