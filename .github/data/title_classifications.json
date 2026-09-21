@@ -5763,9 +5763,9 @@
     "b": "s"
   },
   "senior data engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -13451,9 +13451,9 @@
     "b": "s"
   },
   "senior software engineer, backend": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -21967,9 +21967,9 @@
     "b": "s"
   },
   "senior software engineer, ios": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -63109,8 +63109,8 @@
   },
   "software engineering intern": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "s"
   },
@@ -63649,9 +63649,10 @@
   },
   "financial advisor intern": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "banking advisor intern": {
     "t": false,
@@ -65251,8 +65252,10 @@
   },
   "2027 business management intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "2027 graduate software engineer (dv commodities)": {
     "t": true,
