@@ -9684,8 +9684,8 @@
   },
   "technical program manager": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -25165,8 +25165,8 @@
   },
   "network engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -39492,8 +39492,9 @@
   },
   "sr site reliability engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "principal, ad tech enablement": {
@@ -63855,10 +63856,11 @@
     "a": 0
   },
   "it operations intern": {
-    "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   },
   "multimedia development intern": {
     "t": false,
@@ -64475,8 +64477,8 @@
   },
   "software engineering intern - summer 2027": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "s"
   },
@@ -72497,9 +72499,10 @@
   },
   "corporate finance intern": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "asset management intern - investments": {
     "t": false,
@@ -74848,8 +74851,10 @@
   },
   "university - corporate finance intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "summer 2027 - brand management internship": {
     "t": false,
@@ -75575,9 +75580,10 @@
   },
   "financial analyst intern": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "ventures intern": {
     "t": false,
