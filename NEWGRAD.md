@@ -1,12 +1,15 @@
 # 🎓 New Grad 2027
 
-2494 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2497 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | BlackRock | Associate, Software Engineer - Aladdin Graph | New York, NY |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Software-Engineer---Aladdin-Graph_R266598?utm_source=aprameyak) | Sep 22 |
+| CIBC | Consultant, Quantitative Risk Modelling | Toronto, ON |  | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Consultant--Quantitative-Risk-Modelling_2617398-1?utm_source=aprameyak) | Sep 22 |
+| Northrop Grumman | 2026 Associate Engineer Software Dulles VA | United States-Virginia-Dulles | Spring 2026 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-Engineer-Software-Dulles-VA_R10252043?utm_source=aprameyak) | Sep 22 |
+| Wise | Graduate Software Engineer | Austin, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Wise/744000151030889) | Sep 22 |
 | AbbVie | Associate AI Data Scientist I | North Chicago, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015538268) | Sep 21 |
 | Amentum | Entry Level Software Engineer | Dahlgren, VA |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0171030?utm_source=aprameyak) | Sep 21 |
 | CACI | Junior Cyber Software Engineer | Aberdeen Proving Ground, MD, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Aberdeen-Proving-Ground-MD-US/Junior-Cyber-Software-Engineer_332339?utm_source=aprameyak) | Sep 21 |

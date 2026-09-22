@@ -1,12 +1,13 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1398 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1399 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
 | Entegris | Enterprise Solution Architecture Analyst Co-Op | Chaska, MN | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Chaska-MN/Enterprise-Solution-Architecture-Analyst-Co-Op_REQ-14445?utm_source=aprameyak) | Sep 22 |
+| Optiver | Software Engineer Co-Op (January - April 2027) | Chicago, IL | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002?utm_source=aprameyak) | Sep 22 |
 | Thermo Fisher Scientific | Reliability Engineering Co-Op | Mississauga, Canada | Co-op | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Mississauga-Canada/Reliability-Engineering-Co-Op_R-01366617?utm_source=aprameyak) | Sep 22 |
 | ↳ | Quality Assurance Co-op | Mississauga, Canada | Co-op | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Mississauga-Canada/Quality-Assurance-Co-op_R-01366603?utm_source=aprameyak) | Sep 22 |
 | ↳ | Research & Development Co-op | Mississauga, Canada | Co-op | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Mississauga-Canada/Research---Development-Co-op_R-01366606?utm_source=aprameyak) | Sep 22 |

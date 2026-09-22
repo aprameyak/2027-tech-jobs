@@ -1,14 +1,25 @@
 # ☀️ Summer 2027 Internships
 
-4892 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4903 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| American Express | Campus Undergraduate Summer Internship Program 2027 – International Card Services & Global Merchant Network Services – Toronto, Canada | Toronto, ON | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014333) | Sep 22 |
+| Geneva Trading | Python Developer Intern | Chicago Office | Undergrad | [Apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242196007?utm_source=aprameyak) | Sep 22 |
+| ↳ | Systems Support Analyst Intern | Chicago Office | Masters | [Apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242246007?utm_source=aprameyak) | Sep 22 |
+| Google | Associate Product Manager Intern, Summer 2027 | Mountain View, CA | Undergrad | [Apply](https://www.google.com/about/careers/applications/jobs/results/134770032394543814) | Sep 22 |
 | Grant Thornton | Audit IT Assurance Intern - Summer 2027 | Phoenix, AZ | Undergrad | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115954) | Sep 22 |
+| Howmet Aerospace | Cybersecurity Intern | Pittsburgh, PA | Undergrad | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119551) | Sep 22 |
 | Johnson & Johnson | Development Engineer (GTO/SC) Summer Intern | Cincinnati, OH | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Development-Engineer--GTO-SC--Summer-Intern_R-098779?utm_source=aprameyak) | Sep 22 |
+| Northrop Grumman | 2027 Software Engineer Intern - San Diego CA | United States-California-San Diego | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150?utm_source=aprameyak) | Sep 22 |
+| RTX | Software Engineering Intern (Summer 2027) | PORTSMOUTH-PS1 ~ 1847 W Main Rd ~ NIMITZ BLDG, RI | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineering-Intern--Summer-2027-_01876065?utm_source=aprameyak) | Sep 22 |
+| Tanium | Cloud Security Intern | Durham, NC (Hybrid) | Undergrad | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8176398?utm_source=aprameyak) | Sep 22 |
 | Veolia | Research & Development Intern | Plainfield, IL | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000150791119) | Sep 22 |
+| Verizon Communications | Verizon Network and Technology: AI Science 2027 Internship: Rutgers, NJIT, NYU, UT Dallas, UT Arlington, Texas A&M | Basking Ridge, NJ | Undergrad | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169?utm_source=aprameyak) | Sep 22 |
+| ↳ | Verizon Network and Technology: AI Science 2027 Internship | Basking Ridge, NJ | Undergrad | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167?utm_source=aprameyak) | Sep 22 |
+| Walmart | 2026 Intern Conversion:  2027 Return Intern Cybersecurity | (USA) ISD Office - DGTC AR BENTONVILLE Home Office | Undergrad | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME-2026-Intern-Conversion---2027-Return-Intern-Cybersecurity_R-2630154?utm_source=aprameyak) | Sep 22 |
 | 3M | Internship - 2027 MBA IT Enterprise Application Intern | Maplewood, MN | Undergrad | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-MBA-IT-Enterprise-Application-Intern_R01171129?utm_source=aprameyak) | Sep 21 |
 | ABB | Sales Digital Tools & Technology Intern- Summer 2027 | Fort Smith, AR | Undergrad | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Sales-Digital-Tools---Technology-Intern--Summer-2027_JR00045318?utm_source=aprameyak) | Sep 21 |
 | AeroVironment | Software Engineering Intern | Simi Valley, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Software-Engineering-Intern_8813?utm_source=aprameyak) | Sep 21 |
