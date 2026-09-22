@@ -25011,8 +25011,9 @@
   },
   "graduate software engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "n"
   },
   "graduate software engineer (2026)": {
