@@ -13,8 +13,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4890)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1397)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4892)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1398)
 - [🎓 New Grad 2027](./NEWGRAD.md) (2494)
 
 ---
@@ -28,13 +28,15 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4890** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4892** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Grant Thornton | Audit IT Assurance Intern - Summer 2027 | Phoenix, AZ | Undergrad | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115954) | Sep 22 |
 | Johnson & Johnson | Development Engineer (GTO/SC) Summer Intern | Cincinnati, OH | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Development-Engineer--GTO-SC--Summer-Intern_R-098779?utm_source=aprameyak) | Sep 22 |
+| Veolia | Research & Development Intern | Plainfield, IL | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000150791119) | Sep 22 |
 | 3M | Internship - 2027 MBA IT Enterprise Application Intern | Maplewood, MN | Undergrad | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-MBA-IT-Enterprise-Application-Intern_R01171129?utm_source=aprameyak) | Sep 21 |
 | ABB | Sales Digital Tools & Technology Intern- Summer 2027 | Fort Smith, AR | Undergrad | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Sales-Digital-Tools---Technology-Intern--Summer-2027_JR00045318?utm_source=aprameyak) | Sep 21 |
 | AeroVironment | Software Engineering Intern | Simi Valley, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Software-Engineering-Intern_8813?utm_source=aprameyak) | Sep 21 |
@@ -107,13 +109,11 @@ Showing newest **75** of **4890** listings · [View full table](./SUMMER.md)
 | ↳ | B2C E-Commerce Analytics & Website Intern, Summer 2027 | North Andover, MA | Undergrad | [Apply](https://wattswater.wd5.myworkdayjobs.com/en-US/Intern-External/job/North-Andover-MA/B2C-E-Commerce-Analytics---Website-Intern--Summer-2027_10017536?utm_source=aprameyak) | Sep 21 |
 | Waymo | 2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221795) | Sep 21 |
 | ↳ | 2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221851) | Sep 21 |
-| Wellmark | Software Engineer Internship - Technology Healthcare Innovation | Des Moines, IA | Undergrad | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768) | Sep 21 |
-| WTW | Early Careers: Intern Conversion: Risk & Analytics and Alternative Risk Transfer Analyst- 2027 | New York, NY | Undergrad | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606112) | Sep 21 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1397** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1398** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
@@ -122,6 +122,7 @@ Showing newest **75** of **1397** listings · [View full table](./OFFCYCLE.md)
 | Entegris | Enterprise Solution Architecture Analyst Co-Op | Chaska, MN | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Chaska-MN/Enterprise-Solution-Architecture-Analyst-Co-Op_REQ-14445?utm_source=aprameyak) | Sep 22 |
 | Thermo Fisher Scientific | Reliability Engineering Co-Op | Mississauga, Canada | Co-op | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Mississauga-Canada/Reliability-Engineering-Co-Op_R-01366617?utm_source=aprameyak) | Sep 22 |
 | ↳ | Quality Assurance Co-op | Mississauga, Canada | Co-op | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Mississauga-Canada/Quality-Assurance-Co-op_R-01366603?utm_source=aprameyak) | Sep 22 |
+| ↳ | Research & Development Co-op | Mississauga, Canada | Co-op | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Mississauga-Canada/Research---Development-Co-op_R-01366606?utm_source=aprameyak) | Sep 22 |
 | Baker Hughes | Intern/Co-op - Engineering & Technology - Spring 2027 Opportunities | MINDEN-1631 BENTLY PARKWAY SOUTH, NV | Co-op | Undergrad | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Intern-Co-op---Engineering---Technology---Spring-2027-Opportunities_R169396?utm_source=aprameyak) | Sep 21 |
 | CIBC | Cloud Engineering Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Cloud-Engineering-Co-op_2619386-1?utm_source=aprameyak) | Sep 21 |
 | ↳ | Data Analytics Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Data-Analytics-Co-op_2619373?utm_source=aprameyak) | Sep 21 |
@@ -193,7 +194,6 @@ Showing newest **75** of **1397** listings · [View full table](./OFFCYCLE.md)
 | F5 | Software Development Engineer I - Former Summer 2026 Interns | Seattle, WA | Summer 2026 | Undergrad | [Apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-I--Former-Summer-2026-Interns-_RP1038795?utm_source=aprameyak) | Sep 20 |
 | fgf brands | IT Software QA Automation Co-Op - Winter 2027 | Woodbridge, CA | Winter 2027 | Undergrad | [Apply](https://careerscoopinternen-fgfbrands.icims.com/jobs/26841/it-software-qa-automation-co-op-%28winter-2027%29/job) | Sep 20 |
 | ↳ | Data Engineer Analytics and BI Co-op (Winter 2027) | Remote (US) | Co-op | Undergrad | [Apply](https://careerscoopinternen-fgfbrands.icims.com/jobs/26847/data-engineer-analytics-and-bi-co-op-%28winter-2027%29/job) | Sep 20 |
-| Fifth Third Bank | Information Security Co-op - Cyber Threat Interdiction - Summer 2027 | Cincinnati, OH | Co-op | Undergrad | [Apply](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582?utm_source=aprameyak) | Sep 20 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027

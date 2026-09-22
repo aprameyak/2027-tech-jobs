@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1397 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1398 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -9,6 +9,7 @@
 | Entegris | Enterprise Solution Architecture Analyst Co-Op | Chaska, MN | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Chaska-MN/Enterprise-Solution-Architecture-Analyst-Co-Op_REQ-14445?utm_source=aprameyak) | Sep 22 |
 | Thermo Fisher Scientific | Reliability Engineering Co-Op | Mississauga, Canada | Co-op | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Mississauga-Canada/Reliability-Engineering-Co-Op_R-01366617?utm_source=aprameyak) | Sep 22 |
 | ↳ | Quality Assurance Co-op | Mississauga, Canada | Co-op | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Mississauga-Canada/Quality-Assurance-Co-op_R-01366603?utm_source=aprameyak) | Sep 22 |
+| ↳ | Research & Development Co-op | Mississauga, Canada | Co-op | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Mississauga-Canada/Research---Development-Co-op_R-01366606?utm_source=aprameyak) | Sep 22 |
 | Baker Hughes | Intern/Co-op - Engineering & Technology - Spring 2027 Opportunities | MINDEN-1631 BENTLY PARKWAY SOUTH, NV | Co-op | Undergrad | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Intern-Co-op---Engineering---Technology---Spring-2027-Opportunities_R169396?utm_source=aprameyak) | Sep 21 |
 | CIBC | Cloud Engineering Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Cloud-Engineering-Co-op_2619386-1?utm_source=aprameyak) | Sep 21 |
 | ↳ | Data Analytics Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Data-Analytics-Co-op_2619373?utm_source=aprameyak) | Sep 21 |
