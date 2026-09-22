@@ -7359,8 +7359,8 @@
   },
   "senior software engineer, c++": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -13486,8 +13486,8 @@
   },
   "senior software engineer, frontend": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -65164,8 +65164,9 @@
   },
   "senior research scientist, target tracking": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "relationship manager commercial banking intern": {
