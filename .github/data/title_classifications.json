@@ -71380,9 +71380,10 @@
   },
   "founder associate intern": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "intern, agent development (summer 2027)": {
     "t": false,
