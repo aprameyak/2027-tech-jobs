@@ -9406,9 +9406,9 @@
     "b": "s"
   },
   "systems engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -29912,9 +29912,9 @@
     "b": "s"
   },
   "sr. product manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -63408,8 +63408,9 @@
   },
   "production programmer - entry level sql developer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "n"
   },
   "radar digital signal processing (dsp) intern/co-op": {
