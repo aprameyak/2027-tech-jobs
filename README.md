@@ -64,7 +64,6 @@ Showing newest **75** of **4889** listings · [View full table](./SUMMER.md)
 | ↳ | University, 2027 Summer Games Software Developer Intern - McLean, VA | McLean, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249823?utm_source=aprameyak) | Sep 21 |
 | ↳ | University, 2027 Summer Games Software Developer Intern - McLean, VA | McLean, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249825?utm_source=aprameyak) | Sep 21 |
 | Bot Auto | Intern, IT Specialist | Houston, TX | Undergrad | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5430792008?utm_source=aprameyak) | Sep 21 |
-| Epic Games | Data Science Intern | Cary, NC | Undergrad | [Apply](https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004) | Sep 21 |
 | Figma | PhD Intern, Data Science (2027) | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> | PhD | [Apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004&utm_source=aprameyak) | Sep 21 |
 | General Dynamics Mission Systems | FCS Auxiliary and Training Systems - Systems Engineer Intern | Pittsfield, MA | Masters | [Apply](https://careers-gdms.icims.com/jobs/74988/fcs-auxiliary-and-training-systems---systems-engineer-intern/job) | Sep 21 |
 | Geneva Trading | C++ Developer (Intern) | Chicago Office | Undergrad | [Apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007?utm_source=aprameyak) | Sep 21 |
@@ -96,19 +95,20 @@ Showing newest **75** of **4889** listings · [View full table](./SUMMER.md)
 | ↳ | 2027 Summer IT Internship Program | Birmingham, AL | Undergrad | [Apply](https://jobs.lever.co/protective/32a8a257-c5d4-4b77-bf0b-d08dbb93b752?utm_source=aprameyak) | Sep 21 |
 | Relay | Solutions Engineer Intern (Summer 2027 Opportunity) | Raleigh, NC | Undergrad | [Apply](https://job-boards.greenhouse.io/relaypro/jobs/8214334?utm_source=aprameyak) | Sep 21 |
 | RTX | Software Engineering Intern (Summer 2027) | FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A, IN | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01875725?utm_source=aprameyak) | Sep 21 |
-| SingleStore | MIT- Software Engineer Intern |Helios| | United States | Undergrad | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220948?utm_source=aprameyak) | Sep 21 |
-| ↳ | MIT- Software Engineer Intern |Helios| | United States | Undergrad | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220941?utm_source=aprameyak) | Sep 21 |
+| SingleStore | MIT- Software Engineer Intern |Helios| | United States | Undergrad | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220941?utm_source=aprameyak) | Sep 21 |
 | ↳ | MIT- Software Engineer Intern | Engine | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8221924?utm_source=aprameyak) | Sep 21 |
 | ↳ | MIT- Software Engineer Intern | Engine | United States | Undergrad | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220919?utm_source=aprameyak) | Sep 21 |
-| Sony | Sony Research - Internship on Audio Processing and Machine Learning | New York | Undergrad | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/sonyglobalcareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643?utm_source=aprameyak) | Sep 21 |
 | SOTI | Software Developer Intern (January 2026 12 months) | Mississauga, Canada – Meadowvale Office (HQ) | Undergrad | [Apply](https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--January-2026-12-months-_R10549?utm_source=aprameyak) | Sep 21 |
 | The Federal Reserve System | 2027 Summer Internship - Research | St. Louis, MO | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/St-Louis-MO/XMLNAME-2027-Summer-Internship---Research_R-0000033457?utm_source=aprameyak) | Sep 21 |
 | ↳ | 2027 Summer Internship - Business Technology | St. Louis, MO | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/St-Louis-MO/XMLNAME-2027-Summer-Internship---Business-Technology_R-0000033461?utm_source=aprameyak) | Sep 21 |
 | ↳ | Summer Intern: Digital Money and Payments Research & Development | Boston, MA | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Summer-Intern--Digital-Money-and-Payments-Research---Development_R-0000033442?utm_source=aprameyak) | Sep 21 |
-| Upstart | Applied Scientist Intern | United States | Remote | Undergrad | [Apply](https://careers.upstart.com/jobs?gh_jid=8213476) | Sep 21 |
 | Watts Water | Amazon & E-Commerce Marketplace Intern, Summer 2027 | North Andover, MA | Undergrad | [Apply](https://wattswater.wd5.myworkdayjobs.com/en-US/Intern-External/job/North-Andover-MA/Amazon---E-Commerce-Marketplace-Intern--Summer-2027_10017535?utm_source=aprameyak) | Sep 21 |
 | ↳ | B2C E-Commerce Analytics & Website Intern, Summer 2027 | North Andover, MA | Undergrad | [Apply](https://wattswater.wd5.myworkdayjobs.com/en-US/Intern-External/job/North-Andover-MA/B2C-E-Commerce-Analytics---Website-Intern--Summer-2027_10017536?utm_source=aprameyak) | Sep 21 |
 | Waymo | 2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221795) | Sep 21 |
+| ↳ | 2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221851) | Sep 21 |
+| Wellmark | Software Engineer Internship - Technology Healthcare Innovation | Des Moines, IA | Undergrad | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768) | Sep 21 |
+| WTW | Early Careers: Intern Conversion: Risk & Analytics and Alternative Risk Transfer Analyst- 2027 | New York, NY | Undergrad | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606112) | Sep 21 |
+| 1X | AI Residency Intern | San Carlos, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/1x/5b2b4c73-13b5-46ca-8467-8024741a4b57/application?utm_source=aprameyak) | Sep 20 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
@@ -256,8 +256,7 @@ Showing newest **75** of **2493** listings · [View full table](./NEWGRAD.md)
 | ↳ | Hiring Entry Level Software Engineer | Chesterfield, MO |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/112718194) | Sep 20 |
 | ↳ | Hiring Entry Level Software Engineer | Dallas, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/112610151) | Sep 20 |
 | AllianceBernstein | Software Development Associate | Nashville, TN |  | Undergrad | [Apply](https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Associate_R0019882?utm_source=aprameyak) | Sep 20 |
-| Amentum | Job Posting Title Junior Naval Systems Security Engineer | Dahlgren, VA |  | Masters | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Job-Posting-Title-Junior-Naval-Systems-Security-Engineer_R0170950?utm_source=aprameyak) | Sep 20 |
-| ↳ | Full Stack Developer | Annapolis Junction, MD |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Annapolis-Junction/Full-Stack-Developer_R0169629?utm_source=aprameyak) | Sep 20 |
+| Amentum | Full Stack Developer | Annapolis Junction, MD |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Annapolis-Junction/Full-Stack-Developer_R0169629?utm_source=aprameyak) | Sep 20 |
 | ↳ | Full Stack Developer | Fort Gordon, GA |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-GA-Fort-Gordon/Full-Stack-Developer_R0157199?utm_source=aprameyak) | Sep 20 |
 | ↳ | Full Stack Developer | Annapolis Junction, MD |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Annapolis-Junction/Full-Stack-Developer_R0160685?utm_source=aprameyak) | Sep 20 |
 | ↳ | Full Stack Developer | Annapolis Junction, MD |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Annapolis-Junction/Full-Stack-Developer_R0159837?utm_source=aprameyak) | Sep 20 |
@@ -279,6 +278,7 @@ Showing newest **75** of **2493** listings · [View full table](./NEWGRAD.md)
 | Conduent | Java Developer (Entry Level) | Atlanta, GA |  | Undergrad | [Apply](https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22738) | Sep 20 |
 | CrowdStrike | Associate Security Engineer (Remote) | USA - Remote, TX |  | Undergrad | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-TX/Security-Engineer--Remote-_R26320?utm_source=aprameyak) | Sep 20 |
 | DoorDash | Software Engineer, Entry-Level (Graduation Date Winter 2026 - Spring/Summer 2027) | Toronto, ON | Winter 2026 | Undergrad | [Apply](https://job-boards.greenhouse.io/doordashcanada/jobs/8176003?utm_source=aprameyak) | Sep 20 |
+| DTCC | Associate Product Manager (APM) | Jersey City, NJ |  | Undergrad | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/213782) | Sep 20 |
 <!-- TABLE_END newgrad -->
 
 ## Disclaimer
