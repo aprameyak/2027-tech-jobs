@@ -5586,9 +5586,9 @@
     "v": ""
   },
   "senior analytics engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -20152,9 +20152,10 @@
     "b": "s"
   },
   "senior software engineer - source security": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior software engineer - streaming platform ": {
@@ -37845,9 +37846,9 @@
     "b": "s"
   },
   "senior technical sourcer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
