@@ -1790,9 +1790,9 @@
     "b": "s"
   },
   "senior software engineer ": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -7970,9 +7970,9 @@
     "a": 0
   },
   "senior technical program manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -25696,9 +25696,9 @@
     "b": "s"
   },
   "senior data analyst": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -31305,9 +31305,9 @@
     "b": "s"
   },
   "principal engineer, ai platform": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -49053,9 +49053,10 @@
     "b": "s"
   },
   "principal technical product manager - valorant, ai/ml ": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "principal tools & pipeline technical artist - unpublished r&d product": {
@@ -51010,8 +51011,9 @@
   },
   "ai engineer, platform infrastructure, special programs": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "ai engineer, special programs": {
@@ -59647,9 +59649,10 @@
     "b": "s"
   },
   "senior fullstack software engineer, workshop management": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior hardware test development engineer": {
