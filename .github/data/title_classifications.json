@@ -72217,8 +72217,10 @@
   },
   "commercial analyst development program - phoenix, az (new grad 2027)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "n"
   },
   "commercial analyst development program - milwaukee, wi (new grad 2027)": {
     "t": false,
