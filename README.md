@@ -13,9 +13,9 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4923)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1404)
-- [🎓 New Grad 2027](./NEWGRAD.md) (2502)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4933)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1408)
+- [🎓 New Grad 2027](./NEWGRAD.md) (2508)
 
 ---
 
@@ -28,7 +28,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4923** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4933** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -38,36 +38,46 @@ Showing newest **75** of **4923** listings · [View full table](./SUMMER.md)
 | American Express | Campus Undergraduate Summer Internship Program 2027 – International Card Services & Global Merchant Network Services – Toronto, Canada | Toronto, ON | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014333) | Sep 22 |
 | Booz Allen Hamilton | University, 2027 Summer Games Software Developer Intern - McLean, VA | McLean, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249827?utm_source=aprameyak) | Sep 22 |
 | ↳ | University, 2027 Summer Games Software Developer Intern - McLean, VA | McLean, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249828?utm_source=aprameyak) | Sep 22 |
+| ↳ | University - 2027 Summer Games Software Developer Intern - Annapolis Junction, MD | Annapolis Junction, MD | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0249873?utm_source=aprameyak) | Sep 22 |
 | CACI | Software Engineering Intern - Summer 2027 | Sterling, VA, US | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332386?utm_source=aprameyak) | Sep 22 |
+| Clearwater Analytics | UX/UI/Technical Content Intern | Office - New York | Undergrad | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---New-York/UX-UI-Technical-Content-Intern_R12196?utm_source=aprameyak) | Sep 22 |
 | Cotiviti | Intern - Data Engineer AI (Databricks, SQL, Python, Governance) | Remote (US) | Undergrad | [Apply](https://careers-cotiviti.icims.com/jobs/20383/intern---data-engineer-ai-%28databricks%2c-sql%2c-python%2c-governance%29/job) | Sep 22 |
 | Cox Enterprises | Cox Conserves Technical Intern - Summer 2027 | Atlanta GA | Undergrad | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Cox-Conserves-Technical-Intern---Summer-2027_R202682337?utm_source=aprameyak) | Sep 22 |
+| Emerson Electric | Graduate Software Engineering Intern | Round Rock, TX | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011295) | Sep 22 |
 | Geneva Trading | Python Developer Intern | Chicago Office | Undergrad | [Apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242196007?utm_source=aprameyak) | Sep 22 |
 | ↳ | Systems Support Analyst Intern | Chicago Office | Masters | [Apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242246007?utm_source=aprameyak) | Sep 22 |
 | Google | Associate Product Manager Intern, Summer 2027 | Mountain View, CA | Undergrad | [Apply](https://www.google.com/about/careers/applications/jobs/results/134770032394543814) | Sep 22 |
 | Gordon Food Service | Identity Analyst IT Internship | Wyoming, MI | Undergrad | [Apply](https://gfs.wd5.myworkdayjobs.com/en-US/usjobs-gen-gfs/job/Wyoming-Michigan/Identity-Analyst-IT-Internship_R-57499-1?utm_source=aprameyak) | Sep 22 |
 | Grant Thornton | Audit IT Assurance Intern - Summer 2027 | Phoenix, AZ | Undergrad | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115954) | Sep 22 |
+| ↳ | Audit IT Assurance Intern - Summer 2027 | San Diego, CA | Undergrad | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115962) | Sep 22 |
 | Hermeus | Build Reliability Engineering Intern - Spring/Summer 2027 | Atlanta, GA | Undergrad | [Apply](https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a?utm_source=aprameyak) | Sep 22 |
 | Howmet Aerospace | Cybersecurity Intern | Pittsburgh, PA | Undergrad | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119551) | Sep 22 |
 | HP | UX Designer Intern | Vancouver, WA | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/UX-Designer-Intern_3168104-1?utm_source=aprameyak) | Sep 22 |
 | ibotta | Information Security Intern | Hybrid - Denver | Undergrad | [Apply](https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582/application?utm_source=aprameyak) | Sep 22 |
 | Johnson & Johnson | Development Engineer (GTO/SC) Summer Intern | Cincinnati, OH | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Development-Engineer--GTO-SC--Summer-Intern_R-098779?utm_source=aprameyak) | Sep 22 |
+| Leidos | Software Developer Intern | Annapolis Junction, MD | Undergrad | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858?utm_source=aprameyak) | Sep 22 |
+| Mastercard | Product Management Intern, Summer 2027 - St. Louis, MO (US) | O'Fallon, MO | Undergrad | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1?utm_source=aprameyak) | Sep 22 |
 | Northrop Grumman | 2027 Software Engineer Intern - San Diego CA | United States-California-San Diego | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150?utm_source=aprameyak) | Sep 22 |
 | ↳ | 2027 Cyber Software Engineer Intern - Tampa FL | United States-Florida-Tampa | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530?utm_source=aprameyak) | Sep 22 |
 | ↳ | 2027 Cyber Systems Engineer Intern-Tampa FL | United States-Florida-Tampa | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196?utm_source=aprameyak) | Sep 22 |
 | RTX | Software Engineering Intern (Summer 2027) | PORTSMOUTH-PS1 ~ 1847 W Main Rd ~ NIMITZ BLDG, RI | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineering-Intern--Summer-2027-_01876065?utm_source=aprameyak) | Sep 22 |
 | ↳ | Secure System Engineering Intern (Summer 2027) | CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106, IA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Secure-System-Engineering-Intern--Summer-2027-_01876180?utm_source=aprameyak) | Sep 22 |
 | ↳ | Secure System Engineering Intern (Summer 2027) | WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1, CT | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Cybersecurity-Engineering-Intern--Summer-2027-_01876185?utm_source=aprameyak) | Sep 22 |
+| ↳ | Operations Software Engineering Intern (Summer 2027) | BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG, MN | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Operations-Software-Engineering-Intern--Summer-2027-_01874620?utm_source=aprameyak) | Sep 22 |
 | Symbotic | Intern- Software Engineer | USA Wilmington,  MA - HQ | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963?utm_source=aprameyak) | Sep 22 |
 | ↳ | Intern- Data Engineer | USA Wilmington,  MA - HQ | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Data-Engineer_R7967?utm_source=aprameyak) | Sep 22 |
 | ↳ | Intern- Robot Perception | USA Wilmington,  MA - HQ | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Robot-Perception_R7964?utm_source=aprameyak) | Sep 22 |
 | ↳ | Intern- Bot Controls | USA Wilmington,  MA - HQ | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Bot-Controls_R7965?utm_source=aprameyak) | Sep 22 |
+| ↳ | Intern - Industrial Controls | USA Wilmington,  MA - HQ | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Industrial-Controls_R7973?utm_source=aprameyak) | Sep 22 |
 | Tanium | Cloud Security Intern | Durham, NC (Hybrid) | Undergrad | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8176398?utm_source=aprameyak) | Sep 22 |
 | Tencent | IT Operations Intern | US-California-Palo Alto | Undergrad | [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/IT-Operations-Intern_R108176-2?utm_source=aprameyak) | Sep 22 |
 | ↳ | Site Reliability Engineer (SRE) Intern — AI Infrastructure | US-California-Palo Alto | Undergrad | [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1?utm_source=aprameyak) | Sep 22 |
+| The Aerospace Corporation | 2027 Software Tools and Assurance Intern | El Segundo, CA | Undergrad | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429?utm_source=aprameyak) | Sep 22 |
 | Veolia | Research & Development Intern | Plainfield, IL | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000150791119) | Sep 22 |
 | Verizon Communications | Verizon Network and Technology: AI Science 2027 Internship: Rutgers, NJIT, NYU, UT Dallas, UT Arlington, Texas A&M | Basking Ridge, NJ | Undergrad | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169?utm_source=aprameyak) | Sep 22 |
 | ↳ | Verizon Network and Technology: AI Science 2027 Internship | Basking Ridge, NJ | Undergrad | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167?utm_source=aprameyak) | Sep 22 |
 | Walmart | 2026 Intern Conversion:  2027 Return Intern Cybersecurity | (USA) ISD Office - DGTC AR BENTONVILLE Home Office | Undergrad | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME-2026-Intern-Conversion---2027-Return-Intern-Cybersecurity_R-2630154?utm_source=aprameyak) | Sep 22 |
+| Waymo | 2027 Summer Intern, MS/PhD, Machine Learning Engineer | San Francisco, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8223735) | Sep 22 |
 | 3M | Internship - 2027 MBA IT Enterprise Application Intern | Maplewood, MN | Undergrad | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-MBA-IT-Enterprise-Application-Intern_R01171129?utm_source=aprameyak) | Sep 21 |
 | ABB | Sales Digital Tools & Technology Intern- Summer 2027 | Fort Smith, AR | Undergrad | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Sales-Digital-Tools---Technology-Intern--Summer-2027_JR00045318?utm_source=aprameyak) | Sep 21 |
 | AeroVironment | Software Engineering Intern | Simi Valley, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Software-Engineering-Intern_8813?utm_source=aprameyak) | Sep 21 |
@@ -99,30 +109,24 @@ Showing newest **75** of **4923** listings · [View full table](./SUMMER.md)
 | ↳ | University, 2027 Summer Games Software Developer Intern - McLean, VA | McLean, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249825?utm_source=aprameyak) | Sep 21 |
 | Bot Auto | Intern, IT Specialist | Houston, TX | Undergrad | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5430792008?utm_source=aprameyak) | Sep 21 |
 | Figma | PhD Intern, Data Science (2027) | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> | PhD | [Apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004&utm_source=aprameyak) | Sep 21 |
-| General Dynamics Mission Systems | FCS Auxiliary and Training Systems - Systems Engineer Intern | Pittsfield, MA | Masters | [Apply](https://careers-gdms.icims.com/jobs/74988/fcs-auxiliary-and-training-systems---systems-engineer-intern/job) | Sep 21 |
-| Geneva Trading | C++ Developer (Intern) | Chicago Office | Undergrad | [Apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007?utm_source=aprameyak) | Sep 21 |
-| ↳ | PMO Data Engineering Intern | Chicago Office | Undergrad | [Apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242180007?utm_source=aprameyak) | Sep 21 |
-| Gordon Food Service | Imports & Commodities - Data Analyst Internship | Wyoming, MI | Undergrad | [Apply](https://gfs.wd5.myworkdayjobs.com/en-US/usjobs-gen-gfs/job/Wyoming-Michigan/Imports---Commodities---Data-Analyst-Internship_R-57384?utm_source=aprameyak) | Sep 21 |
-| Headlands Technologies | Deep Learning Research Internship | <details><summary>**2 locations**</summary>Chicago, IL</br>New York</details> | Undergrad | [Apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4412947009?utm_source=aprameyak) | Sep 21 |
-| Hitachi | Intern –RAMS (Reliability, Availability, Maintainability, and Safety) | Pittsburgh, PA | Masters | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern--RAMS--Reliability--Availability--Maintainability--and-Safety-_R0145193?utm_source=aprameyak) | Sep 21 |
-| Jabil | Enterprise Solutions Intern | St. Petersburg/Tampa, FL | Undergrad | [Apply](https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Enterprise-Solutions-Intern_J2464889?utm_source=aprameyak) | Sep 21 |
-| Lazard | 2027 Data Engineer Summer Internship | New York, United States | Undergrad | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605) | Sep 21 |
-| ↳ | 2027 AI Engineer Summer Internship | New York, United States | Undergrad | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6606) | Sep 21 |
-| ↳ | 2027 Data Scientist Summer Internship | New York, United States | Undergrad | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6604) | Sep 21 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1404** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1408** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Beam Therapeutics | Technical Operations Co-op | Durham, NC | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/beamtherapeutics/jobs/8831677002?utm_source=aprameyak) | Sep 22 |
 | CIBC | Technical Systems Analyst Co-op | Toronto, ON | Co-op | Masters | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Technical-Systems-Analyst-Co-op_2619421?utm_source=aprameyak) | Sep 22 |
+| ↳ | Software/Application Developer Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461?utm_source=aprameyak) | Sep 22 |
+| ↳ | Application/Software Developer Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op_2619454?utm_source=aprameyak) | Sep 22 |
 | Entegris | Enterprise Solution Architecture Analyst Co-Op | Chaska, MN | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Chaska-MN/Enterprise-Solution-Architecture-Analyst-Co-Op_REQ-14445?utm_source=aprameyak) | Sep 22 |
 | General Dynamics Mission Systems | Co-op Winter 2027 - Software Engineering - 4-8 months | Cole Harbour, NS | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000151059868) | Sep 22 |
 | Johnson & Johnson | Commercial Data Science & AI Co-op | Raritan, NJ | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099381?utm_source=aprameyak) | Sep 22 |
+| ↳ | Technical Operations Engineering Co-Op | San Lorenzo, Puerto Rico, United States of America | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Technical-Operations-Engineering-Co-Op_R-099385?utm_source=aprameyak) | Sep 22 |
 | M&T Bank | 2027 Enterprise Operations Development Program- Consumer Default | Getzville, NY | Co-op | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Getzville-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--Consumer-Default_R89028?utm_source=aprameyak) | Sep 22 |
 | Optiver | Software Engineer Co-Op (January - April 2027) | Chicago, IL | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002?utm_source=aprameyak) | Sep 22 |
 | Thermo Fisher Scientific | Reliability Engineering Co-Op | Mississauga, Canada | Co-op | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Mississauga-Canada/Reliability-Engineering-Co-Op_R-01366617?utm_source=aprameyak) | Sep 22 |
@@ -190,23 +194,25 @@ Showing newest **75** of **1404** listings · [View full table](./OFFCYCLE.md)
 | ↳ | Reliability Engineer Co-Op | Bedford, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Bedford-MA/Reliability-Engineer-Co-Op_REQ-14399?utm_source=aprameyak) | Sep 20 |
 | ↳ | Manufacturing Systems and Planning Co-Op | Rockrimmon, Colorado Springs, CO | Co-op | Masters | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Manufacturing-Systems-and-Planning-Co-Op_REQ-14410?utm_source=aprameyak) | Sep 20 |
 | ↳ | Digital Operations Co-Op | Billerica, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Billerica-MA/Digital-Operations-Co-Op_REQ-14395?utm_source=aprameyak) | Sep 20 |
-| ↳ | Microanalysis Scientist Co-Op | Billerica, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Billerica-MA/Microanalysis-Scientist-Co-Op_REQ-14476?utm_source=aprameyak) | Sep 20 |
-| ↳ | Research and Development Engineer/Scientist Co-Op | Danbury, CT | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Danbury-CT/Research-and-Development-Engineer-Scientist-Co-Op_REQ-14430?utm_source=aprameyak) | Sep 20 |
-| ↳ | R&D Analytical Chemist Co-Op | Danbury, CT | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Danbury-CT/R-D-Analytical-Chemist-Co-Op_REQ-14471?utm_source=aprameyak) | Sep 20 |
-| ↳ | Analytical scientist Co-Op | Billerica, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Billerica-MA/Analytical-scientist-Co-Op_REQ-14500-1?utm_source=aprameyak) | Sep 20 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **2502** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **2508** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Belvedere Trading | Early Career Talent Partner- Trading | Chicago, IL |  | Undergrad | [Apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27?utm_source=aprameyak) | Sep 22 |
 | BlackRock | Associate, Software Engineer - Aladdin Graph | New York, NY |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Software-Engineer---Aladdin-Graph_R266598?utm_source=aprameyak) | Sep 22 |
 | ↳ | Product Operations Associate, Aladdin Platform Engineering | New York, NY |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Product-Operations-Associate--Aladdin-Platform-Engineering_R266544?utm_source=aprameyak) | Sep 22 |
 | CIBC | Consultant, Quantitative Risk Modelling | Toronto, ON |  | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Consultant--Quantitative-Risk-Modelling_2617398-1?utm_source=aprameyak) | Sep 22 |
+| CNA Insurance | Business Intelligence Developer | Scottsdale, AZ |  | Undergrad | [Apply](https://cna.wd1.myworkdayjobs.com/en-US/cna_careers/job/Scottsdale-AZ-USA/Business-Intelligence-Developer_R-7872?utm_source=aprameyak) | Sep 22 |
+| Datalab USA | Production Programmer - Entry Level SQL Developer | Westminster, CO |  | Undergrad | [Apply](https://jobs.lever.co/datalabusa/9254110c-d83f-4921-aca6-b26d203bbc53?utm_source=aprameyak) | Sep 22 |
+| Disney | Associate Product Manager (Project Hire) | Orlando, FL |  | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Associate-Product-Manager--Project-Hire-_10159844?utm_source=aprameyak) | Sep 22 |
+| JPMorganChase | Internal Audit, Asset Wealth Management - Senior Associate - Data Scientist | Plano, TX |  | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777525) | Sep 22 |
+| Light & Wonder | Associate Software QA Engineer | Las Vegas, NV |  | Undergrad | [Apply](https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Las-Vegas-NV/Associate-Software-QA-Engineer_R322730?utm_source=aprameyak) | Sep 22 |
 | Northrop Grumman | 2026 Associate Engineer Software Dulles VA | United States-Virginia-Dulles | Spring 2026 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-Engineer-Software-Dulles-VA_R10252043?utm_source=aprameyak) | Sep 22 |
 | Photon | Android Developer | United States |  | Undergrad | [Apply](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/27072) | Sep 22 |
 | Southwest Airlines | Associate Cloud DevOps Engineer - Direct College Hire | TX-Dallas |  | Undergrad | [Apply](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Cloud-DevOps-Engineer---Direct-College-Hire_R-2026-72884?utm_source=aprameyak) | Sep 22 |
@@ -273,12 +279,6 @@ Showing newest **75** of **2502** listings · [View full table](./NEWGRAD.md)
 | Arch | Software Engineer | Early Careers, 2027 Start | New York City |  | Undergrad | [Apply](https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application?utm_source=aprameyak) | Sep 20 |
 | BDO Canada | Business Analyst New Grad - Data & Analytics | Montreal, QC, Canada Toronto, ON, Canada Calgary, AB, Canada Oakville, ON, Canada Edmonton, AB, Canada Ottawa, ON, Canada Halifax Regional Municipality, NS |  | Undergrad | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst---Data---Analytics---New-Grad--January-2027-_JR7065?utm_source=aprameyak) | Sep 20 |
 | ↳ | New Grad - Business Analysis & Quality Assurance (January 2027) | Ottawa - Kent St | Spring 2027 | Undergrad | [Apply](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Ottawa---Kent-St/New-Grad---Business-Analysis---Quality-Assurance--January-2027-_JR7096?utm_source=aprameyak) | Sep 20 |
-| BlackRock | Associate, Frontend Software Engineer (React) | Chicago, IL |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Chicago-IL/Associate--Frontend-Software-Engineer--React-_R264790?utm_source=aprameyak) | Sep 20 |
-| BMO Financial Group | Associate, Data Engineer | Toronto, ON, CAN |  | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Associate--Data-Engineer_R250030897?utm_source=aprameyak) | Sep 20 |
-| ↳ | Associate, DevOps Engineer | Toronto, ON, CAN |  | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Associate--AI-DevOps-Engineer_R250030900?utm_source=aprameyak) | Sep 20 |
-| Boeing | Software Engineer (Associate or Experienced) | USA - Colorado Springs, CO |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Software-Engineer--Associate-or-Experienced-_JR2026523054-1?utm_source=aprameyak) | Sep 20 |
-| Bot Auto | Algorithm Engineer, Deep Learning & Vision (New Grad) | Houston, TX or San Francisco Bay Area |  | Undergrad | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5371947008?utm_source=aprameyak) | Sep 20 |
-| BP | Supply, Trading, and Shipping Graduate Program- Trading & Analytics- Calgary | Canada - Calgary |  | Undergrad | [Apply](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpEarlyCareers/job/Canada---Calgary/Supply--Trading--and-Shipping-Graduate-Program--Trading---Analytics--Calgary_RQ115339?utm_source=aprameyak) | Sep 20 |
 <!-- TABLE_END newgrad -->
 
 ## Disclaimer

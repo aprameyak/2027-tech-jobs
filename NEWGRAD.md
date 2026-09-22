@@ -1,14 +1,20 @@
 # 🎓 New Grad 2027
 
-2502 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2508 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Belvedere Trading | Early Career Talent Partner- Trading | Chicago, IL |  | Undergrad | [Apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27?utm_source=aprameyak) | Sep 22 |
 | BlackRock | Associate, Software Engineer - Aladdin Graph | New York, NY |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Software-Engineer---Aladdin-Graph_R266598?utm_source=aprameyak) | Sep 22 |
 | ↳ | Product Operations Associate, Aladdin Platform Engineering | New York, NY |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Product-Operations-Associate--Aladdin-Platform-Engineering_R266544?utm_source=aprameyak) | Sep 22 |
 | CIBC | Consultant, Quantitative Risk Modelling | Toronto, ON |  | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Consultant--Quantitative-Risk-Modelling_2617398-1?utm_source=aprameyak) | Sep 22 |
+| CNA Insurance | Business Intelligence Developer | Scottsdale, AZ |  | Undergrad | [Apply](https://cna.wd1.myworkdayjobs.com/en-US/cna_careers/job/Scottsdale-AZ-USA/Business-Intelligence-Developer_R-7872?utm_source=aprameyak) | Sep 22 |
+| Datalab USA | Production Programmer - Entry Level SQL Developer | Westminster, CO |  | Undergrad | [Apply](https://jobs.lever.co/datalabusa/9254110c-d83f-4921-aca6-b26d203bbc53?utm_source=aprameyak) | Sep 22 |
+| Disney | Associate Product Manager (Project Hire) | Orlando, FL |  | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Associate-Product-Manager--Project-Hire-_10159844?utm_source=aprameyak) | Sep 22 |
+| JPMorganChase | Internal Audit, Asset Wealth Management - Senior Associate - Data Scientist | Plano, TX |  | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777525) | Sep 22 |
+| Light & Wonder | Associate Software QA Engineer | Las Vegas, NV |  | Undergrad | [Apply](https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Las-Vegas-NV/Associate-Software-QA-Engineer_R322730?utm_source=aprameyak) | Sep 22 |
 | Northrop Grumman | 2026 Associate Engineer Software Dulles VA | United States-Virginia-Dulles | Spring 2026 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-Engineer-Software-Dulles-VA_R10252043?utm_source=aprameyak) | Sep 22 |
 | Photon | Android Developer | United States |  | Undergrad | [Apply](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/27072) | Sep 22 |
 | Southwest Airlines | Associate Cloud DevOps Engineer - Direct College Hire | TX-Dallas |  | Undergrad | [Apply](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Cloud-DevOps-Engineer---Direct-College-Hire_R-2026-72884?utm_source=aprameyak) | Sep 22 |
