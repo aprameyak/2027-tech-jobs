@@ -6448,9 +6448,9 @@
     "b": "s"
   },
   "senior machine learning engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -21255,9 +21255,9 @@
     "b": "s"
   },
   "engineering manager, data": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -31357,8 +31357,9 @@
   },
   "security software engineer ii, detection and response": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "security software engineer ii, security operations": {
@@ -37799,9 +37800,9 @@
     "b": "s"
   },
   "senior software engineer, business systems": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -77762,8 +77763,8 @@
   },
   "2027 summer intern, ms/phd, software engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "s"
   },
