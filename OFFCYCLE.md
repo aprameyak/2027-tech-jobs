@@ -1,12 +1,17 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1412 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1417 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
 | BMO Financial Group | UX/UI Designer, Winter 2027 (Co-op/Internship)- 8 months | Toronto, ON, CAN | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1?utm_source=aprameyak) | Sep 23 |
+| CIBC | Quality Assurance Analyst-Co-op Winter 2027 | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Quality-Assurance-Analyst-Co-op-Winter-2027_2619573?utm_source=aprameyak) | Sep 23 |
+| ↳ | Quality Assurance Analyst-Co-op Winter 2027 | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Quality-Assurance-Analyst-Co-op-Winter-2027_2619573-1?utm_source=aprameyak) | Sep 23 |
+| Johnson & Johnson | Software Test Engineering Co-op (Beatbox) | Danvers, MA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707?utm_source=aprameyak) | Sep 23 |
+| ↳ | Software Test Engineering Co-op (RLM) | Danvers, MA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669?utm_source=aprameyak) | Sep 23 |
+| ↳ | Heart Recovery Software R&D Co-Op | Halethorpe, MD | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393?utm_source=aprameyak) | Sep 23 |
 | Symbotic | Co-op - Robot Perception | USA Wilmington,  MA - HQ | Co-op | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op---Robot-Perception_R8113-1?utm_source=aprameyak) | Sep 23 |
 | ↳ | Co-op - Software Engineer | USA Wilmington,  MA - HQ | Co-op | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op---Software-Engineer_R8111?utm_source=aprameyak) | Sep 23 |
 | Vital Lyfe | Software Engineering Internship - Spring 2027 | Los Angeles - Greater Area | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/vital-lyfe/c39b72aa-9ad5-43e7-a3fd-8ef2e152ee4b/application?utm_source=aprameyak) | Sep 23 |
