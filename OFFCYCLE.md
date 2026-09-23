@@ -1,11 +1,12 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1408 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1409 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Vital Lyfe | Software Engineering Internship - Spring 2027 | Los Angeles - Greater Area | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/vital-lyfe/c39b72aa-9ad5-43e7-a3fd-8ef2e152ee4b/application?utm_source=aprameyak) | Sep 23 |
 | Beam Therapeutics | Technical Operations Co-op | Durham, NC | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/beamtherapeutics/jobs/8831677002?utm_source=aprameyak) | Sep 22 |
 | CIBC | Technical Systems Analyst Co-op | Toronto, ON | Co-op | Masters | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Technical-Systems-Analyst-Co-op_2619421?utm_source=aprameyak) | Sep 22 |
 | ↳ | Software/Application Developer Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461?utm_source=aprameyak) | Sep 22 |

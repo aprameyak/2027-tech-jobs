@@ -13,9 +13,9 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4933)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1408)
-- [🎓 New Grad 2027](./NEWGRAD.md) (2508)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4939)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1409)
+- [🎓 New Grad 2027](./NEWGRAD.md) (2510)
 
 ---
 
@@ -28,12 +28,18 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4933** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4939** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Amazon | Security Engineer Internship – 2027 (US) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us) | Sep 23 |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Salt Lake City, UT | Salt Lake City, UT | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014224) | Sep 23 |
+| Astranis Space Technologies | Software Engineer Backend Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705214006?utm_source=aprameyak) | Sep 23 |
+| ↳ | Software Engineer - Enterprise Systems Intern (Summer 2027) | San Francisco, CA | Masters | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705610006?utm_source=aprameyak) | Sep 23 |
+| Motorola Solutions | Business Systems Analyst Internship Summer 2027 | Chicago, IL | Masters | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572?utm_source=aprameyak) | Sep 23 |
+| Waymo | 2027 Summer Intern, PhD, Data Science | <details><summary>**2 locations**</summary>Mountain View, CA</br>San Francisco, CA</details> | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221956) | Sep 23 |
 | Allegion | Summer Intern - Software Engineer | Carmel, IN | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR37747-2?utm_source=aprameyak) | Sep 22 |
 | American Express | Campus Undergraduate Summer Internship Program 2027 – International Card Services & Global Merchant Network Services – Toronto, Canada | Toronto, ON | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014333) | Sep 22 |
 | Booz Allen Hamilton | University, 2027 Summer Games Software Developer Intern - McLean, VA | McLean, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249827?utm_source=aprameyak) | Sep 22 |
@@ -103,22 +109,17 @@ Showing newest **75** of **4933** listings · [View full table](./SUMMER.md)
 | ↳ | University, 2027 Summer Games Software Developer Intern - McLean, VA | McLean, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249809?utm_source=aprameyak) | Sep 21 |
 | ↳ | University - 2027 Summer Games Data Scientist Intern - McLean, VA | McLean, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249837?utm_source=aprameyak) | Sep 21 |
 | ↳ | University - 2027 Summer Games Cyber Security Intern - McLean, VA | McLean, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0249878?utm_source=aprameyak) | Sep 21 |
-| ↳ | University - 2027 Summer Games Data Scientist Intern - McLean, VA | McLean, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249842?utm_source=aprameyak) | Sep 21 |
-| ↳ | University - 2027 Summer Games Data Scientist Intern - McLean, VA | McLean, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249838?utm_source=aprameyak) | Sep 21 |
-| ↳ | University, 2027 Summer Games Software Developer Intern - McLean, VA | McLean, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249823?utm_source=aprameyak) | Sep 21 |
-| ↳ | University, 2027 Summer Games Software Developer Intern - McLean, VA | McLean, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249825?utm_source=aprameyak) | Sep 21 |
-| Bot Auto | Intern, IT Specialist | Houston, TX | Undergrad | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5430792008?utm_source=aprameyak) | Sep 21 |
-| Figma | PhD Intern, Data Science (2027) | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> | PhD | [Apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004&utm_source=aprameyak) | Sep 21 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1408** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1409** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Vital Lyfe | Software Engineering Internship - Spring 2027 | Los Angeles - Greater Area | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/vital-lyfe/c39b72aa-9ad5-43e7-a3fd-8ef2e152ee4b/application?utm_source=aprameyak) | Sep 23 |
 | Beam Therapeutics | Technical Operations Co-op | Durham, NC | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/beamtherapeutics/jobs/8831677002?utm_source=aprameyak) | Sep 22 |
 | CIBC | Technical Systems Analyst Co-op | Toronto, ON | Co-op | Masters | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Technical-Systems-Analyst-Co-op_2619421?utm_source=aprameyak) | Sep 22 |
 | ↳ | Software/Application Developer Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461?utm_source=aprameyak) | Sep 22 |
@@ -193,17 +194,18 @@ Showing newest **75** of **1408** listings · [View full table](./OFFCYCLE.md)
 | Entegris | Cybersecurity Engineer Co-Op | Chaska, MN | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1?utm_source=aprameyak) | Sep 20 |
 | ↳ | Reliability Engineer Co-Op | Bedford, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Bedford-MA/Reliability-Engineer-Co-Op_REQ-14399?utm_source=aprameyak) | Sep 20 |
 | ↳ | Manufacturing Systems and Planning Co-Op | Rockrimmon, Colorado Springs, CO | Co-op | Masters | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Manufacturing-Systems-and-Planning-Co-Op_REQ-14410?utm_source=aprameyak) | Sep 20 |
-| ↳ | Digital Operations Co-Op | Billerica, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Billerica-MA/Digital-Operations-Co-Op_REQ-14395?utm_source=aprameyak) | Sep 20 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **2508** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **2510** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Infoblox | Associate Software Engineer | Burnaby, BC |  | Undergrad | [Apply](https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8060) | Sep 23 |
+| Mastercard | Associate Product Specialist, Launch Program 2027 - United States | O'Fallon, MO |  | Undergrad | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623?utm_source=aprameyak) | Sep 23 |
 | Belvedere Trading | Early Career Talent Partner- Trading | Chicago, IL |  | Undergrad | [Apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27?utm_source=aprameyak) | Sep 22 |
 | BlackRock | Associate, Software Engineer - Aladdin Graph | New York, NY |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Software-Engineer---Aladdin-Graph_R266598?utm_source=aprameyak) | Sep 22 |
 | ↳ | Product Operations Associate, Aladdin Platform Engineering | New York, NY |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Product-Operations-Associate--Aladdin-Platform-Engineering_R266544?utm_source=aprameyak) | Sep 22 |
@@ -277,8 +279,6 @@ Showing newest **75** of **2508** listings · [View full table](./NEWGRAD.md)
 | ↳ | Full Stack Developer | Annapolis Junction, MD |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Annapolis-Junction/Full-Stack-Developer_R0159837?utm_source=aprameyak) | Sep 20 |
 | Anthelion Capital | Quant Developer — Full-time | New York City |  | Undergrad | [Apply](https://jobs.ashbyhq.com/anthelioncap/b6f6487c-384d-422c-8446-9cd06b068b38/application?utm_source=aprameyak) | Sep 20 |
 | Arch | Software Engineer | Early Careers, 2027 Start | New York City |  | Undergrad | [Apply](https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application?utm_source=aprameyak) | Sep 20 |
-| BDO Canada | Business Analyst New Grad - Data & Analytics | Montreal, QC, Canada Toronto, ON, Canada Calgary, AB, Canada Oakville, ON, Canada Edmonton, AB, Canada Ottawa, ON, Canada Halifax Regional Municipality, NS |  | Undergrad | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst---Data---Analytics---New-Grad--January-2027-_JR7065?utm_source=aprameyak) | Sep 20 |
-| ↳ | New Grad - Business Analysis & Quality Assurance (January 2027) | Ottawa - Kent St | Spring 2027 | Undergrad | [Apply](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Ottawa---Kent-St/New-Grad---Business-Analysis---Quality-Assurance--January-2027-_JR7096?utm_source=aprameyak) | Sep 20 |
 <!-- TABLE_END newgrad -->
 
 ## Disclaimer

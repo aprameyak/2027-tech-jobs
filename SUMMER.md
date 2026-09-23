@@ -1,11 +1,17 @@
 # ☀️ Summer 2027 Internships
 
-4933 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4939 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Amazon | Security Engineer Internship – 2027 (US) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us) | Sep 23 |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Salt Lake City, UT | Salt Lake City, UT | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014224) | Sep 23 |
+| Astranis Space Technologies | Software Engineer Backend Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705214006?utm_source=aprameyak) | Sep 23 |
+| ↳ | Software Engineer - Enterprise Systems Intern (Summer 2027) | San Francisco, CA | Masters | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705610006?utm_source=aprameyak) | Sep 23 |
+| Motorola Solutions | Business Systems Analyst Internship Summer 2027 | Chicago, IL | Masters | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572?utm_source=aprameyak) | Sep 23 |
+| Waymo | 2027 Summer Intern, PhD, Data Science | <details><summary>**2 locations**</summary>Mountain View, CA</br>San Francisco, CA</details> | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221956) | Sep 23 |
 | Allegion | Summer Intern - Software Engineer | Carmel, IN | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR37747-2?utm_source=aprameyak) | Sep 22 |
 | American Express | Campus Undergraduate Summer Internship Program 2027 – International Card Services & Global Merchant Network Services – Toronto, Canada | Toronto, ON | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014333) | Sep 22 |
 | Booz Allen Hamilton | University, 2027 Summer Games Software Developer Intern - McLean, VA | McLean, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249827?utm_source=aprameyak) | Sep 22 |
