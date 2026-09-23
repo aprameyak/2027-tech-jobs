@@ -27610,8 +27610,8 @@
   },
   "senior developer advocate": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -47805,8 +47805,8 @@
   },
   "senior software engineer in test": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -66417,8 +66417,9 @@
   },
   "associate software engineer ": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "n"
   },
   "associate educational sales consultant, inside sales, new grad": {
