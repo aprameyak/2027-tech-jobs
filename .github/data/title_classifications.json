@@ -77820,9 +77820,10 @@
   },
   "engineering intern (summer 2027)": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "associate product manager | housing": {
     "t": false,
