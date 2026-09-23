@@ -26645,9 +26645,10 @@
     "b": "s"
   },
   "senior software engineer, rider": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior software engineer, self-serve intelligence": {
@@ -31889,9 +31890,9 @@
     "b": "s"
   },
   "staff software engineer, observability": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -52752,8 +52753,9 @@
   },
   "full stack software engineer (components)": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "full stack software engineer, constellation tools (starlink)": {
