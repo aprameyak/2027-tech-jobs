@@ -4022,9 +4022,9 @@
     "b": "s"
   },
   "manager, software engineering": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -61781,9 +61781,9 @@
     "b": "s"
   },
   "senior software developer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -64433,9 +64433,10 @@
   },
   "finance intern - summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "applied ai engineering intern (m/f/d)": {
     "t": true,
@@ -68527,8 +68528,8 @@
   },
   "data engineering intern": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "s"
   },
