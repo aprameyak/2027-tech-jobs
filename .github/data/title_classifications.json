@@ -13658,9 +13658,9 @@
     "v": ""
   },
   "lead product manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -42567,9 +42567,9 @@
     "v": ""
   },
   "principal machine learning engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -63327,9 +63327,10 @@
   },
   "pharmacy intern - grad": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "part-time student worker system test engineer": {
     "t": true,
@@ -78161,9 +78162,10 @@
   },
   "pizza student part time day": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "product management intern, stagiaire gestion de produit": {
     "t": false,
