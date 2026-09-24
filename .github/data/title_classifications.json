@@ -6901,9 +6901,9 @@
     "b": "s"
   },
   "senior production software engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -36038,9 +36038,10 @@
     "b": "s"
   },
   "staff product manager, dashboard": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff product manager, enterprise": {
@@ -38173,9 +38174,9 @@
     "b": "s"
   },
   "senior software engineer, fullstack": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -47819,9 +47820,9 @@
     "a": 0
   },
   "senior solutions consultant": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -55852,8 +55853,9 @@
   },
   "software engineer (components)": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "software engineer, components (starshield)": {
