@@ -50950,9 +50950,9 @@
     "b": "s"
   },
   "manager, technical program management": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -61352,8 +61352,9 @@
   },
   "senior software engineer - design systems": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "compositor": {
@@ -63692,8 +63693,10 @@
   },
   "relationship manager intern, commercial financial services": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "submitting for a general internship application": {
     "t": false,
@@ -63902,9 +63905,10 @@
   },
   "relationship manager intern, business market": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "relationship manager, business markets- intern": {
     "t": false,
@@ -70682,9 +70686,10 @@
   },
   "claims representative internship - summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "personal lines underwriting internship - summer 2027": {
     "t": false,
