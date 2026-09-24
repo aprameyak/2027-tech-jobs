@@ -7942,9 +7942,10 @@
     "b": "s"
   },
   "senior systems engineer, space imaging": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior systems security engineer, programs": {
@@ -12739,8 +12740,9 @@
   },
   "cloud engineer ": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "commercial account executive": {
@@ -13566,9 +13568,9 @@
     "v": ""
   },
   "staff product manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -13703,9 +13705,9 @@
     "b": "s"
   },
   "senior software engineer ii": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -29454,9 +29456,10 @@
     "v": ""
   },
   "senior data analyst (auth0)": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior database reliability engineer (dbre)": {
@@ -31853,9 +31856,10 @@
     "b": "s"
   },
   "staff software engineer, big data storage": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff software engineer, big data, tvscientific": {
@@ -34748,8 +34752,9 @@
   },
   "data scientist, payments": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "deal pricing": {
@@ -38012,9 +38017,9 @@
     "b": "s"
   },
   "staff frontend engineer - mapping & spatial platform": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -44027,9 +44032,10 @@
     "v": ""
   },
   "engineering manager, cloud engineering": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "manager, account coordinators (fixed term contract - 12 months)": {
