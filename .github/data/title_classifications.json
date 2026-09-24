@@ -13259,9 +13259,10 @@
     "b": "s"
   },
   "engineering manager, cloud infrastructure": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "engineering manager, gtm engineering ": {
