@@ -87962,5 +87962,18 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "data scientist, mail (us)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "robotics data collection operator, shift lead - seattle": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
