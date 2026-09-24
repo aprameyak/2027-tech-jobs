@@ -32638,8 +32638,8 @@
   },
   "implementation consultant": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -42235,8 +42235,8 @@
   },
   "senior staff product manager": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -43426,9 +43426,9 @@
     "b": "s"
   },
   "security officer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -63987,8 +63987,8 @@
   },
   "junior software developer": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "n"
   },
@@ -65544,8 +65544,10 @@
   },
   "dietitian prn (student health clinical department)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "accounting high school internship": {
     "t": false,
@@ -77999,8 +78001,8 @@
   },
   "associate software engineer / software engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "n"
   },
