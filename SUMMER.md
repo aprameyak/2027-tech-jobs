@@ -1,11 +1,12 @@
 # ☀️ Summer 2027 Internships
 
-4983 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4984 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Astranis Space Technologies | Technical Project Management Intern (Summer 2027) | San Francisco | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708369006?utm_source=aprameyak) | Sep 24 |
 | Field AI | Simulation, Sim to Real - Internship Program | Irvine, CA | Undergrad | [Apply](https://jobs.lever.co/field-ai/cce71d31-40a0-407f-b3b9-a586976b89b8?utm_source=aprameyak) | Sep 24 |
 | Ramp | Software Engineer Internship, Frontend | New York, NY (HQ) | Undergrad | [Apply](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74/application?utm_source=aprameyak) | Sep 24 |
 | ↳ | Software Engineering Intern, Backend | New York, NY (HQ) | Undergrad | [Apply](https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04/application?utm_source=aprameyak) | Sep 24 |

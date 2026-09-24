@@ -13,8 +13,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4983)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1417)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4984)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1418)
 - [🎓 New Grad 2027](./NEWGRAD.md) (2528)
 
 ---
@@ -28,12 +28,13 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4983** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4984** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Astranis Space Technologies | Technical Project Management Intern (Summer 2027) | San Francisco | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708369006?utm_source=aprameyak) | Sep 24 |
 | Field AI | Simulation, Sim to Real - Internship Program | Irvine, CA | Undergrad | [Apply](https://jobs.lever.co/field-ai/cce71d31-40a0-407f-b3b9-a586976b89b8?utm_source=aprameyak) | Sep 24 |
 | Ramp | Software Engineer Internship, Frontend | New York, NY (HQ) | Undergrad | [Apply](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74/application?utm_source=aprameyak) | Sep 24 |
 | ↳ | Software Engineering Intern, Backend | New York, NY (HQ) | Undergrad | [Apply](https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04/application?utm_source=aprameyak) | Sep 24 |
@@ -108,17 +109,17 @@ Showing newest **75** of **4983** listings · [View full table](./SUMMER.md)
 | ↳ | Secure System Engineering Intern (Summer 2027) | WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1, CT | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Cybersecurity-Engineering-Intern--Summer-2027-_01876185?utm_source=aprameyak) | Sep 22 |
 | ↳ | Operations Software Engineering Intern (Summer 2027) | BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG, MN | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Operations-Software-Engineering-Intern--Summer-2027-_01874620?utm_source=aprameyak) | Sep 22 |
 | Symbotic | Intern- Software Engineer | USA Wilmington,  MA - HQ | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963?utm_source=aprameyak) | Sep 22 |
-| ↳ | Intern- Data Engineer | USA Wilmington,  MA - HQ | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Data-Engineer_R7967?utm_source=aprameyak) | Sep 22 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1417** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1418** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Astranis Space Technologies | Technical Project Management Intern (Winter 2027) | San Francisco | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708364006?utm_source=aprameyak) | Sep 24 |
 | BMO Financial Group | UX/UI Designer, Winter 2027 (Co-op/Internship)- 8 months | Toronto, ON, CAN | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1?utm_source=aprameyak) | Sep 23 |
 | CIBC | Quality Assurance Analyst-Co-op Winter 2027 | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Quality-Assurance-Analyst-Co-op-Winter-2027_2619573?utm_source=aprameyak) | Sep 23 |
 | ↳ | Quality Assurance Analyst-Co-op Winter 2027 | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Quality-Assurance-Analyst-Co-op-Winter-2027_2619573-1?utm_source=aprameyak) | Sep 23 |
@@ -193,7 +194,6 @@ Showing newest **75** of **1417** listings · [View full table](./OFFCYCLE.md)
 | ↳ | Data Analyst Co-op/Intern | Toronto, ON | Co-op | Undergrad | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9152) | Sep 20 |
 | ↳ | Technical Associate, Deskside Support - Winter 2027 Co-op/Intern | Waterloo, ONT, Canada | Co-op | Undergrad | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9340) | Sep 20 |
 | ↳ | Technology Risk Analyst - Winter 2027 Coop/Intern | Toronto, ONT, Canada | Co-op | Undergrad | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9337) | Sep 20 |
-| ↳ | Test Automation Developer - Winter 2027 Co-op/Intern | Waterloo, ONT, Canada | Co-op | Undergrad | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9341) | Sep 20 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027

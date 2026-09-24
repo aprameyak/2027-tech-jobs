@@ -1,11 +1,12 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1417 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1418 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Astranis Space Technologies | Technical Project Management Intern (Winter 2027) | San Francisco | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708364006?utm_source=aprameyak) | Sep 24 |
 | BMO Financial Group | UX/UI Designer, Winter 2027 (Co-op/Internship)- 8 months | Toronto, ON, CAN | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1?utm_source=aprameyak) | Sep 23 |
 | CIBC | Quality Assurance Analyst-Co-op Winter 2027 | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Quality-Assurance-Analyst-Co-op-Winter-2027_2619573?utm_source=aprameyak) | Sep 23 |
 | ↳ | Quality Assurance Analyst-Co-op Winter 2027 | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Quality-Assurance-Analyst-Co-op-Winter-2027_2619573-1?utm_source=aprameyak) | Sep 23 |
