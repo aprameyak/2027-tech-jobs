@@ -1,12 +1,14 @@
 # ☀️ Summer 2027 Internships
 
-4984 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4987 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Arconic | Software Developer Intern | Davenport, IA | Undergrad | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233) | Sep 24 |
 | Astranis Space Technologies | Technical Project Management Intern (Summer 2027) | San Francisco | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708369006?utm_source=aprameyak) | Sep 24 |
+| Enterprise | Intern - Data Engineer (EFM IT) | St. Louis, MO | Undergrad | [Apply](https://us-erac.icims.com/jobs/567651/intern---data-engineer-%28efm-it%29/job) | Sep 24 |
 | Field AI | Simulation, Sim to Real - Internship Program | Irvine, CA | Undergrad | [Apply](https://jobs.lever.co/field-ai/cce71d31-40a0-407f-b3b9-a586976b89b8?utm_source=aprameyak) | Sep 24 |
 | Ramp | Software Engineer Internship, Frontend | New York, NY (HQ) | Undergrad | [Apply](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74/application?utm_source=aprameyak) | Sep 24 |
 | ↳ | Software Engineering Intern, Backend | New York, NY (HQ) | Undergrad | [Apply](https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04/application?utm_source=aprameyak) | Sep 24 |
@@ -14,6 +16,7 @@
 | ↳ | Software Engineering Intern, iOS | New York, NY (HQ) | Undergrad | [Apply](https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9/application?utm_source=aprameyak) | Sep 24 |
 | Sierra Nevada Corp | Systems Engineer I (For 2026 Interns Only) | Hagerstown, MD | Masters | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Systems-Engineer-I--For-2026-Interns-Only-_R0030585?utm_source=aprameyak) | Sep 24 |
 | ↳ | Software Engineer I (For 2026 Interns Only) | Plano, TX | Undergrad | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584?utm_source=aprameyak) | Sep 24 |
+| The Aerospace Corporation | 2027 Systems Integration and Test Graduate Intern | El Segundo, CA | Masters | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Systems-Integration-and-Test-Graduate-Intern_R016693?utm_source=aprameyak) | Sep 24 |
 | Amazon | Security Engineer Internship – 2027 (US) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us) | Sep 23 |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Salt Lake City, UT | Salt Lake City, UT | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014224) | Sep 23 |
 | Astranis Space Technologies | Software Engineer Backend Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705214006?utm_source=aprameyak) | Sep 23 |

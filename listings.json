@@ -109558,5 +109558,78 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-24"
+  },
+  {
+    "company": "Arconic",
+    "role": "Software Developer Intern",
+    "location": "Davenport, IA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-24"
+  },
+  {
+    "company": "Kitware",
+    "role": "Computer Vision Co-Op",
+    "location": "Clifton Park, NY",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://jobs.lever.co/kitware/e76197d1-4dc3-4f7c-a30a-597713283bb3?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-24"
+  },
+  {
+    "company": "Enterprise",
+    "role": "Intern - Data Engineer (EFM IT)",
+    "location": "St. Louis, MO",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://us-erac.icims.com/jobs/567651/intern---data-engineer-%28efm-it%29/job",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-24"
+  },
+  {
+    "company": "LexisNexis Legal & Professional",
+    "role": "Desktop Support Co-Op",
+    "location": "Raleigh, NC",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Desktop-Support-Co-Op_R118885?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-24"
+  },
+  {
+    "company": "LSEG",
+    "role": "Engineering Graduate Programme (Boston)",
+    "location": "Boston, MA",
+    "type": "newgrad",
+    "season": "2027 (New Grad — no specific season)",
+    "education": "Undergrad",
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Engineering-Graduate-Programme--Boston-_R0123734?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-24",
+    "grad_date": ""
+  },
+  {
+    "company": "The Aerospace Corporation",
+    "role": "2027 Systems Integration and Test Graduate Intern",
+    "location": "El Segundo, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Masters",
+    "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Systems-Integration-and-Test-Graduate-Intern_R016693?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-24"
   }
 ]

@@ -1,11 +1,12 @@
 # 🎓 New Grad 2027
 
-2528 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2529 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| LSEG | Engineering Graduate Programme (Boston) | Boston, MA |  | Undergrad | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Engineering-Graduate-Programme--Boston-_R0123734?utm_source=aprameyak) | Sep 24 |
 | Northrop Grumman | 2026 Part-time Associate Software Safety Engineer - Remote | United States-Arizona-Chandler | Spring 2026 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-time-Associate-Software-Safety-Engineer---Remote_R10252739?utm_source=aprameyak) | Sep 24 |
 | American Express | Campus Undergraduate Full-Time Analyst - 2027 Data & Analytics , Enterprise Technology Services- Charlotte, NC | Charlotte, NC |  | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013679) | Sep 23 |
 | Bosch | Associate Motorsport Software Engineer | Farmington Hills, MI |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151463391) | Sep 23 |
