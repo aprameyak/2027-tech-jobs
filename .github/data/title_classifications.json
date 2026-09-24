@@ -87975,5 +87975,38 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "software engineer iii, infrastructure, google ads": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, anti-distillation investigations, enforcements and infrastructure, deepmind": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, payments infrastructure, vendor gateway platform outbound flows": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "senior software engineer for android google dialer": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior staff software engineer, site reliability engineering": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
