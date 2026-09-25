@@ -1573,9 +1573,10 @@
     "b": "s"
   },
   "staff data scientist, guest & host": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff data scientist - long term impact": {
@@ -35645,9 +35646,10 @@
     "b": "s"
   },
   "program manager, business practices": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "program manager, commercial solutions": {
@@ -35669,9 +35671,10 @@
     "b": "s"
   },
   "program manager, gtm planning": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "program manager, risk ops enablement": {
@@ -64313,10 +64316,10 @@
     "b": "s"
   },
   "intern, engineering": {
-    "t": true,
-    "c": "stale",
-    "v": "",
-    "a": 1,
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "junior application security engineer": {
