@@ -1,11 +1,16 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1434 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1439 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Manulife | Winter Co-op 2027 - GRIT | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---GRIT_JR26080515?utm_source=aprameyak) | Sep 25 |
+| Rocket Lab | Test Engineering Intern Spring 2027 | Wallops Island, VA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8003533003?utm_source=aprameyak) | Sep 25 |
+| Snowflake | Software Engineer Intern (Database Engineering) - Spring 2027 | Menlo Park, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be/application?utm_source=aprameyak) | Sep 25 |
+| ↳ | Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027 | Menlo Park, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69/application?utm_source=aprameyak) | Sep 25 |
+| ↳ | Software Engineer Intern (AI / ML) - Spring 2027 | Menlo Park, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca/application?utm_source=aprameyak) | Sep 25 |
 | Astranis Space Technologies | Technical Project Management Intern (Winter 2027) | San Francisco | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708364006?utm_source=aprameyak) | Sep 24 |
 | ↳ | Software Developer, Network Software Intern (Winter 2027) | San Francisco | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705599006?utm_source=aprameyak) | Sep 24 |
 | Audax Group | IT Operations Co-Op NYC | New York, NY | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/audaxgroup/jobs/4737824005?utm_source=aprameyak) | Sep 24 |

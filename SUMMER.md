@@ -1,11 +1,15 @@
 # ☀️ Summer 2027 Internships
 
-5030 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5034 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Amazon | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) | US, WA, Redmond | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Sep 25 |
+| ↳ | Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | Sep 25 |
+| Intuitive | AI Research Intern | Sunnyvale, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000151714759) | Sep 25 |
+| Rocket Lab | Test Engineering Intern Summer 2027 | Wallops Island, VA | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8003529003?utm_source=aprameyak) | Sep 25 |
 | Ameren | Intern (Robotics, AI, OT, Software development) | St. Louis, MO | Undergrad | [Apply](https://ameren.wd1.myworkdayjobs.com/en-US/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1?utm_source=aprameyak) | Sep 24 |
 | Arconic | Software Developer Intern | Davenport, IA | Undergrad | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233) | Sep 24 |
 | Astranis Space Technologies | Technical Project Management Intern (Summer 2027) | San Francisco | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708369006?utm_source=aprameyak) | Sep 24 |
