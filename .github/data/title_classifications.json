@@ -88092,5 +88092,25 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "software engineer iii, ai/ml computer vision, google cloud": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "associate solutions architect, agi-tech, intern cohort - 2027": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "staff software engineer, full stack, google labs": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
