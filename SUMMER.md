@@ -1,19 +1,34 @@
 # ☀️ Summer 2027 Internships
 
-5038 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5053 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | South San Francisco, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015684626) | Sep 25 |
+| ↳ | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | Irvine, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015684556) | Sep 25 |
+| ↳ | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | South San Francisco, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015684516) | Sep 25 |
+| ↳ | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | Irvine, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015684476) | Sep 25 |
+| ↳ | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | North Chicago, IL | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015679386) | Sep 25 |
+| ↳ | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | North Chicago, IL | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015679346) | Sep 25 |
+| ↳ | 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) | North Chicago, IL | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015679246) | Sep 25 |
+| Allegion | Summer Intern - Software Engineering | Golden, CO | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795-1?utm_source=aprameyak) | Sep 25 |
 | Amazon | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) | US, WA, Redmond | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Sep 25 |
 | ↳ | Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | Sep 25 |
+| Bosch | Multi-modal Sensing AI Research Intern | Pittsburgh, PA | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151890105) | Sep 25 |
+| Copart | Data & AI Intern | Dallas, TX - Headquarters | Undergrad | [Apply](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Data---AI-Intern_JR111596?utm_source=aprameyak) | Sep 25 |
+| ↳ | Technology Product Analyst Intern | Dallas, TX - Headquarters | Undergrad | [Apply](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107937?utm_source=aprameyak) | Sep 25 |
 | Intuitive | AI Research Intern | Sunnyvale, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000151714759) | Sep 25 |
 | KLA | Applications Engineering  Intern | Milpitas, CA | Undergrad | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Engineering--Intern_2641540-1?utm_source=aprameyak) | Sep 25 |
 | Leidos | Software Development Intern | Gaithersburg, MD | Undergrad | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103?utm_source=aprameyak) | Sep 25 |
 | Liberty Mutual | Cybersecurity & Technology Audit Internship (Summer 2027) | <details><summary>**2 locations**</summary>Boston, MA</br>Portsmouth, NH</details> | Undergrad | [Apply](https://campus-libertymutual.icims.com/jobs/126990/cybersecurity-%26-technology-audit-internship-%28summer-2027%29/job) | Sep 25 |
 | Oshkosh | Product Management Intern | Hagerstown, MD | Undergrad | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414?utm_source=aprameyak) | Sep 25 |
+| Perseus Group | Cyber Security Intern | Remote - USA | Undergrad | [Apply](https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Remote---USA/Cyber-Security-Intern_R52980-2?utm_source=aprameyak) | Sep 25 |
 | Rocket Lab | Test Engineering Intern Summer 2027 | Wallops Island, VA | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8003529003?utm_source=aprameyak) | Sep 25 |
+| RTX | Software Engineering Intern (Summer 2027) | WEST VALLEY CITY-338 ~ 1127 & 1128 w 2400 S ~ BLDG 338, UT | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01875358?utm_source=aprameyak) | Sep 25 |
+| Tencent | Cloud Media Services Intern | US-California-Palo Alto | Undergrad | [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186?utm_source=aprameyak) | Sep 25 |
+| W.R. Berkley | Intern Product Management Analyst | Urbandale, IA | Undergrad | [Apply](https://careers-berkley.icims.com/jobs/14461/intern-product-management-analyst/job) | Sep 25 |
 | Ameren | Intern (Robotics, AI, OT, Software development) | St. Louis, MO | Undergrad | [Apply](https://ameren.wd1.myworkdayjobs.com/en-US/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1?utm_source=aprameyak) | Sep 24 |
 | Arconic | Software Developer Intern | Davenport, IA | Undergrad | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233) | Sep 24 |
 | Astranis Space Technologies | Technical Project Management Intern (Summer 2027) | San Francisco | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708369006?utm_source=aprameyak) | Sep 24 |
