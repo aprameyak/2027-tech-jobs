@@ -63328,8 +63328,8 @@
   },
   "technology product analyst intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "s"
   },
@@ -66483,9 +66483,9 @@
   },
   "cyber security intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
-    "a": 0,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "forward deployed research scientist": {
@@ -67883,8 +67883,9 @@
   },
   "cloud media services intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "game research & development intern, engine research": {
