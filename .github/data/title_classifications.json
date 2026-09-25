@@ -88060,5 +88060,17 @@
     "v": "cs-is-v4",
     "a": 1,
     "b": "s"
+  },
+  "senior staff software engineer, agentic storytelling, photos": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer, detection and response platform": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
