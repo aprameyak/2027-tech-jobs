@@ -77897,16 +77897,18 @@
     "a": 0
   },
   "test engineering intern spring 2027": {
-    "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "o"
   },
   "test engineering intern summer 2027": {
-    "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   },
   "2027 summer intern, bs/ms, scenes": {
     "t": false,
