@@ -22952,8 +22952,9 @@
   },
   "data scientist  ": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "data scientist, core data -  phd (2026)": {
@@ -58879,9 +58880,9 @@
     "b": "s"
   },
   "senior product manager, commerce": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
