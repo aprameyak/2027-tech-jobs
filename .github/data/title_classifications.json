@@ -4961,9 +4961,9 @@
     "b": "s"
   },
   "product manager, deployed optical systems": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -33224,9 +33224,10 @@
     "b": "s"
   },
   "technical support specialist ": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "technical support supervisor": {
