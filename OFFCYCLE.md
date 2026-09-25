@@ -1,16 +1,26 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1439 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1449 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| FOX Corporation | Spring 2027 FOX Technology Internship Program - New York, NY | New York, NY | Spring 2027 | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-Technology-Internship-Program---New-York--NY_R50033932?utm_source=aprameyak) | Sep 25 |
+| ↳ | Spring 2027 FOX News Media Internship Program - Technical Operations - Washington DC | Washington, DC | Spring 2027 | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/Washington-District-of-Columbia-USA/Spring-2027-FOX-News-Media-Internship-Program---Technical-Operations---Washington-DC_R50033920?utm_source=aprameyak) | Sep 25 |
+| ↳ | Spring 2027 FOX News Media Internship Program - Technical Operations - New York | New York, NY | Spring 2027 | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Technical-Operations---New-York_R50033930-1?utm_source=aprameyak) | Sep 25 |
+| ↳ | Spring 2027 FOX News Media Internship Program - Data Analytics - New York | New York, NY | Spring 2027 | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033950?utm_source=aprameyak) | Sep 25 |
+| ↳ | Spring 2027 FOX Technology Internship Program - Tempe, AZ | USA - AZ - Tempe - 2010 E Centennial Cir | Spring 2027 | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Spring-2027-FOX-Technology-Internship-Program---Tempe--AZ_R50033934?utm_source=aprameyak) | Sep 25 |
+| ↳ | Spring 2027 FOX Technology Internship Program - Los Angeles, CA | Los Angeles, CA | Spring 2027 | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/Los-Angeles-California-USA/Spring-2027-FOX-Technology-Internship-Program---Los-Angeles--CA_R50033927?utm_source=aprameyak) | Sep 25 |
 | Manulife | Winter Co-op 2027 - GRIT | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---GRIT_JR26080515?utm_source=aprameyak) | Sep 25 |
 | Rocket Lab | Test Engineering Intern Spring 2027 | Wallops Island, VA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8003533003?utm_source=aprameyak) | Sep 25 |
+| RTX | Service Engineering Co-op (Summer/Fall 2027) | ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6, IL | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Service-Engineering-Co-op--Summer-Fall-2027-_01872687?utm_source=aprameyak) | Sep 25 |
 | Snowflake | Software Engineer Intern (Database Engineering) - Spring 2027 | Menlo Park, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be/application?utm_source=aprameyak) | Sep 25 |
 | ↳ | Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027 | Menlo Park, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69/application?utm_source=aprameyak) | Sep 25 |
 | ↳ | Software Engineer Intern (AI / ML) - Spring 2027 | Menlo Park, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca/application?utm_source=aprameyak) | Sep 25 |
+| TD Bank | TD Innovation Partner Intern/Co-op (Winter 2027) | Toronto, ON | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/TD-Innovation-Partner-Intern-Co-op--Winter-2027-_R_1503179?utm_source=aprameyak) | Sep 25 |
+| ↳ | 2027 Spring Co-op - Global Technology & Solutions - Cyber Security | Mount Laurel, NJ | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cyber-Security_R_1510103?utm_source=aprameyak) | Sep 25 |
+| ↳ | 2027 Spring Co-op - Global Technology & Solutions - Cloud/DevOps | Mount Laurel, NJ | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cloud-DevOps_R_1510235?utm_source=aprameyak) | Sep 25 |
 | Astranis Space Technologies | Technical Project Management Intern (Winter 2027) | San Francisco | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708364006?utm_source=aprameyak) | Sep 24 |
 | ↳ | Software Developer, Network Software Intern (Winter 2027) | San Francisco | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705599006?utm_source=aprameyak) | Sep 24 |
 | Audax Group | IT Operations Co-Op NYC | New York, NY | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/audaxgroup/jobs/4737824005?utm_source=aprameyak) | Sep 24 |
