@@ -30160,9 +30160,10 @@
     "b": "s"
   },
   "staff software engineer - federal": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff software engineer, identity threat protection": {
@@ -70291,14 +70292,16 @@
   },
   "2027 business technology solutions intern - data & software engineering (undergraduate)": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "2027 business technology solutions intern - cloud engineering (undergraduate)": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "game design intern": {
@@ -70588,8 +70591,9 @@
   },
   "2027 business technology solutions intern - cybersecurity (undergraduate)": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "marketing intern (summer 2027)": {
