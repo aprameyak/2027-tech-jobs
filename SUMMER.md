@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-5035 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5038 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -10,6 +10,9 @@
 | ↳ | Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | Sep 25 |
 | Intuitive | AI Research Intern | Sunnyvale, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000151714759) | Sep 25 |
 | KLA | Applications Engineering  Intern | Milpitas, CA | Undergrad | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Engineering--Intern_2641540-1?utm_source=aprameyak) | Sep 25 |
+| Leidos | Software Development Intern | Gaithersburg, MD | Undergrad | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103?utm_source=aprameyak) | Sep 25 |
+| Liberty Mutual | Cybersecurity & Technology Audit Internship (Summer 2027) | <details><summary>**2 locations**</summary>Boston, MA</br>Portsmouth, NH</details> | Undergrad | [Apply](https://campus-libertymutual.icims.com/jobs/126990/cybersecurity-%26-technology-audit-internship-%28summer-2027%29/job) | Sep 25 |
+| Oshkosh | Product Management Intern | Hagerstown, MD | Undergrad | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414?utm_source=aprameyak) | Sep 25 |
 | Rocket Lab | Test Engineering Intern Summer 2027 | Wallops Island, VA | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8003529003?utm_source=aprameyak) | Sep 25 |
 | Ameren | Intern (Robotics, AI, OT, Software development) | St. Louis, MO | Undergrad | [Apply](https://ameren.wd1.myworkdayjobs.com/en-US/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1?utm_source=aprameyak) | Sep 24 |
 | Arconic | Software Developer Intern | Davenport, IA | Undergrad | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233) | Sep 24 |

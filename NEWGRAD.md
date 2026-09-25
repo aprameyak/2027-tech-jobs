@@ -1,12 +1,14 @@
 # 🎓 New Grad 2027
 
-2545 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2547 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | Accenture Federal Services | Oracle Analytics FDI Design / Developer | Washington, DC |  | Undergrad | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4716547006?gh_jid=4716547006&utm_source=aprameyak) | Sep 25 |
+| Morgan Stanley | Associate, Software Engineer | New York, NY |  | Undergrad | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR036259?utm_source=aprameyak) | Sep 25 |
+| Northrop Grumman | 2026 Associate Engineer Software Dulles VA | United States-Virginia-Dulles | Spring 2026 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-Engineer-Software-Dulles-VA_R10252863?utm_source=aprameyak) | Sep 25 |
 | RTX | Systems Engineer I-onsite | TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord, MA |  | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-I-onsite_01877314?utm_source=aprameyak) | Sep 25 |
 | AbbVie | BTS Associate Software Engineer II - AI | North Chicago, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015647986) | Sep 24 |
 | Applied Materials | Data Scientist New College Grad- Bachelor's/Master's (Austin, TX) | Austin,TX |  | Masters | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Data-Scientist-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2627684?utm_source=aprameyak) | Sep 24 |
