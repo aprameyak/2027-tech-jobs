@@ -1,12 +1,13 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1457 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1458 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
 | Kinaxis | Co-op/  Intern Upgrade and Migration Specialist | Ottawa, ON | Co-op | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35322/co-op---intern-upgrade-and-migration-specialist/job) | Sep 26 |
+| TD Bank | 2027 Spring Co-op - Global Technology & Solutions - Business Management Analyst (BMA) | Mount Laurel, NJ | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Business-Management-Analyst--BMA-_R_1510120?utm_source=aprameyak) | Sep 26 |
 | CIBC | AI & Data Analytics and Reporting Analyst Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748?utm_source=aprameyak) | Sep 25 |
 | fgf brands | AI Engineer Cerebro Co-op (Winter 2027) | Remote (US) | Co-op | Undergrad | [Apply](https://careerscoopinternen-fgfbrands.icims.com/jobs/27239/ai-engineer-cerebro-co-op-%28winter-2027%29/job) | Sep 25 |
 | FOX Corporation | Spring 2027 FOX Technology Internship Program - New York, NY | New York, NY | Spring 2027 | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-Technology-Internship-Program---New-York--NY_R50033932?utm_source=aprameyak) | Sep 25 |

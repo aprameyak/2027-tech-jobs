@@ -1,11 +1,12 @@
 # ☀️ Summer 2027 Internships
 
-5083 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5084 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| GoDaddy | OSU ColorStack - Summer 2027 Internships | Tempe, AZ | Undergrad | [Apply](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003?utm_source=aprameyak) | Sep 26 |
 | Kinaxis | Intern Developer, Back End Technologies | Ottawa, ON | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35372/intern-developer%2c-back-end-technologies/job) | Sep 26 |
 | Veolia | Research & Development Intern | Plainfield, IL | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151948629) | Sep 26 |
 | ↳ | SAP & ServiceNow AI Automation Intern | Trevose, PA | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151947749) | Sep 26 |

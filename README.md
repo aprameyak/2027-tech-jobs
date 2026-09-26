@@ -13,8 +13,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (5083)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1457)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (5084)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1458)
 - [🎓 New Grad 2027](./NEWGRAD.md) (2552)
 
 ---
@@ -28,12 +28,13 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **5083** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **5084** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| GoDaddy | OSU ColorStack - Summer 2027 Internships | Tempe, AZ | Undergrad | [Apply](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003?utm_source=aprameyak) | Sep 26 |
 | Kinaxis | Intern Developer, Back End Technologies | Ottawa, ON | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35372/intern-developer%2c-back-end-technologies/job) | Sep 26 |
 | Veolia | Research & Development Intern | Plainfield, IL | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151948629) | Sep 26 |
 | ↳ | SAP & ServiceNow AI Automation Intern | Trevose, PA | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151947749) | Sep 26 |
@@ -108,18 +109,18 @@ Showing newest **75** of **5083** listings · [View full table](./SUMMER.md)
 | ↳ | CPE SW E2E Triage Intern - Summer 2027 | Plantation, FL | Undergrad | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2027_R68165?utm_source=aprameyak) | Sep 24 |
 | ↳ | Systems Integration Engineering Intern (Summer 2027) | Greater Chicago Area | Masters | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Greater-Chicago-Area/Systems-Integration-Engineering-Intern--Summer-2027-_R68894?utm_source=aprameyak) | Sep 24 |
 | MSD | 2027 Future Talent Program - Data Science - Intern | USA - Pennsylvania - West Point | Undergrad | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Data-Science---Intern_R413312?utm_source=aprameyak) | Sep 24 |
-| Pilot Company | Program Intern, PSS Optimization | Knoxville, TN | Undergrad | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000151645119) | Sep 24 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1457** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1458** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
 | Kinaxis | Co-op/  Intern Upgrade and Migration Specialist | Ottawa, ON | Co-op | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35322/co-op---intern-upgrade-and-migration-specialist/job) | Sep 26 |
+| TD Bank | 2027 Spring Co-op - Global Technology & Solutions - Business Management Analyst (BMA) | Mount Laurel, NJ | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Business-Management-Analyst--BMA-_R_1510120?utm_source=aprameyak) | Sep 26 |
 | CIBC | AI & Data Analytics and Reporting Analyst Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748?utm_source=aprameyak) | Sep 25 |
 | fgf brands | AI Engineer Cerebro Co-op (Winter 2027) | Remote (US) | Co-op | Undergrad | [Apply](https://careerscoopinternen-fgfbrands.icims.com/jobs/27239/ai-engineer-cerebro-co-op-%28winter-2027%29/job) | Sep 25 |
 | FOX Corporation | Spring 2027 FOX Technology Internship Program - New York, NY | New York, NY | Spring 2027 | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-Technology-Internship-Program---New-York--NY_R50033932?utm_source=aprameyak) | Sep 25 |
@@ -193,7 +194,6 @@ Showing newest **75** of **1457** listings · [View full table](./OFFCYCLE.md)
 | RTX | System Engineering Co-op (Remote) | AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75, CO | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/System-Engineering-Co-op--Remote-_01868902?utm_source=aprameyak) | Sep 21 |
 | ↳ | Operations Engineering Specialist Co-Op (Onsite) | ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG, MA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Operations-Engineering-Specialist-Co-Op--Onsite-_01874745?utm_source=aprameyak) | Sep 21 |
 | ↳ | Systems Engineer Co-Op (Spring/Summer 2027) - Onsite | CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182, IA | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Spring-Summer-2027----Onsite_01873686?utm_source=aprameyak) | Sep 21 |
-| TD Bank | Cyber Security Co-op/Intern – JEDI Partnership | Toronto, ON | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Cyber-Security-Co-op-Intern---JEDI-Partnership_R_1512330?utm_source=aprameyak) | Sep 21 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027
