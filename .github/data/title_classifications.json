@@ -88377,5 +88377,570 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "sr systems engineer i (devops, agentic ai)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "specialist, ai engineering": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer 1/2/3": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer 2 or 3 - infrastructure": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer 1 - it": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr. security engineer - federal customer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "ps p&e- software engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "associate cybersecurity analyst - bilingual": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "avp sre and cloud solutions": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "cybersecurity analyst": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software development engineer iii - genai": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "data engineer-adobe exp platform": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "avp software engineering- servicing tech": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "cloud engineer - finance operations": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "ai devops developer (content services)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "intermediate software developer in test": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software development engineer (gui)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "product data analyst - digital analytics": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "vice president, full-stack engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "vice president, full-stack engineer with camunda": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "vice president, ai/ml software engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr ai engineer i - global commercial services": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr ai engineer ii - global commercial services technology": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr software engineer i - global servicing technology": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr. software engineer ii - global servicing technology": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr ai engineer i": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer iii - global servicing technology": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr. software engineer i - global servicing technology": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr ai engineer ii - enterprise architecture": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr ai engineer i - enterprise architecture": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr ai engineer ii - agentic ai": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "ai engineer - enterprise architecture": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "ai engineer ii - enterprise architecture": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "ai engineer iii - agentic ai": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "ai engineer iii": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "manufacturing data analyst - training program 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "cloud engineer ii- aws": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "advanced software engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "advanced software engineer - developer experience": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "security engineer (linux systems engineer)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sustaining software engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr. healthcare data analyst": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "databricks platform engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "platform engineer - databricks and cloud": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "gcp data engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "ux quantitative researcher - new york": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr. software engineer- dallas, tx": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer - ai platform engineer  | onsite | addison, tx / charlotte": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer python - advanced\u00a0| columbus, us": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "fullstack engineer- dallas, tx": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "oci core infrastructure engineer 2 - nashville campus": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr security engineer - ddos and bot defense": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr software engineer - engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr software engineer - android": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer ii - android": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr ta data analyst": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "graduate 2026 phd software engineer ii (av labs), united states": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer \u2013 full stack developer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "career accelerator program - software engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "career accelerator program - data engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "web marketing program - digital experience data analyst": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer \u2013 quality assurance": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "web marketing program - digital experience data scientist": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "physical security engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "environmental data analyst": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "investment bank internal audit - vice president - data scientist": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "site reliability engineer ii": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "site reliability engineer iii": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "dev ops software engineer ii - .net/c#": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer ii .net": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer iii .net": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer iii- ai/ml engineering, gpu ml serving": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer iii - ibm i (as/400) engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer iii - machine learning platform": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer iii - trading platform development": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer ii- linux c/c++ systems programming": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "devops aws software engineer iii": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "head of data & analytics, senior director": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "marketing analytics specialist": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "career accelerator program - reliability engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "o"
+  },
+  "ai prototyping & transformation associate": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "o"
   }
 }
