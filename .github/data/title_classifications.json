@@ -44364,8 +44364,9 @@
   },
   "senior software engineer (l5) - personalization data": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "administrative assistant, music creative and production - netflix animation studios": {
@@ -47911,8 +47912,9 @@
   },
   "advisory solutions consultant": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff software engineer, developer relations": {
