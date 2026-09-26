@@ -111440,5 +111440,91 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-09-25"
+  },
+  {
+    "company": "Waymo",
+    "role": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
+    "location": "Mountain View, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "PhD",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8227411",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-26"
+  },
+  {
+    "company": "Lightcast",
+    "role": "Economic Research Analyst / Junior Data Scientist - 1089",
+    "location": "Moscow, ID",
+    "type": "newgrad",
+    "season": "2027 (New Grad — no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-26",
+    "grad_date": ""
+  },
+  {
+    "company": "Veolia",
+    "role": "Research & Development Intern",
+    "location": "Plainfield, IL",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151948629",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-26"
+  },
+  {
+    "company": "Veolia",
+    "role": "SAP & ServiceNow AI Automation Intern",
+    "location": "Trevose, PA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151947749",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-26"
+  },
+  {
+    "company": "Kinaxis",
+    "role": "Intern Developer, Back End Technologies",
+    "location": "Ottawa, ON",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://careers-kinaxis.icims.com/jobs/35372/intern-developer%2c-back-end-technologies/job",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-26"
+  },
+  {
+    "company": "Kinaxis",
+    "role": "Co-op/  Intern Upgrade and Migration Specialist",
+    "location": "Ottawa, ON",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://careers-kinaxis.icims.com/jobs/35322/co-op---intern-upgrade-and-migration-specialist/job",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-26"
+  },
+  {
+    "company": "Thermo Fisher Scientific",
+    "role": "Associate Research Scientist",
+    "location": "Richmond, VA",
+    "type": "newgrad",
+    "season": "2027 (New Grad — no specific season)",
+    "education": "Undergrad",
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Richmond-Virginia-USA/Associate-Research-Scientist_R-01368023?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-09-26",
+    "grad_date": ""
   }
 ]
