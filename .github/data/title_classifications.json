@@ -18480,9 +18480,9 @@
     "b": "s"
   },
   "staff fullstack engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -88942,5 +88942,18 @@
     "v": "cs-is-v4",
     "a": 1,
     "b": "o"
+  },
+  "software engineer, ml research tools": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "senior software engineer, coding": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
