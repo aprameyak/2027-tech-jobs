@@ -27205,10 +27205,10 @@
   },
   "cloud operations engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
-    "a": 0,
-    "b": "s"
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "n"
   },
   "commercial growth account executive": {
     "t": false,
