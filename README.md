@@ -15,7 +15,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 - [☀️ Summer 2027 Internships](./SUMMER.md) (5086)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1458)
-- [🎓 New Grad 2027](./NEWGRAD.md) (2552)
+- [🎓 New Grad 2027](./NEWGRAD.md) (2553)
 
 ---
 
@@ -198,12 +198,13 @@ Showing newest **75** of **1458** listings · [View full table](./OFFCYCLE.md)
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **2552** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **2553** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Perplexity | Member of Technical Staff (New Grad) | San Francisco |  | Undergrad | [Apply](https://jobs.ashbyhq.com/perplexity/b539e100-4b8c-4701-a5a8-52b9a72f435e/application?utm_source=aprameyak) | Sep 27 |
 | Lightcast | Economic Research Analyst / Junior Data Scientist - 1089 | Moscow, ID |  | Undergrad | [Apply](https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277?utm_source=aprameyak) | Sep 26 |
 | Thermo Fisher Scientific | Associate Research Scientist | Richmond, VA |  | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Richmond-Virginia-USA/Associate-Research-Scientist_R-01368023?utm_source=aprameyak) | Sep 26 |
 | Accenture Federal Services | Oracle Analytics FDI Design / Developer | Washington, DC |  | Undergrad | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4716547006?gh_jid=4716547006&utm_source=aprameyak) | Sep 25 |
@@ -278,7 +279,6 @@ Showing newest **75** of **2552** listings · [View full table](./NEWGRAD.md)
 | ↳ | Hiring Entry Level Software Engineer | San Francisco, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999655719751) | Sep 20 |
 | ↳ | Hiring Entry Level Software Engineer | Dallas, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999655678936) | Sep 20 |
 | ↳ | Entry Level Software Engineer | San Antonio, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999655632519) | Sep 20 |
-| ↳ | Hiring Entry Level Software Engineer | New York, NY |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999655204204) | Sep 20 |
 <!-- TABLE_END newgrad -->
 
 ## Disclaimer

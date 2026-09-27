@@ -1,11 +1,12 @@
 # 🎓 New Grad 2027
 
-2552 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2553 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Perplexity | Member of Technical Staff (New Grad) | San Francisco |  | Undergrad | [Apply](https://jobs.ashbyhq.com/perplexity/b539e100-4b8c-4701-a5a8-52b9a72f435e/application?utm_source=aprameyak) | Sep 27 |
 | Lightcast | Economic Research Analyst / Junior Data Scientist - 1089 | Moscow, ID |  | Undergrad | [Apply](https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277?utm_source=aprameyak) | Sep 26 |
 | Thermo Fisher Scientific | Associate Research Scientist | Richmond, VA |  | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Richmond-Virginia-USA/Associate-Research-Scientist_R-01368023?utm_source=aprameyak) | Sep 26 |
 | Accenture Federal Services | Oracle Analytics FDI Design / Developer | Washington, DC |  | Undergrad | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4716547006?gh_jid=4716547006&utm_source=aprameyak) | Sep 25 |
