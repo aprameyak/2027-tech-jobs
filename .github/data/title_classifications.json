@@ -95249,5 +95249,11 @@
     "v": "cs-is-v4",
     "a": 1,
     "b": "o"
+  },
+  "product manager \u2013 cross asset instrument strategy": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
