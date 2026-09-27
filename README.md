@@ -13,7 +13,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (5084)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (5086)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1458)
 - [🎓 New Grad 2027](./NEWGRAD.md) (2552)
 
@@ -28,12 +28,14 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **5084** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **5086** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Vertiv | IT Intern (Summer 2027) | Westerville, OH | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279839) | Sep 27 |
+| ↳ | Software Engineering Test Intern (Summer 2027) | Delaware, OH | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279305) | Sep 27 |
 | GoDaddy | OSU ColorStack - Summer 2027 Internships | Tempe, AZ | Undergrad | [Apply](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003?utm_source=aprameyak) | Sep 26 |
 | Kinaxis | Intern Developer, Back End Technologies | Ottawa, ON | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35372/intern-developer%2c-back-end-technologies/job) | Sep 26 |
 | Veolia | Research & Development Intern | Plainfield, IL | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151948629) | Sep 26 |
@@ -107,8 +109,6 @@ Showing newest **75** of **5084** listings · [View full table](./SUMMER.md)
 | Motorola Solutions | 2027 Intern - SoC Digital Engineer | Plantation, FL | Undergrad | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/XMLNAME-2027-Intern---SoC-Digital-Engineer_R69149?utm_source=aprameyak) | Sep 24 |
 | ↳ | Software Engineering Intern - Summer 2027 | Plantation, FL | Undergrad | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136?utm_source=aprameyak) | Sep 24 |
 | ↳ | CPE SW E2E Triage Intern - Summer 2027 | Plantation, FL | Undergrad | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2027_R68165?utm_source=aprameyak) | Sep 24 |
-| ↳ | Systems Integration Engineering Intern (Summer 2027) | Greater Chicago Area | Masters | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Greater-Chicago-Area/Systems-Integration-Engineering-Intern--Summer-2027-_R68894?utm_source=aprameyak) | Sep 24 |
-| MSD | 2027 Future Talent Program - Data Science - Intern | USA - Pennsylvania - West Point | Undergrad | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Data-Science---Intern_R413312?utm_source=aprameyak) | Sep 24 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
