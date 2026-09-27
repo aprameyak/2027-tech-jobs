@@ -13,8 +13,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (5086)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1458)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (5087)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1459)
 - [🎓 New Grad 2027](./NEWGRAD.md) (2553)
 
 ---
@@ -28,12 +28,13 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **5086** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **5087** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| HNTB | Intern Engineer- Summer 2027 | Salt Lake City, UT | Undergrad | [Apply](https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Salt-Lake-City-UT/Intern-Engineer--Summer-2027_R-31734?utm_source=aprameyak) | Sep 27 |
 | Vertiv | IT Intern (Summer 2027) | Westerville, OH | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279839) | Sep 27 |
 | ↳ | Software Engineering Test Intern (Summer 2027) | Delaware, OH | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279305) | Sep 27 |
 | GoDaddy | OSU ColorStack - Summer 2027 Internships | Tempe, AZ | Undergrad | [Apply](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003?utm_source=aprameyak) | Sep 26 |
@@ -108,17 +109,17 @@ Showing newest **75** of **5086** listings · [View full table](./SUMMER.md)
 | Leidos | Software Developer Intern | St. Louis, MO | Undergrad | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/St-Louis-MO/Software-Developer-Intern_R-00192632?utm_source=aprameyak) | Sep 24 |
 | Motorola Solutions | 2027 Intern - SoC Digital Engineer | Plantation, FL | Undergrad | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/XMLNAME-2027-Intern---SoC-Digital-Engineer_R69149?utm_source=aprameyak) | Sep 24 |
 | ↳ | Software Engineering Intern - Summer 2027 | Plantation, FL | Undergrad | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136?utm_source=aprameyak) | Sep 24 |
-| ↳ | CPE SW E2E Triage Intern - Summer 2027 | Plantation, FL | Undergrad | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2027_R68165?utm_source=aprameyak) | Sep 24 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1458** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1459** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Disney | Data Analyst Intern, Global Security Control Center, Spring 2027 | Burbank, CA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010?utm_source=aprameyak) | Sep 27 |
 | Kinaxis | Co-op/  Intern Upgrade and Migration Specialist | Ottawa, ON | Co-op | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35322/co-op---intern-upgrade-and-migration-specialist/job) | Sep 26 |
 | TD Bank | 2027 Spring Co-op - Global Technology & Solutions - Business Management Analyst (BMA) | Mount Laurel, NJ | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Business-Management-Analyst--BMA-_R_1510120?utm_source=aprameyak) | Sep 26 |
 | CIBC | AI & Data Analytics and Reporting Analyst Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748?utm_source=aprameyak) | Sep 25 |
@@ -193,7 +194,6 @@ Showing newest **75** of **1458** listings · [View full table](./OFFCYCLE.md)
 | Mercury | Software Engineering Intern - Spring 2027 | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6199367004?utm_source=aprameyak) | Sep 21 |
 | RTX | System Engineering Co-op (Remote) | AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75, CO | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/System-Engineering-Co-op--Remote-_01868902?utm_source=aprameyak) | Sep 21 |
 | ↳ | Operations Engineering Specialist Co-Op (Onsite) | ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG, MA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Operations-Engineering-Specialist-Co-Op--Onsite-_01874745?utm_source=aprameyak) | Sep 21 |
-| ↳ | Systems Engineer Co-Op (Spring/Summer 2027) - Onsite | CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182, IA | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Spring-Summer-2027----Onsite_01873686?utm_source=aprameyak) | Sep 21 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027

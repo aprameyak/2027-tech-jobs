@@ -1,11 +1,12 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1458 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1459 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Disney | Data Analyst Intern, Global Security Control Center, Spring 2027 | Burbank, CA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010?utm_source=aprameyak) | Sep 27 |
 | Kinaxis | Co-op/  Intern Upgrade and Migration Specialist | Ottawa, ON | Co-op | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35322/co-op---intern-upgrade-and-migration-specialist/job) | Sep 26 |
 | TD Bank | 2027 Spring Co-op - Global Technology & Solutions - Business Management Analyst (BMA) | Mount Laurel, NJ | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Business-Management-Analyst--BMA-_R_1510120?utm_source=aprameyak) | Sep 26 |
 | CIBC | AI & Data Analytics and Reporting Analyst Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748?utm_source=aprameyak) | Sep 25 |
