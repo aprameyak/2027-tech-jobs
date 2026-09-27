@@ -1,12 +1,15 @@
 # ☀️ Summer 2027 Internships
 
-5087 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5090 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | HNTB | Intern Engineer- Summer 2027 | Salt Lake City, UT | Undergrad | [Apply](https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Salt-Lake-City-UT/Intern-Engineer--Summer-2027_R-31734?utm_source=aprameyak) | Sep 27 |
+| QuEra Computing | Internship - Quantum Applications Research | Boston, MA | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435901008?utm_source=aprameyak) | Sep 27 |
+| ↳ | Internship - Quantum Error Correction Research | Boston, MA  USA | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435899008?utm_source=aprameyak) | Sep 27 |
+| ↳ | Internship - Scientific Software and Compilation | Boston, MA  USA | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008?utm_source=aprameyak) | Sep 27 |
 | Vertiv | IT Intern (Summer 2027) | Westerville, OH | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279839) | Sep 27 |
 | ↳ | Software Engineering Test Intern (Summer 2027) | Delaware, OH | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279305) | Sep 27 |
 | GoDaddy | OSU ColorStack - Summer 2027 Internships | Tempe, AZ | Undergrad | [Apply](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003?utm_source=aprameyak) | Sep 26 |
