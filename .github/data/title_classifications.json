@@ -95287,5 +95287,11 @@
     "v": "cs-is-v4",
     "a": 1,
     "b": "s"
+  },
+  "staff software engineer, tech lead, ccme": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
