@@ -1,11 +1,15 @@
 # ☀️ Summer 2027 Internships
 
-5090 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5094 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| FOX Corporation | Summer 2027 FOX Technology Internship Program - New York, NY | New York, NY | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-Technology-Internship-Program---New-York--NY_R50033968?utm_source=aprameyak) | Sep 28 |
+| ↳ | Summer 2027 FOX News Media Internship Program - Technical Operations - New York | New York, NY | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Technical-Operations---New-York_R50033946?utm_source=aprameyak) | Sep 28 |
+| ↳ | Summer 2027 FOX News Media Internship Program - Data Analytics - New York | New York, NY | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033981?utm_source=aprameyak) | Sep 28 |
+| ↳ | Summer 2027 FOX News Media Internship Program - Technical Operations - Washington DC | Washington, DC | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/Washington-District-of-Columbia-USA/Summer-2027-FOX-News-Media-Internship-Program---Technical-Operations---Washington-DC_R50033947?utm_source=aprameyak) | Sep 28 |
 | HNTB | Intern Engineer- Summer 2027 | Salt Lake City, UT | Undergrad | [Apply](https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Salt-Lake-City-UT/Intern-Engineer--Summer-2027_R-31734?utm_source=aprameyak) | Sep 27 |
 | QuEra Computing | Internship - Quantum Applications Research | Boston, MA | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435901008?utm_source=aprameyak) | Sep 27 |
 | ↳ | Internship - Quantum Error Correction Research | Boston, MA  USA | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435899008?utm_source=aprameyak) | Sep 27 |
