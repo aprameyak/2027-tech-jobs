@@ -11489,8 +11489,8 @@
   },
   "senior software security engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -48518,9 +48518,10 @@
     "b": "s"
   },
   "senior analyst, sec reporting & technical accounting": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "software engineer, mobile web": {
@@ -61829,8 +61830,8 @@
   },
   "technical advisor": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -64715,9 +64716,10 @@
   },
   "engineering co-op": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "social media engineering intern (fall 2026)": {
     "t": true,
@@ -65321,8 +65323,8 @@
   },
   "intern, product engineering": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "s"
   },
@@ -66436,8 +66438,8 @@
   },
   "research intern": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "low",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -70147,13 +70149,17 @@
   },
   "it quality assurance intern - summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "it quality assurance intern - spring 2027": {
-    "t": false,
-    "c": "stale",
-    "v": ""
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "o"
   },
   "canada sales tax intern - summer 2027": {
     "t": false,
@@ -79164,9 +79170,9 @@
     "a": 0
   },
   "ai research scientist": {
-    "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0
   },
   "founding research scientist": {
