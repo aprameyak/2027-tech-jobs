@@ -232,7 +232,6 @@
 | Jobsbridge | Entry Level Mobile Developer | SF |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Jobsbridge1/88661424) | Sep 19 |
 | Klaviyo | Software Engineer 1 | Boston, MA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003?utm_source=aprameyak) | Sep 19 |
 | LexisNexis Legal & Professional | Software Engineer 1 - Aspire Graduate Program | Raleigh, NC | Spring 2027 | Undergrad | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R118694?utm_source=aprameyak) | Sep 19 |
-| LPL Financial Holdings | Data Analytics New Grad - Multiple Teams | Fort Mill, SCCharlotte, NC |  | Undergrad | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Foundational-Analyst-Rotational-Program--FAR----Data-Analytics_R-052057-1?utm_source=aprameyak) | Sep 19 |
 | Meow | Software Engineer New Grad | NYC | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Mimecast | Software Engineer 1 - Endpoint Sensor | Minneapolis, MN |  | Undergrad | [Apply](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6708-1?utm_source=aprameyak) | Sep 19 |
 | National Software Management | Entry Level Data Analyst - Business Analyst | Atlanta, GA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000146255004) | Sep 19 |
@@ -1042,8 +1041,7 @@
 | Sierra | Software Engineer, Agent | <details><summary>**2 locations**</summary>New York, NY</br>San Francisco, CA</details> |  | Undergrad | [Apply](https://jobs.ashbyhq.com/Sierra/ce2ae656-714c-4a6c-a020-fe418f868075?utm_source=aprameyak) | Jul 10 |
 | StubHub | Software Engineer I | Santa Monica, CA |  | Undergrad | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4749965101?utm_source=aprameyak) | Jul 10 |
 | Suno | Software Engineer, Early Career | <details><summary>**2 locations**</summary>Boston, MA</br>New York, NY</details> |  | Undergrad | [Apply](https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752?utm_source=aprameyak) | Jul 10 |
-| Anduril | 2027 Early Career Software Engineer | <details><summary>**6 locations**</summary>Atlanta, GA</br>Boston, MA</br>Costa Mesa, CA</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details> | Spring 2027 | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007&utm_source=aprameyak) | Jul 7 |
-| ↳ | 2026 Early Career Software Engineer | <details><summary>**4 locations**</summary>Atlanta, GA</br>Costa Mesa, CA</br>Fort Collins, CO</br>Seattle, WA</details> | Spring 2026 | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007&utm_source=aprameyak) | Jul 7 |
+| Anduril | 2026 Early Career Software Engineer | <details><summary>**4 locations**</summary>Atlanta, GA</br>Costa Mesa, CA</br>Fort Collins, CO</br>Seattle, WA</details> | Spring 2026 | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007&utm_source=aprameyak) | Jul 7 |
 | Aquatic | Quantitative Researcher, Early Career | <details><summary>**2 locations**</summary>Chicago, IL</br>New York, NY</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002?utm_source=aprameyak) | Jul 7 |
 | IMC Trading | Software Engineer, Early Career | Chicago, IL |  | Undergrad | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4577504101?utm_source=aprameyak) | Jul 7 |
 | Nuro | Software Engineer, AI Platform - New Grad | Mountain View, CA |  | Undergrad | [Apply](https://nuro.ai/careersitem?gh_jid=7351066) | Jul 7 |
@@ -1162,6 +1160,7 @@
 | ↳ | Machine Learning PhD New Grad - Machine Learning and Artificial Intelligence | Laurel, MD |  | PhD | 🔒 | Sep 19 |
 | ↳ | Sensor Systems/Data Analytics New Grad | Laurel, MD | Spring 2027 | Undergrad | 🔒 | Sep 19 |
 | LexisNexis Risk Solutions | Software Engineer 1 - Risk Solutions Technology Graduate Program | London, UK | Spring 2027 | Undergrad | 🔒 | Sep 19 |
+| LPL Financial Holdings | Data Analytics New Grad - Multiple Teams | Fort Mill, SCCharlotte, NC |  | Undergrad | 🔒 | Sep 19 |
 | ↳ | AI Compiler Engineer New Grad | Seattle, WAPennsylvaniaSanta Clara, CA | Spring 2027 | Undergrad | 🔒 | Sep 19 |
 | ↳ | Research Scientist New Grad - Robotics Research | Seattle, WA |  | Masters | 🔒 | Sep 19 |
 | Palantir | Software Engineer – New Grad | London, UK | Spring 2027 | Undergrad | 🔒 | Sep 19 |
@@ -2554,6 +2553,7 @@
 | ↳ | Forward Deployed Software Engineer, New Grad - US Government | New York, NY |  | Undergrad | 🔒 | Jul 8 |
 | ↳ | Forward Deployed Software Engineer, New Grad - Commercial | Chicago, IL | Spring 2027 | Undergrad | 🔒 | Jul 8 |
 | Affirm | Software Engineer, Early Career | San Francisco, CA |  | Undergrad | 🔒 | Jul 7 |
+| ↳ | 2027 Early Career Software Engineer | <details><summary>**6 locations**</summary>Atlanta, GA</br>Boston, MA</br>Costa Mesa, CA</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details> | Spring 2027 | Undergrad | 🔒 | Jul 7 |
 | ↳ | 2026 Strategic Security Analyst - Early Career Rotation Program | Costa Mesa, CA | Spring 2026 | Undergrad | 🔒 | Jul 7 |
 | ↳ | Software Engineer, Early Career | <details><summary>**2 locations**</summary>Chicago, IL</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 7 |
 | Figma | Associate Solutions Consultant | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> |  | Undergrad | 🔒 | Jul 7 |

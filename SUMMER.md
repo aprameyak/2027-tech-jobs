@@ -159,7 +159,6 @@
 | ibotta | Information Security Intern | Hybrid - Denver | Undergrad | [Apply](https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582/application?utm_source=aprameyak) | Sep 22 |
 | Johnson & Johnson | Development Engineer (GTO/SC) Summer Intern | Cincinnati, OH | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Development-Engineer--GTO-SC--Summer-Intern_R-098779?utm_source=aprameyak) | Sep 22 |
 | Mastercard | Product Management Intern, Summer 2027 - St. Louis, MO (US) | O'Fallon, MO | Undergrad | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1?utm_source=aprameyak) | Sep 22 |
-| RTX | Operations Software Engineering Intern (Summer 2027) | BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG, MN | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Operations-Software-Engineering-Intern--Summer-2027-_01874620?utm_source=aprameyak) | Sep 22 |
 | Symbotic | Intern- Software Engineer | USA Wilmington,  MA - HQ | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963?utm_source=aprameyak) | Sep 22 |
 | ↳ | Intern- Data Engineer | USA Wilmington,  MA - HQ | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Data-Engineer_R7967?utm_source=aprameyak) | Sep 22 |
 | ↳ | Intern- Robot Perception | USA Wilmington,  MA - HQ | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Robot-Perception_R7964?utm_source=aprameyak) | Sep 22 |
@@ -597,7 +596,6 @@
 | ↳ | National Security Engineering Division (NSED) Graduate Intern - Summer 2027 | Livermore, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990014731646) | Sep 20 |
 | Loram | Technical Communications Intern | Hamel, MN | Undergrad | [Apply](https://jobs.smartrecruiters.com/Loram1/3743990015081545) | Sep 20 |
 | Lyft | Data Analyst Intern - Summer 2027 | New York City, NY | Undergrad | [Apply](https://www.lyft.com) | Sep 20 |
-| Mackenzie Investments | Winter Intern 2027 - Data Engineering | Greater Toronto Area, ON | Undergrad | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/5983/winter-intern-2027---data-engineering/job) | Sep 20 |
 | Magna | Intern - Infrared Imaging & Algorithms | Goleta, CA | Undergrad | [Apply](https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602?utm_source=aprameyak) | Sep 20 |
 | Magna International | Intern - Engineering Software | Southfield, MI, US | Undergrad | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00260232?utm_source=aprameyak) | Sep 20 |
 | Markem-Imaje | Software Engineer Intern | Keene, NH | Undergrad | [Apply](https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033) | Sep 20 |
@@ -2556,9 +2554,10 @@
 | Northrop Grumman | 2027 Software Engineer Intern - San Diego CA | United States-California-San Diego | Undergrad | 🔒 | Sep 22 |
 | ↳ | 2027 Cyber Software Engineer Intern - Tampa FL | United States-Florida-Tampa | Undergrad | 🔒 | Sep 22 |
 | ↳ | 2027 Cyber Systems Engineer Intern-Tampa FL | United States-Florida-Tampa | Masters | 🔒 | Sep 22 |
-| ↳ | Software Engineering Intern (Summer 2027) | PORTSMOUTH-PS1 ~ 1847 W Main Rd ~ NIMITZ BLDG, RI | Undergrad | 🔒 | Sep 22 |
+| RTX | Software Engineering Intern (Summer 2027) | PORTSMOUTH-PS1 ~ 1847 W Main Rd ~ NIMITZ BLDG, RI | Undergrad | 🔒 | Sep 22 |
 | ↳ | Secure System Engineering Intern (Summer 2027) | CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106, IA | Undergrad | 🔒 | Sep 22 |
 | ↳ | Secure System Engineering Intern (Summer 2027) | WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1, CT | Undergrad | 🔒 | Sep 22 |
+| ↳ | Operations Software Engineering Intern (Summer 2027) | BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG, MN | Undergrad | 🔒 | Sep 22 |
 | Verizon Communications | Verizon Network and Technology: AI Science 2027 Internship: Rutgers, NJIT, NYU, UT Dallas, UT Arlington, Texas A&M | Basking Ridge, NJ | Undergrad | 🔒 | Sep 22 |
 | ↳ | Verizon Network and Technology: AI Science 2027 Internship | Basking Ridge, NJ | Undergrad | 🔒 | Sep 22 |
 | ABB | Sales Digital Tools & Technology Intern- Summer 2027 | Fort Smith, AR | Undergrad | 🔒 | Sep 21 |
@@ -3030,9 +3029,10 @@
 | ↳ | Software Developer Intern, Backend | Montreal, QC | Undergrad | 🔒 | Sep 20 |
 | ↳ | Software Engineer Intern - Fullstack - Multiple Teams | New York, NY | Undergrad | 🔒 | Sep 20 |
 | Léger | Research Intern | Toronto, ON | Undergrad | 🔒 | Sep 20 |
-| ↳ | Technology Engineering Intern | Toronto, ON | Undergrad | 🔒 | Sep 20 |
+| Mackenzie Investments | Technology Engineering Intern | Toronto, ON | Undergrad | 🔒 | Sep 20 |
 | ↳ | Data Engineering Intern | Toronto, ON | Undergrad | 🔒 | Sep 20 |
 | ↳ | Winter Intern 2027 - Investment Management, Fixed Income Platform Engineering | Greater Toronto Area, ON | Undergrad | 🔒 | Sep 20 |
+| ↳ | Winter Intern 2027 - Data Engineering | Greater Toronto Area, ON | Undergrad | 🔒 | Sep 20 |
 | ↳ | Winter Intern 2027 - Data Science (Toronto Office) | Greater Toronto Area, ON | Undergrad | 🔒 | Sep 20 |
 | ↳ | Intern - Engineering Software | Southfield, MI | Undergrad | 🔒 | Sep 20 |
 | Magnera | Data Analyst Intern - Information Technology | Evansville, IN | Undergrad | 🔒 | Sep 20 |
