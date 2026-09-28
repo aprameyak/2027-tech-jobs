@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-5094 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5097 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -10,6 +10,9 @@
 | ↳ | Summer 2027 FOX News Media Internship Program - Technical Operations - New York | New York, NY | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Technical-Operations---New-York_R50033946?utm_source=aprameyak) | Sep 28 |
 | ↳ | Summer 2027 FOX News Media Internship Program - Data Analytics - New York | New York, NY | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033981?utm_source=aprameyak) | Sep 28 |
 | ↳ | Summer 2027 FOX News Media Internship Program - Technical Operations - Washington DC | Washington, DC | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/Washington-District-of-Columbia-USA/Summer-2027-FOX-News-Media-Internship-Program---Technical-Operations---Washington-DC_R50033947?utm_source=aprameyak) | Sep 28 |
+| ↳ | Summer 2027 FOX Technology Internship Program - Tempe, AZ | USA - AZ - Tempe - 2010 E Centennial Cir | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-2027-FOX-Technology-Internship-Program---Tempe--AZ_R50033969-1?utm_source=aprameyak) | Sep 28 |
+| ↳ | Summer 2027 FOX Technology Internship Program - Los Angeles, CA | Los Angeles, CA | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/Los-Angeles-California-USA/Summer-2027-FOX-Technology-Internship-Program---Los-Angeles--CA_R50033966?utm_source=aprameyak) | Sep 28 |
+| Philips | Intern – Digital Healthtech Product Management – Bothell, WA – Summer 2027 | Bothell, WA | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564?utm_source=aprameyak) | Sep 28 |
 | HNTB | Intern Engineer- Summer 2027 | Salt Lake City, UT | Undergrad | [Apply](https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Salt-Lake-City-UT/Intern-Engineer--Summer-2027_R-31734?utm_source=aprameyak) | Sep 27 |
 | QuEra Computing | Internship - Quantum Applications Research | Boston, MA | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435901008?utm_source=aprameyak) | Sep 27 |
 | ↳ | Internship - Quantum Error Correction Research | Boston, MA  USA | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435899008?utm_source=aprameyak) | Sep 27 |

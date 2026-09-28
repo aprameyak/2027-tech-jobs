@@ -13,8 +13,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (5094)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1460)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (5097)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1461)
 - [🎓 New Grad 2027](./NEWGRAD.md) (2553)
 
 ---
@@ -28,7 +28,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **5094** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **5097** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -38,6 +38,9 @@ Showing newest **75** of **5094** listings · [View full table](./SUMMER.md)
 | ↳ | Summer 2027 FOX News Media Internship Program - Technical Operations - New York | New York, NY | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Technical-Operations---New-York_R50033946?utm_source=aprameyak) | Sep 28 |
 | ↳ | Summer 2027 FOX News Media Internship Program - Data Analytics - New York | New York, NY | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033981?utm_source=aprameyak) | Sep 28 |
 | ↳ | Summer 2027 FOX News Media Internship Program - Technical Operations - Washington DC | Washington, DC | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/Washington-District-of-Columbia-USA/Summer-2027-FOX-News-Media-Internship-Program---Technical-Operations---Washington-DC_R50033947?utm_source=aprameyak) | Sep 28 |
+| ↳ | Summer 2027 FOX Technology Internship Program - Tempe, AZ | USA - AZ - Tempe - 2010 E Centennial Cir | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-2027-FOX-Technology-Internship-Program---Tempe--AZ_R50033969-1?utm_source=aprameyak) | Sep 28 |
+| ↳ | Summer 2027 FOX Technology Internship Program - Los Angeles, CA | Los Angeles, CA | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/Los-Angeles-California-USA/Summer-2027-FOX-Technology-Internship-Program---Los-Angeles--CA_R50033966?utm_source=aprameyak) | Sep 28 |
+| Philips | Intern – Digital Healthtech Product Management – Bothell, WA – Summer 2027 | Bothell, WA | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564?utm_source=aprameyak) | Sep 28 |
 | HNTB | Intern Engineer- Summer 2027 | Salt Lake City, UT | Undergrad | [Apply](https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Salt-Lake-City-UT/Intern-Engineer--Summer-2027_R-31734?utm_source=aprameyak) | Sep 27 |
 | QuEra Computing | Internship - Quantum Applications Research | Boston, MA | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435901008?utm_source=aprameyak) | Sep 27 |
 | ↳ | Internship - Quantum Error Correction Research | Boston, MA  USA | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435899008?utm_source=aprameyak) | Sep 27 |
@@ -106,19 +109,17 @@ Showing newest **75** of **5094** listings · [View full table](./SUMMER.md)
 | Dayton Freight | IT Business Analyst Intern | Dayton, OH | Undergrad | [Apply](https://careers-daytonfreight.icims.com/jobs/18261/it-business-analyst-intern/job) | Sep 24 |
 | Enterprise | Intern - Data Engineer (EFM IT) | St. Louis, MO | Undergrad | [Apply](https://us-erac.icims.com/jobs/567651/intern---data-engineer-%28efm-it%29/job) | Sep 24 |
 | EQT Corporation | Water Infrastructure Engineering Intern | Canonsburg, PA | Undergrad | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5424757008?utm_source=aprameyak) | Sep 24 |
-| Field AI | Simulation, Sim to Real - Internship Program | Irvine, CA | Undergrad | [Apply](https://jobs.lever.co/field-ai/cce71d31-40a0-407f-b3b9-a586976b89b8?utm_source=aprameyak) | Sep 24 |
-| Fortune Brands | Product Manager Intern | Deerfield, IL | Undergrad | [Apply](https://jobs.smartrecruiters.com/FortuneBrands/744000151692989) | Sep 24 |
-| General Dynamics Mission Systems | Intern - Systems Engineer | Bloomington, MN | Masters | [Apply](https://careers-gdms.icims.com/jobs/75108/intern---systems-engineer/job) | Sep 24 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1460** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1461** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| FOX Corporation | Summer and Fall 2027 FOX Technology Internship Program - Live Sports Virtual Enhancement Operator | USA - AZ - Tempe - 2010 E Centennial Cir | Fall 2027 | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-and-Fall-2027-FOX-Technology-Internship-Program---Live-Sports-Virtual-Enhancement-Operator_R50033973?utm_source=aprameyak) | Sep 28 |
 | RTX | 2027 Spring/Summer Sys Integration Engineering Co-op - Onsite | CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/XMLNAME-2027-Spring-Summer-Sys-Integration-Engineering-Co-op---Onsite_01873169?utm_source=aprameyak) | Sep 28 |
 | Disney | Data Analyst Intern, Global Security Control Center, Spring 2027 | Burbank, CA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010?utm_source=aprameyak) | Sep 27 |
 | Kinaxis | Co-op/  Intern Upgrade and Migration Specialist | Ottawa, ON | Co-op | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35322/co-op---intern-upgrade-and-migration-specialist/job) | Sep 26 |
@@ -193,7 +194,6 @@ Showing newest **75** of **1460** listings · [View full table](./OFFCYCLE.md)
 | ↳ | Commercial Data Science & AI Co-op | Raritan, NJ | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099258?utm_source=aprameyak) | Sep 21 |
 | Mercury | Software Engineering Intern - Spring 2027 | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6199367004?utm_source=aprameyak) | Sep 21 |
 | RTX | System Engineering Co-op (Remote) | AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75, CO | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/System-Engineering-Co-op--Remote-_01868902?utm_source=aprameyak) | Sep 21 |
-| ↳ | Systems Engineer Co-Op (Spring/Summer 2027) - Onsite | CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182, IA | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Spring-Summer-2027----Onsite_01873686?utm_source=aprameyak) | Sep 21 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027

@@ -1,11 +1,12 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1460 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1461 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| FOX Corporation | Summer and Fall 2027 FOX Technology Internship Program - Live Sports Virtual Enhancement Operator | USA - AZ - Tempe - 2010 E Centennial Cir | Fall 2027 | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-and-Fall-2027-FOX-Technology-Internship-Program---Live-Sports-Virtual-Enhancement-Operator_R50033973?utm_source=aprameyak) | Sep 28 |
 | RTX | 2027 Spring/Summer Sys Integration Engineering Co-op - Onsite | CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/XMLNAME-2027-Spring-Summer-Sys-Integration-Engineering-Co-op---Onsite_01873169?utm_source=aprameyak) | Sep 28 |
 | Disney | Data Analyst Intern, Global Security Control Center, Spring 2027 | Burbank, CA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010?utm_source=aprameyak) | Sep 27 |
 | Kinaxis | Co-op/  Intern Upgrade and Migration Specialist | Ottawa, ON | Co-op | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35322/co-op---intern-upgrade-and-migration-specialist/job) | Sep 26 |
