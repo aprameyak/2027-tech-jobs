@@ -1,12 +1,16 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1479 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1483 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| fgf brands | System Administrator Co-Op (Winter 2027) | Remote (US) | Co-op | Undergrad | [Apply](https://careerscoopinternen-fgfbrands.icims.com/jobs/27300/system-administrator-co-op-%28winter-2027%29/job) | Sep 29 |
 | General Motors | 2027 Winter Co-op Infotainment Software Developer | Markham, ON | Co-op | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Infotainment-Software-Developer_JR-202621159?utm_source=aprameyak) | Sep 29 |
+| Honeywell | Spring 2027 Software Engineering Co-op | United States | Co-op | Undergrad | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957) | Sep 29 |
+| ↳ | Spring 2027 Artificial Intelligence/Machine Learning Co-Op | United States | Co-op | Undergrad | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158958) | Sep 29 |
+| Morningstar | Morningstar Development Program - Quant Track (Partner Link Jan 2027) | Chicago, IL | Co-op | Undergrad | [Apply](https://morningstar.wd5.myworkdayjobs.com/en-US/confidential/job/Chicago/Morningstar-Development-Program---Quant-Track--Partner-Link-Jan-2027-_REQ-058622?utm_source=aprameyak) | Sep 29 |
 | RTX | Software Engineering Co-op (Summer/Fall 2027) | CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027-_01871232?utm_source=aprameyak) | Sep 29 |
 | ↳ | Software Engineering Co-op (Summer/Fall 2027) | CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Co-op--Summer-Fall-2027-_01877158?utm_source=aprameyak) | Sep 29 |
 | ↳ | Systems Engineer - Spring/Summer Co-op 2027 - (Onsite) | CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131, IA | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineer---Spring-Summer-Co-op-2027----Onsite-_01871506?utm_source=aprameyak) | Sep 29 |
