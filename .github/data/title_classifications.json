@@ -37837,9 +37837,9 @@
     "b": "s"
   },
   "senior software engineer, data platform": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -54878,9 +54878,10 @@
     "v": ""
   },
   "principal ai engineer, special programs": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "principal antenna engineer (starshield)": {
@@ -64802,8 +64803,9 @@
   },
   "gusto pro core, junior account manager": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   },
   "associate consultant (spring 2027 graduate program) ": {
     "t": true,
