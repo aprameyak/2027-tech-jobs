@@ -25673,9 +25673,9 @@
     "a": 0
   },
   "program manager ii": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -63239,8 +63239,9 @@
   },
   "associate engineer, technology ii": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "principal research scientist i, engineering ": {
@@ -73035,8 +73036,10 @@
   },
   "finance intern - undergrad summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "contract student worker - autonomy safety data engineer": {
     "t": true,
