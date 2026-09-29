@@ -62740,8 +62740,10 @@
   },
   "investor relations intern (summer 2027)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "summer engage (boston) - summer 2026": {
     "t": false,
