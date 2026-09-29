@@ -4158,9 +4158,10 @@
     "v": ""
   },
   "maritime technical operations engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "maritime xl - lead technical writer": {
@@ -5293,10 +5294,10 @@
   },
   "quality specialist, intelligence systems (second shift)": {
     "t": true,
-    "c": "stale",
-    "v": "",
-    "a": 0,
-    "b": "s"
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "o"
   },
   " quality specialist, intelligence systems (secret clearance)": {
     "t": true,
@@ -6654,8 +6655,8 @@
   },
   "senior mission software engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -12935,8 +12936,8 @@
   },
   "senior cloud engineer ": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -32223,8 +32224,9 @@
   },
   "senior security engineer, application security": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior software developer, infrastructure": {
