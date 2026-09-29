@@ -9717,8 +9717,9 @@
   },
   "technical program manager, maritime": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "technical program manager, pes ": {
@@ -16279,9 +16280,10 @@
     "v": ""
   },
   "delivery solutions architect - digital native business": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "delivery solutions architect - financial services": {
@@ -37753,9 +37755,9 @@
     "b": "s"
   },
   "senior frontend engineer - web platform": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
