@@ -1,11 +1,33 @@
 # ☀️ Summer 2027 Internships
 
-5127 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5149 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Amentum | Service Desk Administrator Internship IRES - SSFB | Colorado Springs, CO | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-CO-Colorado-Springs/Service-Desk-Administrator-Internship-IRES---SSFB_R0171676?utm_source=aprameyak) | Sep 29 |
+| Baker Hughes | Intern - Engineering & Technology - Summer 2027 Opportunities | CLAREMORE-200 W STUART ROOSA DR, OK | Undergrad | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/US-OK-CLAREMORE-200-W-STUART-ROOSA-DR/Intern---Engineering---Technology---Summer-2027-Opportunities_R168900?utm_source=aprameyak) | Sep 29 |
+| Bedrock Robotics | 2027 Internship Simulation Engineer, Neural Rendering | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/77759050-75f5-45ed-a3a8-35b665daaadc/application?utm_source=aprameyak) | Sep 29 |
+| Framatome | AI and Software Innovation Intern | Lynchburg, VA | Undergrad | [Apply](https://careers-framatome.icims.com/jobs/3385/ai-and-software-innovation-intern/job) | Sep 29 |
+| GE Vernova | GE Vernova - Machine Learning Software Intern - Summer 2027 | Bellevue | Undergrad | [Apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---Machine-Learning-Software-Intern---Summer-2027_R5050656-1?utm_source=aprameyak) | Sep 29 |
+| General Dynamics Mission Systems | SW Engineering Intern (Summer 2027- Lakewood) | Lakewood, OH | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75131/sw-engineering-intern-%28summer-2027--lakewood%29/job) | Sep 29 |
+| ↳ | Software Engineer – Intern | Huntsville, AL | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75040/software-engineer-%e2%80%93-intern/job) | Sep 29 |
+| ↳ | System Engineering Intern Engineer (Project Management) | Manassas, VA | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75137/system-engineering-intern-engineer-%28project-management%29/job) | Sep 29 |
+| GM Financial | Intern - Enterprise Resiliency | Irving, TX | Undergrad | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260820) | Sep 29 |
+| Lyft | Applied Scientist Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) | Sep 29 |
+| ↳ | Business Systems Engineer Intern, Finance Technology (Summer 2027) | Toronto, Canada | Masters | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002) | Sep 29 |
+| Marvell Technology | Architecture Intern, MS - Summer 2027 | Burlington, VT | Masters | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Burlington-VT/Architecture-Intern--MS---Summer-2027_2604613-1?utm_source=aprameyak) | Sep 29 |
+| Neighbor | Data Science Internship (Current PhD) - Summer 2027 | Lehi, UT | PhD | [Apply](https://jobs.lever.co/neighbor/b5f73774-1d5a-4edc-a184-d1734731cd9c?utm_source=aprameyak) | Sep 29 |
+| onsemi | Summer 2027 - IE / Data Analytics Intern | Hopewell Junction, NY | Undergrad | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506636) | Sep 29 |
+| RTX | Software Engineering Intern (Summer 2027) | CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137, IA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01878083?utm_source=aprameyak) | Sep 29 |
+| ↳ | Software Engineering Intern (Summer 2027) | CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131, IA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01869486?utm_source=aprameyak) | Sep 29 |
+| ↳ | Software Engineering Intern -  (Summer 2027) | CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131, IA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern-----Summer-2027-_01867602?utm_source=aprameyak) | Sep 29 |
+| ↳ | Software Engineering Intern (Summer 2027) | CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137, IA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01877155?utm_source=aprameyak) | Sep 29 |
+| The Aerospace Corporation | 2027 Software Tools and Assurance Engineering Grad Intern | El Segundo, CA | Undergrad | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753?utm_source=aprameyak) | Sep 29 |
+| Waymo | 2027 Summer Intern, BS, Depot Automation | San Francisco, CA | Undergrad | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8234553) | Sep 29 |
+| ↳ | 2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8237997) | Sep 29 |
+| Wellmark | Software Engineer Internship – Marketing and Digital Team | Des Moines, IA | Undergrad | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000152260188) | Sep 29 |
 | ACLU Kentucky | Summer 2027 Undergraduate Intern, Speech, Privacy and Technology Project | Remote/Hybrid-New York York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8843314002?utm_source=aprameyak) | Sep 28 |
 | Airbus | Summer Internship 2027 - Data Analytics - Operational Excellence | Mobile Area, AL | Undergrad | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mobile-Area-AL/Summer-Internship-2027---Data-Analytics---Operational-Excellence_JR10442492?utm_source=aprameyak) | Sep 28 |
 | Blue Cross Blue Shield of Michigan | Summer 2027 Intern - Data Science / Biostatistician | Detroit, MI | Undergrad | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14837) | Sep 28 |

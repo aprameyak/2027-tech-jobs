@@ -1,11 +1,12 @@
 # 🎓 New Grad 2027
 
-2565 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2566 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| KBR | Junior Systems Engineer | Beavercreek, OH |  | Masters | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2123987-1?utm_source=aprameyak) | Sep 29 |
 | Carnegie Mellon University | Associate Data Scientist | Pittsburgh, PA |  | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/Associate-Data-Scientist_2024499?utm_source=aprameyak) | Sep 28 |
 | EliseAI | Associate Product Manager | Housing | New York City |  | Undergrad | [Apply](https://jobs.ashbyhq.com/eliseai/f0c8d0af-8021-4a04-b0f9-de1baff48ee4/application?utm_source=aprameyak) | Sep 28 |
 | Freedom Technology Solutions Group | Junior System Engineer 784 | Annapolis Junction, MD |  | Undergrad | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5250215007?utm_source=aprameyak) | Sep 28 |
