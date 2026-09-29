@@ -68739,9 +68739,10 @@
   },
   "construction management intern (summer 2027)": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "software systems validation intern (spring 2027)": {
     "t": true,
