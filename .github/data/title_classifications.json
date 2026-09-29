@@ -95371,5 +95371,23 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "senior staff software engineer, netsoft utl, google global infrastructure": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior staff software engineer, app hub": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer, gemini app, data engineering, deepmind": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
