@@ -13453,9 +13453,9 @@
     "b": "s"
   },
   "senior security operations engineer ": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -22489,9 +22489,9 @@
     "b": "s"
   },
   "staff software engineer, data engineering": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -30019,9 +30019,9 @@
     "b": "s"
   },
   "staff site reliability engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -30857,9 +30857,10 @@
     "b": "s"
   },
   "senior staff machine learning engineer, ml understanding": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior staff machine learning engineer, notifications": {
