@@ -25105,8 +25105,9 @@
   },
   "java software engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "java software engineer (power/gas)": {
@@ -67790,9 +67791,9 @@
     "b": "s"
   },
   "associate product manager": {
-    "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "n"
   },
@@ -70913,9 +70914,10 @@
   },
   "opex co-op": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "intern - instructional design and training development": {
     "t": false,
