@@ -1,11 +1,18 @@
 # ☀️ Summer 2027 Internships
 
-5183 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5190 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| AeroVironment | Program Manager Intern | Simi Valley, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Program-Manager-Intern_8630?utm_source=aprameyak) | Sep 30 |
+| ↳ | Titan-SV Software Engineer Intern | Leesburg, VA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901?utm_source=aprameyak) | Sep 30 |
+| Marvell Technology | Machine Learning Engineer Intern, BS/MS - Summer 2027 | Santa Clara, CA | Masters | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860?utm_source=aprameyak) | Sep 30 |
+| Northrop Grumman | 2027 Software Digital Intern - Rolling Meadows IL | United States-Illinois-Rolling Meadows | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812?utm_source=aprameyak) | Sep 30 |
+| ↳ | 2027 Systems Engineer Intern – Rolling Meadows IL | United States-Illinois-Rolling Meadows | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Systems-Engineer-Intern---Rolling-Meadows-IL_R10252497?utm_source=aprameyak) | Sep 30 |
+| RTX | Software Engineering Intern (Summer 2027) | RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17, TX | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411?utm_source=aprameyak) | Sep 30 |
+| ↳ | Software Engineering Intern (Summer 2027) | LARGO-382SR ~ 7887 Bryan Dairy Rd ~ BLDG 600, FL | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951?utm_source=aprameyak) | Sep 30 |
 | AeroVironment | Digital Business Technology Infrastructure (DBT) Intern | Simi Valley, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885?utm_source=aprameyak) | Sep 29 |
 | ↳ | Software Engineering Intern | Sunrise, FL | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Sunrise-FL/Software-Engineering-Intern_8797?utm_source=aprameyak) | Sep 29 |
 | Altera | Software Engineer -  Intern | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252?utm_source=aprameyak) | Sep 29 |

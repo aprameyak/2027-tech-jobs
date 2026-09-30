@@ -1,11 +1,15 @@
 # 🎓 New Grad 2027
 
-2581 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2585 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| M&T Bank | 2027 Management Development Program - Asset Management Research Analyst (Radnor, PA) | Radnor, PA | Spring 2027 | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Radnor-PA/XMLNAME-2027-Management-Development-Program---Asset-Management-Research-Analyst--Radnor--PA-_R89081?utm_source=aprameyak) | Sep 30 |
+| Northrop Grumman | 2027 Associate Systems Engineer - Rolling Meadows IL | United States-Illinois-Rolling Meadows | Spring 2027 | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Systems-Engineer---Rolling-Meadows-IL_R10252189?utm_source=aprameyak) | Sep 30 |
+| RSM | Microsoft Business Central Associate - Fall 2027 | Vancouver, BC | Fall 2027 | Undergrad | [Apply](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Vancouver/Microsoft-Business-Central-Associate---Fall-2027_JR117225-1?utm_source=aprameyak) | Sep 30 |
+| RTX | Systems Engineer Associate - Athena Control Systems (ONSITE) | STERLING-291 ~ 22640 Davis Dr ~ DAVIS, VA |  | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Systems-Engineer-Associate---Athena-Control-Systems--ONSITE-_01878713?utm_source=aprameyak) | Sep 30 |
 | CACI | Junior Cyber Security Engineer | Colorado Springs, CO, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Colorado-Springs-CO-US/Junior-Cyber-Security-Engineer_332795?utm_source=aprameyak) | Sep 29 |
 | ConocoPhillips | Graduate Analyst, Trading Analytics 2027 | Houston, TX | Spring 2027 | Undergrad | [Apply](https://conocophillips.wd1.myworkdayjobs.com/en-US/External/job/Houston-TX/Graduate-Analyst--Trading-Analytics-2027_REQ-006637?utm_source=aprameyak) | Sep 29 |
 | KBR | Junior Systems Engineer | Beavercreek, OH |  | Masters | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2123987-1?utm_source=aprameyak) | Sep 29 |

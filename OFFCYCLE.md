@@ -1,11 +1,12 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1485 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1486 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| RTX | Software Engineering Co-op  (Spring/Summer 2027) | CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384?utm_source=aprameyak) | Sep 30 |
 | fgf brands | System Administrator Co-Op (Winter 2027) | Remote (US) | Co-op | Undergrad | [Apply](https://careerscoopinternen-fgfbrands.icims.com/jobs/27300/system-administrator-co-op-%28winter-2027%29/job) | Sep 29 |
 | General Motors | 2027 Winter Co-op Infotainment Software Developer | Markham, ON | Co-op | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Infotainment-Software-Developer_JR-202621159?utm_source=aprameyak) | Sep 29 |
 | Honeywell | Spring 2027 Software Engineering Co-op | United States | Co-op | Undergrad | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957) | Sep 29 |

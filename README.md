@@ -13,9 +13,9 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (5183)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1485)
-- [🎓 New Grad 2027](./NEWGRAD.md) (2581)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (5190)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1486)
+- [🎓 New Grad 2027](./NEWGRAD.md) (2585)
 
 ---
 
@@ -28,12 +28,19 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **5183** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **5190** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| AeroVironment | Program Manager Intern | Simi Valley, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Program-Manager-Intern_8630?utm_source=aprameyak) | Sep 30 |
+| ↳ | Titan-SV Software Engineer Intern | Leesburg, VA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901?utm_source=aprameyak) | Sep 30 |
+| Marvell Technology | Machine Learning Engineer Intern, BS/MS - Summer 2027 | Santa Clara, CA | Masters | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860?utm_source=aprameyak) | Sep 30 |
+| Northrop Grumman | 2027 Software Digital Intern - Rolling Meadows IL | United States-Illinois-Rolling Meadows | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812?utm_source=aprameyak) | Sep 30 |
+| ↳ | 2027 Systems Engineer Intern – Rolling Meadows IL | United States-Illinois-Rolling Meadows | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Systems-Engineer-Intern---Rolling-Meadows-IL_R10252497?utm_source=aprameyak) | Sep 30 |
+| RTX | Software Engineering Intern (Summer 2027) | RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17, TX | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411?utm_source=aprameyak) | Sep 30 |
+| ↳ | Software Engineering Intern (Summer 2027) | LARGO-382SR ~ 7887 Bryan Dairy Rd ~ BLDG 600, FL | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951?utm_source=aprameyak) | Sep 30 |
 | AeroVironment | Digital Business Technology Infrastructure (DBT) Intern | Simi Valley, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885?utm_source=aprameyak) | Sep 29 |
 | ↳ | Software Engineering Intern | Sunrise, FL | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Sunrise-FL/Software-Engineering-Intern_8797?utm_source=aprameyak) | Sep 29 |
 | Altera | Software Engineer -  Intern | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252?utm_source=aprameyak) | Sep 29 |
@@ -102,23 +109,17 @@ Showing newest **75** of **5183** listings · [View full table](./SUMMER.md)
 | ↳ | Summer 2027 FOX Technology Internship Program - Tempe, AZ | USA - AZ - Tempe - 2010 E Centennial Cir | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-2027-FOX-Technology-Internship-Program---Tempe--AZ_R50033969-1?utm_source=aprameyak) | Sep 28 |
 | ↳ | Summer 2027 FOX Technology Internship Program - Los Angeles, CA | Los Angeles, CA | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/Los-Angeles-California-USA/Summer-2027-FOX-Technology-Internship-Program---Los-Angeles--CA_R50033966?utm_source=aprameyak) | Sep 28 |
 | General Dynamics Mission Systems | SW Engineering (Java/C++) Intern (Summer 2027) | Manassas, VA | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75128/sw-engineering-%28java-c%2b%2b%29-intern-%28summer-2027%29/job) | Sep 28 |
-| ↳ | Program Management Intern (CWL) | Manassas, VA | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75136/program-management-intern-%28cwl%29/job) | Sep 28 |
-| GlobalFoundries | Technology Architecture Engineering Intern (Summer 2027) | USA - New York - Malta | Undergrad | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Technology-Architecture-Engineering-Intern--Summer-2027-_JR-2604362?utm_source=aprameyak) | Sep 28 |
-| GM Financial | Intern - Cybersecurity | Arlington, TX | Undergrad | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260836) | Sep 28 |
-| ↳ | Intern - Cybersecurity | Irving, TX | Undergrad | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260805) | Sep 28 |
-| LLNL | Defense Science and Technology Internship Graduate Computer Student - Summer 2027 | Livermore, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990015740696) | Sep 28 |
-| ↳ | Defense Science and Technology Internship Graduate Student - Summer 2027 | Livermore, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990015740586) | Sep 28 |
-| ↳ | Defense Science and Technology Internship Undergraduate Student - Summer 2027 | Livermore, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990015740565) | Sep 28 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1485** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1486** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| RTX | Software Engineering Co-op  (Spring/Summer 2027) | CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384?utm_source=aprameyak) | Sep 30 |
 | fgf brands | System Administrator Co-Op (Winter 2027) | Remote (US) | Co-op | Undergrad | [Apply](https://careerscoopinternen-fgfbrands.icims.com/jobs/27300/system-administrator-co-op-%28winter-2027%29/job) | Sep 29 |
 | General Motors | 2027 Winter Co-op Infotainment Software Developer | Markham, ON | Co-op | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Infotainment-Software-Developer_JR-202621159?utm_source=aprameyak) | Sep 29 |
 | Honeywell | Spring 2027 Software Engineering Co-op | United States | Co-op | Undergrad | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957) | Sep 29 |
@@ -193,17 +194,20 @@ Showing newest **75** of **1485** listings · [View full table](./OFFCYCLE.md)
 | ↳ | Software/Application Developer Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461?utm_source=aprameyak) | Sep 22 |
 | ↳ | Application/Software Developer Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op_2619454?utm_source=aprameyak) | Sep 22 |
 | Entegris | Enterprise Solution Architecture Analyst Co-Op | Chaska, MN | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Chaska-MN/Enterprise-Solution-Architecture-Analyst-Co-Op_REQ-14445?utm_source=aprameyak) | Sep 22 |
-| General Dynamics Mission Systems | Co-op Winter 2027 - Software Engineering - 4-8 months | Cole Harbour, NS | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000151059868) | Sep 22 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **2581** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **2585** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| M&T Bank | 2027 Management Development Program - Asset Management Research Analyst (Radnor, PA) | Radnor, PA | Spring 2027 | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Radnor-PA/XMLNAME-2027-Management-Development-Program---Asset-Management-Research-Analyst--Radnor--PA-_R89081?utm_source=aprameyak) | Sep 30 |
+| Northrop Grumman | 2027 Associate Systems Engineer - Rolling Meadows IL | United States-Illinois-Rolling Meadows | Spring 2027 | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Systems-Engineer---Rolling-Meadows-IL_R10252189?utm_source=aprameyak) | Sep 30 |
+| RSM | Microsoft Business Central Associate - Fall 2027 | Vancouver, BC | Fall 2027 | Undergrad | [Apply](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Vancouver/Microsoft-Business-Central-Associate---Fall-2027_JR117225-1?utm_source=aprameyak) | Sep 30 |
+| RTX | Systems Engineer Associate - Athena Control Systems (ONSITE) | STERLING-291 ~ 22640 Davis Dr ~ DAVIS, VA |  | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Systems-Engineer-Associate---Athena-Control-Systems--ONSITE-_01878713?utm_source=aprameyak) | Sep 30 |
 | CACI | Junior Cyber Security Engineer | Colorado Springs, CO, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Colorado-Springs-CO-US/Junior-Cyber-Security-Engineer_332795?utm_source=aprameyak) | Sep 29 |
 | ConocoPhillips | Graduate Analyst, Trading Analytics 2027 | Houston, TX | Spring 2027 | Undergrad | [Apply](https://conocophillips.wd1.myworkdayjobs.com/en-US/External/job/Houston-TX/Graduate-Analyst--Trading-Analytics-2027_REQ-006637?utm_source=aprameyak) | Sep 29 |
 | KBR | Junior Systems Engineer | Beavercreek, OH |  | Masters | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2123987-1?utm_source=aprameyak) | Sep 29 |
@@ -275,10 +279,6 @@ Showing newest **75** of **2581** listings · [View full table](./NEWGRAD.md)
 | Protiviti | Atlanta Technology Consulting Consultant - 2027 | ATLANTA - PEACHTREE RD |  | Undergrad | [Apply](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/ATLANTA---PEACHTREE-RD/Atlanta-Technology-Consulting-Consultant---2027_JR-257677?utm_source=aprameyak) | Sep 21 |
 | ↳ | Chicago Technology Consulting Consultant - 2027 | Chicago, IL |  | Undergrad | [Apply](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/CHICAGO/Chicago-Technology-Consulting-Consultant---2027_JR-257687?utm_source=aprameyak) | Sep 21 |
 | ResMed | Associate iOS Developer | San Diego, CA |  | Undergrad | [Apply](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-iOS-Developer_JR_053886-1?utm_source=aprameyak) | Sep 21 |
-| SingleStore | MIT-Software Engineer-New Grad |Engine| | United States |  | Undergrad | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220863?utm_source=aprameyak) | Sep 21 |
-| ↳ | MIT-Software Engineer-New Grad |Helios| | United States |  | Undergrad | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220882?utm_source=aprameyak) | Sep 21 |
-| Torch Technologies | Junior Systems Engineer | Hanscom AFB, MA |  | Masters | [Apply](https://starfish.wd501.myworkdayjobs.com/en-US/Careers/job/Hanscom-AFB-MA/Junior-Systems-Engineer_R1204?utm_source=aprameyak) | Sep 21 |
-| University of St. Thomas | Graduate Research Assistant | Remote (US) |  | Undergrad | [Apply](https://studentemployment-stthomas.icims.com/jobs/9672/graduate-research-assistant/job) | Sep 21 |
 <!-- TABLE_END newgrad -->
 
 ## Disclaimer
