@@ -7165,9 +7165,9 @@
     "a": 0
   },
   "senior reliability engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -61856,8 +61856,9 @@
   },
   "program manager intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "business analyst intern": {
@@ -71667,8 +71668,10 @@
   },
   "entry-level finance controllership rotational program": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "n"
   },
   "2027 winter co-op - maintenance group leader ga": {
     "t": false,
