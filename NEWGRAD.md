@@ -1,11 +1,14 @@
 # 🎓 New Grad 2027
 
-2589 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2593 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| CACI | Full Stack Developer | Fort Bragg, NC, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Fort-Bragg-NC-US/Full-Stack-Developer_332906?utm_source=aprameyak) | Sep 30 |
+| General Motors | Software Engineer, AV Data Collection - Early Career | Sunnyvale, CA |  | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529?utm_source=aprameyak) | Sep 30 |
+| IMC Trading | Software Engineer, Early Career | Chicago, United States |  | Undergrad | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101?utm_source=aprameyak) | Sep 30 |
 | M&T Bank | 2027 Management Development Program - Asset Management Research Analyst (Radnor, PA) | Radnor, PA | Spring 2027 | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Radnor-PA/XMLNAME-2027-Management-Development-Program---Asset-Management-Research-Analyst--Radnor--PA-_R89081?utm_source=aprameyak) | Sep 30 |
 | Northrop Grumman | 2027 Associate Systems Engineer - Rolling Meadows IL | United States-Illinois-Rolling Meadows | Spring 2027 | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Systems-Engineer---Rolling-Meadows-IL_R10252189?utm_source=aprameyak) | Sep 30 |
 | ↳ | 2027 Associate Liaison/MRB Engineer/ Liaison/MRB Engineer | United States-Mississippi-Iuka | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Associate-Liaison-MRB-Engineer--Liaison-MRB-Engineer_R10253619?utm_source=aprameyak) | Sep 30 |
@@ -14,6 +17,7 @@
 | RTX | Systems Engineer Associate - Athena Control Systems (ONSITE) | STERLING-291 ~ 22640 Davis Dr ~ DAVIS, VA |  | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Systems-Engineer-Associate---Athena-Control-Systems--ONSITE-_01878713?utm_source=aprameyak) | Sep 30 |
 | ↳ | Software/Developer Engineer I (Onsite) | HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401, AL |  | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Developer-Engineer-I--Onsite-_01878887?utm_source=aprameyak) | Sep 30 |
 | ↳ | Software/Developer Engineer I (Onsite) | FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A, IN |  | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Developer-Engineer-I--Onsite-_01878880?utm_source=aprameyak) | Sep 30 |
+| Vertiv | Junior Systems Engineer | Anderson, SC |  | Masters | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20283296) | Sep 30 |
 | CACI | Junior Cyber Security Engineer | Colorado Springs, CO, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Colorado-Springs-CO-US/Junior-Cyber-Security-Engineer_332795?utm_source=aprameyak) | Sep 29 |
 | ConocoPhillips | Graduate Analyst, Trading Analytics 2027 | Houston, TX | Spring 2027 | Undergrad | [Apply](https://conocophillips.wd1.myworkdayjobs.com/en-US/External/job/Houston-TX/Graduate-Analyst--Trading-Analytics-2027_REQ-006637?utm_source=aprameyak) | Sep 29 |
 | KBR | Junior Systems Engineer | Beavercreek, OH |  | Masters | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2123987-1?utm_source=aprameyak) | Sep 29 |

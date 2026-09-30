@@ -1,15 +1,19 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1489 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1493 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Abbott Laboratories | 2027 Winter Graduate Co-op - Clinical Affairs AI/ML | United States - Minnesota - St. Paul | Co-op | Undergrad | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025?utm_source=aprameyak) | Sep 30 |
 | Amgen | Grad Co-op — Computational Safety Modeling for Small Molecules | United States - Remote | Co-op | Undergrad | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Co-op---Computational-Safety-Modeling-for-Small-Molecules_R-257124?utm_source=aprameyak) | Sep 30 |
 | Flagship Pioneering | Terrana: Bioinformatics Co-Op: Computational Biology & Data Science | Cambridge, MA USA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8843290002?utm_source=aprameyak) | Sep 30 |
 | Freedom Technology Solutions Group | Backend Developer Junior 790 | St. Louis, MO | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5252868007?utm_source=aprameyak) | Sep 30 |
+| Peraton | Spring & Summer 2027 Software Engineering Co-op | San Diego, CA | Co-op | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/171547/spring-%26-summer-2027-software-engineering-co-op/job) | Sep 30 |
 | RTX | Software Engineering Co-op  (Spring/Summer 2027) | CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384?utm_source=aprameyak) | Sep 30 |
+| Vertiv | Junior System Engineer | Pelzer, SC | Co-op | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20283184) | Sep 30 |
+| ↳ | Junior System Engineer | Pelzer, SC | Co-op | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20283185) | Sep 30 |
 | fgf brands | System Administrator Co-Op (Winter 2027) | Remote (US) | Co-op | Undergrad | [Apply](https://careerscoopinternen-fgfbrands.icims.com/jobs/27300/system-administrator-co-op-%28winter-2027%29/job) | Sep 29 |
 | General Motors | 2027 Winter Co-op Infotainment Software Developer | Markham, ON | Co-op | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Infotainment-Software-Developer_JR-202621159?utm_source=aprameyak) | Sep 29 |
 | Honeywell | Spring 2027 Software Engineering Co-op | United States | Co-op | Undergrad | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957) | Sep 29 |
