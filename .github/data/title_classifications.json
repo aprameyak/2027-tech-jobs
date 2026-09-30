@@ -74981,8 +74981,10 @@
   },
   "integrated circuits intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "mba-level pricing and contracts performance intern": {
     "t": false,
