@@ -482,8 +482,8 @@
   },
   "software engineer, early career": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "n"
   },
@@ -13155,9 +13155,10 @@
     "b": "s"
   },
   "staff enterprise security engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff security engineer": {
@@ -27069,9 +27070,9 @@
     "b": "s"
   },
   "senior software engineer, ai platform": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -37880,9 +37881,9 @@
     "b": "s"
   },
   "senior technical support engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -74602,8 +74603,10 @@
   },
   "policy intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "real estate & builds intern (ewx)": {
     "t": false,
