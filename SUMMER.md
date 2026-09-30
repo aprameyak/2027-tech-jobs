@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-5192 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5205 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -9,12 +9,25 @@
 | AeroVironment | Program Manager Intern | Simi Valley, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Program-Manager-Intern_8630?utm_source=aprameyak) | Sep 30 |
 | ↳ | Titan-SV Software Engineer Intern | Leesburg, VA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901?utm_source=aprameyak) | Sep 30 |
 | Bosch | [BD] IT Project Operation Assistant Intern (6-Month Internship) | Remote (US) | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000152648289) | Sep 30 |
+| ↳ | Commercial Project Management & AI Innovation Intern | Plymouth, MI | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000152706359) | Sep 30 |
+| CACI | Software/Network Engineering Intern - Summer 2027 | Florham Park, NJ, US | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895?utm_source=aprameyak) | Sep 30 |
+| Geotab | Software Developer Intern, Altitude (Winter/January 2027, 12 Months) | Oakville, Ontario - Canada | Undergrad | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5389341008?utm_source=aprameyak) | Sep 30 |
+| Intel | AI SOC Power Delivery Pathfinding PhD Intern | Hillsboro, OR | PhD | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538?utm_source=aprameyak) | Sep 30 |
+| KLA | Software Engineering Intern | Milpitas, CA | Undergrad | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2641581-1?utm_source=aprameyak) | Sep 30 |
+| ↳ | Software Engineering Intern | Milpitas, CA | Undergrad | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1?utm_source=aprameyak) | Sep 30 |
 | Marvell Technology | Machine Learning Engineer Intern, BS/MS - Summer 2027 | Santa Clara, CA | Masters | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860?utm_source=aprameyak) | Sep 30 |
 | Northrop Grumman | 2027 Software Digital Intern - Rolling Meadows IL | United States-Illinois-Rolling Meadows | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812?utm_source=aprameyak) | Sep 30 |
 | ↳ | 2027 Systems Engineer Intern – Rolling Meadows IL | United States-Illinois-Rolling Meadows | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Systems-Engineer-Intern---Rolling-Meadows-IL_R10252497?utm_source=aprameyak) | Sep 30 |
+| ↳ | 2027 Software Engineering Intern Dulles VA | United States-Virginia-Dulles | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731?utm_source=aprameyak) | Sep 30 |
+| Peraton | Summer 2027 Production Support Analyst Intern | San Diego, CA | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/171540/summer-2027-production-support-analyst-intern/job) | Sep 30 |
 | RTX | Software Engineering Intern (Summer 2027) | RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17, TX | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411?utm_source=aprameyak) | Sep 30 |
 | ↳ | Software Engineering Intern (Summer 2027) | LARGO-382SR ~ 7887 Bryan Dairy Rd ~ BLDG 600, FL | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951?utm_source=aprameyak) | Sep 30 |
 | ↳ | Software Engineering  Intern (Summer 2027) | FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A, IN | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986?utm_source=aprameyak) | Sep 30 |
+| ↳ | Systems Engineer - Intern- Onsite | TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord, MA | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer---Intern--Onsite_01879053?utm_source=aprameyak) | Sep 30 |
+| Stantec | Data Science Intern - Infrastructure (Summer 2027) | Orlando, FL | Undergrad | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008052) | Sep 30 |
+| Stripe | High School Fellowship, Software Engineering | Seattle, San Francisco | Undergrad | [Apply](https://stripe.com/jobs/search?gh_jid=8241260) | Sep 30 |
+| Wellmark | Security Analyst Internship | Des Moines, IA | Undergrad | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000152694203) | Sep 30 |
+| ↳ | Software Engineer Internship – Metadata Enablement Team | Des Moines, IA | Undergrad | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000152679699) | Sep 30 |
 | AeroVironment | Digital Business Technology Infrastructure (DBT) Intern | Simi Valley, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885?utm_source=aprameyak) | Sep 29 |
 | ↳ | Software Engineering Intern | Sunrise, FL | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Sunrise-FL/Software-Engineering-Intern_8797?utm_source=aprameyak) | Sep 29 |
 | Altera | Software Engineer -  Intern | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252?utm_source=aprameyak) | Sep 29 |
