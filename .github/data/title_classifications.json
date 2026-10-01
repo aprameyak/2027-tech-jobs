@@ -3581,8 +3581,9 @@
   },
   "information systems security manager": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "information systems security manager, ad&s": {
@@ -22723,8 +22724,8 @@
   },
   "senior product manager, notifications": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -29569,8 +29570,9 @@
   },
   "senior manager, technical architecture": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior platform engineer, runtime (auth0)": {
@@ -31709,8 +31711,9 @@
   },
   "sr. staff software engineer, data product platform": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "sr. staff software engineer, ios search and shopping journeys": {
@@ -37680,8 +37683,8 @@
   },
   "senior android engineer - mobile platform & systems": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -37700,8 +37703,8 @@
   },
   "senior backend engineer - device platform": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -53513,8 +53516,8 @@
   },
   "it network engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -57025,8 +57028,9 @@
   },
   "sr. it network automation engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "sr. it systems administrator (top secret clearance)": {
