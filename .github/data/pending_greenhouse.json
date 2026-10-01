@@ -1,0 +1,74 @@
+[
+  {
+    "company": "Riot Games",
+    "role": "Software Engineering Intern - Summer 2027 (Remote)",
+    "location": "Los Angeles, USA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-01"
+  },
+  {
+    "company": "Stripe",
+    "role": "Data Analyst, Intern",
+    "location": "Toronto, ON",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-01"
+  },
+  {
+    "company": "Stripe",
+    "role": "Data Analyst, Intern",
+    "location": "New York, Seattle, South San Francisco HQ",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-01"
+  },
+  {
+    "company": "Stripe",
+    "role": "PhD Data Scientist, Intern",
+    "location": "New York, Seattle, South San Francisco HQ",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "PhD",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194283",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-01"
+  },
+  {
+    "company": "Stripe",
+    "role": "PhD Data Scientist, Intern",
+    "location": "Toronto, ON",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "PhD",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194285",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-01"
+  },
+  {
+    "company": "Waymo",
+    "role": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+    "location": "Mountain View, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "PhD",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8243556",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-01"
+  }
+]
