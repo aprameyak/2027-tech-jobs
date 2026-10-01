@@ -1,18 +1,34 @@
 # ☀️ Summer 2027 Internships
 
-5246 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5269 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | Allegion | Summer Intern - Software Engineering - Quality Assurance | Golden, CO | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1?utm_source=aprameyak) | Oct 1 |
+| Bedrock Robotics | 2027 Internship Product Intern | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a/application?utm_source=aprameyak) | Oct 1 |
+| CACI | Software Development Intern - Summer 2027 | Ashburn, VA, US | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_332790?utm_source=aprameyak) | Oct 1 |
+| ↳ | AI Prompt Engineer High School Intern - Summer 2027 | Ashburn, VA, US | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1?utm_source=aprameyak) | Oct 1 |
+| Dairyland Power Cooperative | Intern, Technical Training (On-Site - La Crosse, WI) | La Crosse, WI | Undergrad | [Apply](https://dairynet.wd1.myworkdayjobs.com/en-US/DPCcareers/job/La-Crosse-Wisconsin/Intern--Technical-Training--On-Site---La-Crosse--WI-_JR101074?utm_source=aprameyak) | Oct 1 |
+| Fortune Brands | Product Manager Intern | Deerfield, IL | Undergrad | [Apply](https://jobs.smartrecruiters.com/FortuneBrands/744000152963619) | Oct 1 |
+| General Dynamics | Security - 2027 Summer Internship | Groton, CT | Undergrad | [Apply](https://careers-gdeb.icims.com/jobs/20526/security---2027-summer-internship/job) | Oct 1 |
+| General Dynamics Mission Systems | Software Engineer Intern (2027) | McLeansville, NC | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/74537/software-engineer-intern-%282027%29/job) | Oct 1 |
+| ↳ | Software Engineering Intern | Canonsburg, PA | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75269/software-engineering-intern/job) | Oct 1 |
 | General Motors | Summer 2027 Intern - Computational Design Intern | Warren, MI | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Computational-Design-Intern_JR-202621454?utm_source=aprameyak) | Oct 1 |
+| GlobalFoundries | End Markets Intern, Communications Infrastructure and Datacenter (Summer 2027) | USA - Texas - Austin | Undergrad | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/End-Markets-Intern--Communications-Infrastructure-and-Datacenter--Summer-2027-_JR-2604224?utm_source=aprameyak) | Oct 1 |
+| GM Financial | Intern - Pricing Analytics & Product Development | Fort Worth, TX | Undergrad | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260789) | Oct 1 |
+| ITT | Engineering / Applications Intern (Summer 2027) | Remote (US) | Undergrad | [Apply](https://careersenus-itt-inc.icims.com/jobs/17658/engineering---applications-intern-%28summer-2027%29/job) | Oct 1 |
 | MSD | Associate Scientist, Post Doc Fellow- AI/ML & Computational Biology for Antigen Design | USA - Pennsylvania - West Point | Undergrad | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Pennsylvania---West-Point/Associate-Scientist--Post-Doc-Fellow--AI-ML---Computational-Biology-for-Antigen-Design_R419377-1?utm_source=aprameyak) | Oct 1 |
 | ↳ | Associate Scientist, Post Doc Fellow- Computational Pathology & Spatial AI | USA - Massachusetts - Cambridge (320 Bent Street) | Undergrad | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Associate-Scientist--Post-Doc-Fellow--Computational-Pathology---Spatial-AI_R418980-1?utm_source=aprameyak) | Oct 1 |
 | Philips | Intern - System Test Automation Engineer – San Diego, CA – Summer 2027 | San Diego, CA | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/San-Diego-California-United-States/Intern---System-Test-Automation-Engineer---San-Diego--CA---Summer-2027_592516?utm_source=aprameyak) | Oct 1 |
 | Plexus | Intern - Site IT (Summer 2027) | Raleigh, NC | Undergrad | [Apply](https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Raleigh-NC/Intern---Site-IT--Summer-2027-_R040569-1?utm_source=aprameyak) | Oct 1 |
+| Riot Games | Software Engineering Intern - Summer 2027 (Remote) | Los Angeles, USA | Undergrad | [Apply](https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014) | Oct 1 |
+| Rockwell Automation | Intern, Digital Client | Mequon, WI | Undergrad | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-7261-1?utm_source=aprameyak) | Oct 1 |
 | RTX | 2027 Summer System Engineering Intern (Onsite) | JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG, FL | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/XMLNAME-2027-Summer-System-Engineering-Intern--Onsite-_01878549?utm_source=aprameyak) | Oct 1 |
+| ↳ | Software Engineering Intern (Summer 2027) | CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105, IA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01870343?utm_source=aprameyak) | Oct 1 |
+| ↳ | Software Engineering Intern (Summer 2027) | ANNAPOLIS-906 ~ 2551 Riva Rd ~ BLDG 906, MD | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineering-Intern--Summer-2027-_01873235?utm_source=aprameyak) | Oct 1 |
+| ↳ | Software Engineering Intern (Summer 2027) | EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01, CA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01878820?utm_source=aprameyak) | Oct 1 |
 | Southwest Airlines | Safety Analytics Summer 2027 Intern | TX-Dallas | Undergrad | [Apply](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Safety-Analytics-Summer-2027-Intern_R-2026-73047?utm_source=aprameyak) | Oct 1 |
 | ↳ | Summer 2027 Operations Engineering Internship | TX-Dallas | Undergrad | [Apply](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Summer-2027-Operations-Engineering-Internship_R-2026-73052?utm_source=aprameyak) | Oct 1 |
 | ↳ | Summer 2027 Maintenance Programs Solutions & Analytics Internship | TX-Dallas | Masters | [Apply](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Summer-2027-Maintenance-Programs-Solutions---Analytics-Internship_R-2026-73021?utm_source=aprameyak) | Oct 1 |
@@ -25,8 +41,15 @@
 | ↳ | Summer 2027 Digital Testing & Optimization Internship | TX-Dallas | Undergrad | [Apply](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Summer-2027-Digital-Testing---Optimization-Internship_R-2026-73012?utm_source=aprameyak) | Oct 1 |
 | ↳ | Summer 2027 Data Engineer Internship | TX-Dallas | Undergrad | [Apply](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271?utm_source=aprameyak) | Oct 1 |
 | ↳ | Summer 2027 Software Engineer Internship | TX-Dallas | Undergrad | [Apply](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Summer-2027-Software-Engineer-Internship_R-2026-73270?utm_source=aprameyak) | Oct 1 |
+| ↳ | Summer 2027 Revenue Management Analyst Internship | TX-Dallas | Undergrad | [Apply](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Summer-2027-Revenue-Management-Analyst-Internship_R-2026-73263?utm_source=aprameyak) | Oct 1 |
+| ↳ | Summer 2027 Financial Planning & Analytics Internship | TX-Dallas | Undergrad | [Apply](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Summer-2027-Financial-Planning---Analytics-Internship_R-2026-73010?utm_source=aprameyak) | Oct 1 |
+| Stripe | Data Analyst, Intern | Toronto, ON | Undergrad | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) | Oct 1 |
+| ↳ | Data Analyst, Intern | New York, Seattle, South San Francisco HQ | Undergrad | [Apply](https://stripe.com/jobs/search?gh_jid=8194291) | Oct 1 |
+| ↳ | PhD Data Scientist, Intern | New York, Seattle, South San Francisco HQ | PhD | [Apply](https://stripe.com/jobs/search?gh_jid=8194283) | Oct 1 |
+| ↳ | PhD Data Scientist, Intern | Toronto, ON | PhD | [Apply](https://stripe.com/jobs/search?gh_jid=8194285) | Oct 1 |
 | Varda Space | Cybersecurity Internship - Summer 2027 | El Segundo, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8005821003?utm_source=aprameyak) | Oct 1 |
 | ↳ | Flight Software Internship - Summer 2027 | El Segundo, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010159003?utm_source=aprameyak) | Oct 1 |
+| Waymo | 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8243556) | Oct 1 |
 | AeroVironment | Program Manager Intern | Simi Valley, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Program-Manager-Intern_8630?utm_source=aprameyak) | Sep 30 |
 | ↳ | Titan-SV Software Engineer Intern | Leesburg, VA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901?utm_source=aprameyak) | Sep 30 |
 | Amazon | Software Development Engineer Intern, AWS Database - 2027 (US) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) | Sep 30 |
