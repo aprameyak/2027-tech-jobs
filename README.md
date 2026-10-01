@@ -13,9 +13,9 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (5225)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (5230)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1493)
-- [🎓 New Grad 2027](./NEWGRAD.md) (2593)
+- [🎓 New Grad 2027](./NEWGRAD.md) (2594)
 
 ---
 
@@ -28,12 +28,17 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **5225** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **5230** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Allegion | Summer Intern - Software Engineering - Quality Assurance | Golden, CO | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1?utm_source=aprameyak) | Oct 1 |
+| MSD | Associate Scientist, Post Doc Fellow- AI/ML & Computational Biology for Antigen Design | USA - Pennsylvania - West Point | Undergrad | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Pennsylvania---West-Point/Associate-Scientist--Post-Doc-Fellow--AI-ML---Computational-Biology-for-Antigen-Design_R419377-1?utm_source=aprameyak) | Oct 1 |
+| ↳ | Associate Scientist, Post Doc Fellow- Computational Pathology & Spatial AI | USA - Massachusetts - Cambridge (320 Bent Street) | Undergrad | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Associate-Scientist--Post-Doc-Fellow--Computational-Pathology---Spatial-AI_R418980-1?utm_source=aprameyak) | Oct 1 |
+| Philips | Intern - System Test Automation Engineer – San Diego, CA – Summer 2027 | San Diego, CA | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/San-Diego-California-United-States/Intern---System-Test-Automation-Engineer---San-Diego--CA---Summer-2027_592516?utm_source=aprameyak) | Oct 1 |
+| Plexus | Intern - Site IT (Summer 2027) | Raleigh, NC | Undergrad | [Apply](https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Raleigh-NC/Intern---Site-IT--Summer-2027-_R040569-1?utm_source=aprameyak) | Oct 1 |
 | AeroVironment | Program Manager Intern | Simi Valley, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Program-Manager-Intern_8630?utm_source=aprameyak) | Sep 30 |
 | ↳ | Titan-SV Software Engineer Intern | Leesburg, VA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901?utm_source=aprameyak) | Sep 30 |
 | Amazon | Software Development Engineer Intern, AWS Database - 2027 (US) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) | Sep 30 |
@@ -104,11 +109,6 @@ Showing newest **75** of **5225** listings · [View full table](./SUMMER.md)
 | Neighbor | Data Science Internship (Current PhD) - Summer 2027 | Lehi, UT | PhD | [Apply](https://jobs.lever.co/neighbor/b5f73774-1d5a-4edc-a184-d1734731cd9c?utm_source=aprameyak) | Sep 29 |
 | Nike | NIKE, Inc. AI & Machine Learning, Innovation Graduate Internship | Beaverton, OR | Undergrad | [Apply](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-AI---Machine-Learning--Innovation-Graduate-Internship_R-94412?utm_source=aprameyak) | Sep 29 |
 | onsemi | Summer 2027 - IE / Data Analytics Intern | Hopewell Junction, NY | Undergrad | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506636) | Sep 29 |
-| PlayStation | Technical Designer - Intern | Canada, Montreal, QC | Undergrad | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6210692004?utm_source=aprameyak) | Sep 29 |
-| Q2 | 2027 Summer Internship - Software Engineer | Cary, NC | Undergrad | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798?utm_source=aprameyak) | Sep 29 |
-| ↳ | 2027 Summer Internship - Data Science | Cary, NC | Undergrad | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799?utm_source=aprameyak) | Sep 29 |
-| ↳ | 2027 Summer Internship - Machine Learning Engineer | Cary, NC | Undergrad | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800?utm_source=aprameyak) | Sep 29 |
-| Robinhood | Data Science Intern (Summer 2027) | Menlo Park, CA | Undergrad | [Apply](https://boards.greenhouse.io/robinhood/jobs/8241738?gh_jid=8241738&utm_source=aprameyak) | Sep 29 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
@@ -198,12 +198,13 @@ Showing newest **75** of **1493** listings · [View full table](./OFFCYCLE.md)
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **2593** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **2594** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| General Dynamics Mission Systems | Systems Engineer – Entry Level- June 2027 start | Manassas, VA |  | Masters | [Apply](https://careers-gdms.icims.com/jobs/74778/systems-engineer-%e2%80%93-entry-level--june-2027-start/job) | Oct 1 |
 | CACI | Full Stack Developer | Fort Bragg, NC, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Fort-Bragg-NC-US/Full-Stack-Developer_332906?utm_source=aprameyak) | Sep 30 |
 | General Motors | Software Engineer, AV Data Collection - Early Career | Sunnyvale, CA |  | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529?utm_source=aprameyak) | Sep 30 |
 | IMC Trading | Software Engineer, Early Career | Chicago, United States |  | Undergrad | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101?utm_source=aprameyak) | Sep 30 |
@@ -278,7 +279,6 @@ Showing newest **75** of **2593** listings · [View full table](./NEWGRAD.md)
 | ↳ | Product Operations Associate, Aladdin Platform Engineering | New York, NY |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Product-Operations-Associate--Aladdin-Platform-Engineering_R266544?utm_source=aprameyak) | Sep 22 |
 | Datalab USA | Production Programmer - Entry Level SQL Developer | Westminster, CO |  | Undergrad | [Apply](https://jobs.lever.co/datalabusa/9254110c-d83f-4921-aca6-b26d203bbc53?utm_source=aprameyak) | Sep 22 |
 | JPMorganChase | Internal Audit, Asset Wealth Management - Senior Associate - Data Scientist | Plano, TX |  | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777525) | Sep 22 |
-| Light & Wonder | Associate Software QA Engineer | Las Vegas, NV |  | Undergrad | [Apply](https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Las-Vegas-NV/Associate-Software-QA-Engineer_R322730?utm_source=aprameyak) | Sep 22 |
 <!-- TABLE_END newgrad -->
 
 ## Disclaimer

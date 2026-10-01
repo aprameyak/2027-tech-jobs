@@ -1,11 +1,12 @@
 # 🎓 New Grad 2027
 
-2593 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2594 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| General Dynamics Mission Systems | Systems Engineer – Entry Level- June 2027 start | Manassas, VA |  | Masters | [Apply](https://careers-gdms.icims.com/jobs/74778/systems-engineer-%e2%80%93-entry-level--june-2027-start/job) | Oct 1 |
 | CACI | Full Stack Developer | Fort Bragg, NC, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Fort-Bragg-NC-US/Full-Stack-Developer_332906?utm_source=aprameyak) | Sep 30 |
 | General Motors | Software Engineer, AV Data Collection - Early Career | Sunnyvale, CA |  | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529?utm_source=aprameyak) | Sep 30 |
 | IMC Trading | Software Engineer, Early Career | Chicago, United States |  | Undergrad | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101?utm_source=aprameyak) | Sep 30 |
