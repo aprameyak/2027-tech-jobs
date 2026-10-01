@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Cook Group",
+    "role": "Information Technology Intern, Artificial Intelligence",
+    "location": "Bloomington, IN",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://americas-cookmedical.icims.com/jobs/19426/information-technology-intern%2c-artificial-intelligence/job",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-01"
+  },
+  {
+    "company": "General Dynamics",
+    "role": "SWS Waterfront Systems Engineer \u2013Entry Level",
+    "location": "Groton, CT",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Masters",
+    "url": "https://careers-gdeb.icims.com/jobs/20482/sws-waterfront-systems-engineer-%e2%80%93entry-level/job",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-01",
+    "grad_date": ""
+  },
+  {
+    "company": "LMI",
+    "role": "Junior Power BI Developer",
+    "location": "Remote (US)",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://careers-lmi.icims.com/jobs/14673/junior-power-bi-developer/job",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-01",
+    "grad_date": ""
+  },
+  {
+    "company": "University of St. Thomas",
+    "role": "UROP Student Researcher",
+    "location": "Remote (US)",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://studentemployment-stthomas.icims.com/jobs/9719/urop-student-researcher/job",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-01"
+  }
+]
