@@ -73017,9 +73017,11 @@
     "v": ""
   },
   "intern - site it (summer 2027)": {
-    "t": false,
-    "c": "stale",
-    "v": ""
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   },
   "audit intern - winter 2027": {
     "t": false,
