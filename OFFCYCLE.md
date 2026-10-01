@@ -38,7 +38,6 @@
 | RTX | 2027 Spring/Summer Sys Integration Engineering Co-op - Onsite | CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/XMLNAME-2027-Spring-Summer-Sys-Integration-Engineering-Co-op---Onsite_01873169?utm_source=aprameyak) | Sep 28 |
 | ↳ | Co-op: Columbus Forge Disks (CFD) Digital Technology (January 2027 Start) | MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC, GA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/Co-op--Columbus-Forge-Disks--CFD--Digital-Technology--January-2027-Start-_01878553?utm_source=aprameyak) | Sep 28 |
 | ↳ | 2027 Summer/Fall Co-op, AGS Software Engineering (Onsite) | CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646?utm_source=aprameyak) | Sep 28 |
-| ↳ | Business & Data Analytics Co-Op (Spring/Summer 2027) | CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Business---Data-Analytics-Co-Op--Spring-Summer-2027-_01878019?utm_source=aprameyak) | Sep 28 |
 | ↳ | Software Engineering Co-op  (Summer/Fall 2027) | CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op---Summer-Fall-2027-_01871480?utm_source=aprameyak) | Sep 28 |
 | Disney | Data Analyst Intern, Global Security Control Center, Spring 2027 | Burbank, CA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010?utm_source=aprameyak) | Sep 27 |
 | Kinaxis | Co-op/  Intern Upgrade and Migration Specialist | Ottawa, ON | Co-op | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35322/co-op---intern-upgrade-and-migration-specialist/job) | Sep 26 |
@@ -94,7 +93,6 @@
 | Thermo Fisher Scientific | Reliability Engineering Co-Op | Mississauga, Canada | Co-op | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Mississauga-Canada/Reliability-Engineering-Co-Op_R-01366617?utm_source=aprameyak) | Sep 22 |
 | ↳ | Quality Assurance Co-op | Mississauga, Canada | Co-op | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Mississauga-Canada/Quality-Assurance-Co-op_R-01366603?utm_source=aprameyak) | Sep 22 |
 | ↳ | Research & Development Co-op | Mississauga, Canada | Co-op | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Mississauga-Canada/Research---Development-Co-op_R-01366606?utm_source=aprameyak) | Sep 22 |
-| Wellington Management | Information Security Co-op | Boston, MA | Co-op | Undergrad | [Apply](https://wellington.wd5.myworkdayjobs.com/en-US/Campus/job/Boston-MA-United-States/Information-Security-Co-op_R94910?utm_source=aprameyak) | Sep 22 |
 | Baker Hughes | Intern/Co-op - Engineering & Technology - Spring 2027 Opportunities | MINDEN-1631 BENTLY PARKWAY SOUTH, NV | Co-op | Undergrad | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Intern-Co-op---Engineering---Technology---Spring-2027-Opportunities_R169396?utm_source=aprameyak) | Sep 21 |
 | CIBC | Cloud Engineering Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Cloud-Engineering-Co-op_2619386-1?utm_source=aprameyak) | Sep 21 |
 | ↳ | Data Analytics Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Data-Analytics-Co-op_2619373?utm_source=aprameyak) | Sep 21 |
@@ -237,14 +235,12 @@
 | ↳ | Technology Intern/Co-op - Buildings (Summer 2027) | New York, NY | Co-op | Undergrad | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007834) | Sep 20 |
 | The Exploration Company | Spring 2027 Internship - Software | Los Angeles, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/the-exploration-company/e23f19f1-b5fa-408a-822c-c6c37631a2fe?utm_source=aprameyak) | Sep 20 |
 | TMEIC Corporation Americas | Intern - Applications - AI and Machine Learning - Spring 2027 - ET26075 | Roanoke, VA | Spring 2027 | Undergrad | [Apply](http://www.tmeic.com/) | Sep 20 |
-| Valeo | Systems Engineering Co-Op - Software | Troy, MI | Co-op | Undergrad | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241?utm_source=aprameyak) | Sep 20 |
 | Vestmark Internship Program | Software Engineer Co-op | Boston, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/internrecruiting/jobs/8204511?utm_source=aprameyak) | Sep 20 |
 | Wasabi | Cloud Tech Support Engineer - Co-op | Remote (US) | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/wasabi/jobs/5418393008?utm_source=aprameyak) | Sep 20 |
 | Wealthsimple | Credit & Fraud Analytics Intern - Winter 2027 | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28/application?embed=true&utm_source=aprameyak) | Sep 20 |
 | Wonder | Growth & Marketing Analytics Intern - Growth Analytics | New York, NY | Fall 2026 | Undergrad | [Apply](https://wonder.wd1.myworkdayjobs.com/WG/job/New-York-NY/Growth---Marketing-Analytics-Intern_JR101323?utm_source=aprameyak) | Sep 20 |
 | Abridge | Software Engineer Intern - Spring | SF | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Abundant | Member of Technical Staff Intern - Research | SF | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true&utm_source=aprameyak) | Sep 19 |
-| Achievers | Software Engineer Co-op - Winter 2027 | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181/apply?utm_source=aprameyak) | Sep 19 |
 | Acxiom | Product Manager Intern - Real Identity Product Team | Conway, AR | Fall 2026 | Undergrad | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Management_JR014473-1?utm_source=aprameyak) | Sep 19 |
 | ↳ | Data Scientist Intern | Conway, AR | Fall 2026 | Undergrad | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459?utm_source=aprameyak) | Sep 19 |
 | AfterQuery | AI/ML Research Intern | SF | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/AfterQuery/00cd591f-6894-4259-83b6-36c999351dde/application?embed=true&utm_source=aprameyak) | Sep 19 |
@@ -361,8 +357,7 @@
 | ↳ | Data Analyst Co-op | Marshalltown, IA | Co-op | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009200) | Sep 19 |
 | ↳ | Data Analytics Co-op | Marshalltown, IA | Co-op | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008130) | Sep 19 |
 | Encephalo Investments | Software Developer Intern | Woodbury, MN | Fall 2026 | Undergrad | [Apply](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349) | Sep 19 |
-| Entegris | Lab Automation & AI Engineering Co-op | Billerica, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1?utm_source=aprameyak) | Sep 19 |
-| ↳ | AI Continuous Improvement Co-op | Decatur, TX | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/AI-Continuous-Improvement-Co-Op_REQ-14509?utm_source=aprameyak) | Sep 19 |
+| Entegris | AI Continuous Improvement Co-op | Decatur, TX | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/AI-Continuous-Improvement-Co-Op_REQ-14509?utm_source=aprameyak) | Sep 19 |
 | ↳ | Portfolio Analytics Co-op | Danbury, CT | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Danbury-CT/Portfolio-Analytics-Analyst-Co-Op_REQ-14499?utm_source=aprameyak) | Sep 19 |
 | ↳ | Operations Technical Training Platforms Co-op | Colorado Springs, COBillerica, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Operations-Technical-Training-Platforms-Co-Op_REQ-14416?utm_source=aprameyak) | Sep 19 |
 | ↳ | Pricing & Commercial Analytics Co-op | Bedford, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Pricing---Commercial-Analytics-Co-op_REQ-14511?utm_source=aprameyak) | Sep 19 |
@@ -381,15 +376,6 @@
 | ↳ | Automation Software Engineer Intern - Winter | SFAustin, TX | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Fable | Software Engineer Intern | SF | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Felix Magazine | Web Developer/Programmer Intern | Chicago, IL | Fall 2026 | Undergrad | [Apply](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967) | Sep 19 |
-| Fidelity Investments | Software Full Stack Engineer Co-op | Boston, MAMerrimack, NH | Co-op | Undergrad | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Software-Full-Stack-Engineer_2135236?utm_source=aprameyak) | Sep 19 |
-| ↳ | Software Engineer Co-op - Fidelity Center for Applied Technology | Boston, MA | Co-op | Undergrad | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Software-Engineer_2135200?utm_source=aprameyak) | Sep 19 |
-| ↳ | Software Engineer Co-op | Boston, MAMerrimack, NH | Co-op | Masters | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Software-Engineer_2135230?utm_source=aprameyak) | Sep 19 |
-| ↳ | Advanced Data Analytics and Insights Co-op | Boston, MA | Co-op | Masters | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Advanced-Data-Analytics-and-Insights_2135232?utm_source=aprameyak) | Sep 19 |
-| ↳ | Machine Learning Co-op - Graph Technology Team | Boston, MA | Co-op | Masters | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Co-op--Machine-Learning_2135237?utm_source=aprameyak) | Sep 19 |
-| ↳ | Data Scientist Co-op | Boston, MADurham, NC | Co-op | Undergrad | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Data-Scientist_2135229?utm_source=aprameyak) | Sep 19 |
-| ↳ | Data Analyst Co-op | Boston, MAWestlake, TX | Co-op | Undergrad | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Data-Analyst_2135233?utm_source=aprameyak) | Sep 19 |
-| ↳ | Risk Data Analyst Co-op | Boston, MASmithfield, RIMerrimack, NH | Co-op | Undergrad | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Risk-Data-Analyst_2135234?utm_source=aprameyak) | Sep 19 |
-| ↳ | Quantitative Analyst Co-op | 4 locationsBoston, MAWestlake, TXSmithfield, RIMerrimack, NH | Co-op | Undergrad | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Quantitative-Analyst_2135235?utm_source=aprameyak) | Sep 19 |
 | Figma | Data Science Intern | SFNYC | Fall 2026 | Undergrad | [Apply](https://boards.greenhouse.io/figma/jobs/6178857004?utm_source=aprameyak) | Sep 19 |
 | Flagship Pioneering | Technical Operations Co-op - Analytical Development | Cambridge, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8814318002?utm_source=aprameyak) | Sep 19 |
 | ↳ | AI Automation Engineering Co-op | Cambridge, MA | Co-op | Masters | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002?utm_source=aprameyak) | Sep 19 |
@@ -522,7 +508,6 @@
 | Paccar | Software Developer Intern | Renton, WA | Fall 2026 | Undergrad | [Apply](https://jobs.paccar.com/job/Renton-2027-Winter-Internship-Software-Developer-Intern-WA-98057/1435928733/?ats=successfactors) | Sep 19 |
 | Pennsylvania State University | AI/ML Research Support Intern - Visualization and Decision Support Division | State College, PA | Fall 2026 | Undergrad | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-Support-Intern_REQ_0000080506-1?utm_source=aprameyak) | Sep 19 |
 | Persona AI | Autonomy Software Engineer Intern - World Modeling | Houston, TX | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08/application?embed=true&utm_source=aprameyak) | Sep 19 |
-| Philips | Software Systems Engineering Co-op - Image Guided Therapy Devices - IVUS Clinical Imaging Software Application | Plymouth, MN | Co-op | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406?utm_source=aprameyak) | Sep 19 |
 | Phoebe | Software Engineer Intern | NYC | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Phoenix Contact | Data Science & Analytics Intern | Middletown, PA | Fall 2026 | Undergrad | [Apply](https://job-boards.greenhouse.io/phoenixcontact/jobs/7964865003?utm_source=aprameyak) | Sep 19 |
 | Pluralis Research | Research Scientist Intern | Remote (US) | Fall 2026 | Masters | [Apply](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true&utm_source=aprameyak) | Sep 19 |
@@ -563,9 +548,6 @@
 | Rivet Industries | Software Engineer Intern - XR Team - Fall 2026 | Bellevue, WA | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Robert Bosch Venture Capital | Data Analytics Intern - Engineering & SAP Operations | Lincolnshire, IL | Fall 2026 | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148595878) | Sep 19 |
 | Robinhood | Software Developer Intern/Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/robinhood/jobs/8194428?utm_source=aprameyak) | Sep 19 |
-| Royal Bank of Canada | AI Engineer Co-op - Global Equities | Toronto, ON | Co-op | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1?utm_source=aprameyak) | Sep 19 |
-| ↳ | Algorithmic Trading Developer Co-op - Global Equities | Toronto, ON | Co-op | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Algorithmic-Trading-Developer--16-Months--Co-op-_R-0000187792?utm_source=aprameyak) | Sep 19 |
-| ↳ | Quantitative Trading Analyst Co-op - Global Equities | Toronto, ON | Co-op | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742?utm_source=aprameyak) | Sep 19 |
 | RTX | Conversion Systems Engineer 1 Intern | Cedar Rapids, IA | Fall 2026 | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion-Systems-Engineer-I--Onsite-_01866850?utm_source=aprameyak) | Sep 19 |
 | ↳ | Business & Data Analyst Intern | Longueuil, QC | Fall 2026 | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027----Analyste-d-affaires-et-de-Donnes---Internship---Winter-2027----Business---Data-Analyst_01863946?utm_source=aprameyak) | Sep 19 |
 | ↳ | Advanced Analytics Products & Change Management Intern - Advanced Analytics AI Evolution Project | Longueuil, QC | Fall 2026 | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-systmes-d-affaires-et-transformation---Internship---Winter-2027---Analyst-Business-Systems-and-Transformation_01869327?utm_source=aprameyak) | Sep 19 |
@@ -649,7 +631,6 @@
 | Thomson Reuters | Software Engineer Co-op | Rochester, NY | Co-op | Undergrad | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587?utm_source=aprameyak) | Sep 19 |
 | ↳ | Applied Research Intern - NLP/ML/GenAI | Toronto, ON | Fall 2026 | Masters | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812?utm_source=aprameyak) | Sep 19 |
 | Toyota Research Institute | Human-Centered AI Research Intern - Causal Reasoning Models | Los Altos, CA | Fall 2026 | Masters | [Apply](https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f/apply?utm_source=aprameyak) | Sep 19 |
-| ↳ | Robotics Research Intern - Post-Training | Los Altos, CA | Fall 2026 | Masters | [Apply](https://jobs.lever.co/tri/186808f9-464c-4f22-9d7d-4372ef272ff0/apply?utm_source=aprameyak) | Sep 19 |
 | Transamerica | Data Analytics Intern | Cedar Rapids, IA | Fall 2026 | Undergrad | [Apply](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Data-Analytics-Intern--Spring-2027--Full-time-Hours-_R20062776?utm_source=aprameyak) | Sep 19 |
 | Tyson Foods | Analytics Intern - Transportation Services | Springdale, AR | Fall 2026 | Undergrad | [Apply](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Year-round-Intern---Transportation-Services_R0483113-2?utm_source=aprameyak) | Sep 19 |
 | University of Rochester | Student Researcher Co-op | Rochester, NY | Co-op | Undergrad | [Apply](https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Student-Researcher-I_R273459?utm_source=aprameyak) | Sep 19 |
@@ -716,8 +697,7 @@
 | ↳ | Winter Co-op 2027 - AI (12 Months) | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---AI--12-Months-_JR26081678?utm_source=aprameyak) | Sep 14 |
 | ↳ | Winter Co-op 2027 - Software Engineering (8 Months) | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664?utm_source=aprameyak) | Sep 14 |
 | ↳ | Winter Co-op 2027 - Risk Analytics & Automation (8 months) | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Risk-Analytics---Automation--8-months-_JR26080922?utm_source=aprameyak) | Sep 14 |
-| Philips | Co-op - Software Design Assurance - IGTD - Plymouth - MN - January 2027 | Plymouth, MN | Co-op | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Plymouth-Minnesota-United-States/Co-op---Software-Design-Assurance--IGTD----Plymouth--MN---January-2027_592000?utm_source=aprameyak) | Sep 14 |
-| ↳ | Co-op-Data Engineering-Reedsville, PA-July-December 2027 | Reedsville, PA | Co-op | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Co-op-Data-Engineering-Reedsville--PA-July-December-2027_587486?utm_source=aprameyak) | Sep 14 |
+| Philips | Co-op-Data Engineering-Reedsville, PA-July-December 2027 | Reedsville, PA | Co-op | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Co-op-Data-Engineering-Reedsville--PA-July-December-2027_587486?utm_source=aprameyak) | Sep 14 |
 | ↳ | Co-op-Data Engineering-Reedsville, PA-January-June 2027 | Reedsville, PA | Co-op | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Co-op-Data-Engineering-Reedsville--PA-January-June-2027_587484?utm_source=aprameyak) | Sep 14 |
 | ↳ | Co-op - Software Development Engineer - Cambridge, MA - Jan-Aug 2027 | Cambridge, MA | Co-op | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer---Cambridge--MA---Jan-Aug-2027_590095?utm_source=aprameyak) | Sep 14 |
 | Plexus | Intern - Software Engineer (Fall 2027) | Neenah, WI | Fall 2027 | Undergrad | [Apply](https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Fall-2027-_R040443?utm_source=aprameyak) | Sep 14 |
@@ -747,12 +727,10 @@
 | RapDev | ServiceNow Engineering Intern | Boston, MA | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc?utm_source=aprameyak) | Sep 2 |
 | Bayer | DevOps Engineer Co-op | Luling, LA | Spring 2027 | Undergrad | [Apply](https://jobs.bayer.com/job/Luling-DevOps-Engineer-Co-op-Loui/1424880433/) | Sep 1 |
 | Emerson Electric | Software Engineer Co-op - January 2027 - May | Shakopee, MN | Co-op | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009454) | Sep 1 |
-| Fifth Third Bank | Software Engineer Co-Op - Enterprise Finance Applications | Cincinnati, OH | Co-op | Undergrad | [Apply](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Spring-2027_R71587?utm_source=aprameyak) | Sep 1 |
 | Johnson & Johnson | Software Engineering Co-Op. | Cincinnati, OH | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743?utm_source=aprameyak) | Sep 1 |
 | PepsiCo | IT Analytics & Automation Co-op | Mississauga, ON | Winter 2027 | Undergrad | [Apply](https://globalcampus-pepsico.icims.com/jobs/469723/pepsico-canada-it-analytics-automation-winter-2027-co-op/job) | Sep 1 |
 | ↳ | IT Analytics Co-op | Mississauga, ON | Winter 2027 | Undergrad | [Apply](https://globalcampus-pepsico.icims.com/jobs/472047/pepsico-canada-it-analytics-winter-2027-co-op/job) | Sep 1 |
 | Philips | Co-op – Software Engineering (APM) - Cambridge, MA - Jan - Aug | Cambridge, MA | Co-op | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097?utm_source=aprameyak) | Sep 1 |
-| CACI | Software Engineering Co-op - Summer & | Danbury, CT | Co-op | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354?utm_source=aprameyak) | Aug 31 |
 | Manulife | 2027 Winter Co-op - Data & Analytics | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Winter-Co-op---Data---Analytics_JR26081943?utm_source=aprameyak) | Aug 31 |
 | ↳ | 2027 Winter Co-op - Data & Analytics (8 Months) | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Winter-Co-op---Data---Analytics--8-Months-_JR26081944?utm_source=aprameyak) | Aug 31 |
 | ↳ | 2027 Summer Co-op - Data & Analytics | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Summer-Co-op---Data---Analytics_JR26081967?utm_source=aprameyak) | Aug 31 |
@@ -767,7 +745,6 @@
 | ↳ | Product Manager Spring Co-op | <details><summary>**4 locations**</summary>Austin, TX</br>Lowell, MA</br>Durham, NC</br>San Jose, CA</details> | Spring 2027 | Undergrad | [Apply](https://careers.ibm.com/en_US/careers/JobDetail/Product-Manager-Spring-Co-op-2027/128508) | Aug 29 |
 | Johnson & Johnson | Software Engineering Co-Op | Cincinnati, OH | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741?utm_source=aprameyak) | Aug 29 |
 | ↳ | Data Science Co-Op | Cincinnati, OH | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Spring-2027_R-095743?utm_source=aprameyak) | Aug 29 |
-| Workiva | Spring 2027 Intern - Data Analytics | Remote (US) | Spring 2027 | Undergrad | [Apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring-2027-Intern---Data-Analytics_R12319?utm_source=aprameyak) | Aug 29 |
 | Specter Aerospace | Full Stack Developer Co-op | <details><summary>**2 locations**</summary>Boston, MA</br>Peabody, MA</details> | Co-op | Undergrad | [Apply](https://specteraerospace.bamboohr.com/careers/122/) | Aug 28 |
 | Brunswick | Mercury Marine: Power BI/Ops Analytics Co-op | Fond du Lac, WI | Co-op | Undergrad | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Power-BI-Ops-Analytics-Co-op_JR-051236?utm_source=aprameyak) | Aug 25 |
 | ↳ | Mercury Marine - Systems/Software Engineering Co-op | Fond du Lac, WI | Co-op | Undergrad | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212?utm_source=aprameyak) | Aug 25 |
@@ -830,7 +807,6 @@
 | ↳ | Business Analyst Co-Op, DA&AI | Remote (US) | Co-op | Undergrad | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915?utm_source=aprameyak) | Jul 23 |
 | Delta Air Lines | Reservations Co-op, Data Analytics / Process Improvement | Atlanta, GA | Spring 2027 | Undergrad | [Apply](https://delta.avature.net/en_US/careers/JobDetail?jobId=32928) | Jul 23 |
 | Later | Software Development Co-op (Later Influence) | Vancouver, BC | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/later/jobs/8643138002?utm_source=aprameyak) | Jul 23 |
-| Manhattan Associates | A.I. Developer Co-Op | Boston, MA | Co-op | Undergrad | [Apply](https://manh.wd5.myworkdayjobs.com/en-US/campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_16931?utm_source=aprameyak) | Jul 23 |
 | Marmon Holdings | Data Engineering Intern / Student Co-Op | Milwaukee, WI | Co-op | Undergrad | [Apply](https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453?utm_source=aprameyak) | Jul 23 |
 | Rivian | Android Developer Intern | Palo Alto, CA | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd?utm_source=aprameyak) | Jul 23 |
 | SoloPulse | Software Engineer Intern / Co-Op | Peachtree Corners, GA | Fall 2026 | Undergrad | [Apply](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56?utm_source=aprameyak) | Jul 23 |
@@ -859,6 +835,7 @@
 | Rivian | Software Engineering Intern, Applications | <details><summary>**2 locations**</summary>Irvine, CA</br>Normal, IL</details> | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c?utm_source=aprameyak) | Jul 10 |
 | Saronic Technologies | Software Engineer Intern | Austin, TX | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7?utm_source=aprameyak) | Jul 10 |
 | Skydio | Software Engineer Intern | San Mateo, CA | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee?utm_source=aprameyak) | Jul 10 |
+| ↳ | Business & Data Analytics Co-Op (Spring/Summer 2027) | CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108, IA | Co-op | Undergrad | 🔒 | Sep 28 |
 | ↳ | Service Engineering Co-op (Summer/Fall 2027) | ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6, IL | Co-op | Undergrad | 🔒 | Sep 25 |
 | ↳ | TD Innovation Partner Intern/Co-op (Winter 2027) | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 25 |
 | W.R. Berkley | ITSM Co-Op | Wilmington, DE | Co-op | Undergrad | 🔒 | Sep 25 |
@@ -869,6 +846,7 @@
 | ↳ | Quality Assurance Analyst-Co-op Winter 2027 | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 23 |
 | ↳ | Commercial Data Science & AI Co-op | Raritan, NJ | Co-op | Undergrad | 🔒 | Sep 22 |
 | Optiver | Software Engineer Co-Op (January - April 2027) | Chicago, IL | Co-op | Undergrad | 🔒 | Sep 22 |
+| Wellington Management | Information Security Co-op | Boston, MA | Co-op | Undergrad | 🔒 | Sep 22 |
 | Disney | Consumer Insight Data Analyst Intern, Spring 2027 | Celebration, FL | Spring 2027 | Undergrad | 🔒 | Sep 21 |
 | ↳ | Decision Science Undergraduate Intern, Spring 2027 | Lake Buena Vista, FL | Spring 2027 | Undergrad | 🔒 | Sep 21 |
 | Grow Financial | ServiceNow Intern- Spring 2027 | Remote (US) | Spring 2027 | Undergrad | 🔒 | Sep 21 |
@@ -1010,6 +988,7 @@
 | Together AI | Software Engineer Intern - Winter 2027 | San Francisco, CA | Winter 2027 | Undergrad | 🔒 | Sep 20 |
 | Transamerica | Data Analytics Intern - Spring 2027 - Full-time Hours | Cedar Rapids, IA | Spring 2027 | Undergrad | 🔒 | Sep 20 |
 | Univera Healthcare | College Intern - AI Engineering - Fall 2026 - Multiple Openings | Buffalo, NY | Fall 2026 | Undergrad | 🔒 | Sep 20 |
+| Valeo | Systems Engineering Co-Op - Software | Troy, MI | Co-op | Undergrad | 🔒 | Sep 20 |
 | Varda | Flight Software Internship - Spring 2027 | El Segundo, CA | Spring 2027 | Undergrad | 🔒 | Sep 20 |
 | ↳ | Site Reliability Internship - Spring 2027 | El Segundo, CA | Spring 2027 | Undergrad | 🔒 | Sep 20 |
 | Veralto | Machine Learning Co-op Intern | Vancouver, BC | Co-op | Undergrad | 🔒 | Sep 20 |
@@ -1027,6 +1006,7 @@
 | ↳ | Robotics Software Co-op | Salmon Arm, BC | Co-op | Undergrad | 🔒 | Sep 19 |
 | A Thinking Ape | Software Development Engineer Co-op | Remote in | Co-op | Undergrad | 🔒 | Sep 19 |
 | AARP | Data Science and Advanced Analytics Intern | Washington, DC | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| Achievers | Software Engineer Co-op - Winter 2027 | Toronto, ON | Winter 2027 | Undergrad | 🔒 | Sep 19 |
 | Allen Lund Company | Technology and AI Intern - Technology and AI | La Canada Flintridge, CA | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | Allstate Insurance Company | Quantum Algorithm Development Intern | Chicago, IL | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | American Fidelity | Software Mobile Intern | Oklahoma City, OK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
@@ -1073,12 +1053,22 @@
 | Dmg Media | AI Engineer Intern - Innovation Team | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | East Penn Manufacturing Company | Power BI & Analytics Intern | Ann Arbor, MI | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | Ekimetrics | Data Science & Marketing Effectiveness Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| ↳ | Lab Automation & AI Engineering Co-op | Billerica, MA | Co-op | Undergrad | 🔒 | Sep 19 |
 | Epic Games | UI Programmer Intern - Games | Cary, NC | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | ↳ | Engine Programmer Intern - Unreal Engine | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | ↳ | Technical Art Intern - Rocket League | Cary, NC | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | Eversource Energy | Asset Management Technology Engineer Intern - Fall 2026 | Hartford, CT | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | Fanvue | Software Engineer Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | Fasanara | Quant Trading Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| Fidelity Investments | Software Full Stack Engineer Co-op | Boston, MAMerrimack, NH | Co-op | Undergrad | 🔒 | Sep 19 |
+| ↳ | Software Engineer Co-op - Fidelity Center for Applied Technology | Boston, MA | Co-op | Undergrad | 🔒 | Sep 19 |
+| ↳ | Software Engineer Co-op | Boston, MAMerrimack, NH | Co-op | Masters | 🔒 | Sep 19 |
+| ↳ | Advanced Data Analytics and Insights Co-op | Boston, MA | Co-op | Masters | 🔒 | Sep 19 |
+| ↳ | Machine Learning Co-op - Graph Technology Team | Boston, MA | Co-op | Masters | 🔒 | Sep 19 |
+| ↳ | Data Scientist Co-op | Boston, MADurham, NC | Co-op | Undergrad | 🔒 | Sep 19 |
+| ↳ | Data Analyst Co-op | Boston, MAWestlake, TX | Co-op | Undergrad | 🔒 | Sep 19 |
+| ↳ | Risk Data Analyst Co-op | Boston, MASmithfield, RIMerrimack, NH | Co-op | Undergrad | 🔒 | Sep 19 |
+| ↳ | Quantitative Analyst Co-op | 4 locationsBoston, MAWestlake, TXSmithfield, RIMerrimack, NH | Co-op | Undergrad | 🔒 | Sep 19 |
 | Formlabs | AI Software Intern | Somerville, MA | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | Foundation Finance | Full Stack Developer Intern | Rothschild, WI | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | Garmin | Software Engineer Intern - Real Time Aviation Data | Chanhassen, MN | Fall 2026 | Undergrad | 🔒 | Sep 19 |
@@ -1167,8 +1157,9 @@
 | ↳ | Business Insights and Analytics Intern - Member Services | Toronto, ON | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | Palantir | Software Engineer Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | ↳ | Forward Deployed Software Engineer Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
-| ↳ | Data Engineering Co-op | Reedsville, PA | Co-op | Undergrad | 🔒 | Sep 19 |
+| Philips | Data Engineering Co-op | Reedsville, PA | Co-op | Undergrad | 🔒 | Sep 19 |
 | ↳ | Software Engineering Co-op - APM | Cambridge, MA | Co-op | Undergrad | 🔒 | Sep 19 |
+| ↳ | Software Systems Engineering Co-op - Image Guided Therapy Devices - IVUS Clinical Imaging Software Application | Plymouth, MN | Co-op | Undergrad | 🔒 | Sep 19 |
 | ↳ | Software Developer Intern | Montreal, QC, CanadaLaval, QC, CanadaLongueuil, QC | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | ↳ | Forward Deployed AI Solutions Intern | Montreal, QC | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | ↳ | HR Data Analyst Intern | Montreal, QC, CanadaLaval, QC, CanadaLongueuil, QC | Fall 2026 | Undergrad | 🔒 | Sep 19 |
@@ -1180,6 +1171,8 @@
 | Rockwell Automation | Content Software Development Intern - Lifecycle Services | Mayfield Heights, OH | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | ↳ | Robotics Research Co-op - Data Engineering | Waterloo, ON | Co-op | Undergrad | 🔒 | Sep 19 |
 | ↳ | Robotics Research Co-op - Physical AI - OTTO | Waterloo, ON | Co-op | Undergrad | 🔒 | Sep 19 |
+| Royal Bank of Canada | AI Engineer Co-op - Global Equities | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 19 |
+| ↳ | Algorithmic Trading Developer Co-op - Global Equities | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 19 |
 | ↳ | AI Applications Intern - Group Risk Management | Toronto, ON | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | ↳ | Markets Data Analyst Intern | Toronto, ON | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | ↳ | Data Analyst Intern - CLAO | Toronto, ON | Fall 2026 | Undergrad | 🔒 | Sep 19 |
@@ -1202,6 +1195,7 @@
 | ↳ | Data Analyst Co-op - AI Business Enablement | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 19 |
 | ↳ | Data Analyst Student - Commercial Banking | Toronto, ON | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | ↳ | Data Analyst Co-op - Personal Banking | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 19 |
+| ↳ | Quantitative Trading Analyst Co-op - Global Equities | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 19 |
 | ↳ | Software Engineering Co-op | Cedar Rapids, IA | Co-op | Undergrad | 🔒 | Sep 19 |
 | ↳ | Software Engineer Co-op | Cedar Rapids, IA | Co-op | Undergrad | 🔒 | Sep 19 |
 | ↳ | Software Engineer Co-op - Winter/Spring 2027 | Cedar Rapids, IA | Spring 2027 | Undergrad | 🔒 | Sep 19 |
@@ -1233,6 +1227,7 @@
 | The Voleon Group | Research Intern | London, UK | Fall 2026 | Masters | 🔒 | Sep 19 |
 | The Walt Disney Company | Show Control Software Intern | Lake Buena Vista, FLGlendale, CA | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | Tive | Software Engineer Co-op | Boston, MA | Co-op | Undergrad | 🔒 | Sep 19 |
+| ↳ | Robotics Research Intern - Post-Training | Los Altos, CA | Fall 2026 | Masters | 🔒 | Sep 19 |
 | Trane Technologies | Software Development Engineer Intern | St Paul, MN | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | TWG Global | AI Data Science Intern - AI/ML Center of Excellence | <details><summary>**2 locations**</summary>London, UK</br>Remote in UK</details> | Fall 2026 | Masters | 🔒 | Sep 19 |
 | V2X | Software Engineer Intern | Indianapolis, IN | Fall 2026 | Undergrad | 🔒 | Sep 19 |
@@ -1260,6 +1255,7 @@
 | ↳ | Associate Product Manager - Co-op Student | 500 Lake Shore Blvd W, Toronto, ON | Co-op | Undergrad | 🔒 | Sep 14 |
 | ↳ | Replenishment Optimization Data & Analytics - Co-op Student | 1 Presidents Choice Circle, Brampton, ON | Co-op | Undergrad | 🔒 | Sep 14 |
 | ↳ | Replenishment Optimization Data & Analytics - Co-op Student | 1 Presidents Choice Circle, Brampton, ON | Co-op | Undergrad | 🔒 | Sep 14 |
+| ↳ | Co-op - Software Design Assurance - IGTD - Plymouth - MN - January 2027 | Plymouth, MN | Co-op | Undergrad | 🔒 | Sep 14 |
 | Royal Bank of Canada | Winter 2027 - GRM, BSLR Liquidity Data & AI Intern (4 Months) | Toronto, ON | Winter 2027 | Undergrad | 🔒 | Sep 14 |
 | ↳ | Software Engineer Co-op - Spring/Summer 2027 | Cedar Rapids, IA | Co-op | Undergrad | 🔒 | Sep 14 |
 | ↳ | Software Engineering Co-op (Summer/ Fall 2027) | CEDAR RAPIDS-124 ~ 400 Collins Rd NE ~ BLDG 124, IA | Co-op | Undergrad | 🔒 | Sep 14 |
@@ -1288,6 +1284,7 @@
 | CACI | Software Engineer Co-op - Summer & | Danbury, CT | Fall 2027 | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer Co-op - Spring & | Danbury, CT | Spring 2027 | Undergrad | 🔒 | Sep 1 |
 | ↳ | Software Engineer Co-op - Summer & | Danbury, CT | Fall 2027 | Undergrad | 🔒 | Sep 1 |
+| Fifth Third Bank | Software Engineer Co-Op - Enterprise Finance Applications | Cincinnati, OH | Co-op | Undergrad | 🔒 | Sep 1 |
 | General Motors | 2027 Winter Co-op Mechatronic Infrastructure Diagnostic Systems | Markham, ON | Co-op | Undergrad | 🔒 | Sep 1 |
 | ISN Software | Software Developer Intern | Dallas, TX | Fall 2026 | Undergrad | 🔒 | Sep 1 |
 | ↳ | Quality Data Science Co-op - MD Q&C Digital Solutions | Cincinnati, OH | Co-op | Undergrad | 🔒 | Sep 1 |
@@ -1299,6 +1296,7 @@
 | ↳ | Data Scientist Co-op | Plymouth, MN | Co-op | Masters | 🔒 | Sep 1 |
 | TD Bank | Direct Investing Analytics & Insights Intern / Co-Op | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 1 |
 | ↳ | AI2 Data Science Intern/Co-op | <details><summary>**2 locations**</summary>TD</br>Terrace - 160 Front Street West Corporate, Toronto, ON</details> | Co-op | Undergrad | 🔒 | Sep 1 |
+| CACI | Software Engineering Co-op - Summer & | Danbury, CT | Co-op | Undergrad | 🔒 | Aug 31 |
 | ↳ | Software Engineering Co-op - Spring & | Danbury, CT | Co-op | Undergrad | 🔒 | Aug 31 |
 | Johnson & Johnson | Quality Data Science Co-op | Cincinnati, OH | Co-op | Undergrad | 🔒 | Aug 31 |
 | Northrop Grumman | 2026 Part-Time Cyber Security Engineering Intern - Aurora CO | Aurora, CO | Summer 2026 | Undergrad | 🔒 | Aug 31 |
@@ -1320,6 +1318,7 @@
 | Leidos | Software Developer Co-op | Bethesda, MD | Co-op | Undergrad | 🔒 | Aug 29 |
 | Notion | Software Engineer Intern | San Francisco, CA | Winter 2027 | Undergrad | 🔒 | Aug 29 |
 | Philips | Co-op – Software Test Automation Engi... | Orange, OH | Co-op | Undergrad | 🔒 | Aug 29 |
+| Workiva | Spring 2027 Intern - Data Analytics | Remote (US) | Spring 2027 | Undergrad | 🔒 | Aug 29 |
 | Disney | Labor Systems Data Analytics & Integration Intern | Lake Buena Vista, FL | Spring 2027 | Masters | 🔒 | Aug 25 |
 | ↳ | WDW Computer Science / Computer Engineering Interns | Lake Buena Vista, FL | Spring 2027 | Undergrad | 🔒 | Aug 25 |
 | ↳ | Geographic Information Systems (GIS) Intern | Anaheim, CA | Spring 2027 | Masters | 🔒 | Aug 25 |
@@ -1417,6 +1416,7 @@
 | GE Aerospace | Engines Engineering Co-op - Computer/Software Engineering | Cincinnati, OH | Spring 2027 | Undergrad | 🔒 | Jul 23 |
 | Integra FEC | Data Scientist Intern - PhD | Austin, TX | Fall 2026 | PhD | 🔒 | Jul 23 |
 | ↳ | Data Analyst Intern | Austin, TX | Fall 2026 | Undergrad | 🔒 | Jul 23 |
+| Manhattan Associates | A.I. Developer Co-Op | Boston, MA | Co-op | Undergrad | 🔒 | Jul 23 |
 | Motorola Solutions | Software Engineer Co-op | Gatineau, QC | Co-op | Undergrad | 🔒 | Jul 23 |
 | NXP Semiconductors | AI / Software Engineering Intern | Austin, TX | Fall 2026 | Undergrad | 🔒 | Jul 23 |
 | Red Bull | Data Science Intern | Morristown, NJ | Fall 2026 | Undergrad | 🔒 | Jul 23 |
