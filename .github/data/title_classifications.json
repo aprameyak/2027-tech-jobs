@@ -68397,8 +68397,9 @@
   },
   "2027 finance program": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   },
   "2027 guidance navigation and control intern dulles va": {
     "t": false,
@@ -72652,8 +72653,10 @@
   },
   "2027 summer internship program - commercial banking": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "2026 summer internship program - commercial banking (commercial lending)": {
     "t": false,
