@@ -38057,9 +38057,10 @@
     "b": "s"
   },
   "staff software engineer - data protection": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff software engineer - detection and response platform": {
@@ -45086,9 +45087,9 @@
     "b": "s"
   },
   "senior product designer, design systems": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
