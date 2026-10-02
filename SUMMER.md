@@ -1,13 +1,32 @@
 # ☀️ Summer 2027 Internships
 
-5314 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5333 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Altera | Software Engineer - Intern | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03193?utm_source=aprameyak) | Oct 2 |
+| CACI | Software Development Intern - Summer 2027 | Ashburn, VA, US | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051?utm_source=aprameyak) | Oct 2 |
+| ↳ | Systems Engineer Intern - Summer 2027 | Ashburn, VA, US | Masters | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Ashburn-VA-US/Systems-Engineer-Intern---Summer-2027_333048?utm_source=aprameyak) | Oct 2 |
+| ↳ | Cyber Security Intern - Summer 2027 | Springfield, VA, US | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046?utm_source=aprameyak) | Oct 2 |
+| ↳ | Network / Cybersecurity Intern - Summer 2027 | High Point, NC, US | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333034-1?utm_source=aprameyak) | Oct 2 |
+| ↳ | Network / Cybersecurity Intern - Summer 2027 | High Point, NC, US | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333001?utm_source=aprameyak) | Oct 2 |
+| ↳ | Technical Project Manager Intern - Summer 2027 | High Point, NC, US | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/High-Point-NC-US/Technical-Project-Manager-Intern---Summer-2027_333027?utm_source=aprameyak) | Oct 2 |
+| Enterprise | Intern - Systems Engineer, Summer 2027 | St. Louis, MO | Masters | [Apply](https://us-erac.icims.com/jobs/568231/intern---systems-engineer%2c-summer-2027/job) | Oct 2 |
+| ↳ | Intern - Network Engineer, Summer 2027 | St. Louis, MO | Undergrad | [Apply](https://us-erac.icims.com/jobs/568652/intern---network-engineer%2c-summer-2027/job) | Oct 2 |
+| General Motors | 2027 Summer Intern - Software Engineer, Autonomous Vehicle: Simulation | Sunnyvale, CA | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503?utm_source=aprameyak) | Oct 2 |
+| Great American Insurance Group | Enterprise Analytics Intern - Summer 2027 | Cincinnati, OH (USA) | Undergrad | [Apply](https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650?utm_source=aprameyak) | Oct 2 |
 | Johnson & Johnson | Summer MedTech VSM Intern | Raritan, NJ | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Summer-MedTech-VSM-Intern_R-102360?utm_source=aprameyak) | Oct 2 |
+| Kinaxis | Intern AI&ML Researcher | Ottawa, ON | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35465/intern-ai%26ml-researcher/job) | Oct 2 |
+| Northrop Grumman | 2027 College Technical Intern - McLean VA | United States-Virginia-McLean | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146?utm_source=aprameyak) | Oct 2 |
+| Radiance Technologies | Reverse Engineer Intern | Huntsville, AL | Undergrad | [Apply](https://radiancetech.wd12.myworkdayjobs.com/en-US/Radiance_External/job/Huntsville-AL/Reverse-Engineer-Intern_HR102461-1?utm_source=aprameyak) | Oct 2 |
 | The Federal Reserve System | Bwise Intern - 2027 | Cleveland, OH | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Bwise-Intern---2027_R-0000033635?utm_source=aprameyak) | Oct 2 |
+| Vanguard | College to Corporate IT Internship-Application Development (PA) | Malvern, PA | Undergrad | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757?utm_source=aprameyak) | Oct 2 |
+| ↳ | College to Corporate IT Internship-Application Development (NC) | Charlotte, NC | Undergrad | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781?utm_source=aprameyak) | Oct 2 |
+| ↳ | College to Corporate IT Internship-Investment Systems (PA) | Malvern, PA | Masters | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782?utm_source=aprameyak) | Oct 2 |
+| ↳ | College to Corporate IT Internship-Risk & Security Engineer (PA) | Malvern, PA | Undergrad | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784?utm_source=aprameyak) | Oct 2 |
+| ↳ | College to Corporate IT Internship-Risk & Security-Engineer (NC) | Charlotte, NC | Undergrad | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785?utm_source=aprameyak) | Oct 2 |
 | Walleye Capital | Special Projects Developer Intern (Summer 2027) | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006?utm_source=aprameyak) | Oct 2 |
 | Waymo | 2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248060) | Oct 2 |
 | Allegion | Summer Intern - Software Engineering - Quality Assurance | Golden, CO | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1?utm_source=aprameyak) | Oct 1 |
