@@ -1,11 +1,12 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1519 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1520 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Johnson & Johnson | Asset Management Engineer Co-Op | Anasco, Puerto Rico, United States of America | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Asset-Management-Engineer-Co-Op_R-078283?utm_source=aprameyak) | Oct 2 |
 | Autodesk | Intern, Product Management (Winter 2027) | Toronto, ON, CAN | Winter 2027 | Undergrad | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--Product-Management--Winter-2027-_26WD101442-2?utm_source=aprameyak) | Oct 1 |
 | ↳ | Software Development Internship (Winter 2027) | Toronto, ON, CAN | Winter 2027 | Undergrad | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1?utm_source=aprameyak) | Oct 1 |
 | DuCharme McMillen & Associates | IT Quality Assurance Intern - Spring 2027 | Lisle, IL | Spring 2027 | Undergrad | [Apply](https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Lisle-IL/IT-Quality-Assurance-Intern---Spring-2027_REQ656?utm_source=aprameyak) | Oct 1 |

@@ -13,9 +13,9 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (5310)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1519)
-- [🎓 New Grad 2027](./NEWGRAD.md) (2602)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (5312)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1520)
+- [🎓 New Grad 2027](./NEWGRAD.md) (2603)
 
 ---
 
@@ -28,12 +28,14 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **5310** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **5312** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Walleye Capital | Special Projects Developer Intern (Summer 2027) | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006?utm_source=aprameyak) | Oct 2 |
+| Waymo | 2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248060) | Oct 2 |
 | Allegion | Summer Intern - Software Engineering - Quality Assurance | Golden, CO | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1?utm_source=aprameyak) | Oct 1 |
 | Attentive | Product Management Intern, Agentic Integrations | United States | Undergrad | [Apply](https://job-boards.greenhouse.io/attentive/jobs/4429880009?utm_source=aprameyak) | Oct 1 |
 | Autodesk | Software Development Internship (Summer 2027) | Toronto, ON, CAN | Undergrad | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1?utm_source=aprameyak) | Oct 1 |
@@ -107,18 +109,17 @@ Showing newest **75** of **5310** listings · [View full table](./SUMMER.md)
 | ↳ | Summer 2027 Intern-Cloud Engineering | Chicago, IL | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Cloud-Engineering_R-0000033614?utm_source=aprameyak) | Oct 1 |
 | ↳ | SCS - Advanced Analytics Intern - 2027 | Cleveland, OH | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Advanced-Analytics-Intern---2027_R-0000033622?utm_source=aprameyak) | Oct 1 |
 | ↳ | TS - Application Security Intern - 2027 | Cleveland, OH | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625?utm_source=aprameyak) | Oct 1 |
-| ↳ | SCS - Statistics and Analysis Intern - 2027 | Cleveland, OH | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Statistics-and-Analysis-Intern---2027_R-0000033645?utm_source=aprameyak) | Oct 1 |
-| ↳ | Summer 2027 Intern-Data Science and Business Analytics | Chicago, IL | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609?utm_source=aprameyak) | Oct 1 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1519** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1520** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Johnson & Johnson | Asset Management Engineer Co-Op | Anasco, Puerto Rico, United States of America | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Asset-Management-Engineer-Co-Op_R-078283?utm_source=aprameyak) | Oct 2 |
 | Autodesk | Intern, Product Management (Winter 2027) | Toronto, ON, CAN | Winter 2027 | Undergrad | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--Product-Management--Winter-2027-_26WD101442-2?utm_source=aprameyak) | Oct 1 |
 | ↳ | Software Development Internship (Winter 2027) | Toronto, ON, CAN | Winter 2027 | Undergrad | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1?utm_source=aprameyak) | Oct 1 |
 | DuCharme McMillen & Associates | IT Quality Assurance Intern - Spring 2027 | Lisle, IL | Spring 2027 | Undergrad | [Apply](https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Lisle-IL/IT-Quality-Assurance-Intern---Spring-2027_REQ656?utm_source=aprameyak) | Oct 1 |
@@ -193,17 +194,17 @@ Showing newest **75** of **1519** listings · [View full table](./OFFCYCLE.md)
 | Nokia | Operations Analytics Co-op/Intern | Canada | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261) | Sep 25 |
 | Rocket Lab | Test Engineering Intern Spring 2027 | Wallops Island, VA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8003533003?utm_source=aprameyak) | Sep 25 |
 | RTX | Software Engineering Co-op (Fall/Spring 2027) | CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Co-op--Fall-Spring-2027-_01872683?utm_source=aprameyak) | Sep 25 |
-| Saab | Co-Op, IT Support Professional Spring 2027 | East Syracuse, NY (Collamer) | Co-op | Undergrad | [Apply](https://saabusa.wd1.myworkdayjobs.com/en-US/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--IT-Support-Professional-Spring-2027_R-03289-1?utm_source=aprameyak) | Sep 25 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **2602** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **2603** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Superhuman | Software Engineer, Full-Stack - GPTZero, Early Career | Hub - Toronto |  | Undergrad | [Apply](https://jobs.ashbyhq.com/superhuman%20platform%20inc/134c282c-2837-44a8-9f7c-74ca39486490/application?utm_source=aprameyak) | Oct 2 |
 | Barry-Wehmiller | Entry Level Software Engineer - RDU-3 | Raleigh, NC |  | Undergrad | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWConfidential/job/Raleigh-NC/Entry-Level-Software-Engineer---RDU-3_R022993?utm_source=aprameyak) | Oct 1 |
 | Disney | Decision Science Product Engineering Graduate Associate, Spring 2027 | Lake Buena Vista, FL | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Product-Engineering-Graduate-Associate--Spring-2027_10160002-2?utm_source=aprameyak) | Oct 1 |
 | General Dynamics | SWS Waterfront Systems Engineer –Entry Level | Groton, CT |  | Masters | [Apply](https://careers-gdeb.icims.com/jobs/20482/sws-waterfront-systems-engineer-%e2%80%93entry-level/job) | Oct 1 |
@@ -278,7 +279,6 @@ Showing newest **75** of **2602** listings · [View full table](./NEWGRAD.md)
 | RELX | Tech Accelarate Graduate Program | Alpharetta, GA |  | Undergrad | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelarate-Graduate-Program_R118810-1?utm_source=aprameyak) | Sep 23 |
 | Scale AI | Software Engineer, Public Sector - New Grad | San Francisco, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005?utm_source=aprameyak) | Sep 23 |
 | Belvedere Trading | Early Career Talent Partner- Trading | Chicago, IL |  | Undergrad | [Apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27?utm_source=aprameyak) | Sep 22 |
-| BlackRock | Associate, Software Engineer - Aladdin Graph | New York, NY |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Software-Engineer---Aladdin-Graph_R266598?utm_source=aprameyak) | Sep 22 |
 <!-- TABLE_END newgrad -->
 
 ## Disclaimer

@@ -1,11 +1,13 @@
 # ☀️ Summer 2027 Internships
 
-5310 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5312 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Walleye Capital | Special Projects Developer Intern (Summer 2027) | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006?utm_source=aprameyak) | Oct 2 |
+| Waymo | 2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248060) | Oct 2 |
 | Allegion | Summer Intern - Software Engineering - Quality Assurance | Golden, CO | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1?utm_source=aprameyak) | Oct 1 |
 | Attentive | Product Management Intern, Agentic Integrations | United States | Undergrad | [Apply](https://job-boards.greenhouse.io/attentive/jobs/4429880009?utm_source=aprameyak) | Oct 1 |
 | Autodesk | Software Development Internship (Summer 2027) | Toronto, ON, CAN | Undergrad | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1?utm_source=aprameyak) | Oct 1 |

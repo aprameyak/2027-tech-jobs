@@ -115644,5 +115644,54 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-10-01"
+  },
+  {
+    "company": "Superhuman",
+    "role": "Software Engineer, Full-Stack - GPTZero, Early Career",
+    "location": "Hub - Toronto",
+    "type": "newgrad",
+    "season": "2027 (New Grad — no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/134c282c-2837-44a8-9f7c-74ca39486490/application?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-02",
+    "grad_date": ""
+  },
+  {
+    "company": "Walleye Capital",
+    "role": "Special Projects Developer Intern (Summer 2027)",
+    "location": "New York, NY",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-02"
+  },
+  {
+    "company": "Waymo",
+    "role": "2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern",
+    "location": "Mountain View, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "PhD",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-02"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "role": "Asset Management Engineer Co-Op",
+    "location": "Anasco, Puerto Rico, United States of America",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Asset-Management-Engineer-Co-Op_R-078283?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-02"
   }
 ]
