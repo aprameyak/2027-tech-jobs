@@ -1,14 +1,22 @@
 # 🎓 New Grad 2027
 
-2605 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2613 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Amentum | Junior Software Developer | Dahlgren, VA |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0172202?utm_source=aprameyak) | Oct 2 |
+| CACI | Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer | Houston, TX, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050?utm_source=aprameyak) | Oct 2 |
+| Disney | Graduate Associate, Data Analytics, Spring 2027 | Lake Buena Vista, FL | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Graduate-Associate--Data-Analytics--Spring-2027_10160000-1?utm_source=aprameyak) | Oct 2 |
+| Harvey | Software Engineer, New Grad (2027) | San Francisco |  | Undergrad | [Apply](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?utm_source=aprameyak) | Oct 2 |
+| ↳ | Software Engineer, New Grad (2027) | New York |  | Undergrad | [Apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?utm_source=aprameyak) | Oct 2 |
 | NXP Semiconductors | ENTRY LEVEL - SYSTEMS & APPLICATIONS ENGINEER | Austin (Oakhill, Office) |  | Masters | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/ENTRY-LEVEL---SYSTEMS---APPLICATIONS-ENGINEER_R-10066569?utm_source=aprameyak) | Oct 2 |
 | RFCUNY | Associate Data Analyst | New York, NY |  | Undergrad | [Apply](https://rfcuny.wd108.myworkdayjobs.com/en-US/RFCUNY/job/New-York-NY/Associate-Data-Analyst_JR4696?utm_source=aprameyak) | Oct 2 |
 | Superhuman | Software Engineer, Full-Stack - GPTZero, Early Career | Hub - Toronto |  | Undergrad | [Apply](https://jobs.ashbyhq.com/superhuman%20platform%20inc/134c282c-2837-44a8-9f7c-74ca39486490/application?utm_source=aprameyak) | Oct 2 |
+| USAA | Audit Data Analyst - Staff Auditor II (Entry Level) | Charlotte, NC - CENTS |  | Undergrad | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Charlotte-NC---CENTS/Audit-Data-Analyst---Staff-Auditor-II--Entry-Level-_R0119714?utm_source=aprameyak) | Oct 2 |
+| Veeva Systems | Associate Software Engineer in Test | Canada - Toronto |  | Undergrad | [Apply](https://jobs.lever.co/veeva/fecaef42-b5c1-4fb2-b819-058171174ed1?utm_source=aprameyak) | Oct 2 |
+| West Monroe | 2027 Data & Analytics Consultant | Chicago, IL | Spring 2027 | Undergrad | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6167376004) | Oct 2 |
 | Barry-Wehmiller | Entry Level Software Engineer - RDU-3 | Raleigh, NC |  | Undergrad | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWConfidential/job/Raleigh-NC/Entry-Level-Software-Engineer---RDU-3_R022993?utm_source=aprameyak) | Oct 1 |
 | Disney | Decision Science Product Engineering Graduate Associate, Spring 2027 | Lake Buena Vista, FL | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Product-Engineering-Graduate-Associate--Spring-2027_10160002-2?utm_source=aprameyak) | Oct 1 |
 | General Dynamics | SWS Waterfront Systems Engineer –Entry Level | Groton, CT |  | Masters | [Apply](https://careers-gdeb.icims.com/jobs/20482/sws-waterfront-systems-engineer-%e2%80%93entry-level/job) | Oct 1 |

@@ -1,12 +1,23 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1520 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1531 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Brex | Brex Rotational Program | Salt Lake City, UT | Co-op | Undergrad | [Apply](https://www.brex.com/careers/8864176002?gh_jid=8864176002) | Oct 2 |
+| ↳ | Brex Rotational Program | Vancouver, BC | Co-op | Undergrad | [Apply](https://www.brex.com/careers/8864170002?gh_jid=8864170002) | Oct 2 |
+| Genentech | Regulatory Early Talent Program - OnePDR | South San Francisco | Co-op | Undergrad | [Apply](https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/South-San-Francisco/Regulatory-Early-Talent-Program---OnePDR_202609-124854?utm_source=aprameyak) | Oct 2 |
+| Harvey | Software Engineering Intern (Winter 2027) | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application?utm_source=aprameyak) | Oct 2 |
 | Johnson & Johnson | Asset Management Engineer Co-Op | Anasco, Puerto Rico, United States of America | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Asset-Management-Engineer-Co-Op_R-078283?utm_source=aprameyak) | Oct 2 |
+| Kodiak Robotics | Winter 2027 Intern, Security | Mountain View, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/kodiak/jobs/4430607009?utm_source=aprameyak) | Oct 2 |
+| Nokia | Automation Engineer Co-op/Intern | Canada | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40892) | Oct 2 |
+| ↳ | Automation Engineer Co-op/Intern | Canada | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168) | Oct 2 |
+| SteerBridge | Tech Internship Program - Winter 2026 | Vienna, VA | Winter 2026 | Undergrad | [Apply](https://jobs.lever.co/steerbridge/4eac2efd-ced5-4691-b00b-b5830447f2dc?utm_source=aprameyak) | Oct 2 |
+| Sun Life | Student, Cloud CX Consultant (Winter 2027) | Waterloo, ON | Winter 2027 | Undergrad | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Cloud-CX-Consultant--Winter-2027-_JR00128340?utm_source=aprameyak) | Oct 2 |
+| xAI | Spring 2027 Software Engineering Internship/Co-op | Palo Alto, CA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/xai/jobs/5252108007?utm_source=aprameyak) | Oct 2 |
+| ↳ | Summer 2027 Software Engineering Internship/Co-op | Palo Alto, CA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255111007?utm_source=aprameyak) | Oct 2 |
 | Autodesk | Intern, Product Management (Winter 2027) | Toronto, ON, CAN | Winter 2027 | Undergrad | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--Product-Management--Winter-2027-_26WD101442-2?utm_source=aprameyak) | Oct 1 |
 | ↳ | Software Development Internship (Winter 2027) | Toronto, ON, CAN | Winter 2027 | Undergrad | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1?utm_source=aprameyak) | Oct 1 |
 | DuCharme McMillen & Associates | IT Quality Assurance Intern - Spring 2027 | Lisle, IL | Spring 2027 | Undergrad | [Apply](https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Lisle-IL/IT-Quality-Assurance-Intern---Spring-2027_REQ656?utm_source=aprameyak) | Oct 1 |
