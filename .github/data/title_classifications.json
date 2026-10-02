@@ -13233,9 +13233,11 @@
     "v": ""
   },
   "brex rotational program": {
-    "t": false,
-    "c": "stale",
-    "v": ""
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "o"
   },
   "data analyst ii": {
     "t": true,
@@ -16793,9 +16795,10 @@
     "b": "s"
   },
   "manager, field engineering - strategic digital native business": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "manager, forward deployed engineering": {
@@ -19863,9 +19866,9 @@
     "b": "s"
   },
   "senior application security engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -51063,8 +51066,9 @@
   },
   "ai engineer, special programs": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "ai engineer, special programs - top secret clearance": {
@@ -55715,9 +55719,9 @@
     "a": 0
   },
   "security officer 3": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
