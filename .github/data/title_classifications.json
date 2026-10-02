@@ -7833,9 +7833,9 @@
     "v": ""
   },
   "senior systems administrator": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -68182,8 +68182,9 @@
   },
   "early career nasa space reactor \u2013 1 freedom flight software development engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "n"
   },
   "fab automation engineer (2027 new college graduate)": {
