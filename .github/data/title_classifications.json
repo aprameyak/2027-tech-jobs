@@ -95841,5 +95841,35 @@
     "c": "medium",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "senior director, aml & sanctions, governance & policy": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior voice ai engineer": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "strategic sourcing lead, professional services \u2013 human data": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer, detection & response": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior district manager, enterprise acquisition - digital native": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
