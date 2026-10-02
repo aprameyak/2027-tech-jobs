@@ -26694,8 +26694,9 @@
   },
   "software engineer, pricing": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "sr. associate, compassionate care (overnight)": {
