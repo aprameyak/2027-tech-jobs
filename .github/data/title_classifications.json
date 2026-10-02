@@ -28911,8 +28911,8 @@
   },
   "staff software engineer, routing": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -29608,8 +29608,9 @@
   },
   "senior product manager - okta identity governance": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior product manager, privileged access management": {
@@ -50876,8 +50877,8 @@
   },
   "senior software engineer, service mesh": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -51160,8 +51161,9 @@
   },
   "application software engineer, manufacturing systems": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "application software engineer, manufacturing systems ": {
