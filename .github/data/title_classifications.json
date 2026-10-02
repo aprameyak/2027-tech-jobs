@@ -95759,5 +95759,86 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "software engineer, applied ai - frontier engineering": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, applied ai - frontier engineering (nyc)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, mobile platform (ios)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, mobile core (android)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "member of technical staff (software engineer, enterprise knowledge platform)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "member of technical staff (software engineer, enterprise ai products)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "frontend software engineer, codex app": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "full stack software engineer, sales platform": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "machine learning engineer - content discovery": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "systems integrator alliances manager": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "technical support specialist": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "solutions engineer \u2013 national security, dock subject matter expert": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
