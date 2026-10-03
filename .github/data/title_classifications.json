@@ -96288,5 +96288,17 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "digital operations coordinator": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior software engineer - ai app enablement & observability": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
