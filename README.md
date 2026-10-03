@@ -15,7 +15,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 - [☀️ Summer 2027 Internships](./SUMMER.md) (5357)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1535)
-- [🎓 New Grad 2027](./NEWGRAD.md) (2615)
+- [🎓 New Grad 2027](./NEWGRAD.md) (2625)
 
 ---
 
@@ -198,7 +198,7 @@ Showing newest **75** of **1535** listings · [View full table](./OFFCYCLE.md)
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **2615** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **2625** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
@@ -206,6 +206,16 @@ Showing newest **75** of **2615** listings · [View full table](./NEWGRAD.md)
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | First Orion | Associate Software Engineer | North Little Rock, AR |  | Undergrad | [Apply](https://firstorion.wd1.myworkdayjobs.com/en-US/first_orion/job/North-Little-Rock-AR/Associate-Software-Engineer_R785?utm_source=aprameyak) | Oct 3 |
 | ServiceNow | Software Engineer, Core Infrastructure - Moveworks (New Grad) | Mountain View, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000153279380) | Oct 3 |
+| West Monroe | 2027 Data & Analytics Consultant | New York | Spring 2027 | Undergrad | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6167513004) | Oct 3 |
+| ↳ | 2027 Data & Analytics Consultant | Seattle, WA | Spring 2027 | Undergrad | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6167522004) | Oct 3 |
+| ↳ | 2027 Data & Analytics Consultant | San Francisco | Spring 2027 | Undergrad | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6167515004) | Oct 3 |
+| ↳ | 2027 Data & Analytics Consultant | Dallas | Spring 2027 | Undergrad | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6167503004) | Oct 3 |
+| ↳ | 2027 Data & Analytics Consultant | Los Angeles | Spring 2027 | Undergrad | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6167508004) | Oct 3 |
+| ↳ | 2027 Platforms & Technology Consultant | Chicago, IL | Spring 2027 | Masters | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6172577004) | Oct 3 |
+| ↳ | 2027 Platforms & Technology Consultant | New York | Spring 2027 | Masters | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6172705004) | Oct 3 |
+| ↳ | 2027 Platforms & Technology Consultant | San Francisco | Spring 2027 | Masters | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6172706004) | Oct 3 |
+| ↳ | 2027 Platforms & Technology Consultant | Seattle, WA | Spring 2027 | Masters | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6172707004) | Oct 3 |
+| ↳ | 2027 Platforms & Technology Consultant | Dallas | Spring 2027 | Masters | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6172704004) | Oct 3 |
 | Amentum | Junior Software Developer | Dahlgren, VA |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0172202?utm_source=aprameyak) | Oct 2 |
 | CACI | Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer | Houston, TX, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050?utm_source=aprameyak) | Oct 2 |
 | Disney | Graduate Associate, Data Analytics, Spring 2027 | Lake Buena Vista, FL | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Graduate-Associate--Data-Analytics--Spring-2027_10160000-1?utm_source=aprameyak) | Oct 2 |
@@ -269,16 +279,6 @@ Showing newest **75** of **2615** listings · [View full table](./NEWGRAD.md)
 | Perplexity | Member of Technical Staff (New Grad) | San Francisco |  | Undergrad | [Apply](https://jobs.ashbyhq.com/perplexity/8a99d9be-6955-4f28-8150-80c8ce72c523/application?utm_source=aprameyak) | Sep 24 |
 | ResMed | Associate Software Engineer | San Diego, CA |  | Undergrad | [Apply](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_052316-1?utm_source=aprameyak) | Sep 24 |
 | Uber | PhD 2026 Graduate Software Engineer II (AV Labs), United States | Sunnyvale, CA | Spring 2026 | PhD | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301355) | Sep 24 |
-| Veolia | Junior Manufacturing Software Engineer | Boulder, CO |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151660290) | Sep 24 |
-| Voloridge Investment Management | Quantitative Developer - University Graduate | Jupiter, FL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4419326009?utm_source=aprameyak) | Sep 24 |
-| American Express | Campus Undergraduate Full-Time Analyst - 2027 Data & Analytics , Enterprise Technology Services- Charlotte, NC | Charlotte, NC |  | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013679) | Sep 23 |
-| Bosch | Associate Motorsport Software Engineer | Farmington Hills, MI |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151463391) | Sep 23 |
-| Eulerity | Associate Web Development Software Engineer (SDK) | New York, NY |  | Undergrad | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4716146006?utm_source=aprameyak) | Sep 23 |
-| Eversource Energy | Associate Engineer Grid Operations Technology (Hybrid) | Windsor, CT |  | Undergrad | [Apply](https://eversource.wd1.myworkdayjobs.com/en-US/ExternalSite/job/Windsor-CT/Associate-Engineer-Grid-Operations-Technology--Hybrid-_R-031666?utm_source=aprameyak) | Sep 23 |
-| Framatome | Early Careers Computer Science Engineer I (Cranberry Township) | Cranberry Township, PA |  | Undergrad | [Apply](https://careers-framatome.icims.com/jobs/3408/early-careers-computer-science-engineer-i-%28cranberry-township%29/job) | Sep 23 |
-| General Dynamics Information Technology 🇺🇸 | Frontend Developer - TS/SCI with Polygraph | USA VA Chantilly |  | Undergrad | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-VA-Chantilly/Software-Engineer---TS-SCI-with-Polygraph_RQ222559-1?utm_source=aprameyak) | Sep 23 |
-| General Motors | Software Engineer AV HIL Platform and Services (Early Career)) | Sunnyvale, CA |  | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577?utm_source=aprameyak) | Sep 23 |
-| i3 | Software Engineer (Associate-Mid) | Huntsville, AL |  | Undergrad | [Apply](https://careers-i3-corps.icims.com/jobs/5282/software-engineer-%28associate-mid%29/job) | Sep 23 |
 <!-- TABLE_END newgrad -->
 
 ## Disclaimer

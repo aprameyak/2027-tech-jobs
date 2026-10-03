@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-2615 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2625 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -8,6 +8,16 @@
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | First Orion | Associate Software Engineer | North Little Rock, AR |  | Undergrad | [Apply](https://firstorion.wd1.myworkdayjobs.com/en-US/first_orion/job/North-Little-Rock-AR/Associate-Software-Engineer_R785?utm_source=aprameyak) | Oct 3 |
 | ServiceNow | Software Engineer, Core Infrastructure - Moveworks (New Grad) | Mountain View, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000153279380) | Oct 3 |
+| West Monroe | 2027 Data & Analytics Consultant | New York | Spring 2027 | Undergrad | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6167513004) | Oct 3 |
+| ↳ | 2027 Data & Analytics Consultant | Seattle, WA | Spring 2027 | Undergrad | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6167522004) | Oct 3 |
+| ↳ | 2027 Data & Analytics Consultant | San Francisco | Spring 2027 | Undergrad | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6167515004) | Oct 3 |
+| ↳ | 2027 Data & Analytics Consultant | Dallas | Spring 2027 | Undergrad | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6167503004) | Oct 3 |
+| ↳ | 2027 Data & Analytics Consultant | Los Angeles | Spring 2027 | Undergrad | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6167508004) | Oct 3 |
+| ↳ | 2027 Platforms & Technology Consultant | Chicago, IL | Spring 2027 | Masters | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6172577004) | Oct 3 |
+| ↳ | 2027 Platforms & Technology Consultant | New York | Spring 2027 | Masters | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6172705004) | Oct 3 |
+| ↳ | 2027 Platforms & Technology Consultant | San Francisco | Spring 2027 | Masters | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6172706004) | Oct 3 |
+| ↳ | 2027 Platforms & Technology Consultant | Seattle, WA | Spring 2027 | Masters | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6172707004) | Oct 3 |
+| ↳ | 2027 Platforms & Technology Consultant | Dallas | Spring 2027 | Masters | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6172704004) | Oct 3 |
 | Amentum | Junior Software Developer | Dahlgren, VA |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0172202?utm_source=aprameyak) | Oct 2 |
 | CACI | Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer | Houston, TX, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050?utm_source=aprameyak) | Oct 2 |
 | Disney | Graduate Associate, Data Analytics, Spring 2027 | Lake Buena Vista, FL | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Graduate-Associate--Data-Analytics--Spring-2027_10160000-1?utm_source=aprameyak) | Oct 2 |
