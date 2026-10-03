@@ -1,11 +1,15 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1531 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1535 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Emerson Electric | Software Solutions Development Program (SDP) | Elyria, OH | Co-op | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010904) | Oct 3 |
+| Gemini | Prediction Markets Operations Intern (Winter 2027) | New York, NY | Winter 2027 | Undergrad | [Apply](https://boards.greenhouse.io/embed/job_app?for=gemini&gh_jid=8240204&token=8240204&utm_source=aprameyak) | Oct 3 |
+| Kinaxis | Co-op/ Intern Application Security Analyst | Ottawa, ON | Co-op | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35323/co-op--intern-application-security-analyst/job) | Oct 3 |
+| Manulife | Winter Co-op 2027 – Technology Enablement Analyst | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774?utm_source=aprameyak) | Oct 3 |
 | Brex | Brex Rotational Program | Salt Lake City, UT | Co-op | Undergrad | [Apply](https://www.brex.com/careers/8864176002?gh_jid=8864176002) | Oct 2 |
 | ↳ | Brex Rotational Program | Vancouver, BC | Co-op | Undergrad | [Apply](https://www.brex.com/careers/8864170002?gh_jid=8864170002) | Oct 2 |
 | Genentech | Regulatory Early Talent Program - OnePDR | South San Francisco | Co-op | Undergrad | [Apply](https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/South-San-Francisco/Regulatory-Early-Talent-Program---OnePDR_202609-124854?utm_source=aprameyak) | Oct 2 |

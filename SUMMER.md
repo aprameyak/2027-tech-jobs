@@ -1,11 +1,23 @@
 # ☀️ Summer 2027 Internships
 
-5344 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5356 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Affirm | Software Engineer Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003?utm_source=aprameyak) | Oct 3 |
+| ↳ | Software Engineer (Machine Learning) Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003?utm_source=aprameyak) | Oct 3 |
+| Cboe Global Markets | Quant & Data Analytics Intern | Chicago, IL | Undergrad | [Apply](https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Chicago-IL/Quant---Data-Analytics-Intern_R-4708?utm_source=aprameyak) | Oct 3 |
+| ↳ | Technical Business Analyst Intern | Chicago, IL | Undergrad | [Apply](https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Chicago-IL/Technical-Business-Analyst-Intern_R-4710?utm_source=aprameyak) | Oct 3 |
+| General Motors | 2027 Summer Intern – Machine Learning Engineer, AV/AI Platform | Sunnyvale, CA | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695?utm_source=aprameyak) | Oct 3 |
+| ↳ | 2027 Summer Intern – Software Verification Engineer, AV/AI Platform | Warren, MI | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697?utm_source=aprameyak) | Oct 3 |
+| ↳ | 2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation | Sunnyvale, CA | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508?utm_source=aprameyak) | Oct 3 |
+| ↳ | 2027 Summer Intern – AI/ML Engineer, Autonomous Vehicles: Simulation (PhD) | Sunnyvale, CA | PhD | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511?utm_source=aprameyak) | Oct 3 |
+| HP | AI Applied Engineering Intern | Vancouver, WA | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670?utm_source=aprameyak) | Oct 3 |
+| Sentara Health | CVI Tech Internship Program | Norfolk, VA | Undergrad | [Apply](https://sentara.wd1.myworkdayjobs.com/en-US/SCS/job/Norfolk-VA/CVI-Tech-Internship-Program_JR-104561-1?utm_source=aprameyak) | Oct 3 |
+| The Federal Reserve System | 2027 Intern - Statistics | Dallas, TX | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Statistics_R-0000033575?utm_source=aprameyak) | Oct 3 |
+| Waymo | 2027 Summer Intern, Perception - Evaluation | Mountain View, CA | Undergrad | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248327) | Oct 3 |
 | Altera | Software Engineer - Intern | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03193?utm_source=aprameyak) | Oct 2 |
 | Arch Capital Group | Security Operations Intern | Greensboro, NC United States of America | Undergrad | [Apply](https://archgroup.wd1.myworkdayjobs.com/en-US/careers/job/Greensboro-NC-United-States-of-America/Security-Operations-Intern_R26_1016?utm_source=aprameyak) | Oct 2 |
 | Bedrock Robotics | 2027 Internship Behavior ML Engineer, Learned Manipulation Policies | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/96a6423e-7439-4cb4-9109-117b14e47f7c/application?utm_source=aprameyak) | Oct 2 |

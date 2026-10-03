@@ -1,11 +1,13 @@
 # 🎓 New Grad 2027
 
-2613 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2615 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| First Orion | Associate Software Engineer | North Little Rock, AR |  | Undergrad | [Apply](https://firstorion.wd1.myworkdayjobs.com/en-US/first_orion/job/North-Little-Rock-AR/Associate-Software-Engineer_R785?utm_source=aprameyak) | Oct 3 |
+| ServiceNow | Software Engineer, Core Infrastructure - Moveworks (New Grad) | Mountain View, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000153279380) | Oct 3 |
 | Amentum | Junior Software Developer | Dahlgren, VA |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0172202?utm_source=aprameyak) | Oct 2 |
 | CACI | Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer | Houston, TX, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050?utm_source=aprameyak) | Oct 2 |
 | Disney | Graduate Associate, Data Analytics, Spring 2027 | Lake Buena Vista, FL | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Graduate-Associate--Data-Analytics--Spring-2027_10160000-1?utm_source=aprameyak) | Oct 2 |
