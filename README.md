@@ -13,7 +13,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (5356)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (5357)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1535)
 - [🎓 New Grad 2027](./NEWGRAD.md) (2615)
 
@@ -28,7 +28,7 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **5356** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **5357** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -43,6 +43,7 @@ Showing newest **75** of **5356** listings · [View full table](./SUMMER.md)
 | ↳ | 2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation | Sunnyvale, CA | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508?utm_source=aprameyak) | Oct 3 |
 | ↳ | 2027 Summer Intern – AI/ML Engineer, Autonomous Vehicles: Simulation (PhD) | Sunnyvale, CA | PhD | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511?utm_source=aprameyak) | Oct 3 |
 | HP | AI Applied Engineering Intern | Vancouver, WA | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670?utm_source=aprameyak) | Oct 3 |
+| Northern Trust | Data & Analytics Office Intern | Chicago, IL | Undergrad | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1?utm_source=aprameyak) | Oct 3 |
 | Sentara Health | CVI Tech Internship Program | Norfolk, VA | Undergrad | [Apply](https://sentara.wd1.myworkdayjobs.com/en-US/SCS/job/Norfolk-VA/CVI-Tech-Internship-Program_JR-104561-1?utm_source=aprameyak) | Oct 3 |
 | The Federal Reserve System | 2027 Intern - Statistics | Dallas, TX | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Statistics_R-0000033575?utm_source=aprameyak) | Oct 3 |
 | Waymo | 2027 Summer Intern, Perception - Evaluation | Mountain View, CA | Undergrad | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248327) | Oct 3 |
@@ -108,7 +109,6 @@ Showing newest **75** of **5356** listings · [View full table](./SUMMER.md)
 | ↳ | 2027 Technology Development Program - Software Engineering | Buffalo, NY | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering_R90039?utm_source=aprameyak) | Oct 1 |
 | Micron Technology | Intern - Compute System Compatibility Engineer | Boise, ID - Main Site | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Compute-System-Compatibility-Engineer_JR113627?utm_source=aprameyak) | Oct 1 |
 | MSD | Associate Scientist, Post Doc Fellow- AI/ML & Computational Biology for Antigen Design | USA - Pennsylvania - West Point | Undergrad | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Pennsylvania---West-Point/Associate-Scientist--Post-Doc-Fellow--AI-ML---Computational-Biology-for-Antigen-Design_R419377-1?utm_source=aprameyak) | Oct 1 |
-| ↳ | Associate Scientist, Post Doc Fellow- Computational Pathology & Spatial AI | USA - Massachusetts - Cambridge (320 Bent Street) | Undergrad | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Associate-Scientist--Post-Doc-Fellow--Computational-Pathology---Spatial-AI_R418980-1?utm_source=aprameyak) | Oct 1 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops

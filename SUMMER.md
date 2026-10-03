@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-5356 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5357 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -15,6 +15,7 @@
 | ↳ | 2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation | Sunnyvale, CA | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508?utm_source=aprameyak) | Oct 3 |
 | ↳ | 2027 Summer Intern – AI/ML Engineer, Autonomous Vehicles: Simulation (PhD) | Sunnyvale, CA | PhD | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511?utm_source=aprameyak) | Oct 3 |
 | HP | AI Applied Engineering Intern | Vancouver, WA | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670?utm_source=aprameyak) | Oct 3 |
+| Northern Trust | Data & Analytics Office Intern | Chicago, IL | Undergrad | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1?utm_source=aprameyak) | Oct 3 |
 | Sentara Health | CVI Tech Internship Program | Norfolk, VA | Undergrad | [Apply](https://sentara.wd1.myworkdayjobs.com/en-US/SCS/job/Norfolk-VA/CVI-Tech-Internship-Program_JR-104561-1?utm_source=aprameyak) | Oct 3 |
 | The Federal Reserve System | 2027 Intern - Statistics | Dallas, TX | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Statistics_R-0000033575?utm_source=aprameyak) | Oct 3 |
 | Waymo | 2027 Summer Intern, Perception - Evaluation | Mountain View, CA | Undergrad | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248327) | Oct 3 |
