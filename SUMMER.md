@@ -1,11 +1,12 @@
 # ☀️ Summer 2027 Internships
 
-5357 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5358 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Prosidian Consulting | International Development Program/Project Data Analyst (PILAB011) | Remote (US) | Undergrad | [Apply](https://jobs.smartrecruiters.com/prosidianconsulting/744000153376929) | Oct 4 |
 | Affirm | Software Engineer Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003?utm_source=aprameyak) | Oct 3 |
 | ↳ | Software Engineer (Machine Learning) Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003?utm_source=aprameyak) | Oct 3 |
 | Cboe Global Markets | Quant & Data Analytics Intern | Chicago, IL | Undergrad | [Apply](https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Chicago-IL/Quant---Data-Analytics-Intern_R-4708?utm_source=aprameyak) | Oct 3 |
