@@ -96429,5 +96429,17 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "staff software engineer, ai developer tooling": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior technical program manager, ai platform": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
