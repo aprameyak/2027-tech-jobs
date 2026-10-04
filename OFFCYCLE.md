@@ -111,7 +111,6 @@
 | Manulife | Winter Co-op 2027 - Product Management & Risk Technology | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Product-Management---Risk-Technology_JR26080874?utm_source=aprameyak) | Sep 24 |
 | Notion | Software Engineer Intern, Mobile (Winter 2027) | San Francisco, CA | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application?utm_source=aprameyak) | Sep 24 |
 | PathAI | Machine Learning Intern/Co-op | Boston, MA or Remote | Co-op | Undergrad | [Apply](https://www.pathai.com/careers/8843495002?gh_jid=8843495002) | Sep 24 |
-| BMO Financial Group | UX/UI Designer, Winter 2027 (Co-op/Internship)- 8 months | Toronto, ON, CAN | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1?utm_source=aprameyak) | Sep 23 |
 | Johnson & Johnson | Software Test Engineering Co-op (Beatbox) | Danvers, MA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707?utm_source=aprameyak) | Sep 23 |
 | ↳ | Software Test Engineering Co-op (RLM) | Danvers, MA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669?utm_source=aprameyak) | Sep 23 |
 | ↳ | Heart Recovery Software R&D Co-Op | Halethorpe, MD | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393?utm_source=aprameyak) | Sep 23 |
@@ -684,7 +683,6 @@
 | ↳ | Winter 2027 Systems Engineer Co-op | Quincy, MA | Co-op | Masters | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007&utm_source=aprameyak) | Sep 15 |
 | ↳ | Winter 2027 Technical Program Management Co-op | Washington, DC | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007&utm_source=aprameyak) | Sep 15 |
 | Johnson & Johnson | Co-Op Automation Engineer | Wilson, NC | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Wilson-North-Carolina-United-States-of-America/Co-Op-Automation-Engineer_R-096697-1?utm_source=aprameyak) | Sep 15 |
-| Ameriprise Financial | Quantitative Investment Research Co-op (Equities) | Boston, MA | Co-op | Undergrad | [Apply](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Quantitative-Investment-Research-Co-op--Equities-_R26_3532?utm_source=aprameyak) | Sep 14 |
 | Baker Hughes | Intern/Co-op - Engineering & Technology - Spring 2027 Opportunities | HOUSTON-2001 RANKIN ROAD, TX | Co-op | Undergrad | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/US-TX-HOUSTON-2001-RANKIN-ROAD/Intern-Co-op---Engineering---Technology---Spring-2027-Opportunities_R168898?utm_source=aprameyak) | Sep 14 |
 | BMO Financial Group | Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3?utm_source=aprameyak) | Sep 14 |
 | Klaviyo | Software Engineer Co-op - Spring 2027 | Boston, MA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003?utm_source=aprameyak) | Sep 14 |
@@ -846,6 +844,7 @@
 | Cummins | Service Engineering - Co-op Positions | Columbus, IN | Co-op | Undergrad | 🔒 | Sep 24 |
 | ↳ | Technical Information Systems - Co-Op Positions | Columbus, IN | Co-op | Masters | 🔒 | Sep 24 |
 | ↳ | Product Analyst Co-op | Shepherdsville, KY | Co-op | Undergrad | 🔒 | Sep 24 |
+| BMO Financial Group | UX/UI Designer, Winter 2027 (Co-op/Internship)- 8 months | Toronto, ON, CAN | Co-op | Undergrad | 🔒 | Sep 23 |
 | CIBC | Quality Assurance Analyst-Co-op Winter 2027 | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 23 |
 | ↳ | Quality Assurance Analyst-Co-op Winter 2027 | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 23 |
 | ↳ | Technical Systems Analyst Co-op | Toronto, ON | Co-op | Masters | 🔒 | Sep 22 |
@@ -1290,6 +1289,7 @@
 | RTX | Software Engineering Co-op (Summer/Fall 2027) | <details><summary>**2 locations**</summary>WILSONVILLE-596 ~ 27500 SW</br>Parkway Ave ~ BLDG 596, OR</details> | Co-op | Undergrad | 🔒 | Sep 15 |
 | ↳ | Software Engineering Co-op (Summer/Fall 2027) | <details><summary>**2 locations**</summary>WILSONVILLE-596 ~ 27500 SW</br>Parkway Ave ~ BLDG 596, OR</details> | Co-op | Undergrad | 🔒 | Sep 15 |
 | ↳ | Software Engineering Co-op (Summer/Fall 2027) | ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6, IL | Co-op | Undergrad | 🔒 | Sep 15 |
+| Ameriprise Financial | Quantitative Investment Research Co-op (Equities) | Boston, MA | Co-op | Undergrad | 🔒 | Sep 14 |
 | Loblaw Companies | Design Engineer - Co-op Student | 500 Lake Shore Blvd W, Toronto, ON | Co-op | Undergrad | 🔒 | Sep 14 |
 | ↳ | Associate Product Manager - Co-op Student | 500 Lake Shore Blvd W, Toronto, ON | Co-op | Undergrad | 🔒 | Sep 14 |
 | ↳ | Replenishment Optimization Data & Analytics - Co-op Student | 1 Presidents Choice Circle, Brampton, ON | Co-op | Undergrad | 🔒 | Sep 14 |
