@@ -97112,5 +97112,19 @@
     "c": "low",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "spring 2027 management trainee internship- cincinnati": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
+  },
+  "spring 2027 management trainee internship- dayton": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   }
 }
