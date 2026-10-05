@@ -72338,18 +72338,24 @@
   },
   "commercial analyst development program - green bay, wi (new grad 2027)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "n"
   },
   "commercial analyst development program - grand rapids, mi (new grad 2027)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "n"
   },
   "commercial analyst development program - atlanta, ga (new grad 2027)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "n"
   },
   "finance transformation intern, spring 2027": {
     "t": false,
