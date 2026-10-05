@@ -1,11 +1,12 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1536 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1537 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Hitachi | Applications Engineering Internship/Co-op | Holland, MI | Co-op | Undergrad | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Holland-Michigan-United-States/Applications-Engineering-Internship-Co-op_R0144978?utm_source=aprameyak) | Oct 5 |
 | RTX | Co-Op - AI DSP Applied Research | CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016?utm_source=aprameyak) | Oct 4 |
 | Emerson Electric | Software Solutions Development Program (SDP) | Elyria, OH | Co-op | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010904) | Oct 3 |
 | Kinaxis | Co-op/ Intern Application Security Analyst | Ottawa, ON | Co-op | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35323/co-op--intern-application-security-analyst/job) | Oct 3 |

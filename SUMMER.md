@@ -1,11 +1,20 @@
 # ☀️ Summer 2027 Internships
 
-5358 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5367 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Hitachi | Applications Engineering Intern (BU40) | Ogden, UT | Undergrad | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ogden-Utah-United-States/Applications-Engineering-Intern--BU40-_R0145029?utm_source=aprameyak) | Oct 5 |
+| Juniper Networks | People Care HR AI Agent - Process Improvement Project Management Intern | Spring, TX | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/People-Care-HR-AI-Agent---Process-Improvement-Project-Management-Intern_1212389?utm_source=aprameyak) | Oct 5 |
+| NVIDIA | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958?utm_source=aprameyak) | Oct 5 |
+| RTX | Digital Technology Intern (Summer 2027) | EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC, CT | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Digital-Technology-Intern--Summer-2027-_01867772?utm_source=aprameyak) | Oct 5 |
+| State of North Carolina | Data Science Intern | Wake County, NC | Undergrad | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225?utm_source=aprameyak) | Oct 5 |
+| ↳ | Data Analytics Intern | Wake County, NC | Undergrad | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220?utm_source=aprameyak) | Oct 5 |
+| ↳ | Data Engineering Intern | Wake County, NC | Undergrad | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224?utm_source=aprameyak) | Oct 5 |
+| ↳ | IT Service Desk Intern | Wake County, NC | Undergrad | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/job/Wake-County-NC/IT-Service-Desk-Intern_JR-125278?utm_source=aprameyak) | Oct 5 |
+| ↳ | Information Systems Audit Intern | Wake County, NC | Masters | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/job/Wake-County-NC/Information-Systems-Audit-Intern_JR-125336?utm_source=aprameyak) | Oct 5 |
 | Prosidian Consulting | International Development Program/Project Data Analyst (PILAB011) | Remote (US) | Undergrad | [Apply](https://jobs.smartrecruiters.com/prosidianconsulting/744000153376929) | Oct 4 |
 | Affirm | Software Engineer Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003?utm_source=aprameyak) | Oct 3 |
 | ↳ | Software Engineer (Machine Learning) Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003?utm_source=aprameyak) | Oct 3 |

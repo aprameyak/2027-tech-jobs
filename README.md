@@ -13,8 +13,8 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (5358)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1536)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (5367)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1537)
 - [🎓 New Grad 2027](./NEWGRAD.md) (2625)
 
 ---
@@ -28,12 +28,21 @@ Use this repo to share and keep track of tech internships and new grad roles for
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **5358** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **5367** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Hitachi | Applications Engineering Intern (BU40) | Ogden, UT | Undergrad | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ogden-Utah-United-States/Applications-Engineering-Intern--BU40-_R0145029?utm_source=aprameyak) | Oct 5 |
+| Juniper Networks | People Care HR AI Agent - Process Improvement Project Management Intern | Spring, TX | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/People-Care-HR-AI-Agent---Process-Improvement-Project-Management-Intern_1212389?utm_source=aprameyak) | Oct 5 |
+| NVIDIA | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958?utm_source=aprameyak) | Oct 5 |
+| RTX | Digital Technology Intern (Summer 2027) | EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC, CT | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Digital-Technology-Intern--Summer-2027-_01867772?utm_source=aprameyak) | Oct 5 |
+| State of North Carolina | Data Science Intern | Wake County, NC | Undergrad | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225?utm_source=aprameyak) | Oct 5 |
+| ↳ | Data Analytics Intern | Wake County, NC | Undergrad | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220?utm_source=aprameyak) | Oct 5 |
+| ↳ | Data Engineering Intern | Wake County, NC | Undergrad | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224?utm_source=aprameyak) | Oct 5 |
+| ↳ | IT Service Desk Intern | Wake County, NC | Undergrad | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/job/Wake-County-NC/IT-Service-Desk-Intern_JR-125278?utm_source=aprameyak) | Oct 5 |
+| ↳ | Information Systems Audit Intern | Wake County, NC | Masters | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/job/Wake-County-NC/Information-Systems-Audit-Intern_JR-125336?utm_source=aprameyak) | Oct 5 |
 | Prosidian Consulting | International Development Program/Project Data Analyst (PILAB011) | Remote (US) | Undergrad | [Apply](https://jobs.smartrecruiters.com/prosidianconsulting/744000153376929) | Oct 4 |
 | Affirm | Software Engineer Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003?utm_source=aprameyak) | Oct 3 |
 | ↳ | Software Engineer (Machine Learning) Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003?utm_source=aprameyak) | Oct 3 |
@@ -100,25 +109,17 @@ Showing newest **75** of **5358** listings · [View full table](./SUMMER.md)
 | Glean | Software Engineer, Intern (Summer 2027) | Mountain View, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4595665005?utm_source=aprameyak) | Oct 1 |
 | GlobalFoundries | End Markets Intern, Communications Infrastructure and Datacenter (Summer 2027) | USA - Texas - Austin | Undergrad | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/End-Markets-Intern--Communications-Infrastructure-and-Datacenter--Summer-2027-_JR-2604224?utm_source=aprameyak) | Oct 1 |
 | GM Financial | Intern - Pricing Analytics & Product Development | Fort Worth, TX | Undergrad | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260789) | Oct 1 |
-| Hitachi | Quality Assurance (QA) Intern | Norman, OK | Undergrad | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Norman-Oklahoma-United-States/Quality-Assurance--QA--Intern_R0146209?utm_source=aprameyak) | Oct 1 |
-| HMH | AI & Automation Development Intern | Houston, TX | Undergrad | [Apply](https://hmhw.wd12.myworkdayjobs.com/en-US/hmh_careers/job/Houston-TX/AI---Automation-Development-Intern_JR102458?utm_source=aprameyak) | Oct 1 |
-| Intel | AI Software Technical Intern | Santa Clara, CA | Undergrad | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544?utm_source=aprameyak) | Oct 1 |
-| ↳ | Software Engineering PhD Intern New 2027 | Hillsboro, OR | PhD | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1?utm_source=aprameyak) | Oct 1 |
-| ITT | Engineering / Applications Intern (Summer 2027) | Remote (US) | Undergrad | [Apply](https://careersenus-itt-inc.icims.com/jobs/17658/engineering---applications-intern-%28summer-2027%29/job) | Oct 1 |
-| M&T Bank | 2027 Technology Development Program - Cybersecurity | Buffalo, NY | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity_R90112?utm_source=aprameyak) | Oct 1 |
-| ↳ | 2027 Technology Development Program - Software Engineering | Buffalo, NY | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering_R90039?utm_source=aprameyak) | Oct 1 |
-| Micron Technology | Intern - Compute System Compatibility Engineer | Boise, ID - Main Site | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Compute-System-Compatibility-Engineer_JR113627?utm_source=aprameyak) | Oct 1 |
-| MSD | Associate Scientist, Post Doc Fellow- AI/ML & Computational Biology for Antigen Design | USA - Pennsylvania - West Point | Undergrad | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Pennsylvania---West-Point/Associate-Scientist--Post-Doc-Fellow--AI-ML---Computational-Biology-for-Antigen-Design_R419377-1?utm_source=aprameyak) | Oct 1 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1536** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1537** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Hitachi | Applications Engineering Internship/Co-op | Holland, MI | Co-op | Undergrad | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Holland-Michigan-United-States/Applications-Engineering-Internship-Co-op_R0144978?utm_source=aprameyak) | Oct 5 |
 | RTX | Co-Op - AI DSP Applied Research | CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016?utm_source=aprameyak) | Oct 4 |
 | Emerson Electric | Software Solutions Development Program (SDP) | Elyria, OH | Co-op | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010904) | Oct 3 |
 | Kinaxis | Co-op/ Intern Application Security Analyst | Ottawa, ON | Co-op | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35323/co-op--intern-application-security-analyst/job) | Oct 3 |
@@ -193,7 +194,6 @@ Showing newest **75** of **1536** listings · [View full table](./OFFCYCLE.md)
 | Disney | Data Analyst Intern, Global Security Control Center, Spring 2027 | Burbank, CA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010?utm_source=aprameyak) | Sep 27 |
 | Kinaxis | Co-op/  Intern Upgrade and Migration Specialist | Ottawa, ON | Co-op | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35322/co-op---intern-upgrade-and-migration-specialist/job) | Sep 26 |
 | TD Bank | 2027 Spring Co-op - Global Technology & Solutions - Business Management Analyst (BMA) | Mount Laurel, NJ | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Business-Management-Analyst--BMA-_R_1510120?utm_source=aprameyak) | Sep 26 |
-| CIBC | AI & Data Analytics and Reporting Analyst Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748?utm_source=aprameyak) | Sep 25 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027
