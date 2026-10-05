@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aprameyak-jobs.vercel.app/sitemap.xml

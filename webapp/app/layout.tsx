@@ -21,6 +21,7 @@ export const metadata: Metadata = {
     description:
       'Curated Summer 2027 internships, off-cycle co-ops, and new grad roles in software engineering, PM, data, ML/AI, quant, and cybersecurity. Updated hourly.',
     type: 'website',
+    url: 'https://aprameyak-jobs.vercel.app',
   },
   twitter: {
     card: 'summary',
@@ -28,6 +29,7 @@ export const metadata: Metadata = {
     description:
       'Summer 2027 internships & new grad roles in SWE, PM, data, quant, and cyber. Updated hourly.',
   },
+  canonical: 'https://aprameyak-jobs.vercel.app',
 };
 
 export default function RootLayout({
@@ -35,8 +37,31 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
+  const structuredData = {
+    '@context': 'https://schema.org',
+    '@type': 'WebApplication',
+    name: '2027 Tech Jobs',
+    description: 'Database of 2027 tech internships, off-cycle roles, and new grad positions',
+    url: 'https://aprameyak-jobs.vercel.app',
+    applicationCategory: 'Productivity',
+    offers: {
+      '@type': 'AggregateOffer',
+      priceCurrency: 'USD',
+      price: '0',
+      priceValidUntil: '2027-12-31',
+      availability: 'https://schema.org/InStock',
+    },
+  };
+
   return (
     <html lang="en">
+      <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+        />
+      </head>
       <body>{children}</body>
     </html>
   );
