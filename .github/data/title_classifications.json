@@ -65117,8 +65117,10 @@
   },
   "assurance intern - summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "pharmacy intern - vanderbilt university hospital inpatient": {
     "t": false,
@@ -68711,8 +68713,10 @@
   },
   "assurance intern - winter 2028": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "pharmacy intern - medical center east": {
     "t": false,
@@ -69557,8 +69561,9 @@
   },
   "android applications developer intern - summer 2027": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "2027 etp analyst - corporate banking group, solar credit, charlotte, nc": {
