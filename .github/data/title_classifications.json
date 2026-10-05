@@ -14118,9 +14118,10 @@
     "b": "s"
   },
   "principal product manager, security": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "principal software engineer - postgres": {
