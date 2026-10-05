@@ -53324,10 +53324,10 @@
   },
   "information security analyst": {
     "t": true,
-    "c": "stale",
-    "v": "",
-    "a": 0,
-    "b": "s"
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "n"
   },
   "information system security manager ": {
     "t": true,
@@ -67058,9 +67058,10 @@
     "b": "n"
   },
   "associate engineer, manufacturing": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "contract student worker - machine learning engineer - data mining & vlm (full-time)": {
