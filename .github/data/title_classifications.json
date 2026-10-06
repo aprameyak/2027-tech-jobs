@@ -9999,9 +9999,10 @@
     "v": ""
   },
   "vehicle systems lead": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "vendor strategy & performance lead, design & construction": {
@@ -66652,8 +66653,9 @@
   },
   "machine learning engineer intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "neuroengineer intern": {
