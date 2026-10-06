@@ -13,6 +13,24 @@ import requests
 import yaml
 from pathlib import Path
 
+# Global timeout for all requests (30s connection, 60s read)
+requests.adapters.DEFAULT_RETRIES = requests.packages.urllib3.util.retry.Retry(
+    total=2, backoff_factor=0.3, status_forcelist=[500, 502, 503, 504]
+)
+_session = requests.Session()
+_session.mount('http://', requests.adapters.HTTPAdapter(max_retries=requests.packages.urllib3.util.retry.Retry(
+    total=2, backoff_factor=0.3, status_forcelist=[500, 502, 503, 504]
+)))
+_session.mount('https://', requests.adapters.HTTPAdapter(max_retries=requests.packages.urllib3.util.retry.Retry(
+    total=2, backoff_factor=0.3, status_forcelist=[500, 502, 503, 504]
+)))
+_original_request = requests.request
+def _request_with_timeout(*args, **kwargs):
+    if 'timeout' not in kwargs:
+        kwargs['timeout'] = (30, 60)  # (connection timeout, read timeout)
+    return _session.request(*args, **kwargs)
+requests.request = _request_with_timeout
+
 import sys
 
 _SCRIPTS_DIR = Path(__file__).resolve().parent
