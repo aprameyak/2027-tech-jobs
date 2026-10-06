@@ -1,1 +1,64 @@
-[]
+[
+  {
+    "company": "SteerBridge",
+    "role": "Junior NLP Data Scientist",
+    "location": "Vienna, VA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.lever.co/steerbridge/16c834c5-5462-46dd-bd83-da94dc2f0101?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-06",
+    "grad_date": ""
+  },
+  {
+    "company": "Shield AI",
+    "role": "Software Development Engineer - New Graduate",
+    "location": "San Diego, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-06",
+    "grad_date": ""
+  },
+  {
+    "company": "Cook Group",
+    "role": "Intern, Applied AI & Full Stack Development",
+    "location": "Bloomington, IN",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://americas-cookmedical.icims.com/jobs/19550/intern%2c-applied-ai-%26-full-stack-development/job",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-06"
+  },
+  {
+    "company": "Bosch",
+    "role": "ETAS - Thesis Project Internship \u2013 Generative AI for Automotive Safety",
+    "location": "Remote (US)",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153799209",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-06"
+  },
+  {
+    "company": "PepsiCo",
+    "role": "R&D Forensics Intern 2027",
+    "location": "Remote (US)",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://globalcampus-pepsico.icims.com/jobs/478508/r%26d-forensics-intern-2027/job",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-06"
+  }
+]
