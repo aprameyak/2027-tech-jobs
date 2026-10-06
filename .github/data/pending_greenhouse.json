@@ -1,75 +1,15 @@
 [
   {
-    "company": "Atoms",
-    "role": "Machine Learning Engineer Intern",
-    "location": "San Francisco, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8869106002?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-10-05"
-  },
-  {
-    "company": "General Matter",
-    "role": "Summer 2027 Internship - Information Technology",
-    "location": "Los Angeles, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "Undergrad",
-    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5440483008?utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-10-05"
-  },
-  {
-    "company": "Anduril",
-    "role": "Winter 2027 Quality & Test Engineer Co-op",
-    "location": "Ashville, OH; Santa Ana, CA",
-    "type": "offcycle",
-    "season": "Co-op",
-    "education": "Undergrad",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007&utm_source=aprameyak",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-10-05"
-  },
-  {
-    "company": "Nuro",
-    "role": "New Grad Software Engineer, Routing",
-    "location": "Mountain View, California (HQ)",
+    "company": "Roku",
+    "role": "Software Engineer, Early Careers AI/UI",
+    "location": "San Jose, CA",
     "type": "newgrad",
     "season": "2027 (New Grad \u2014 no specific season)",
     "education": "Undergrad",
-    "url": "https://nuro.ai/careersitem?gh_jid=8248317",
+    "url": "https://www.weareroku.com/jobs/8188704?gh_jid=8188704",
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
-    "date_added": "2026-10-05",
+    "date_added": "2026-10-06",
     "grad_date": ""
-  },
-  {
-    "company": "Waymo",
-    "role": "2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
-    "location": "Mountain View, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "PhD",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257159",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-10-05"
-  },
-  {
-    "company": "Waymo",
-    "role": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
-    "location": "Mountain View, CA",
-    "type": "summer",
-    "season": "Summer 2027",
-    "education": "PhD",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205",
-    "sponsorship": "Unknown",
-    "citizenship": "Unknown",
-    "date_added": "2026-10-05"
   }
 ]

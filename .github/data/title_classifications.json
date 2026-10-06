@@ -50003,9 +50003,10 @@
     "b": "s"
   },
   "principal data scientist - safety": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "principal detection and response engineer": {
