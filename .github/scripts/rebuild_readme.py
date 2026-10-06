@@ -215,50 +215,50 @@ def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n
     )
     if toc_pattern.search(content):
         content = toc_pattern.sub(toc, content, count=1)
+        toc_updated = True
     else:
-        print('ERROR: Could not find TOC links to update in README.md', file=sys.stderr)
-        print(f'Pattern used: {toc_pattern.pattern}', file=sys.stderr)
-        print('First 500 chars of README:', file=sys.stderr)
-        print(content[:500], file=sys.stderr)
-        sys.exit(1)
+        print('WARN: Could not find legacy TOC pattern in README.md; keeping current structure', file=sys.stderr)
+        toc_updated = False
 
-    # Collapse leftover separators from prior table removals.
-    content = re.sub(r'(?:\n---\s*){2,}\n', '\n---\n', content)
-    content = re.sub(r'\n{3,}', '\n\n', content)
+    if toc_updated:
+        # Collapse leftover separators from prior table removals.
+        content = re.sub(r'(?:\n---\s*){2,}\n', '\n---\n', content)
+        content = re.sub(r'\n{3,}', '\n\n', content)
 
-    # README gets newest-N previews so GitHub can render the full page;
-    # standalone files keep every row.
-    tables = (
-        format_table_block(
-            'summer', summer_rows[:README_PREVIEW_ROWS], summer_n,
-            TOC_HREFS['summer'], preview=True,
+        # README gets newest-N previews so GitHub can render the full page;
+        # standalone files keep every row.
+        tables = (
+            format_table_block(
+                'summer', summer_rows[:README_PREVIEW_ROWS], summer_n,
+                TOC_HREFS['summer'], preview=True,
+            )
+            + '\n'
+            + format_table_block(
+                'offcycle', offcycle_rows[:README_PREVIEW_ROWS], offcycle_n,
+                TOC_HREFS['offcycle'], preview=True,
+            )
+            + '\n'
+            + format_table_block(
+                'newgrad', newgrad_rows[:README_PREVIEW_ROWS], newgrad_n,
+                TOC_HREFS['newgrad'], preview=True,
+            )
         )
-        + '\n'
-        + format_table_block(
-            'offcycle', offcycle_rows[:README_PREVIEW_ROWS], offcycle_n,
-            TOC_HREFS['offcycle'], preview=True,
-        )
-        + '\n'
-        + format_table_block(
-            'newgrad', newgrad_rows[:README_PREVIEW_ROWS], newgrad_n,
-            TOC_HREFS['newgrad'], preview=True,
-        )
-    )
 
-    # Insert tables after Legend, before Disclaimer (or License).
-    disclaimer = re.search(r'\n## Disclaimer\n', content)
-    license_h = re.search(r'\n## License\n', content)
-    if disclaimer:
-        insert_at = disclaimer.start()
-        content = content[:insert_at] + '\n' + tables + content[insert_at:]
-    elif license_h:
-        insert_at = license_h.start()
-        content = content[:insert_at] + '\n' + tables + content[insert_at:]
-    else:
-        content = content.rstrip() + '\n\n' + tables
+        # Insert tables after Legend, before Disclaimer (or License).
+        disclaimer = re.search(r'\n## Disclaimer\n', content)
+        license_h = re.search(r'\n## License\n', content)
+        if disclaimer:
+            insert_at = disclaimer.start()
+            content = content[:insert_at] + '\n' + tables + content[insert_at:]
+        elif license_h:
+            insert_at = license_h.start()
+            content = content[:insert_at] + '\n' + tables + content[insert_at:]
+        else:
+            content = content.rstrip() + '\n\n' + tables
 
-    content = re.sub(r'(?:\n---\s*){2,}\n', '\n---\n', content)
-    content = re.sub(r'\n{3,}', '\n\n', content)
+        content = re.sub(r'(?:\n---\s*){2,}\n', '\n---\n', content)
+        content = re.sub(r'\n{3,}', '\n\n', content)
+
     README_FILE.write_text(content, encoding='utf-8')
 
 
