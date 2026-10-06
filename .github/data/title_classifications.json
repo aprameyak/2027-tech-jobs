@@ -97457,5 +97457,18 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "retail vendor manager intern ita": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "senior software engineer, google cloud security command center": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
