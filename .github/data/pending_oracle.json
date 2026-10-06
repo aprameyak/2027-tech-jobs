@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "company": "Tradeweb",
+    "role": "Summer 2027 Data Management Internship",
+    "location": "New York, NY",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301946",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-06"
+  },
+  {
+    "company": "Vertiv",
+    "role": "Software Engineering Intern (Summer 2027)",
+    "location": "Delaware, OH",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-06"
+  }
+]
