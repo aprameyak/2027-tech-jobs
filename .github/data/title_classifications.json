@@ -1652,9 +1652,10 @@
     "b": "s"
   },
   "staff software engineer, marketplaces & intelligence data and ai": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff software engineer, unified data store": {
@@ -6875,9 +6876,10 @@
     "b": "s"
   },
   "senior product designer, mission autonomy": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior product designer, platform ": {
@@ -16902,9 +16904,10 @@
     "b": "s"
   },
   "principal data scientist": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "principal demand generation manager ": {
@@ -24740,9 +24743,10 @@
     "b": "s"
   },
   "staff software engineer, ai security": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff software engineer, android identity": {
@@ -26588,9 +26592,9 @@
     "a": 0
   },
   "senior machine learning engineer, recommendations": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
