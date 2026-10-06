@@ -216,7 +216,10 @@ def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n
     if toc_pattern.search(content):
         content = toc_pattern.sub(toc, content, count=1)
     else:
-        print('ERROR: Could not find TOC links to update in README.md')
+        print('ERROR: Could not find TOC links to update in README.md', file=sys.stderr)
+        print(f'Pattern used: {toc_pattern.pattern}', file=sys.stderr)
+        print('First 500 chars of README:', file=sys.stderr)
+        print(content[:500], file=sys.stderr)
         sys.exit(1)
 
     # Collapse leftover separators from prior table removals.
@@ -292,4 +295,10 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except Exception as e:
+        print(f'ERROR: {type(e).__name__}: {e}', file=sys.stderr)
+        import traceback
+        traceback.print_exc(file=sys.stderr)
+        sys.exit(1)
