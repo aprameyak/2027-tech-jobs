@@ -64207,8 +64207,8 @@
   },
   "software engineer intern": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "s"
   },
@@ -64951,9 +64951,11 @@
     "v": ""
   },
   "it strategy intern - remote": {
-    "t": false,
-    "c": "stale",
-    "v": ""
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   },
   "enterprise architecture it intern - remote": {
     "t": false,
@@ -78810,9 +78812,9 @@
   },
   "systems engineer intern": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "design engineer intern": {
