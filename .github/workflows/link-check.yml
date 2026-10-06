@@ -1,8 +1,6 @@
-name: Check Links
+name: Check Links (DISABLED - Manual only)
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
   workflow_dispatch:
 
 concurrency:
