@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-5398 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5399 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -12,6 +12,7 @@
 | ↳ | AI/ML PhD Intern (Summer 2027) | New York, NY | PhD | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8015269003?utm_source=aprameyak) | Oct 7 |
 | ↳ | Software Engineering Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003?utm_source=aprameyak) | Oct 7 |
 | ↳ | Software Engineering Intern (Summer 2027) | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003?utm_source=aprameyak) | Oct 7 |
+| Waymo | 2027 Summer Intern, MS/PhD,  Research, Perception Foundation Models | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8257801) | Oct 7 |
 | Amentum | Performance Engineering Intern | Houston, TX | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Performance-Engineering-Intern_R0172180-1?utm_source=aprameyak) | Oct 5 |
 | CACI | Network Engineer Intern - Summer 2027 | High Point, NC, US | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/High-Point-NC-US/Network-Engineer-Intern---Summer-2027_332843?utm_source=aprameyak) | Oct 5 |
 | ↳ | Software Development Intern - Summer 2027 | Oklahoma City, OK, US | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085?utm_source=aprameyak) | Oct 5 |
