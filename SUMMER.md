@@ -1,12 +1,21 @@
 # ☀️ Summer 2027 Internships
 
-5399 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5408 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Auto-Owners | Business Intelligence Engineering Intern - Summer 2027 | Lansing, MI | Undergrad | [Apply](https://aoins.wd5.myworkdayjobs.com/en-US/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662?utm_source=aprameyak) | Oct 7 |
+| GM Financial | Intern - Privacy | Fort Worth, TX | Undergrad | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261029) | Oct 7 |
+| GuideWell Mutual | IT Summer 2027 Undergraduate Internship | Jacksonville, FL | Undergrad | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42181) | Oct 7 |
+| ↳ | Summer 2027 IT Graduate Internship | Jacksonville, FL | Undergrad | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42182) | Oct 7 |
+| Intel | AI Solution Architect - Undergraduate Intern | Hillsboro, OR | Undergrad | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931?utm_source=aprameyak) | Oct 7 |
+| Jabil | Computer Systems Analyst Intern | St. Petersburg/Tampa, FL | Masters | [Apply](https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Computer-Systems-Analyst-Intern_J2464586-1?utm_source=aprameyak) | Oct 7 |
 | Juniper Networks | Technology Partnership Operations Intern | Sunnyvale, CA | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Technology-Partnership-Operations-Intern_1214979?utm_source=aprameyak) | Oct 7 |
+| Northrop Grumman | 2027 Software Developer Intern- Chantilly VA | United States-Virginia-Chantilly | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1?utm_source=aprameyak) | Oct 7 |
+| ↳ | 2027 Software Engineering Intern - Roy UT | United States-Utah-Roy | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852?utm_source=aprameyak) | Oct 7 |
+| PepsiCo | IT Summer Internship 2027 | Remote (US) | Undergrad | [Apply](https://globalcampus-pepsico.icims.com/jobs/471184/it-summer-internship-2027/job) | Oct 7 |
 | RTX | Application Portfolio Support Intern (Summer 2027) | FARMINGTON-0004 ~ 4 Farm Springs Rd ~ 4 FARM SPRINGS, CT | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-FARMINGTON-0004--4-Farm-Springs-Rd--4-FARM-SPRINGS/Application-Portfolio-Support-Intern--Summer-2027-_01879981?utm_source=aprameyak) | Oct 7 |
 | Sigma Computing | AI/ML PhD Intern (Summer 2027) | San Francisco, CA | PhD | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003?utm_source=aprameyak) | Oct 7 |
 | ↳ | AI/ML PhD Intern (Summer 2027) | New York, NY | PhD | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8015269003?utm_source=aprameyak) | Oct 7 |
