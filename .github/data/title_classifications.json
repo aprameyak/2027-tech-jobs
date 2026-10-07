@@ -4316,9 +4316,9 @@
     "a": 0
   },
   "mission operations product manager, group 5 mission autonomy": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -33427,8 +33427,9 @@
   },
   "enterprise ai development strategist": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "finance fellow - human frontier collective (uk)": {
@@ -34594,8 +34595,9 @@
   },
   "backend engineer, developer sdks": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "backend engineer, expansion": {
