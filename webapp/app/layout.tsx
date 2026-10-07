@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://aprameyak-jobs.vercel.app'),
   icons: {
     icon: '/favicon.svg',
   },
@@ -29,7 +30,6 @@ export const metadata: Metadata = {
     description:
       'Summer 2027 internships & new grad roles in SWE, PM, data, quant, and cyber. Updated hourly.',
   },
-  canonical: 'https://aprameyak-jobs.vercel.app',
 };
 
 export default function RootLayout({
