@@ -61116,9 +61116,10 @@
     "b": "s"
   },
   "senior frontend software engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "hardware design engineer technical lead": {
@@ -78620,8 +78621,8 @@
   },
   "software engineer (intern)": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "s"
   },
