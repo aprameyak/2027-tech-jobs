@@ -97484,5 +97484,11 @@
     "v": "cs-is-v4",
     "a": 1,
     "b": "s"
+  },
+  "senior software engineer, ai/ml, ads training": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
