@@ -1,11 +1,18 @@
 # 🎓 New Grad 2027
 
-2629 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2636 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| BDO Canada | DevOps Engineer - New Grad (January 2027) | Toronto - Bay St | Spring 2027 | Undergrad | [Apply](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Toronto---Bay-St/DevOps-Engineer---New-Grad--January-2027-_JR7192-1?utm_source=aprameyak) | Oct 7 |
+| Boeing | Greenfield Full Stack Developer | CAN - Richmond, Canada |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Greenfield-Full-Stack-Developer_JR2026526187-1?utm_source=aprameyak) | Oct 7 |
+| CACI | Entry Level C# Software Engineer | Virginia Beach, VA, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249?utm_source=aprameyak) | Oct 7 |
+| Ecolab | Junior Quality Control Software Developer | CAN - Alberta - Calgary |  | Undergrad | [Apply](https://ecolab.wd1.myworkdayjobs.com/en-US/ecolab_external/job/CAN---Alberta---Calgary/Junior-Quality-Control-Software-Developer_R00307033?utm_source=aprameyak) | Oct 7 |
+| Figma | Early Career, Associate Product Manager (2027) | San Francisco, CA | Spring 2027 | Undergrad | [Apply](https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004&utm_source=aprameyak) | Oct 7 |
+| General Dynamics | Engineer - Systems Entry Level | Stonington, CT |  | Masters | [Apply](https://careers-gdeb.icims.com/jobs/18029/engineer---systems-entry-level/job) | Oct 7 |
+| Northrop Grumman | 2027 - Associate Cyber Software Engineer - Cincinnati OH | United States-Ohio-Cincinnati | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Ohio-Cincinnati/XMLNAME-2027---Associate-Cyber-Software-Engineer---Cincinnati-OH_R10254990-1?utm_source=aprameyak) | Oct 7 |
 | NVIDIA | Systems Software Engineer,  AI and Cloud - New College Grad 2026 | US, CA, Santa Clara | Spring 2026 | Masters | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458?utm_source=aprameyak) | Oct 7 |
 | LSEG | Real-Time Software Engineer - Early Career | USA-St. Louis-795 Office Pkwy |  | Undergrad | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057?utm_source=aprameyak) | Oct 5 |
 | McKesson | Analyst, IT Vendor Management – New Grad Opportunity | CAN, ON, Mississauga |  | Undergrad | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Analyst--IT-Vendor-Management---New-Grad-Opportunity_JR0153988?utm_source=aprameyak) | Oct 5 |
