@@ -61494,9 +61494,10 @@
   },
   "cyber security analyst": {
     "t": true,
-    "c": "stale",
-    "v": "",
-    "b": "s"
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "n"
   },
   "formal verification engineer": {
     "t": true,
