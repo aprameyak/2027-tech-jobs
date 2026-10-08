@@ -67548,8 +67548,9 @@
   },
   "field engineering intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "intern, trading analytics 2027": {
