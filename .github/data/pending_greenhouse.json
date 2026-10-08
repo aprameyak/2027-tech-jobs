@@ -1,0 +1,38 @@
+[
+  {
+    "company": "DoorDash",
+    "role": "Software Engineer, Intern - Labs (Summer 2027)",
+    "location": "San Francisco, CA; Sunnyvale, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-08"
+  },
+  {
+    "company": "Gemini",
+    "role": "Product Design Intern (Winter 2027)",
+    "location": "New York, NY",
+    "type": "offcycle",
+    "season": "Winter 2027",
+    "education": "Undergrad",
+    "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&gh_jid=8240208&token=8240208&utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-08"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "AI Software Intern (Canada)",
+    "location": "Toronto, ON",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-08"
+  }
+]
