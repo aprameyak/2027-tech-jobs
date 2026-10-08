@@ -10841,9 +10841,10 @@
     "b": "s"
   },
   "manager of applied ai architecture, startups": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "manager, startup partnerships": {
@@ -38995,8 +38996,9 @@
   },
   "software engineer, new grad": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "n"
   },
   "software engineer, new grad - defense": {
@@ -66525,8 +66527,9 @@
   },
   "associate product manager, new grad": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "n"
   },
   "associate product manager, rosetta stone": {
@@ -72833,9 +72836,11 @@
     "v": ""
   },
   "sdet intern": {
-    "t": false,
-    "c": "stale",
-    "v": ""
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   },
   "engineering intern - summer 2027": {
     "t": true,
@@ -78728,8 +78733,8 @@
   },
   "research fellow": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
