@@ -25568,8 +25568,8 @@
   },
   "ai solutions architect": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -35942,8 +35942,9 @@
   },
   "solutions architect, ai": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "solutions architect, commercial, uk ": {
@@ -37305,9 +37306,9 @@
     "b": "s"
   },
   "engineering manager, atlas (spatial systems)": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
