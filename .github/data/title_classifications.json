@@ -97723,5 +97723,19 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "systems development engineer intern, canada 2027 ": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "systems development engineer intern, (us) 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   }
 }
