@@ -1,12 +1,14 @@
 # 🎓 New Grad 2027
 
-2644 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2647 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Campbell Soup Company | Automation Developer | USA - NJ - Camden |  | Undergrad | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Automation-Developer_Req-67271?utm_source=aprameyak) | Oct 8 |
 | Charles Schwab | Associate - Java Developer | Southlake, TX |  | Undergrad | [Apply](https://career-schwab.icims.com/jobs/126708/associate---java-developer/job) | Oct 8 |
+| Disney | Associate Marketing Data Scientist | Celebration, FL |  | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Associate-Marketing-Data-Scientist_10161936?utm_source=aprameyak) | Oct 8 |
 | IXL Learning | Associate Product Manager, New Grad | San Mateo, CA |  | Undergrad | [Apply](https://www.ixl.com/company/jobs?gh_jid=8862211002) | Oct 8 |
 | ↳ | Software Engineer, New Grad | San Mateo, CA |  | Undergrad | [Apply](https://www.ixl.com/company/jobs?gh_jid=8862043002) | Oct 8 |
 | ↳ | Software Engineer, New Grad | Raleigh, NC |  | Undergrad | [Apply](https://www.ixl.com/company/jobs?gh_jid=8862049002) | Oct 8 |
@@ -14,6 +16,7 @@
 | ↳ | Full-Stack Developer - Platform & Infrastructure | Toronto, ON |  | Undergrad | [Apply](https://jobs.ashbyhq.com/maintainx/e6a2c76e-4023-4c69-8808-b7e77cd8ab38/application?utm_source=aprameyak) | Oct 8 |
 | Northrop Grumman | 2027 Associate Digital Signal Processing Engineer - Cincinnati OH | United States-Ohio-Cincinnati | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Associate-Digital-Signal-Processing-Engineer---Cincinnati-OH_R10254967?utm_source=aprameyak) | Oct 8 |
 | RFCUNY | Graduate Research Assistant | New York, NY |  | Undergrad | [Apply](https://rfcuny.wd108.myworkdayjobs.com/en-US/RFCUNY/job/New-York-NY/Graduate-Research-Assistant_JR4846?utm_source=aprameyak) | Oct 8 |
+| Roblox | [2027] Senior Machine Learning Engineer - PhD Early Career | San Mateo, CA | Spring 2027 | PhD | [Apply](https://careers.roblox.com/jobs/8242623?gh_jid=8242623) | Oct 8 |
 | BDO Canada | DevOps Engineer - New Grad (January 2027) | Toronto - Bay St | Spring 2027 | Undergrad | [Apply](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Toronto---Bay-St/DevOps-Engineer---New-Grad--January-2027-_JR7192-1?utm_source=aprameyak) | Oct 7 |
 | Boeing | Greenfield Full Stack Developer | CAN - Richmond, Canada |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Greenfield-Full-Stack-Developer_JR2026526187-1?utm_source=aprameyak) | Oct 7 |
 | CACI | Entry Level C# Software Engineer | Virginia Beach, VA, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249?utm_source=aprameyak) | Oct 7 |
