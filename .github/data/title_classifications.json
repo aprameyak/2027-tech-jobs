@@ -3595,8 +3595,8 @@
   },
   "information systems security officer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -54814,9 +54814,9 @@
     "a": 0
   },
   "physical security specialist": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -64898,8 +64898,10 @@
   },
   "relationship manager business markets  intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "group consultant intern, rbc group advantage": {
     "t": true,
@@ -64933,9 +64935,11 @@
     "v": ""
   },
   "automation analyst intern": {
-    "t": false,
-    "c": "stale",
-    "v": ""
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   },
   "early careers specialist": {
     "t": false,
