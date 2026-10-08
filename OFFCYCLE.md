@@ -1,11 +1,12 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1558 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1559 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Gemini | Product Design Intern (Winter 2027) | New York, NY | Winter 2027 | Undergrad | [Apply](https://boards.greenhouse.io/embed/job_app?for=gemini&gh_jid=8240208&token=8240208&utm_source=aprameyak) | Oct 8 |
 | CIBC | Mainframe Support, Winter 2027 Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Mainframe-Support--Winter-2027-Co-op_2620572?utm_source=aprameyak) | Oct 7 |
 | ↳ | Investor’s Edge, UI Designer (Design System) Winter 2027 Co-Op (8-months) | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Investor-s-Edge--UI-Designer--Design-System--Winter-2027-Co-Op--8-months-_2620694?utm_source=aprameyak) | Oct 7 |
 | ↳ | Product Analyst Co-op, IE Product Development & Delivery – Winter 2027 | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Product-Analyst-Co-op--IE-Product-Development---Delivery---Winter-2027_2620681?utm_source=aprameyak) | Oct 7 |

@@ -1,11 +1,12 @@
 # 🎓 New Grad 2027
 
-2642 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2643 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Charles Schwab | Associate - Java Developer | Southlake, TX |  | Undergrad | [Apply](https://career-schwab.icims.com/jobs/126708/associate---java-developer/job) | Oct 8 |
 | IXL Learning | Associate Product Manager, New Grad | San Mateo, CA |  | Undergrad | [Apply](https://www.ixl.com/company/jobs?gh_jid=8862211002) | Oct 8 |
 | ↳ | Software Engineer, New Grad | San Mateo, CA |  | Undergrad | [Apply](https://www.ixl.com/company/jobs?gh_jid=8862043002) | Oct 8 |
 | ↳ | Software Engineer, New Grad | Raleigh, NC |  | Undergrad | [Apply](https://www.ixl.com/company/jobs?gh_jid=8862049002) | Oct 8 |
