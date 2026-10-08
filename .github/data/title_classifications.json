@@ -97527,5 +97527,19 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "data engineer internship - 2027 (us)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "business intelligence engineer internship - 2027 (us)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   }
 }
