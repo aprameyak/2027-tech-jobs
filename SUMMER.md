@@ -1,11 +1,26 @@
 # ☀️ Summer 2027 Internships
 
-5425 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5440 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Amazon | Data Engineer Internship - 2027 (US) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us) | Oct 8 |
+| ↳ | Business Intelligence Engineer Internship - 2027 (US) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) | Oct 8 |
+| Axos Bank | Product Intern | HQ - San Diego, CA | Undergrad | [Apply](https://axos.wd5.myworkdayjobs.com/en-US/Axos/job/HQ---San-Diego-CA/Product-Intern_JR5664?utm_source=aprameyak) | Oct 8 |
+| Epic Games | SDET Intern | Cary, NC | Undergrad | [Apply](https://epicgames.com/careers/jobs/6219626004?gh_jid=6219626004) | Oct 8 |
+| IXL Learning | Software Engineer, Intern | San Mateo, CA | Undergrad | [Apply](https://www.ixl.com/company/jobs?gh_jid=8862214002) | Oct 8 |
+| K2 Space | Platform Engineering Intern – Summer 2027 | Los Angeles | Undergrad | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447206008?utm_source=aprameyak) | Oct 8 |
+| KLA | Applications Development Engineering Intern - BBP | Milpitas, CA | Undergrad | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1?utm_source=aprameyak) | Oct 8 |
+| Motorola Solutions | GenAI & Machine Learning - 2027 Summer Internship (Chicago Hybrid) | Chicago, IL | Undergrad | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/GenAI---Machine-Learning---2027-Summer-Internship--Chicago-Hybrid-_R68929?utm_source=aprameyak) | Oct 8 |
+| The Aerospace Corporation | 2027 Network Systems Grad Intern | El Segundo, CA | Masters | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836?utm_source=aprameyak) | Oct 8 |
+| Veolia | Field Engineering Intern | Decatur, IL | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154209925) | Oct 8 |
+| ↳ | Field Engineering Intern | Lincoln, NE | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154209929) | Oct 8 |
+| ↳ | Field Engineering Intern | Calvert City, KY | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154209859) | Oct 8 |
+| ↳ | Field Engineering Intern | Marcus Hook, PA | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154208989) | Oct 8 |
+| ↳ | Field Engineering Intern | Mount Vernon, IN | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154207919) | Oct 8 |
+| World Vision | Digital Workplace Intern | Home Working, United States | Undergrad | [Apply](https://worldvision.wd1.myworkdayjobs.com/en-US/worldvisioninternational/job/Home-Working-United-States/Digital-Workplace-Intern_JR53154?utm_source=aprameyak) | Oct 8 |
 | Auto-Owners | Business Intelligence Engineering Intern - Summer 2027 | Lansing, MI | Undergrad | [Apply](https://aoins.wd5.myworkdayjobs.com/en-US/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662?utm_source=aprameyak) | Oct 7 |
 | Carnegie Mellon University | Malware Analysis Intern - Summer 2027 | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/Malware-Analysis-Intern---Summer-2027_2025185-1?utm_source=aprameyak) | Oct 7 |
 | ↳ | Malware Analysis Intern - Summer 2027 | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Malware-Analysis-Intern---Summer-2027_2025185?utm_source=aprameyak) | Oct 7 |
