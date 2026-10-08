@@ -1,12 +1,18 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1559 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1565 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Cox Enterprises | Data Scientist Co-op | Atlanta GA | Co-op | Undergrad | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Co-op_R202683033?utm_source=aprameyak) | Oct 8 |
+| Equifax | USIS Technology Rotational Development Program Employee | USA - Georgia - Alpharetta - 30005 | Co-op | Undergrad | [Apply](https://equifax.wd5.myworkdayjobs.com/en-US/UR_External/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Rotational-Development-Program-Employee_J00178469?utm_source=aprameyak) | Oct 8 |
+| Equitable Bank | Intern - Software Engineer, Winter 2027 | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3?utm_source=aprameyak) | Oct 8 |
 | Gemini | Product Design Intern (Winter 2027) | New York, NY | Winter 2027 | Undergrad | [Apply](https://boards.greenhouse.io/embed/job_app?for=gemini&gh_jid=8240208&token=8240208&utm_source=aprameyak) | Oct 8 |
+| Hitachi | Software Analyst Intern (Winter 2027, 8-12months) | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Winter-2027--8-12months-_R0145679?utm_source=aprameyak) | Oct 8 |
+| KeyBank | 2027 Key Technology & Services: Cyber/Information Security Track Rotational Analyst Program - Cleveland | Brooklyn, OH | Co-op | Undergrad | [Apply](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Key-Technology---Services--Cyber-Information-Security-Track-Rotational-Analyst-Program---Cleveland_R-41389-1?utm_source=aprameyak) | Oct 8 |
+| SoloPulse | Software Engineer Intern/Co-op - Spring 2027 | Peachtree Corners, GA | Co-op | Undergrad | [Apply](https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef?utm_source=aprameyak) | Oct 8 |
 | CIBC | Mainframe Support, Winter 2027 Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Mainframe-Support--Winter-2027-Co-op_2620572?utm_source=aprameyak) | Oct 7 |
 | ↳ | Investor’s Edge, UI Designer (Design System) Winter 2027 Co-Op (8-months) | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Investor-s-Edge--UI-Designer--Design-System--Winter-2027-Co-Op--8-months-_2620694?utm_source=aprameyak) | Oct 7 |
 | ↳ | Product Analyst Co-op, IE Product Development & Delivery – Winter 2027 | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Product-Analyst-Co-op--IE-Product-Development---Delivery---Winter-2027_2620681?utm_source=aprameyak) | Oct 7 |

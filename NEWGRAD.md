@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-2643 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2644 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -13,6 +13,7 @@
 | MaintainX | Full-Stack Developer - Core | Toronto, ON |  | Undergrad | [Apply](https://jobs.ashbyhq.com/maintainx/0e52923e-6546-4fc8-8c2f-7e6eb743902e/application?utm_source=aprameyak) | Oct 8 |
 | ↳ | Full-Stack Developer - Platform & Infrastructure | Toronto, ON |  | Undergrad | [Apply](https://jobs.ashbyhq.com/maintainx/e6a2c76e-4023-4c69-8808-b7e77cd8ab38/application?utm_source=aprameyak) | Oct 8 |
 | Northrop Grumman | 2027 Associate Digital Signal Processing Engineer - Cincinnati OH | United States-Ohio-Cincinnati | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Associate-Digital-Signal-Processing-Engineer---Cincinnati-OH_R10254967?utm_source=aprameyak) | Oct 8 |
+| RFCUNY | Graduate Research Assistant | New York, NY |  | Undergrad | [Apply](https://rfcuny.wd108.myworkdayjobs.com/en-US/RFCUNY/job/New-York-NY/Graduate-Research-Assistant_JR4846?utm_source=aprameyak) | Oct 8 |
 | BDO Canada | DevOps Engineer - New Grad (January 2027) | Toronto - Bay St | Spring 2027 | Undergrad | [Apply](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Toronto---Bay-St/DevOps-Engineer---New-Grad--January-2027-_JR7192-1?utm_source=aprameyak) | Oct 7 |
 | Boeing | Greenfield Full Stack Developer | CAN - Richmond, Canada |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Greenfield-Full-Stack-Developer_JR2026526187-1?utm_source=aprameyak) | Oct 7 |
 | CACI | Entry Level C# Software Engineer | Virginia Beach, VA, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249?utm_source=aprameyak) | Oct 7 |

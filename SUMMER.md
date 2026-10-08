@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-5452 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5463 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -13,13 +13,24 @@
 | ↳ | AI Engineer Intern | HQ - San Diego, CA | Undergrad | [Apply](https://axos.wd5.myworkdayjobs.com/en-US/Axos/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658?utm_source=aprameyak) | Oct 8 |
 | Dell Technologies | Data Science Undergraduate Intern | TX, United States | Undergrad | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299978) | Oct 8 |
 | DoorDash | Software Engineer, Intern - Labs (Summer 2027) | <details><summary>**2 locations**</summary>San Francisco, CA</br>Sunnyvale, CA</details> | Undergrad | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774?utm_source=aprameyak) | Oct 8 |
+| GenBio AI | Research Scientist Intern, AI Molecular Design | Palo Alto, CA | Undergrad | [Apply](https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604?utm_source=aprameyak) | Oct 8 |
+| General Dynamics Mission Systems | Intern Engineer (Cyber) | Manassas, VA | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75132/intern-engineer-%28cyber%29/job) | Oct 8 |
 | IXL Learning | Software Engineer, Intern | San Mateo, CA | Undergrad | [Apply](https://www.ixl.com/company/jobs?gh_jid=8862214002) | Oct 8 |
 | K2 Space | Platform Engineering Intern – Summer 2027 | Los Angeles | Undergrad | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447206008?utm_source=aprameyak) | Oct 8 |
 | KLA | Applications Development Engineering Intern - BBP | Milpitas, CA | Undergrad | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1?utm_source=aprameyak) | Oct 8 |
+| Leidos | Systems, Integration and Software Engineer Intern | Atlantic City, NJ | Undergrad | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152?utm_source=aprameyak) | Oct 8 |
+| Lowe's | Services Technology & Enablement – Undergraduate Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Undergrad | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Services-Technology---Enablement---Undergraduate-Internship---Summer-2027_JR-02672664?utm_source=aprameyak) | Oct 8 |
+| ↳ | Sales Tools & Technology Intern – Undergrad Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | Undergrad | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Sales-Tools---Technology-Intern---Undergrad-Internship---Summer-2027_JR-02672870-1?utm_source=aprameyak) | Oct 8 |
 | Motorola Solutions | GenAI & Machine Learning - 2027 Summer Internship (Chicago Hybrid) | Chicago, IL | Undergrad | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/GenAI---Machine-Learning---2027-Summer-Internship--Chicago-Hybrid-_R68929?utm_source=aprameyak) | Oct 8 |
 | ↳ | Software Engineer - Summer 2027 Internship | Westminster, CO | Undergrad | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997?utm_source=aprameyak) | Oct 8 |
+| Northrop Grumman | 2027-Systems Engineer Intern - McClellan CA | United States-California-McClellan | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163?utm_source=aprameyak) | Oct 8 |
+| ↳ | 2027 Software Engineer Intern – McClellan CA | United States-California-McClellan | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207?utm_source=aprameyak) | Oct 8 |
+| PepsiCo | IT intern 2027 | Remote (US) | Undergrad | [Apply](https://globalcampus-pepsico.icims.com/jobs/470669/it-intern-2027/job) | Oct 8 |
+| Peraton | IT Cybersecurity Intern - Fort Huachuca, AZ | Home, AZ | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/171602/it-cybersecurity-intern---fort-huachuca%2c-az/job) | Oct 8 |
+| Rockwell Automation | Intern, Customer Response Engineering | Mayfield Heights, OH | Undergrad | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Intern--Customer-Response-Engineering_R26-7270-1?utm_source=aprameyak) | Oct 8 |
 | Tenstorrent | AI Software Intern (Canada) | Toronto, ON | Undergrad | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007?utm_source=aprameyak) | Oct 8 |
 | The Aerospace Corporation | 2027 Network Systems Grad Intern | El Segundo, CA | Masters | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836?utm_source=aprameyak) | Oct 8 |
+| University of Virginia | Data & Analytics Assistant (Student Wage) | Charlottesville, VA | Undergrad | [Apply](https://uva.wd1.myworkdayjobs.com/en-US/uvastudentjobs/job/Charlottesville-VA/Data---Analytics-Assistant--Student-Wage-_R0085657-1?utm_source=aprameyak) | Oct 8 |
 | Veolia | Field Engineering Intern | Decatur, IL | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154209925) | Oct 8 |
 | ↳ | Field Engineering Intern | Lincoln, NE | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154209929) | Oct 8 |
 | ↳ | Field Engineering Intern | Calvert City, KY | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154209859) | Oct 8 |
