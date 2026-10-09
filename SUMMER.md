@@ -1,11 +1,19 @@
 # ☀️ Summer 2027 Internships
 
-5493 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5501 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Centific | AI Research Intern -  Physical AI | Remote Work( USA) | Undergrad | [Apply](https://centific.wd1.myworkdayjobs.com/en-US/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1?utm_source=aprameyak) | Oct 9 |
+| Ingredion | Reliability Engineering Intern | Winston-Salem, NC | Undergrad | [Apply](https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/Winston-Salem-NC/Reliability-Engineering-Intern_Req-40355-1?utm_source=aprameyak) | Oct 9 |
+| Manulife | Summer Intern 2027 - Product Management & Risk Technology | Toronto, ON | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875?utm_source=aprameyak) | Oct 9 |
+| NVIDIA | Research Intern, Spatial Intelligence - Summer 2027 | US, CA, Santa Clara | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305?utm_source=aprameyak) | Oct 9 |
+| Ovintiv | Student Engineer | Calgary, AB, CA | Undergrad | [Apply](https://ovintiv.wd3.myworkdayjobs.com/en-US/ovintivcareers/job/Calgary-AB-CA/Student-Engineer_R2604?utm_source=aprameyak) | Oct 9 |
+| RTX | Software Engineering Intern (Summer 2027) | ANNAPOLIS JUNCTION-339 ~ 306 Sentinel Dr ~ 339 BLDG, MD | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895?utm_source=aprameyak) | Oct 9 |
+| ↳ | Software Engineering Intern (Summer 2027) | FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A, IN | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090?utm_source=aprameyak) | Oct 9 |
+| Susquehanna International Group | Machine Learning Engineering Internship: Summer 2027 | Remote (US) | Undergrad | [Apply](https://careers-sig.icims.com/jobs/11620/machine-learning-engineering-internship%3a-summer-2027/job) | Oct 9 |
 | Amazon | Data Engineer Internship - 2027 (US) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us) | Oct 8 |
 | ↳ | Business Intelligence Engineer Internship - 2027 (US) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) | Oct 8 |
 | ↳ | Systems Development Engineer Intern, Canada 2027 | CA, BC, Vancouver | Masters | [Apply](https://www.amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027) | Oct 8 |
