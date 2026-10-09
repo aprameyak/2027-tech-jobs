@@ -39302,8 +39302,8 @@
   },
   "product manager - data platform": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -63973,8 +63973,10 @@
   },
   "relationship manager intern, business markets": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "relationship manager intern, business market": {
     "t": false,
@@ -64320,8 +64322,8 @@
   },
   "junior software engineer": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "n"
   },
@@ -71146,8 +71148,10 @@
   },
   "intern/ co-op winter 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "intern/ co-op summer 2027": {
     "t": false,
@@ -72027,8 +72031,10 @@
   },
   "federal tax services intern - winter 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "wealth operations intern / co-op (winter 2027)": {
     "t": false,
@@ -72630,8 +72636,10 @@
   },
   "catalyst internship": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "credit intern": {
     "t": false,
