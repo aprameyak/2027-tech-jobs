@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1570 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1577 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -8,6 +8,13 @@
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
 | Bosch | Product Management Co-op- Spring 2027 | Fountain Inn, SC | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154671460) | Oct 9 |
 | Johnson & Johnson | Strategic Insight and Analytics Co-Op Off-Cycle (March - August) | Horsham, PA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640?utm_source=aprameyak) | Oct 9 |
+| ↳ | TDS Proteins API USP Co-Op | Malvern, PA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-API-USP-Co-Op_R-104181?utm_source=aprameyak) | Oct 9 |
+| ↳ | TDS Digital Ops & Strat Co-Op | Malvern, PA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Digital-Ops---Strat-Co-Op_R-098540?utm_source=aprameyak) | Oct 9 |
+| Later | Data & Analytics Co-op | Boston, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/later/jobs/8880737002?utm_source=aprameyak) | Oct 9 |
+| NBCUniversal | Feature Modeling Intern, DreamWorks Animation, Spring 2027 | Glendale, CA | Spring 2027 | Undergrad | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000154731334) | Oct 9 |
+| Stantec | Scientific Research & Experimental Development (SR&ED) Intern - Winter 2027 - 6 Months | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008154) | Oct 9 |
+| Symbotic | Co-Op- System Engineer | USA Palestine, TX | Co-op | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Palestine-TX/Co-Op--System-Engineer_R8211?utm_source=aprameyak) | Oct 9 |
+| ↳ | Co-Op- System Engineer | USA Melrose Park, IL | Co-op | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Melrose-Park-IL/Co-Op--System-Engineer_R8215?utm_source=aprameyak) | Oct 9 |
 | Cox Enterprises | Data Scientist Co-op | Atlanta GA | Co-op | Undergrad | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Co-op_R202683033?utm_source=aprameyak) | Oct 8 |
 | Equifax | USIS Technology Rotational Development Program Employee | USA - Georgia - Alpharetta - 30005 | Co-op | Undergrad | [Apply](https://equifax.wd5.myworkdayjobs.com/en-US/UR_External/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Rotational-Development-Program-Employee_J00178469?utm_source=aprameyak) | Oct 8 |
 | Equitable Bank | Intern - Software Engineer, Winter 2027 | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3?utm_source=aprameyak) | Oct 8 |

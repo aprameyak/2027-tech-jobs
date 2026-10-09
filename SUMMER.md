@@ -1,33 +1,48 @@
 # ☀️ Summer 2027 Internships
 
-5515 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5530 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | Accenture Federal Services | Junior Automation Test Engineer | Arlington, VA | Undergrad | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4720595006?gh_jid=4720595006&utm_source=aprameyak) | Oct 9 |
+| Alcon | Clinical Data Science Intern | Fort Worth, TX | Undergrad | [Apply](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Fort-Worth-Texas/Clinical-Data-Science-Intern_R-2026-50204?utm_source=aprameyak) | Oct 9 |
 | Aptiv | Intern - Compiler Team | USA Walnut Creek, CA - WR | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385?utm_source=aprameyak) | Oct 9 |
 | ↳ | Linux Software Development Intern | USA Home Office - WR | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398?utm_source=aprameyak) | Oct 9 |
 | ↳ | Linux Software Development Intern | USA Home Office - WR | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399?utm_source=aprameyak) | Oct 9 |
 | ↳ | Summer Intern - Oregon State University | USA San Diego, CA - WR | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-San-Diego-CA---WR/Summer-Intern---Oregon-State-University_J000705238?utm_source=aprameyak) | Oct 9 |
 | Barry-Wehmiller | Software Engineering Intern - DAL | Dallas, TX | Undergrad | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWConfidential/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133?utm_source=aprameyak) | Oct 9 |
+| Bosch | Artificial Intelligence / Machine Learning: Foundation Models - Intern | Sunnyvale, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154759734) | Oct 9 |
+| ↳ | Information Security and Privacy Intern | Farmington Hills, MI | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154757409) | Oct 9 |
 | Carnegie Mellon University | AI Security Research Intern – Summer 2027 | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199-1?utm_source=aprameyak) | Oct 9 |
 | ↳ | AI Security Software Engineer Intern – Summer 2027 | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200-1?utm_source=aprameyak) | Oct 9 |
 | ↳ | AI Security Research Intern – Summer 2027 | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199?utm_source=aprameyak) | Oct 9 |
 | ↳ | AI Security Software Engineer Intern – Summer 2027 | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200?utm_source=aprameyak) | Oct 9 |
 | Centific | AI Research Intern -  Physical AI | Remote Work( USA) | Undergrad | [Apply](https://centific.wd1.myworkdayjobs.com/en-US/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1?utm_source=aprameyak) | Oct 9 |
+| ↳ | Technical Intern (Masters or PhD) | Remote Work( USA) | PhD | [Apply](https://centific.wd1.myworkdayjobs.com/en-US/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR108346-1?utm_source=aprameyak) | Oct 9 |
+| Coinbase | Forward Deployed Engineer Intern (HR Technology) | Hybrid - New York, NY | Undergrad | [Apply](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) | Oct 9 |
+| Eight Sleep | Security & IT Intern | Remote (US) | Undergrad | [Apply](https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550/application?utm_source=aprameyak) | Oct 9 |
 | Enterprise | Intern - Software Analyst (EFM IT), Summer 2027 | St. Louis, MO | Undergrad | [Apply](https://us-erac.icims.com/jobs/569085/intern---software-analyst-%28efm-it%29%2c-summer-2027/job) | Oct 9 |
+| Faire | Applied AI/ML Scientist, Intern | San Francisco, CA | Undergrad | [Apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002&utm_source=aprameyak) | Oct 9 |
 | General Motors | 2027 Summer Intern,  Data Scaling, Embodied AI | Sunnyvale, CA | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132?utm_source=aprameyak) | Oct 9 |
+| ↳ | 2027 Summer Intern, SEAM, Embodied AI | Sunnyvale, CA | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143?utm_source=aprameyak) | Oct 9 |
+| ↳ | 2027 Summer Intern, Onboard Autonomy, Embodied AI | Sunnyvale, CA | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135?utm_source=aprameyak) | Oct 9 |
+| ↳ | 2027 Summer Intern, AI Research, Embodied AI | Sunnyvale, CA | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146?utm_source=aprameyak) | Oct 9 |
 | Ingredion | Reliability Engineering Intern | Winston-Salem, NC | Undergrad | [Apply](https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/Winston-Salem-NC/Reliability-Engineering-Intern_Req-40355-1?utm_source=aprameyak) | Oct 9 |
 | Juniper Networks | Wireless Networking Intern | San Jose, CA | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969?utm_source=aprameyak) | Oct 9 |
+| Loram | Machine Learning / Artificial Intelligence (AI) Intern | Hamel, MN | Undergrad | [Apply](https://jobs.smartrecruiters.com/Loram1/3743990016031492) | Oct 9 |
 | Manulife | Summer Intern 2027 - Product Management & Risk Technology | Toronto, ON | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875?utm_source=aprameyak) | Oct 9 |
+| Monolithic Power Systems | Applications Engineer Intern | San Jose, CA | Undergrad | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Applications-Engineer-Intern_R-2030?utm_source=aprameyak) | Oct 9 |
 | NVIDIA | Research Intern, Spatial Intelligence - Summer 2027 | US, CA, Santa Clara | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305?utm_source=aprameyak) | Oct 9 |
 | Ovintiv | Student Engineer | Calgary, AB, CA | Undergrad | [Apply](https://ovintiv.wd3.myworkdayjobs.com/en-US/ovintivcareers/job/Calgary-AB-CA/Student-Engineer_R2604?utm_source=aprameyak) | Oct 9 |
 | RTX | Software Engineering Intern (Summer 2027) | ANNAPOLIS JUNCTION-339 ~ 306 Sentinel Dr ~ 339 BLDG, MD | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895?utm_source=aprameyak) | Oct 9 |
 | ↳ | Software Engineering Intern (Summer 2027) | FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A, IN | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090?utm_source=aprameyak) | Oct 9 |
+| Stantec | Technology Intern - ICT (Summer 2027) | Chicago, IL | Undergrad | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008253) | Oct 9 |
 | Susquehanna International Group | Machine Learning Engineering Internship: Summer 2027 | Remote (US) | Undergrad | [Apply](https://careers-sig.icims.com/jobs/11620/machine-learning-engineering-internship%3a-summer-2027/job) | Oct 9 |
 | Texas Instruments | Software Engineering Intern (Longmont, CO) | Longmont, CO | Undergrad | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25012948) | Oct 9 |
+| The Federal Reserve System | 2027 Intern - System IT (S&R and Statistics) | Dallas, TX | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---System-IT--S-R-and-Statistics-_R-0000033623?utm_source=aprameyak) | Oct 9 |
+| Vertiv | Energy Storage Product Management Intern (Summer 2027) | Delaware, OH | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379) | Oct 9 |
 | Amazon | Data Engineer Internship - 2027 (US) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us) | Oct 8 |
 | ↳ | Business Intelligence Engineer Internship - 2027 (US) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) | Oct 8 |
 | ↳ | Systems Development Engineer Intern, Canada 2027 | CA, BC, Vancouver | Masters | [Apply](https://www.amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027) | Oct 8 |

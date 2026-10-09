@@ -1,14 +1,18 @@
 # 🎓 New Grad 2027
 
-2650 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2654 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | BDO Canada | DevOps Engineer - New Grad (January 2027) | Toronto - Bay St | Spring 2027 | Undergrad | [Apply](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Toronto---Bay-St/DevOps-Engineer---New-Grad--January-2027-_JR7194?utm_source=aprameyak) | Oct 9 |
+| CACI | Junior Software Engineer | Sarasota, FL, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Sarasota-FL-US/Junior-Software-Engineer_333295?utm_source=aprameyak) | Oct 9 |
+| Cboe Global Markets | Associate Software Engineer, Web | Kansas City, MO |  | Undergrad | [Apply](https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Kansas-City-MO/Associate-Software-Engineer--Web_R-4582-2?utm_source=aprameyak) | Oct 9 |
 | Freedom Technology Solutions Group | Junior Software Engineer 780 | Annapolis Junction, MD |  | Undergrad | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5248064007?utm_source=aprameyak) | Oct 9 |
 | Sierra | Strategist, Agent Development (MBA Grad 2027) | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/sierra/6c3fa1ef-5eea-4afc-967e-2d3bb920ad96/application?utm_source=aprameyak) | Oct 9 |
+| T. Rowe Price | Associate Software Engineer | Owings Mills, MD |  | Undergrad | [Apply](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/Associate-Software-Engineer_83767-1?utm_source=aprameyak) | Oct 9 |
+| Xcel Energy | Associate Data Scientist | Denver, CO, 80223 |  | Undergrad | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/en-US/External/job/Denver-CO-80223/Associate-Data-Scientist_JR116914-2?utm_source=aprameyak) | Oct 9 |
 | Campbell Soup Company | Automation Developer | USA - NJ - Camden |  | Undergrad | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Automation-Developer_Req-67271?utm_source=aprameyak) | Oct 8 |
 | Disney | Associate Marketing Data Scientist | Celebration, FL |  | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Associate-Marketing-Data-Scientist_10161936?utm_source=aprameyak) | Oct 8 |
 | IXL Learning | Associate Product Manager, New Grad | San Mateo, CA |  | Undergrad | [Apply](https://www.ixl.com/company/jobs?gh_jid=8862211002) | Oct 8 |
