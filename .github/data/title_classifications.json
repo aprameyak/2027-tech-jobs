@@ -97840,5 +97840,24 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "operations internship - m\u00e1laga - start 2027": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "senior software engineer, generative ai, google research": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior software engineer, multimodal search quality": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
