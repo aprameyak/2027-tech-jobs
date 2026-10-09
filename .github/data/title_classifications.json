@@ -70808,9 +70808,10 @@
   },
   "underwriting internship - summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "life/health underwriting intern - summer 2027": {
     "t": false,
