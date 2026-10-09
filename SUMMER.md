@@ -1,16 +1,24 @@
 # ☀️ Summer 2027 Internships
 
-5506 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5515 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Accenture Federal Services | Junior Automation Test Engineer | Arlington, VA | Undergrad | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4720595006?gh_jid=4720595006&utm_source=aprameyak) | Oct 9 |
 | Aptiv | Intern - Compiler Team | USA Walnut Creek, CA - WR | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385?utm_source=aprameyak) | Oct 9 |
 | ↳ | Linux Software Development Intern | USA Home Office - WR | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398?utm_source=aprameyak) | Oct 9 |
 | ↳ | Linux Software Development Intern | USA Home Office - WR | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399?utm_source=aprameyak) | Oct 9 |
 | ↳ | Summer Intern - Oregon State University | USA San Diego, CA - WR | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-San-Diego-CA---WR/Summer-Intern---Oregon-State-University_J000705238?utm_source=aprameyak) | Oct 9 |
+| Barry-Wehmiller | Software Engineering Intern - DAL | Dallas, TX | Undergrad | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWConfidential/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133?utm_source=aprameyak) | Oct 9 |
+| Carnegie Mellon University | AI Security Research Intern – Summer 2027 | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199-1?utm_source=aprameyak) | Oct 9 |
+| ↳ | AI Security Software Engineer Intern – Summer 2027 | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200-1?utm_source=aprameyak) | Oct 9 |
+| ↳ | AI Security Research Intern – Summer 2027 | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199?utm_source=aprameyak) | Oct 9 |
+| ↳ | AI Security Software Engineer Intern – Summer 2027 | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200?utm_source=aprameyak) | Oct 9 |
 | Centific | AI Research Intern -  Physical AI | Remote Work( USA) | Undergrad | [Apply](https://centific.wd1.myworkdayjobs.com/en-US/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1?utm_source=aprameyak) | Oct 9 |
+| Enterprise | Intern - Software Analyst (EFM IT), Summer 2027 | St. Louis, MO | Undergrad | [Apply](https://us-erac.icims.com/jobs/569085/intern---software-analyst-%28efm-it%29%2c-summer-2027/job) | Oct 9 |
+| General Motors | 2027 Summer Intern,  Data Scaling, Embodied AI | Sunnyvale, CA | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132?utm_source=aprameyak) | Oct 9 |
 | Ingredion | Reliability Engineering Intern | Winston-Salem, NC | Undergrad | [Apply](https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/Winston-Salem-NC/Reliability-Engineering-Intern_Req-40355-1?utm_source=aprameyak) | Oct 9 |
 | Juniper Networks | Wireless Networking Intern | San Jose, CA | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969?utm_source=aprameyak) | Oct 9 |
 | Manulife | Summer Intern 2027 - Product Management & Risk Technology | Toronto, ON | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875?utm_source=aprameyak) | Oct 9 |
@@ -19,6 +27,7 @@
 | RTX | Software Engineering Intern (Summer 2027) | ANNAPOLIS JUNCTION-339 ~ 306 Sentinel Dr ~ 339 BLDG, MD | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895?utm_source=aprameyak) | Oct 9 |
 | ↳ | Software Engineering Intern (Summer 2027) | FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A, IN | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090?utm_source=aprameyak) | Oct 9 |
 | Susquehanna International Group | Machine Learning Engineering Internship: Summer 2027 | Remote (US) | Undergrad | [Apply](https://careers-sig.icims.com/jobs/11620/machine-learning-engineering-internship%3a-summer-2027/job) | Oct 9 |
+| Texas Instruments | Software Engineering Intern (Longmont, CO) | Longmont, CO | Undergrad | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25012948) | Oct 9 |
 | Amazon | Data Engineer Internship - 2027 (US) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us) | Oct 8 |
 | ↳ | Business Intelligence Engineer Internship - 2027 (US) | US, WA, Seattle | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) | Oct 8 |
 | ↳ | Systems Development Engineer Intern, Canada 2027 | CA, BC, Vancouver | Masters | [Apply](https://www.amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027) | Oct 8 |

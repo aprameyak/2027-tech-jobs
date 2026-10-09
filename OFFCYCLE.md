@@ -1,11 +1,13 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1568 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1570 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Bosch | Product Management Co-op- Spring 2027 | Fountain Inn, SC | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154671460) | Oct 9 |
+| Johnson & Johnson | Strategic Insight and Analytics Co-Op Off-Cycle (March - August) | Horsham, PA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640?utm_source=aprameyak) | Oct 9 |
 | Cox Enterprises | Data Scientist Co-op | Atlanta GA | Co-op | Undergrad | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Co-op_R202683033?utm_source=aprameyak) | Oct 8 |
 | Equifax | USIS Technology Rotational Development Program Employee | USA - Georgia - Alpharetta - 30005 | Co-op | Undergrad | [Apply](https://equifax.wd5.myworkdayjobs.com/en-US/UR_External/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Rotational-Development-Program-Employee_J00178469?utm_source=aprameyak) | Oct 8 |
 | Equitable Bank | Intern - Software Engineer, Winter 2027 | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3?utm_source=aprameyak) | Oct 8 |
