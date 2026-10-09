@@ -1,11 +1,12 @@
 # 🎓 New Grad 2027
 
-2648 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2649 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| BDO Canada | DevOps Engineer - New Grad (January 2027) | Toronto - Bay St | Spring 2027 | Undergrad | [Apply](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Toronto---Bay-St/DevOps-Engineer---New-Grad--January-2027-_JR7194?utm_source=aprameyak) | Oct 9 |
 | Sierra | Strategist, Agent Development (MBA Grad 2027) | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/sierra/6c3fa1ef-5eea-4afc-967e-2d3bb920ad96/application?utm_source=aprameyak) | Oct 9 |
 | Campbell Soup Company | Automation Developer | USA - NJ - Camden |  | Undergrad | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Automation-Developer_Req-67271?utm_source=aprameyak) | Oct 8 |
 | Disney | Associate Marketing Data Scientist | Celebration, FL |  | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Associate-Marketing-Data-Scientist_10161936?utm_source=aprameyak) | Oct 8 |

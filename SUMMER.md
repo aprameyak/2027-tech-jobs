@@ -1,13 +1,18 @@
 # ☀️ Summer 2027 Internships
 
-5501 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5506 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Aptiv | Intern - Compiler Team | USA Walnut Creek, CA - WR | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385?utm_source=aprameyak) | Oct 9 |
+| ↳ | Linux Software Development Intern | USA Home Office - WR | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398?utm_source=aprameyak) | Oct 9 |
+| ↳ | Linux Software Development Intern | USA Home Office - WR | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399?utm_source=aprameyak) | Oct 9 |
+| ↳ | Summer Intern - Oregon State University | USA San Diego, CA - WR | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-San-Diego-CA---WR/Summer-Intern---Oregon-State-University_J000705238?utm_source=aprameyak) | Oct 9 |
 | Centific | AI Research Intern -  Physical AI | Remote Work( USA) | Undergrad | [Apply](https://centific.wd1.myworkdayjobs.com/en-US/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1?utm_source=aprameyak) | Oct 9 |
 | Ingredion | Reliability Engineering Intern | Winston-Salem, NC | Undergrad | [Apply](https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/Winston-Salem-NC/Reliability-Engineering-Intern_Req-40355-1?utm_source=aprameyak) | Oct 9 |
+| Juniper Networks | Wireless Networking Intern | San Jose, CA | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969?utm_source=aprameyak) | Oct 9 |
 | Manulife | Summer Intern 2027 - Product Management & Risk Technology | Toronto, ON | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875?utm_source=aprameyak) | Oct 9 |
 | NVIDIA | Research Intern, Spatial Intelligence - Summer 2027 | US, CA, Santa Clara | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305?utm_source=aprameyak) | Oct 9 |
 | Ovintiv | Student Engineer | Calgary, AB, CA | Undergrad | [Apply](https://ovintiv.wd3.myworkdayjobs.com/en-US/ovintivcareers/job/Calgary-AB-CA/Student-Engineer_R2604?utm_source=aprameyak) | Oct 9 |
