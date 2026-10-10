@@ -16991,9 +16991,9 @@
     "v": ""
   },
   "senior applied ai engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -19880,9 +19880,9 @@
     "b": "s"
   },
   "senior applied scientist": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -97986,5 +97986,107 @@
     "v": "cs-is-v4",
     "a": 0,
     "b": "s"
+  },
+  "software engineer, api agents": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, pixels to parts": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "senior / staff software engineer, internal tools": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, internal tools": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "computer vision & robotics intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "senior mission integration engineer - sv design": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "mission integration engineer - sv design": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "mission integration engineer - payload i&t": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior mission integration engineer - payload i&t": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff mission integration engineer - sv design": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "founding engineer, computer vision & robotics": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior/staff software engineer, platform": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "founding applied ai engineer": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "member of technical staff, agents": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "network analyst": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "o"
+  },
+  "flight software verification manager": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
