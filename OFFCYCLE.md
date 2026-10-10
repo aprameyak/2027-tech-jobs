@@ -1,11 +1,12 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1581 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1582 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Advanced Space | 2027 Technical Growth and Capture Intern/Co-op | Westminster, CO | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4444656009?utm_source=aprameyak) | Oct 10 |
 | Johnson & Johnson | TDS Lab Automation Co-Op | Malvern, PA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Lab-Automation-Co-Op_R-098640?utm_source=aprameyak) | Oct 10 |
 | ↳ | TDS CGT-Digital Automation Co-Op | Malvern, PA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-CGT-Digital-Automation-Co-Op_R-098537?utm_source=aprameyak) | Oct 10 |
 | TransMarket Group | Junior Data Center/Desktop Engineer | Chicago, IL | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5262802007?gh_jid=5262802007&utm_source=aprameyak) | Oct 10 |
