@@ -1,11 +1,13 @@
 # 🎓 New Grad 2027
 
-2654 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2656 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Morgan Stanley | MSIM Tactical Value, Acquisitions Associate (2027 Program) | New York, NY |  | Undergrad | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/MSIM-Tactical-Value--Acquisitions-Associate--2027-Program-_JR043156?utm_source=aprameyak) | Oct 10 |
+| NVIDIA | C++ Software Engineer, Infrastructure Tools - New College Grad 2027 | US, CA, Santa Clara | Spring 2027 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431?utm_source=aprameyak) | Oct 10 |
 | BDO Canada | DevOps Engineer - New Grad (January 2027) | Toronto - Bay St | Spring 2027 | Undergrad | [Apply](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Toronto---Bay-St/DevOps-Engineer---New-Grad--January-2027-_JR7194?utm_source=aprameyak) | Oct 9 |
 | CACI | Junior Software Engineer | Sarasota, FL, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Sarasota-FL-US/Junior-Software-Engineer_333295?utm_source=aprameyak) | Oct 9 |
 | Cboe Global Markets | Associate Software Engineer, Web | Kansas City, MO |  | Undergrad | [Apply](https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Kansas-City-MO/Associate-Software-Engineer--Web_R-4582-2?utm_source=aprameyak) | Oct 9 |
