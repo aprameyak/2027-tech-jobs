@@ -97962,5 +97962,26 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "risk specialist intern \u2013 summer 2027": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "program manager intern \u2013 summer 2027": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "operations finance (ofrp) intern - summer 2027, amazon finance rotational program (afrp)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   }
 }
