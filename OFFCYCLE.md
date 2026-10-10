@@ -1,11 +1,15 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1577 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1581 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Johnson & Johnson | TDS Lab Automation Co-Op | Malvern, PA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Lab-Automation-Co-Op_R-098640?utm_source=aprameyak) | Oct 10 |
+| ↳ | TDS CGT-Digital Automation Co-Op | Malvern, PA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-CGT-Digital-Automation-Co-Op_R-098537?utm_source=aprameyak) | Oct 10 |
+| TransMarket Group | Junior Data Center/Desktop Engineer | Chicago, IL | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5262802007?gh_jid=5262802007&utm_source=aprameyak) | Oct 10 |
+| Truist | TD&O Program Enablement Specialist  - Early Talent | Charlotte, NC | Co-op | Undergrad | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/TD-O-Program-Enablement-Specialist----Early-Talent_R0118795?utm_source=aprameyak) | Oct 10 |
 | Bosch | Product Management Co-op- Spring 2027 | Fountain Inn, SC | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154671460) | Oct 9 |
 | Johnson & Johnson | Strategic Insight and Analytics Co-Op Off-Cycle (March - August) | Horsham, PA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640?utm_source=aprameyak) | Oct 9 |
 | ↳ | TDS Proteins API USP Co-Op | Malvern, PA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-API-USP-Co-Op_R-104181?utm_source=aprameyak) | Oct 9 |
