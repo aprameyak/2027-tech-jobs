@@ -71129,8 +71129,10 @@
   },
   "assurance intern - winter 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "business tax services associate - fall 2027": {
     "t": false,
@@ -71144,8 +71146,9 @@
   },
   "federal tax services associate - fall 2026/winter 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   },
   "intern/ co-op winter 2027": {
     "t": false,
@@ -71991,8 +71994,10 @@
   },
   "accounting methods and periods tax intern - summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "federal credits and incentives tax intern - summer 2027": {
     "t": false,
@@ -72006,8 +72011,10 @@
   },
   "state and local tax - income franchise intern - summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "state and local tax - sales and use intern - summer 2027": {
     "t": false,
