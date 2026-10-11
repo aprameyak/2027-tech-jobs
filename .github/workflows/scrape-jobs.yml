@@ -258,8 +258,8 @@ jobs:
         run: python .github/scripts/apply_pending.py
       - name: Commit listings and README
         run: |
-          git config user.name "Aprameya Kannan"
-          git config user.email "aprameyakannan@gmail.com"
+          git config user.name "baldmeya"
+          git config user.email "akannna8@umd.edu"
           git add listings.json README.md SUMMER.md OFFCYCLE.md NEWGRAD.md .github/data/ || true
           if ! git diff --staged --quiet; then
             git commit -m "add auto-discovered listings and update scraper data"
