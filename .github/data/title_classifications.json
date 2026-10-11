@@ -98253,5 +98253,23 @@
     "v": "cs-is-v4",
     "a": 0,
     "b": "s"
+  },
+  "platform bioinformatician": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior technical program manager - ml/ai": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer \u2013 engineering systems, continuous integration team": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
