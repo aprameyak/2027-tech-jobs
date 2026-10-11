@@ -37,8 +37,8 @@ jobs:
         run: python .github/scripts/scrape_jobs.py
       - name: Commit data files
         run: |
-          git config user.name "Aprameya Kannan"
-          git config user.email "aprameyakannan@gmail.com"
+          git config user.name "baldmeya"
+          git config user.email "akannna8@umd.edu"
           for f in \
             .github/data/seen_jobs_greenhouse.json \
             .github/data/title_classifications.json \
@@ -75,8 +75,8 @@ jobs:
         run: python .github/scripts/scrape_jobs.py
       - name: Commit data files
         run: |
-          git config user.name "Aprameya Kannan"
-          git config user.email "aprameyakannan@gmail.com"
+          git config user.name "baldmeya"
+          git config user.email "akannna8@umd.edu"
           for f in \
             .github/data/seen_jobs_ashby.json \
             .github/data/title_classifications.json \
@@ -112,8 +112,8 @@ jobs:
         run: python .github/scripts/scrape_jobs.py
       - name: Commit data files
         run: |
-          git config user.name "Aprameya Kannan"
-          git config user.email "aprameyakannan@gmail.com"
+          git config user.name "baldmeya"
+          git config user.email "akannna8@umd.edu"
           for f in \
             .github/data/seen_jobs_workday.json \
             .github/data/title_classifications.json \
@@ -150,8 +150,8 @@ jobs:
         run: python .github/scripts/scrape_jobs.py
       - name: Commit data files
         run: |
-          git config user.name "Aprameya Kannan"
-          git config user.email "aprameyakannan@gmail.com"
+          git config user.name "baldmeya"
+          git config user.email "akannna8@umd.edu"
           for f in \
             .github/data/seen_jobs_linkedin_amazon.json \
             .github/data/title_classifications.json \
@@ -187,8 +187,8 @@ jobs:
         run: python .github/scripts/scrape_jobs.py
       - name: Commit data files
         run: |
-          git config user.name "Aprameya Kannan"
-          git config user.email "aprameyakannan@gmail.com"
+          git config user.name "baldmeya"
+          git config user.email "akannna8@umd.edu"
           for f in \
             .github/data/seen_jobs_oracle.json \
             .github/data/title_classifications.json \
@@ -224,8 +224,8 @@ jobs:
         run: python .github/scripts/scrape_jobs.py
       - name: Commit data files
         run: |
-          git config user.name "Aprameya Kannan"
-          git config user.email "aprameyakannan@gmail.com"
+          git config user.name "baldmeya"
+          git config user.email "akannna8@umd.edu"
           for f in \
             .github/data/seen_jobs_other.json \
             .github/data/title_classifications.json \

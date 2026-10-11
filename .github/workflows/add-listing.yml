@@ -41,8 +41,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config user.name "Aprameya Kannan"
-          git config user.email "aprameyakannan@gmail.com"
+          git config user.name "baldmeya"
+          git config user.email "akannna8@umd.edu"
           git add README.md SUMMER.md OFFCYCLE.md NEWGRAD.md listings.json
           if ! git diff --staged --quiet; then
             git commit -m "add approved listings"
