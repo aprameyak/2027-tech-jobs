@@ -24,7 +24,6 @@
 | ↳ | Full-Stack Developer - Platform & Infrastructure | Toronto, ON |  | Undergrad | [Apply](https://jobs.ashbyhq.com/maintainx/e6a2c76e-4023-4c69-8808-b7e77cd8ab38/application?utm_source=aprameyak) | Oct 8 |
 | RFCUNY | Graduate Research Assistant | New York, NY |  | Undergrad | [Apply](https://rfcuny.wd108.myworkdayjobs.com/en-US/RFCUNY/job/New-York-NY/Graduate-Research-Assistant_JR4846?utm_source=aprameyak) | Oct 8 |
 | Roblox | [2027] Senior Machine Learning Engineer - PhD Early Career | San Mateo, CA | Spring 2027 | PhD | [Apply](https://careers.roblox.com/jobs/8242623?gh_jid=8242623) | Oct 8 |
-| Boeing | Greenfield Full Stack Developer | CAN - Richmond, Canada |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Greenfield-Full-Stack-Developer_JR2026526187-1?utm_source=aprameyak) | Oct 7 |
 | CACI | Entry Level C# Software Engineer | Virginia Beach, VA, US |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249?utm_source=aprameyak) | Oct 7 |
 | Ecolab | Junior Quality Control Software Developer | CAN - Alberta - Calgary |  | Undergrad | [Apply](https://ecolab.wd1.myworkdayjobs.com/en-US/ecolab_external/job/CAN---Alberta---Calgary/Junior-Quality-Control-Software-Developer_R00307033?utm_source=aprameyak) | Oct 7 |
 | Figma | Early Career, Associate Product Manager (2027) | San Francisco, CA | Spring 2027 | Undergrad | [Apply](https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004&utm_source=aprameyak) | Oct 7 |
@@ -1014,6 +1013,7 @@
 | Charles Schwab | Associate - Java Developer | Southlake, TX |  | Undergrad | 🔒 | Oct 8 |
 | Northrop Grumman | 2027 Associate Digital Signal Processing Engineer - Cincinnati OH | United States-Ohio-Cincinnati | Spring 2027 | Undergrad | 🔒 | Oct 8 |
 | BDO Canada | DevOps Engineer - New Grad (January 2027) | Toronto - Bay St | Spring 2027 | Undergrad | 🔒 | Oct 7 |
+| Boeing | Greenfield Full Stack Developer | CAN - Richmond, Canada |  | Undergrad | 🔒 | Oct 7 |
 | Northrop Grumman | 2027 - Associate Cyber Software Engineer - Cincinnati OH | United States-Ohio-Cincinnati | Spring 2027 | Undergrad | 🔒 | Oct 7 |
 | Amentum | Entry Level Software Engineer | Fredericksburg, VA |  | Undergrad | 🔒 | Oct 5 |
 | West Monroe | 2027 Data & Analytics Consultant | New York | Spring 2027 | Undergrad | 🔒 | Oct 3 |
