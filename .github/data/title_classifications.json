@@ -38769,9 +38769,10 @@
     "v": ""
   },
   "operations analyst - us government security": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "people relations specialist": {
@@ -98389,6 +98390,12 @@
   },
   "founding engineer (ai/ml)": {
     "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior product manager \u2013 client compliance": {
+    "t": false,
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
