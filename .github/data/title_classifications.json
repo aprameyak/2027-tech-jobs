@@ -98368,5 +98368,29 @@
     "v": "cs-is-v4",
     "a": 1,
     "b": "s"
+  },
+  "ai/ml engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "principal product manager, ai platform": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "founding engineer (applied ai)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "founding engineer (ai/ml)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
