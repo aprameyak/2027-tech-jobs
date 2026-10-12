@@ -27,8 +27,6 @@ greenhouse:
   slug: "amperesand"
 - name: Amperon
   slug: "amperon"
-- name: Amplitude
-  slug: "amplitude"
 - name: Anaplan
   slug: "anaplan"
 - name: Anduril
@@ -125,6 +123,8 @@ greenhouse:
   slug: "chainguard"
 - name: CHAOS Industries
   slug: "chaosindustries"
+- name: ChargePoint
+  slug: "chargepoint"
 - name: Charles River Analytics
   slug: "charlesriveranalytics90"
 - name: Checkr
@@ -137,8 +137,6 @@ greenhouse:
   slug: "chime"
 - name: Clarity Innovations
   slug: "clarityinnovates"
-- name: ClickHouse
-  slug: "clickhouse"
 - name: Clockwork Systems
   slug: "clockworksystems"
 - name: Cloudflare
@@ -203,6 +201,8 @@ greenhouse:
   slug: "emergentlabsinc"
 - name: Epic Games
   slug: "epicgames"
+- name: Epirus
+  slug: "epirus"
 - name: EQT Corporation
   slug: "eqtcorporation"
 - name: Esri
@@ -395,6 +395,8 @@ greenhouse:
   slug: "newsbreak"
 - name: Nextdoor
   slug: "nextdoor"
+- name: Northspyre
+  slug: "northspyre"
 - name: Notability
   slug: "gingerlabsinc"
 - name: Nuro
@@ -467,6 +469,8 @@ greenhouse:
   slug: "reddit"
 - name: Redwood Materials
   slug: "redwoodmaterials"
+- name: Relativity Space
+  slug: "relativity"
 - name: Relay
   slug: "relaypro"
 - name: RenderATL
@@ -551,6 +555,8 @@ greenhouse:
   slug: "stubhubinc"
 - name: Syska Hennessy Group
   slug: "syskahennessy"
+- name: Tailscale
+  slug: "tailscale"
 - name: Take-Two Interactive
   slug: "taketwo"
 - name: Tanium
@@ -783,8 +789,6 @@ lever:
   slug: "synergyecp"
 - name: Toyota Research Institute
   slug: "tri"
-- name: UiPath
-  slug: "uipath"
 - name: Valkyrie Trading
   slug: "valkyrietrading"
 - name: Valon
@@ -793,6 +797,8 @@ lever:
   slug: "veeva"
 - name: Velo3D
   slug: "velo3d"
+- name: Waabi
+  slug: "waabi"
 - name: Wattpad
   slug: "wattpad"
 - name: Wealthfront
@@ -3863,6 +3869,8 @@ ashby:
   slug: "ambrook"
 - name: Amperity
   slug: "amperity"
+- name: Amplitude
+  slug: "amplitude"
 - name: Anima
   slug: "Anima"
 - name: Antares
@@ -3937,8 +3945,6 @@ ashby:
   slug: "centerfield"
 - name: Cerebras
   slug: "cerebras"
-- name: ChargePoint
-  slug: "chargepoint"
 - name: Charta Health
   slug: "chartahealth"
 - name: Cheiron
@@ -3949,6 +3955,8 @@ ashby:
   slug: "Citizen%20Health"
 - name: Clera
   slug: "clera"
+- name: ClickHouse
+  slug: "clickhouse"
 - name: ClickUp
   slug: "clickup"
 - name: Clipboard Health
@@ -4019,8 +4027,6 @@ ashby:
   slug: "eliseai"
 - name: Ellipsis Labs
   slug: "ellipsislabs"
-- name: Epirus
-  slug: "epirus"
 - name: Eragon
   slug: "eragon"
 - name: Etched
@@ -4195,8 +4201,6 @@ ashby:
   slug: "nooks"
 - name: Northslope Technologies
   slug: "northslope-technologies"
-- name: Northspyre
-  slug: "northspyre"
 - name: Northwood Space
   slug: "northwoodspace"
 - name: Notion
@@ -4301,8 +4305,6 @@ ashby:
   slug: "reflect-orbital"
 - name: Reframe Systems
   slug: "reframesystems"
-- name: Relativity Space
-  slug: "relativityspace"
 - name: Reliable Robotics
   slug: "reliable-robotics"
 - name: Remarcable
@@ -4352,7 +4354,7 @@ ashby:
 - name: Serval
   slug: "serval"
 - name: Serve Robotics
-  slug: "serve-robotics"
+  slug: "serverobotics"
 - name: Sierra
   slug: "sierra"
 - name: SIFT
@@ -4383,8 +4385,6 @@ ashby:
   slug: "superhuman%20platform%20inc"
 - name: Sybil
   slug: "runsybil-jobs"
-- name: Tailscale
-  slug: "tailscale"
 - name: Talos
   slug: "talos-trading"
 - name: Teamworks
@@ -4409,6 +4409,8 @@ ashby:
   slug: "tracebit"
 - name: Trulioo
   slug: "trulioo"
+- name: UiPath
+  slug: "uipath"
 - name: Uncountable
   slug: "uncountable"
 - name: Uniswap
@@ -4429,8 +4431,6 @@ ashby:
   slug: "voleon"
 - name: Vultr
   slug: "vultr"
-- name: Waabi
-  slug: "waabi"
 - name: Watershed
   slug: "watershed"
 - name: Wealthsimple
