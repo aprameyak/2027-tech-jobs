@@ -5403,9 +5403,9 @@
     "b": "s"
   },
   "research scientist": {
-    "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0
   },
   "research scientist, battlespace awareness ": {
