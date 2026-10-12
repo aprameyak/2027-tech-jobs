@@ -70764,9 +70764,10 @@
   },
   "mission operator - entry level": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "n"
   },
   "summer 2027 internship - environmental, health & safety (ehs)": {
     "t": false,
