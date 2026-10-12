@@ -1,11 +1,13 @@
 # ☀️ Summer 2027 Internships
 
-5537 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5539 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Bosch | Robotics Research Intern | Sunnyvale, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154911489) | Oct 12 |
+| Tencent | Data Science Intern | Palo Alto, CA | Undergrad | [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213?utm_source=aprameyak) | Oct 12 |
 | Affirm | IT Engineer Intern (Early Careers Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003?utm_source=aprameyak) | Oct 10 |
 | Clera | Computer Vision & Robotics Intern | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/clera/f211c31e-d92a-468e-9da1-3f8f27f0e05b/application?utm_source=aprameyak) | Oct 10 |
 | Micron Technology | Intern - IT Software Engineer | Boise, ID | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941?utm_source=aprameyak) | Oct 10 |
@@ -78,7 +80,6 @@
 | Moog | Intern, Computer Science | Torrance, CA | Undergrad | [Apply](https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Torrance-CA/Intern--Computer-Science_R-26-19819?utm_source=aprameyak) | Oct 8 |
 | Motorola Solutions 🛂 | GenAI & Machine Learning - 2027 Summer Internship (Chicago Hybrid) | Chicago, IL | Undergrad | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/GenAI---Machine-Learning---2027-Summer-Internship--Chicago-Hybrid-_R68929?utm_source=aprameyak) | Oct 8 |
 | Northrop Grumman | 2027-Systems Engineer Intern - McClellan CA | Mcclellan, CA | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163?utm_source=aprameyak) | Oct 8 |
-| ↳ | 2027 Software Engineer Intern – McClellan CA | Mcclellan, CA | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207?utm_source=aprameyak) | Oct 8 |
 | OCC | Summer Intern - Market Risk | Chicago, IL | Undergrad | [Apply](https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Summer-Intern---Market-Risk_REQ-4889?utm_source=aprameyak) | Oct 8 |
 | PepsiCo | IT intern 2027 | Remote (US) | Undergrad | [Apply](https://globalcampus-pepsico.icims.com/jobs/470669/it-intern-2027/job) | Oct 8 |
 | Peraton | IT Cybersecurity Intern - Fort Huachuca, AZ | Home, AZ | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/171602/it-cybersecurity-intern---fort-huachuca%2c-az/job) | Oct 8 |
@@ -227,8 +228,6 @@
 | M&T Bank 🛂 | 2027 Technology Development Program - Cybersecurity | Buffalo, NY | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity_R90112?utm_source=aprameyak) | Oct 1 |
 | ↳ | 2027 Technology Development Program - Software Engineering | Buffalo, NY | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering_R90039?utm_source=aprameyak) | Oct 1 |
 | Micron Technology | Intern - Compute System Compatibility Engineer | Boise, ID | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Compute-System-Compatibility-Engineer_JR113627?utm_source=aprameyak) | Oct 1 |
-| MSD | Associate Scientist, Post Doc Fellow- AI/ML & Computational Biology for Antigen Design | West Point, PA | Undergrad | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Pennsylvania---West-Point/Associate-Scientist--Post-Doc-Fellow--AI-ML---Computational-Biology-for-Antigen-Design_R419377-1?utm_source=aprameyak) | Oct 1 |
-| ↳ | Associate Scientist, Post Doc Fellow- Computational Pathology & Spatial AI | Cambridge, MA | Undergrad | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Associate-Scientist--Post-Doc-Fellow--Computational-Pathology---Spatial-AI_R418980-1?utm_source=aprameyak) | Oct 1 |
 | Philips 🛂 | Intern - System Test Automation Engineer – San Diego, CA – Summer 2027 | San Diego, CA | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/San-Diego-California-United-States/Intern---System-Test-Automation-Engineer---San-Diego--CA---Summer-2027_592516?utm_source=aprameyak) | Oct 1 |
 | Plexus | Intern - Site IT (Summer 2027) | Raleigh, NC | Undergrad | [Apply](https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Raleigh-NC/Intern---Site-IT--Summer-2027-_R040569-1?utm_source=aprameyak) | Oct 1 |
 | Rockwell Automation 🛂 | Intern, Digital Client | Mequon, WI | Undergrad | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-7261-1?utm_source=aprameyak) | Oct 1 |
@@ -2561,6 +2560,7 @@
 | Epic Games | SDET Intern | Cary, NC | Undergrad | 🔒 | Oct 8 |
 | ↳ | Intern, Software Engineering | Mineral Wells, TX | Undergrad | 🔒 | Oct 8 |
 | ↳ | Software Engineer - Summer 2027 Internship | Westminster, CO | Undergrad | 🔒 | Oct 8 |
+| ↳ | 2027 Software Engineer Intern – McClellan CA | Mcclellan, CA | Undergrad | 🔒 | Oct 8 |
 | Pinterest | Solutions Engineer Intern 2027 (USA) | <details><summary>**2 locations**</summary>San Francisco, CA</br>Remote (US)</details> | Undergrad | 🔒 | Oct 8 |
 | Northrop Grumman | 2027 Software Developer Intern- Chantilly VA | Chantilly, VA | Undergrad | 🔒 | Oct 7 |
 | ↳ | 2027 Software Engineering Intern - Roy UT | Roy, UT | Undergrad | 🔒 | Oct 7 |
@@ -2587,6 +2587,8 @@
 | ↳ | Software Development Intern - Summer 2027 | Ashburn, VA | Undergrad | 🔒 | Oct 1 |
 | HMH | AI & Automation Development Intern | Houston, TX | Undergrad | 🔒 | Oct 1 |
 | ↳ | AI Software Technical Intern | Santa Clara, CA | Undergrad | 🔒 | Oct 1 |
+| MSD | Associate Scientist, Post Doc Fellow- AI/ML & Computational Biology for Antigen Design | West Point, PA | Undergrad | 🔒 | Oct 1 |
+| ↳ | Associate Scientist, Post Doc Fellow- Computational Pathology & Spatial AI | Cambridge, MA | Undergrad | 🔒 | Oct 1 |
 | Northrop Grumman | 2027 Software Engineering Intern - Colorado Springs CO | Roy, UT | Undergrad | 🔒 | Oct 1 |
 | ↳ | Intern - Systems Test Engineering – New Kensington, PA – Summer 2027 | New Kensington, PA | Masters | 🔒 | Oct 1 |
 | Pinterest | Machine Learning Intern 2027 (Toronto) | Toronto, ON | Undergrad | 🔒 | Oct 1 |
@@ -4136,7 +4138,7 @@
 | ↳ | Software Engineering Intern (Summer 2027) | Cedar Rapids, IA | Undergrad | 🔒 | Sep 14 |
 | ↳ | Systems Engineer Intern -Portsmouth, RI | Portsmouth, RI | Masters | 🔒 | Sep 14 |
 | ↳ | Systems Security Engineering Intern (Summer 2027) | Tucson, AZ | Masters | 🔒 | Sep 14 |
-| ↳ | 2027 Summer Internship Program - Global Technology & Solutions - Data Analyst | Mount Laurel, NJ | Undergrad | 🔒 | Sep 14 |
+| TD Bank | 2027 Summer Internship Program - Global Technology & Solutions - Data Analyst | Mount Laurel, NJ | Undergrad | 🔒 | Sep 14 |
 | ↳ | 2027 Summer Internship Program - Global Technology & Solutions - Cyber Security | Mount Laurel, NJ | Undergrad | 🔒 | Sep 14 |
 | ↳ | 2027 Summer Internship Program - Global Technology & Solutions - Data Engineer | Mount Laurel, NJ | Undergrad | 🔒 | Sep 14 |
 | ↳ | 2027 Summer Internship Program - Global Technology & Solutions - Cloud/DevOps | Mount Laurel, NJ | Undergrad | 🔒 | Sep 14 |

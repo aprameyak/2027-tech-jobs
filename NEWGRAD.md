@@ -90,7 +90,6 @@
 | i3 | Software Engineer (Associate-Mid) | Huntsville, AL |  | Undergrad | [Apply](https://careers-i3-corps.icims.com/jobs/5282/software-engineer-%28associate-mid%29/job) | Sep 23 |
 | Infoblox | Associate Software Engineer | Burnaby, BC |  | Undergrad | [Apply](https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8060) | Sep 23 |
 | LexisNexis Risk Solutions | Tech Accelarate Graduate Program | Alpharetta, GA | Spring 2026 – Fall 2026 | Undergrad | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelarate-Graduate-Program_R118810?utm_source=aprameyak) | Sep 23 |
-| LSEG | Business Graduate Programme (Data and Analytics) | New York, NY |  | Undergrad | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-City-United-States/Business-Graduate-Programme--Data-and-Analytics-_R0123714-1?utm_source=aprameyak) | Sep 23 |
 | RELX | Tech Accelarate Graduate Program | Alpharetta, GA | Spring 2026 – Fall 2026 | Undergrad | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelarate-Graduate-Program_R118810-1?utm_source=aprameyak) | Sep 23 |
 | Scale AI | Software Engineer, Public Sector - New Grad | San Francisco, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005?utm_source=aprameyak) | Sep 23 |
 | Belvedere Trading | Early Career Talent Partner- Trading | Chicago, IL |  | Undergrad | [Apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27?utm_source=aprameyak) | Sep 22 |
@@ -1068,7 +1067,7 @@
 | The Aerospace Corporation | 2027 Product Experience Designer | El Segundo, CA | Spring 2027 | Undergrad | 🔒 | Sep 24 |
 | Veolia | Junior Manufacturing Software Engineer | Boulder, CO |  | Undergrad | 🔒 | Sep 24 |
 | Comcast | Entry-level Backend Software Engineer (Python or PHP) - New York - ONSITE 4X Week | NY - New York, 1407 Broadway Floor 12 |  | Undergrad | 🔒 | Sep 23 |
-| LSEG | Business Graduate Programme (Data and Analytics) | New York City, United States |  | Undergrad | 🔒 | Sep 23 |
+| LSEG | Business Graduate Programme (Data and Analytics) | New York, NY |  | Undergrad | 🔒 | Sep 23 |
 | Mastercard | Associate Product Specialist, Launch Program 2027 - United States | O'Fallon, MO |  | Undergrad | 🔒 | Sep 23 |
 | Nuro | Software Engineer, Performance Tooling and Infrastructure New Grad | Mountain View, CA |  | Undergrad | 🔒 | Sep 23 |
 | RTX | Engineering Development Program Engineer I (Onsite) | North Berwick, ME |  | Undergrad | 🔒 | Sep 23 |

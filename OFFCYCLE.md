@@ -43,8 +43,7 @@
 | ↳ | Software Engineering Co-op (Spring/Summer 2027) | Cedar Rapids, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726?utm_source=aprameyak) | Oct 7 |
 | ↳ | Software Engineering Co-op (Summer /Fall 2027) | Cedar Rapids, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer--Fall-2027-_01879739?utm_source=aprameyak) | Oct 7 |
 | ↳ | Software Engineering Co-op (Spring/Summer 2027) | Cedar Rapids, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01879727?utm_source=aprameyak) | Oct 7 |
-| Disney | WABC-TV (ABC7) Technology Intern, Spring 2027 | New York, NY | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/WABC-TV--ABC7--Technology-Intern--Spring-2027_10158808-1?utm_source=aprameyak) | Oct 5 |
-| ↳ | ESPN Programming Intern, Bristol, Spring 2027 | Bristol, CT | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Bristol-CT-USA/ESPN-Programming-Intern--Bristol--Spring-2027_10160482-1?utm_source=aprameyak) | Oct 5 |
+| Disney | ESPN Programming Intern, Bristol, Spring 2027 | Bristol, CT | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Bristol-CT-USA/ESPN-Programming-Intern--Bristol--Spring-2027_10160482-1?utm_source=aprameyak) | Oct 5 |
 | Hitachi | Applications Engineering Internship/Co-op | Holland, MI | Co-op | Undergrad | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Holland-Michigan-United-States/Applications-Engineering-Internship-Co-op_R0144978?utm_source=aprameyak) | Oct 5 |
 | Johnson & Johnson | Technical Operations Engineer Co-Op | San Lorenzo, PR | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Technical-Operations-Engineer-Co-Op_R-099063?utm_source=aprameyak) | Oct 5 |
 | Manulife | Spring Co-op 2027 - Software Engineering, Security & Operations | Boston, MA | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121?utm_source=aprameyak) | Oct 5 |
@@ -54,7 +53,6 @@
 | Emerson Electric | Software Solutions Development Program (SDP) | Elyria, OH | Co-op | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010904) | Oct 3 |
 | Kinaxis | Co-op/ Intern Application Security Analyst | Ottawa, ON | Co-op | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35323/co-op--intern-application-security-analyst/job) | Oct 3 |
 | Manulife | Winter Co-op 2027 – Technology Enablement Analyst | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774?utm_source=aprameyak) | Oct 3 |
-| Genentech | Regulatory Early Talent Program - OnePDR | South San Francisco, CA | Co-op | Undergrad | [Apply](https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/South-San-Francisco/Regulatory-Early-Talent-Program---OnePDR_202609-124854?utm_source=aprameyak) | Oct 2 |
 | Harvey | Software Engineering Intern (Winter 2027) | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application?utm_source=aprameyak) | Oct 2 |
 | Johnson & Johnson | Asset Management Engineer Co-Op | Anasco, PR | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Asset-Management-Engineer-Co-Op_R-078283?utm_source=aprameyak) | Oct 2 |
 | Kodiak Robotics | Winter 2027 Intern, Security | Mountain View, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/kodiak/jobs/4430607009?utm_source=aprameyak) | Oct 2 |
@@ -113,7 +111,6 @@
 | RTX | 2027 Spring/Summer Sys Integration Engineering Co-op - Onsite | Cedar Rapids, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/XMLNAME-2027-Spring-Summer-Sys-Integration-Engineering-Co-op---Onsite_01873169?utm_source=aprameyak) | Sep 28 |
 | ↳ | 2027 Summer/Fall Co-op, AGS Software Engineering (Onsite) | Cedar Rapids, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646?utm_source=aprameyak) | Sep 28 |
 | Kinaxis | Co-op/ Intern Upgrade and Migration Specialist | Ottawa, ON | Co-op | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35322/co-op---intern-upgrade-and-migration-specialist/job) | Sep 26 |
-| TD Bank | 2027 Spring Co-op - Global Technology & Solutions - Business Management Analyst (BMA) | Mount Laurel, NJ | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Business-Management-Analyst--BMA-_R_1510120?utm_source=aprameyak) | Sep 26 |
 | fgf brands | AI Engineer Cerebro Co-op (Winter 2027) | Remote (US) | Co-op | Undergrad | [Apply](https://careerscoopinternen-fgfbrands.icims.com/jobs/27239/ai-engineer-cerebro-co-op-%28winter-2027%29/job) | Sep 25 |
 | FOX Corporation | Spring 2027 FOX Technology Internship Program - New York, NY | New York, NY | Spring 2027 | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-Technology-Internship-Program---New-York--NY_R50033932?utm_source=aprameyak) | Sep 25 |
 | ↳ | Spring 2027 FOX News Media Internship Program - Technical Operations - Washington DC | Washington, DC | Spring 2027 | Undergrad | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/Washington-District-of-Columbia-USA/Spring-2027-FOX-News-Media-Internship-Program---Technical-Operations---Washington-DC_R50033920?utm_source=aprameyak) | Sep 25 |
@@ -128,8 +125,6 @@
 | Snowflake | Software Engineer Intern (Database Engineering) - Spring 2027 | Menlo Park, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be/application?utm_source=aprameyak) | Sep 25 |
 | ↳ | Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027 | Menlo Park, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69/application?utm_source=aprameyak) | Sep 25 |
 | ↳ | Software Engineer Intern (AI / ML) - Spring 2027 | Menlo Park, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca/application?utm_source=aprameyak) | Sep 25 |
-| TD Bank | 2027 Spring Co-op - Global Technology & Solutions - Cyber Security | Mount Laurel, NJ | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cyber-Security_R_1510103?utm_source=aprameyak) | Sep 25 |
-| ↳ | 2027 Spring Co-op - Global Technology & Solutions - Cloud/DevOps | Mount Laurel, NJ | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cloud-DevOps_R_1510235?utm_source=aprameyak) | Sep 25 |
 | Astranis Space Technologies | Technical Project Management Intern (Winter 2027) | San Francisco, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708364006?utm_source=aprameyak) | Sep 24 |
 | ↳ | Software Developer, Network Software Intern (Winter 2027) | San Francisco, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705599006?utm_source=aprameyak) | Sep 24 |
 | Audax Group | IT Operations Co-Op NYC | New York, NY | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/audaxgroup/jobs/4737824005?utm_source=aprameyak) | Sep 24 |
@@ -146,7 +141,6 @@
 | ↳ | Co-op - Software Engineer | Wilmington, MA | Co-op | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op---Software-Engineer_R8111?utm_source=aprameyak) | Sep 23 |
 | Vital Lyfe | Software Engineering Internship - Spring 2027 | Los Angeles, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/vital-lyfe/c39b72aa-9ad5-43e7-a3fd-8ef2e152ee4b/application?utm_source=aprameyak) | Sep 23 |
 | Beam Therapeutics | Technical Operations Co-op | Durham, NC | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/beamtherapeutics/jobs/8831677002?utm_source=aprameyak) | Sep 22 |
-| CIBC | Software/Application Developer Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461?utm_source=aprameyak) | Sep 22 |
 | Entegris 🛂 | Enterprise Solution Architecture Analyst Co-Op | Chaska, MN | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Chaska-MN/Enterprise-Solution-Architecture-Analyst-Co-Op_REQ-14445?utm_source=aprameyak) | Sep 22 |
 | General Dynamics Mission Systems | Co-op Winter 2027 - Software Engineering - 4-8 months | Cole Harbour, NS | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000151059868) | Sep 22 |
 | Thermo Fisher Scientific 🛂 | Reliability Engineering Co-Op | Mississauga, ON | Co-op | Undergrad | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Mississauga-Canada/Reliability-Engineering-Co-Op_R-01366617?utm_source=aprameyak) | Sep 22 |
@@ -483,7 +477,6 @@
 | ↳ | Data Scientist Co-op | <details><summary>**2 locations**</summary>Cambridge, MA</br>Arlington, VA</details> | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967886003?utm_source=aprameyak) | Sep 19 |
 | ↳ | Machine Learning Engineer Co-op | <details><summary>**3 locations**</summary>Cambridge, MA</br>Seattle, WA</br>Arlington, VA</details> | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003?utm_source=aprameyak) | Sep 19 |
 | ↳ | Flight Software Engineer Co-op | Cambridge, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003?utm_source=aprameyak) | Sep 19 |
-| Micron Technology | Memory and System Architecture Research Intern | <details><summary>**2 locations**</summary>San Jose, CA</br>Folsom, CA</details> | Fall 2026 | Masters | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Memory---System-Architecture-Research_JR110475?utm_source=aprameyak) | Sep 19 |
 | Microsoft | Software Engineer Intern | <details><summary>**2 locations**</summary>Redmond, WA</br>Santa Clara, CA</details> | Fall 2026 | Undergrad | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556982258) | Sep 19 |
 | ↳ | Product Manager Intern - Specialized Cloud | Redmond, WA | Fall 2026 | Undergrad | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556983226) | Sep 19 |
 | ↳ | Data Scientist Intern | Redmond, WA | Fall 2026 | Masters | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556982928) | Sep 19 |
@@ -800,6 +793,8 @@
 | Gemini | Prediction Markets Operations Intern (Winter 2027) | New York, NY | Winter 2027 | Undergrad | 🔒 | Oct 3 |
 | Brex | Brex Rotational Program | Salt Lake City, UT | Co-op | Undergrad | 🔒 | Oct 2 |
 | ↳ | Brex Rotational Program | Vancouver, BC | Co-op | Undergrad | 🔒 | Oct 2 |
+| Genentech | Regulatory Early Talent Program - OnePDR | South San Francisco, CA | Co-op | Undergrad | 🔒 | Oct 2 |
+| Sun Life | Student, Cloud CX Consultant (Winter 2027) | Waterloo, ON | Winter 2027 | Undergrad | 🔒 | Oct 2 |
 | Autodesk | Intern, Product Management (Winter 2027) | Toronto, ON | Winter 2027 | Undergrad | 🔒 | Oct 1 |
 | ↳ | Software Development Internship (Winter 2027) | Toronto, ON | Winter 2027 | Undergrad | 🔒 | Oct 1 |
 | Sony Pictures Entertainment | Intern, Business Resilience, Security & Safety Department – Spring 2027 | Culver City, CA | Spring 2027 | Undergrad | 🔒 | Oct 1 |
@@ -816,7 +811,9 @@
 | CIBC | AI & Data Analytics and Reporting Analyst Co-op | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 25 |
 | Manulife | Winter Co-op 2027 - GRIT | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 25 |
 | ↳ | Service Engineering Co-op (Summer/Fall 2027) | Rockford, IL | Co-op | Undergrad | 🔒 | Sep 25 |
-| ↳ | TD Innovation Partner Intern/Co-op (Winter 2027) | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 25 |
+| TD Bank | TD Innovation Partner Intern/Co-op (Winter 2027) | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 25 |
+| ↳ | 2027 Spring Co-op - Global Technology & Solutions - Cyber Security | Mount Laurel, NJ | Co-op | Undergrad | 🔒 | Sep 25 |
+| ↳ | 2027 Spring Co-op - Global Technology & Solutions - Cloud/DevOps | Mount Laurel, NJ | Co-op | Undergrad | 🔒 | Sep 25 |
 | W.R. Berkley | ITSM Co-Op | Wilmington, DE | Co-op | Undergrad | 🔒 | Sep 25 |
 | Zipline | Field Systems Engineer Intern (Spring 2027) | South San Francisco, CA | Spring 2027 | Masters | 🔒 | Sep 25 |
 | BMO Financial Group | AI Engineer, Winter 2027 (Co-op/Internship) - 8 months | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 24 |
@@ -1188,7 +1185,7 @@
 | Metropolitan Transportation Authority | Technology Support Intern - Emerging Talent | Brooklyn, NY | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | Micron Technology | AI Systems and Infrastructure Engineering Intern | Austin, TX | Fall 2026 | Masters | 🔒 | Sep 19 |
 | ↳ | Technical Customer Management Intern - AI | Longmont, CO | Fall 2026 | Undergrad | 🔒 | Sep 19 |
-| ↳ | Memory and System Architecture Research Intern | San Jose, CAFolsom, CA | Fall 2026 | Masters | 🔒 | Sep 19 |
+| ↳ | Memory and System Architecture Research Intern | <details><summary>**2 locations**</summary>San Jose, CA</br>Folsom, CA</details> | Fall 2026 | Masters | 🔒 | Sep 19 |
 | Mosaic | Artificial Intelligence Co-op Intern | Tampa, FL | Co-op | Undergrad | 🔒 | Sep 19 |
 | Motorola | AI & Data Analytics Intern - Supply Resilience | Chicago, IL | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | MSA Safety | Software Engineer Co-op - Product Development | Cranberry Township, PA | Co-op | Undergrad | 🔒 | Sep 19 |
