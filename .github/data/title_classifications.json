@@ -98634,5 +98634,24 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "forward deployed engineering intern, bs/ms, summer 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "senior software engineer, mobile (ios), youtube": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer, xr audio platform and wakeword": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
