@@ -7138,9 +7138,9 @@
     "b": "s"
   },
   "senior quality systems engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -14442,8 +14442,9 @@
   },
   "customer reliability engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "data center dcim program leader - infrastructure operations": {
@@ -32399,8 +32400,8 @@
   },
   "staff software engineer, storage platform": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -53372,8 +53373,8 @@
   },
   "infrastructure engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
