@@ -37,6 +37,7 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 from grad_date import infer_grad_date
+from normalize_locations import clean_location
 from validate_listings import validate_entry
 from scope_rules import (
     HARD_REJECT_SIGNALS,
@@ -1206,7 +1207,7 @@ def build_entry(job):
     entry = {
         'company': job['company'],
         'role': job['title'],
-        'location': location,
+        'location': clean_location(location),
         'type': table,
         'season': season,
         'education': education,
@@ -1255,7 +1256,7 @@ def add_job_directly(job, listings_file, rebuild=True):
         entry = {
             'company': job['company'],
             'role': job['title'],
-            'location': location,
+            'location': clean_location(location),
             'type': table,
             'season': season,
             'education': education,
@@ -1935,20 +1936,31 @@ def scrape_avature(company, portal, keywords=None):
 
     for keyword in keywords:
         try:
-            resp = requests.get(
-                f'{base}/SearchJobs/',
-                params={
-                    'listFilterMode': '1',
-                    'jobRecordsPerPage': '50',
-                    'search': keyword,
-                },
-                headers=HEADERS,
-                timeout=(10, 30),
-            )
-            if resp.status_code != 200:
-                print(f'  [{company}] Avature HTTP {resp.status_code} for "{keyword}"')
+            html = ''
+            page_ids = set()
+            for offset in range(0, 600, 12):
+                resp = requests.get(
+                    f'{base}/SearchJobs/',
+                    params={
+                        'listFilterMode': '1',
+                        'jobRecordsPerPage': '12',
+                        'jobOffset': str(offset),
+                        'search': keyword,
+                    },
+                    headers=HEADERS,
+                    timeout=(10, 30),
+                )
+                if resp.status_code != 200:
+                    print(f'  [{company}] Avature HTTP {resp.status_code} for "{keyword}"')
+                    break
+                found = set(re.findall(r'/JobDetail/[^/]+/(\d+)', resp.text))
+                if not found - page_ids:
+                    break
+                page_ids |= found
+                html += resp.text
+                time.sleep(0.2)
+            if not html:
                 continue
-            html = resp.text
             for m in re.finditer(
                 r'href="(https?://[^"]*?/JobDetail/([^/]+)/(\d+))"[^>]*>\s*([^<]+)\s*</a>',
                 html,
@@ -1973,19 +1985,24 @@ def scrape_avature(company, portal, keywords=None):
                 if lm:
                     loc = lm.group(1).strip()
                 else:
-                    text = re.sub(r'<[^>]+>', ' ', rest)
-                    text = re.sub(r'\s+', ' ', text)
-                    lm = re.search(
-                        r'([A-Za-z .]+,\s*(?:New York|[A-Z]{2}|United States|USA|Canada)[^|]{0,40})',
-                        text,
-                    )
-                    if lm:
-                        loc = lm.group(1).strip()
+                    segs = [t.strip() for t in re.split(r'<[^>]+>', rest) if t.strip()]
+                    first = next((t for t in segs if t.lower() != 'apply'), '')
+                    if first and len(first) < 60:
+                        loc = first
+                    else:
+                        text = re.sub(r'<[^>]+>', ' ', rest)
+                        text = re.sub(r'\s+', ' ', text)
+                        lm = re.search(
+                            r'([A-Za-z .]+,\s*(?:New York|[A-Z]{2}|United States|USA|Canada)[^|]{0,40})',
+                            text,
+                        )
+                        if lm:
+                            loc = lm.group(1).strip()
                 location = normalize_location(loc) if loc else ''
                 title_l = title.lower()
                 if any(s in title_l for s in NON_US_SIGNALS):
                     continue
-                if not location or not is_us_location(location):
+                if not location:
                     if any(s in title_l for s in (
                         'new york', ', ny', 'united states', 'usa', 'new jersey', ', nj',
                     )):

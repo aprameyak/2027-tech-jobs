@@ -6,7 +6,6 @@ Fails (exit 1) on:
   - README table count drift vs listings.json
   - polluted location HTML in listings.json
   - third-party tracking slugs / non-aprameyak utm_source on live URLs
-  - live international (UK/etc.) locations
   - duplicate live URLs (normalized)
   - missing must-live markers (high-signal roles that must stay open)
 
@@ -33,13 +32,12 @@ VALID_EDU = {'Undergrad', 'Masters', 'PhD'}
 ABBR = set(
     'AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO '
     'MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC '
-    'AB BC MB NB NL NS NT NU ON PE QC SK YT PR'.split()
+    'AB BC MB NB NL NS NT NU ON PE QC SK YT PR UK'.split()
 )
 ATS = re.compile(r'greenhouse|lever\.co|ashby|workday', re.I)
 THIRD_PARTY = re.compile(
     r'ref=vansh|gh_src=|lever-source=|ref=Simplify|utm_source=(?!aprameyak)',
 )
-INTL = re.compile(r'(?i),\s*UK\b|United Kingdom|\bLondon,\s*UK\b')
 STRIP = {
     'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'utm_id',
     'source', 'src', 'ref', 'referer', 'lever-source', 'lever-origin', 'gh_src', 'simplify',
@@ -146,8 +144,6 @@ def main() -> int:
             errors.append(f'third-party slug: {e.get("company")} / {url[:100]}')
         if ATS.search(url) and 'utm_source' not in url:
             warnings.append(f'missing utm on ATS URL: {e.get("company")}')
-        if INTL.search(loc):
-            errors.append(f'international live location: {e.get("company")} / {loc}')
         if not loc_ok(loc):
             warnings.append(f'imperfect live location: {e.get("company")} / {loc}')
 

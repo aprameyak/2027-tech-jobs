@@ -12,6 +12,7 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 from grad_date import infer_grad_date
+from normalize_locations import clean_location
 from scope_rules import is_in_scope_listing_title
 
 STRIP_PARAMS = {
@@ -345,7 +346,7 @@ def main():
     entry = {
         'company': fields.get('Company Name', '').strip(),
         'role': fields.get('Role / Job Title', '').strip(),
-        'location': _normalize_one_location(fields.get('Location', '').strip()),
+        'location': clean_location(_normalize_one_location(fields.get('Location', '').strip())),
         'type': table_type,
         'season': fields.get('Season / Term', '').strip(),
         'education': fields.get('Education Level', 'Undergrad').strip(),

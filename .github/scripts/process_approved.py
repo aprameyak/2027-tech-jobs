@@ -16,6 +16,7 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 from grad_date import infer_grad_date
+from normalize_locations import clean_location
 
 LISTINGS_FILE = Path('listings.json')
 
@@ -175,7 +176,7 @@ def listing_to_json(fields, table_type):
     entry = {
         'company': fields.get('Company Name', '').strip(),
         'role': fields.get('Role / Job Title', '').strip(),
-        'location': normalize_location(fields.get('Location', '').strip()),
+        'location': clean_location(normalize_location(fields.get('Location', '').strip())),
         'type': table_type,
         'season': fields.get('Season / Term', '').strip(),
         'education': fields.get('Education Level', 'Undergrad').strip(),
