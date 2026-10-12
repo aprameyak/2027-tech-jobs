@@ -61,7 +61,6 @@
 | Nokia | Automation Engineer Co-op/Intern | Remote (Canada) | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40892) | Oct 2 |
 | ↳ | Automation Engineer Co-op/Intern | Remote (Canada) | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168) | Oct 2 |
 | SteerBridge | Tech Internship Program - Winter 2026 | Vienna, VA | Winter 2026 | Undergrad | [Apply](https://jobs.lever.co/steerbridge/4eac2efd-ced5-4691-b00b-b5830447f2dc?utm_source=aprameyak) | Oct 2 |
-| Sun Life | Student, Cloud CX Consultant (Winter 2027) | Waterloo, ON | Winter 2027 | Undergrad | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Cloud-CX-Consultant--Winter-2027-_JR00128340?utm_source=aprameyak) | Oct 2 |
 | xAI | Spring 2027 Software Engineering Internship/Co-op | Palo Alto, CA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/xai/jobs/5252108007?utm_source=aprameyak) | Oct 2 |
 | ↳ | Summer 2027 Software Engineering Internship/Co-op | Palo Alto, CA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255111007?utm_source=aprameyak) | Oct 2 |
 | DuCharme McMillen & Associates | IT Quality Assurance Intern - Spring 2027 | Lisle, IL | Spring 2027 | Undergrad | [Apply](https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Lisle-IL/IT-Quality-Assurance-Intern---Spring-2027_REQ656?utm_source=aprameyak) | Oct 1 |
@@ -575,9 +574,6 @@
 | Susquehanna International Group | Technology Co-op - Drexel University | Bala Cynwyd, PA | Co-op | Undergrad | [Apply](https://careers-sig.icims.com/jobs/11422/job?mobile=true&needsRedirect=false) | Sep 19 |
 | SWBC | Software Engineer Intern | San Antonio, TX | Fall 2026 | Undergrad | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-2?utm_source=aprameyak) | Sep 19 |
 | Syntiant | Machine Learning Intern - KWS/AED | Redwood City, CA | Fall 2026 | Undergrad | [Apply](https://apply.workable.com/syntiant/j/113F994B7B/apply) | Sep 19 |
-| TD Bank | Software Engineer Co-op - Global Technology & Solutions | Mt Laurel Township, NJ | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773?utm_source=aprameyak) | Sep 19 |
-| ↳ | Data Analyst Co-op - Global Technology & Solutions | Mt Laurel Township, NJ | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236?utm_source=aprameyak) | Sep 19 |
-| ↳ | Data Engineer Co-op - Global Technology & Solutions | Mt Laurel Township, NJ | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111?utm_source=aprameyak) | Sep 19 |
 | Terranova | Software Engineer Intern | Berkeley, CA | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true&utm_source=aprameyak) | Sep 19 |
 | Tesla | Internship - Software Engineering - People Products - Winter/Spring 2027 | Palo Alto, CA | Spring 2027 | Undergrad | [Apply](https://www.tesla.com/careers/search/job/284003) | Sep 19 |
 | ↳ | Software Engineer Intern - Data Platforms | Palo Alto, CA | Fall 2026 | Undergrad | [Apply](https://www.tesla.com/careers/search/job/283117) | Sep 19 |
@@ -800,6 +796,7 @@
 | Skydio | Software Engineer Intern | San Mateo, CA | Fall 2026 | Undergrad | [Apply](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee?utm_source=aprameyak) | Jul 10 |
 | Gemini | Product Design Intern (Winter 2027) | New York, NY | Winter 2027 | Undergrad | 🔒 | Oct 8 |
 | ↳ | Business Systems Analyst, Winter 2027 Co-op | Toronto, ON | Co-op | Masters | 🔒 | Oct 7 |
+| ↳ | WABC-TV (ABC7) Technology Intern, Spring 2027 | New York, NY | Spring 2027 | Undergrad | 🔒 | Oct 5 |
 | Gemini | Prediction Markets Operations Intern (Winter 2027) | New York, NY | Winter 2027 | Undergrad | 🔒 | Oct 3 |
 | Brex | Brex Rotational Program | Salt Lake City, UT | Co-op | Undergrad | 🔒 | Oct 2 |
 | ↳ | Brex Rotational Program | Vancouver, BC | Co-op | Undergrad | 🔒 | Oct 2 |
@@ -815,6 +812,7 @@
 | ↳ | Business & Data Analytics Co-Op (Spring/Summer 2027) | Cedar Rapids, IA | Co-op | Undergrad | 🔒 | Sep 28 |
 | ↳ | Software Engineering Co-op (Summer/Fall 2027) | Cedar Rapids, IA | Co-op | Undergrad | 🔒 | Sep 28 |
 | Disney | Data Analyst Intern, Global Security Control Center, Spring 2027 | Burbank, CA | Spring 2027 | Undergrad | 🔒 | Sep 27 |
+| TD Bank | 2027 Spring Co-op - Global Technology & Solutions - Business Management Analyst (BMA) | Mount Laurel, NJ | Co-op | Undergrad | 🔒 | Sep 26 |
 | CIBC | AI & Data Analytics and Reporting Analyst Co-op | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 25 |
 | Manulife | Winter Co-op 2027 - GRIT | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 25 |
 | ↳ | Service Engineering Co-op (Summer/Fall 2027) | Rockford, IL | Co-op | Undergrad | 🔒 | Sep 25 |
@@ -832,7 +830,8 @@
 | BMO Financial Group | UX/UI Designer, Winter 2027 (Co-op/Internship)- 8 months | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 23 |
 | CIBC | Quality Assurance Analyst-Co-op Winter 2027 | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 23 |
 | ↳ | Quality Assurance Analyst-Co-op Winter 2027 | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 23 |
-| ↳ | Technical Systems Analyst Co-op | Toronto, ON | Co-op | Masters | 🔒 | Sep 22 |
+| CIBC | Technical Systems Analyst Co-op | Toronto, ON | Co-op | Masters | 🔒 | Sep 22 |
+| ↳ | Software/Application Developer Co-op | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 22 |
 | ↳ | Application/Software Developer Co-op | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 22 |
 | Johnson & Johnson | Commercial Data Science & AI Co-op | Raritan, NJ | Co-op | Undergrad | 🔒 | Sep 22 |
 | ↳ | Technical Operations Engineering Co-Op | San Lorenzo, PR | Co-op | Undergrad | 🔒 | Sep 22 |
@@ -1187,8 +1186,9 @@
 | Medpace | Software Development Co-op - Spring 2027 | Cincinnati, OH | Spring 2027 | Undergrad | 🔒 | Sep 19 |
 | ↳ | Data Engineer Intern - Spring 2027 | Cincinnati, OH | Spring 2027 | Undergrad | 🔒 | Sep 19 |
 | Metropolitan Transportation Authority | Technology Support Intern - Emerging Talent | Brooklyn, NY | Fall 2026 | Undergrad | 🔒 | Sep 19 |
-| ↳ | AI Systems and Infrastructure Engineering Intern | Austin, TX | Fall 2026 | Masters | 🔒 | Sep 19 |
+| Micron Technology | AI Systems and Infrastructure Engineering Intern | Austin, TX | Fall 2026 | Masters | 🔒 | Sep 19 |
 | ↳ | Technical Customer Management Intern - AI | Longmont, CO | Fall 2026 | Undergrad | 🔒 | Sep 19 |
+| ↳ | Memory and System Architecture Research Intern | San Jose, CAFolsom, CA | Fall 2026 | Masters | 🔒 | Sep 19 |
 | Mosaic | Artificial Intelligence Co-op Intern | Tampa, FL | Co-op | Undergrad | 🔒 | Sep 19 |
 | Motorola | AI & Data Analytics Intern - Supply Resilience | Chicago, IL | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | MSA Safety | Software Engineer Co-op - Product Development | Cranberry Township, PA | Co-op | Undergrad | 🔒 | Sep 19 |
@@ -1262,12 +1262,15 @@
 | ↳ | AI Co-op - Drexel University | Bala Cynwyd, PA | Co-op | Undergrad | 🔒 | Sep 19 |
 | Swift | Standards Strategy & Product Management Intern | London, UK | Fall 2026 | Undergrad | 🔒 | Sep 19 |
 | T. Rowe Price | Quantitative Equity Investing Intern | Baltimore, MD | Fall 2026 | Undergrad | 🔒 | Sep 19 |
-| ↳ | AI2 Applied Machine Learning Scientist Co-op (WINTER 2027) | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 19 |
+| TD Bank | AI2 Applied Machine Learning Scientist Co-op (WINTER 2027) | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 19 |
+| ↳ | Software Engineer Co-op - Global Technology & Solutions | Mt Laurel Township, NJ | Co-op | Undergrad | 🔒 | Sep 19 |
 | ↳ | Mobile Software Engineer Co-op Intern | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 19 |
 | ↳ | Software Engineer Intern Co-op | <details><summary>**3 locations**</summary>Toronto, ON</br>Mississauga, ON</br>London, ON</details> | Co-op | Undergrad | 🔒 | Sep 19 |
 | ↳ | Portfolio Analytics Developer Intern/Co-op - Winter 2027 | Toronto, ON | Winter 2027 | Undergrad | 🔒 | Sep 19 |
 | ↳ | Product Management Intern Co-op | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 19 |
 | ↳ | Product Management Intern/Co-op - Personal Savings & Investing | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 19 |
+| ↳ | Data Analyst Co-op - Global Technology & Solutions | Mt Laurel Township, NJ | Co-op | Undergrad | 🔒 | Sep 19 |
+| ↳ | Data Engineer Co-op - Global Technology & Solutions | Mt Laurel Township, NJ | Co-op | Undergrad | 🔒 | Sep 19 |
 | ↳ | Data Engineer Intern/Co-op - Winter 2027 | Toronto, ON | Winter 2027 | Undergrad | 🔒 | Sep 19 |
 | ↳ | Data Analyst Co-op Intern - Winter 2027 | <details><summary>**2 locations**</summary>Toronto, ON</br>Dieppe, NB</details> | Winter 2027 | Undergrad | 🔒 | Sep 19 |
 | ↳ | Data Science Co-op - Analytics Insights & Artificial Intelligence | Toronto, ON | Co-op | Undergrad | 🔒 | Sep 19 |

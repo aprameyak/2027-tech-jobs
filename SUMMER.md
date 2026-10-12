@@ -1729,8 +1729,6 @@
 | Solar Turbines 🛂 | 2027 Internship -Supplier Technical Engineer | San Diego, CA | Undergrad | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship--Supplier-Technical-Engineer-_R0000383125?utm_source=aprameyak) | Sep 14 |
 | Stoke Space | Summer 2027 Internship - Software | Kent, WA | Undergrad | [Apply](https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6176786004?utm_source=aprameyak) | Sep 14 |
 | Tanium | Software Engineer Intern - Summer 2027 | <details><summary>**2 locations**</summary>Emeryville, CA</br>Durham, NC</details> | Undergrad | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8181017?utm_source=aprameyak) | Sep 14 |
-| TD Bank | 2027 Summer Internship Program - Global Technology & Solutions - Cloud/DevOps | Mount Laurel, NJ | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799?utm_source=aprameyak) | Sep 14 |
-| ↳ | 2027 Summer Internship Program - Global Technology Solutions - Business Systems Analyst (BSA) | Mount Laurel, NJ | Masters | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology-Solutions---Business-Systems-Analyst--BSA-_R_1510802?utm_source=aprameyak) | Sep 14 |
 | Tencent | Cyber Security Engineer Intern | Palo Alto, CA | Undergrad | [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2?utm_source=aprameyak) | Sep 14 |
 | Veeam Software | Software Engineer Intern - Summer 2027 | San Jose, CA | Undergrad | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101?utm_source=aprameyak) | Sep 14 |
 | Viam | Software Engineering Intern - Summer 2027 | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004?utm_source=aprameyak) | Sep 14 |
@@ -4141,7 +4139,9 @@
 | ↳ | 2027 Summer Internship Program - Global Technology & Solutions - Data Analyst | Mount Laurel, NJ | Undergrad | 🔒 | Sep 14 |
 | ↳ | 2027 Summer Internship Program - Global Technology & Solutions - Cyber Security | Mount Laurel, NJ | Undergrad | 🔒 | Sep 14 |
 | ↳ | 2027 Summer Internship Program - Global Technology & Solutions - Data Engineer | Mount Laurel, NJ | Undergrad | 🔒 | Sep 14 |
+| ↳ | 2027 Summer Internship Program - Global Technology & Solutions - Cloud/DevOps | Mount Laurel, NJ | Undergrad | 🔒 | Sep 14 |
 | ↳ | 2027 Summer Internship Program - Global Technology & Solutions - Software Engineer (SWE) | Mount Laurel, NJ | Undergrad | 🔒 | Sep 14 |
+| ↳ | 2027 Summer Internship Program - Global Technology Solutions - Business Systems Analyst (BSA) | Mount Laurel, NJ | Masters | 🔒 | Sep 14 |
 | Tokyo Electron | Software Engineer - AI Research Summer 2027 Intern | San Jose, CA | Undergrad | 🔒 | Sep 14 |
 | U.S. Bank | 2027 Quantitative Modeling Rotational Program | Charlotte, NC | Undergrad | 🔒 | Sep 14 |
 | ↳ | Research Engineer / Research Scientist Intern, Robotics and Physical AI | San Francisco, CA | Undergrad | 🔒 | Sep 12 |

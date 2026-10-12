@@ -1068,6 +1068,7 @@
 | The Aerospace Corporation | 2027 Product Experience Designer | El Segundo, CA | Spring 2027 | Undergrad | 🔒 | Sep 24 |
 | Veolia | Junior Manufacturing Software Engineer | Boulder, CO |  | Undergrad | 🔒 | Sep 24 |
 | Comcast | Entry-level Backend Software Engineer (Python or PHP) - New York - ONSITE 4X Week | NY - New York, 1407 Broadway Floor 12 |  | Undergrad | 🔒 | Sep 23 |
+| LSEG | Business Graduate Programme (Data and Analytics) | New York City, United States |  | Undergrad | 🔒 | Sep 23 |
 | Mastercard | Associate Product Specialist, Launch Program 2027 - United States | O'Fallon, MO |  | Undergrad | 🔒 | Sep 23 |
 | Nuro | Software Engineer, Performance Tooling and Infrastructure New Grad | Mountain View, CA |  | Undergrad | 🔒 | Sep 23 |
 | RTX | Engineering Development Program Engineer I (Onsite) | North Berwick, ME |  | Undergrad | 🔒 | Sep 23 |
