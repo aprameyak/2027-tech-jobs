@@ -1,12 +1,18 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1583 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1589 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| 1Password | Data Intern  - Product Analytics - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?utm_source=aprameyak) | Oct 12 |
+| KION Group | Engineering & Delivery Optimization Co-op Intern | Grand Rapids, MI | Co-op | Undergrad | [Apply](https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Grand-Rapids-MI-United-States/Engineering---Delivery-Optimization-Co-op-Intern_JR-0095347-1?utm_source=aprameyak) | Oct 12 |
+| Point72 | Data Research Fellowship | New York, NY | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002&utm_source=aprameyak) | Oct 12 |
+| RTX | Software Engineering Co-op (Spring/Summer 2027) | Cedar Rapids, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01881902?utm_source=aprameyak) | Oct 12 |
 | TD Bank | 2027 Spring Co-op - Global Technology & Solutions - Business Systems Analyst (BSA) | Mount Laurel, NJ | Co-op | Masters | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Business-Systems-Analyst--BSA-_R_1516078?utm_source=aprameyak) | Oct 12 |
+| Watts Water | Product Management Co-op, Jan-June 2027 | Menomonee Falls, WI | Co-op | Undergrad | [Apply](https://wattswater.wd5.myworkdayjobs.com/en-US/Intern-External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702?utm_source=aprameyak) | Oct 12 |
+| Western Digital | Spring Co-op - Recording Electronics Data Analytics & Optimization | Rochester, MN | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000155109379) | Oct 12 |
 | Advanced Space | 2027 Technical Growth and Capture Intern/Co-op | Westminster, CO | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4444656009?utm_source=aprameyak) | Oct 10 |
 | Johnson & Johnson 🛂 | TDS Lab Automation Co-Op | Malvern, PA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Lab-Automation-Co-Op_R-098640?utm_source=aprameyak) | Oct 10 |
 | ↳ | TDS CGT-Digital Automation Co-Op | Malvern, PA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-CGT-Digital-Automation-Co-Op_R-098537?utm_source=aprameyak) | Oct 10 |

@@ -1,11 +1,17 @@
 # 🎓 New Grad 2027
 
-2657 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2663 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Charter Manufacturing | Digital Rotational Analyst - May 2027 Grads | Charter Manufacturing Company, WI | Spring 2027 | Undergrad | [Apply](https://chartermfg.wd5.myworkdayjobs.com/en-US/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Rotational-Analyst---May-2027-Grads_R07951-1?utm_source=aprameyak) | Oct 12 |
+| Duolingo | AI Research Engineer, New PhD Graduate | <details><summary>**2 locations**</summary>Pittsburgh, PA</br>New York, NY</details> |  | PhD | [Apply](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8883870002?utm_source=aprameyak) | Oct 12 |
+| ↳ | AI Research Engineer, New PhD Graduate | <details><summary>**2 locations**</summary>New York, NY</br>Pittsburgh, PA</details> |  | PhD | [Apply](https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002) | Oct 12 |
+| General Motors | Entry-Level – AI/Machine Learning Researcher | Mountain View, CA |  | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753?utm_source=aprameyak) | Oct 12 |
+| ↳ | Entry-Level – AI and Machine Learning for Automation Researcher | Warren, MI |  | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769?utm_source=aprameyak) | Oct 12 |
+| Micron Technology | New College Grad - F4 IT Network Engineer | Boise, ID |  | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/New-College-Grad---F4-IT-Network-Engineer_JR114671?utm_source=aprameyak) | Oct 12 |
 | NVIDIA | Software Engineer, DL Kernel Libraries - New College Grad 2027 | Santa Clara, CA | Spring 2027 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337?utm_source=aprameyak) | Oct 11 |
 | Morgan Stanley | MSIM Tactical Value, Acquisitions Associate (2027 Program) | New York, NY |  | Undergrad | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/MSIM-Tactical-Value--Acquisitions-Associate--2027-Program-_JR043156?utm_source=aprameyak) | Oct 10 |
 | NVIDIA | C++ Software Engineer, Infrastructure Tools - New College Grad 2027 | Santa Clara, CA | Spring 2027 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431?utm_source=aprameyak) | Oct 10 |
