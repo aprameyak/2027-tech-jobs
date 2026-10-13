@@ -11924,9 +11924,9 @@
     "b": "s"
   },
   "technical architect": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
