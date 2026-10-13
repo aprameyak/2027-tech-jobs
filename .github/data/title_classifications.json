@@ -11479,9 +11479,9 @@
     "b": "s"
   },
   "senior software engineer, full-stack": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -64014,8 +64014,10 @@
   },
   "industrial design co-op": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "engineering intern co-op": {
     "t": true,
@@ -64530,10 +64532,11 @@
     "a": 0
   },
   "it intern - summer 2027": {
-    "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   },
   "finance intern - summer 2027": {
     "t": false,
