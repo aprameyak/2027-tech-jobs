@@ -1,21 +1,35 @@
 # ☀️ Summer 2027 Internships
 
-5571 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5585 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Allegion | Summer Intern – Software Operations Engineer | Carmel, IN | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1?utm_source=aprameyak) | Oct 13 |
 | Aptiv | Cloud Engineering Intern | CAN Kanata, ON | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383?utm_source=aprameyak) | Oct 13 |
 | ↳ | Cloud Engineer Intern | CAN Kanata, ON | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704380?utm_source=aprameyak) | Oct 13 |
 | ↳ | Cloud Engineer Intern | CAN Kanata, ON | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376?utm_source=aprameyak) | Oct 13 |
 | ↳ | Cloud Software Engineer Intern | CAN Kanata, ON | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375?utm_source=aprameyak) | Oct 13 |
 | ↳ | Software Engineering Intern | CAN Kanata, ON | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1?utm_source=aprameyak) | Oct 13 |
 | Bosch | Information Security and Privacy Intern | Farmington Hills, MI | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155120934) | Oct 13 |
+| Draper | Classified Cybersecurity/IT Internship (Summer 2027) | Cambridge, MA | Undergrad | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021?utm_source=aprameyak) | Oct 13 |
 | Expedia Group | Security Engineering Intern - 2027 - Seattle | Seattle, WA | Undergrad | [Apply](https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310-1?utm_source=aprameyak) | Oct 13 |
+| Figma | PhD Intern, Software Engineer - Graphics (2027) | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> | PhD | [Apply](https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004&utm_source=aprameyak) | Oct 13 |
+| Gallup | Data Engineering Intern — Summer 2027 | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4449991009?utm_source=aprameyak) | Oct 13 |
+| General Dynamics Mission Systems | Cyber Engineering Intern (Summer 2027) | Middletown, RI | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75514/cyber-engineering-intern-%28summer-2027%29/job) | Oct 13 |
+| KLA | Software Engineering Intern | Ann Arbor, MI | Undergrad | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821?utm_source=aprameyak) | Oct 13 |
+| ↳ | Software Engineer Intern - AI | Ann Arbor, MI | Undergrad | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817?utm_source=aprameyak) | Oct 13 |
+| Mary Free Bed Rehabilitation Hospital | IT Intern - Summer 2027 | Grand Rapids, MI | Undergrad | [Apply](https://maryfreebed.wd12.myworkdayjobs.com/en-US/mfb/job/Grand-Rapids-MI/IT-Intern---Summer-2027_JB103360?utm_source=aprameyak) | Oct 13 |
 | Northrop Grumman | 2027 Intern Engineer - Product Support | Oklahoma City, OK | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10255683-1?utm_source=aprameyak) | Oct 13 |
 | NVIDIA | Differentiable Simulation Research Intern - Summer 2027 | Santa Clara, CA | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561?utm_source=aprameyak) | Oct 13 |
+| SOTI | Software Developer Intern - SOTI MobiControl Apple HQ (January 2027 12 Months) | Mississauga, ON | Undergrad | [Apply](https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2?utm_source=aprameyak) | Oct 13 |
+| The Federal Reserve System | 2027 Intern - System IT (Credit Risk Management) | Dallas, TX | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---System-IT--Credit-Risk-Management-_R-0000033624?utm_source=aprameyak) | Oct 13 |
+| The Toro Company | IT Business Analyst Intern - Ditch Witch | Perry, OK | Undergrad | [Apply](https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608?utm_source=aprameyak) | Oct 13 |
+| Vertiv | Data Analytics Intern (Summer 2027) | Delaware, OH | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278852) | Oct 13 |
+| ↳ | UI/UX Design Intern (Summer 2027) | Delaware, OH | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) | Oct 13 |
 | Waymo | 2027 Summer Intern, MS/PhD, Perception, Model Lifecycle | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248411) | Oct 13 |
+| WTW | Intern Conversion Only: Early Careers: Insurance, Consulting & Technology (P&C) Analyst - 2027 | Philadelphia, PA | Undergrad | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605906) | Oct 13 |
 | Acron Aviation | Software Engineer Intern - Phoenix Site | Phoenix, AZ | Undergrad | [Apply](https://jobs.lever.co/acronaviation/17b5f12d-f590-432d-a421-d6f90274ae9a?utm_source=aprameyak) | Oct 12 |
 | Amperesand | Technical Program Manager Intern | Reno, NV | Undergrad | [Apply](https://job-boards.greenhouse.io/amperesand/jobs/4448972009?utm_source=aprameyak) | Oct 12 |
 | AtkinsRéalis | Software Developer Intern - Summer 2027 | Denver, CO | Undergrad | [Apply](https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1?utm_source=aprameyak) | Oct 12 |

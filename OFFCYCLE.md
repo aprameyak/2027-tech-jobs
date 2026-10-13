@@ -1,12 +1,13 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1593 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1594 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
 | Disney | Disney & Pixar Games Production Intern, Spring 2027 | Glendale, CA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney---Pixar-Games-Production-Intern--Spring-2027_10159030?utm_source=aprameyak) | Oct 13 |
+| Plexus | Intern - Digital Engineer (Spring 2027) | Neenah, WI | Spring 2027 | Undergrad | [Apply](https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Digital-Engineer--Spring-2027-_R035786?utm_source=aprameyak) | Oct 13 |
 | RTX | JEDI Network Systems Engineer 2027 Spring/Summer Co-op - Onsite | Cedar Rapids, IA | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/JEDI-Network-Systems-Engineer-2027-Spring-Summer-Co-op---Onsite_01873473?utm_source=aprameyak) | Oct 13 |
 | ↳ | 2027 Co-Op - Summer/Fall Systems Engineer - Onsite | Cedar Rapids, IA | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-Op---Summer-Fall-Systems-Engineer---Onsite_01871438?utm_source=aprameyak) | Oct 13 |
 | ↳ | 2027 Co-op Spring/Summer Systems Engineer - Onsite | Cedar Rapids, IA | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-op-Spring-Summer-Systems-Engineer---Onsite_01871432?utm_source=aprameyak) | Oct 13 |
