@@ -11423,9 +11423,10 @@
     "a": 0
   },
   "senior business systems analyst, finance systems": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior business systems analyst, finance systems (assets & lease management)": {
@@ -48000,9 +48001,9 @@
     "b": "s"
   },
   "program manager, community support": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
