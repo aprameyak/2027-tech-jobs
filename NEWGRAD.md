@@ -1,11 +1,15 @@
 # 🎓 New Grad 2027
 
-2663 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2667 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| AbbVie | Associate Data Scientist I | North Chicago, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016070676) | Oct 13 |
+| Northrop Grumman | 2027  Digital Engineer - Pathways Program - Baltimore MD | Baltimore, MD | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/XMLNAME-2027--Digital-Engineer---Pathways-Program---Baltimore-MD_R10255664?utm_source=aprameyak) | Oct 13 |
+| ↳ | 2027 Associate Digital Engineer - Pathways Program - Baltimore MD | Baltimore, MD | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Digital-Engineer---Pathways-Program---Baltimore-MD_R10255661?utm_source=aprameyak) | Oct 13 |
+| NVIDIA | Developer Technology Engineer, Public Sector - New College Grad 2026 | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990?utm_source=aprameyak) | Oct 13 |
 | Charter Manufacturing | Digital Rotational Analyst - May 2027 Grads | Charter Manufacturing Company, WI | Spring 2027 | Undergrad | [Apply](https://chartermfg.wd5.myworkdayjobs.com/en-US/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Rotational-Analyst---May-2027-Grads_R07951-1?utm_source=aprameyak) | Oct 12 |
 | Duolingo | AI Research Engineer, New PhD Graduate | <details><summary>**2 locations**</summary>Pittsburgh, PA</br>New York, NY</details> |  | PhD | [Apply](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8883870002?utm_source=aprameyak) | Oct 12 |
 | ↳ | AI Research Engineer, New PhD Graduate | <details><summary>**2 locations**</summary>New York, NY</br>Pittsburgh, PA</details> |  | PhD | [Apply](https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002) | Oct 12 |
