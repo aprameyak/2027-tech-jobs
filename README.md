@@ -4,8 +4,8 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (5570)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1590)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (5571)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1593)
 - [🎓 New Grad 2027](./NEWGRAD.md) (2667)
 
 ## Legend
@@ -20,7 +20,7 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **5570** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **5571** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -30,6 +30,7 @@ Showing newest **75** of **5570** listings · [View full table](./SUMMER.md)
 | ↳ | Cloud Engineer Intern | CAN Kanata, ON | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704380?utm_source=aprameyak) | Oct 13 |
 | ↳ | Cloud Engineer Intern | CAN Kanata, ON | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376?utm_source=aprameyak) | Oct 13 |
 | ↳ | Cloud Software Engineer Intern | CAN Kanata, ON | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375?utm_source=aprameyak) | Oct 13 |
+| ↳ | Software Engineering Intern | CAN Kanata, ON | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1?utm_source=aprameyak) | Oct 13 |
 | Bosch | Information Security and Privacy Intern | Farmington Hills, MI | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155120934) | Oct 13 |
 | Expedia Group | Security Engineering Intern - 2027 - Seattle | Seattle, WA | Undergrad | [Apply](https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310-1?utm_source=aprameyak) | Oct 13 |
 | Northrop Grumman | 2027 Intern Engineer - Product Support | Oklahoma City, OK | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10255683-1?utm_source=aprameyak) | Oct 13 |
@@ -100,18 +101,20 @@ Showing newest **75** of **5570** listings · [View full table](./SUMMER.md)
 | ↳ | Business Intelligence Engineer Internship - 2027 (US) | Seattle, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) | Oct 8 |
 | ↳ | Systems Development Engineer Intern, Canada 2027 | Vancouver, BC | Masters | [Apply](https://www.amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027) | Oct 8 |
 | ↳ | Systems Development Engineer Intern, (US) 2027 | Bellevue, WA | Masters | [Apply](https://www.amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027) | Oct 8 |
-| Axos Bank | Product Intern | San Diego, CA | Undergrad | [Apply](https://axos.wd5.myworkdayjobs.com/en-US/Axos/job/HQ---San-Diego-CA/Product-Intern_JR5664?utm_source=aprameyak) | Oct 8 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1590** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1593** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
 | Disney | Disney & Pixar Games Production Intern, Spring 2027 | Glendale, CA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney---Pixar-Games-Production-Intern--Spring-2027_10159030?utm_source=aprameyak) | Oct 13 |
+| RTX | JEDI Network Systems Engineer 2027 Spring/Summer Co-op - Onsite | Cedar Rapids, IA | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/JEDI-Network-Systems-Engineer-2027-Spring-Summer-Co-op---Onsite_01873473?utm_source=aprameyak) | Oct 13 |
+| ↳ | 2027 Co-Op - Summer/Fall Systems Engineer - Onsite | Cedar Rapids, IA | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-Op---Summer-Fall-Systems-Engineer---Onsite_01871438?utm_source=aprameyak) | Oct 13 |
+| ↳ | 2027 Co-op Spring/Summer Systems Engineer - Onsite | Cedar Rapids, IA | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-op-Spring-Summer-Systems-Engineer---Onsite_01871432?utm_source=aprameyak) | Oct 13 |
 | 1Password | Data Intern  - Product Analytics - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?utm_source=aprameyak) | Oct 12 |
 | KION Group | Engineering & Delivery Optimization Co-op Intern | Grand Rapids, MI | Co-op | Undergrad | [Apply](https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Grand-Rapids-MI-United-States/Engineering---Delivery-Optimization-Co-op-Intern_JR-0095347-1?utm_source=aprameyak) | Oct 12 |
 | Point72 | Data Research Fellowship | New York, NY | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002&utm_source=aprameyak) | Oct 12 |
@@ -183,9 +186,6 @@ Showing newest **75** of **1590** listings · [View full table](./OFFCYCLE.md)
 | ↳ | AI R&D Engineer Co-op | Remote (US) | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40689) | Oct 1 |
 | ↳ | AI R&D Engineer Co-op | Remote (US) | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40690) | Oct 1 |
 | ↳ | AI R&D Engineer Co-op | Remote (US) | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40692) | Oct 1 |
-| ↳ | AI R&D Engineer Co-op | Remote (US) | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40695) | Oct 1 |
-| ↳ | AI R&D Engineer Co-op | Remote (US) | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40693) | Oct 1 |
-| ↳ | AI R&D Engineer Co-op | Remote (US) | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40698) | Oct 1 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027
