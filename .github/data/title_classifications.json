@@ -7000,9 +7000,9 @@
     "b": "s"
   },
   "senior product sourcing engineer, intelligence systems (active clearance)": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -22027,9 +22027,9 @@
     "b": "s"
   },
   "senior software engineer, spark platform": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -22489,9 +22489,9 @@
     "b": "s"
   },
   "staff machine learning engineer, fulfillment planning": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
