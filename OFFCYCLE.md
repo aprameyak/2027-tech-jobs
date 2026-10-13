@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1594 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1595 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -11,6 +11,7 @@
 | RTX | JEDI Network Systems Engineer 2027 Spring/Summer Co-op - Onsite | Cedar Rapids, IA | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/JEDI-Network-Systems-Engineer-2027-Spring-Summer-Co-op---Onsite_01873473?utm_source=aprameyak) | Oct 13 |
 | ↳ | 2027 Co-Op - Summer/Fall Systems Engineer - Onsite | Cedar Rapids, IA | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-Op---Summer-Fall-Systems-Engineer---Onsite_01871438?utm_source=aprameyak) | Oct 13 |
 | ↳ | 2027 Co-op Spring/Summer Systems Engineer - Onsite | Cedar Rapids, IA | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-op-Spring-Summer-Systems-Engineer---Onsite_01871432?utm_source=aprameyak) | Oct 13 |
+| Zoox | Contract Student Worker – AI Validation and Benchmarking Engineer (40hrs / week Full-Time) | Foster City, CA | Co-op | Undergrad | [Apply](https://jobs.lever.co/zoox/cc43bf88-ed84-408f-a557-3d1c7263ddff?utm_source=aprameyak) | Oct 13 |
 | 1Password | Data Intern  - Product Analytics - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?utm_source=aprameyak) | Oct 12 |
 | KION Group | Engineering & Delivery Optimization Co-op Intern | Grand Rapids, MI | Co-op | Undergrad | [Apply](https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Grand-Rapids-MI-United-States/Engineering---Delivery-Optimization-Co-op-Intern_JR-0095347-1?utm_source=aprameyak) | Oct 12 |
 | Point72 | Data Research Fellowship | New York, NY | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002&utm_source=aprameyak) | Oct 12 |

@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-2671 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2673 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -10,10 +10,12 @@
 | Belvedere Trading | Quantitative Researcher - Entry Level 2027 | Chicago, IL |  | Undergrad | [Apply](https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68?utm_source=aprameyak) | Oct 13 |
 | i3 | Data Analyst (Junior-Associate) | <details><summary>**2 locations**</summary>Huntsville, AL</br>Orlando, FL</details> |  | Undergrad | [Apply](https://careers-i3-corps.icims.com/jobs/5307/data-analyst-%28junior-associate%29/job) | Oct 13 |
 | ING | Associate, Information Security Engineer | New York, NY |  | Undergrad | [Apply](https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/New-York/Associate--Information-Security-Engineer_REQ-10123236?utm_source=aprameyak) | Oct 13 |
+| Leidos | Junior Software Developer | Huntsville, AL |  | Undergrad | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Junior-Software-Developer_R-00194110?utm_source=aprameyak) | Oct 13 |
 | Northrop Grumman | 2027  Digital Engineer - Pathways Program - Baltimore MD | Baltimore, MD | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/XMLNAME-2027--Digital-Engineer---Pathways-Program---Baltimore-MD_R10255664?utm_source=aprameyak) | Oct 13 |
 | ↳ | 2027 Associate Digital Engineer - Pathways Program - Baltimore MD | Baltimore, MD | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Digital-Engineer---Pathways-Program---Baltimore-MD_R10255661?utm_source=aprameyak) | Oct 13 |
 | NVIDIA | Developer Technology Engineer, Public Sector - New College Grad 2026 | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990?utm_source=aprameyak) | Oct 13 |
 | SECURE | Junior Software Developer | Calgary, AB |  | Undergrad | [Apply](https://careers-canada-secure.icims.com/jobs/2018/junior-software-developer/job) | Oct 13 |
+| Torch Technologies | Entry-Level Systems Test Engineer | Huntsville, AL |  | Masters | [Apply](https://starfish.wd501.myworkdayjobs.com/en-US/Careers/job/Huntsville-AL/Entry-Level-Systems-Test-Engineer_R2032?utm_source=aprameyak) | Oct 13 |
 | Charter Manufacturing | Digital Rotational Analyst - May 2027 Grads | Charter Manufacturing Company, WI | Spring 2027 | Undergrad | [Apply](https://chartermfg.wd5.myworkdayjobs.com/en-US/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Rotational-Analyst---May-2027-Grads_R07951-1?utm_source=aprameyak) | Oct 12 |
 | Duolingo | AI Research Engineer, New PhD Graduate | <details><summary>**2 locations**</summary>Pittsburgh, PA</br>New York, NY</details> |  | PhD | [Apply](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8883870002?utm_source=aprameyak) | Oct 12 |
 | ↳ | AI Research Engineer, New PhD Graduate | <details><summary>**2 locations**</summary>New York, NY</br>Pittsburgh, PA</details> |  | PhD | [Apply](https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002) | Oct 12 |
