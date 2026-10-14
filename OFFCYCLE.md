@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-762 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+766 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -11,7 +11,11 @@
 | ↳ | AI Security Engineer Co-Op Intern, Winter 2027 | San Francisco, CA | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930/application?utm_source=aprameyak) | Oct 14 |
 | ↳ | Machine Learning Engineer, Applied AI Co-Op Intern, Winter 2027 | San Francisco, CA | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/b6adda4c-490c-4e9e-8354-e55c05d3c6ac/application?utm_source=aprameyak) | Oct 14 |
 | ↳ | AI Platform Engineer Co-Op Intern, Winter 2027 | San Francisco, CA | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/aadc490a-0d72-4be0-891b-4c362d491c3a/application?utm_source=aprameyak) | Oct 14 |
+| Hitachi | ITV Automation Specialist Intern (Winter 2027, 12months) | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/ITV-Automation-Specialist-Intern--Winter-2027--12months-_R0147187?utm_source=aprameyak) | Oct 14 |
 | Johnson & Johnson | Technical Operations Co-op | West Chester, PA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/West-Chester-Pennsylvania-United-States-of-America/Technical-Operations-Co-op_R-100885?utm_source=aprameyak) | Oct 14 |
+| Later | Data Science Co-op | Vancouver, BC | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/later/jobs/8889650002?utm_source=aprameyak) | Oct 14 |
+| Sierra Nevada Corp | Software Engineer Intern (For SNC Summer 2026 Intern Only) | Sparks, NV | Summer 2026 | Undergrad | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Software-Engineer-Intern--For-SNC-Summer-2026-Intern-Only-_R0031074?utm_source=aprameyak) | Oct 14 |
+| Skydio | Manufacturing Software Engineer Intern - Winter 2027 | San Mateo, CA | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application?utm_source=aprameyak) | Oct 14 |
 | Sony Pictures Entertainment | Current Programming Intern, Sony Pictures Television – Spring 2027 | Culver City, CA | Spring 2027 | Undergrad | [Apply](https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Current-Programming-Intern--Sony-Pictures-Television---Spring-2027_JR114863-1?utm_source=aprameyak) | Oct 14 |
 | Susquehanna International Group | Technology Co-op with Drexel University | Remote (US) | Co-op | Undergrad | [Apply](https://careers-sig.icims.com/jobs/11654/technology-co-op-with-drexel-university/job) | Oct 14 |
 | Disney | Disney & Pixar Games Production Intern, Spring 2027 | Glendale, CA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney---Pixar-Games-Production-Intern--Spring-2027_10159030?utm_source=aprameyak) | Oct 13 |
