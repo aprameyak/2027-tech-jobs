@@ -1,17 +1,28 @@
 # ☀️ Summer 2027 Internships
 
-2563 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2574 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | AeroVironment | Finance Systems Intern | Simi Valley, CA | Masters | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Finance-Systems-Intern_8899?utm_source=aprameyak) | Oct 14 |
+| American Century Investments | Enterprise Data Intern | Kansas City, MO | Undergrad | [Apply](https://americancentury.wd5.myworkdayjobs.com/en-US/americancenturyinvestments/job/Kansas-City-Missouri/Enterprise-Data-Intern_R0005751?utm_source=aprameyak) | Oct 14 |
+| Atoms | Software Engineering Intern - 2027 Winter Term | Seattle, WA | Undergrad | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8888411002?utm_source=aprameyak) | Oct 14 |
+| CACI | Software Engineering Intern - Summer 2027 | Florham Park, NJ | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543?utm_source=aprameyak) | Oct 14 |
+| Copart | DevOps Engineer Intern | Dallas, TX | Undergrad | [Apply](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/DevOps-Engineer-Intern_JR111751?utm_source=aprameyak) | Oct 14 |
 | GE Vernova | GE Vernova – AGI – AI Evaluation & Benchmarking Intern - Summer 2027 | Bellevue, WA | Undergrad | [Apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2?utm_source=aprameyak) | Oct 14 |
 | ↳ | GE Vernova - AGI - Grid Foundational Models Intern - Summer 2027 | Bellevue, WA | Undergrad | [Apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3?utm_source=aprameyak) | Oct 14 |
+| ↳ | GE Vernova - AGI - AI Power Systems Intern - Summer 2027 | Bellevue, WA | Masters | [Apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Power-Systems-Intern---Summer-2027_R5054818-2?utm_source=aprameyak) | Oct 14 |
+| ↳ | GE Vernova – AGI – AI Post-Training and Model Alignment Intern - Summer 2027 | Bellevue, WA | Undergrad | [Apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2?utm_source=aprameyak) | Oct 14 |
 | Gilead Sciences | Intern - Development - CDS AI Research Center | Foster City, CA | Undergrad | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Development---CDS-AI-Research-Center_R0054721?utm_source=aprameyak) | Oct 14 |
+| JPMorganChase | 2027 AI Research Associate Program - Internship | New York, NY | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800354) | Oct 14 |
 | KLA | Computer Vision/Machine Learning Intern | Milpitas, CA | Undergrad | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1?utm_source=aprameyak) | Oct 14 |
 | Northrop Grumman | 2027 S/W Cybersecurity Intern – Annapolis MD | Annapolis, MD | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705?utm_source=aprameyak) | Oct 14 |
+| Point72 | 2027 Summer Internship - Fundamental Researcher, Canvas | New York, NY | Undergrad | [Apply](https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002&utm_source=aprameyak) | Oct 14 |
+| ↳ | 2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research | New York, NY | PhD | [Apply](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002&utm_source=aprameyak) | Oct 14 |
+| ↳ | 2027 Summer Internship – Software Engineer | New York, NY | Undergrad | [Apply](https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002&utm_source=aprameyak) | Oct 14 |
+| QTS | Summer 2027 Internship: Information Security Operations Analyst | US GA Atlanta Suwanee 1 DC1 | Undergrad | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/US-GA-Atlanta-Suwanee-1-DC1/Summer-2027-Internship--Information-Security-Operations-Analyst_R2026-2273?utm_source=aprameyak) | Oct 14 |
 | Tenstorrent | Systems Intern - Validation, Software, Design, Architecture & Packaging (Canada) | <details><summary>**2 locations**</summary>Toronto, ON</br>Vancouver, BC</details> | Masters | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007?utm_source=aprameyak) | Oct 14 |
 | Allegion | Summer Intern – Software Operations Engineer | Carmel, IN | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1?utm_source=aprameyak) | Oct 13 |
 | Aptiv | Cloud Engineering Intern | CAN Kanata, ON | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383?utm_source=aprameyak) | Oct 13 |
