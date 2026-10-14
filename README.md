@@ -4,7 +4,7 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (5606)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (5609)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1600)
 - [🎓 New Grad 2027](./NEWGRAD.md) (2677)
 
@@ -20,16 +20,19 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **5606** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **5609** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | AeroVironment | Finance Systems Intern | Simi Valley, CA | Masters | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Finance-Systems-Intern_8899?utm_source=aprameyak) | Oct 14 |
+| GE Vernova | GE Vernova – AGI – AI Evaluation & Benchmarking Intern - Summer 2027 | Bellevue, WA | Undergrad | [Apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2?utm_source=aprameyak) | Oct 14 |
+| ↳ | GE Vernova - AGI - Grid Foundational Models Intern - Summer 2027 | Bellevue, WA | Undergrad | [Apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3?utm_source=aprameyak) | Oct 14 |
 | Gilead Sciences | Intern - Development - CDS AI Research Center | Foster City, CA | Undergrad | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Development---CDS-AI-Research-Center_R0054721?utm_source=aprameyak) | Oct 14 |
 | KLA | Computer Vision/Machine Learning Intern | Milpitas, CA | Undergrad | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1?utm_source=aprameyak) | Oct 14 |
 | Northrop Grumman | 2027 S/W Cybersecurity Intern – Annapolis MD | Annapolis, MD | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705?utm_source=aprameyak) | Oct 14 |
+| Tenstorrent | Systems Intern - Validation, Software, Design, Architecture & Packaging (Canada) | <details><summary>**2 locations**</summary>Toronto, ON</br>Vancouver, BC</details> | Masters | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007?utm_source=aprameyak) | Oct 14 |
 | Allegion | Summer Intern – Software Operations Engineer | Carmel, IN | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1?utm_source=aprameyak) | Oct 13 |
 | Aptiv | Cloud Engineering Intern | CAN Kanata, ON | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383?utm_source=aprameyak) | Oct 13 |
 | ↳ | Cloud Engineer Intern | CAN Kanata, ON | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704380?utm_source=aprameyak) | Oct 13 |
@@ -98,9 +101,6 @@ Showing newest **75** of **5606** listings · [View full table](./SUMMER.md)
 | Micron Technology | Intern - IT Software Engineer | Boise, ID | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941?utm_source=aprameyak) | Oct 10 |
 | NVIDIA | Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027 | Santa Clara, CA | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1?utm_source=aprameyak) | Oct 10 |
 | Veolia 🛂 | Field Engineering Intern | Nanticoke, PA | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154779385) | Oct 10 |
-| ↳ | Field Engineering Intern | Lincoln, NE | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154779699) | Oct 10 |
-| Waymo | 2027 Summer Intern, PhD, Research, AV Planning | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8258070) | Oct 10 |
-| Accenture Federal Services | Junior Automation Test Engineer | Arlington, VA | Undergrad | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4720595006?gh_jid=4720595006&utm_source=aprameyak) | Oct 9 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops

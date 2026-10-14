@@ -1,15 +1,18 @@
 # ☀️ Summer 2027 Internships
 
-5606 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+5609 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | AeroVironment | Finance Systems Intern | Simi Valley, CA | Masters | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Finance-Systems-Intern_8899?utm_source=aprameyak) | Oct 14 |
+| GE Vernova | GE Vernova – AGI – AI Evaluation & Benchmarking Intern - Summer 2027 | Bellevue, WA | Undergrad | [Apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2?utm_source=aprameyak) | Oct 14 |
+| ↳ | GE Vernova - AGI - Grid Foundational Models Intern - Summer 2027 | Bellevue, WA | Undergrad | [Apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3?utm_source=aprameyak) | Oct 14 |
 | Gilead Sciences | Intern - Development - CDS AI Research Center | Foster City, CA | Undergrad | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Development---CDS-AI-Research-Center_R0054721?utm_source=aprameyak) | Oct 14 |
 | KLA | Computer Vision/Machine Learning Intern | Milpitas, CA | Undergrad | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1?utm_source=aprameyak) | Oct 14 |
 | Northrop Grumman | 2027 S/W Cybersecurity Intern – Annapolis MD | Annapolis, MD | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705?utm_source=aprameyak) | Oct 14 |
+| Tenstorrent | Systems Intern - Validation, Software, Design, Architecture & Packaging (Canada) | <details><summary>**2 locations**</summary>Toronto, ON</br>Vancouver, BC</details> | Masters | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007?utm_source=aprameyak) | Oct 14 |
 | Allegion | Summer Intern – Software Operations Engineer | Carmel, IN | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1?utm_source=aprameyak) | Oct 13 |
 | Aptiv | Cloud Engineering Intern | CAN Kanata, ON | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383?utm_source=aprameyak) | Oct 13 |
 | ↳ | Cloud Engineer Intern | CAN Kanata, ON | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704380?utm_source=aprameyak) | Oct 13 |
