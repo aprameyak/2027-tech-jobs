@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-767 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+762 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 

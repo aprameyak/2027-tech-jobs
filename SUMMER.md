@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-2574 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2547 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -23,6 +23,7 @@
 | ↳ | 2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research | New York, NY | PhD | [Apply](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002&utm_source=aprameyak) | Oct 14 |
 | ↳ | 2027 Summer Internship – Software Engineer | New York, NY | Undergrad | [Apply](https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002&utm_source=aprameyak) | Oct 14 |
 | QTS | Summer 2027 Internship: Information Security Operations Analyst | US GA Atlanta Suwanee 1 DC1 | Undergrad | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/US-GA-Atlanta-Suwanee-1-DC1/Summer-2027-Internship--Information-Security-Operations-Analyst_R2026-2273?utm_source=aprameyak) | Oct 14 |
+| Susquehanna International Group | Sell Side Research Rotational Program: August 2027 Start | Remote (US) | Undergrad | [Apply](https://careers-sig.icims.com/jobs/11434/sell-side-research-rotational-program%3a-august-2027-start/job) | Oct 14 |
 | Tenstorrent | Systems Intern - Validation, Software, Design, Architecture & Packaging (Canada) | <details><summary>**2 locations**</summary>Toronto, ON</br>Vancouver, BC</details> | Masters | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007?utm_source=aprameyak) | Oct 14 |
 | Allegion | Summer Intern – Software Operations Engineer | Carmel, IN | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1?utm_source=aprameyak) | Oct 13 |
 | Aptiv | Cloud Engineering Intern | CAN Kanata, ON | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383?utm_source=aprameyak) | Oct 13 |

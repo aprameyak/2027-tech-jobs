@@ -4,9 +4,9 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (2574)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (767)
-- [🎓 New Grad 2027](./NEWGRAD.md) (1008)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (2547)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (762)
+- [🎓 New Grad 2027](./NEWGRAD.md) (999)
 
 ## Legend
 
@@ -20,7 +20,7 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **2574** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **2547** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -43,6 +43,7 @@ Showing newest **75** of **2574** listings · [View full table](./SUMMER.md)
 | ↳ | 2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research | New York, NY | PhD | [Apply](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002&utm_source=aprameyak) | Oct 14 |
 | ↳ | 2027 Summer Internship – Software Engineer | New York, NY | Undergrad | [Apply](https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002&utm_source=aprameyak) | Oct 14 |
 | QTS | Summer 2027 Internship: Information Security Operations Analyst | US GA Atlanta Suwanee 1 DC1 | Undergrad | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/US-GA-Atlanta-Suwanee-1-DC1/Summer-2027-Internship--Information-Security-Operations-Analyst_R2026-2273?utm_source=aprameyak) | Oct 14 |
+| Susquehanna International Group | Sell Side Research Rotational Program: August 2027 Start | Remote (US) | Undergrad | [Apply](https://careers-sig.icims.com/jobs/11434/sell-side-research-rotational-program%3a-august-2027-start/job) | Oct 14 |
 | Tenstorrent | Systems Intern - Validation, Software, Design, Architecture & Packaging (Canada) | <details><summary>**2 locations**</summary>Toronto, ON</br>Vancouver, BC</details> | Masters | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007?utm_source=aprameyak) | Oct 14 |
 | Allegion | Summer Intern – Software Operations Engineer | Carmel, IN | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1?utm_source=aprameyak) | Oct 13 |
 | Aptiv | Cloud Engineering Intern | CAN Kanata, ON | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383?utm_source=aprameyak) | Oct 13 |
@@ -104,7 +105,7 @@ Showing newest **75** of **2574** listings · [View full table](./SUMMER.md)
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **767** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **762** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
@@ -189,7 +190,7 @@ Showing newest **75** of **767** listings · [View full table](./OFFCYCLE.md)
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **1008** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **999** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
@@ -197,9 +198,7 @@ Showing newest **75** of **1008** listings · [View full table](./NEWGRAD.md)
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | Amgen | CD&A Data Scientist, Obesity - Associate - Hybrid - Thousand Oaks | Thousand Oaks, CA |  | Undergrad | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate---Hybrid---Thousand-Oaks_R-258217?utm_source=aprameyak) | Oct 14 |
 | Juniper Networks | Engineering Resolution Team Engineer Graduate | Spring, TX |  | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Engineering-Resolution-Team-Engineer-Graduate_1216553-1?utm_source=aprameyak) | Oct 14 |
-| Micron Technology | New College Grad - Computer Engineer, Engineering Automation | Richardson, TX |  | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/New-College-Grad---Computer-Engineer--Engineering-Automation_JR103691?utm_source=aprameyak) | Oct 14 |
-| Northrop Grumman | Associate Cloud Software Engineer (Level 1) | Redondo Beach, CA |  | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Associate-Cloud-Software-Engineer--Level-1-_R10255928?utm_source=aprameyak) | Oct 14 |
-| ↳ | 2027 Associate Systems Engineer – Annapolis MD | Annapolis, MD | Spring 2027 | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-Systems-Engineer---Annapolis-MD_R10254912?utm_source=aprameyak) | Oct 14 |
+| Northrop Grumman | 2027 Associate Systems Engineer – Annapolis MD | Annapolis, MD | Spring 2027 | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-Systems-Engineer---Annapolis-MD_R10254912?utm_source=aprameyak) | Oct 14 |
 | NVIDIA | SoC Software Engineer - New College Grad 2027 | Santa Clara, CA | Spring 2027 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744?utm_source=aprameyak) | Oct 14 |
 | Veeva Systems | Associate DevOps Engineer | Boston, MA |  | Undergrad | [Apply](https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2?utm_source=aprameyak) | Oct 14 |
 | AbbVie | Associate Data Scientist I | North Chicago, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016070676) | Oct 13 |
@@ -246,6 +245,7 @@ Showing newest **75** of **1008** listings · [View full table](./NEWGRAD.md)
 | Harvey | Software Engineer, New Grad (2027) | San Francisco, CA | Winter 2026 – Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?utm_source=aprameyak) | Oct 2 |
 | ↳ | Software Engineer, New Grad (2027) | New York, NY | Winter 2026 – Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?utm_source=aprameyak) | Oct 2 |
 | NXP Semiconductors | ENTRY LEVEL - SYSTEMS & APPLICATIONS ENGINEER | Austin, TX |  | Masters | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/ENTRY-LEVEL---SYSTEMS---APPLICATIONS-ENGINEER_R-10066569?utm_source=aprameyak) | Oct 2 |
+| RFCUNY 🛂 | Associate Data Analyst | New York, NY |  | Undergrad | [Apply](https://rfcuny.wd108.myworkdayjobs.com/en-US/RFCUNY/job/New-York-NY/Associate-Data-Analyst_JR4696?utm_source=aprameyak) | Oct 2 |
 | Superhuman | Software Engineer, Full-Stack - GPTZero, Early Career | Toronto, ON |  | Undergrad | [Apply](https://jobs.ashbyhq.com/superhuman%20platform%20inc/134c282c-2837-44a8-9f7c-74ca39486490/application?utm_source=aprameyak) | Oct 2 |
 | Veeva Systems | Associate Software Engineer in Test | Toronto, ON |  | Undergrad | [Apply](https://jobs.lever.co/veeva/fecaef42-b5c1-4fb2-b819-058171174ed1?utm_source=aprameyak) | Oct 2 |
 | General Dynamics Mission Systems | Systems Engineer – Entry Level- June 2027 start | Manassas, VA |  | Masters | [Apply](https://careers-gdms.icims.com/jobs/74778/systems-engineer-%e2%80%93-entry-level--june-2027-start/job) | Oct 1 |
@@ -269,6 +269,8 @@ Showing newest **75** of **1008** listings · [View full table](./NEWGRAD.md)
 | ↳ | 2027 Management Development Program - IS Forward Deployed Product Analyst (Wilmington, DE) | Wilmington, DE | Spring 2027 | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product-Analyst---Wilmington--DE-_R89998?utm_source=aprameyak) | Sep 28 |
 | Morgan Stanley | Associate, Software Engineer | Alpharetta, GA |  | Undergrad | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Associate--Software-Engineer_JR040855?utm_source=aprameyak) | Sep 28 |
 | ↳ | Associate, Software Engineer | Alpharetta, GA |  | Undergrad | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Associate--Software-Engineer_JR038855-1?utm_source=aprameyak) | Sep 28 |
+| Verizon Communications | Junior Data Security Engineer | Alpharetta, GA |  | Undergrad | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Alpharetta-Georgia/Junior-Data-Security-Engineer_R-1101423-1?utm_source=aprameyak) | Sep 28 |
+| Perplexity | Member of Technical Staff (New Grad) | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/perplexity/b539e100-4b8c-4701-a5a8-52b9a72f435e/application?utm_source=aprameyak) | Sep 27 |
 <!-- TABLE_END newgrad -->
 
 ## License
