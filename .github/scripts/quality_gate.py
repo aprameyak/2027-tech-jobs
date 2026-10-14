@@ -112,10 +112,10 @@ def main() -> int:
         text = path.read_text()
         m = re.search(r'(\d+)\s+listing', text)
         header = int(m.group(1)) if m else -1
-        total_count = sum(1 for e in listings if e.get('type') == t)
+        total_count = sum(1 for e in listings if e.get('type') == t and e.get('url'))
         if header != total_count:
             errors.append(
-                f'{path.name} count mismatch: header={header} json_total={total_count}'
+                f'{path.name} count mismatch: header={header} json_live={total_count}'
             )
 
     seen: dict[str, dict] = {}
