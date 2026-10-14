@@ -782,16 +782,18 @@ def classify_sponsorship(jobs):
         try:
             message = client.messages.create(
                 model=CLAUDE_MODEL,
-                max_tokens=len(chunk) * 16 + 32,
+                max_tokens=len(chunk) * 30 + 200,
                 messages=[{'role': 'user', 'content': build_sponsorship_prompt([j['visa_text'] for j in chunk])}],
             )
             _record_claude_call()
-            parsed = parse_sponsorship_response(message.content[0].text, len(chunk))
+            reply = message.content[0].text
+            parsed = parse_sponsorship_response(reply, len(chunk))
         except Exception as e:
             print(f'  [Claude/sponsorship] Error: {e}')
             return
         if parsed is None:
-            print(f'  [Claude/sponsorship] Malformed response for {len(chunk)} job(s) — leaving Unknown')
+            print(f'  [Claude/sponsorship] Malformed response for {len(chunk)} job(s) — leaving Unknown '
+                  f'(stop={message.stop_reason}, reply={reply[:120]!r}...{reply[-60:]!r})')
             continue
         for job, (sponsorship, citizenship) in zip(chunk, parsed):
             job['sponsorship'] = sponsorship

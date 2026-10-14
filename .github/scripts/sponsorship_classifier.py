@@ -29,7 +29,7 @@ def extract_visa_snippets(text):
     if not text:
         return ''
     picked = []
-    text = re.sub(r'\bU\.S\.', 'US', text)
+    text = re.sub(r'\s+', ' ', re.sub(r'\bU\.S\.', 'US', text))
     for sent in re.split(r'(?<=[.!?])\s+', text):
         if _KEYWORDS.search(sent):
             picked.append(sent.strip()[:MAX_SNIPPET_CHARS])
@@ -48,13 +48,16 @@ def build_sponsorship_prompt(snippets):
         'c = U.S. citizenship: "y" only if U.S. citizenship (or an active clearance requiring it) is '
         'required; "n" otherwise.\n'
         'Judge only from the excerpt. Reply with ONLY a JSON array of '
-        f'{len(snippets)} objects like {{"s":"n","c":"n"}}, in order.\n\n{rows}'
+        f'{len(snippets)} objects like {{"s":"n","c":"n"}}, in order, no extra text.\n\n{rows}'
     )
 
 
 def parse_sponsorship_response(text, n):
     """Parse Claude's reply into n (sponsorship, citizenship) tuples; None on malformed output."""
-    text = re.sub(r'^```(?:json)?\s*|\s*```$', '', (text or '').strip())
+    text = (text or '').strip()
+    start, end = text.find('['), text.rfind(']')
+    if start != -1 and end > start:
+        text = text[start:end + 1]
     try:
         raw = json.loads(text)
     except json.JSONDecodeError:
