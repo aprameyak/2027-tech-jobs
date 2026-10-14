@@ -28232,8 +28232,8 @@
   },
   "staff research scientist": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0
   },
   "staff site reliability engineer, fabric": {
@@ -69022,9 +69022,10 @@
     "b": "s"
   },
   "principal research scientist i": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "r&d food science co-op - fall term": {
