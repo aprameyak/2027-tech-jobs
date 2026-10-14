@@ -39,8 +39,15 @@ jobs:
         run: |
           git config user.name "Aprameya Kannan"
           git config user.email "aprameyakannan@gmail.com"
-          git add listings.json README.md SUMMER.md OFFCYCLE.md NEWGRAD.md || true
+          git add listings.json || true
           if ! git diff --staged --quiet; then
             git commit -m "mark closed positions"
-            for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
+            for i in 1 2 3 4 5; do
+              git pull --rebase -X ours \
+                && python3 .github/scripts/rebuild_readme.py \
+                && git add README.md SUMMER.md OFFCYCLE.md NEWGRAD.md \
+                && { git diff --staged --quiet || git commit -m "refresh tables"; } \
+                && git push && break
+              sleep $((i*5))
+            done
           fi
