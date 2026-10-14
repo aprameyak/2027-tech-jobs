@@ -8,7 +8,7 @@ import unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from scrape_jobs import infer_listing_type, is_auto_addable  # noqa: E402
+from scrape_jobs import infer_listing_type, is_auto_addable
 
 
 NEWGRAD = 'New Grad (Full-Time)'
@@ -74,7 +74,6 @@ class InferListingTypeTests(unittest.TestCase):
                 self.assert_type(title, INTERNSHIP)
                 self.assertTrue(is_auto_addable(title))
 
-        # Bare engineering titles are campus-shaped but out of CS/IS scope.
         self.assert_type('Engineering Interns', INTERNSHIP)
         self.assertFalse(is_auto_addable('Engineering Interns'))
 

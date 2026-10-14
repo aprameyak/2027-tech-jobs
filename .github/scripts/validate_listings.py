@@ -136,7 +136,6 @@ def validate_entry(entry):
     if is_closed:
         return [(company, role, v) for v in violations]
 
-    # Live listings must stay in discipline + campus scope (blocks hardware/semi).
     if is_out_of_scope_title(role) or not is_in_scope_listing_title(role, table=table):
         violations.append('out-of-scope role (hardware/semiconductor/non-campus/non-tech)')
 
@@ -171,7 +170,6 @@ def validate_entry(entry):
 
 def validate_duplicate_urls(listings):
     """Reject live listings that share a normalized URL identity."""
-    # Import here to keep validate_listings usable without circular imports at module load.
     from quality_gate import normalize_url
 
     seen = {}

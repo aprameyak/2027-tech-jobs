@@ -13,7 +13,6 @@ import requests
 import yaml
 from pathlib import Path
 
-# Global timeout for all requests (30s connection, 60s read)
 requests.adapters.DEFAULT_RETRIES = requests.packages.urllib3.util.retry.Retry(
     total=2, backoff_factor=0.3, status_forcelist=[500, 502, 503, 504]
 )
@@ -27,7 +26,7 @@ _session.mount('https://', requests.adapters.HTTPAdapter(max_retries=requests.pa
 _original_request = requests.request
 def _request_with_timeout(*args, **kwargs):
     if 'timeout' not in kwargs:
-        kwargs['timeout'] = (30, 60)  # (connection timeout, read timeout)
+        kwargs['timeout'] = (30, 60)
     return _session.request(*args, **kwargs)
 requests.request = _request_with_timeout
 
@@ -43,6 +42,9 @@ from scope_rules import (
     HARD_REJECT_SIGNALS,
     is_out_of_scope_title,
     is_campus_role_title,
+)
+from sponsorship_classifier import (
+    build_sponsorship_prompt, extract_visa_snippets, html_to_text, parse_sponsorship_response,
 )
 from claude_board_prompts import build_classify_prompt, board_token_to_table, CLASSIFIER_VERSION
 
@@ -60,11 +62,7 @@ CLAUDE_USAGE_FILE = (
 FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
 
 CLAUDE_MODEL = 'claude-haiku-4-5-20251001'
-# Larger batches = fewer API round-trips (prompt amortized). Quality still OK at 60.
 CLAUDE_BATCH_SIZE = int(os.environ.get('CLAUDE_BATCH_SIZE', '60'))
-# Hard caps so credit use stays bounded even after classifier version bumps.
-# Budget sized so gray-area titles actually reach Claude instead of dying on
-# keyword heuristics. Override via env in the workflow if needed.
 CLAUDE_MAX_CALLS_PER_RUN = int(os.environ.get('CLAUDE_MAX_CALLS_PER_RUN', '24'))
 CLAUDE_MAX_CALLS_PER_DAY = int(os.environ.get('CLAUDE_MAX_CALLS_PER_DAY', '120'))
 CLAUDE_MAX_TITLES_PER_RUN = int(os.environ.get('CLAUDE_MAX_TITLES_PER_RUN', '720'))
@@ -80,7 +78,6 @@ ORACLE_SEARCH_TERMS = (
     'Analyst Program', 'co-op', 'university', 'entry level', 'early career',
 )
 SCRAPER_MAX_WORKERS = 12
-# Compact campus keyword set for iCIMS throughput (entry lists are capped to this).
 ICIMS_CAMPUS_KEYWORDS = [
     '2027', 'Intern', 'Internship', 'New Grad', 'Campus',
     'Graduate', 'Student', 'Early Career', 'co-op', 'Associate',
@@ -91,7 +88,7 @@ _title_cache = None
 _confidence_cache = {}
 _add_cache = {}
 _board_cache = {}
-_version_cache = {}  # title_lower → CLASSIFIER_VERSION stamped on last decision
+_version_cache = {}
 _claude_calls_today = 0
 _claude_usage_date = None
 
@@ -154,7 +151,6 @@ TECH_KEYWORDS = [
     'mis', 'informatics',
 ]
 
-# Ultra-clear SWE/CS titles that may skip Claude on cache miss (still versioned).
 HIGH_CONFIDENCE_TECH_SIGNALS = [
     'software engineer', 'software developer', 'software development',
     'data engineer', 'data scientist', 'data analyst', 'data science',
@@ -282,7 +278,6 @@ def normalize_location(location):
             if abbr:
                 return f'{city}, {abbr}'
 
-        # Oracle HCM: "Phoenix, AZ, United States" / "Toronto, ON, Canada"
         m = re.match(
             r'^(.+),\s*([A-Za-z]{2}),\s*(United States(?: of America)?|USA|Canada)$',
             part,
@@ -348,15 +343,12 @@ def load_title_cache():
                             if table:
                                 _board_cache[k] = table
                             elif _title_cache[k] and _add_cache.get(k, True):
-                                # Preserve board across parallel scraper saves.
                                 try:
                                     lt, season = infer_listing_type(k)
                                     _board_cache[k] = table_for_listing(lt, season)
                                 except Exception:
                                     pass
-                            # Stale classifier version → force Claude re-check on next scrape hit.
                             if _version_cache[k] != CLASSIFIER_VERSION:
-                                # Keep entry loaded for fallback, but mark for refresh.
                                 _confidence_cache[k] = 'stale'
                         else:
                             _title_cache[k] = bool(v)
@@ -465,7 +457,6 @@ def _claude_budget_ok(need_calls=1):
         load_claude_usage()
     if _claude_calls_this_run + need_calls > CLAUDE_MAX_CALLS_PER_RUN:
         return False
-    # Per-group file + global across all board groups.
     if _claude_calls_today + need_calls > CLAUDE_MAX_CALLS_PER_DAY:
         return False
     if _total_claude_calls_today() + need_calls > CLAUDE_MAX_CALLS_PER_DAY:
@@ -550,7 +541,6 @@ def _infer_board_bucket(title):
     if table == 'newgrad' and has_newgrad and not has_intern:
         return 'newgrad'
     if has_intern and not has_newgrad:
-        # Fellows / student roles default to offcycle unless clearly summer.
         if re.search(r'\bfellows?\b|\bfellowship\b|\bstudent\b', t) and 'summer' not in t:
             return 'offcycle'
         return 'offcycle' if (season in OFFCYCLE_SEASONS or 'co-op' in t or 'coop' in t) else 'summer'
@@ -577,7 +567,6 @@ def batch_classify_with_claude(titles, board='unknown'):
     clipped = [_clip_title(t) for t in titles]
     n = len(clipped)
     prompt = build_classify_prompt(clipped, board=board)
-    # Higher token budget for stricter JSON + board field
     max_tokens = max(n * 28 + 96, 256)
 
     for attempt in range(4):
@@ -612,7 +601,6 @@ def batch_classify_with_claude(titles, board='unknown'):
                 if norm is None:
                     continue
                 if board != 'unknown' and norm.get('b') not in ('x', None):
-                    # Lock accepted rows to the batch board.
                     expected = {'summer': 's', 'offcycle': 'o', 'newgrad': 'n'}[board]
                     if norm.get('a') and norm.get('is_tech'):
                         norm['b'] = expected
@@ -633,7 +621,6 @@ def batch_classify_with_claude(titles, board='unknown'):
                 return out
             return {}
         except Exception as e:
-            # Keep 429 handling
             try:
                 import anthropic as _anthropic
                 if isinstance(e, _anthropic.APIStatusError) and e.status_code == 429:
@@ -658,7 +645,7 @@ def classify_titles_batch(title_list):
     cache = load_title_cache()
 
     seen_lower = set()
-    need_claude = []  # (priority, title) — lower priority number = sooner
+    need_claude = []
     heuristic = 0
 
     for t in title_list:
@@ -667,7 +654,6 @@ def classify_titles_batch(title_list):
             continue
         seen_lower.add(tl)
 
-        # Hard rejects only — free, no Claude. Everything else can reach the LLM.
         if any(s in tl for s in HARD_REJECT_SIGNALS) or is_out_of_scope_title(t):
             cache[tl] = False
             _confidence_cache[tl] = 'high'
@@ -692,11 +678,8 @@ def classify_titles_batch(title_list):
         if cache_fresh:
             if tl not in _add_cache:
                 _add_cache[tl] = _derive_add_decision(t, bool(cache[tl]))
-            # Never keyword-narrow a fresh Claude/heuristic accept; hard reject
-            # already handled above.
             continue
 
-        # Ultra-clear campus SWE/CS — heuristic only (saves credits).
         if clear_swe and campus_ok:
             cache[tl] = True
             _confidence_cache[tl] = 'high'
@@ -711,8 +694,6 @@ def classify_titles_batch(title_list):
             or _confidence_cache.get(tl) == 'stale'
         )
 
-        # Stale or unknown → Claude decides (do not restamp old rejects on
-        # version bumps; that blocked the LLM from re-evaluating).
         priority = 1 if stale else 0
         need_claude.append((priority, t))
 
@@ -731,7 +712,6 @@ def classify_titles_batch(title_list):
         )
         for t in deferred:
             tl = t.lower()
-            # Do not stamp new version — retry when budget allows.
             if tl not in cache:
                 cache[tl] = False
             _confidence_cache[tl] = 'low'
@@ -769,7 +749,6 @@ def classify_titles_batch(title_list):
                 )
                 if result is not None:
                     is_tech = bool(result.get('is_tech', False))
-                    # Trust Claude on discipline — only hard-reject overrides.
                     if is_out_of_scope_title(title):
                         is_tech = False
                     cache[tl] = is_tech
@@ -784,7 +763,6 @@ def classify_titles_batch(title_list):
                         _add_cache[tl] = _derive_add_decision(title, is_tech)
                     _version_cache[tl] = CLASSIFIER_VERSION
                 else:
-                    # Budget miss / API failure: never auto-add; leave version stale if any.
                     if tl not in cache:
                         cache[tl] = False
                     _confidence_cache[tl] = 'low'
@@ -792,6 +770,33 @@ def classify_titles_batch(title_list):
                 classified += 1
 
     return classified
+
+def classify_sponsorship(jobs):
+    """Fill job['sponsorship'/'citizenship'] from visa snippets via one batched Claude call per chunk."""
+    todo = [j for j in jobs if j.get('visa_text')]
+    for i in range(0, len(todo), CLAUDE_BATCH_SIZE):
+        chunk = todo[i:i + CLAUDE_BATCH_SIZE]
+        client = _get_claude_client()
+        if not client or not _claude_budget_ok(1):
+            return
+        try:
+            message = client.messages.create(
+                model=CLAUDE_MODEL,
+                max_tokens=len(chunk) * 16 + 32,
+                messages=[{'role': 'user', 'content': build_sponsorship_prompt([j['visa_text'] for j in chunk])}],
+            )
+            _record_claude_call()
+            parsed = parse_sponsorship_response(message.content[0].text, len(chunk))
+        except Exception as e:
+            print(f'  [Claude/sponsorship] Error: {e}')
+            return
+        if parsed is None:
+            print(f'  [Claude/sponsorship] Malformed response for {len(chunk)} job(s) — leaving Unknown')
+            continue
+        for job, (sponsorship, citizenship) in zip(chunk, parsed):
+            job['sponsorship'] = sponsorship
+            if citizenship:
+                job['citizenship'] = citizenship
 
 def load_seen_jobs():
     if SEEN_JOBS_FILE.exists():
@@ -880,7 +885,6 @@ def classify_title(title, allow_claude=True):
 
     if allow_claude:
         if not _claude_budget_ok(1):
-            # Budget: do not spend a single-title call; fall through to keywords.
             pass
         else:
             try:
@@ -899,7 +903,6 @@ def classify_title(title, allow_claude=True):
                     table = board_token_to_table(result.get('b'))
                     if table:
                         _board_cache[t] = table
-                    # Trust Claude; only hard-reject / explicit board reject overrides.
                     if result.get('b') == 'x' or is_out_of_scope_title(title):
                         _add_cache[t] = False
                     _version_cache[t] = CLASSIFIER_VERSION
@@ -919,7 +922,6 @@ def is_candidate_title(title):
         return True
     if any(kw in t for kw in SUBSTRING_KEYWORDS):
         return True
-    # Tech-looking titles without campus wording still go to Claude for campus fit.
     if any(kw in t for kw in TECH_KEYWORDS):
         return True
     return False
@@ -962,8 +964,6 @@ def infer_listing_type(title):
     if any(kw in t for kw in ['co-op', 'coop', 'co op']):
         return 'Internship', 'Co-op'
 
-    # Full-time new-grad signals beat graduation-window seasons embedded in titles
-    # e.g. "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027)"
     if not is_intern and any(kw in t for kw in [
         'new grad', 'new-grad', 'entry level', 'entry-level', 'early career',
         'university graduate', 'new college grad', 'college grad',
@@ -971,7 +971,6 @@ def infer_listing_type(title):
     ]):
         return 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
 
-    # Bank / consulting style graduate & analyst programs (non-intern)
     if not is_intern:
         if re.search(r'\bgraduate (program|programme)\b', t) and any(
             k in t for k in (
@@ -1062,7 +1061,6 @@ def is_auto_addable(title):
         return False
 
     if re.search(r'\b(senior|staff|principal|director)\b', t) and 'intern' not in t:
-        # Allow MotS / new-grad staff titles through campus gate below.
         if not re.search(
             r'member of technical staff|ml technical staff|new\s*grad|new-grad|'
             r'new college|entry[- ]level|early[- ]career|phd early',
@@ -1075,8 +1073,6 @@ def is_auto_addable(title):
     listing_type, season = infer_listing_type(title)
     table = table_for_listing(listing_type, season)
 
-    # Prefer explicit campus new-grad titles even when season inference is wrong
-    # (e.g. "Product Manager (2027 Graduates)" → mis-tagged Summer).
     if (
         not re.search(r'\bintern(?:ships?|s)?\b|\bco-?ops?\b', t)
         and is_campus_role_title(title, 'newgrad')
@@ -1092,8 +1088,6 @@ def is_auto_addable(title):
         return False
     if is_out_of_scope_title(title):
         return False
-    # Heuristic auto-add needs a tech signal. Gray titles rely on Claude's `a` flag
-    # in classify_titles_batch — not this keyword gate.
     if not (
         any(kw in t for kw in TECH_KEYWORDS)
         or any(s in t for s in HIGH_CONFIDENCE_TECH_SIGNALS)
@@ -1198,7 +1192,7 @@ def build_entry(job):
             listing_type = 'Internship'
         else:
             listing_type, season = 'New Grad (Full-Time)', '2027 (New Grad — no specific season)'
-    citizenship = 'Unknown'
+    citizenship = job.get('citizenship') or 'Unknown'
     if any(k in title_l for k in (
         'ts/sci', 'top secret', 'u.s. citizen', 'us citizen', 'us citizenship',
         'security clearance', 'with poly', 'w/poly', 'w poly',
@@ -1212,7 +1206,7 @@ def build_entry(job):
         'season': season,
         'education': education,
         'url': with_aprameyak_utm(job['url']),
-        'sponsorship': 'Unknown',
+        'sponsorship': job.get('sponsorship', 'Unknown'),
         'citizenship': citizenship,
         'date_added': datetime.now().strftime('%Y-%m-%d'),
     }
@@ -1228,7 +1222,6 @@ def add_job_directly(job, listings_file, rebuild=True):
         location = normalize_location(job.get('location', ''))
 
         table = table_for_listing(listing_type, season)
-        # Prefer Claude board assignment when available.
         tl = job['title'].lower()
         claude_table = _board_cache.get(tl)
         if claude_table in ('summer', 'offcycle', 'newgrad'):
@@ -1261,8 +1254,8 @@ def add_job_directly(job, listings_file, rebuild=True):
             'season': season,
             'education': education,
             'url': with_aprameyak_utm(job['url']),
-            'sponsorship': 'Unknown',
-            'citizenship': 'Unknown',
+            'sponsorship': job.get('sponsorship', 'Unknown'),
+            'citizenship': job.get('citizenship', 'Unknown'),
             'date_added': datetime.now().strftime('%Y-%m-%d'),
         }
         if table == 'newgrad':
@@ -1337,6 +1330,7 @@ def scrape_greenhouse(company, slug):
                     'location': location,
                     'url': job.get('absolute_url', ''),
                     'board': 'Greenhouse',
+                    'visa_text': extract_visa_snippets(html_to_text(job.get('content', ''))),
                 })
         return jobs
     except Exception as e:
@@ -1363,6 +1357,8 @@ def scrape_lever(company, slug):
                     'location': location,
                     'url': job.get('hostedUrl', ''),
                     'board': 'Lever',
+                    'visa_text': extract_visa_snippets(
+                        (job.get('descriptionPlain') or '') + ' ' + (job.get('additionalPlain') or '')),
                 })
         return jobs
     except Exception as e:
@@ -1396,6 +1392,8 @@ def scrape_ashby(company, slug):
                     'location': location,
                     'url': apply_url,
                     'board': 'Ashby',
+                    'visa_text': extract_visa_snippets(
+                        job.get('descriptionPlain') or html_to_text(job.get('descriptionHtml', ''))),
                 })
         return jobs
     except Exception as e:
@@ -1476,8 +1474,6 @@ def scrape_workable(company, slug):
             region = loc.get('region', '') or ''
             title_l = title.lower()
 
-            # Some Workable boards leave location empty and encode geo in the title
-            # (e.g. "US Remote" / "EMEA Remote").
             if not country and not city:
                 if re.search(r'\b(us|usa|united states|canada)\b.*\bremote\b|\bremote\b.*\b(us|usa|canada)\b', title_l):
                     remote = True
@@ -1492,7 +1488,6 @@ def scrape_workable(company, slug):
                 continue
             if not country and not remote:
                 continue
-            # Skip clearly non-NA title geos even when remote flag is set without country
             if re.search(r'\b(emea|europe|uk|london|india|apac|latam)\b', title_l) and not re.search(
                 r'\b(us|usa|united states|canada)\b', title_l
             ):
@@ -1821,7 +1816,6 @@ def _icims_infer_location(card_html, host):
 
 def scrape_icims(company, host, keywords=None):
     raw = list(keywords) if keywords else list(ICIMS_CAMPUS_KEYWORDS)
-    # Prefer compact campus set for hourly-run throughput; keep order, cap size.
     keywords = []
     for kw in list(ICIMS_CAMPUS_KEYWORDS) + [str(k) for k in raw]:
         if kw and kw not in keywords:
@@ -1891,13 +1885,11 @@ def scrape_icims(company, host, keywords=None):
                         re.S | re.I,
                     )
                     location = _parse_icims_locations(loc_m.group(1).strip() if loc_m else '')
-                    # Do not treat other header fields (Experience Level, Category) as location.
                     if location and not (
                         re.match(r'US-[A-Z]{2}-', location)
                         or re.search(r',\s*[A-Z]{2}$', location)
                         or re.match(r'(?i)^remote', location)
                     ):
-                        # Parsed something that isn't a geo — discard
                         if not re.search(r',\s*[A-Z]{2}\b|US-[A-Z]{2}', loc_m.group(1) if loc_m else ''):
                             location = ''
                     if not location:
@@ -2462,6 +2454,7 @@ def main():
         if tl in _add_cache and not _add_cache[tl]:
             seen.add(job['id'])
 
+    classify_sponsorship(to_list)
     print(f'  Adding {len(to_list)} job(s) to pending')
 
     if PENDING_FILE is not None:

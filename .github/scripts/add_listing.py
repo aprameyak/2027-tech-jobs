@@ -13,6 +13,7 @@ if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 from grad_date import infer_grad_date
 from normalize_locations import clean_location
+from normalize_sponsorship import normalize_citizenship, normalize_sponsorship
 from scope_rules import is_in_scope_listing_title
 
 STRIP_PARAMS = {
@@ -351,8 +352,8 @@ def main():
         'season': fields.get('Season / Term', '').strip(),
         'education': fields.get('Education Level', 'Undergrad').strip(),
         'url': apply_link,
-        'sponsorship': fields.get('Visa Sponsorship?', '').strip(),
-        'citizenship': fields.get('U.S. Citizenship Required?', '').strip(),
+        'sponsorship': normalize_sponsorship(fields.get('Visa Sponsorship?', '')),
+        'citizenship': normalize_citizenship(fields.get('U.S. Citizenship Required?', '')),
         'date_added': datetime.now().strftime('%Y-%m-%d'),
     }
     if table_type == 'newgrad':

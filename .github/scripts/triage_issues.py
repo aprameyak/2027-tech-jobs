@@ -272,7 +272,6 @@ def main():
             print('  local reject (out of scope)')
             continue
 
-        # Free reject when title clearly fails CS/IS campus gate (saves Claude credits).
         listing_type = fields.get('Listing Type', '')
         season = fields.get('Season / Term', '')
         if 'New Grad' in listing_type or '2027 (New Grad' in season:

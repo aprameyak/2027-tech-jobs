@@ -2,8 +2,6 @@
 
 import re
 
-# Always out — non-tech / hardware / non-SWE-adjacent disciplines.
-# Do NOT put short tokens like "asic" here (substring traps); those use word-boundary checks below.
 HARD_REJECT_SIGNALS = [
     'manufacturing engineer', 'process engineer', 'chemical engineer',
     'mechanical engineer', 'mechanical design', 'materials engineer', 'materials scientist',
@@ -51,16 +49,10 @@ HARD_REJECT_SIGNALS = [
     'postdoctoral', 'post-doctoral', 'postdoc fellow', 'post-doc',
 ]
 
-# Soft hardware signals — reject unless title also has a strong SWE-adjacent keep signal
-# (e.g. "Software Controls Engineer", "Thermal Controls Engineer, Vehicle Software").
 _SOFT_HARDWARE_SIGNALS = [
     'controls engineer',
 ]
 
-# SWE-adjacent keep signals — anything software / devops / technology related,
-# plus AI, MLE, PM, consultant, and close neighbors.
-# If present, do not reject solely for soft-hardware / ASIC org tokens.
-# Positive CS / Info Science / Info Systems adjacency — required for every listing.
 _CS_ADJACENT = re.compile(
     r'\bsoftware\b|\bdeveloper\b|\bprogrammer\b|programming|computer science|\bcs\b|'
     r'information systems|\bmis\b|\bcis\b|information science|informatics|'
@@ -101,10 +93,8 @@ _CS_ADJACENT = re.compile(
     re.I,
 )
 
-# Alias for soft checks (business analyst / consulting / marketing gates).
 _SCOPE_TECH_HINT = _CS_ADJACENT
 
-# SWE-adjacent keep signals — used when a hard-reject token is mixed with SWE.
 _STRONG_KEEP = re.compile(
     r'\bsoftware\b|\bdevops\b|\btechnology\b|\btechnologies\b|\btechnologist\b|'
     r'\btech\b(?!\s*sales)|'
@@ -123,7 +113,6 @@ _STRONG_KEEP = re.compile(
     re.I,
 )
 
-# Non-CS engineering / science — always out even if campus-shaped.
 _NON_CS_DISCIPLINE = re.compile(
     r'\b('
     r'propulsion|structures?\s+engineer|thermal\s+engineer|textile\s+engineer|'
@@ -140,7 +129,6 @@ _NON_CS_DISCIPLINE = re.compile(
     re.I,
 )
 
-# Semiconductor / chip / EE-hardware — always out, never rescued by a SWE keyword.
 _SEMI_HARDWARE_ALWAYS = re.compile(
     r'\b('
     r'semiconductor|silicon\s+engineer|silicon\s+engineering|silicon\s+intern|'
@@ -160,7 +148,6 @@ _SEMI_HARDWARE_ALWAYS = re.compile(
     re.I,
 )
 
-# Word-boundary hardware tokens (avoid matching "basic", "applied science", etc.)
 _ASIC_RE = re.compile(r'\basics?\b', re.I)
 _FPGA_RE = re.compile(r'\bfpga\b', re.I)
 _EMBEDDED_RE = re.compile(r'\bembedded\b', re.I)
@@ -168,7 +155,6 @@ _FIRMWARE_RE = re.compile(r'\bfirmware\b', re.I)
 _HARDWARE_WORD_RE = re.compile(r'\bhardware\b', re.I)
 
 
-# Intern / co-op / student / fellow signals (plurals included).
 _INTERN_COOP = re.compile(
     r'\bintern(?:ships?|s)?\b|\bco-?ops?\b|\bcooperative\b|'
     r'summer analyst|summer associate|winter analyst|fall analyst|spring analyst|'
@@ -177,7 +163,6 @@ _INTERN_COOP = re.compile(
     re.I,
 )
 
-# Explicit new-grad / early-career campus signals.
 _NEWGRAD_MARKERS = re.compile(
     r'\bnew\s*grads?\b|\bnew-grads?\b|new college grads?|university grads?|college grads?|'
     r'entry[- ]level|early[- ]career|\bcampus\b|'
@@ -195,7 +180,6 @@ _NEWGRAD_MARKERS = re.compile(
     re.I,
 )
 
-# Plain entry-level tech titles commonly posted without "New Grad" in the title.
 _PLAIN_NEWGRAD_TITLE = re.compile(
     r'software engineer|software developer|software development|\bswe\b|\bsde\b|'
     r'machine learning|\bmle\b|ai engineer|data scientist|data engineer|data analyst|'
@@ -240,7 +224,6 @@ def is_campus_role_title(title, table=None):
         if not _EXPERIENCED_CAMPUS_OK.search(tl) and not _INTERN_COOP.search(tl):
             return False
 
-    # Startup "Founding *" roles are not campus new-grad / intern postings.
     if re.search(r'\bfounding\b', tl) and not (
         _NEWGRAD_MARKERS.search(tl) or _INTERN_COOP.search(tl)
     ):
@@ -249,14 +232,12 @@ def is_campus_role_title(title, table=None):
     if _INTERN_COOP.search(tl):
         return True
 
-    # Junior tech roles are entry-level / campus regardless of table.
     if re.search(r'\bjunior\b', tl) and re.search(
         r'software|engineer|developer|data|ml|ai|quant|security|cloud|devops|sre',
         tl,
     ):
         return True
 
-    # Named early-career programs often omit "intern" / "new grad".
     if re.search(
         r'rotational|development program|amplify|new analyst|new professional|'
         r'career development|edison engineering|early talent|\bresident\b',
@@ -265,7 +246,6 @@ def is_campus_role_title(title, table=None):
         return True
 
     if _PM_TITLE.search(tl):
-        # PM / TPM only when clearly campus (new grad, intern, 2027, associate, etc.)
         return bool(_NEWGRAD_MARKERS.search(tl) or _INTERN_COOP.search(tl))
 
     if table in ('summer', 'offcycle'):
@@ -276,7 +256,6 @@ def is_campus_role_title(title, table=None):
             return True
         return bool(_PLAIN_NEWGRAD_TITLE.search(tl))
 
-    # No table (scraper pre-check): intern/coop or explicit new-grad markers only.
     return bool(_NEWGRAD_MARKERS.search(tl))
 
 
@@ -287,7 +266,6 @@ def is_out_of_scope_title(title):
 
     has_keep = bool(_STRONG_KEEP.search(t))
 
-    # Embedded / firmware / semiconductor / non-CS engineering — always out.
     if _EMBEDDED_RE.search(t) or _FIRMWARE_RE.search(t):
         return True
     if _SEMI_HARDWARE_ALWAYS.search(t):
@@ -298,8 +276,6 @@ def is_out_of_scope_title(title):
         return True
 
     if any(s in t for s in HARD_REJECT_SIGNALS):
-        # Mixed titles like "Software / Hardware Engineering" stay in if SWE-primary,
-        # but never for hard EE / manufacturing / postdoc signals below.
         if has_keep and not any(
             s in t
             for s in (
@@ -326,7 +302,6 @@ def is_out_of_scope_title(title):
             return False
         return True
 
-    # Any "hardware" in the title is out — this board is software/tech only.
     if _HARDWARE_WORD_RE.search(t):
         return True
 

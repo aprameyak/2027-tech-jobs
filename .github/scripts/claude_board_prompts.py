@@ -7,11 +7,8 @@ Hard rejects (hardware, manufacturing, etc.) still apply in scope_rules before
 titles reach the API.
 """
 
-# Bump when discipline/board rules change so scrapers re-ask Claude instead of
-# trusting stale cache decisions from older prompts.
 CLASSIFIER_VERSION = 'cs-is-v4'
 
-# Shared discipline scope for all three boards — judgment task for Claude.
 _DISCIPLINE = (
     'Decide dynamically whether each title is campus tech (CS / information '
     'science / information systems and close neighbors). '
@@ -152,7 +149,7 @@ def build_triage_prompt(lines, n):
         '"location":"City, ST","education":"Undergrad"|"Masters"|"PhD"|'
         '"Undergrad; Masters"|"Undergrad; PhD"|"Masters; PhD"|"Undergrad; Masters; PhD",'
         '"citizenship":"Unknown"|"Yes — U.S. citizenship required",'
-        '"sponsorship":"Unknown"|"No — sponsorship not offered"}\n'
+        '"sponsorship":"Unknown"|"No — does NOT offer sponsorship"}\n'
         'For Internship + Summer 2027 → summer table. '
         'For Internship + co-op/fall/spring/winter/Summer 2026 → offcycle. '
         'For New Grad (Full-Time) → newgrad season '

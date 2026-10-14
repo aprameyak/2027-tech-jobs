@@ -43,7 +43,6 @@ STRIP = {
     'source', 'src', 'ref', 'referer', 'lever-source', 'lever-origin', 'gh_src', 'simplify',
 }
 
-# High-signal listings that must remain live (matched by unique URL fragment).
 MUST_LIVE = [
     ('DoorDash US intern', '8171041'),
     ('DoorDash TOR intern', '8170944'),
@@ -65,9 +64,7 @@ def normalize_url(url: str) -> str:
         and k.lower() not in {'mobile', 'needsredirect', 'in_iframe', 'mode', 'iis', 'iisn', 'ss'}
     }
     path = p.path or ''
-    # Collapse ATS apply-flow suffixes onto the canonical job path.
     path = re.sub(r'/(?:application|apply)/?$', '', path, flags=re.I)
-    # iCIMS: host/jobs/12345/anything -> host/jobs/12345
     path = re.sub(r'(?i)(/jobs/\d+)(?:/[^/]+)*$', r'\1', path)
     u = urlunparse(p._replace(
         scheme=(p.scheme or 'https').lower(),
@@ -76,7 +73,6 @@ def normalize_url(url: str) -> str:
         query=urlencode(sorted(params.items()), doseq=True),
         fragment='',
     ))
-    # Workday: drop locale + board name; identity is tenant + job path.
     u = re.sub(
         r'(myworkdayjobs\.com)/(?:en-[a-z]{2}/)?[^/]+/job/',
         r'\1/BOARD/job/',
@@ -114,7 +110,6 @@ def main() -> int:
 
     for t, path in TABLE_FILES.items():
         text = path.read_text()
-        # Table files report total rows: "N listing(s)" (open + closed with 🔒).
         m = re.search(r'(\d+)\s+listing', text)
         header = int(m.group(1)) if m else -1
         total_count = sum(1 for e in listings if e.get('type') == t)
@@ -157,7 +152,6 @@ def main() -> int:
         else:
             seen[n] = e
 
-    # DoorDash education invariant for the two live summer roles
     for e in listings:
         if e.get('company') != 'DoorDash' or not e.get('url'):
             continue

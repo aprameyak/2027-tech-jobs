@@ -124,7 +124,7 @@ def main():
     closed_dups = _dedupe_live_urls(listings)
     if closed_dups:
         print(f'  Closed {closed_dups} live URL duplicate(s) after merge')
-        added = max(added, 1)  # force write/rebuild/gate path
+        added = max(added, 1)
 
     if added > 0 or closed_dups:
         tmp = LISTINGS_FILE.with_suffix('.tmp')
@@ -156,14 +156,12 @@ def main():
             ['python3', '.github/scripts/quality_gate.py'],
             capture_output=True, text=True,
         )
-        # Always surface ERROR lines so CI logs are actionable.
         out = (qg.stdout or '') + (qg.stderr or '')
         for line in out.splitlines():
             if 'ERROR:' in line or 'QUALITY GATE' in line or line.startswith('Checked '):
                 print(line)
         if qg.returncode != 0:
             print(f'quality_gate.py failed after apply — not clearing pending')
-            # Print a short warning sample for context
             warns = [ln for ln in out.splitlines() if 'WARN:' in ln][:5]
             for ln in warns:
                 print(ln)
@@ -175,7 +173,6 @@ def main():
     else:
         print('All pending entries were duplicates or invalid — listings.json unchanged')
 
-    # Only clear pending after a successful apply path (or pure no-op/dup clear).
     for pending_file in consumed:
         try:
             pending_file.unlink()
