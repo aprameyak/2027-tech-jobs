@@ -7622,9 +7622,10 @@
     "b": "s"
   },
   "senior software engineer, simulation platform ": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior software engineer, site reliability": {
@@ -33194,8 +33195,9 @@
   },
   "sr. software engineer ii": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "sr staff / staff applied scientist": {
@@ -37907,9 +37909,9 @@
     "b": "s"
   },
   "senior-staff software engineer, tooling": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
