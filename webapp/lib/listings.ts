@@ -75,7 +75,7 @@ function processTable(
   listings: Listing[],
   type: 'summer' | 'offcycle' | 'newgrad'
 ): ProcessedRow[] {
-  const filtered = listings.filter((e) => e.type === type);
+  const filtered = listings.filter((e) => e.type === type && e.url);
 
   const sorted = [...filtered].sort((a, b) => {
     const aClosed = a.url ? 0 : 1;

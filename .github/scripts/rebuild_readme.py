@@ -36,8 +36,6 @@ TABLE_HEADERS = {
     ),
 }
 
-# Newest rows shown in README per board. Full tables live in SUMMER/OFFCYCLE/NEWGRAD
-# so the repo homepage stays under GitHub's ~500KB README render limit.
 README_PREVIEW_ROWS = 75
 
 TOC_HREFS = {
@@ -183,7 +181,6 @@ def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n
 
     content = README_FILE.read_text(encoding='utf-8')
 
-    # Drop any previously embedded tables (so rebuild is idempotent).
     for marker in ('summer', 'offcycle', 'newgrad'):
         content = re.sub(
             rf'\n## {re.escape(TABLE_TITLES[marker])}\n.*?<!-- TABLE_END {marker} -->\n?',
@@ -200,7 +197,6 @@ def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n
         f'- [🎓 New Grad 2027]({TOC_HREFS["newgrad"]}) ({newgrad_n})\n'
     )
 
-    # Remove prior truncation notes so TOC replace stays idempotent.
     content = re.sub(
         r'\n*> GitHub truncates very large READMEs[^\n]*\n?',
         '\n',
@@ -221,12 +217,9 @@ def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n
         toc_updated = False
 
     if toc_updated:
-        # Collapse leftover separators from prior table removals.
         content = re.sub(r'(?:\n---\s*){2,}\n', '\n---\n', content)
         content = re.sub(r'\n{3,}', '\n\n', content)
 
-        # README gets newest-N previews so GitHub can render the full page;
-        # standalone files keep every row.
         tables = (
             format_table_block(
                 'summer', summer_rows[:README_PREVIEW_ROWS], summer_n,
@@ -244,7 +237,6 @@ def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n
             )
         )
 
-        # Insert tables after Legend, before Disclaimer (or License).
         disclaimer = re.search(r'\n## Disclaimer\n', content)
         license_h = re.search(r'\n## License\n', content)
         if disclaimer:
@@ -270,12 +262,14 @@ def main():
     with open(LISTINGS_FILE) as f:
         listings = json.load(f)
 
+    total = len(listings)
+    listings = [e for e in listings if e.get('url', '').strip()]
     summer = [e for e in listings if e['type'] == 'summer']
     offcycle = [e for e in listings if e['type'] == 'offcycle']
     newgrad = [e for e in listings if e['type'] == 'newgrad']
 
     print(
-        f'Loaded {len(listings)} listings: '
+        f'Loaded {total} listings ({total - len(listings)} closed, hidden): '
         f'{len(summer)} summer, {len(offcycle)} offcycle, {len(newgrad)} newgrad'
     )
 

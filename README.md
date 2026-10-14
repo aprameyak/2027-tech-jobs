@@ -4,9 +4,9 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (5609)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1600)
-- [🎓 New Grad 2027](./NEWGRAD.md) (2677)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (2563)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (764)
+- [🎓 New Grad 2027](./NEWGRAD.md) (1005)
 
 ## Legend
 
@@ -20,7 +20,7 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **5609** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **2563** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -105,7 +105,7 @@ Showing newest **75** of **5609** listings · [View full table](./SUMMER.md)
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1600** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **764** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
@@ -190,7 +190,7 @@ Showing newest **75** of **1600** listings · [View full table](./OFFCYCLE.md)
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **2677** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **1005** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 

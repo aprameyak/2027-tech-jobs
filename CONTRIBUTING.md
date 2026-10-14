@@ -9,7 +9,7 @@ Thank you for helping keep this list accurate and up to date!
 | Action | How |
 |--------|-----|
 | Add a new job listing | Submit an issue or open a pull request |
-| Mark a role as closed | Set `"url": ""` in `listings.json` and rebuild — row stays, Apply shows 🔒 |
+| Mark a role as closed | Set `"url": ""` in `listings.json` and rebuild — row stays in `listings.json` (so it isn't re-added) but is hidden from the tables and site |
 | Fix a broken link | Open a PR with the corrected URL |
 | Remove a listing entirely | Only for out-of-scope or duplicate entries — **not** for closed roles |
 
@@ -40,7 +40,7 @@ Each entry in `listings.json` must include:
 | `type` | `summer`, `offcycle`, or `newgrad` |
 | `season` | e.g. `Summer 2027`, `Fall 2026`, `Co-op`, or `2027 (New Grad — no specific season)` |
 | `education` | `Undergrad`, `Masters`, `PhD`, or semicolon-separated combinations |
-| `url` | Direct application link. Use `""` when closed (README shows 🔒) |
+| `url` | Direct application link. Use `""` when closed (row is hidden from published tables) |
 | `sponsorship` | `Yes — sponsorship available`, `No — does NOT offer sponsorship`, or `Unknown` |
 | `citizenship` | `Yes — U.S. citizenship required`, `No`, or `Unknown` |
 | `date_added` | `YYYY-MM-DD` — set once when first added; do not change on reclassify |
@@ -62,9 +62,9 @@ These are derived from `sponsorship` and `citizenship` fields when the README is
 
 ### Marking a role as closed
 
-Set **only** `"url": ""` in `listings.json`, then rebuild the README. The Apply button becomes 🔒.
+Set **only** `"url": ""` in `listings.json`, then rebuild the README. The row is then hidden from the published tables and the site.
 
-**Closed listings stay in the table.** Do not delete rows just because a posting closed — users rely on 🔒 to see that a role existed and is no longer accepting applications.
+**Closed listings are hidden, not deleted.** Keep the row in `listings.json` so the scraper doesn't re-add it.
 
 **Preserve all original metadata** when closing — change nothing except `url`:
 

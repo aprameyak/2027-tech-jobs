@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 
 import json
+import os
 import re
 import subprocess
 import time
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 import requests
@@ -668,6 +670,20 @@ def resolve_url(url, company_board, tenant_board, company=None, gh_boards=None, 
 
     return url, True
 
+LINK_CHECK_WORKERS = int(os.environ.get('LINK_CHECK_WORKERS', '16'))
+
+
+class _DeferredBrowser:
+    """Stand-in for PlaywrightChecker that only records it was asked to check."""
+
+    def __init__(self):
+        self.used = False
+
+    def check(self, url, timeout=20000):
+        self.used = True
+        return None
+
+
 def mark_listing_closed(entry):
                                                                                    
     entry['url'] = ''
@@ -694,24 +710,48 @@ def main():
 
     dead_count = 0
     fixed_count = 0
+
+    def apply_result(entry, resolved, alive):
+        nonlocal dead_count, fixed_count
+        url = entry['url']
+        if not alive:
+            print(f'  DEAD: {entry.get("company")} — {entry["role"][:50]}')
+            mark_listing_closed(entry)
+            dead_count += 1
+        elif resolved != url:
+            print(f'  FIXED: {entry.get("company")} — {resolved[:70]}')
+            entry['url'] = resolved
+            fixed_count += 1
+
+    def check_without_browser(entry):
+        deferred = _DeferredBrowser()
+        resolved, alive = resolve_url(
+            entry['url'], company_board, tenant_board, entry.get('company'), gh_boards,
+            pw=deferred if pw_available else None,
+        )
+        return entry, resolved, alive, deferred.used
+
     try:
-        for i, entry in enumerate(live, 1):
-            url = entry['url']
-            company = entry.get('company')
-            if i % 50 == 0 or i == 1:
-                print(f'  Progress: {i}/{len(live)}')
+        needs_browser = []
+        with ThreadPoolExecutor(max_workers=LINK_CHECK_WORKERS) as executor:
+            for i, (entry, resolved, alive, used_browser) in enumerate(
+                executor.map(check_without_browser, live), 1,
+            ):
+                if i % 200 == 0 or i == 1:
+                    print(f'  Progress: {i}/{len(live)}')
+                if used_browser:
+                    needs_browser.append(entry)
+                else:
+                    apply_result(entry, resolved, alive)
+
+        if needs_browser:
+            print(f'  Re-checking {len(needs_browser)} JS-rendered URL(s) with Playwright')
+        for entry in needs_browser:
             resolved, alive = resolve_url(
-                url, company_board, tenant_board, company, gh_boards,
-                pw=pw if pw_available else None,
+                entry['url'], company_board, tenant_board, entry.get('company'), gh_boards,
+                pw=pw,
             )
-            if not alive:
-                print(f'  DEAD: {company} — {entry["role"][:50]}')
-                mark_listing_closed(entry)
-                dead_count += 1
-            elif resolved != url:
-                print(f'  FIXED: {company} — {resolved[:70]}')
-                entry['url'] = resolved
-                fixed_count += 1
+            apply_result(entry, resolved, alive)
             time.sleep(0.15)
     finally:
         pw.stop()
