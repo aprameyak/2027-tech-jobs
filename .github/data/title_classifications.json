@@ -99016,5 +99016,18 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "amazon robotics - software development engineer intern/co-op - 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "o"
+  },
+  "product manager, agentic systems": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
