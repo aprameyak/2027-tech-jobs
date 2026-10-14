@@ -99031,5 +99031,172 @@
     "c": "medium",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "software engineer, commercial software": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, labelling, data & automation": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "machine learning engineer - 3d sensor simulation": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "expert data scientist, fraud risk detection": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr. ios software engineer - infrastructure team": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "java software engineer, lead associate - ts/sci w/poly": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "n"
+  },
+  "student engineering intern - water/wastewater": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "student marketeer - harvard university": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "student marketeer - university of california san diego": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "student marketeer - tennessee state university": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "student marketer - jackson state university": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "research internship/co-op": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
+  },
+  "field engineering co-op": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
+  },
+  "business systems analyst ii": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior machine learning engineer, personalization": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "document compliance coordinator - active security clearance required": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "it solutions division group leader / livit associate program leader, cloud and ai": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "o"
+  },
+  "product manager, experience tooling (global streaming)": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "sr. product manager, global metadata (global streaming)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "product manager, sports metadata (global streaming)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "analyst i, retail technology": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "o"
+  },
+  "mid-level security automation engineer": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "full stack web developer ii - information technology (it109)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "cloud integration engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "o"
+  },
+  "sell side research rotational program: august 2027 start": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   }
 }
