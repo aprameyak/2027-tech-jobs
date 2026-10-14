@@ -7403,9 +7403,9 @@
     "b": "s"
   },
   "senior software engineer, devops": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -8452,8 +8452,9 @@
   },
   "software engineer, connected warfare": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "software engineer, connected warfare (active clearance)": {
@@ -9652,8 +9653,9 @@
   },
   "technical operations engineer, launched effects": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "technical operations engineer, maneuver dominance ": {
@@ -50910,9 +50912,9 @@
     "b": "s"
   },
   "senior software engineer, safety foundation": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -62895,8 +62897,10 @@
   },
   "workplace operations intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "marketing intern, social & creative - summer 2026 (hybrid @ bellevue, wa)": {
     "t": false,
