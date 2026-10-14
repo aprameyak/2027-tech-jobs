@@ -120988,5 +120988,103 @@
     "citizenship": "Unknown",
     "date_added": "2026-10-13",
     "grad_date": ""
+  },
+  {
+    "company": "Brain Co.",
+    "role": "AI Product Engineer Co-Op Intern, Winter 2027",
+    "location": "San Francisco, CA",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42/application?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-14"
+  },
+  {
+    "company": "Brain Co.",
+    "role": "AI Security Engineer Co-Op Intern, Winter 2027",
+    "location": "San Francisco, CA",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930/application?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-14"
+  },
+  {
+    "company": "Brain Co.",
+    "role": "Machine Learning Engineer, Applied AI Co-Op Intern, Winter 2027",
+    "location": "San Francisco, CA",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/brainco/b6adda4c-490c-4e9e-8354-e55c05d3c6ac/application?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-14"
+  },
+  {
+    "company": "Brain Co.",
+    "role": "AI Platform Engineer Co-Op Intern, Winter 2027",
+    "location": "San Francisco, CA",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://jobs.ashbyhq.com/brainco/aadc490a-0d72-4be0-891b-4c362d491c3a/application?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-14"
+  },
+  {
+    "company": "AeroVironment",
+    "role": "Finance Systems Intern",
+    "location": "Simi Valley, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Masters",
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Finance-Systems-Intern_8899?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-14"
+  },
+  {
+    "company": "KLA",
+    "role": "Computer Vision/Machine Learning Intern",
+    "location": "Milpitas, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-14"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "SoC Software Engineer - New College Grad 2027",
+    "location": "Santa Clara, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad — no specific season)",
+    "education": "Undergrad",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-14",
+    "grad_date": "Spring 2027"
+  },
+  {
+    "company": "Northrop Grumman",
+    "role": "Associate Cloud Software Engineer (Level 1)",
+    "location": "Redondo Beach, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad — no specific season)",
+    "education": "Undergrad",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Associate-Cloud-Software-Engineer--Level-1-_R10255928?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-14",
+    "grad_date": ""
   }
 ]
