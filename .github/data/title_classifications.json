@@ -99229,5 +99229,19 @@
     "v": "cs-is-v4",
     "a": 1,
     "b": "s"
+  },
+  "software development engineer ii, tais - dmr": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer iii, home infrastructure": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   }
 }
