@@ -2347,9 +2347,9 @@
     "v": ""
   },
   "contractor special security officer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -9541,9 +9541,9 @@
     "b": "s"
   },
   "systems safety engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -32140,9 +32140,10 @@
     "b": "s"
   },
   "futures risk program manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "insider risk specialist": {
@@ -37858,9 +37859,9 @@
     "v": ""
   },
   "senior product manager, new alarms product": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -37994,8 +37995,9 @@
   },
   "software engineer, platform infrastructure": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "solutions engineer, asean": {
@@ -65067,8 +65069,8 @@
   },
   "machine learning intern": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "s"
   },
