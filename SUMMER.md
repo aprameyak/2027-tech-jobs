@@ -1,11 +1,16 @@
 # ☀️ Summer 2027 Internships
 
-2568 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2573 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Dell Technologies | Cybersecurity Undergraduate Intern | Round Rock, TX | Undergrad | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299004) | Oct 15 |
+| ↳ | Product & Application Security Undergraduate Intern | Round Rock, TX | Undergrad | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299002) | Oct 15 |
+| Light & Wonder | Intern Software Engineering | Reno, NV | Undergrad | [Apply](https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Reno-NV/Intern-Software-Engineering_R322885?utm_source=aprameyak) | Oct 15 |
+| RTX | System Administrator Intern (Summer 2027) | Middletown, RI | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/System-Administrator-Intern--Summer-2027-_01879679?utm_source=aprameyak) | Oct 15 |
+| Salesforce | Summer 2027 Intern - Solution Engineer | New York, NY | Undergrad | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1?utm_source=aprameyak) | Oct 15 |
 | AeroVironment | Finance Systems Intern | Simi Valley, CA | Masters | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Finance-Systems-Intern_8899?utm_source=aprameyak) | Oct 14 |
 | American Century Investments | Enterprise Data Intern | Kansas City, MO | Undergrad | [Apply](https://americancentury.wd5.myworkdayjobs.com/en-US/americancenturyinvestments/job/Kansas-City-Missouri/Enterprise-Data-Intern_R0005751?utm_source=aprameyak) | Oct 14 |
 | Astreya | AI Infrastructure DC Design Intern | Remote (US) | Undergrad | [Apply](https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931?utm_source=aprameyak) | Oct 14 |

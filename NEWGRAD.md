@@ -1,11 +1,15 @@
 # 🎓 New Grad 2027
 
-1001 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1005 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| EXL | Junior AI Engineer | Remote (US) |  | Undergrad | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21550) | Oct 15 |
+| Juniper Networks | Graduate Cloud Developer | San Jose, CA |  | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Graduate-Cloud-Developer_1214989?utm_source=aprameyak) | Oct 15 |
+| Light & Wonder | Associate Software Engineer | Reno, NV |  | Undergrad | [Apply](https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Reno-NV/Associate-Software-Engineer_R322882-1?utm_source=aprameyak) | Oct 15 |
+| Photon | Java BackEnd Developer-Boston, MA | Remote (US) |  | Undergrad | [Apply](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/27087) | Oct 15 |
 | Amgen | CD&A Data Scientist, Obesity - Associate - Hybrid - Thousand Oaks | Thousand Oaks, CA |  | Undergrad | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate---Hybrid---Thousand-Oaks_R-258217?utm_source=aprameyak) | Oct 14 |
 | Analog Devices | Associate Software Engineer | Wilmington, MA |  | Undergrad | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Android-Mobile-Developer_R262556?utm_source=aprameyak) | Oct 14 |
 | Freedom Technology Solutions Group | Junior Software Developer 795 | Annapolis Junction, MD |  | Undergrad | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5265949007?utm_source=aprameyak) | Oct 14 |

@@ -1,11 +1,12 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-766 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+767 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Anduril | Winter 2027 Research Engineer Co-op | Santa Ana, CA | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007&utm_source=aprameyak) | Oct 15 |
 | Amazon | Amazon Robotics - Software Development Engineer Intern/Co-op - 2027 | Westboro, MA | Co-op | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027) | Oct 14 |
 | Brain Co. | AI Product Engineer Co-Op Intern, Winter 2027 | San Francisco, CA | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42/application?utm_source=aprameyak) | Oct 14 |
 | ↳ | AI Security Engineer Co-Op Intern, Winter 2027 | San Francisco, CA | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930/application?utm_source=aprameyak) | Oct 14 |
