@@ -99220,5 +99220,12 @@
     "v": "cs-is-v4",
     "a": 0,
     "b": "n"
+  },
+  "software engineer iii, engineering productivity, geo": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   }
 }
