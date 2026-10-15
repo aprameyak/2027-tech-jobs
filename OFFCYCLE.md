@@ -1,12 +1,27 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-767 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+782 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
 | Anduril | Winter 2027 Research Engineer Co-op | Santa Ana, CA | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007&utm_source=aprameyak) | Oct 15 |
+| CIBC | Information Security Analyst Winter 2027 Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Information-Security-Analyst-Winter-2027-Co-op_2621159?utm_source=aprameyak) | Oct 15 |
+| Definity Financial | Cloud Engineer - Winter 2027 Co-op/Intern | Waterloo, ON | Co-op | Undergrad | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9412) | Oct 15 |
+| Johnson & Johnson | Technology TS AM CBT Off Cycle Co-Op | Raritan, NJ | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Technology-TS-AM-CBT-Off-Cycle-Co-Op_R-099831?utm_source=aprameyak) | Oct 15 |
+| ↳ | Technology IM R&D Off Cycle Co-Op | Raritan, NJ | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Technology-Off-Cycle-Co-Op_R-099204?utm_source=aprameyak) | Oct 15 |
+| ↳ | Data Operations & Analytics Spring Co-op | Somerset, NJ | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Somerset-New-Jersey-United-States-of-America/Data-Operations---Analytics-Spring-Co-op_R-104450?utm_source=aprameyak) | Oct 15 |
+| ↳ | Emerging Technologies CoOp | Spring House, PA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Emerging-Technologies-CoOp_R-102739-1?utm_source=aprameyak) | Oct 15 |
+| RTX | Software Engineering Co-op (Summer/Fall 2027) | Cedar Rapids, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882414?utm_source=aprameyak) | Oct 15 |
+| ↳ | Software Engineering Co-op (Spring/Summer 2027) | Cedar Rapids, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01881996?utm_source=aprameyak) | Oct 15 |
+| Sierra Nevada Corp | Software Engineer Intern - Summer 2027 (For SNC Summer 2026 Interns Only) | Lone Tree, CO | Summer 2026 | Undergrad | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Software-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031098?utm_source=aprameyak) | Oct 15 |
+| Susquehanna International Group | Business Analytics AI Co-op with Drexel University | Remote (US) | Co-op | Undergrad | [Apply](https://careers-sig.icims.com/jobs/11675/business-analytics-ai-co-op-with-drexel-university/job) | Oct 15 |
+| ↳ | Technical Business Analyst Co-op with Drexel University | Remote (US) | Co-op | Undergrad | [Apply](https://careers-sig.icims.com/jobs/11665/technical-business-analyst-co-op-with-drexel-university/job) | Oct 15 |
+| Symbotic | Co-op- Robot Manipulation | Wilmington, MA | Co-op | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Robot-Manipulation_R8257?utm_source=aprameyak) | Oct 15 |
+| ↳ | Co-Op- System Engineer | Brooksville, FL | Co-op | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Brooksville-FL/Co-Op--System-Engineer_R8261?utm_source=aprameyak) | Oct 15 |
+| TD Bank | TD Asset Management Portfolio Analytics Developer Intern/Co-Op (Winter 2027) | Toronto, ON | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223?utm_source=aprameyak) | Oct 15 |
+| ↳ | TD Asset Management Portfolio Analytics Data Analyst Intern/Co-Op (Winter 2027) | Toronto, ON | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/TDAM-Portfolio-Analytics-Data-Analyst-Intern-Co-Op--Winter-202-_R_1506711?utm_source=aprameyak) | Oct 15 |
 | Amazon | Amazon Robotics - Software Development Engineer Intern/Co-op - 2027 | Westboro, MA | Co-op | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027) | Oct 14 |
 | Brain Co. | AI Product Engineer Co-Op Intern, Winter 2027 | San Francisco, CA | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42/application?utm_source=aprameyak) | Oct 14 |
 | ↳ | AI Security Engineer Co-Op Intern, Winter 2027 | San Francisco, CA | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930/application?utm_source=aprameyak) | Oct 14 |

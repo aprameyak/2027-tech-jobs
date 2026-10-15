@@ -1,14 +1,17 @@
 # 🎓 New Grad 2027
 
-1005 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1008 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| 1Password | Junior Security Engineer | Remote (United States | Canada) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e/application?utm_source=aprameyak) | Oct 15 |
+| BlackRock | Associate, Frontend Software Engineer (React) - SpiderRock Advisors | Chicago, IL |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Chicago-IL/Associate--Frontend-Software-Engineer--React----SpiderRock-Advisors_R266836-1?utm_source=aprameyak) | Oct 15 |
 | EXL | Junior AI Engineer | Remote (US) |  | Undergrad | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21550) | Oct 15 |
 | Juniper Networks | Graduate Cloud Developer | San Jose, CA |  | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Graduate-Cloud-Developer_1214989?utm_source=aprameyak) | Oct 15 |
 | Light & Wonder | Associate Software Engineer | Reno, NV |  | Undergrad | [Apply](https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Reno-NV/Associate-Software-Engineer_R322882-1?utm_source=aprameyak) | Oct 15 |
+| Micron Technology | New College Grad - Computer Engineer, Central Engineering | Boise, ID |  | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Computer-Engineer--Central-Engineering_JR115116-1?utm_source=aprameyak) | Oct 15 |
 | Photon | Java BackEnd Developer-Boston, MA | Remote (US) |  | Undergrad | [Apply](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/27087) | Oct 15 |
 | Amgen | CD&A Data Scientist, Obesity - Associate - Hybrid - Thousand Oaks | Thousand Oaks, CA |  | Undergrad | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate---Hybrid---Thousand-Oaks_R-258217?utm_source=aprameyak) | Oct 14 |
 | Analog Devices | Associate Software Engineer | Wilmington, MA |  | Undergrad | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Android-Mobile-Developer_R262556?utm_source=aprameyak) | Oct 14 |
