@@ -5214,9 +5214,10 @@
     "b": "s"
   },
   "program security manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "programs lead, test sites & infrastructure": {
@@ -43514,9 +43515,10 @@
     "b": "s"
   },
   "global ai solutions director - financial services": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff software engineer, anywhere cloud (rust)": {
@@ -45671,9 +45673,10 @@
     "b": "s"
   },
   "technical director, unannounced cloud game": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "engineering manager, data platform orchestration": {
@@ -65270,9 +65273,10 @@
   },
   "customer success intern": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "payroll clerk internship-america's car-mart": {
     "t": false,
