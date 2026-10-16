@@ -37250,8 +37250,9 @@
   },
   "business systems - product manager": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "business systems - product manager (people systems)": {
