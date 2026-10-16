@@ -99269,5 +99269,24 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "software engineer iii, technical infrastructure": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "senior software engineer, ai/ml, google labs": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer, xr ecosystem, ar/vr multimedia and datacommunication": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
