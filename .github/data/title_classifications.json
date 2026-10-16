@@ -48288,8 +48288,9 @@
   },
   "software engineer iii , caching": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "staff product designer, ai": {
@@ -48806,9 +48807,9 @@
     "v": ""
   },
   "staff machine learning engineer, ads conversion core modeling": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -52556,9 +52557,10 @@
     "b": "s"
   },
   "equipment reliability engineer (starlink/akoustis)": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "equipment reliability engineer (starship)": {
