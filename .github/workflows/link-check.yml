@@ -37,8 +37,8 @@ jobs:
 
       - name: Commit closed positions
         run: |
-          git config user.name "Aprameya Kannan"
-          git config user.email "aprameyakannan@gmail.com"
+          git config user.name "baldmeya"
+          git config user.email "akannan8@umd.edu"
           git add listings.json || true
           if ! git diff --staged --quiet; then
             git commit -m "mark closed positions"

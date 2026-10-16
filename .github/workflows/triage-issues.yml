@@ -32,8 +32,8 @@ jobs:
       - run: pip install requests anthropic
       - name: Configure git
         run: |
-          git config user.name "Aprameya Kannan"
-          git config user.email "aprameyakannan@gmail.com"
+          git config user.name "baldmeya"
+          git config user.email "akannan8@umd.edu"
       - name: Claude triage open listing issues
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

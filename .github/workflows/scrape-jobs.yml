@@ -38,7 +38,7 @@ jobs:
       - name: Commit data files
         run: |
           git config user.name "baldmeya"
-          git config user.email "akannna8@umd.edu"
+          git config user.email "akannan8@umd.edu"
           for f in \
             .github/data/seen_jobs_greenhouse.json \
             .github/data/title_classifications.json \
@@ -76,7 +76,7 @@ jobs:
       - name: Commit data files
         run: |
           git config user.name "baldmeya"
-          git config user.email "akannna8@umd.edu"
+          git config user.email "akannan8@umd.edu"
           for f in \
             .github/data/seen_jobs_ashby.json \
             .github/data/title_classifications.json \
@@ -113,7 +113,7 @@ jobs:
       - name: Commit data files
         run: |
           git config user.name "baldmeya"
-          git config user.email "akannna8@umd.edu"
+          git config user.email "akannan8@umd.edu"
           for f in \
             .github/data/seen_jobs_workday.json \
             .github/data/title_classifications.json \
@@ -151,7 +151,7 @@ jobs:
       - name: Commit data files
         run: |
           git config user.name "baldmeya"
-          git config user.email "akannna8@umd.edu"
+          git config user.email "akannan8@umd.edu"
           for f in \
             .github/data/seen_jobs_linkedin_amazon.json \
             .github/data/title_classifications.json \
@@ -188,7 +188,7 @@ jobs:
       - name: Commit data files
         run: |
           git config user.name "baldmeya"
-          git config user.email "akannna8@umd.edu"
+          git config user.email "akannan8@umd.edu"
           for f in \
             .github/data/seen_jobs_oracle.json \
             .github/data/title_classifications.json \
@@ -225,7 +225,7 @@ jobs:
       - name: Commit data files
         run: |
           git config user.name "baldmeya"
-          git config user.email "akannna8@umd.edu"
+          git config user.email "akannan8@umd.edu"
           for f in \
             .github/data/seen_jobs_other.json \
             .github/data/title_classifications.json \
@@ -259,7 +259,7 @@ jobs:
       - name: Commit listings and README
         run: |
           git config user.name "baldmeya"
-          git config user.email "akannna8@umd.edu"
+          git config user.email "akannan8@umd.edu"
           git add listings.json README.md SUMMER.md OFFCYCLE.md NEWGRAD.md .github/data/ || true
           if ! git diff --staged --quiet; then
             git commit -m "add auto-discovered listings and update scraper data"
