@@ -1,11 +1,13 @@
 # 🎓 New Grad 2027
 
-1008 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1010 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| SpaceX 🛂 🇺🇸 | New Graduate Engineer, Infrastructure | Starbase, TX |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002&utm_source=aprameyak) | Oct 16 |
+| State of Nebraska | Application Developer - Web (.NET) Expert | Lincoln, NE |  | Undergrad | [Apply](https://son.wd108.myworkdayjobs.com/en-US/NebraskaStateCareers/job/Lincoln-NE/Application-Developer---Web--NET--Expert_JR2026-00029859?utm_source=aprameyak) | Oct 16 |
 | 1Password | Junior Security Engineer | Remote (United States | Canada) |  | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e/application?utm_source=aprameyak) | Oct 15 |
 | BlackRock | Associate, Frontend Software Engineer (React) - SpiderRock Advisors | Chicago, IL |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Chicago-IL/Associate--Frontend-Software-Engineer--React----SpiderRock-Advisors_R266836-1?utm_source=aprameyak) | Oct 15 |
 | EXL | Junior AI Engineer | Remote (US) |  | Undergrad | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21550) | Oct 15 |
