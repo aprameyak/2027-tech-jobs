@@ -1,23 +1,34 @@
 # ☀️ Summer 2027 Internships
 
-2617 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2628 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | Airbus | Short-term Internship - Tool Technology and Development Engineering | Mobile Area, AL | Undergrad | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mobile-Area-AL/Short-term-Internship---Tool-Technology-and-Development-Engineering_JR10451236?utm_source=aprameyak) | Oct 16 |
+| Altera | Software Engineer -  Intern | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320?utm_source=aprameyak) | Oct 16 |
+| Booz Allen Hamilton | University, Software Engineer Intern | Fayetteville, NC | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802?utm_source=aprameyak) | Oct 16 |
+| ChargePoint | IT & Network Intern | Campbell, CA | Undergrad | [Apply](https://www.chargepoint.com/about/opportunities/job/?gh_jid=8893571002) | Oct 16 |
+| General Dynamics Mission Systems | Software & Systems Infrastructure Integration Intern | Manassas, VA | Masters | [Apply](https://careers-gdms.icims.com/jobs/75520/software-%26-systems-infrastructure-integration-intern/job) | Oct 16 |
 | General Motors | 2027 Summer Intern - Research and Development - System Safety | Warren, MI | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---System-Safety_JR-202621736?utm_source=aprameyak) | Oct 16 |
 | ↳ | 2027 Summer Intern, AI/ML Engineer, Mapping (Masters) | Warren, MI | Masters | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539?utm_source=aprameyak) | Oct 16 |
 | Gilead Sciences | Intern - Research - Data Sciences - AI | Foster City, CA | Undergrad | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences---AI_R0055524?utm_source=aprameyak) | Oct 16 |
 | ↳ | Intern - Research - Strategy, Innovation & Portfolio - AI | Foster City, CA | Undergrad | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Strategy--Innovation---Portfolio_R0054502?utm_source=aprameyak) | Oct 16 |
+| ICF International | 2027 Summer Intern, Cloud Engineer (AWS/Azure) (Reston, VA) | Reston, VA | Undergrad | [Apply](https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Cloud-Engineer--AWS-Azure---Reston--VA-_R2603554?utm_source=aprameyak) | Oct 16 |
+| Kensington | Software Engineering Intern (January 2027) | Toronto, ON | Undergrad | [Apply](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c?utm_source=aprameyak) | Oct 16 |
 | LLNL | Computing Undergraduate Student Intern: HPC Cluster Engineer Academy Internship Program | Livermore, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016166026) | Oct 16 |
 | ↳ | Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | Livermore, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016165636) | Oct 16 |
 | ↳ | Cybersecurity Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | Livermore, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016165586) | Oct 16 |
 | ↳ | Critical Infrastructure Analysis Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | Livermore, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016165496) | Oct 16 |
 | ↳ | Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | Livermore, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016164366) | Oct 16 |
 | National Laboratory of the Rockies | Graduate Intern – Connected Vehicle (V2X) Communications Modeling and Traffic Simulation | Golden, CO | Undergrad | [Apply](https://nrel.wd5.myworkdayjobs.com/en-US/NLR/job/Golden-CO/Graduate-Intern---Connected-Vehicle--V2X--Communications-Modeling-and-Traffic-Simulation_R14564?utm_source=aprameyak) | Oct 16 |
+| Northrop Grumman | 2027 Software Engineering Intern - Aurora CO | Aurora, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243?utm_source=aprameyak) | Oct 16 |
+| ↳ | 2027 Software Engineering Intern - Colorado Springs | Colorado Springs, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259?utm_source=aprameyak) | Oct 16 |
+| onsemi | Summer 2027 - Technology Development Intern | Hopewell Junction, NY | Undergrad | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506991) | Oct 16 |
 | Rocket Companies | Summer 2027 Internships - Marketing, Accounting, or Information Technology | Detroit, MI | Undergrad | [Apply](https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Summer-2027-Internships---Marketing--Accounting--or-Information-Technology_R-085042-1?utm_source=aprameyak) | Oct 16 |
+| Veeam Software 🛂 | Data & Analytics Engineering Intern - Summer 2027 | Alpharetta, GA | Undergrad | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101?utm_source=aprameyak) | Oct 16 |
+| Wellmark | Software Engineer Internship – Technology Health Plan | Des Moines, IA | Undergrad | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000156043218) | Oct 16 |
 | Ardian | Data Scientist Intern - February 2027 | NYC | New York, NY | Undergrad | [Apply](https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/New-York/Data-Scientist-Intern---February-2027---NYC_JR1002271?utm_source=aprameyak) | Oct 15 |
 | Booz Allen Hamilton | University, Digital Transformation Analyst Intern | Arlington, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251716?utm_source=aprameyak) | Oct 15 |
 | ↳ | University, Digital Transformation Analyst Intern | Arlington, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251721?utm_source=aprameyak) | Oct 15 |

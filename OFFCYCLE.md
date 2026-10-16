@@ -1,12 +1,18 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-783 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+789 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| AbbVie | Associate Engineer, Technical Development Program | Worcester, MA | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016186871) | Oct 16 |
+| Cook Group | Spring 2026, Research & Development Co-op | Winston-Salem, NC | Co-op | Undergrad | [Apply](https://americas-cookmedical.icims.com/jobs/19770/spring-2026%2c-research-%26-development-co-op/job) | Oct 16 |
+| Entrust | Software Engineering Co-op | Shakopee, MN | Co-op | Undergrad | [Apply](https://entrust.wd1.myworkdayjobs.com/en-US/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425?utm_source=aprameyak) | Oct 16 |
+| J.M. Smucker | Finance Technology Intern, Spring 2027 | Orrville, OH | Spring 2027 | Undergrad | [Apply](https://smucker.wd5.myworkdayjobs.com/en-US/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Spring-2027_116016?utm_source=aprameyak) | Oct 16 |
 | RTX | Development Operations, Engineering Development Program | Middletown, CT | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Development-Operations--Engineering-Development-Program_01872103?utm_source=aprameyak) | Oct 16 |
+| Thermo Fisher Scientific | Lab Execution Systems Co-Op | Mississauga, ON | Co-op | Masters | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Mississauga-Canada/Lab-Execution-Systems-Co-Op_R-01366616?utm_source=aprameyak) | Oct 16 |
+| W.R. Berkley | Enterprise Architecture Co-Op | Urbandale, IA | Co-op | Undergrad | [Apply](https://careers-berkley.icims.com/jobs/14641/enterprise-architecture-co-op/job) | Oct 16 |
 | Anduril | Winter 2027 Research Engineer Co-op | Santa Ana, CA | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007&utm_source=aprameyak) | Oct 15 |
 | CIBC | Information Security Analyst Winter 2027 Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Information-Security-Analyst-Winter-2027-Co-op_2621159?utm_source=aprameyak) | Oct 15 |
 | Definity Financial | Cloud Engineer - Winter 2027 Co-op/Intern | Waterloo, ON | Co-op | Undergrad | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9412) | Oct 15 |
