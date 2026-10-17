@@ -99523,5 +99523,18 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "data engineer, growth ": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "senior platform software engineer": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
