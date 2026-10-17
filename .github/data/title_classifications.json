@@ -61418,8 +61418,9 @@
   },
   "software engineer 5 - open connect control plane": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "senior design director, member xd": {
