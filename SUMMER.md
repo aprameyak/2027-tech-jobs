@@ -1,12 +1,14 @@
 # ☀️ Summer 2027 Internships
 
-2631 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2633 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | AeroVironment | Software Engineering Intern | Moorpark, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Software-Engineering-Intern_9094?utm_source=aprameyak) | Oct 17 |
+| Clera | Computer Vision & Robotics Intern | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application?utm_source=aprameyak) | Oct 17 |
+| Eulerity | AI Intern - Office of CEO & Head of Product | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4722871006?utm_source=aprameyak) | Oct 17 |
 | Persona | Product Design, Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec/application?utm_source=aprameyak) | Oct 17 |
 | Together AI | Research Intern, Frontier Speculative Decoding (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5267198007?utm_source=aprameyak) | Oct 17 |
 | Airbus | Short-term Internship - Tool Technology and Development Engineering | Mobile Area, AL | Undergrad | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mobile-Area-AL/Short-term-Internship---Tool-Technology-and-Development-Engineering_JR10451236?utm_source=aprameyak) | Oct 16 |

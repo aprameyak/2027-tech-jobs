@@ -4,7 +4,7 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (2631)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (2633)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (790)
 - [🎓 New Grad 2027](./NEWGRAD.md) (1015)
 
@@ -20,13 +20,15 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **2631** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **2633** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | AeroVironment | Software Engineering Intern | Moorpark, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Software-Engineering-Intern_9094?utm_source=aprameyak) | Oct 17 |
+| Clera | Computer Vision & Robotics Intern | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application?utm_source=aprameyak) | Oct 17 |
+| Eulerity | AI Intern - Office of CEO & Head of Product | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4722871006?utm_source=aprameyak) | Oct 17 |
 | Persona | Product Design, Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec/application?utm_source=aprameyak) | Oct 17 |
 | Together AI | Research Intern, Frontier Speculative Decoding (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5267198007?utm_source=aprameyak) | Oct 17 |
 | Airbus | Short-term Internship - Tool Technology and Development Engineering | Mobile Area, AL | Undergrad | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mobile-Area-AL/Short-term-Internship---Tool-Technology-and-Development-Engineering_JR10451236?utm_source=aprameyak) | Oct 16 |
@@ -99,8 +101,6 @@ Showing newest **75** of **2631** listings · [View full table](./SUMMER.md)
 | CACI | Software Engineering Intern - Summer 2027 | Florham Park, NJ | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543?utm_source=aprameyak) | Oct 14 |
 | Cboe Global Markets | Data Pipeline Engineer Intern | Kansas City, MO | Undergrad | [Apply](https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Kansas-City-MO/Data-Pipeline-Engineer-Intern_R-4738?utm_source=aprameyak) | Oct 14 |
 | Copart | DevOps Engineer Intern | Dallas, TX | Undergrad | [Apply](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/DevOps-Engineer-Intern_JR111751?utm_source=aprameyak) | Oct 14 |
-| GE Vernova | GE Vernova – AGI – AI Evaluation & Benchmarking Intern - Summer 2027 | Bellevue, WA | Undergrad | [Apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2?utm_source=aprameyak) | Oct 14 |
-| ↳ | GE Vernova - AGI - Grid Foundational Models Intern - Summer 2027 | Bellevue, WA | Undergrad | [Apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3?utm_source=aprameyak) | Oct 14 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
