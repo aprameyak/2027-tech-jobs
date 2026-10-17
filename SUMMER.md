@@ -1,11 +1,14 @@
 # ☀️ Summer 2027 Internships
 
-2628 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2631 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| AeroVironment | Software Engineering Intern | Moorpark, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Software-Engineering-Intern_9094?utm_source=aprameyak) | Oct 17 |
+| Persona | Product Design, Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec/application?utm_source=aprameyak) | Oct 17 |
+| Together AI | Research Intern, Frontier Speculative Decoding (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5267198007?utm_source=aprameyak) | Oct 17 |
 | Airbus | Short-term Internship - Tool Technology and Development Engineering | Mobile Area, AL | Undergrad | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mobile-Area-AL/Short-term-Internship---Tool-Technology-and-Development-Engineering_JR10451236?utm_source=aprameyak) | Oct 16 |
 | Altera | Software Engineer -  Intern | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320?utm_source=aprameyak) | Oct 16 |
 | Booz Allen Hamilton | University, Software Engineer Intern | Fayetteville, NC | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802?utm_source=aprameyak) | Oct 16 |

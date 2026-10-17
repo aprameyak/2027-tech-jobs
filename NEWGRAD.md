@@ -1,11 +1,12 @@
 # 🎓 New Grad 2027
 
-1014 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1015 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| CACI | Junior Data Analyst | Florham Park, NJ |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Junior-Data-Analyst_332671?utm_source=aprameyak) | Oct 17 |
 | KeyBank | Quantitative Analytics Associate | Brooklyn, OH |  | Undergrad | [Apply](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/Quantitative-Analytics-Associate_R-42695?utm_source=aprameyak) | Oct 16 |
 | SpaceX 🛂 🇺🇸 | New Graduate Engineer, Infrastructure | Starbase, TX |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002&utm_source=aprameyak) | Oct 16 |
 | State of Nebraska | Application Developer - Web (.NET) Expert | Lincoln, NE |  | Undergrad | [Apply](https://son.wd108.myworkdayjobs.com/en-US/NebraskaStateCareers/job/Lincoln-NE/Application-Developer---Web--NET--Expert_JR2026-00029859?utm_source=aprameyak) | Oct 16 |
