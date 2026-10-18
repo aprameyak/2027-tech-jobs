@@ -4,7 +4,7 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (2633)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (2636)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (790)
 - [🎓 New Grad 2027](./NEWGRAD.md) (1015)
 
@@ -20,12 +20,15 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **2633** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **2636** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Northrop Grumman | 2027 Software Engineering Intern - Boulder CO | Boulder, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077?utm_source=aprameyak) | Oct 18 |
+| ↳ | 2027 Software Engineering Intern - Colorado Springs | Colorado Springs, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080?utm_source=aprameyak) | Oct 18 |
+| ↳ | 2027 Software Engineering Intern - Aurora CO | Aurora, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393?utm_source=aprameyak) | Oct 18 |
 | AeroVironment | Software Engineering Intern | Moorpark, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Software-Engineering-Intern_9094?utm_source=aprameyak) | Oct 17 |
 | Clera | Computer Vision & Robotics Intern | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application?utm_source=aprameyak) | Oct 17 |
 | Eulerity | AI Intern - Office of CEO & Head of Product | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4722871006?utm_source=aprameyak) | Oct 17 |
@@ -98,9 +101,6 @@ Showing newest **75** of **2633** listings · [View full table](./SUMMER.md)
 | ↳ | AI Infrastructure DC Design Intern | Remote (US) | Undergrad | [Apply](https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017929?utm_source=aprameyak) | Oct 14 |
 | ↳ | AI Infrastructure DC Design Intern | Remote (US) | Undergrad | [Apply](https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017930?utm_source=aprameyak) | Oct 14 |
 | Atoms | Software Engineering Intern - 2027 Winter Term | Seattle, WA | Undergrad | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8888411002?utm_source=aprameyak) | Oct 14 |
-| CACI | Software Engineering Intern - Summer 2027 | Florham Park, NJ | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543?utm_source=aprameyak) | Oct 14 |
-| Cboe Global Markets | Data Pipeline Engineer Intern | Kansas City, MO | Undergrad | [Apply](https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Kansas-City-MO/Data-Pipeline-Engineer-Intern_R-4738?utm_source=aprameyak) | Oct 14 |
-| Copart | DevOps Engineer Intern | Dallas, TX | Undergrad | [Apply](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/DevOps-Engineer-Intern_JR111751?utm_source=aprameyak) | Oct 14 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops

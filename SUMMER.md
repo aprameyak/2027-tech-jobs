@@ -1,11 +1,14 @@
 # ☀️ Summer 2027 Internships
 
-2633 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2636 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Northrop Grumman | 2027 Software Engineering Intern - Boulder CO | Boulder, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077?utm_source=aprameyak) | Oct 18 |
+| ↳ | 2027 Software Engineering Intern - Colorado Springs | Colorado Springs, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080?utm_source=aprameyak) | Oct 18 |
+| ↳ | 2027 Software Engineering Intern - Aurora CO | Aurora, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393?utm_source=aprameyak) | Oct 18 |
 | AeroVironment | Software Engineering Intern | Moorpark, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Software-Engineering-Intern_9094?utm_source=aprameyak) | Oct 17 |
 | Clera | Computer Vision & Robotics Intern | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application?utm_source=aprameyak) | Oct 17 |
 | Eulerity | AI Intern - Office of CEO & Head of Product | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4722871006?utm_source=aprameyak) | Oct 17 |
