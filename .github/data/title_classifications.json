@@ -68788,8 +68788,10 @@
   },
   "pharmacy intern - medical center east": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "relationship manager intern, agriculture": {
     "t": false,
