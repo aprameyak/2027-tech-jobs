@@ -1,13 +1,38 @@
 # ☀️ Summer 2027 Internships
 
-2638 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2663 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| American Fidelity | Software Developer Innovation Internship | Oklahoma City, OK | Undergrad | [Apply](https://americanfidelity.wd5.myworkdayjobs.com/en-US/External/job/Oklahoma-City-Oklahoma/Software-Developer-Innovation-Internship_JR1118?utm_source=aprameyak) | Oct 19 |
+| Bosch | AI Research Intern: Wireless Foundation Models | Pittsburgh, PA | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000156323136) | Oct 19 |
+| GM Financial | Intern - Portfolio Analytics | Fort Worth, TX | Undergrad | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773) | Oct 19 |
+| Honeywell | Intern Bachelors Field Service Engineer | Markham, ON | Undergrad | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160178) | Oct 19 |
+| ICF International | 2027 Summer Intern, Business Systems & Applications Associate (Reston, VA) | Reston, VA | Masters | [Apply](https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Business-Systems---Applications-Associate--Reston--VA-_R2603584?utm_source=aprameyak) | Oct 19 |
 | KLA | Tax & Data Analytics Intern | Ann Arbor, MI | Undergrad | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Tax---Data-Analytics-Intern_2642280-2?utm_source=aprameyak) | Oct 19 |
+| Liberty Mutual | Technology Strategy & Transformation Internship (Summer 2027) | <details><summary>**2 locations**</summary>Portsmouth, NH</br>Boston, MA</details> | Undergrad | [Apply](https://campus-libertymutual.icims.com/jobs/262273/technology-strategy-%26-transformation-internship-%28summer-2027%29/job) | Oct 19 |
+| LLNL | Predictive Science Academic Alliance Program IV Student Intern (PSAAP IV) | Livermore, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016225626) | Oct 19 |
+| Marvell Technology | AI Data Science Intern, MS - Summer 2027 | Santa Clara, CA | Masters | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1?utm_source=aprameyak) | Oct 19 |
+| National Information Solutions Cooperative | Intern - Application Analyst (Financials Software) | Mandan, ND | Undergrad | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8301304?utm_source=aprameyak) | Oct 19 |
+| Navy Federal | Intern - Year Round (AI Engineering) | Vienna, VA | Undergrad | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32645) | Oct 19 |
+| Nubank | Nu AI Core Summer PhD Research Internship | Palo Alto, CA | PhD | [Apply](https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011/application?utm_source=aprameyak) | Oct 19 |
+| Point72 | 2028 Point72 Academy Investment Analyst Summer Internship Program - US | Remote (US) | Undergrad | [Apply](https://boards.greenhouse.io/point72/jobs/8876354002?gh_jid=8876354002&utm_source=aprameyak) | Oct 19 |
+| Reflect Orbital | IT Support Specialist Intern | Hawthorne, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/reflect-orbital/8f4f8e74-b386-41b4-8154-7e5e50a34205/application?utm_source=aprameyak) | Oct 19 |
+| RTX | Software Engineering Intern (Summer 2027) | Cedar Rapids, IA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499?utm_source=aprameyak) | Oct 19 |
+| Scale AI | Machine Learning Research Intern (Summer 2027) | <details><summary>**2 locations**</summary>New York, NY</br>San Francisco, CA</details> | Undergrad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005?utm_source=aprameyak) | Oct 19 |
+| Symbotic | Intern- Robot Manipulation | Wilmington, MA | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Robot-Manipulation_R8278?utm_source=aprameyak) | Oct 19 |
+| The Toro Company | Cloud Software Development Intern - The Toro Company | Frederick, CO | Undergrad | [Apply](https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498?utm_source=aprameyak) | Oct 19 |
 | Verizon Communications | Verizon Business Group: Solutions Architect Summer 2027 Internship | Irving, TX | Undergrad | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Verizon-Business-Group--Solutions-Architect-Summer-2027-Internship_R-1102418?utm_source=aprameyak) | Oct 19 |
+| Waymo | 2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8283558) | Oct 19 |
+| ↳ | 2027 Summer Intern, PhD, Research, Behavior Post-training | <details><summary>**2 locations**</summary>Mountain View, CA</br>San Francisco, CA</details> | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8289816) | Oct 19 |
+| ↳ | 2027 Summer Intern, PhD, Research, Perception Foundation Models | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8301804) | Oct 19 |
+| ↳ | 2027 Summer Intern, PhD, Research Scientist, Visual Reasoning | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8292367) | Oct 19 |
+| ↳ | 2027 Summer Intern, PhD, Research, VLM Harnesses for AV Planning | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8301854) | Oct 19 |
+| Zebra Technologies | 2027 Summer Internship (US) - Software Engineer | Holtsville, NY | Undergrad | [Apply](https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625?utm_source=aprameyak) | Oct 19 |
+| ↳ | 2027 Summer Internship (US) - Business Analytics | Holtsville, NY | Undergrad | [Apply](https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Business-Analytics_JR103642?utm_source=aprameyak) | Oct 19 |
+| Zurn Elkay Water Solutions | Product Management Intern - Summer 2027 | Downers Grove, IL | Undergrad | [Apply](https://elkay.wd1.myworkdayjobs.com/en-US/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065?utm_source=aprameyak) | Oct 19 |
 | Northrop Grumman | 2027 Software Engineering Intern - Boulder CO | Boulder, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077?utm_source=aprameyak) | Oct 18 |
 | ↳ | 2027 Software Engineering Intern - Colorado Springs | Colorado Springs, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080?utm_source=aprameyak) | Oct 18 |
 | ↳ | 2027 Software Engineering Intern - Aurora CO | Aurora, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393?utm_source=aprameyak) | Oct 18 |

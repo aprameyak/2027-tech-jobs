@@ -1,12 +1,27 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-791 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+806 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| ABB | Integrated Motor Drive SW Co-Op - Spring 2027 | Greenville, SC | Co-op | Undergrad | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Greenville-South-Carolina-United-States-of-America/Integrated-Motor-Drive-SW-Co-Op---Spring-2027_JR00050240?utm_source=aprameyak) | Oct 19 |
+| BMO Financial Group | Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-1?utm_source=aprameyak) | Oct 19 |
+| Bosch | Software Engineering Co-Op - Spring 2027 | Fountain Inn, SC | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000156311682) | Oct 19 |
+| CIBC | Advanced Analytics and AI Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440?utm_source=aprameyak) | Oct 19 |
+| ↳ | Analytics Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Analytics-Co-op_2621449-1?utm_source=aprameyak) | Oct 19 |
+| ↳ | Advanced Analytics and AI Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440-1?utm_source=aprameyak) | Oct 19 |
+| ↳ | Analytics Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Analytics-Co-op_2621449-2?utm_source=aprameyak) | Oct 19 |
 | Johnson & Johnson | Quality Data Science Co-Op , Summer 2027 | Cincinnati, OH | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629?utm_source=aprameyak) | Oct 19 |
+| ↳ | HFE Co-op (Summer/2027) Raritan | Raritan, NJ | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/HFE-Co-op--Summer-2027--Raritan_R-103482?utm_source=aprameyak) | Oct 19 |
+| Kinaxis | Co-op/Intern Visual Designer | Ottawa, ON | Co-op | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35573/co-op-intern-visual-designer/job) | Oct 19 |
+| Peraton | Junior Business Analyst (Data & Integration) | Remote (US) | Co-op | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/172445/junior-business-analyst-%28data-%26-integration%29/job) | Oct 19 |
+| RTX | Software Engineering Co-op (Summer / Fall 2027) | Cedar Rapids, IA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer---Fall-2027-_01881368?utm_source=aprameyak) | Oct 19 |
+| Sierra Nevada Corp | Systems Engineer I (For SNC Summer 2026 Interns Only) | Dayton, OH | Summer 2026 | Masters | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Dayton-OH/Systems-Engineer-I--For-SNC-Summer-2026-Interns-Only-_R0030654?utm_source=aprameyak) | Oct 19 |
+| ↳ | Systems Engineer II (For SNC Summer 2026 Interns Only) | Louisville, CO | Summer 2026 | Masters | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Louisville-CO/Systems-Engineer-II--For-SNC-Summer-2026-Interns-Only-_R0031123?utm_source=aprameyak) | Oct 19 |
+| U.S. Bank | 2027 Discover Us: Finance & Banking Fellowship | Minneapolis, MN | Co-op | Undergrad | [Apply](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Discover-Us--Finance---Banking-Fellowship_2026-0032523?utm_source=aprameyak) | Oct 19 |
+| Vestmark Internship Program | Technical Support Engineer Co-op | Wakefield, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/internrecruiting/jobs/8288817?utm_source=aprameyak) | Oct 19 |
 | Together AI | Research Intern, Frontier Speculative Decoding (Winter 2027) | San Francisco, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5267197007?utm_source=aprameyak) | Oct 17 |
 | AbbVie | Associate Engineer, Technical Development Program | Worcester, MA | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016186871) | Oct 16 |
 | Cook Group | Spring 2026, Research & Development Co-op | Winston-Salem, NC | Co-op | Undergrad | [Apply](https://americas-cookmedical.icims.com/jobs/19770/spring-2026%2c-research-%26-development-co-op/job) | Oct 16 |

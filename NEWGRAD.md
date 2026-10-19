@@ -1,11 +1,14 @@
 # 🎓 New Grad 2027
 
-1017 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1020 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Accenture Federal Services 🛂 🇺🇸 | Junior Software Developer | St. Louis, MO |  | Undergrad | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4723148006?gh_jid=4723148006&utm_source=aprameyak) | Oct 19 |
+| Fortinet | Early Careers: Software Development Engineer | Sunnyvale, CA |  | Undergrad | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24668) | Oct 19 |
+| GlobalFoundries | AI/ML Systems Engineer (2027 New College Graduate) | Richardson, TX | Spring 2027 | Masters | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163?utm_source=aprameyak) | Oct 19 |
 | Juniper Networks | Technology Consultant Graduate | Spring, TX |  | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Technology-Consultant-Graduate_1217412-1?utm_source=aprameyak) | Oct 19 |
 | LSEG | Fixed Income Quantitative Specialist | New York, NY |  | Undergrad | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-United-States/Fixed-Income-Quantitative-Specialist_R0121482-1?utm_source=aprameyak) | Oct 19 |
 | CACI | Junior Data Analyst | Florham Park, NJ |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Junior-Data-Analyst_332671?utm_source=aprameyak) | Oct 17 |
