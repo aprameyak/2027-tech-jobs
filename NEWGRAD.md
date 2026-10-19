@@ -1,11 +1,13 @@
 # 🎓 New Grad 2027
 
-1015 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1017 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Juniper Networks | Technology Consultant Graduate | Spring, TX |  | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Technology-Consultant-Graduate_1217412-1?utm_source=aprameyak) | Oct 19 |
+| LSEG | Fixed Income Quantitative Specialist | New York, NY |  | Undergrad | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-United-States/Fixed-Income-Quantitative-Specialist_R0121482-1?utm_source=aprameyak) | Oct 19 |
 | CACI | Junior Data Analyst | Florham Park, NJ |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Junior-Data-Analyst_332671?utm_source=aprameyak) | Oct 17 |
 | KeyBank | Quantitative Analytics Associate | Brooklyn, OH |  | Undergrad | [Apply](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/Quantitative-Analytics-Associate_R-42695?utm_source=aprameyak) | Oct 16 |
 | SpaceX 🛂 🇺🇸 | New Graduate Engineer, Infrastructure | Starbase, TX |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002&utm_source=aprameyak) | Oct 16 |

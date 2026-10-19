@@ -4,9 +4,9 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (2636)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (790)
-- [🎓 New Grad 2027](./NEWGRAD.md) (1015)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (2638)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (791)
+- [🎓 New Grad 2027](./NEWGRAD.md) (1017)
 
 ## Legend
 
@@ -20,12 +20,14 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **2636** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **2638** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| KLA | Tax & Data Analytics Intern | Ann Arbor, MI | Undergrad | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Tax---Data-Analytics-Intern_2642280-2?utm_source=aprameyak) | Oct 19 |
+| Verizon Communications | Verizon Business Group: Solutions Architect Summer 2027 Internship | Irving, TX | Undergrad | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Verizon-Business-Group--Solutions-Architect-Summer-2027-Internship_R-1102418?utm_source=aprameyak) | Oct 19 |
 | Northrop Grumman | 2027 Software Engineering Intern - Boulder CO | Boulder, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077?utm_source=aprameyak) | Oct 18 |
 | ↳ | 2027 Software Engineering Intern - Colorado Springs | Colorado Springs, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080?utm_source=aprameyak) | Oct 18 |
 | ↳ | 2027 Software Engineering Intern - Aurora CO | Aurora, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393?utm_source=aprameyak) | Oct 18 |
@@ -99,18 +101,17 @@ Showing newest **75** of **2636** listings · [View full table](./SUMMER.md)
 | Astreya | AI Infrastructure DC Design Intern | Remote (US) | Undergrad | [Apply](https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931?utm_source=aprameyak) | Oct 14 |
 | ↳ | AI Infrastructure DC Design Intern | Remote (US) | Undergrad | [Apply](https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017927?utm_source=aprameyak) | Oct 14 |
 | ↳ | AI Infrastructure DC Design Intern | Remote (US) | Undergrad | [Apply](https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017929?utm_source=aprameyak) | Oct 14 |
-| ↳ | AI Infrastructure DC Design Intern | Remote (US) | Undergrad | [Apply](https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017930?utm_source=aprameyak) | Oct 14 |
-| Atoms | Software Engineering Intern - 2027 Winter Term | Seattle, WA | Undergrad | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8888411002?utm_source=aprameyak) | Oct 14 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **790** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **791** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Johnson & Johnson | Quality Data Science Co-Op , Summer 2027 | Cincinnati, OH | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629?utm_source=aprameyak) | Oct 19 |
 | Together AI | Research Intern, Frontier Speculative Decoding (Winter 2027) | San Francisco, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5267197007?utm_source=aprameyak) | Oct 17 |
 | AbbVie | Associate Engineer, Technical Development Program | Worcester, MA | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016186871) | Oct 16 |
 | Cook Group | Spring 2026, Research & Development Co-op | Winston-Salem, NC | Co-op | Undergrad | [Apply](https://americas-cookmedical.icims.com/jobs/19770/spring-2026%2c-research-%26-development-co-op/job) | Oct 16 |
@@ -185,17 +186,18 @@ Showing newest **75** of **790** listings · [View full table](./OFFCYCLE.md)
 | ↳ | Investor’s Edge, UI Designer (Design System) Winter 2027 Co-Op (8-months) | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Investor-s-Edge--UI-Designer--Design-System--Winter-2027-Co-Op--8-months-_2620694?utm_source=aprameyak) | Oct 7 |
 | ↳ | Product Analyst Co-op, IE Product Development & Delivery – Winter 2027 | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Product-Analyst-Co-op--IE-Product-Development---Delivery---Winter-2027_2620681?utm_source=aprameyak) | Oct 7 |
 | Figure AI | Middleware Intern [Winter 2027] | San Jose, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4605724006?utm_source=aprameyak) | Oct 7 |
-| KeyBank | 2027 Risk Management Rotational Analyst Program- Cleveland | Cleveland, OH | Co-op | Undergrad | [Apply](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2027--Risk-Management-Rotational-Analyst-Program--Cleveland_R-41379-1?utm_source=aprameyak) | Oct 7 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **1015** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **1017** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Juniper Networks | Technology Consultant Graduate | Spring, TX |  | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Technology-Consultant-Graduate_1217412-1?utm_source=aprameyak) | Oct 19 |
+| LSEG | Fixed Income Quantitative Specialist | New York, NY |  | Undergrad | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-United-States/Fixed-Income-Quantitative-Specialist_R0121482-1?utm_source=aprameyak) | Oct 19 |
 | CACI | Junior Data Analyst | Florham Park, NJ |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Junior-Data-Analyst_332671?utm_source=aprameyak) | Oct 17 |
 | KeyBank | Quantitative Analytics Associate | Brooklyn, OH |  | Undergrad | [Apply](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/Quantitative-Analytics-Associate_R-42695?utm_source=aprameyak) | Oct 16 |
 | SpaceX 🛂 🇺🇸 | New Graduate Engineer, Infrastructure | Starbase, TX |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002&utm_source=aprameyak) | Oct 16 |
@@ -269,8 +271,6 @@ Showing newest **75** of **1015** listings · [View full table](./NEWGRAD.md)
 | M&T Bank | 2027 Management Development Program - IS Forward Deployed Product Analyst (Wilmington, DE) | Wilmington, DE | Spring 2027 | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Business-Architecture-and-Execution--Wilmington--DE-_R89995?utm_source=aprameyak) | Oct 1 |
 | Morgan Stanley | Associate, Software Engineer | New York, NY |  | Undergrad | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR042832?utm_source=aprameyak) | Oct 1 |
 | CACI | Full Stack Developer | Fort Bragg, NC |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Fort-Bragg-NC-US/Full-Stack-Developer_332906?utm_source=aprameyak) | Sep 30 |
-| IMC Trading | Software Engineer, Early Career | Chicago, IL |  | Undergrad | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101?utm_source=aprameyak) | Sep 30 |
-| M&T Bank 🛂 | 2027 Management Development Program - Asset Management Research Analyst (Radnor, PA) | Radnor, PA | Spring 2027 | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Radnor-PA/XMLNAME-2027-Management-Development-Program---Asset-Management-Research-Analyst--Radnor--PA-_R89081?utm_source=aprameyak) | Sep 30 |
 <!-- TABLE_END newgrad -->
 
 ## License

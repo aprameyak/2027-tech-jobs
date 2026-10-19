@@ -1,11 +1,12 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-790 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+791 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Johnson & Johnson | Quality Data Science Co-Op , Summer 2027 | Cincinnati, OH | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629?utm_source=aprameyak) | Oct 19 |
 | Together AI | Research Intern, Frontier Speculative Decoding (Winter 2027) | San Francisco, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5267197007?utm_source=aprameyak) | Oct 17 |
 | AbbVie | Associate Engineer, Technical Development Program | Worcester, MA | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016186871) | Oct 16 |
 | Cook Group | Spring 2026, Research & Development Co-op | Winston-Salem, NC | Co-op | Undergrad | [Apply](https://americas-cookmedical.icims.com/jobs/19770/spring-2026%2c-research-%26-development-co-op/job) | Oct 16 |

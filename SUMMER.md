@@ -1,11 +1,13 @@
 # ☀️ Summer 2027 Internships
 
-2636 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2638 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| KLA | Tax & Data Analytics Intern | Ann Arbor, MI | Undergrad | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Tax---Data-Analytics-Intern_2642280-2?utm_source=aprameyak) | Oct 19 |
+| Verizon Communications | Verizon Business Group: Solutions Architect Summer 2027 Internship | Irving, TX | Undergrad | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Verizon-Business-Group--Solutions-Architect-Summer-2027-Internship_R-1102418?utm_source=aprameyak) | Oct 19 |
 | Northrop Grumman | 2027 Software Engineering Intern - Boulder CO | Boulder, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077?utm_source=aprameyak) | Oct 18 |
 | ↳ | 2027 Software Engineering Intern - Colorado Springs | Colorado Springs, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080?utm_source=aprameyak) | Oct 18 |
 | ↳ | 2027 Software Engineering Intern - Aurora CO | Aurora, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393?utm_source=aprameyak) | Oct 18 |
