@@ -1,14 +1,18 @@
 # 🎓 New Grad 2027
 
-1023 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1027 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | AbbVie | Associate Software Engineer II | North Chicago, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016249756) | Oct 20 |
+| General Dynamics Mission Systems | Entry Level Software Engineer (Spring 2027) | Manassas, VA | Spring 2027 | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75608/entry-level-software-engineer-%28spring-2027%29/job) | Oct 20 |
+| M&T Bank | 2027 Executive Associate Program - Technology | Buffalo, NY | Spring 2027 | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Technology_R91406?utm_source=aprameyak) | Oct 20 |
 | Northrop Grumman | 2027 Associate/Software Engineer Pathways Linthicum MA | Linthicum, MD | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499?utm_source=aprameyak) | Oct 20 |
+| ↳ | 2027 Configuration Analyst - Redondo Beach CA | Redondo Beach, CA | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Configuration-Analyst---Redondo-Beach-CA_R10256885?utm_source=aprameyak) | Oct 20 |
 | Palantir | Software Engineer, New Grad - Query Engines | New York, NY |  | Undergrad | [Apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac?utm_source=aprameyak) | Oct 20 |
+| WSP | Junior Data Analyst | Newark, NJ |  | Undergrad | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97943) | Oct 20 |
 | Accenture Federal Services 🛂 🇺🇸 | Junior Software Developer | St. Louis, MO |  | Undergrad | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4723148006?gh_jid=4723148006&utm_source=aprameyak) | Oct 19 |
 | Fortinet | Early Careers: Software Development Engineer | Sunnyvale, CA |  | Undergrad | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24668) | Oct 19 |
 | GlobalFoundries | AI/ML Systems Engineer (2027 New College Graduate) | Richardson, TX | Spring 2027 | Masters | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163?utm_source=aprameyak) | Oct 19 |
