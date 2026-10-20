@@ -29670,9 +29670,10 @@
     "v": ""
   },
   "senior research operations program manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior site reliability engineer (auth0)": {
