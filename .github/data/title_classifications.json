@@ -12538,9 +12538,10 @@
     "b": "s"
   },
   "senior software engineer, ai developer experience": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior software engineer, ai retrieval": {
@@ -16147,9 +16148,10 @@
     "b": "s"
   },
   "staff software engineer, developer infrastructure": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff software engineer, eaa cx": {
@@ -21372,8 +21374,9 @@
   },
   "enterprise security engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "field service engineer": {
@@ -23224,9 +23227,9 @@
     "b": "s"
   },
   "manager, solutions consulting": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -35511,9 +35514,9 @@
     "b": "s"
   },
   "product counsel, data products": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -60737,9 +60740,10 @@
     "b": "s"
   },
   "staff software engineer, planner": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff software engineer, planner evaluation": {
