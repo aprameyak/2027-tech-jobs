@@ -23156,9 +23156,9 @@
     "b": "s"
   },
   "manager, security operations": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -40754,8 +40754,8 @@
   },
   "data science analyst": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -66346,8 +66346,9 @@
   },
   "machine learning engineering intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "product design intern for ai and human agents platform": {
@@ -71661,8 +71662,10 @@
   },
   "commercial lines underwriting internship - summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "corporate marketing internship - summer 2027": {
     "t": false,
