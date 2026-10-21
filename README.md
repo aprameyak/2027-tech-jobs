@@ -4,9 +4,9 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (2698)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (830)
-- [🎓 New Grad 2027](./NEWGRAD.md) (1027)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (2710)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (833)
+- [🎓 New Grad 2027](./NEWGRAD.md) (1033)
 
 ## Legend
 
@@ -20,12 +20,24 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **2698** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **2710** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| AeroVironment | Software Engineering Intern | San Diego, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/San-Diego-CA/Software-Engineering-Intern_8828?utm_source=aprameyak) | Oct 21 |
+| ClickHouse | Research Intern, ClickHouse Labs | Remote (US) | Undergrad | [Apply](https://jobs.ashbyhq.com/clickhouse/558c0c16-5fde-407a-966b-7a2255d3531b/application?utm_source=aprameyak) | Oct 21 |
+| General Dynamics Mission Systems | Information Assurance Engineer - Intern Conversion | Pittsfield, MA | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75748/information-assurance-engineer---intern-conversion/job) | Oct 21 |
+| LinkedIn | Software Engineer Intern, Undergraduate - Summer 2027 (Mountain View, CA) | Mountain View, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000156616169) | Oct 21 |
+| Micron Technology | Intern - Machine Learning Engineering | Richardson, TX | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750?utm_source=aprameyak) | Oct 21 |
+| Rakuten International | Intern - Software Engineer, AI User Experience | San Mateo, CA | Undergrad | [Apply](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171?utm_source=aprameyak) | Oct 21 |
+| RTX | Software Engineering Intern (Summer 2027) | Annapolis, MD | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939?utm_source=aprameyak) | Oct 21 |
+| Shield AI | Summer 2027 - Data Science Intern (R6324) | San Diego, CA | Undergrad | [Apply](https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797?utm_source=aprameyak) | Oct 21 |
+| Smith+Nephew | Intern Agentic AI Software Engineering | Andover, MA | Undergrad | [Apply](https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953?utm_source=aprameyak) | Oct 21 |
+| The Federal Reserve System | 2027 Intern - Technology Risk | Dallas, TX | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Technology-Risk_R-0000033765?utm_source=aprameyak) | Oct 21 |
+| Toyota | 2027 TFS Data Science Internship | Plano, TX | Undergrad | [Apply](https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1?utm_source=aprameyak) | Oct 21 |
+| Uber | 2027 Software Engineering Intern, US | San Francisco, CA | Undergrad | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922) | Oct 21 |
 | AeroVironment | Software Engineering Intern | Minneapolis, MN | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Minneapolis-MN/Software-Engineering-Intern_8940?utm_source=aprameyak) | Oct 20 |
 | ↳ | Machine Learning Engineering Intern | Centreville, VA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941?utm_source=aprameyak) | Oct 20 |
 | Amazon | PDE Intern (Summer),  Summer 2027 | Sunnyvale, CA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10584152/pde-intern-summer-summer-2027) | Oct 20 |
@@ -89,28 +101,19 @@ Showing newest **75** of **2698** listings · [View full table](./SUMMER.md)
 | ↳ | 2027 Summer Internship (US) - Business Analytics | Holtsville, NY | Undergrad | [Apply](https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Business-Analytics_JR103642?utm_source=aprameyak) | Oct 19 |
 | Zurn Elkay Water Solutions | Product Management Intern - Summer 2027 | Downers Grove, IL | Undergrad | [Apply](https://elkay.wd1.myworkdayjobs.com/en-US/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065?utm_source=aprameyak) | Oct 19 |
 | Northrop Grumman | 2027 Software Engineering Intern - Boulder CO | Boulder, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077?utm_source=aprameyak) | Oct 18 |
-| ↳ | 2027 Software Engineering Intern - Colorado Springs | Colorado Springs, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080?utm_source=aprameyak) | Oct 18 |
-| ↳ | 2027 Software Engineering Intern - Aurora CO | Aurora, CO | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393?utm_source=aprameyak) | Oct 18 |
-| AeroVironment | Software Engineering Intern | Moorpark, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Software-Engineering-Intern_9094?utm_source=aprameyak) | Oct 17 |
-| Clera | Computer Vision & Robotics Intern | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application?utm_source=aprameyak) | Oct 17 |
-| Eulerity | AI Intern - Office of CEO & Head of Product | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4722871006?utm_source=aprameyak) | Oct 17 |
-| Persona | Product Design, Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec/application?utm_source=aprameyak) | Oct 17 |
-| Together AI | Research Intern, Frontier Speculative Decoding (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5267198007?utm_source=aprameyak) | Oct 17 |
-| Airbus | Short-term Internship - Tool Technology and Development Engineering | Mobile Area, AL | Undergrad | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mobile-Area-AL/Short-term-Internship---Tool-Technology-and-Development-Engineering_JR10451236?utm_source=aprameyak) | Oct 16 |
-| Altera | Software Engineer -  Intern | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320?utm_source=aprameyak) | Oct 16 |
-| Booz Allen Hamilton | University, Software Engineer Intern | Fayetteville, NC | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802?utm_source=aprameyak) | Oct 16 |
-| ChargePoint | IT & Network Intern | Campbell, CA | Undergrad | [Apply](https://www.chargepoint.com/about/opportunities/job/?gh_jid=8893571002) | Oct 16 |
-| General Dynamics Mission Systems | Software & Systems Infrastructure Integration Intern | Manassas, VA | Masters | [Apply](https://careers-gdms.icims.com/jobs/75520/software-%26-systems-infrastructure-integration-intern/job) | Oct 16 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **830** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **833** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| RTX | Part Time Systems Engineer Co-Op (Remote) | Aurora, CO | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Systems-Engineer-Co-Op--Remote-_01883866?utm_source=aprameyak) | Oct 21 |
+| ↳ | Part Time Systems Engineer Co-Op (Remote) | Aurora, CO | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Systems-Engineer-Co-Op--Remote-_01883862?utm_source=aprameyak) | Oct 21 |
+| Smith+Nephew | Co-op  Research & Development | Austin Artemis, TX | Co-op | Undergrad | [Apply](https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/US---Austin-Artemis-TX/Co-op--Research---Development_R92959?utm_source=aprameyak) | Oct 21 |
 | Blue Cross Blue Shield of Michigan | Analyst Development Program - Analyst Trainee | Detroit, MI | Co-op | Undergrad | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14972) | Oct 20 |
 | CIBC | Project Coordinator Co-op (Winter 2027), Capital Markets Technology | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Project-Coordinator-Co-op--Winter-2027---Capital-Markets-Technology_2621521?utm_source=aprameyak) | Oct 20 |
 | ↳ | Application/Software Developer Co-op (Winter 2027), Capital Markets Technology | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523?utm_source=aprameyak) | Oct 20 |
@@ -183,19 +186,22 @@ Showing newest **75** of **830** listings · [View full table](./OFFCYCLE.md)
 | Hitachi | ITV Automation Specialist Intern (Winter 2027, 12months) | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/ITV-Automation-Specialist-Intern--Winter-2027--12months-_R0147187?utm_source=aprameyak) | Oct 14 |
 | Johnson & Johnson | Technical Operations Co-op | West Chester, PA | Co-op | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/West-Chester-Pennsylvania-United-States-of-America/Technical-Operations-Co-op_R-100885?utm_source=aprameyak) | Oct 14 |
 | Later | Data Science Co-op | Vancouver, BC | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/later/jobs/8889650002?utm_source=aprameyak) | Oct 14 |
-| Sierra Nevada Corp | Software Engineer Intern (For SNC Summer 2026 Intern Only) | Sparks, NV | Summer 2026 | Undergrad | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Software-Engineer-Intern--For-SNC-Summer-2026-Intern-Only-_R0031074?utm_source=aprameyak) | Oct 14 |
-| Skydio | Manufacturing Software Engineer Intern - Winter 2027 | San Mateo, CA | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application?utm_source=aprameyak) | Oct 14 |
-| Sony Pictures Entertainment | Current Programming Intern, Sony Pictures Television – Spring 2027 | Culver City, CA | Spring 2027 | Undergrad | [Apply](https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Current-Programming-Intern--Sony-Pictures-Television---Spring-2027_JR114863-1?utm_source=aprameyak) | Oct 14 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **1027** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **1033** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Brain Co. | AI/ML Engineer, 2027 New Grad | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application?utm_source=aprameyak) | Oct 21 |
+| ↳ | AI Security Engineer, 2027 New Grad | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030/application?utm_source=aprameyak) | Oct 21 |
+| ↳ | AI Product Engineer, 2027 New Grad | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application?utm_source=aprameyak) | Oct 21 |
+| ↳ | AI Platform Engineer, 2027 New Grad | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application?utm_source=aprameyak) | Oct 21 |
+| Northrop Grumman | Associate Software Engineer | Bellevue, NE |  | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Nebraska-Bellevue/Associate-Software-Engineer_R10257006?utm_source=aprameyak) | Oct 21 |
+| NVIDIA | Software Engineer, Agent Performance Modeling - New College Grad 2026 | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350?utm_source=aprameyak) | Oct 21 |
 | AbbVie | Associate Software Engineer II | North Chicago, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016249756) | Oct 20 |
 | General Dynamics Mission Systems | Entry Level Software Engineer (Spring 2027) | Manassas, VA | Spring 2027 | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75608/entry-level-software-engineer-%28spring-2027%29/job) | Oct 20 |
 | M&T Bank | 2027 Executive Associate Program - Technology | Buffalo, NY | Spring 2027 | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Technology_R91406?utm_source=aprameyak) | Oct 20 |
@@ -265,12 +271,6 @@ Showing newest **75** of **1027** listings · [View full table](./NEWGRAD.md)
 | RFCUNY | Graduate Research Assistant | New York, NY |  | Undergrad | [Apply](https://rfcuny.wd108.myworkdayjobs.com/en-US/RFCUNY/job/New-York-NY/Graduate-Research-Assistant_JR4846?utm_source=aprameyak) | Oct 8 |
 | Roblox | [2027] Senior Machine Learning Engineer - PhD Early Career | San Mateo, CA | Spring 2027 | PhD | [Apply](https://careers.roblox.com/jobs/8242623?gh_jid=8242623) | Oct 8 |
 | CACI | Entry Level C# Software Engineer | Virginia Beach, VA |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249?utm_source=aprameyak) | Oct 7 |
-| Figma | Early Career, Associate Product Manager (2027) | San Francisco, CA | Spring 2027 | Undergrad | [Apply](https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004&utm_source=aprameyak) | Oct 7 |
-| General Dynamics | Engineer - Systems Entry Level | Stonington, CT |  | Masters | [Apply](https://careers-gdeb.icims.com/jobs/18029/engineer---systems-entry-level/job) | Oct 7 |
-| McKesson | Analyst, IT Vendor Management – New Grad Opportunity | Mississauga, ON |  | Undergrad | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Analyst--IT-Vendor-Management---New-Grad-Opportunity_JR0153988?utm_source=aprameyak) | Oct 5 |
-| ServiceNow | Software Engineer, Core Infrastructure - Moveworks (New Grad) | Mountain View, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000153279380) | Oct 3 |
-| Amentum | Junior Software Developer | Dahlgren, VA |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0172202?utm_source=aprameyak) | Oct 2 |
-| Harvey | Software Engineer, New Grad (2027) | San Francisco, CA | Winter 2026 – Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?utm_source=aprameyak) | Oct 2 |
 <!-- TABLE_END newgrad -->
 
 ## License

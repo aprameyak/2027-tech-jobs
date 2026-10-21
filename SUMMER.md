@@ -1,11 +1,23 @@
 # ☀️ Summer 2027 Internships
 
-2698 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2710 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| AeroVironment | Software Engineering Intern | San Diego, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/San-Diego-CA/Software-Engineering-Intern_8828?utm_source=aprameyak) | Oct 21 |
+| ClickHouse | Research Intern, ClickHouse Labs | Remote (US) | Undergrad | [Apply](https://jobs.ashbyhq.com/clickhouse/558c0c16-5fde-407a-966b-7a2255d3531b/application?utm_source=aprameyak) | Oct 21 |
+| General Dynamics Mission Systems | Information Assurance Engineer - Intern Conversion | Pittsfield, MA | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75748/information-assurance-engineer---intern-conversion/job) | Oct 21 |
+| LinkedIn | Software Engineer Intern, Undergraduate - Summer 2027 (Mountain View, CA) | Mountain View, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000156616169) | Oct 21 |
+| Micron Technology | Intern - Machine Learning Engineering | Richardson, TX | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750?utm_source=aprameyak) | Oct 21 |
+| Rakuten International | Intern - Software Engineer, AI User Experience | San Mateo, CA | Undergrad | [Apply](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171?utm_source=aprameyak) | Oct 21 |
+| RTX | Software Engineering Intern (Summer 2027) | Annapolis, MD | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939?utm_source=aprameyak) | Oct 21 |
+| Shield AI | Summer 2027 - Data Science Intern (R6324) | San Diego, CA | Undergrad | [Apply](https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797?utm_source=aprameyak) | Oct 21 |
+| Smith+Nephew | Intern Agentic AI Software Engineering | Andover, MA | Undergrad | [Apply](https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953?utm_source=aprameyak) | Oct 21 |
+| The Federal Reserve System | 2027 Intern - Technology Risk | Dallas, TX | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Technology-Risk_R-0000033765?utm_source=aprameyak) | Oct 21 |
+| Toyota | 2027 TFS Data Science Internship | Plano, TX | Undergrad | [Apply](https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1?utm_source=aprameyak) | Oct 21 |
+| Uber | 2027 Software Engineering Intern, US | San Francisco, CA | Undergrad | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922) | Oct 21 |
 | AeroVironment | Software Engineering Intern | Minneapolis, MN | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Minneapolis-MN/Software-Engineering-Intern_8940?utm_source=aprameyak) | Oct 20 |
 | ↳ | Machine Learning Engineering Intern | Centreville, VA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941?utm_source=aprameyak) | Oct 20 |
 | Amazon | PDE Intern (Summer),  Summer 2027 | Sunnyvale, CA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10584152/pde-intern-summer-summer-2027) | Oct 20 |

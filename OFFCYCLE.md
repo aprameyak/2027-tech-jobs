@@ -1,11 +1,14 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-830 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+833 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| RTX | Part Time Systems Engineer Co-Op (Remote) | Aurora, CO | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Systems-Engineer-Co-Op--Remote-_01883866?utm_source=aprameyak) | Oct 21 |
+| ↳ | Part Time Systems Engineer Co-Op (Remote) | Aurora, CO | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Systems-Engineer-Co-Op--Remote-_01883862?utm_source=aprameyak) | Oct 21 |
+| Smith+Nephew | Co-op  Research & Development | Austin Artemis, TX | Co-op | Undergrad | [Apply](https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/US---Austin-Artemis-TX/Co-op--Research---Development_R92959?utm_source=aprameyak) | Oct 21 |
 | Blue Cross Blue Shield of Michigan | Analyst Development Program - Analyst Trainee | Detroit, MI | Co-op | Undergrad | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14972) | Oct 20 |
 | CIBC | Project Coordinator Co-op (Winter 2027), Capital Markets Technology | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Project-Coordinator-Co-op--Winter-2027---Capital-Markets-Technology_2621521?utm_source=aprameyak) | Oct 20 |
 | ↳ | Application/Software Developer Co-op (Winter 2027), Capital Markets Technology | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523?utm_source=aprameyak) | Oct 20 |

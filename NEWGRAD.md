@@ -1,11 +1,17 @@
 # 🎓 New Grad 2027
 
-1027 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1033 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Brain Co. | AI/ML Engineer, 2027 New Grad | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application?utm_source=aprameyak) | Oct 21 |
+| ↳ | AI Security Engineer, 2027 New Grad | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030/application?utm_source=aprameyak) | Oct 21 |
+| ↳ | AI Product Engineer, 2027 New Grad | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application?utm_source=aprameyak) | Oct 21 |
+| ↳ | AI Platform Engineer, 2027 New Grad | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application?utm_source=aprameyak) | Oct 21 |
+| Northrop Grumman | Associate Software Engineer | Bellevue, NE |  | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Nebraska-Bellevue/Associate-Software-Engineer_R10257006?utm_source=aprameyak) | Oct 21 |
+| NVIDIA | Software Engineer, Agent Performance Modeling - New College Grad 2026 | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350?utm_source=aprameyak) | Oct 21 |
 | AbbVie | Associate Software Engineer II | North Chicago, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016249756) | Oct 20 |
 | General Dynamics Mission Systems | Entry Level Software Engineer (Spring 2027) | Manassas, VA | Spring 2027 | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75608/entry-level-software-engineer-%28spring-2027%29/job) | Oct 20 |
 | M&T Bank | 2027 Executive Associate Program - Technology | Buffalo, NY | Spring 2027 | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Technology_R91406?utm_source=aprameyak) | Oct 20 |
