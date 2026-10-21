@@ -6746,8 +6746,9 @@
   },
   "senior network automation engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior network engineer, factory systems and operational technology": {
