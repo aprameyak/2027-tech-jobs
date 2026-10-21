@@ -12208,9 +12208,9 @@
     "v": ""
   },
   "digital designer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -65758,8 +65758,10 @@
   },
   "intern - finance & accounting": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "student contract worker: analyst": {
     "t": false,
@@ -72840,8 +72842,9 @@
   },
   "international tax transfer pricing associate - fall 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   },
   "international tax transfer pricing intern - winter 2027": {
     "t": false,
@@ -72850,13 +72853,17 @@
   },
   "private client services intern - winter 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "business tax intern - winter 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "global talent sourcing intern": {
     "t": false,
