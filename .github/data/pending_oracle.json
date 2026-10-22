@@ -1,0 +1,88 @@
+[
+  {
+    "company": "Lazard",
+    "role": "2027 Summer Associate - Boston Technology",
+    "location": "Boston, MA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6706",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-22"
+  },
+  {
+    "company": "Lazard",
+    "role": "2027 Summer Associate - San Francisco Technology",
+    "location": "San Francisco, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6703",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-22"
+  },
+  {
+    "company": "Texas Instruments",
+    "role": "Software Engineering Intern (Canada)",
+    "location": "Remote (Canada)",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-22"
+  },
+  {
+    "company": "Stantec",
+    "role": "ICT Designer-New Graduate 2027",
+    "location": "Chicago, IL",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008306",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-22",
+    "grad_date": "Spring 2027"
+  },
+  {
+    "company": "Stantec",
+    "role": "Information Communications Technology (ICT ) Intern - Buildings (Summer 2027)",
+    "location": "Lynnwood, WA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008438",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-22"
+  },
+  {
+    "company": "WSP",
+    "role": "Transportation Data Analyst Intern - Summer 2027",
+    "location": "Seattle, WA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97952",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-22"
+  },
+  {
+    "company": "JPMorganChase",
+    "role": "2027 Asset Management Data Scientist - Summer Associate",
+    "location": "New York, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-22",
+    "grad_date": "Spring 2027"
+  }
+]
