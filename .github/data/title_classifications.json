@@ -35896,8 +35896,9 @@
   },
   "software engineer, core infrastructure": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "software engineer, data & ai": {
