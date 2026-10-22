@@ -72833,8 +72833,10 @@
   },
   "co-op, delivery - projects (lcs)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "federal tax associate - (fall 2027/winter 2028)": {
     "t": false,
