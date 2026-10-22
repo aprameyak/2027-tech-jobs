@@ -1,15 +1,36 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-846 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+867 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| 1Password | Developer Intern, Data Security - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1/application?utm_source=aprameyak) | Oct 22 |
+| ↳ | Developer Intern, Machine Identity - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?utm_source=aprameyak) | Oct 22 |
+| ↳ | Developer Intern, Vault Team - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?utm_source=aprameyak) | Oct 22 |
+| ↳ | Security Intern, Threat Operations - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847/application?utm_source=aprameyak) | Oct 22 |
+| ↳ | Developer Intern, Provisioning - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?utm_source=aprameyak) | Oct 22 |
+| ↳ | Developer Intern, Front-End Platform - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?utm_source=aprameyak) | Oct 22 |
+| ↳ | Developer Intern, Extension Excellence - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?utm_source=aprameyak) | Oct 22 |
+| AbbVie | 2027 1L Summer Associate | North Chicago, IL | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016341566) | Oct 22 |
 | Bosch | [ETA] 3 Junior Java Developer (1-3 years of experience) | Remote (US) | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000157095699) | Oct 22 |
+| CIBC | Machine Learning Engineer Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721?utm_source=aprameyak) | Oct 22 |
+| ↳ | Research Operations & AI Enablement, Winter 2027 Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Research-Operations---AI-Enablement--Winter-2027-Co-op_2621713?utm_source=aprameyak) | Oct 22 |
+| ↳ | Machine Learning Engineer Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1?utm_source=aprameyak) | Oct 22 |
+| Ciena | Software Developer Intern - Winter 2027 | Ottawa, ON | Winter 2027 | Undergrad | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1?utm_source=aprameyak) | Oct 22 |
 | Disney | WPVI- TV (6abc) Technology Intern, Spring 2027 | Philadelphia, PA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Philadelphia-PA-USA/WPVI--TV--6abc--Technology-Intern--Spring-2027_10158631?utm_source=aprameyak) | Oct 22 |
+| Formlabs | Manufacturing Test Software Intern (Winter/Spring 2027) | Somerville, MA | Spring 2027 | Undergrad | [Apply](https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004) | Oct 22 |
+| KION Group | Software Analytics Co-op | Grand Rapids, MI | Co-op | Undergrad | [Apply](https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1?utm_source=aprameyak) | Oct 22 |
+| Philips | Intern - AI & Analytics Analyst - Nashville, TN - Spring 2027 | Nashville, TN | Spring 2027 | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012?utm_source=aprameyak) | Oct 22 |
+| Resonetics | HR AI Automation Co-Op | Nashua, NH | Co-op | Undergrad | [Apply](https://careers-resonetics.icims.com/jobs/5550/hr-ai-automation-co-op/job) | Oct 22 |
 | RTX | End User Support Co-op (Spring/Summer 2027) | Cambridge, MA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/End-User-Support-Co-op--Spring-Summer-2027-_01882886?utm_source=aprameyak) | Oct 22 |
 | ↳ | Systems Administrator Co-Op (Spring/Summer 2027) | Cambridge, MA | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Systems-Administrator-Co-Op--Spring-Summer-2027-_01882888?utm_source=aprameyak) | Oct 22 |
+| ↳ | Part-Time Software Engineer Co-op(Remote) | Aurora, CO | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451?utm_source=aprameyak) | Oct 22 |
+| Saab | Co-Op, IT Systems Spring & Summer 2027 | East Syracuse, NY | Co-op | Masters | [Apply](https://saabusa.wd1.myworkdayjobs.com/en-US/saab_careers/job/East-Syracuse-NY-Enterprise/Co-Op--IT-Systems-Spring---Summer-2027_R-03363-1?utm_source=aprameyak) | Oct 22 |
+| Sierra Nevada Corp | Systems Security Engineer Intern - Summer 2027 (For SNC Summer 2026 Interns Only) | Hagerstown, MD | Summer 2026 | Masters | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540?utm_source=aprameyak) | Oct 22 |
+| Symbotic | Co-op- Machine Learning Ops | Wilmington, MA | Co-op | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Machine-Learning-Ops_R8327?utm_source=aprameyak) | Oct 22 |
+| Twitch | Undergrad Software Engineering Intern (Grad Year: Winter 2027) | San Francisco, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8886605002?utm_source=aprameyak) | Oct 22 |
 | CIBC | Analyst, Enterprise Data and Records co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668?utm_source=aprameyak) | Oct 21 |
 | ↳ | Product Analyst- Winter 2027 Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541?utm_source=aprameyak) | Oct 21 |
 | ↳ | AI and Quantum Scientist Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649?utm_source=aprameyak) | Oct 21 |

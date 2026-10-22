@@ -1,12 +1,20 @@
 # 🎓 New Grad 2027
 
-1041 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1049 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| BMO Financial Group | Associate, DevOps Engineer | Toronto, ON |  | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Associate--DevOps-Engineer_R260029694?utm_source=aprameyak) | Oct 22 |
+| Citi | Client - Global Strategy & Macro Group, Full Time Analyst, New York City - US, 2027 | New York New York United States |  | Undergrad | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Client---Global-Strategy---Macro-Group--Full-Time-Analyst--New-York-City---US--2027_26985336?utm_source=aprameyak) | Oct 22 |
+| JPMorganChase | 2027 Asset Management Data Scientist - Summer Associate | New York, NY | Spring 2027 | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931) | Oct 22 |
+| Northrop Grumman | 2027- Associate Systems Engineer - Integration & Test - Woodland Hills CA | Woodland Hills, CA | Spring 2027 | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Woodland-Hills/XMLNAME-2027--Associate-Systems-Engineer---Integration---Test---Woodland-Hills-CA_R10257368?utm_source=aprameyak) | Oct 22 |
+| Peraton | Junior Data Engineer (ETL/Data Quality) | Remote (US) |  | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/172702/junior-data-engineer-%28etl-data-quality%29/job) | Oct 22 |
+| ↳ | Junior Data Engineer (ETL/GIS) | Remote (US) |  | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/172571/junior-data-engineer-%28etl-gis%29/job) | Oct 22 |
 | Pure Storage | Junior DevOps Engineer | Santa Clara, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8282746?utm_source=aprameyak) | Oct 22 |
+| Rendezvous Robotics | Flight Software Engineer (Early Career) | Golden, CO |  | Undergrad | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009?utm_source=aprameyak) | Oct 22 |
+| Stantec | ICT Designer-New Graduate 2027 | Chicago, IL | Spring 2027 | Undergrad | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008306) | Oct 22 |
 | Affirm | Analyst, Early Career (Full Stack) | <details><summary>**2 locations**</summary>New York, NY</br>San Francisco, CA</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003?utm_source=aprameyak) | Oct 21 |
 | Amentum | Entry Level Software Engineer | Dahlgren, VA |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259?utm_source=aprameyak) | Oct 21 |
 | Brain Co. | AI/ML Engineer, 2027 New Grad | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application?utm_source=aprameyak) | Oct 21 |
