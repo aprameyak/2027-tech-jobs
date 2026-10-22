@@ -99889,5 +99889,33 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "jr. software development engineer - detroit, mi, jr. developer program": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "associate delivery consultant intern, aws professional services": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "associate delivery consultant intern, national security, aws professional services": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "2027 frontier ai & robotics internship (undergraduate) - united states, frontier ai & robotics, frontier ai & robotics": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   }
 }
