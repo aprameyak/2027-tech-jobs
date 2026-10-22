@@ -65715,8 +65715,10 @@
   },
   "2027 finance leader accelerator program intern (mba)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "machining technician (starlink) - entry level ": {
     "t": false,
