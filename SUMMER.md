@@ -1,11 +1,16 @@
 # ☀️ Summer 2027 Internships
 
-2733 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2738 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Aptiv | Software Development Intern | Troy, MI | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861?utm_source=aprameyak) | Oct 22 |
+| Crusoe Energy Systems | Software Engineering Intern, Summer 2027 | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application?utm_source=aprameyak) | Oct 22 |
+| Intel | Information Security Engineer Undergraduate Intern | Folsom, CA | Undergrad | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588?utm_source=aprameyak) | Oct 22 |
+| Juniper Networks | Software Development Intern, AI-Assisted Development (Summer 2027)  /  Stagiaire en développement de  logiciel, développement assisté par l’IA (Été 2027) | St. Laurent, QC | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1?utm_source=aprameyak) | Oct 22 |
+| Micron Technology | Intern - Surface Lab | Boise, ID | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Surface-Lab_JR114827?utm_source=aprameyak) | Oct 22 |
 | AeroVironment | Software Engineering Intern | San Diego, CA | Undergrad | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/San-Diego-CA/Software-Engineering-Intern_8828?utm_source=aprameyak) | Oct 21 |
 | Aptiv | AI Product Analyst Intern | San Diego, CA | Undergrad | [Apply](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400?utm_source=aprameyak) | Oct 21 |
 | Athene | Operations Reporting & Analytics Intern | West Des Moines, IA | Undergrad | [Apply](https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255268?utm_source=aprameyak) | Oct 21 |

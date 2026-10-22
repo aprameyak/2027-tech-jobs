@@ -1,11 +1,15 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-842 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+846 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Bosch | [ETA] 3 Junior Java Developer (1-3 years of experience) | Remote (US) | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000157095699) | Oct 22 |
+| Disney | WPVI- TV (6abc) Technology Intern, Spring 2027 | Philadelphia, PA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Philadelphia-PA-USA/WPVI--TV--6abc--Technology-Intern--Spring-2027_10158631?utm_source=aprameyak) | Oct 22 |
+| RTX | End User Support Co-op (Spring/Summer 2027) | Cambridge, MA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/End-User-Support-Co-op--Spring-Summer-2027-_01882886?utm_source=aprameyak) | Oct 22 |
+| ↳ | Systems Administrator Co-Op (Spring/Summer 2027) | Cambridge, MA | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Systems-Administrator-Co-Op--Spring-Summer-2027-_01882888?utm_source=aprameyak) | Oct 22 |
 | CIBC | Analyst, Enterprise Data and Records co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668?utm_source=aprameyak) | Oct 21 |
 | ↳ | Product Analyst- Winter 2027 Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541?utm_source=aprameyak) | Oct 21 |
 | ↳ | AI and Quantum Scientist Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649?utm_source=aprameyak) | Oct 21 |

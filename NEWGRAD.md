@@ -1,11 +1,12 @@
 # 🎓 New Grad 2027
 
-1040 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1041 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Pure Storage | Junior DevOps Engineer | Santa Clara, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8282746?utm_source=aprameyak) | Oct 22 |
 | Affirm | Analyst, Early Career (Full Stack) | <details><summary>**2 locations**</summary>New York, NY</br>San Francisco, CA</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003?utm_source=aprameyak) | Oct 21 |
 | Amentum | Entry Level Software Engineer | Dahlgren, VA |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259?utm_source=aprameyak) | Oct 21 |
 | Brain Co. | AI/ML Engineer, 2027 New Grad | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application?utm_source=aprameyak) | Oct 21 |
