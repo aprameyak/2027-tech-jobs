@@ -69538,8 +69538,10 @@
   },
   "dlr occupational safety & industrial hygiene interns, spring 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "disneyland architecture intern, spring 2027": {
     "t": false,
