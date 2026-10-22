@@ -5016,9 +5016,9 @@
     "b": "s"
   },
   "product operations technical specialist, counter intrusion": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -19440,9 +19440,9 @@
     "b": "s"
   },
   "group product manager - code security": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
