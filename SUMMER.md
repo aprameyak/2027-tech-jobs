@@ -1,11 +1,29 @@
 # ☀️ Summer 2027 Internships
 
-2776 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2794 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Altera | Software Intern | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373?utm_source=aprameyak) | Oct 23 |
+| CVS Health | Innovation & Technology Internship – Data Engineering – Summer 2027 (Graduate) | NY - New York | Undergrad | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Graduate-_R1081101?utm_source=aprameyak) | Oct 23 |
+| ↳ | Innovation & Technology Internship – Data Engineering – Summer 2027 (Undergraduate) | NY - New York | Undergrad | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1081090?utm_source=aprameyak) | Oct 23 |
+| ↳ | Innovation & Technology Internship - Data Science - Summer 2027 (Undergraduate) | NY - New York | Undergrad | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067?utm_source=aprameyak) | Oct 23 |
+| ↳ | Innovation & Technology Internship - Data Science - Summer 2027 (Graduate) | NY - New York | Undergrad | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038?utm_source=aprameyak) | Oct 23 |
+| ↳ | Innovation & Technology Internship - Software Engineering: Data & Intelligence Summer 2027 Undergrad | NY - New York | Undergrad | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114?utm_source=aprameyak) | Oct 23 |
+| ↳ | Innovation & Technology Internship - Software Engineering: Data & Intelligence Summer 2027 Graduate | NY - New York | Undergrad | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128?utm_source=aprameyak) | Oct 23 |
+| DoorDash 🛂 | Operations Research Intern (PhD), Summer 2027 | Sunnyvale, CA | PhD | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8273965?utm_source=aprameyak) | Oct 23 |
+| Honeywell | Reliability Engineering Intern - Bachelor's | Shreveport, LA | Undergrad | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160536) | Oct 23 |
+| Palantir | Forward Deployed Software Engineer, Internship - Warp Speed | New York, NY | Undergrad | [Apply](https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb?utm_source=aprameyak) | Oct 23 |
+| Rivian and Volkswagen Group Technologies | Data Engineering Intern - AI & Analytics (Summer 2027) | Palo Alto, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464/application?utm_source=aprameyak) | Oct 23 |
+| ↳ | Software Engineering Intern - Applications (Summer 2027) | Vancouver, BC | Undergrad | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b/application?utm_source=aprameyak) | Oct 23 |
+| ↳ | Software Engineering Intern - Applications (Summer 2027) | Palo Alto, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/7cc3dd48-631f-45ec-ae95-46c7cf05b160/application?utm_source=aprameyak) | Oct 23 |
+| ↳ | Software Engineering Intern - Connected Systems (Summer 2027) | Vancouver, BC | Masters | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec/application?utm_source=aprameyak) | Oct 23 |
+| ↳ | Software Engineering Intern - Connected Systems (Summer 2027) | Palo Alto, CA | Masters | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f/application?utm_source=aprameyak) | Oct 23 |
+| ↳ | Software Engineering Intern - Vehicle Controls (Summer 2027) | Vancouver, BC | Undergrad | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0/application?utm_source=aprameyak) | Oct 23 |
+| ↳ | Software Engineering Intern - Vehicle Controls (Summer 2027) | Palo Alto, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/cb3559f0-2514-45f1-8d36-a11fa1dded0c/application?utm_source=aprameyak) | Oct 23 |
+| Sierra Nevada Corp | Systems Engineer Intern (Summer 2027) | Lone Tree, CO | Masters | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031176?utm_source=aprameyak) | Oct 23 |
 | Amazon | Associate Delivery Consultant Intern, AWS Professional Services | Arlington, VA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services) | Oct 22 |
 | ↳ | Associate Delivery Consultant Intern, National Security, AWS Professional Services | Arlington, VA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services) | Oct 22 |
 | ↳ | 2027 Frontier AI & Robotics Internship (Undergraduate) - United States, Frontier AI & Robotics, Frontier AI & Robotics | San Francisco, CA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics) | Oct 22 |

@@ -1,11 +1,16 @@
 # 🎓 New Grad 2027
 
-1049 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1054 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Boeing | Software Engineer | Vehicle Management Systems (Associate or Experienced) | Seal Beach, CA |  | Masters | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Software-Engineer---Vehicle-Management-Systems--Associate-or-Experienced-_JR2026524635-1?utm_source=aprameyak) | Oct 23 |
+| Juniper Networks | Test Engineer, HPC & AI Systems - (Early Career) | Spring, TX |  | Masters | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-1?utm_source=aprameyak) | Oct 23 |
+| Palantir | Deployment Strategist, New Grad - Warp Speed | New York, NY |  | Undergrad | [Apply](https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387?utm_source=aprameyak) | Oct 23 |
+| ↳ | Forward Deployed Software Engineer, New Grad - Warp Speed | New York, NY |  | Undergrad | [Apply](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7?utm_source=aprameyak) | Oct 23 |
+| True Anomaly 🇺🇸 | Software Engineer I, QA (New Grad) | <details><summary>**2 locations**</summary>Denver, CO</br>Long Beach, CA</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007?utm_source=aprameyak) | Oct 23 |
 | BMO Financial Group | Associate, DevOps Engineer | Toronto, ON |  | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Associate--DevOps-Engineer_R260029694?utm_source=aprameyak) | Oct 22 |
 | Citi | Client - Global Strategy & Macro Group, Full Time Analyst, New York City - US, 2027 | New York New York United States |  | Undergrad | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Client---Global-Strategy---Macro-Group--Full-Time-Analyst--New-York-City---US--2027_26985336?utm_source=aprameyak) | Oct 22 |
 | JPMorganChase | 2027 Asset Management Data Scientist - Summer Associate | New York, NY | Spring 2027 | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931) | Oct 22 |
