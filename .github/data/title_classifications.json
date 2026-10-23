@@ -8139,9 +8139,9 @@
     "b": "s"
   },
   "senior technical program manager, space battle management": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -59812,9 +59812,9 @@
     "b": "s"
   },
   "senior machine learning engineer, simulation": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -69299,8 +69299,9 @@
   },
   "software engineer i, qa (new grad)": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "n"
   },
   "junior analyst": {
