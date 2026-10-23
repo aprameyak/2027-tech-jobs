@@ -1,15 +1,22 @@
 # 🎓 New Grad 2027
 
-1054 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1061 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | Boeing | Software Engineer | Vehicle Management Systems (Associate or Experienced) | Seal Beach, CA |  | Masters | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Software-Engineer---Vehicle-Management-Systems--Associate-or-Experienced-_JR2026524635-1?utm_source=aprameyak) | Oct 23 |
+| Citi | Technology, Production Support, Full-Time Analyst, New York - USA, 2027 | New York New York United States |  | Undergrad | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Technology--Production-Support--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004420-1?utm_source=aprameyak) | Oct 23 |
+| Comcast | Junior Backend Software Engineer (Python or PHP) - Chicago - ONSITE 2X Week- FreeWheel | Chicago, IL |  | Undergrad | [Apply](https://comcast.wd115.myworkdayjobs.com/en-US/Comcast_Careers/job/IL---Chicago-350-N-Orleans-St-1300N/Junior-Backend-Software-Engineer--Python-or-PHP----Chicago---ONSITE-2X-Week--FreeWheel_R444441?utm_source=aprameyak) | Oct 23 |
+| Cotiviti | Associate Software Engineer | Remote (US) |  | Undergrad | [Apply](https://careers-cotiviti.icims.com/jobs/20757/associate-software-engineer/job) | Oct 23 |
 | Juniper Networks | Test Engineer, HPC & AI Systems - (Early Career) | Spring, TX |  | Masters | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-1?utm_source=aprameyak) | Oct 23 |
+| Konrad Group | Associate Data Analyst | Toronto, ON |  | Undergrad | [Apply](https://www.konrad.com/careers/job/8043218003?gh_jid=8043218003) | Oct 23 |
+| Northrop Grumman | 2027 Associate Business Management Analyst/Business Management Analyst - Linthicum MD | Linthicum, MD | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Business-Management-Analyst-Business-Management-Analyst---Linthicum-MD_R10257511?utm_source=aprameyak) | Oct 23 |
 | Palantir | Deployment Strategist, New Grad - Warp Speed | New York, NY |  | Undergrad | [Apply](https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387?utm_source=aprameyak) | Oct 23 |
 | ↳ | Forward Deployed Software Engineer, New Grad - Warp Speed | New York, NY |  | Undergrad | [Apply](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7?utm_source=aprameyak) | Oct 23 |
+| ServiceNow | Associate Software Engineer | Santa Clara, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157570319) | Oct 23 |
+| Shield AI | Software Engineer I - New Grad (R6052) | Seattle, WA |  | Undergrad | [Apply](https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196?utm_source=aprameyak) | Oct 23 |
 | True Anomaly 🇺🇸 | Software Engineer I, QA (New Grad) | <details><summary>**2 locations**</summary>Denver, CO</br>Long Beach, CA</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007?utm_source=aprameyak) | Oct 23 |
 | BMO Financial Group | Associate, DevOps Engineer | Toronto, ON |  | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Associate--DevOps-Engineer_R260029694?utm_source=aprameyak) | Oct 22 |
 | Citi | Client - Global Strategy & Macro Group, Full Time Analyst, New York City - US, 2027 | New York New York United States |  | Undergrad | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Client---Global-Strategy---Macro-Group--Full-Time-Analyst--New-York-City---US--2027_26985336?utm_source=aprameyak) | Oct 22 |

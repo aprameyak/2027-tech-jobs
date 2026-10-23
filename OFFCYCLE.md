@@ -1,11 +1,25 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-867 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+881 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| 1Password | Developer Intern, Credential Brokering - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?utm_source=aprameyak) | Oct 23 |
+| ↳ | Developer Intern, Developer Interfaces - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?utm_source=aprameyak) | Oct 23 |
+| ↳ | IT Intern, IT Support - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/71e986eb-3b58-4c3c-adff-aebdb49a34b7/application?utm_source=aprameyak) | Oct 23 |
+| ↳ | Product Management Intern, End User Experience - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?utm_source=aprameyak) | Oct 23 |
+| Amentum | Junior DevSecOps Engineer | Dahlgren, VA | Co-op | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-DevSecOps-Engineer_R0172729?utm_source=aprameyak) | Oct 23 |
+| Disney | Antipiracy Technical/Operations Intern, Spring 2027 | Burbank, CA | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Antipiracy-Technical-Operations-Intern--Spring-2027_10162682-1?utm_source=aprameyak) | Oct 23 |
+| Flagship Pioneering | ProFound Therapeutics: AI/ML Engineering - SAGE Platform Co-Op | Cambridge, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002?utm_source=aprameyak) | Oct 23 |
+| ↳ | ProFound Therapeutics: Bioinformatics Data Engineering Co-Op | Cambridge, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8911245002?utm_source=aprameyak) | Oct 23 |
+| Nokia | Network Systems Engineer Co-op/Intern | Remote (Canada) | Co-op | Masters | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672) | Oct 23 |
+| Shield AI | June 2027 Co-op - Reliability Engineering #5953 | Seattle, WA | Co-op | Undergrad | [Apply](https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3?utm_source=aprameyak) | Oct 23 |
+| TD Bank | Global Markets Intern/ Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern--Co-op_R_1518670?utm_source=aprameyak) | Oct 23 |
+| ↳ | Global Markets Intern/Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern-Co-op_R_1518680?utm_source=aprameyak) | Oct 23 |
+| ↳ | Job Posting Title L&H Product Management Intern/Co-op (Winter 2027) | Toronto, ON | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Job-Posting-Title-L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506721?utm_source=aprameyak) | Oct 23 |
+| TELUS Digital | Software Engineering Intern/Co-op (Canada) - Summer 2027 | Vancouver, BC | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2/application?utm_source=aprameyak) | Oct 23 |
 | 1Password | Developer Intern, Data Security - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1/application?utm_source=aprameyak) | Oct 22 |
 | ↳ | Developer Intern, Machine Identity - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?utm_source=aprameyak) | Oct 22 |
 | ↳ | Developer Intern, Vault Team - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?utm_source=aprameyak) | Oct 22 |
