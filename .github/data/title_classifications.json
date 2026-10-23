@@ -583,9 +583,9 @@
     "b": "s"
   },
   "staff product security engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -25911,9 +25911,9 @@
     "b": "s"
   },
   "senior software engineer, developer experience": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -51148,8 +51148,9 @@
   },
   "ai software engineer (vehicle engineering)": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "antenna engineer - parabolic & waveguide (starlink)": {
