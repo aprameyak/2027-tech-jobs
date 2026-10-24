@@ -69280,8 +69280,10 @@
   },
   "account development representative intern - phoenix": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "aerodynamics intern (summer 2027)": {
     "t": false,
