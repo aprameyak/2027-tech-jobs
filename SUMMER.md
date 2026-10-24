@@ -1,11 +1,19 @@
 # ☀️ Summer 2027 Internships
 
-2821 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2829 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Amazon | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) | Redmond, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Oct 24 |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Toronto, Ontario, CN | Toronto, ON | Masters | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) | Oct 24 |
+| Amperesand | AI/ML Engineering Intern | Sunnyvale, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/amperesand/jobs/4465899009?utm_source=aprameyak) | Oct 24 |
+| ASML | Platform Software Engineer In Test ( Internship) | San Jose, CA | Undergrad | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558?utm_source=aprameyak) | Oct 24 |
+| Cboe Global Markets | Operational Resilience & Technical Content Intern | Kansas City, MO | Undergrad | [Apply](https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Kansas-City-MO/Operational-Resilience---Technical-Content-Intern_R-4779?utm_source=aprameyak) | Oct 24 |
+| Johnson & Johnson | Laboratory Digital Twin Intern | Spring House, PA | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Digital-Twin-Intern_R-103046?utm_source=aprameyak) | Oct 24 |
+| Sun Life | Data Science Intern - Summer 2027 Intern | Wellesley Hills, MA | Undergrad | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1?utm_source=aprameyak) | Oct 24 |
+| Waymo | 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations | San Francisco, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8304574) | Oct 24 |
 | Altera | Software Intern | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373?utm_source=aprameyak) | Oct 23 |
 | ASML | Internship - Application Software QA Engineer | San Jose, CA | Undergrad | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Application-Software-QA-Engineer_J-00354565?utm_source=aprameyak) | Oct 23 |
 | ↳ | Internship - Software Quality Assurance | San Jose, CA | Undergrad | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562?utm_source=aprameyak) | Oct 23 |

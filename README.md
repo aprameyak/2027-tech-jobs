@@ -4,9 +4,9 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (2821)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (881)
-- [🎓 New Grad 2027](./NEWGRAD.md) (1061)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (2829)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (883)
+- [🎓 New Grad 2027](./NEWGRAD.md) (1062)
 
 ## Legend
 
@@ -20,12 +20,20 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **2821** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **2829** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Amazon | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) | Redmond, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Oct 24 |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Toronto, Ontario, CN | Toronto, ON | Masters | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) | Oct 24 |
+| Amperesand | AI/ML Engineering Intern | Sunnyvale, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/amperesand/jobs/4465899009?utm_source=aprameyak) | Oct 24 |
+| ASML | Platform Software Engineer In Test ( Internship) | San Jose, CA | Undergrad | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558?utm_source=aprameyak) | Oct 24 |
+| Cboe Global Markets | Operational Resilience & Technical Content Intern | Kansas City, MO | Undergrad | [Apply](https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Kansas-City-MO/Operational-Resilience---Technical-Content-Intern_R-4779?utm_source=aprameyak) | Oct 24 |
+| Johnson & Johnson | Laboratory Digital Twin Intern | Spring House, PA | Undergrad | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Digital-Twin-Intern_R-103046?utm_source=aprameyak) | Oct 24 |
+| Sun Life | Data Science Intern - Summer 2027 Intern | Wellesley Hills, MA | Undergrad | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1?utm_source=aprameyak) | Oct 24 |
+| Waymo | 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations | San Francisco, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8304574) | Oct 24 |
 | Altera | Software Intern | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373?utm_source=aprameyak) | Oct 23 |
 | ASML | Internship - Application Software QA Engineer | San Jose, CA | Undergrad | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Application-Software-QA-Engineer_J-00354565?utm_source=aprameyak) | Oct 23 |
 | ↳ | Internship - Software Quality Assurance | San Jose, CA | Undergrad | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562?utm_source=aprameyak) | Oct 23 |
@@ -93,24 +101,18 @@ Showing newest **75** of **2821** listings · [View full table](./SUMMER.md)
 | Intel | Information Security Engineer Undergraduate Intern | Folsom, CA | Undergrad | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588?utm_source=aprameyak) | Oct 22 |
 | ↳ | Compiler Engineering Graduate Intern | Toronto, ON | Undergrad | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933?utm_source=aprameyak) | Oct 22 |
 | Juniper Networks | Software Development Intern, AI-Assisted Development (Summer 2027)  /  Stagiaire en développement de  logiciel, développement assisté par l’IA (Été 2027) | St. Laurent, QC | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1?utm_source=aprameyak) | Oct 22 |
-| Kensington | Intern - Marketing Analytics | Toronto, ON | Undergrad | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5270002007?utm_source=aprameyak) | Oct 22 |
-| Lazard | 2027 Summer Associate - Boston Technology | Boston, MA | Undergrad | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6706) | Oct 22 |
-| ↳ | 2027 Summer Associate - San Francisco Technology | San Francisco, CA | Undergrad | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6703) | Oct 22 |
-| Leidos | AI/ML Intern | Huntsville, AL | Undergrad | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/AI-ML-Intern_R-00195168?utm_source=aprameyak) | Oct 22 |
-| LLNL | Business Systems Analyst Undergraduate Intern - 2027 | Livermore, CA | Masters | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016356816) | Oct 22 |
-| M&T Bank | Technology Intern - Software Engineering (Enterprise API Services Development Team) | Buffalo, NY | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812?utm_source=aprameyak) | Oct 22 |
-| Micron Technology | Intern - Surface Lab | Boise, ID | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Surface-Lab_JR114827?utm_source=aprameyak) | Oct 22 |
-| Motorola Solutions | Presale Systems Engineer - Summer 2027 Internship | Brooklyn, NY | Masters | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Brooklyn-NY/Presale-Systems-Engineer---Summer-2027-Internship_R69755?utm_source=aprameyak) | Oct 22 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **881** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **883** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Figure AI | Developer Productivity Intern [Winter 2027] | San Jose, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4724521006?utm_source=aprameyak) | Oct 24 |
+| TTM Technologies | Spring 2027 Product Engineering Co-Op | North Jackson, OH | Co-op | Undergrad | [Apply](https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/North-Jackson-OH/Spring-2027-Product-Engineering-Co-Op_R18483?utm_source=aprameyak) | Oct 24 |
 | 1Password | Developer Intern, Credential Brokering - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?utm_source=aprameyak) | Oct 23 |
 | ↳ | Developer Intern, Developer Interfaces - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?utm_source=aprameyak) | Oct 23 |
 | ↳ | IT Intern, IT Support - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/71e986eb-3b58-4c3c-adff-aebdb49a34b7/application?utm_source=aprameyak) | Oct 23 |
@@ -184,18 +186,17 @@ Showing newest **75** of **881** listings · [View full table](./OFFCYCLE.md)
 | ↳ | Receiver, Exciter & Processing Architecture Co-Op (Spring 2027) | Marlborough, MA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter---Processing-Architecture-Co-Op--Spring-2027-_01883629?utm_source=aprameyak) | Oct 20 |
 | Stand Together | KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy | New York, NY | Spring 2027 | Undergrad | [Apply](https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b?utm_source=aprameyak) | Oct 20 |
 | Sun Life | Student, Business Operations & Insights Analyst (Winter 2027) | Waterloo, ON | Winter 2027 | Undergrad | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Business-Operations---Insights-Analyst--Winter-2027-_JR00128004-1?utm_source=aprameyak) | Oct 20 |
-| TD Bank | Wealth Operations Automation Intern / Co-Op (Winter 2027) | Toronto, ON | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Automation-Intern---Co-Op--Winter-2027-_R_1512131?utm_source=aprameyak) | Oct 20 |
-| Watts Water | Product Engineering Co-Op, Jan-June 2027 | Menomonee Falls, WI | Co-op | Undergrad | [Apply](https://wattswater.wd5.myworkdayjobs.com/en-US/Intern-External/job/Menomonee-Falls-WI/Product-Engineering-Co-Op--Jan-June-2027_10017738?utm_source=aprameyak) | Oct 20 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **1061** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **1062** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| ServiceNow | Associate Software Engineer | Santa Clara, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) | Oct 24 |
 | Boeing | Software Engineer | Vehicle Management Systems (Associate or Experienced) | Seal Beach, CA |  | Masters | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Software-Engineer---Vehicle-Management-Systems--Associate-or-Experienced-_JR2026524635-1?utm_source=aprameyak) | Oct 23 |
 | Citi | Technology, Production Support, Full-Time Analyst, New York - USA, 2027 | New York New York United States |  | Undergrad | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Technology--Production-Support--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004420-1?utm_source=aprameyak) | Oct 23 |
 | Comcast | Junior Backend Software Engineer (Python or PHP) - Chicago - ONSITE 2X Week- FreeWheel | Chicago, IL |  | Undergrad | [Apply](https://comcast.wd115.myworkdayjobs.com/en-US/Comcast_Careers/job/IL---Chicago-350-N-Orleans-St-1300N/Junior-Backend-Software-Engineer--Python-or-PHP----Chicago---ONSITE-2X-Week--FreeWheel_R444441?utm_source=aprameyak) | Oct 23 |
@@ -270,7 +271,6 @@ Showing newest **75** of **1061** listings · [View full table](./NEWGRAD.md)
 | Leidos | Junior Software Developer | Huntsville, AL |  | Undergrad | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Junior-Software-Developer_R-00194110?utm_source=aprameyak) | Oct 13 |
 | Northrop Grumman | 2027  Digital Engineer - Pathways Program - Baltimore MD | Baltimore, MD | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/XMLNAME-2027--Digital-Engineer---Pathways-Program---Baltimore-MD_R10255664?utm_source=aprameyak) | Oct 13 |
 | ↳ | 2027 Associate Digital Engineer - Pathways Program - Baltimore MD | Baltimore, MD | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Digital-Engineer---Pathways-Program---Baltimore-MD_R10255661?utm_source=aprameyak) | Oct 13 |
-| NVIDIA | Developer Technology Engineer, Public Sector - New College Grad 2026 | Santa Clara, CA | Spring 2026 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990?utm_source=aprameyak) | Oct 13 |
 <!-- TABLE_END newgrad -->
 
 ## License
