@@ -1,11 +1,12 @@
 # ☀️ Summer 2027 Internships
 
-2829 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2830 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Dell Technologies | Services Data Science Graduate Intern | TX, United States | Undergrad | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413) | Oct 25 |
 | Amazon | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) | Redmond, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Oct 24 |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Toronto, Ontario, CN | Toronto, ON | Masters | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) | Oct 24 |
 | Amperesand | AI/ML Engineering Intern | Sunnyvale, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/amperesand/jobs/4465899009?utm_source=aprameyak) | Oct 24 |

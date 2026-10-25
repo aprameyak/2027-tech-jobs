@@ -4,7 +4,7 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (2829)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (2830)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (883)
 - [🎓 New Grad 2027](./NEWGRAD.md) (1062)
 
@@ -20,12 +20,13 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **2829** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **2830** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Dell Technologies | Services Data Science Graduate Intern | TX, United States | Undergrad | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413) | Oct 25 |
 | Amazon | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) | Redmond, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Oct 24 |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Toronto, Ontario, CN | Toronto, ON | Masters | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) | Oct 24 |
 | Amperesand | AI/ML Engineering Intern | Sunnyvale, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/amperesand/jobs/4465899009?utm_source=aprameyak) | Oct 24 |
@@ -100,7 +101,6 @@ Showing newest **75** of **2829** listings · [View full table](./SUMMER.md)
 | ↳ | Rotational Data Analytics Intern | Kingwood, TX | Undergrad | [Apply](https://insperity.wd12.myworkdayjobs.com/en-US/NSP/job/Kingwood-TX/Rotational-Data-Analytics-Intern_JR103458?utm_source=aprameyak) | Oct 22 |
 | Intel | Information Security Engineer Undergraduate Intern | Folsom, CA | Undergrad | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588?utm_source=aprameyak) | Oct 22 |
 | ↳ | Compiler Engineering Graduate Intern | Toronto, ON | Undergrad | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933?utm_source=aprameyak) | Oct 22 |
-| Juniper Networks | Software Development Intern, AI-Assisted Development (Summer 2027)  /  Stagiaire en développement de  logiciel, développement assisté par l’IA (Été 2027) | St. Laurent, QC | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1?utm_source=aprameyak) | Oct 22 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
