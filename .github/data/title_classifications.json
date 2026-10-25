@@ -5699,9 +5699,9 @@
     "b": "s"
   },
   "senior cloud security engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -100410,5 +100410,48 @@
     "v": "cs-is-v4",
     "a": 1,
     "b": "s"
+  },
+  "lead site reliability engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "technical support engineer, triage & discovery": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior technical partner manager": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior software engineer ii, frontend platform": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "gtm systems administrator": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior manager, gtm systems": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior technical success manager": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
