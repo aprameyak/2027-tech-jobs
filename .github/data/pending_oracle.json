@@ -1,0 +1,39 @@
+[
+  {
+    "company": "Fortinet",
+    "role": "Early Careers: Software Development Engineer",
+    "location": "Sunnyvale, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24770",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-26",
+    "grad_date": ""
+  },
+  {
+    "company": "onsemi",
+    "role": "Summer 2027 - AI & Data Science Intern",
+    "location": "San Jose, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506468",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-26"
+  },
+  {
+    "company": "JPMorganChase",
+    "role": "2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate",
+    "location": "Palo Alto, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-10-26"
+  }
+]
