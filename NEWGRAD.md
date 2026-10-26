@@ -1,11 +1,18 @@
 # 🎓 New Grad 2027
 
-1062 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1069 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Amentum | Entry Level Software Engineer - SECRET | Dahlgren, VA |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771?utm_source=aprameyak) | Oct 26 |
+| Anduril 🛂 🇺🇸 | Early Career Software Engineer, Battlespace Awareness | <details><summary>**2 locations**</summary>Broomfield, CO</br>Fort Collins, CO</details> |  | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5275431007?gh_jid=5275431007&utm_source=aprameyak) | Oct 26 |
+| Ciena | Software Engineer (Security) - New Grad | Atlanta, GA |  | Undergrad | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1?utm_source=aprameyak) | Oct 26 |
+| Fortinet | Early Careers: Software Development Engineer | Sunnyvale, CA |  | Undergrad | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24770) | Oct 26 |
+| Northrop Grumman | 2027 Associate Systems Engineer - Baltimore MD | Baltimore, MD | Spring 2027 | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Systems-Engineer---Baltimore-MD_R10257575?utm_source=aprameyak) | Oct 26 |
+| ↳ | 2027 Associate Systems Engineer - Bethpage NY | Bethpage, NY | Spring 2027 | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-New-York-Bethpage/XMLNAME-2027-Associate-Systems-Engineer---Bethpage-NY_R10257582?utm_source=aprameyak) | Oct 26 |
+| ↳ | Associate Software Engineer / Software Engineer | Huntsville, AL |  | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10257599?utm_source=aprameyak) | Oct 26 |
 | ServiceNow | Associate Software Engineer | Santa Clara, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) | Oct 24 |
 | Boeing | Software Engineer | Vehicle Management Systems (Associate or Experienced) | Seal Beach, CA |  | Masters | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Software-Engineer---Vehicle-Management-Systems--Associate-or-Experienced-_JR2026524635-1?utm_source=aprameyak) | Oct 23 |
 | Citi | Technology, Production Support, Full-Time Analyst, New York - USA, 2027 | New York New York United States |  | Undergrad | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Technology--Production-Support--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004420-1?utm_source=aprameyak) | Oct 23 |

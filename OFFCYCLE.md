@@ -1,13 +1,27 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-885 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+899 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| AbbVie | 2027 Automation & Process Analytics Technology Co-Op (June - Dec) | Worcester, MA | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016414967) | Oct 26 |
+| Amentum | Junior Web Developer | Dahlgren, VA | Co-op | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Web-Developer_R0172603?utm_source=aprameyak) | Oct 26 |
+| Analog Devices | DevOps Co-Op | Boston, MA | Co-op | Undergrad | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/DevOps-Co-Op_R267690?utm_source=aprameyak) | Oct 26 |
+| CIBC | AI Scientist Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/AI-Scientist-Co-op_2622058?utm_source=aprameyak) | Oct 26 |
+| ↳ | AI Scientist Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1?utm_source=aprameyak) | Oct 26 |
+| GSK | Winter Co-op/Compbio-ML Scientist | Remote (US) | Co-op | Undergrad | [Apply](https://gsk-us-earlytalent.icims.com/jobs/11241/winter-co-op-compbio-ml-scientist/job) | Oct 26 |
+| Lila Sciences | Co-Op, Agentic Simulations for Materials Science | <details><summary>**2 locations**</summary>Cambridge, MA</br>San Francisco, CA</details> | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4465059009?utm_source=aprameyak) | Oct 26 |
+| Loblaw Companies | Associate Product Manager, Enterprise Initiatives | Brampton, ON | Co-op | Undergrad | [Apply](https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Associate-Product-Manager--Enterprise-Initiatives_R2000723824-1?utm_source=aprameyak) | Oct 26 |
+| Peraton | Spring & Summer 2027 Solution Architect Co-op | San Diego, CA | Co-op | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/172742/spring-%26-summer-2027-solution-architect-co-op/job) | Oct 26 |
+| Royal Bank of Canada | Developer, RBC Amplify 2027, Halifax | HALIFAX, NS | Co-op | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196?utm_source=aprameyak) | Oct 26 |
+| ↳ | Developer, RBC Amplify 2027, Calgary | CALGARY, AB | Co-op | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202?utm_source=aprameyak) | Oct 26 |
+| ↳ | Developer, RBC Amplify 2027, Vancouver | VANCOUVER, BC | Co-op | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2?utm_source=aprameyak) | Oct 26 |
+| ↳ | Developer, RBC Amplify 2027, Toronto | TORONTO, ON | Co-op | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193?utm_source=aprameyak) | Oct 26 |
 | RTX | Part Time Software Platform Engineer Co-Op  (Remote) | Richardson, TX | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884756?utm_source=aprameyak) | Oct 26 |
 | ↳ | Part Time Software Platform Engineer Co-Op  (Remote) | Aurora, CO | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884752?utm_source=aprameyak) | Oct 26 |
+| Sun Life | Student, Software Engineer - Security (Winter 2027) | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065?utm_source=aprameyak) | Oct 26 |
 | Figure AI | Developer Productivity Intern [Winter 2027] | San Jose, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4724521006?utm_source=aprameyak) | Oct 24 |
 | TTM Technologies | Spring 2027 Product Engineering Co-Op | North Jackson, OH | Co-op | Undergrad | [Apply](https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/North-Jackson-OH/Spring-2027-Product-Engineering-Co-Op_R18483?utm_source=aprameyak) | Oct 24 |
 | 1Password | Developer Intern, Credential Brokering - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?utm_source=aprameyak) | Oct 23 |
