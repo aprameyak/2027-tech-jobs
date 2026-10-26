@@ -280,8 +280,8 @@
   },
   "security risk management lead": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -13354,9 +13354,9 @@
     "v": ""
   },
   "group product manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -26653,8 +26653,9 @@
   },
   "senior security engineer, corporate security": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior software engineer - ad infra, lyft ads": {
@@ -69245,13 +69246,17 @@
   },
   "(new grad) account development representative ii - atlanta": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "n"
   },
   "(new grad) account development representative ii - phoenix": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "n"
   },
   "business analyst (new grad) ": {
     "t": false,
@@ -69279,8 +69284,10 @@
   },
   "account development representative intern - atlanta": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "account development representative intern - phoenix": {
     "t": false,
