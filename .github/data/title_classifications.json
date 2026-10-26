@@ -100618,5 +100618,24 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "tech ops engineer intern, 2027 tech ops intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "senior software engineer, android system and frameworks, beam": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer, bigquery processing core runtime": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
