@@ -1,11 +1,13 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-883 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+885 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| RTX | Part Time Software Platform Engineer Co-Op  (Remote) | Richardson, TX | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884756?utm_source=aprameyak) | Oct 26 |
+| ↳ | Part Time Software Platform Engineer Co-Op  (Remote) | Aurora, CO | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884752?utm_source=aprameyak) | Oct 26 |
 | Figure AI | Developer Productivity Intern [Winter 2027] | San Jose, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4724521006?utm_source=aprameyak) | Oct 24 |
 | TTM Technologies | Spring 2027 Product Engineering Co-Op | North Jackson, OH | Co-op | Undergrad | [Apply](https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/North-Jackson-OH/Spring-2027-Product-Engineering-Co-Op_R18483?utm_source=aprameyak) | Oct 24 |
 | 1Password | Developer Intern, Credential Brokering - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?utm_source=aprameyak) | Oct 23 |

@@ -4,8 +4,8 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (2831)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (883)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (2837)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (885)
 - [🎓 New Grad 2027](./NEWGRAD.md) (1062)
 
 ## Legend
@@ -20,12 +20,18 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **2831** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **2837** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| PepsiCo | Science Platforms Intern (R&D)  2027 | Remote (US) | Masters | [Apply](https://globalcampus-pepsico.icims.com/jobs/479820/science-platforms-intern-%28r%26d%29--2027/job) | Oct 26 |
+| PTC | Software Engineer Intern (Summer 2027) | Boston, MA | Undergrad | [Apply](https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943?utm_source=aprameyak) | Oct 26 |
+| Skydio | PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027 | San Mateo, CA | PhD | [Apply](https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?utm_source=aprameyak) | Oct 26 |
+| ↳ | PhD Autonomy Engineer Intern, 2027 | San Mateo, CA | PhD | [Apply](https://jobs.ashbyhq.com/skydio/fe26fdf8-15b2-44e6-8e43-ace13431453c/application?utm_source=aprameyak) | Oct 26 |
+| ↳ | Autonomy Engineer Intern, 2027 | San Mateo, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b/application?utm_source=aprameyak) | Oct 26 |
+| Teledyne | College Intern - Technical | Woodridge, IL | Undergrad | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Woodridge-IL/College-Intern---Technical_REQ36728?utm_source=aprameyak) | Oct 26 |
 | Dell Technologies | Services Data Science Graduate Intern | TX, United States | Undergrad | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413) | Oct 25 |
 | Genuine Parts Company | Product Pricing Analytics Intern - Summer 2027 | Atlanta, GA | Undergrad | [Apply](https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/Product-Pricing-Analytics-Intern---Summer-2027_R26_0000035663?utm_source=aprameyak) | Oct 25 |
 | Amazon | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) | Redmond, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Oct 24 |
@@ -95,22 +101,18 @@ Showing newest **75** of **2831** listings · [View full table](./SUMMER.md)
 | Frost | College Intern - Digital Services | San Antonio, TX | Undergrad | [Apply](https://frostbank.wd5.myworkdayjobs.com/en-US/External/job/San-Antonio-TX---One-Frost/College-Intern---Digital-Services_R262020?utm_source=aprameyak) | Oct 22 |
 | Genentech | 2027 Spring Intern - Data Science & Machine Learning | South San Francisco, CA | Undergrad | [Apply](https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Data-Science---Machine-Learning_202609-124657?utm_source=aprameyak) | Oct 22 |
 | General Dynamics Mission Systems | Software Intern Engineer | Scottsdale, AZ | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75775/software-intern-engineer/job) | Oct 22 |
-| Hitachi | Test Engineering Intern | Norman, OK | Undergrad | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Norman-Oklahoma-United-States/Test-Engineering-Intern_R0148731?utm_source=aprameyak) | Oct 22 |
-| InfiniteQuant | Quantitative Researcher - Internship - Summer 2027 | New York, NY | Undergrad | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000157170821) | Oct 22 |
-| Insperity | Rotational Technology Intern | Kingwood, TX | Undergrad | [Apply](https://insperity.wd12.myworkdayjobs.com/en-US/NSP/job/Kingwood-TX/Rotational-Technology-Intern_JR103457?utm_source=aprameyak) | Oct 22 |
-| ↳ | Rotational AI Intern | Kingwood, TX | Undergrad | [Apply](https://insperity.wd12.myworkdayjobs.com/en-US/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103460?utm_source=aprameyak) | Oct 22 |
-| ↳ | Rotational Data Analytics Intern | Kingwood, TX | Undergrad | [Apply](https://insperity.wd12.myworkdayjobs.com/en-US/NSP/job/Kingwood-TX/Rotational-Data-Analytics-Intern_JR103458?utm_source=aprameyak) | Oct 22 |
-| Intel | Information Security Engineer Undergraduate Intern | Folsom, CA | Undergrad | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588?utm_source=aprameyak) | Oct 22 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **883** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **885** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| RTX | Part Time Software Platform Engineer Co-Op  (Remote) | Richardson, TX | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884756?utm_source=aprameyak) | Oct 26 |
+| ↳ | Part Time Software Platform Engineer Co-Op  (Remote) | Aurora, CO | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884752?utm_source=aprameyak) | Oct 26 |
 | Figure AI | Developer Productivity Intern [Winter 2027] | San Jose, CA | Winter 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4724521006?utm_source=aprameyak) | Oct 24 |
 | TTM Technologies | Spring 2027 Product Engineering Co-Op | North Jackson, OH | Co-op | Undergrad | [Apply](https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/North-Jackson-OH/Spring-2027-Product-Engineering-Co-Op_R18483?utm_source=aprameyak) | Oct 24 |
 | 1Password | Developer Intern, Credential Brokering - Winter 2027 | Remote (United States | Canada) | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?utm_source=aprameyak) | Oct 23 |
@@ -184,8 +186,6 @@ Showing newest **75** of **883** listings · [View full table](./OFFCYCLE.md)
 | RTX | Part time Software Engineer Co-op (Remote) | Aurora, CO | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452?utm_source=aprameyak) | Oct 20 |
 | ↳ | Part time Software Engineer Co-op (Remote) | Richardson, TX | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545?utm_source=aprameyak) | Oct 20 |
 | ↳ | Receiver, Exciter & Processing Architecture Co-Op (Spring 2027) | Marlborough, MA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter---Processing-Architecture-Co-Op--Spring-2027-_01883629?utm_source=aprameyak) | Oct 20 |
-| Stand Together | KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy | New York, NY | Spring 2027 | Undergrad | [Apply](https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b?utm_source=aprameyak) | Oct 20 |
-| Sun Life | Student, Business Operations & Insights Analyst (Winter 2027) | Waterloo, ON | Winter 2027 | Undergrad | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Business-Operations---Insights-Analyst--Winter-2027-_JR00128004-1?utm_source=aprameyak) | Oct 20 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027

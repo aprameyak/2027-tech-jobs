@@ -1,11 +1,17 @@
 # ☀️ Summer 2027 Internships
 
-2831 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2837 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| PepsiCo | Science Platforms Intern (R&D)  2027 | Remote (US) | Masters | [Apply](https://globalcampus-pepsico.icims.com/jobs/479820/science-platforms-intern-%28r%26d%29--2027/job) | Oct 26 |
+| PTC | Software Engineer Intern (Summer 2027) | Boston, MA | Undergrad | [Apply](https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943?utm_source=aprameyak) | Oct 26 |
+| Skydio | PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027 | San Mateo, CA | PhD | [Apply](https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?utm_source=aprameyak) | Oct 26 |
+| ↳ | PhD Autonomy Engineer Intern, 2027 | San Mateo, CA | PhD | [Apply](https://jobs.ashbyhq.com/skydio/fe26fdf8-15b2-44e6-8e43-ace13431453c/application?utm_source=aprameyak) | Oct 26 |
+| ↳ | Autonomy Engineer Intern, 2027 | San Mateo, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b/application?utm_source=aprameyak) | Oct 26 |
+| Teledyne | College Intern - Technical | Woodridge, IL | Undergrad | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Woodridge-IL/College-Intern---Technical_REQ36728?utm_source=aprameyak) | Oct 26 |
 | Dell Technologies | Services Data Science Graduate Intern | TX, United States | Undergrad | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413) | Oct 25 |
 | Genuine Parts Company | Product Pricing Analytics Intern - Summer 2027 | Atlanta, GA | Undergrad | [Apply](https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/Product-Pricing-Analytics-Intern---Summer-2027_R26_0000035663?utm_source=aprameyak) | Oct 25 |
 | Amazon | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) | Redmond, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Oct 24 |
