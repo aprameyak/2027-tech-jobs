@@ -63315,13 +63315,17 @@
   },
   "2027 packaging co-op (july - dec)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "2027 packaging co-op (jan - june)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "prediction markets operations intern (fall 2026)": {
     "t": false,
