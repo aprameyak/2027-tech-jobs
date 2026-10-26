@@ -39928,9 +39928,10 @@
     "b": "s"
   },
   "engineering product manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "software engineer (shared components)": {
@@ -67591,8 +67592,9 @@
   },
   "software engineer (security) - new grad": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "n"
   },
   "photonic layout engineer - new grad": {
