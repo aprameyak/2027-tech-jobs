@@ -1,13 +1,33 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-901 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+921 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| ACLU Kentucky | Spring 2027 Graduate Intern, Product Design- Technology and Analytics Department | Remote/Hybrid- New York City | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8919915002?utm_source=aprameyak) | Oct 27 |
+| ↳ | Spring 2027 Undergraduate Intern, Information Technology Department | New York, NY | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8917824002?utm_source=aprameyak) | Oct 27 |
+| ↳ | Spring 2027 Undergraduate Intern, Technology and Analytics Department- Educate Pod | Remote/Hybrid- New York City | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8919540002?utm_source=aprameyak) | Oct 27 |
 | CIBC | Business Systems Analyst Co-op (Winter 2027), Enterprise Technology & Business Management | Toronto, ON | Co-op | Masters | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Business-Systems-Analyst-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621526-2?utm_source=aprameyak) | Oct 27 |
 | ↳ | Business Systems Analyst Co-op (Winter 2027), Enterprise Technology & Business Management | Toronto, ON | Co-op | Masters | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Business-Systems-Analyst-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621526?utm_source=aprameyak) | Oct 27 |
+| ↳ | Risk Analytics, Winter 2027 Co-op (8-month) | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Risk-Analytics--Winter-2027-Co-op--8-month-_2622133-2?utm_source=aprameyak) | Oct 27 |
+| ↳ | Production Support Co-op (Winter 2027), Enterprise Technology & Business Management | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Production-Support-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2622138?utm_source=aprameyak) | Oct 27 |
+| ↳ | Junior Insights & Analytics Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099?utm_source=aprameyak) | Oct 27 |
+| ↳ | Data Analyst co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Data-Analyst-co-op_2622122?utm_source=aprameyak) | Oct 27 |
+| ↳ | Risk Analytics, Winter 2027 Co-op (8-month) | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Risk-Analytics--Winter-2027-Co-op--8-month-_2622133?utm_source=aprameyak) | Oct 27 |
+| ↳ | Production Support Co-op (Winter 2027), Enterprise Technology & Business Management | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Production-Support-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2622138-1?utm_source=aprameyak) | Oct 27 |
+| ↳ | Junior Insights & Analytics Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099-1?utm_source=aprameyak) | Oct 27 |
+| ↳ | Data Analyst co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Data-Analyst-co-op_2622122-1?utm_source=aprameyak) | Oct 27 |
+| Fifth Third Bank | IT Audit Co-op - Spring 2027 | Cincinnati, OH | Co-op | Undergrad | [Apply](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/IT-Audit-Co-op---Spring-2027_R74518?utm_source=aprameyak) | Oct 27 |
+| Formlabs | Makerspace Fellow (Winter/Spring 2027) | Milwaukee, WI | Spring 2027 | Undergrad | [Apply](https://careers.formlabs.com/job/8328598/apply/?gh_jid=8328598) | Oct 27 |
+| ↳ | Makerspace Fellow (Winter/Spring 2027) | Somerville, MA | Spring 2027 | Undergrad | [Apply](https://careers.formlabs.com/job/8315981/apply/?gh_jid=8315981) | Oct 27 |
+| Hitachi | Software Analyst Intern (Winter 2027, 8 months) | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741?utm_source=aprameyak) | Oct 27 |
+| Lila Sciences | Co-Op, AI Nucleic Acid Design | San Francisco, CA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4465061009?utm_source=aprameyak) | Oct 27 |
+| Manulife | Winter Co-op 2027 - Documentation & Knowledge Management Co-op | Waterloo, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Winter-Co-op-2027---Documentation---Knowledge-Management-Co-op_JR26100842?utm_source=aprameyak) | Oct 27 |
+| Motorola Solutions | Localization and QA Automation Developer Co-Op | Vancouver, BC | Co-op | Undergrad | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Vancouver-Canada/Localization-and-QA-Automation-Developer-Co-Op_R70123?utm_source=aprameyak) | Oct 27 |
+| onsemi | Spring 2027 - Customer Operations Data Analyst Intern | Scottsdale, AZ | Spring 2027 | Undergrad | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507070) | Oct 27 |
+| Peraton | Spring & Summer 2027 Cybersecurity Engineer Co-op | San Diego, CA | Co-op | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/172836/spring-%26-summer-2027-cybersecurity-engineer-co-op/job) | Oct 27 |
 | AbbVie | 2027 Automation & Process Analytics Technology Co-Op (June - Dec) | Worcester, MA | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016414967) | Oct 26 |
 | Amentum | Junior Web Developer | Dahlgren, VA | Co-op | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Web-Developer_R0172603?utm_source=aprameyak) | Oct 26 |
 | Analog Devices | DevOps Co-Op | Boston, MA | Co-op | Undergrad | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/DevOps-Co-Op_R267690?utm_source=aprameyak) | Oct 26 |

@@ -1,12 +1,21 @@
 # 🎓 New Grad 2027
 
-1070 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1079 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Analog Devices | Field Applications Engineer (Graduate Rotational Program) | Bloomington, MN |  | Undergrad | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MN-Bloomington/Field-Applications-Engineer--Graduate-Rotational-Program-_R267392?utm_source=aprameyak) | Oct 27 |
+| Databricks | Software Engineer - New Grad (2027 Start) | <details><summary>**4 locations**</summary>Bellevue, WA</br>Mountain View, CA</br>San Francisco, CA</br>Vancouver, BC</details> | Spring 2027 | Undergrad | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002) | Oct 27 |
+| ↳ | Software Engineer - New Grad, Distributed Data Systems (2027 Start) | <details><summary>**2 locations**</summary>Bellevue, WA</br>Mountain View, CA</details> |  | Masters | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002) | Oct 27 |
+| Insperity | Associate Software Implementation Analyst | Kingwood, TX |  | Undergrad | [Apply](https://insperity.wd12.myworkdayjobs.com/en-US/NSP/job/Kingwood-TX/Associate-Software-Implementation-Analyst_JR103439?utm_source=aprameyak) | Oct 27 |
 | Northrop Grumman | 2027 Associate Software Engineer / Software Engineer - Colorado Springs CO | Colorado Springs, CO | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768?utm_source=aprameyak) | Oct 27 |
+| ↳ | Associate Software Engineer (BM/SRM) (26-464) | Huntsville, AL |  | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823?utm_source=aprameyak) | Oct 27 |
+| NVIDIA | Formal Verification Engineer - New College Grad 2027 | Santa Clara, CA | Spring 2027 | Undergrad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2027_JR2028554?utm_source=aprameyak) | Oct 27 |
+| Relativity Space | Build Reliability Engineer I | Long Beach, CA |  | Undergrad | [Apply](https://boards.greenhouse.io/relativity/jobs/8911813002?gh_jid=8911813002&utm_source=aprameyak) | Oct 27 |
+| Texas A&M International University | Graduate Research Assistant (SOE) | Laredo, TX |  | Undergrad | [Apply](https://tamus.wd1.myworkdayjobs.com/en-US/TAMIU_Student_Employment/job/Laredo-TX/Graduate-Research-Assistant--SOE-_R-098397?utm_source=aprameyak) | Oct 27 |
+| Toshiba Global Commerce 🛂 | Mobile Developer- FLEX/ CONTRACT | Durham, NC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5272973007?utm_source=aprameyak) | Oct 27 |
 | Amentum | Entry Level Software Engineer - SECRET | Dahlgren, VA |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771?utm_source=aprameyak) | Oct 26 |
 | Anduril 🛂 🇺🇸 | Early Career Software Engineer, Battlespace Awareness | <details><summary>**2 locations**</summary>Broomfield, CO</br>Fort Collins, CO</details> |  | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5275431007?gh_jid=5275431007&utm_source=aprameyak) | Oct 26 |
 | Ciena | Software Engineer (Security) - New Grad | Atlanta, GA |  | Undergrad | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1?utm_source=aprameyak) | Oct 26 |
