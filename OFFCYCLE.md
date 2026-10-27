@@ -1,11 +1,13 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-899 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+901 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| CIBC | Business Systems Analyst Co-op (Winter 2027), Enterprise Technology & Business Management | Toronto, ON | Co-op | Masters | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Business-Systems-Analyst-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621526-2?utm_source=aprameyak) | Oct 27 |
+| ↳ | Business Systems Analyst Co-op (Winter 2027), Enterprise Technology & Business Management | Toronto, ON | Co-op | Masters | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Business-Systems-Analyst-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621526?utm_source=aprameyak) | Oct 27 |
 | AbbVie | 2027 Automation & Process Analytics Technology Co-Op (June - Dec) | Worcester, MA | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016414967) | Oct 26 |
 | Amentum | Junior Web Developer | Dahlgren, VA | Co-op | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Web-Developer_R0172603?utm_source=aprameyak) | Oct 26 |
 | Analog Devices | DevOps Co-Op | Boston, MA | Co-op | Undergrad | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/DevOps-Co-Op_R267690?utm_source=aprameyak) | Oct 26 |

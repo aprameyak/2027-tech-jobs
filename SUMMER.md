@@ -1,11 +1,30 @@
 # ☀️ Summer 2027 Internships
 
-2884 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2903 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Altera | Software Engineer - Intern | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382?utm_source=aprameyak) | Oct 27 |
+| CrowdStrike | Intelligence Launch Intern - Summer 2027 | Arlington, VA | Undergrad | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Launch-Intern---Summer-2027_R30648?utm_source=aprameyak) | Oct 27 |
+| Generac | Intern AI Engineering | Waukesha, WI | Undergrad | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736?utm_source=aprameyak) | Oct 27 |
+| Niantic | Software Engineering Intern (Summer 2027) - Native SDK & Mobile Platforms | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43/application?utm_source=aprameyak) | Oct 27 |
+| NVIDIA | Customer Technical Program Management Intern, OEMs System Partner – Summer 2027 | Santa Clara, CA | Masters | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Customer-Technical-Program-Management-Intern--OEMs-System-Partner---Summer-2027_JR2028512?utm_source=aprameyak) | Oct 27 |
+| PTC | Onshape QA Intern (Summer 2027) | Boston, MA | Undergrad | [Apply](https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Boston-MA-USA/Onshape-QA-Intern--Summer-2027-_JR112910?utm_source=aprameyak) | Oct 27 |
+| ↳ | Onshape SysOps Intern (Summer 2027) | Boston, MA | Undergrad | [Apply](https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Boston-MA-USA/Onshape-SysOps-Intern--Summer-2027-_JR112928?utm_source=aprameyak) | Oct 27 |
+| RTX | Technical Intern Summer 2027 - Onsite | Middletown, RI | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/Technical-Intern-Summer-2027---Onsite_01882365?utm_source=aprameyak) | Oct 27 |
+| Saviynt | Research Scientist Intern - PhD | Milpitas, CA | PhD | [Apply](https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7?utm_source=aprameyak) | Oct 27 |
+| Toyota Research Institute | Robotics Intern, Trustworthy Learning under Uncertainty | Los Altos, CA | Undergrad | [Apply](https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424?utm_source=aprameyak) | Oct 27 |
+| Two Six Technologies | Summer Research Intern | Arlington, VA | Undergrad | [Apply](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6228304004?utm_source=aprameyak) | Oct 27 |
+| Visa | Business Strategy Intern, Data and AI Team - Summer 2027 | Foster City, CA | Undergrad | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2?utm_source=aprameyak) | Oct 27 |
+| ↳ | Data Science Intern, Data and AI Team – Summer 2027 | Foster City, CA | Undergrad | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1?utm_source=aprameyak) | Oct 27 |
+| ↳ | Product Management Intern, Data and AI Team - Summer 2027 | Foster City, CA | Undergrad | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1?utm_source=aprameyak) | Oct 27 |
+| ↳ | Consulting & Analytics Intern - Summer 2027 | Atlanta, GA | Undergrad | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Atlanta-GA/Consulting---Analytics-Intern---Summer-2027_REF089900W?utm_source=aprameyak) | Oct 27 |
+| ↳ | Business Strategy Intern, Data and AI Team - Summer 2027 | Foster City, CA | Undergrad | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-1?utm_source=aprameyak) | Oct 27 |
+| ↳ | Data Science Intern, Data and AI Team – Summer 2027 | Foster City, CA | Undergrad | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W?utm_source=aprameyak) | Oct 27 |
+| ↳ | Product Management Intern, Data and AI Team - Summer 2027 | Foster City, CA | Undergrad | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W?utm_source=aprameyak) | Oct 27 |
+| ↳ | Consulting & Analytics Intern - Summer 2027 | Atlanta, GA | Undergrad | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Atlanta-GA/Consulting---Analytics-Intern---Summer-2027_REF089900W-2?utm_source=aprameyak) | Oct 27 |
 | AbbVie | 2027 Product Development, Science, and Technology Intern (Undergraduate) | North Chicago, IL | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016416916) | Oct 26 |
 | ↳ | 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) | North Chicago, IL | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016414086) | Oct 26 |
 | Altera | Undergrad Intern Technical | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Undergrad-Intern-Technical_R03351?utm_source=aprameyak) | Oct 26 |

@@ -1,11 +1,12 @@
 # 🎓 New Grad 2027
 
-1069 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1070 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Northrop Grumman | 2027 Associate Software Engineer / Software Engineer - Colorado Springs CO | Colorado Springs, CO | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768?utm_source=aprameyak) | Oct 27 |
 | Amentum | Entry Level Software Engineer - SECRET | Dahlgren, VA |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771?utm_source=aprameyak) | Oct 26 |
 | Anduril 🛂 🇺🇸 | Early Career Software Engineer, Battlespace Awareness | <details><summary>**2 locations**</summary>Broomfield, CO</br>Fort Collins, CO</details> |  | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5275431007?gh_jid=5275431007&utm_source=aprameyak) | Oct 26 |
 | Ciena | Software Engineer (Security) - New Grad | Atlanta, GA |  | Undergrad | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1?utm_source=aprameyak) | Oct 26 |
