@@ -21526,9 +21526,9 @@
     "b": "s"
   },
   "manager, data science": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -70641,8 +70641,9 @@
   },
   "cybersecurity analyst intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "network operations intern": {
