@@ -12008,8 +12008,8 @@
   },
   "technical program manager, infrastructure": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
