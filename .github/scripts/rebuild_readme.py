@@ -81,20 +81,25 @@ def format_date(date_added):
         return date_added
 
 
-def apply_btn(url):
+def apply_btn(url, button=False):
     if not url:
         return '🔒'
+    if button:
+        return (
+            f'<a href="{url}">'
+            f'<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a>'
+        )
     return f'[Apply]({url})'
 
 
-def format_row(entry, company_col):
+def format_row(entry, company_col, button=False):
     company = company_col
     role = entry['role'].strip()
     location = format_location(entry['location'])
     education = entry.get('education', 'Undergrad').strip()
     url = entry.get('url', '').strip()
     date = format_date(entry['date_added'])
-    btn = apply_btn(url)
+    btn = apply_btn(url, button)
     table_type = entry['type']
 
     if table_type == 'offcycle':
@@ -107,7 +112,7 @@ def format_row(entry, company_col):
         return f'| {company} | {role} | {location} | {education} | {btn} | {date} |'
 
 
-def build_table(entries):
+def build_table(entries, button=False):
     def sort_key(e):
         try:
             dt = datetime.strptime(e['date_added'], '%Y-%m-%d')
@@ -133,7 +138,7 @@ def build_table(entries):
             company_col = company_display
             group_tracker[group_key] = True
 
-        rows.append(format_row(entry, company_col))
+        rows.append(format_row(entry, company_col, button))
 
     return rows
 
@@ -281,7 +286,9 @@ def main():
     write_table_file('offcycle', offcycle_rows, len(offcycle))
     write_table_file('newgrad', newgrad_rows, len(newgrad))
     update_readme(
-        summer_rows, offcycle_rows, newgrad_rows,
+        build_table(summer, button=True),
+        build_table(offcycle, button=True),
+        build_table(newgrad, button=True),
         len(summer), len(offcycle), len(newgrad),
     )
 
