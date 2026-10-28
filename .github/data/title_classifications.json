@@ -6425,9 +6425,9 @@
     "b": "s"
   },
   "senior it systems engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -8660,8 +8660,9 @@
   },
   "software test engineer, intelligence systems": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "s&op planning analyst": {
@@ -12744,8 +12745,8 @@
   },
   "associate technical consultant": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -23527,8 +23528,9 @@
   },
   "technical program manager, data": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "voice of the customer program manager": {
@@ -63672,8 +63674,10 @@
   },
   "co-op, finance": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "manufacturing intern, surgery & robot hardware": {
     "t": false,
