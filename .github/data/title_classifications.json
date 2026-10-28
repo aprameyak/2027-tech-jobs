@@ -100978,5 +100978,24 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "2027 applied science internship - robotics - united states": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "senior software engineer, persistent disk \u2013 ipu, storage offloads": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer, tech lead, full stack": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
