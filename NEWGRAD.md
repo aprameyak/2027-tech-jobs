@@ -1,13 +1,24 @@
 # 🎓 New Grad 2027
 
-1081 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1092 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| American Express | Campus Graduate Full-Time Engineer - 2027 AI Engineering, Enterprise Technology Services- Toronto, Ontario, CN | Toronto, ON |  | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015465) | Oct 28 |
+| Boeing | Entry-Level F-15 Flight Test Data Engineer | Eglin AFB, FL |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-1?utm_source=aprameyak) | Oct 28 |
+| Brookfield | Junior Analytics Engineer | New York, NY |  | Undergrad | [Apply](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfieldprivate/job/New-York-New-York/Junior-Analytics-Engineer_R2053171?utm_source=aprameyak) | Oct 28 |
+| Ciena | Routing/IP Software Engineer  - New Grad | Ottawa, ON |  | Undergrad | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006?utm_source=aprameyak) | Oct 28 |
+| Comcast | Junior Backend Software Engineer (Python or PHP) - Chicago - ONSITE 2X Week- FreeWheel | Chicago, IL |  | Undergrad | [Apply](https://comcast.wd115.myworkdayjobs.com/en-US/Comcast_Careers/job/IL---Chicago-350-N-Orleans-St-1300N/Junior-Backend-Software-Engineer--Python-or-PHP----Chicago---ONSITE-2X-Week--FreeWheel_R446112?utm_source=aprameyak) | Oct 28 |
+| Light & Wonder | Associate Software Engineer | Las Vegas, NV |  | Undergrad | [Apply](https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Las-Vegas-NV/Associate-Software-Engineer_R322981?utm_source=aprameyak) | Oct 28 |
 | Northrop Grumman | 2027 Associate Software Engineer / Software Engineer - Huntsville AL | Huntsville, AL | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986?utm_source=aprameyak) | Oct 28 |
+| ↳ | 2027 Associate Software Engineer - Boulder CO | Boulder, CO | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908?utm_source=aprameyak) | Oct 28 |
+| ↳ | 2027 Associate Software Engineer - Azusa CA | Azusa, CA | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890?utm_source=aprameyak) | Oct 28 |
+| ↳ | 2027 Associate Systems Safety Engineer - Huntsville AL | Huntsville, AL | Spring 2027 | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Systems-Safety-Engineer---Huntsville-AL_R10257791?utm_source=aprameyak) | Oct 28 |
+| ↳ | Associate Software Engineer - Pathways Program - Aurora CO | Aurora, CO |  | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160?utm_source=aprameyak) | Oct 28 |
 | Samsung Research America | 2027 Health AI Scholar, Digital Health Algorithms Team | Mountain View, CA | Spring 2027 | Masters | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002?utm_source=aprameyak) | Oct 28 |
+| Veolia | Junior Manufacturing Software Engineer | Boulder, CO |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158336900) | Oct 28 |
 | Analog Devices | Field Applications Engineer (Graduate Rotational Program) | Bloomington, MN |  | Undergrad | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MN-Bloomington/Field-Applications-Engineer--Graduate-Rotational-Program-_R267392?utm_source=aprameyak) | Oct 27 |
 | Databricks | Software Engineer - New Grad (2027 Start) | <details><summary>**4 locations**</summary>Bellevue, WA</br>Mountain View, CA</br>San Francisco, CA</br>Vancouver, BC</details> | Spring 2027 | Undergrad | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002) | Oct 27 |
 | ↳ | Software Engineer - New Grad, Distributed Data Systems (2027 Start) | <details><summary>**2 locations**</summary>Bellevue, WA</br>Mountain View, CA</details> |  | Masters | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002) | Oct 27 |

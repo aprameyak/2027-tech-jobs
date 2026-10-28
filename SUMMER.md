@@ -1,15 +1,34 @@
 # ☀️ Summer 2027 Internships
 
-2974 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2993 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | Allegion | Summer Intern – Software Engineering – Quality Assurance | Golden, CO | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR37472-1?utm_source=aprameyak) | Oct 28 |
+| ↳ | Summer Intern - Software Systems Engineering | Golden, CO | Masters | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1?utm_source=aprameyak) | Oct 28 |
+| Applied Materials | Summer 2027 Data Scientist Intern -Bachelor's (Austin, TX) | Austin, TX | Undergrad | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409?utm_source=aprameyak) | Oct 28 |
+| Arch Capital Group | Digital Product Management UI/UX Intern | Greensboro, NC | Undergrad | [Apply](https://archgroup.wd1.myworkdayjobs.com/en-US/careers/job/Greensboro-NC-United-States-of-America/Digital-Product-Management-Intern_R26_1139?utm_source=aprameyak) | Oct 28 |
+| ASML | Internship- Software Development Engineer in Test | San Diego, CA | Undergrad | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459?utm_source=aprameyak) | Oct 28 |
+| Berkshire Hathaway Energy | Intern (Technical Training) | Delmont, PA | Undergrad | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005968) | Oct 28 |
+| ↳ | Intern (Data Systems) | Bridgeport, WV | Undergrad | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005970) | Oct 28 |
+| Cotiviti | Temporary Intern Technology Solutions Analyst | <details><summary>**2 locations**</summary>Remote (US)</br>South Jordan, UT</details> | Undergrad | [Apply](https://careers-cotiviti.icims.com/jobs/20320/temporary-intern-technology-solutions-analyst/job) | Oct 28 |
+| Great American Insurance Group | Data ITSM Analyst Intern - Summer 2027 | Cincinnati, OH | Undergrad | [Apply](https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Data-ITSM-Analyst-Intern---Summer-2027_R9814?utm_source=aprameyak) | Oct 28 |
+| Intuitive | System Engineer Intern | Blacksburg, VA | Undergrad | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000158334809) | Oct 28 |
+| ↳ | Manufacturing Software Engineering Intern | Sunnyvale, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000158313919) | Oct 28 |
+| ↳ | Reinforcement Learning Intern | Sunnyvale, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000158310864) | Oct 28 |
+| ↳ | AI Research Intern | Sunnyvale, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000158312151) | Oct 28 |
+| Leidos | Data Engineer Intern | Fort Belvoir, VA | Undergrad | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576?utm_source=aprameyak) | Oct 28 |
+| LinkedIn | Software Engineer Intern (First Play)  - Summer 2027 (Mountain View, CA) | Mountain View, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000158394370) | Oct 28 |
 | Mercor | Research Engineer Intern - Environments, Data and Post-Training | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca/application?utm_source=aprameyak) | Oct 28 |
 | ↳ | Research Engineer, Intern – Benchmarking | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae/application?utm_source=aprameyak) | Oct 28 |
+| Northrop Grumman | 2027 Configuration Analyst Intern - Redondo Beach CA | Redondo Beach, CA | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Configuration-Analyst-Intern---Redondo-Beach-CA_R10258093?utm_source=aprameyak) | Oct 28 |
 | RTX | Receiver, Exciter, & Processing Architecture Software Engineer Intern (Summer 2027) - Onsite | Marlborough, MA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187?utm_source=aprameyak) | Oct 28 |
+| ↳ | Software Engineering Intern (Summer 2027) | Sterling, VA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169?utm_source=aprameyak) | Oct 28 |
+| Schonfeld Strategic Advisors | 2027 Enterprise AI Intern | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171694?utm_source=aprameyak) | Oct 28 |
+| ServiceNow | Experience Team – Associate Technical Writing Internships – Summer 2027 | San Diego, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157921759) | Oct 28 |
+| Sierra Nevada Corp | Network Engineer Intern (Summer 2027) | Hagerstown, MD | Undergrad | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232?utm_source=aprameyak) | Oct 28 |
 | AbbVie | 2027 Technical Development Program Intern (Undergraduate) | Worcester, MA | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016433556) | Oct 27 |
 | Altera | Software Engineer - Intern | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382?utm_source=aprameyak) | Oct 27 |
 | Amazon | Database Engineer Intern - Summer 2027 | Seattle, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027) | Oct 27 |
