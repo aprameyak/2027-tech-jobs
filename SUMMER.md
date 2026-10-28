@@ -1,11 +1,15 @@
 # ☀️ Summer 2027 Internships
 
-2970 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+2974 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Allegion | Summer Intern – Software Engineering – Quality Assurance | Golden, CO | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR37472-1?utm_source=aprameyak) | Oct 28 |
+| Mercor | Research Engineer Intern - Environments, Data and Post-Training | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca/application?utm_source=aprameyak) | Oct 28 |
+| ↳ | Research Engineer, Intern – Benchmarking | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae/application?utm_source=aprameyak) | Oct 28 |
+| RTX | Receiver, Exciter, & Processing Architecture Software Engineer Intern (Summer 2027) - Onsite | Marlborough, MA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187?utm_source=aprameyak) | Oct 28 |
 | AbbVie | 2027 Technical Development Program Intern (Undergraduate) | Worcester, MA | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016433556) | Oct 27 |
 | Altera | Software Engineer - Intern | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382?utm_source=aprameyak) | Oct 27 |
 | Amazon | Database Engineer Intern - Summer 2027 | Seattle, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027) | Oct 27 |

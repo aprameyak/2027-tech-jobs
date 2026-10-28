@@ -1,11 +1,13 @@
 # 🎓 New Grad 2027
 
-1079 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1081 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Northrop Grumman | 2027 Associate Software Engineer / Software Engineer - Huntsville AL | Huntsville, AL | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986?utm_source=aprameyak) | Oct 28 |
+| Samsung Research America | 2027 Health AI Scholar, Digital Health Algorithms Team | Mountain View, CA | Spring 2027 | Masters | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002?utm_source=aprameyak) | Oct 28 |
 | Analog Devices | Field Applications Engineer (Graduate Rotational Program) | Bloomington, MN |  | Undergrad | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MN-Bloomington/Field-Applications-Engineer--Graduate-Rotational-Program-_R267392?utm_source=aprameyak) | Oct 27 |
 | Databricks | Software Engineer - New Grad (2027 Start) | <details><summary>**4 locations**</summary>Bellevue, WA</br>Mountain View, CA</br>San Francisco, CA</br>Vancouver, BC</details> | Spring 2027 | Undergrad | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002) | Oct 27 |
 | ↳ | Software Engineer - New Grad, Distributed Data Systems (2027 Start) | <details><summary>**2 locations**</summary>Bellevue, WA</br>Mountain View, CA</details> |  | Masters | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002) | Oct 27 |

@@ -1,11 +1,13 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-921 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+923 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Magna | WCM Co-op Student | Brampton, ON | Co-op | Undergrad | [Apply](https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Brampton-Ontario-CA/WCM-Co-op-Student_R00267687?utm_source=aprameyak) | Oct 28 |
+| RTX | Software Engineer Co-op (January 2027) | Marlborough, MA | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371?utm_source=aprameyak) | Oct 28 |
 | ACLU Kentucky | Spring 2027 Graduate Intern, Product Design- Technology and Analytics Department | Remote/Hybrid- New York City | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8919915002?utm_source=aprameyak) | Oct 27 |
 | ↳ | Spring 2027 Undergraduate Intern, Information Technology Department | New York, NY | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8917824002?utm_source=aprameyak) | Oct 27 |
 | ↳ | Spring 2027 Undergraduate Intern, Technology and Analytics Department- Educate Pod | Remote/Hybrid- New York City | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8919540002?utm_source=aprameyak) | Oct 27 |
