@@ -1,13 +1,27 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-933 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+947 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
 | ASML | Internship/Co-Op: Data Engineer | San Diego, CA | Co-op | Undergrad | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626?utm_source=aprameyak) | Oct 29 |
+| BMO Financial Group | BMO Capital Markets Quantitative Trading Analyst – 12–16 Month Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657?utm_source=aprameyak) | Oct 29 |
+| CACI | Software Engineering Co-op/Intern - Spring 2027 | Rochester, NY | Co-op | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160?utm_source=aprameyak) | Oct 29 |
+| CIBC | Junior Technical Writer co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Junior-Technical-Writer-co-op_2622456?utm_source=aprameyak) | Oct 29 |
+| ↳ | AI Developer Co-op – Bilingual – Winter 2027 | Montreal, QC | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Montral-QC/AI-Developer-Co-op---Bilingual---Winter-2027_2622390?utm_source=aprameyak) | Oct 29 |
+| ↳ | Junior Technical Writer co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Junior-Technical-Writer-co-op_2622456-1?utm_source=aprameyak) | Oct 29 |
+| Definity Financial | Incident & Issue Management Analyst - Winter 2027 Co-op/Intern | Waterloo, ON | Co-op | Undergrad | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9468) | Oct 29 |
+| East Penn Manufacturing Company | CO-OP Program BCTC WEST 2026/2027 | Lyon Station, PA | Co-op | Undergrad | [Apply](https://careers-eastpennmanufacturing.icims.com/jobs/31510/co-op-program-bctc-west-2026-2027/job) | Oct 29 |
+| ↳ | CO-OP Program BCTC EAST 2026/2027 | Lyon Station, PA | Co-op | Undergrad | [Apply](https://careers-eastpennmanufacturing.icims.com/jobs/31509/co-op-program-bctc-east-2026-2027/job) | Oct 29 |
+| ↳ | CO-OP Program RMCTC 2026/2027 | Lyon Station, PA | Co-op | Undergrad | [Apply](https://careers-eastpennmanufacturing.icims.com/jobs/31508/co-op-program-rmctc-2026-2027/job) | Oct 29 |
 | Entegris | Lab Automation & AI Engineering Co-Op | Billerica, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1?utm_source=aprameyak) | Oct 29 |
+| GSK | Winter Co-op/eCommerce Operations & Analytics | Remote (US) | Co-op | Undergrad | [Apply](https://gsk-us-earlytalent.icims.com/jobs/11280/winter-co-op-ecommerce-operations-%26-analytics/job) | Oct 29 |
+| KION Group | CMS and Web Administrator Co-op | Waterloo, ON | Co-op | Masters | [Apply](https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Waterloo-Canada/CMS-and-Web-Administrator-Co-op_JR-0097977-1?utm_source=aprameyak) | Oct 29 |
+| Philips | Co-op – Data Engineer (Biocompatibility) – Murrysville, PA – January to June 2027 | Murrysville, PA | Co-op | Undergrad | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Data-Engineer--Biocompatibility----Murrysville--PA---January-to-June-2027_591730?utm_source=aprameyak) | Oct 29 |
+| Symbotic | Co-Op- Service Readiness Engineer | Wilmington, MA | Co-op | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-Op--Service-Readiness-Engineer_R8374?utm_source=aprameyak) | Oct 29 |
+| Vestmark Internship Program | Cloud Engineer Co-op | Wakefield, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/internrecruiting/jobs/8310712?utm_source=aprameyak) | Oct 29 |
 | Booz Allen Hamilton | Digital Engineer, Junior | Wharton, NJ | Co-op | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wharton-NJ/Digital-Engineer--Junior_R0252540?utm_source=aprameyak) | Oct 28 |
 | CIBC | QA Analyst co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/QA-Analyst-co-op_2622340?utm_source=aprameyak) | Oct 28 |
 | ↳ | QA Analyst co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/QA-Analyst-co-op_2622340-1?utm_source=aprameyak) | Oct 28 |

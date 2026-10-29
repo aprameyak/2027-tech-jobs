@@ -1,12 +1,22 @@
 # 🎓 New Grad 2027
 
-1093 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1103 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Interco | Junior Software Developer | St. Louis, MO |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Interco/744000158582219) | Oct 29 |
+| KeyBank | Quantitative Analytics Associate | Brooklyn, OH |  | Undergrad | [Apply](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/Quantitative-Analytics-Associate_R-41937?utm_source=aprameyak) | Oct 29 |
+| LLNL | SI/ML Computational Biologist - Academic Graduate Appointee | Livermore, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016508836) | Oct 29 |
+| Micron Technology | New College Grad - Data Scientist, AI for Business Functions | Boise, ID |  | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682?utm_source=aprameyak) | Oct 29 |
+| Moog | Associate Software Engineer | Santa Barbara, CA |  | Undergrad | [Apply](https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Santa-Barbara-CA/Embedded-Software-Engineer_R-26-17229?utm_source=aprameyak) | Oct 29 |
+| Morningstar | Associate Software Engineer (Central Tech AI) - Partner Link | Chicago, IL |  | Undergrad | [Apply](https://morningstar.wd5.myworkdayjobs.com/en-US/confidential/job/Chicago/Associate-Software-Engineer--Central-Tech-AI----Partner-Link_REQ-059109?utm_source=aprameyak) | Oct 29 |
 | Northrop Grumman | 2027 Associate Systems Engineer / Systems Engineer | Oklahoma City, OK | Spring 2027 | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Associate-Systems-Engineer---Systems-Engineer_R10258192?utm_source=aprameyak) | Oct 29 |
+| ↳ | 2027 Associate Cyber Software Engineer - Pathways Program - Aurora CO | Aurora, CO | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279?utm_source=aprameyak) | Oct 29 |
+| ↳ | Associate Data Scientist - Pathways - Aurora CO | Aurora, CO |  | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Associate-Data-Scientist---Pathways---Aurora-CO_R10258253-1?utm_source=aprameyak) | Oct 29 |
+| Northwood Space 🛂 🇺🇸 | Software Engineer, Platform (Early Career) | Torrance, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6/application?utm_source=aprameyak) | Oct 29 |
+| Torch Technologies | Entry-Level Systems Test Engineer | Huntsville, AL |  | Masters | [Apply](https://starfish.wd501.myworkdayjobs.com/en-US/Careers/job/Huntsville-AL/Entry-Level-Systems-Test-Engineer_R2137?utm_source=aprameyak) | Oct 29 |
 | American Express | Campus Graduate Full-Time Engineer - 2027 AI Engineering, Enterprise Technology Services- Toronto, Ontario, CN | Toronto, ON |  | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015465) | Oct 28 |
 | Boeing | Entry-Level F-15 Flight Test Data Engineer | Eglin AFB, FL |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-1?utm_source=aprameyak) | Oct 28 |
 | Brookfield | Junior Analytics Engineer | New York, NY |  | Undergrad | [Apply](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfieldprivate/job/New-York-New-York/Junior-Analytics-Engineer_R2053171?utm_source=aprameyak) | Oct 28 |
