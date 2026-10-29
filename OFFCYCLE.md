@@ -1,11 +1,13 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-931 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+933 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| ASML | Internship/Co-Op: Data Engineer | San Diego, CA | Co-op | Undergrad | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626?utm_source=aprameyak) | Oct 29 |
+| Entegris | Lab Automation & AI Engineering Co-Op | Billerica, MA | Co-op | Undergrad | [Apply](https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1?utm_source=aprameyak) | Oct 29 |
 | Booz Allen Hamilton | Digital Engineer, Junior | Wharton, NJ | Co-op | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wharton-NJ/Digital-Engineer--Junior_R0252540?utm_source=aprameyak) | Oct 28 |
 | CIBC | QA Analyst co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/QA-Analyst-co-op_2622340?utm_source=aprameyak) | Oct 28 |
 | ↳ | QA Analyst co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/QA-Analyst-co-op_2622340-1?utm_source=aprameyak) | Oct 28 |

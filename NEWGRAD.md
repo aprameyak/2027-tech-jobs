@@ -1,11 +1,12 @@
 # 🎓 New Grad 2027
 
-1092 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1093 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Northrop Grumman | 2027 Associate Systems Engineer / Systems Engineer | Oklahoma City, OK | Spring 2027 | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Associate-Systems-Engineer---Systems-Engineer_R10258192?utm_source=aprameyak) | Oct 29 |
 | American Express | Campus Graduate Full-Time Engineer - 2027 AI Engineering, Enterprise Technology Services- Toronto, Ontario, CN | Toronto, ON |  | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015465) | Oct 28 |
 | Boeing | Entry-Level F-15 Flight Test Data Engineer | Eglin AFB, FL |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-1?utm_source=aprameyak) | Oct 28 |
 | Brookfield | Junior Analytics Engineer | New York, NY |  | Undergrad | [Apply](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfieldprivate/job/New-York-New-York/Junior-Analytics-Engineer_R2053171?utm_source=aprameyak) | Oct 28 |

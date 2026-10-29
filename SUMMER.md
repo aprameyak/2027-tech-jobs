@@ -1,11 +1,21 @@
 # ☀️ Summer 2027 Internships
 
-2993 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+3003 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Figma | PhD Intern, Security Engineer (2027) | <details><summary>**2 locations**</summary>San Francisco, CA</br>New York, NY</details> | PhD | [Apply](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004&utm_source=aprameyak) | Oct 29 |
+| HP | Software Engineering Intern, Connectivity - HP IQ | San Francisco, CA | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1?utm_source=aprameyak) | Oct 29 |
+| ↳ | Software Product Security Intern - HP IQ | San Francisco, CA | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2?utm_source=aprameyak) | Oct 29 |
+| ↳ | Software Engineering Intern - HP IQ | San Francisco, CA | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1?utm_source=aprameyak) | Oct 29 |
+| ↳ | Software Quality Assurance Intern | San Francisco, CA | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1?utm_source=aprameyak) | Oct 29 |
+| ↳ | Software Systems Intern - HP IQ | San Francisco, CA | Masters | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1?utm_source=aprameyak) | Oct 29 |
+| KLA | Software Engineer Intern | Milpitas, CA | Undergrad | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1?utm_source=aprameyak) | Oct 29 |
+| Shield AI | Summer 2027 - Product Support Engineering Intern #6470 & #6442 | Dallas, TX | Undergrad | [Apply](https://jobs.lever.co/shieldai/5fb0fc3c-3747-4351-92fd-459b3df7c82c?utm_source=aprameyak) | Oct 29 |
+| The Aerospace Corporation | 2027 Space Communications and Network Systems Undergrad Intern | El Segundo, CA | Masters | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Space-Communications-and-Network-Systems-Undergrad-Intern_R017064?utm_source=aprameyak) | Oct 29 |
+| University of Virginia | Help Desk Assistant (Student Wage) | Charlottesville, VA | Undergrad | [Apply](https://uva.wd1.myworkdayjobs.com/en-US/uvastudentjobs/job/Charlottesville-VA/Help-Desk-Assistant--Student-Wage-_R0088773?utm_source=aprameyak) | Oct 29 |
 | Allegion | Summer Intern – Software Engineering – Quality Assurance | Golden, CO | Undergrad | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR37472-1?utm_source=aprameyak) | Oct 28 |
 | ↳ | Summer Intern - Software Systems Engineering | Golden, CO | Masters | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1?utm_source=aprameyak) | Oct 28 |
 | Applied Materials | Summer 2027 Data Scientist Intern -Bachelor's (Austin, TX) | Austin, TX | Undergrad | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409?utm_source=aprameyak) | Oct 28 |
