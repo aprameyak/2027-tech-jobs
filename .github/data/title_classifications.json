@@ -19964,9 +19964,9 @@
     "b": "s"
   },
   "senior financial systems analyst": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -20466,9 +20466,9 @@
     "b": "s"
   },
   "technical support engineer 2": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -29404,9 +29404,10 @@
     "b": "s"
   },
   "principal software engineer - backend": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "principal software engineer - macos": {
@@ -72890,8 +72891,10 @@
   },
   "international tax transfer pricing intern - winter 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "private client services intern - winter 2027": {
     "t": false,
