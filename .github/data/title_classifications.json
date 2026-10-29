@@ -5275,9 +5275,9 @@
     "v": ""
   },
   "quality manager, intelligence systems": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -13155,8 +13155,9 @@
   },
   "software engineer iii, kubernetes": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "software engineer iii, observability": {
@@ -18543,9 +18544,9 @@
     "b": "s"
   },
   "staff machine learning engineer, customerlake (ml/llm)": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -30225,9 +30226,10 @@
     "b": "s"
   },
   "staff software engineer, identity threat protection": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff software engineer in test, ios": {
@@ -66703,9 +66705,10 @@
     "b": "n"
   },
   "entry-level analyst \u2013 product & accounting control": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "n"
   },
   "entry level full-stack developer": {
