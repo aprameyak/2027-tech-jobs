@@ -1,11 +1,12 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-947 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+948 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| CIBC | Analyst Co-op - Bilingual – Winter 2027 | Montreal, QC | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369?utm_source=aprameyak) | Oct 30 |
 | ASML | Internship/Co-Op: Data Engineer | San Diego, CA | Co-op | Undergrad | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626?utm_source=aprameyak) | Oct 29 |
 | BMO Financial Group | BMO Capital Markets Quantitative Trading Analyst – 12–16 Month Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657?utm_source=aprameyak) | Oct 29 |
 | CACI | Software Engineering Co-op/Intern - Spring 2027 | Rochester, NY | Co-op | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160?utm_source=aprameyak) | Oct 29 |

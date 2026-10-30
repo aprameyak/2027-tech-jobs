@@ -1,11 +1,17 @@
 # ☀️ Summer 2027 Internships
 
-3046 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+3052 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Axos Bank | Commercial Banking Intern - Digital Product | San Diego, CA | Undergrad | [Apply](https://axos.wd5.myworkdayjobs.com/en-US/Axos/job/HQ---San-Diego-CA/Commercial-Banking-Intern---Digital-Product_JR5646?utm_source=aprameyak) | Oct 30 |
+| Bosch | [BD] IT Project Operation Assistant Intern (6-Month Internship) | Remote (US) | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000158663991) | Oct 30 |
+| General Dynamics Information Technology | GDIT Summer Internship Program – 2027 Business Analysis Associate Internship | USA VA Arlington | Undergrad | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-VA-Arlington/GDIT-Summer-Internship-Program---2027-Business-Analysis-Associate-Internship_RQ230432-1?utm_source=aprameyak) | Oct 30 |
+| General Motors | 2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles | Sunnyvale, CA | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439?utm_source=aprameyak) | Oct 30 |
+| Great American Insurance Group | IT Intern - Summer 2027 | Cincinnati, OH | Undergrad | [Apply](https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/IT-Intern---Summer-2027_R9816-1?utm_source=aprameyak) | Oct 30 |
+| RenderATL | 2027 US Software Engineering Internship (Dedrone) | <details><summary>**2 locations**</summary>Seattle, WA</br>Sterling, VA</details> | Undergrad | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003?utm_source=aprameyak) | Oct 30 |
 | Altera | Software Engineer - Factory Apps - Intern | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384?utm_source=aprameyak) | Oct 29 |
 | Amazon | UX Designer Intern – Summer 2027 | Seattle, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10592766/ux-designer-intern-summer-2027) | Oct 29 |
 | ↳ | Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast | Austin, TX | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast) | Oct 29 |
