@@ -12678,9 +12678,9 @@
     "b": "s"
   },
   "staff software engineer, ai developer experience": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -28636,9 +28636,10 @@
     "b": "s"
   },
   "senior software engineer, map platform": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior software engineer, ml infrastructure": {
@@ -31915,9 +31916,10 @@
     "b": "s"
   },
   "staff software engineer, batch processing platform": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff software engineer, big data storage": {
@@ -33281,9 +33283,9 @@
     "a": 0
   },
   "strategic implementation consultant": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -53753,9 +53755,9 @@
     "v": ""
   },
   "launch pad engineer, fluid systems (falcon 9)": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -78653,8 +78655,8 @@
   },
   "infrastructure engineer intern": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "s"
   },
