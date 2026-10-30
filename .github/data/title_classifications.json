@@ -45299,8 +45299,9 @@
   },
   "site reliability engineer 5": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "title producer, content localization - live & emerging media": {
@@ -47648,9 +47649,9 @@
   },
   "front-end web developer": {
     "t": true,
-    "c": "stale",
-    "v": "",
-    "a": 0,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "technical support senior application consultant \u2013 erm / marine": {
@@ -58963,9 +58964,10 @@
     "b": "s"
   },
   "legal program manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "program manager - culture & people development": {
