@@ -1,17 +1,48 @@
 # ☀️ Summer 2027 Internships
 
-3052 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+3083 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Amazon | Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027 | Seattle, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) | Oct 30 |
 | Axos Bank | Commercial Banking Intern - Digital Product | San Diego, CA | Undergrad | [Apply](https://axos.wd5.myworkdayjobs.com/en-US/Axos/job/HQ---San-Diego-CA/Commercial-Banking-Intern---Digital-Product_JR5646?utm_source=aprameyak) | Oct 30 |
+| Barclays | Chief Client Office - Client Data & Engineering Group Summer Internship Program 2027 New York City | Avenue, NY | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Chief-Client-Office---Client-Data---Engineering-Group-Summer-Internship-Program-2027-New-York-City_JR-0000137731?utm_source=aprameyak) | Oct 30 |
 | Bosch | [BD] IT Project Operation Assistant Intern (6-Month Internship) | Remote (US) | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000158663991) | Oct 30 |
+| Brain Co. | Machine Learning Engineer, Applied AI Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/a4bdb254-8007-4142-bf36-a3e8622b1ed9/application?utm_source=aprameyak) | Oct 30 |
+| ↳ | AI Platform Engineer Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/2db4339e-79c8-4e97-9c94-92753b49e20a/application?utm_source=aprameyak) | Oct 30 |
+| ↳ | AI Product Engineer Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b/application?utm_source=aprameyak) | Oct 30 |
+| ↳ | AI Security Engineer Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/brainco/b697421a-4a50-4028-9832-6798132e327a/application?utm_source=aprameyak) | Oct 30 |
+| Carnegie Mellon University | Learning Engineering Intern | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Learning-Engineering-Intern_2025286-2?utm_source=aprameyak) | Oct 30 |
+| ↳ | Agentic Development Intern | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Agentic-Development-Intern_2025292?utm_source=aprameyak) | Oct 30 |
+| ↳ | Cyber Range Development Intern | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291?utm_source=aprameyak) | Oct 30 |
+| ↳ | Full-Stack Software Development Intern | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-1?utm_source=aprameyak) | Oct 30 |
+| ↳ | Learning Engineering Intern | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/Learning-Engineering-Intern_2025286?utm_source=aprameyak) | Oct 30 |
+| ↳ | Agentic Development Intern | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/Agentic-Development-Intern_2025292-1?utm_source=aprameyak) | Oct 30 |
+| ↳ | Cyber Range Development Intern | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1?utm_source=aprameyak) | Oct 30 |
+| ↳ | Full-Stack Software Development Intern | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2?utm_source=aprameyak) | Oct 30 |
+| Enterprise | Intern - Project Administrator Associate (IT), Summer 2027 | St. Louis, MO | Undergrad | [Apply](https://us-erac.icims.com/jobs/572135/intern---project-administrator-associate-%28it%29%2c-summer-2027/job) | Oct 30 |
+| Garda Capital Partners | Infrastructure Engineer Intern | Wayzata, MN | Undergrad | [Apply](https://job-boards.greenhouse.io/gardacp/jobs/6239821004?utm_source=aprameyak) | Oct 30 |
+| General Dynamics | 2027 Quality Assurance – Engineering Summer Internship | Groton, CT | Undergrad | [Apply](https://careers-gdeb.icims.com/jobs/21243/2027-quality-assurance-%e2%80%93-engineering-summer-internship/job) | Oct 30 |
 | General Dynamics Information Technology | GDIT Summer Internship Program – 2027 Business Analysis Associate Internship | USA VA Arlington | Undergrad | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-VA-Arlington/GDIT-Summer-Internship-Program---2027-Business-Analysis-Associate-Internship_RQ230432-1?utm_source=aprameyak) | Oct 30 |
 | General Motors | 2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles | Sunnyvale, CA | Undergrad | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439?utm_source=aprameyak) | Oct 30 |
 | Great American Insurance Group | IT Intern - Summer 2027 | Cincinnati, OH | Undergrad | [Apply](https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/IT-Intern---Summer-2027_R9816-1?utm_source=aprameyak) | Oct 30 |
+| HP | Product Management Intern | Spring, TX | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358-1?utm_source=aprameyak) | Oct 30 |
+| Morningstar | Morningstar Summer Tech Internship Program 2027 (Campus) | Chicago, IL | Undergrad | [Apply](https://morningstar.wd5.myworkdayjobs.com/en-US/confidential/job/Chicago/Morningstar-Summer-Tech-Internship-Program-2027--Campus-_REQ-058463-1?utm_source=aprameyak) | Oct 30 |
+| Motorola Solutions | Program Manager Intern - Summer 2027 | Plantation, FL | Undergrad | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Program-Manager-Intern---Summer-2027_R69762?utm_source=aprameyak) | Oct 30 |
+| Omnicom Group | Digital Intern | New York, NY | Undergrad | [Apply](https://interpublic.wd5.myworkdayjobs.com/en-US/omc/job/New-York-New-York-United-States-of-America/Digital-Intern_R17976?utm_source=aprameyak) | Oct 30 |
 | RenderATL | 2027 US Software Engineering Internship (Dedrone) | <details><summary>**2 locations**</summary>Seattle, WA</br>Sterling, VA</details> | Undergrad | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003?utm_source=aprameyak) | Oct 30 |
+| RTX | Systems Engineer Intern (Summer 2027)  - Tac Comm - Onsite | Cedar Rapids, IA | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-Intern--Summer-2027-----Tac-Comm---Onsite_01886283?utm_source=aprameyak) | Oct 30 |
+| Snowflake | Product Management Intern (Summer 2027) | Menlo Park, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?utm_source=aprameyak) | Oct 30 |
+| Stripe | Master's Machine Learning Engineer, Intern | <details><summary>**3 locations**</summary>San Francisco, CA</br>New York, NY</br>Seattle, WA</details> | Masters | [Apply](https://stripe.com/jobs/search?gh_jid=8333074) | Oct 30 |
+| ↳ | Master's Machine Learning Engineer, Intern | Toronto, ON | Masters | [Apply](https://stripe.com/jobs/search?gh_jid=8333122) | Oct 30 |
+| ↳ | PhD Machine Learning Engineer, Intern | <details><summary>**3 locations**</summary>San Francisco, CA</br>New York, NY</br>Seattle, WA</details> | PhD | [Apply](https://stripe.com/jobs/search?gh_jid=8328662) | Oct 30 |
+| ↳ | PhD Machine Learning Engineer, Intern | Toronto, ON | PhD | [Apply](https://stripe.com/jobs/search?gh_jid=8328664) | Oct 30 |
+| Symbotic | Intern- Customer Success | Wilmington, MA | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Customer-Success_R8234?utm_source=aprameyak) | Oct 30 |
+| The Toro Company | Information Technology Unified Communications Intern - The Toro Company | Bloomington, MN | Undergrad | [Apply](https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Bloomington-MN/Information-Technology-Unified-Communications-Intern---The-Toro-Company_JR17713?utm_source=aprameyak) | Oct 30 |
+| Toyota Research Institute | Accelerated Science Intern, Representation Learning for Molecules and Materials | Los Altos, CA | Undergrad | [Apply](https://jobs.lever.co/tri/9c851b9d-169d-4bb3-b164-828098e077e7?utm_source=aprameyak) | Oct 30 |
+| ↳ | Machine Learning/Agentic AI Intern | Cambridge, MA | Undergrad | [Apply](https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495?utm_source=aprameyak) | Oct 30 |
 | Altera | Software Engineer - Factory Apps - Intern | Toronto, ON | Undergrad | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384?utm_source=aprameyak) | Oct 29 |
 | Amazon | UX Designer Intern – Summer 2027 | Seattle, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10592766/ux-designer-intern-summer-2027) | Oct 29 |
 | ↳ | Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast | Austin, TX | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast) | Oct 29 |

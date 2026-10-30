@@ -1,12 +1,16 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-948 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+952 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
 | CIBC | Analyst Co-op - Bilingual – Winter 2027 | Montreal, QC | Co-op | Undergrad | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369?utm_source=aprameyak) | Oct 30 |
+| Lila Sciences | Co-Op, AI-Driven Equation Discovery | <details><summary>**2 locations**</summary>Cambridge, MA</br>San Francisco, CA</details> | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4469152009?utm_source=aprameyak) | Oct 30 |
+| ↳ | Co-Op, Bayesian Methods for Complex Decision Making | <details><summary>**2 locations**</summary>Cambridge, MA</br>San Francisco, CA</details> | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4469148009?utm_source=aprameyak) | Oct 30 |
+| Nokia | Software Engineer Co-op | Remote (US) | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41339) | Oct 30 |
+| Stand Together 🛂 | KIP Spring 2027 - Development Intern - Grassroot Institute of Hawaii | Honolulu, HI | Spring 2027 | Undergrad | [Apply](https://jobs.lever.co/standtogether/9ebb0a05-c8aa-498e-9534-449e81f301dc?utm_source=aprameyak) | Oct 30 |
 | ASML | Internship/Co-Op: Data Engineer | San Diego, CA | Co-op | Undergrad | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626?utm_source=aprameyak) | Oct 29 |
 | BMO Financial Group | BMO Capital Markets Quantitative Trading Analyst – 12–16 Month Co-op | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657?utm_source=aprameyak) | Oct 29 |
 | CACI | Software Engineering Co-op/Intern - Spring 2027 | Rochester, NY | Co-op | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160?utm_source=aprameyak) | Oct 29 |

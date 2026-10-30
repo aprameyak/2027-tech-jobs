@@ -1,12 +1,17 @@
 # 🎓 New Grad 2027
 
-1104 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1109 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| American Century Investments | Software Engineer Associate | Kansas City, MO |  | Undergrad | [Apply](https://americancentury.wd5.myworkdayjobs.com/en-US/americancenturyinvestments/job/Kansas-City-Missouri/Software-Engineer_R0005685?utm_source=aprameyak) | Oct 30 |
+| BlackRock | Java Developer, Software Engineering, Associate– Regulatory Reporting | NY7, NY |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/NY7---50-Hudson-Yards-New-York/Java-Developer--Software-Engineering--Associate--Regulatory-Reporting_R267007?utm_source=aprameyak) | Oct 30 |
+| Roblox 🛂 | [2027] Senior Software Engineer - Data Acquisition PhD Early Career | San Mateo, CA | Spring 2027 | PhD | [Apply](https://careers.roblox.com/jobs/8315883?gh_jid=8315883) | Oct 30 |
+| RTX | Entry-Level Software Developer - Application Support & Sustainment (Remote) | Cedar Rapids, IA |  | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356?utm_source=aprameyak) | Oct 30 |
 | Saab | Associate Software Engineer | East Syracuse, NY |  | Undergrad | [Apply](https://saabusa.wd1.myworkdayjobs.com/en-US/saab_careers/job/East-Syracuse-NY-Collamer/Associate-Software-Engineer_R-03377-1?utm_source=aprameyak) | Oct 30 |
+| The Aerospace Corporation | IC 2027 Software Integration Engineer | Chantilly, VA |  | Undergrad | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/IC-2027-Software-Integration-Engineer_R017007?utm_source=aprameyak) | Oct 30 |
 | Interco | Junior Software Developer | St. Louis, MO |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Interco/744000158582219) | Oct 29 |
 | KeyBank | Quantitative Analytics Associate | Brooklyn, OH |  | Undergrad | [Apply](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/Quantitative-Analytics-Associate_R-41937?utm_source=aprameyak) | Oct 29 |
 | LLNL | SI/ML Computational Biologist - Academic Graduate Appointee | Livermore, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016508836) | Oct 29 |
