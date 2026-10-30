@@ -101062,5 +101062,25 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "software development engineer intern, machine learning/automated reasoning- summer 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, applied ai agents, professional intelligence, deepmind": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "senior software engineer, data and infrastructure, professional intelligence, deepmind": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
