@@ -4,7 +4,7 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (3088)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (3089)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (952)
 - [🎓 New Grad 2027](./NEWGRAD.md) (1112)
 
@@ -20,7 +20,7 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **3088** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **3089** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -31,6 +31,7 @@ Showing newest **75** of **3088** listings · [View full table](./SUMMER.md)
 | Northrop Grumman | 2027 Intern Product Support – Data Scientist | San Diego, CA | Undergrad | <a href="https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Philips | Intern - Systems Engineer – New Kensington, PA – Summer 2027 | New Kensington, PA | Masters | <a href="https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Engineer---New-Kensington--PA---Summer-2027_592850?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Waymo | 2027 Summer Intern, PhD, Research Scientist Intern | Mountain View, CA | PhD | <a href="https://careers.withwaymo.com/jobs?gh_jid=8337719"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
+| Zebra Technologies | 2027 Summer Internship (US) - Early Careers | Lincolnshire, IL | Undergrad | <a href="https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Early-Careers_JR103662?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Amazon | Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027 | Seattle, WA | Undergrad | <a href="https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Axos Bank | Commercial Banking Intern - Digital Product | San Diego, CA | Undergrad | <a href="https://axos.wd5.myworkdayjobs.com/en-US/Axos/job/HQ---San-Diego-CA/Commercial-Banking-Intern---Digital-Product_JR5646?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Barclays | Chief Client Office - Client Data & Engineering Group Summer Internship Program 2027 New York City | Avenue, NY | Undergrad | <a href="https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Chief-Client-Office---Client-Data---Engineering-Group-Summer-Internship-Program-2027-New-York-City_JR-0000137731?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
@@ -100,7 +101,6 @@ Showing newest **75** of **3088** listings · [View full table](./SUMMER.md)
 | PTC | UI/UX Designer Intern (Summer 2027) | San Mateo, CA | Undergrad | <a href="https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/USA-San-Mateo-CA/UI-UX-Designer-Intern--Summer-2027-_JR112956?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | RTX | Reliability Engineering Intern (Summer 2027) | Tucson, AZ | Undergrad | <a href="https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Reliability-Engineering-Intern--Summer-2027-_01883858?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | Software Engineering Intern (Summer 2027) | Sterling, VA | Undergrad | <a href="https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885791?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
-| ↳ | Project Intern (Summer 2027)(Onsite) | East Hartford, CT | Undergrad | <a href="https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Project-Intern--Summer-2027--Onsite-_01883178?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops

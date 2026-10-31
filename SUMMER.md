@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-3088 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+3089 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -11,6 +11,7 @@
 | Northrop Grumman | 2027 Intern Product Support – Data Scientist | San Diego, CA | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679?utm_source=aprameyak) | Oct 31 |
 | Philips | Intern - Systems Engineer – New Kensington, PA – Summer 2027 | New Kensington, PA | Masters | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Engineer---New-Kensington--PA---Summer-2027_592850?utm_source=aprameyak) | Oct 31 |
 | Waymo | 2027 Summer Intern, PhD, Research Scientist Intern | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8337719) | Oct 31 |
+| Zebra Technologies | 2027 Summer Internship (US) - Early Careers | Lincolnshire, IL | Undergrad | [Apply](https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Early-Careers_JR103662?utm_source=aprameyak) | Oct 31 |
 | Amazon | Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027 | Seattle, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) | Oct 30 |
 | Axos Bank | Commercial Banking Intern - Digital Product | San Diego, CA | Undergrad | [Apply](https://axos.wd5.myworkdayjobs.com/en-US/Axos/job/HQ---San-Diego-CA/Commercial-Banking-Intern---Digital-Product_JR5646?utm_source=aprameyak) | Oct 30 |
 | Barclays | Chief Client Office - Client Data & Engineering Group Summer Internship Program 2027 New York City | Avenue, NY | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Chief-Client-Office---Client-Data---Engineering-Group-Summer-Internship-Program-2027-New-York-City_JR-0000137731?utm_source=aprameyak) | Oct 30 |
