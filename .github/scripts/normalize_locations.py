@@ -98,6 +98,8 @@ def _split_glued(s):
 
 STREET = re.compile(
     r'^.*\b(?:Pkwy|Blvd|Ave|Rd|Dr|St|Street|Avenue|Road|Drive|Way|Hwy|Ln|Ct|Pl|Floor)\.?\s+', re.I)
+ADDRESS = re.compile(
+    r'^\d+\s.*\b(?:Pkwy|Blvd|Ave|Avenue|Rd|Road|Dr|Drive|St|Street|Way|Hwy|Ln|Ct|Pl|Floor|Suite|Broadway)\b', re.I)
 
 
 def _clean_city(city):
@@ -168,6 +170,10 @@ def _normalize_part(p):
         if len(segs) >= 2 and _state(segs[0]):
             return f'{segs[1].title()}, {_state(segs[0])}'
 
+    m = re.fullmatch(r"(?:United States|USA|US)\s+([A-Z]{2})\s+([A-Za-z][A-Za-z .']*)", p)
+    if m and m.group(1) in ABBRS:
+        return f'{m.group(2).strip().title()}, {m.group(1)}'
+
     p = COUNTRY_TAIL.sub('', p).strip(' -–,')
     country_led = bool(re.match(r'^(?:United States of America|United States|USA|US|Canada)\b', p))
     p = re.sub(r'^(?:United States of America|United States|USA|US|Canada)\b[\s,-]*', '', p)
@@ -183,6 +189,10 @@ def _normalize_part(p):
 
     tokens = [t.strip() for t in re.split(r',|\s[-–]\s', p) if t.strip()]
     tokens = [t for t in tokens if t.lower() not in COUNTRY_TOKENS]
+    kept = [t for t in tokens if not ADDRESS.match(t)]
+    if len(kept) < len(tokens) and len(kept) == 1 and CITY_ALIASES.get(kept[0].lower()):
+        return CITY_ALIASES[kept[0].lower()]
+    tokens = kept
 
     if len(tokens) >= 2 and tokens[0].upper() in ('CA', 'CAN') and _state(tokens[1]) in PROVINCES.values():
         tokens = tokens[1:]

@@ -17,6 +17,8 @@ on:
       - '.github/scripts/claude_board_prompts.py'
       - '.github/scripts/test_infer_listing_type.py'
       - '.github/scripts/test_claude_board_prompts.py'
+      - '.github/scripts/normalize_locations.py'
+      - '.github/scripts/test_normalize_locations.py'
       - '.github/workflows/validate.yml'
   pull_request:
     branches: [main]
@@ -34,6 +36,8 @@ on:
       - '.github/scripts/claude_board_prompts.py'
       - '.github/scripts/test_infer_listing_type.py'
       - '.github/scripts/test_claude_board_prompts.py'
+      - '.github/scripts/normalize_locations.py'
+      - '.github/scripts/test_normalize_locations.py'
       - '.github/workflows/validate.yml'
 
 jobs:
@@ -54,3 +58,5 @@ jobs:
         run: python .github/scripts/test_infer_listing_type.py
       - name: Claude board prompt tests
         run: python .github/scripts/test_claude_board_prompts.py
+      - name: Location normalization tests
+        run: python .github/scripts/test_normalize_locations.py

@@ -80,6 +80,14 @@ class NormalizeLocationTests(unittest.TestCase):
         for value in ('Winston-Salem, NC', 'San Francisco, CA; New York, NY', 'Remote (US)'):
             self.check(value, value)
 
+    def test_street_addresses_are_dropped(self):
+        self.check('New York, 745 7th Avenue', 'New York, NY')
+        self.check('Boston, 1 Main Street', 'Boston, MA')
+
+    def test_space_separated_country_state_city(self):
+        self.check('USA VA Arlington', 'Arlington, VA')
+        self.check('US CA SAN JOSE', 'San Jose, CA')
+
     def test_idempotent(self):
         for raw in ('NYC', 'Menlo Park, CANYC', 'USA - New York - Malta', 'CEDAR RAPIDS-1 ~ x ~ y, IA'):
             once, _ = normalize_location(raw)
@@ -87,7 +95,8 @@ class NormalizeLocationTests(unittest.TestCase):
             self.assertEqual(once, twice, raw)
 
     def test_unresolvable_values_are_not_rewritten(self):
-        for raw in ('Texas', 'Multiple Locations', 'Unknown', 'Houston, TX or San Francisco Bay Area'):
+        for raw in ('Texas', 'Multiple Locations', 'Unknown', 'Houston, TX or San Francisco Bay Area',
+                    'TX, 123 Main St'):
             value, ok = normalize_location(raw)
             self.assertFalse(ok and is_clean(value), raw)
             self.assertEqual(clean_location(raw), raw)
