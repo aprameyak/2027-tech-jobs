@@ -101240,5 +101240,42 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "mid-level machine learning engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "technical strategist": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior product manager, banking": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior product manager, smb platform": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "gtm associate, rl & physical ai": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "manager, mid-market solutions consulting": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
