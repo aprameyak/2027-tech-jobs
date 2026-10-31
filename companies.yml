@@ -147,8 +147,6 @@ greenhouse:
   slug: "armada"
 - name: Armadin
   slug: "armadin"
-- name: Artefact
-  slug: "artefactlinkedin"
 - name: Arvinas
   slug: "arvinas"
 - name: Asana
@@ -183,9 +181,9 @@ greenhouse:
   slug: "audaxgroup"
 - name: Aurora Innovation
   slug: "aurorainnovation"
-- name: Authentic
+- name: Authentic Brands Group
   slug: "authenticbrandsgroup"
-- name: Authentic
+- name: Authentic Insurance
   slug: "authenticinsurance"
 - name: AvePoint
   slug: "avepoint"
@@ -207,6 +205,8 @@ greenhouse:
   slug: "babelstreet"
 - name: Baidu USA
   slug: "baidu"
+- name: Baltimore Orioles
+  slug: "baltimoreorioles"
 - name: Bandwidth
   slug: "bandwidth"
 - name: BarkleyOKRP
@@ -253,8 +253,6 @@ greenhouse:
   slug: "blueskyinnovators"
 - name: BlueLabs Analytics
   slug: "bluelabsanalyticsinc"
-- name: Blueprint Technologies
-  slug: "notexternal"
 - name: Blueprint Technologies
   slug: "bpcs"
 - name: Bluestaq
@@ -369,6 +367,8 @@ greenhouse:
   slug: "clear"
 - name: Clearway Energy
   slug: "clearwayjobs"
+- name: Cleveland Guardians
+  slug: "clevelandguardiansbops"
 - name: Climate Corps
   slug: "cc"
 - name: Clinical Architecture
@@ -941,12 +941,8 @@ greenhouse:
   slug: "machindustries"
 - name: Madison Energy Infrastructure
   slug: "madisonenergyinfrastructure"
-- name: Major League Baseball
-  slug: "baltimoreorioles"
-- name: Major League Baseball
-  slug: "clevelandguardiansbops"
-- name: Major League Baseball
-  slug: "philliesbaseballoperations"
+- name: MAP | WPP Enterprise Solutions
+  slug: "map"
 - name: Marqeta
   slug: "marqeta"
 - name: Marshall Wace
@@ -1177,6 +1173,8 @@ greenhouse:
   slug: "jobsatphamily"
 - name: Pharo Management
   slug: "pharomanagement"
+- name: Philadelphia Phillies
+  slug: "philliesbaseballoperations"
 - name: Phoenix Contact
   slug: "phoenixcontact"
 - name: Piaggio Fast Forward
@@ -1531,8 +1529,6 @@ greenhouse:
   slug: "thetradedesk"
 - name: Think Academy International Education
   slug: "thinkacademyus"
-- name: Thoughtworks
-  slug: "thoughtworksreferral"
 - name: ThreatLocker
   slug: "threatlocker"
 - name: Tint
@@ -1597,8 +1593,6 @@ greenhouse:
   slug: "uareai"
 - name: Uber Freight
   slug: "uberfreight"
-- name: Udemy
-  slug: "udemybedi"
 - name: UJET
   slug: "ujet"
 - name: Ultima Genomics
@@ -1649,8 +1643,6 @@ greenhouse:
   slug: "visiersolutionsinc"
 - name: Vmax
   slug: "vmax"
-- name: VML
-  slug: "map"
 - name: Voloridge Investment Management
   slug: "voloridgeinvestmentmanagement"
 - name: Voyager Technologies
@@ -1819,6 +1811,8 @@ lever:
   slug: "bluesight"
 - name: Boson Ai
   slug: "bosonai"
+- name: Boston Red Sox
+  slug: "redsox"
 - name: Bright Machines
   slug: "brightmachines"
 - name: Brillio
@@ -2051,8 +2045,6 @@ lever:
   slug: "magnetforensics"
 - name: Mainspring Energy
   slug: "mainspringenergy"
-- name: Major League Baseball
-  slug: "redsox"
 - name: MARGO
   slug: "margo-group"
 - name: Massachusetts School Building Authority
@@ -2119,8 +2111,6 @@ lever:
   slug: "palantir"
 - name: Parallel Wireless
   slug: "parallelwireless"
-- name: Parkdepot
-  slug: "salesdemo-jr"
 - name: Patch My PC
   slug: "patchmypc"
 - name: Pattern
@@ -2445,7 +2435,7 @@ smartrecruiters:
   identifier: "AugsburgUniversity-MinneapolisMN"
 - name: Avery Dennison
   identifier: "AveryDennison"
-- name: Axle
+- name: Axle Informatics
   identifier: "AxleInformaticsLLC"
 - name: BAE Systems
   identifier: "BAESystems3"
@@ -2883,14 +2873,14 @@ workday:
   tenant: "abb"
   instance: "wd3"
   board: "external_career_page"
-- name: Abbott
-  tenant: "abbott"
-  instance: "wd5"
-  board: "abbottcareers2"
 - name: Abbott Laboratories
   tenant: "abbott"
   instance: "wd5"
   board: "abbottcareers"
+- name: Abbott Laboratories
+  tenant: "abbott"
+  instance: "wd5"
+  board: "abbottcareers2"
 - name: ABC Fitness
   tenant: "abcfinancial"
   instance: "wd5"
@@ -3091,7 +3081,7 @@ workday:
   tenant: "allstate"
   instance: "wd5"
   board: "allstate_careers"
-- name: Allstate Insurance Company
+- name: Allstate
   tenant: "allstate"
   instance: "wd5"
   board: "sourcing_event"
@@ -3554,19 +3544,15 @@ workday:
 - name: Bank of America
   tenant: "ghr"
   instance: "wd1"
-  board: "us-emplsv"
-- name: Bank of America
-  tenant: "ghr"
-  instance: "wd1"
   board: "lateral-emea"
 - name: Bank of Montreal
   tenant: "bmo"
   instance: "wd3"
-  board: "Privileged"
+  board: "Campus"
 - name: Bank of Montreal
   tenant: "bmo"
   instance: "wd3"
-  board: "Campus"
+  board: "Privileged"
 - name: Banner Health
   tenant: "bannerhealth"
   instance: "wd108"
@@ -3771,14 +3757,14 @@ workday:
   tenant: "bonterra"
   instance: "wd1"
   board: "bonterratech"
-- name: Booz Allen
-  tenant: "bah"
-  instance: "wd1"
-  board: "Confidential"
 - name: Booz Allen Hamilton
   tenant: "bah"
   instance: "wd1"
   board: "BAH_Jobs"
+- name: Booz Allen Hamilton
+  tenant: "bah"
+  instance: "wd1"
+  board: "Confidential"
 - name: BorgWarner
   tenant: "borgwarner"
   instance: "wd5"
@@ -4279,10 +4265,6 @@ workday:
   tenant: "clio"
   instance: "wd3"
   board: "ClioCareerSite"
-- name: Clorox
-  tenant: "clorox"
-  instance: "wd1"
-  board: "InviteClorox"
 - name: Cloudera
   tenant: "cloudera"
   instance: "wd5"
@@ -4339,10 +4321,6 @@ workday:
   tenant: "commercebank"
   instance: "wd1"
   board: "CommerceJobs"
-- name: Compassion International
-  tenant: "compassion"
-  instance: "wd5"
-  board: "CompassionCareersPrivateLink"
 - name: Compassion International
   tenant: "compassion"
   instance: "wd5"
@@ -4531,10 +4509,6 @@ workday:
   tenant: "daikinapplied"
   instance: "wd1"
   board: "Daikin-Careers"
-- name: Daikin Applied
-  tenant: "daikinapplied"
-  instance: "wd1"
-  board: "Pre-Selected_Candidate_Site"
 - name: Daimler Truck
   tenant: "dtna"
   instance: "wd5"
@@ -4715,10 +4689,6 @@ workday:
   tenant: "drivetime"
   instance: "wd1"
   board: "DriveTime"
-- name: DS Smith
-  tenant: "dssmith"
-  instance: "wd3"
-  board: "dss_internal"
 - name: DuBois Chemicals
   tenant: "duboischemicals"
   instance: "wd1"
@@ -5631,7 +5601,7 @@ workday:
   tenant: "icf"
   instance: "wd5"
   board: "icfexternal_career_site"
-- name: Icon
+- name: ICON plc
   tenant: "icon"
   instance: "wd3"
   board: "broadbean_external"
@@ -5834,10 +5804,6 @@ workday:
 - name: J.Crew
   tenant: "jcrew"
   instance: "wd1"
-  board: "FriendsFamilyCareers"
-- name: J.Crew
-  tenant: "jcrew"
-  instance: "wd1"
   board: "jcrewcareers"
 - name: J.M. Smucker
   tenant: "smucker"
@@ -5922,11 +5888,11 @@ workday:
 - name: Johnson Controls
   tenant: "jci"
   instance: "wd5"
-  board: "JCI_Confidential"
+  board: "JCI"
 - name: Johnson Controls
   tenant: "jci"
   instance: "wd5"
-  board: "JCI"
+  board: "JCI_Confidential"
 - name: Johnson Electric
   tenant: "johnsonelectric"
   instance: "wd3"
@@ -6190,10 +6156,6 @@ workday:
 - name: Louisiana State University (LSU)
   tenant: "lsu"
   instance: "wd1"
-  board: "lsuwaiver"
-- name: Louisiana State University (LSU)
-  tenant: "lsu"
-  instance: "wd1"
   board: "LSU"
 - name: "Lowe's"
   tenant: "lowes"
@@ -6267,7 +6229,7 @@ workday:
   tenant: "manulife"
   instance: "wd3"
   board: "MFCJH_Jobs"
-- name: Manulife Financial
+- name: Manulife
   tenant: "manulife"
   instance: "wd3"
   board: "MFCJH_adminJobs"
@@ -6315,14 +6277,14 @@ workday:
   tenant: "mmc"
   instance: "wd1"
   board: "MMC"
-- name: Marvell
-  tenant: "marvell"
-  instance: "wd1"
-  board: "MarvellCareers2"
 - name: Marvell Technology
   tenant: "marvell"
   instance: "wd1"
   board: "marvellcareers"
+- name: Marvell Technology
+  tenant: "marvell"
+  instance: "wd1"
+  board: "MarvellCareers2"
 - name: Mary Free Bed Rehabilitation Hospital
   tenant: "maryfreebed"
   instance: "wd12"
@@ -6510,11 +6472,11 @@ workday:
 - name: Mizuho Securities USA
   tenant: "mizuho"
   instance: "wd1"
-  board: "Mizuho_Confidential"
+  board: "mizuhoamericas"
 - name: Mizuho Securities USA
   tenant: "mizuho"
   instance: "wd1"
-  board: "mizuhoamericas"
+  board: "Mizuho_Confidential"
 - name: MJH Life Sciences
   tenant: "mjhlifesciences"
   instance: "wd1"
@@ -7039,10 +7001,6 @@ workday:
   tenant: "pfizer"
   instance: "wd1"
   board: "PfizerCareers"
-- name: Pfizer
-  tenant: "pfizer"
-  instance: "wd1"
-  board: "internaljobs"
 - name: PGIM
   tenant: "pru"
   instance: "wd5"
@@ -7315,7 +7273,7 @@ workday:
   tenant: "raymondjames"
   instance: "wd1"
   board: "RaymondJamesCareers"
-- name: Raymond James Financial
+- name: Raymond James
   tenant: "raymondjames"
   instance: "wd1"
   board: "RaymondJamesEarlyCareers"
@@ -7794,11 +7752,11 @@ workday:
 - name: Solventum
   tenant: "healthcare"
   instance: "wd1"
-  board: "private"
+  board: "search"
 - name: Solventum
   tenant: "healthcare"
   instance: "wd1"
-  board: "search"
+  board: "private"
 - name: Sonoco
   tenant: "sonoco"
   instance: "wd1"
@@ -7971,7 +7929,7 @@ workday:
   tenant: "synchronyfinancial"
   instance: "wd5"
   board: "careers"
-- name: Synchrony Financial
+- name: Synchrony
   tenant: "synchronyfinancial"
   instance: "wd5"
   board: "University"
@@ -7991,14 +7949,6 @@ workday:
   tenant: "tmobile"
   instance: "wd1"
   board: "External"
-- name: T-Mobile
-  tenant: "tmobile"
-  instance: "wd1"
-  board: "contractorconversion"
-- name: T-Mobile
-  tenant: "tmobile"
-  instance: "wd1"
-  board: "alumni"
 - name: T. Rowe Price
   tenant: "troweprice"
   instance: "wd5"
@@ -10604,19 +10554,6 @@ icims:
   - "co-op"
   - "Associate"
 - name: H&R Block
-  host: "employees-hrblock.icims.com"
-  keywords:
-  - "2027"
-  - "Intern"
-  - "Internship"
-  - "New Grad"
-  - "Campus"
-  - "Graduate"
-  - "Student"
-  - "Early Career"
-  - "co-op"
-  - "Associate"
-- name: H&R Block
   host: "returners-hrblock.icims.com"
   keywords:
   - "2027"
@@ -11742,19 +11679,6 @@ icims:
   - "Early Career"
   - "co-op"
   - "Associate"
-- name: Publicis Groupe
-  host: "careers-publicisgroupetest.icims.com"
-  keywords:
-  - "2027"
-  - "Intern"
-  - "Internship"
-  - "New Grad"
-  - "Campus"
-  - "Graduate"
-  - "Student"
-  - "Early Career"
-  - "co-op"
-  - "Associate"
 - name: QinetiQ
   host: "careers-qinetiqus.icims.com"
   keywords:
@@ -12847,19 +12771,6 @@ icims:
   - "Early Career"
   - "co-op"
   - "Associate"
-- name: Wood
-  host: "woodplc-tradecraft-us-external-qa.icims.com"
-  keywords:
-  - "2027"
-  - "Intern"
-  - "Internship"
-  - "New Grad"
-  - "Campus"
-  - "Graduate"
-  - "Student"
-  - "Early Career"
-  - "co-op"
-  - "Associate"
 - name: WuXi AppTec
   host: "careers-wuxiapptec.icims.com"
   keywords:
@@ -13704,8 +13615,6 @@ ashby:
   slug: "maxinsights"
 - name: Maya HTT
   slug: "maya-htt"
-- name: Maya HTT
-  slug: "fr"
 - name: Mechanize
   slug: "mechanize"
 - name: Medra
@@ -13842,7 +13751,7 @@ ashby:
   slug: "odys-aviation"
 - name: Odyssey
   slug: "odysseyml"
-- name: Old Mission
+- name: Old Mission Capital
   slug: "old-mission-capital"
 - name: Oligo Space
   slug: "oligo"
