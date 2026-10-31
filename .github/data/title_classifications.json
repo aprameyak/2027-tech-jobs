@@ -43707,8 +43707,9 @@
   },
   "technical supervisor": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior data engineer 5": {
