@@ -5913,7 +5913,7 @@
   },
   "senior director, software engineering": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9796,8 +9796,9 @@
   },
   "technical program manager, space systems": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "technical program manager, surface maritime engineering": {
@@ -30152,8 +30153,9 @@
   },
   "staff software engineer, ai": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "staff software engineer, ai agentic experience (auth0)": {
@@ -32257,8 +32259,9 @@
   },
   "senior network reliability engineer": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "senior partnerships manager, crypto": {
@@ -32789,7 +32792,7 @@
   },
   "manager, consulting services": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50276,7 +50279,7 @@
   },
   "principal software engineer, data infrastructure": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59480,7 +59483,7 @@
   },
   "manufacturing program manager": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -62753,8 +62756,9 @@
   },
   "power electronics intern (fall 2026)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "propulsion manufacturing intern (fall 2026)": {
     "t": false,
@@ -64040,8 +64044,9 @@
   },
   "junior iwms project manager - intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "marketing operation intern": {
     "t": false,
@@ -64742,8 +64747,9 @@
   },
   "accelerated computing solutions analyst - early career": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "marketing intern": {
     "t": false,
@@ -66764,8 +66770,9 @@
   },
   "junior data scientist": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "n"
   },
   "junior production support/sre analyst ": {
@@ -68503,8 +68510,9 @@
   },
   "intern, quality": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   " leadership development program 2027": {
     "t": false,
@@ -68562,8 +68570,9 @@
   },
   "2027 finance internship program": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "2027 finance program": {
     "t": false,
@@ -69998,8 +70007,9 @@
   },
   "environmental intern (summer 2027)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "junior paid media specialist": {
     "t": false,
@@ -71956,8 +71966,9 @@
   },
   "silicon photonics intern - phd (fall 2026 start date)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "manufacturing/quality intern": {
     "t": false,
@@ -73040,8 +73051,9 @@
   },
   "research and development intern": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "campus \u2013 finance analytics intern (analytics & modeling program)": {
@@ -74226,8 +74238,9 @@
   },
   "business management coordinator, winter 2027 (co-op/internship) - 4 months": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "climate risk reporting analyst, winter 2027 (co-op/internship) - 4 months": {
     "t": false,
@@ -75542,8 +75555,9 @@
   },
   "events intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "na field marketing - ecosystem marketing intern": {
     "t": false,
@@ -76087,8 +76101,9 @@
   },
   "plm program manager graduate": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "l&d design & development graduate": {
@@ -78169,7 +78184,7 @@
   },
   "mechatronics intern": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0
   },
@@ -79027,7 +79042,7 @@
   },
   "design engineer intern": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "cs-is-v2",
     "a": 0,
     "b": "s"
@@ -79481,7 +79496,7 @@
   },
   "co-op student": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "cs-is-v2",
     "a": 0,
     "b": "o"
