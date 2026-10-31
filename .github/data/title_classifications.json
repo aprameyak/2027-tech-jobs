@@ -13479,7 +13479,7 @@
   },
   "senior product manager, ai": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13614,7 +13614,7 @@
   },
   "staff product manager, ai": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -21717,8 +21717,9 @@
   },
   "reliability test engineer": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "reliability test technician": {
@@ -28507,8 +28508,9 @@
   },
   "data scientist intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "director of engineering, eval platform": {
@@ -30402,7 +30404,7 @@
   },
   "technical architect ": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32392,7 +32394,7 @@
   },
   "staff offensive security engineer": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32733,8 +32735,9 @@
   },
   "implementation consultant ": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "installation engineer": {
@@ -36493,7 +36496,7 @@
   },
   "python developer": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -39640,8 +39643,9 @@
   },
   "senior engineering program manager": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "principal product manager - order to cash platform (sap brim)": {
@@ -39775,8 +39779,9 @@
   },
   "associate data engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "n"
   },
   "senior partner business consultant": {
@@ -54963,7 +54968,7 @@
   },
   "power systems engineer": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59359,7 +59364,7 @@
   },
   "head of technical services": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60024,7 +60029,7 @@
   },
   "senior software engineer, linux kernel": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -63584,8 +63589,9 @@
   },
   "junior accountant": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "production programmer - entry level sql developer": {
     "t": true,
@@ -67903,8 +67909,9 @@
   },
   "application engineer intern": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "security analyst intern": {
@@ -69378,8 +69385,9 @@
   },
   "junior analyst": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "summer 2027 commercial middle market internship - detroit": {
     "t": false,
@@ -70046,8 +70054,9 @@
   },
   "intern, legal": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "principal research scientist ii \u2013 psychiatry drug discovery": {
     "t": true,
@@ -70180,8 +70189,9 @@
   },
   "junior project manager": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "embedded software engineer intern (spring 2027)": {
     "t": false,
@@ -70386,7 +70396,7 @@
   },
   "internal audit intern - summer 2027": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "cs-is-v2",
     "a": 0
   },
@@ -73241,8 +73251,9 @@
   },
   "intern - finance (summer 2027)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "intern - buyer (summer 2027)": {
     "t": false,
@@ -73456,7 +73467,7 @@
   },
   "marketing analytics intern": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "cs-is-v2",
     "a": 0
   },
@@ -73986,7 +73997,7 @@
   },
   "intern, operations": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0
   },
@@ -74758,7 +74769,7 @@
   },
   "internal audit intern": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "cs-is-v2",
     "a": 0
   },
@@ -74990,8 +75001,9 @@
   },
   "strategic finance intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "combustion devices intern spring 2027": {
     "t": false,
