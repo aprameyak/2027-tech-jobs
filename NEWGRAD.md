@@ -1,11 +1,14 @@
 # 🎓 New Grad 2027
 
-1109 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1112 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Cotiviti | Associate Quality Analyst - Backend | Remote (US) |  | Undergrad | [Apply](https://careers-cotiviti.icims.com/jobs/20510/associate-quality-analyst---backend/job) | Oct 31 |
+| Inductive Automation | Software Solutions Engineer I | Columbia, MD |  | Undergrad | [Apply](https://jobs.ashbyhq.com/inductive-automation-llc/30720689-1747-4983-a482-7e19a5d4d151/application?utm_source=aprameyak) | Oct 31 |
+| Northrop Grumman | Associate Software Engineer - Hollywood (MD) | Hollywood, MD |  | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018?utm_source=aprameyak) | Oct 31 |
 | American Century Investments | Software Engineer Associate | Kansas City, MO |  | Undergrad | [Apply](https://americancentury.wd5.myworkdayjobs.com/en-US/americancenturyinvestments/job/Kansas-City-Missouri/Software-Engineer_R0005685?utm_source=aprameyak) | Oct 30 |
 | BlackRock | Java Developer, Software Engineering, Associate– Regulatory Reporting | NY7, NY |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/NY7---50-Hudson-Yards-New-York/Java-Developer--Software-Engineering--Associate--Regulatory-Reporting_R267007?utm_source=aprameyak) | Oct 30 |
 | Roblox 🛂 | [2027] Senior Software Engineer - Data Acquisition PhD Early Career | San Mateo, CA | Spring 2027 | PhD | [Apply](https://careers.roblox.com/jobs/8315883?gh_jid=8315883) | Oct 30 |
