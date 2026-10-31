@@ -48,6 +48,7 @@ def with_aprameyak_utm(url):
         host = (p.netloc or '').lower()
         if not any(m in host for m in (
             'greenhouse.io', 'lever.co', 'ashbyhq.com', 'myworkdayjobs.com', 'workdaysite.com',
+            'oraclecloud.com', 'smartrecruiters.com', 'icims.com', 'applytojob.com',
         )):
             return url
         params = {}

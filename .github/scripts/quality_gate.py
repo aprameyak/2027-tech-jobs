@@ -34,7 +34,7 @@ ABBR = set(
     'MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC '
     'AB BC MB NB NL NS NT NU ON PE QC SK YT PR UK'.split()
 )
-ATS = re.compile(r'greenhouse|lever\.co|ashby|workday', re.I)
+ATS = re.compile(r'greenhouse|lever\.co|ashby|workday|oraclecloud|smartrecruiters|icims|applytojob', re.I)
 THIRD_PARTY = re.compile(
     r'ref=vansh|gh_src=|lever-source=|ref=Simplify|utm_source=(?!aprameyak)',
 )

@@ -1135,6 +1135,7 @@ def infer_education_level(title):
 
 _UTM_HOST_MARKERS = (
     'greenhouse.io', 'lever.co', 'ashbyhq.com', 'myworkdayjobs.com', 'workdaysite.com',
+    'oraclecloud.com', 'smartrecruiters.com', 'icims.com', 'applytojob.com',
 )
 _UTM_STRIP = {
     'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'utm_id',

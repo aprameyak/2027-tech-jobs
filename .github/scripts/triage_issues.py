@@ -114,6 +114,7 @@ def normalize_url(url):
             params[k] = cleaned if cleaned else v
         if any(h in p.netloc.lower() for h in (
             'greenhouse', 'lever.co', 'ashbyhq', 'myworkdayjobs', 'workdaysite',
+            'oraclecloud', 'smartrecruiters', 'icims', 'applytojob',
         )):
             params['utm_source'] = ['aprameyak']
         return urlunparse(p._replace(
