@@ -89,6 +89,7 @@ _confidence_cache = {}
 _add_cache = {}
 _board_cache = {}
 _version_cache = {}
+_deferred_titles = set()
 _claude_calls_today = 0
 _claude_usage_date = None
 
@@ -716,6 +717,7 @@ def classify_titles_batch(title_list):
                 cache[tl] = False
             _confidence_cache[tl] = 'low'
             _add_cache[tl] = False
+            _deferred_titles.add(tl)
 
     buckets = {'summer': [], 'offcycle': [], 'newgrad': [], 'unknown': []}
     for t in titles_for_api:
@@ -739,7 +741,8 @@ def classify_titles_batch(title_list):
                     tl = title.lower()
                     _confidence_cache[tl] = 'low'
                     _add_cache[tl] = False
-                return classified
+                    _deferred_titles.add(tl)
+                break
             results = batch_classify_with_claude(batch, board=board)
             for title in batch:
                 tl = title.lower()
@@ -767,6 +770,7 @@ def classify_titles_batch(title_list):
                         cache[tl] = False
                     _confidence_cache[tl] = 'low'
                     _add_cache[tl] = False
+                    _deferred_titles.add(tl)
                 classified += 1
 
     return classified
@@ -2429,6 +2433,8 @@ def main():
 
     new_jobs = []
     for job in candidate_jobs:
+        if job['title'].lower() in _deferred_titles:
+            continue
         try:
             is_tech, confident = classify_title(job['title'], allow_claude=False)
         except Exception as e:
