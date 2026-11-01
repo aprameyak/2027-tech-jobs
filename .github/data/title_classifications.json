@@ -6,8 +6,8 @@
   },
   "ai solutions engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -1209,8 +1209,8 @@
   },
   "senior manager, advanced analytics": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -4295,8 +4295,8 @@
   },
   "mission operations engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -7185,8 +7185,8 @@
   },
   "senior reliability engineer ": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -7490,8 +7490,8 @@
   },
   "senior software engineer, infrastructure": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -7585,8 +7585,8 @@
   },
   "senior software engineer, robotics": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -8067,9 +8067,9 @@
     "b": "s"
   },
   "senior technical program manager, manufacturing": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -9002,8 +9002,8 @@
   },
   "staff robotics software engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -9079,8 +9079,8 @@
   },
   "staff software engineer, robotics": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -9412,8 +9412,8 @@
   },
   "systems administrator ": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -12708,9 +12708,9 @@
     "b": "s"
   },
   "technical seo manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -13905,8 +13905,8 @@
   },
   "senior software engineer, product foundations": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -13951,8 +13951,8 @@
   },
   "staff applied ai engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -15169,8 +15169,8 @@
   },
   "senior software engineer, storage infrastructure": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -20692,8 +20692,8 @@
   },
   "senior security engineer, enterprise security": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -22726,8 +22726,8 @@
   },
   "senior ios engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -23843,8 +23843,8 @@
   },
   "staff product manager ": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -26063,8 +26063,8 @@
   },
   "staff software engineer, data infrastructure": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -27158,9 +27158,9 @@
     "v": ""
   },
   "senior technical accountant": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -29541,8 +29541,8 @@
   },
   "senior database reliability engineer (dbre)": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -30145,9 +30145,9 @@
     "b": "s"
   },
   "staff software engineer ": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -31012,8 +31012,8 @@
   },
   "staff data scientist, ads": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -33063,8 +33063,8 @@
   },
   "senior software engineer - data platform": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -36334,8 +36334,8 @@
   },
   "technical solutions engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -36725,8 +36725,8 @@
   },
   "developer evangelist": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -36860,8 +36860,8 @@
   },
   "senior cloud software engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -42882,9 +42882,9 @@
     "b": "s"
   },
   "senior engineering manager, ai": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -45794,9 +45794,9 @@
     "v": ""
   },
   "manager, data engineering": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -50402,8 +50402,8 @@
   },
   "senior cloud security engineer ": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -50541,8 +50541,8 @@
   },
   "senior machine learning engineering manager": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -51119,8 +51119,8 @@
   },
   "senior software engineer, identity": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -61297,8 +61297,8 @@
   },
   "applied ai scientist": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -66690,8 +66690,8 @@
   },
   "forward deployed research scientist": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -66936,9 +66936,9 @@
   },
   "quantitative research analyst internship": {
     "t": true,
-    "c": "stale",
-    "v": "",
-    "a": 0,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "associate product manager - marketing operations and automation": {
@@ -67734,9 +67734,9 @@
   },
   "data & analytics intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
-    "a": 0,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "2027 entry level consultant - forensic & litigation consulting": {
@@ -72330,9 +72330,9 @@
     "b": "s"
   },
   "summer 2027 engineering intern ": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -74803,10 +74803,10 @@
     "a": 0
   },
   "product design intern": {
-    "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0,
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "product manager (hr technology) intern": {
@@ -79231,8 +79231,8 @@
   },
   "corporate strategy intern": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -79482,9 +79482,9 @@
     "a": 0
   },
   "founding research scientist": {
-    "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0
   },
   "don't see internships you are looking for?": {
