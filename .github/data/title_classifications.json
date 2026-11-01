@@ -22971,8 +22971,8 @@
   },
   "associate solutions consultant": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -128699,6 +128699,12 @@
   "technical accounting manager, sec reporting": {
     "t": false,
     "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "data implementation manager": {
+    "t": false,
+    "c": "medium",
     "v": "cs-is-v4",
     "a": 0
   }
