@@ -1,11 +1,37 @@
 # 🎓 New Grad 2027
 
-1809 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1835 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Albertsons | Front End Entry Level | Bristol, VT |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/753720?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Albuquerque, NM |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W741016?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Palmer, AK |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W735024?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Snohomish, WA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W740799?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Dyer, IN |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W744119?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Shoreline, WA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W734167?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Davenport, WA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W737780?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Shoreline, WA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W735657?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Boise, ID |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W735920?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Fox Lake, IL |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W739517?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Chicago, IL |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W738588?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Boonton, NJ |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W739973?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Seattle, WA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W735469?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Orleans, MA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W738488?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Lockport, IL |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W741855?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Chicago, IL |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W739019?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Whitefish, MT |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W736350?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | West Chicago, IL |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W735997?utm_source=aprameyak) | Nov 1 |
+| CACI | Web Developer | Chantilly, VA |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Chantilly-VA-US/Web-Developer_334234?utm_source=aprameyak) | Nov 1 |
+| Cenovus Energy | New Grad, Process Data Solutions, Calgary (June 2027) | Calgary, AB | Spring 2027 | Undergrad | [Apply](https://cenovus.wd3.myworkdayjobs.com/en-US/careers/job/CA-AB-Calgary/New-Grad--Process-Data-Solutions--Calgary--June-2027-_R-411229-1?utm_source=aprameyak) | Nov 1 |
+| Echodyne | Solutions Engineer - Critical Infrastructure | Remote (US) |  | Undergrad | [Apply](https://job-boards.greenhouse.io/echodynecorp/jobs/4719776006?utm_source=aprameyak) | Nov 1 |
+| Foresters Financial | Web Developer | Toronto, ON |  | Undergrad | [Apply](https://foresters.wd3.myworkdayjobs.com/en-US/ForestersFinancialCareers/job/Toronto-Ontario/Web-Developer_R-2298?utm_source=aprameyak) | Nov 1 |
+| Old Mission Capital | Quantitative Trader – 2027 Graduate Program (February Start) | <details><summary>**2 locations**</summary>Chicago, IL</br>New York, NY</details> | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/old-mission-capital/a7b34fe6-cd82-4f17-b5d7-983aa354b505/application?utm_source=aprameyak) | Nov 1 |
+| ↳ | Quantitative Trader – 2027 Graduate Program (August Start) | <details><summary>**2 locations**</summary>Chicago, IL</br>New York, NY</details> | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/old-mission-capital/a8bad54c-405b-469c-8a7d-b7794dfb54b3/application?utm_source=aprameyak) | Nov 1 |
+| RainFocus | Full Stack Developer (Remote) | Orem, UT |  | Undergrad | [Apply](https://jobs.lever.co/rainfocus/fe76fef3-6226-4048-98ea-5036a50594bf?utm_source=aprameyak) | Nov 1 |
+| Wintermute | Graduate Algorithmic Trader 2027 | New York, NY |  | Undergrad | [Apply](https://jobs.lever.co/wintermute-trading/d962dc39-8839-4e13-a37a-baba49e52b44?utm_source=aprameyak) | Nov 1 |
 | 66 Degrees | Associate Data Engineer, Gradient Specialist | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/66degrees/jobs/6220280004?utm_source=aprameyak) | Oct 31 |
 | ↳ | Associate Software Engineer, Gradient Specialist | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/66degrees/jobs/6220274004?utm_source=aprameyak) | Oct 31 |
 | Addepar | AddeGrad Program (2027) - Client Solutions Analyst | Salt Lake City, UT |  | Undergrad | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8815241002?utm_source=aprameyak) | Oct 31 |

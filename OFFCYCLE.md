@@ -1,11 +1,21 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1030 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1040 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| ChampionX | Reliability Engineering Co-Op | Sugar Land, TX | Co-op | Undergrad | [Apply](https://championx.wd1.myworkdayjobs.com/en-US/championx_external/job/USA---Texas---Sugar-Land/Reliability-Engineering-Co-Op_R00137277?utm_source=aprameyak) | Nov 1 |
+| Clark | Junior Forward Deployed Engineer | New York, NY | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/clark/e39423ba-10f6-44bb-a20f-5ccd33d53c52/application?utm_source=aprameyak) | Nov 1 |
+| Cleveland Guardians | 2027  Baseball Technology Fellowship | Goodyear, AZ | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/clevelandguardiansbops/jobs/8857228002?utm_source=aprameyak) | Nov 1 |
+| Grassroots Analytics | Campaigns Data Services Intern | Spring 2027 | Washington, DC | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/grassrootsanalytics/jobs/4723837006?utm_source=aprameyak) | Nov 1 |
+| Groma | Spring 2027 Finance Systems Co-op | Boston, MA | Co-op | Masters | [Apply](https://job-boards.greenhouse.io/groma/jobs/4743496005?utm_source=aprameyak) | Nov 1 |
+| Old Mission Capital | Junior Quantitative Trader (Asian Market Hours) | Chicago, IL | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/old-mission-capital/35d81ba6-a441-4362-8bd7-ecf750c5b00d/application?utm_source=aprameyak) | Nov 1 |
+| Ralliant | Research & Development Co-Op (Spring 2027) | Fairport, NY | Co-op | Undergrad | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10634?utm_source=aprameyak) | Nov 1 |
+| ↳ | Research & Development Co-Op (Spring 2027) | Fairport, NY | Co-op | Undergrad | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10635?utm_source=aprameyak) | Nov 1 |
+| RoboForce | AI Resident | Milpitas, CA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/roboforce/jobs/5459229008?utm_source=aprameyak) | Nov 1 |
+| Thea Energy | Test Engineering Intern - Spring 2027 | Kearny, NJ | Spring 2027 | Undergrad | [Apply](https://jobs.lever.co/thea.energy/5912ba14-1003-4f4f-84f2-74f7155e49ad?utm_source=aprameyak) | Nov 1 |
 | AgZen | Software Engineering Co-op | Somerville, MA | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a/application?utm_source=aprameyak) | Oct 31 |
 | Alberta Investment Management Corporation | Co-op, Service Desk (12-months) | Calgary, AB | Co-op | Undergrad | [Apply](https://aimco.wd10.myworkdayjobs.com/en-US/AIMCoCareers/job/Calgary/Co-op--Service-Desk--12-months-_JR100947?utm_source=aprameyak) | Oct 31 |
 | Alcoa | 2027 Co-Op, Breakthrough Technologies | New Kensington, PA | Co-op | Undergrad | [Apply](https://alcoa.wd5.myworkdayjobs.com/en-US/Careers/job/United-States-PA-New-Kensington/XMLNAME-2027-Co-Op--Breakthrough-Technologies_Req-39265?utm_source=aprameyak) | Oct 31 |
