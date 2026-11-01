@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-1835 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1884 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -24,13 +24,62 @@
 | ↳ | Front End Entry Level | Chicago, IL |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W739019?utm_source=aprameyak) | Nov 1 |
 | ↳ | Front End Entry Level | Whitefish, MT |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W736350?utm_source=aprameyak) | Nov 1 |
 | ↳ | Front End Entry Level | West Chicago, IL |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W735997?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Moraga, CA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/767760?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Wiscasset, ME |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787756?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Littlefield, TX |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787755?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Woodbridge, VA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787761?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Bend, OR |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787764?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Fort Worth, TX |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787770?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Boise, ID |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787775?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Lebanon, OR |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787785?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Lincoln, CA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787808?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Bend, OR |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787807?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Alexandria, VA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787804?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Coolidge, AZ |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787822?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Redmond, OR |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787820?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Santa Ana, CA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787824?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Colorado Springs, CO |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787825?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Winslow, AZ |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787832?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | West Roxbury, MA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787831?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Beaverton, OR |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787835?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Brownwood, TX |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787854?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Newark, CA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787861?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Los Lunas, NM |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787859?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Lubbock, TX |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787870?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Ashland, OR |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787869?utm_source=aprameyak) | Nov 1 |
+| ↳ | Front End Entry Level | Alliance, NE |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787875?utm_source=aprameyak) | Nov 1 |
 | CACI | Web Developer | Chantilly, VA |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Chantilly-VA-US/Web-Developer_334234?utm_source=aprameyak) | Nov 1 |
+| CapTech Consulting | User Experience Associate Consultant (Graduating Dec. 2026 - Summer 2027) | Richmond, VA | Summer 2027 | Undergrad | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000146446890?utm_source=aprameyak) | Nov 1 |
 | Cenovus Energy | New Grad, Process Data Solutions, Calgary (June 2027) | Calgary, AB | Spring 2027 | Undergrad | [Apply](https://cenovus.wd3.myworkdayjobs.com/en-US/careers/job/CA-AB-Calgary/New-Grad--Process-Data-Solutions--Calgary--June-2027-_R-411229-1?utm_source=aprameyak) | Nov 1 |
+| City of Philadelphia | ERP Integrations Developer | Philadelphia, PA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/CityofPhiladelphia/744000156351611?utm_source=aprameyak) | Nov 1 |
+| Diesel Laptops | C#/C+ Programmer Entry level to Mid Level (Remote) DieselLaptops.com – Columbia, SC | Columbia, SC |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/DieselLaptops/743999720796574?utm_source=aprameyak) | Nov 1 |
 | Echodyne | Solutions Engineer - Critical Infrastructure | Remote (US) |  | Undergrad | [Apply](https://job-boards.greenhouse.io/echodynecorp/jobs/4719776006?utm_source=aprameyak) | Nov 1 |
+| Energy Northwest | Engineer - New Grad | Richland, WA |  | Undergrad | [Apply](https://energynorthwest.wd1.myworkdayjobs.com/en-US/External/job/Richland-WA/Engineer---New-Grad_REQ26_350?utm_source=aprameyak) | Nov 1 |
+| Exelixis | Associate Engineer- AI and Agentics | Alameda, CA |  | Undergrad | [Apply](https://exelixis.wd1.myworkdayjobs.com/en-US/exel/job/Alameda-CA/Associate-Engineer--AI-and-Agentics_JR7183?utm_source=aprameyak) | Nov 1 |
+| ↳ | Engineer I - DevSecOps (Ai Security) | Alameda, CA |  | Undergrad | [Apply](https://exelixis.wd1.myworkdayjobs.com/en-US/exel/job/Alameda-CA/Engineer-I---DevSecOps--Ai-Security-_JR7119?utm_source=aprameyak) | Nov 1 |
 | Foresters Financial | Web Developer | Toronto, ON |  | Undergrad | [Apply](https://foresters.wd3.myworkdayjobs.com/en-US/ForestersFinancialCareers/job/Toronto-Ontario/Web-Developer_R-2298?utm_source=aprameyak) | Nov 1 |
+| GRVTY 🇺🇸 | Android Developer | Sterling, VA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/grvty/jobs/4472306009?utm_source=aprameyak) | Nov 1 |
+| ↳ | Apple iOS Developer | Sterling, VA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/grvty/jobs/4472316009?utm_source=aprameyak) | Nov 1 |
+| ↳ | Associate / Junior Systems Engineer | <details><summary>**2 locations**</summary>Aurora, CO</br>Sterling, VA</details> |  | Masters | [Apply](https://job-boards.greenhouse.io/grvty/jobs/4401868009?utm_source=aprameyak) | Nov 1 |
+| ↳ | Data Steward - Junior | St. Louis, MO |  | Undergrad | [Apply](https://job-boards.greenhouse.io/grvty/jobs/4420844009?utm_source=aprameyak) | Nov 1 |
+| H.B. Fuller | R&D Pathways Scientist - Early Careers | St. Paul, MN |  | Undergrad | [Apply](https://hbfuller.wd1.myworkdayjobs.com/en-US/Careers/job/St-Paul-Minnesota-USA/R-D-Pathways-Scientist_R26_0000002142?utm_source=aprameyak) | Nov 1 |
+| HeartFlow | Product Manager - MBA Grad, Summer 2027 | <details><summary>**2 locations**</summary>San Francisco, CA</br>Rohnert Park, CA</details> | Summer 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/heartflowinc/jobs/6218478004?utm_source=aprameyak) | Nov 1 |
+| Hewlett Packard Enterprise | Technology Consultant Graduate | Spring, TX |  | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Spring-Texas-United-States-of-America/Technology-Consultant-Graduate_1217412?utm_source=aprameyak) | Nov 1 |
+| ↳ | Engineering Resolution Team Engineer Graduate | Spring, TX |  | Undergrad | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Spring-Texas-United-States-of-America/Engineering-Resolution-Team-Engineer-Graduate_1216553?utm_source=aprameyak) | Nov 1 |
+| ↳ | Test Engineer, HPC & AI Systems - (Early Career) | Spring, TX |  | Masters | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-3?utm_source=aprameyak) | Nov 1 |
+| LCBC Church | DEVELUP Production Program (2027) | Central: Manheim, PA |  | Undergrad | [Apply](https://jobs.lever.co/lcbcchurch/8eec349b-e8f5-49f0-ab43-f98d8b4fcae0?utm_source=aprameyak) | Nov 1 |
+| Mayo Clinic | Graduate Research Appointment - Limited Tenure | Rochester, MN |  | Undergrad | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/388327?utm_source=aprameyak) | Nov 1 |
+| ↳ | Graduate Research Appointment - Zhu Lab | Rochester, MN |  | Undergrad | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392008?utm_source=aprameyak) | Nov 1 |
+| ↳ | Graduate Research Appointment - Kim Lab | Scottsdale, AZ |  | Undergrad | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392010?utm_source=aprameyak) | Nov 1 |
+| ↳ | Graduate Research Appointment - Ackerman Lab - Limited Tenure | Rochester, MN |  | Undergrad | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/383695?utm_source=aprameyak) | Nov 1 |
+| ↳ | Graduate Research Appointment - Wenqian Hu Lab (Limited Tenure) | Rochester, MN |  | Undergrad | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392007?utm_source=aprameyak) | Nov 1 |
+| Northrop Grumman | 2027 Associate Software Engineer - Bellevue (NE) | Huntsville, AL | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366?utm_source=aprameyak) | Nov 1 |
 | Old Mission Capital | Quantitative Trader – 2027 Graduate Program (February Start) | <details><summary>**2 locations**</summary>Chicago, IL</br>New York, NY</details> | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/old-mission-capital/a7b34fe6-cd82-4f17-b5d7-983aa354b505/application?utm_source=aprameyak) | Nov 1 |
 | ↳ | Quantitative Trader – 2027 Graduate Program (August Start) | <details><summary>**2 locations**</summary>Chicago, IL</br>New York, NY</details> | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/old-mission-capital/a8bad54c-405b-469c-8a7d-b7794dfb54b3/application?utm_source=aprameyak) | Nov 1 |
 | RainFocus | Full Stack Developer (Remote) | Orem, UT |  | Undergrad | [Apply](https://jobs.lever.co/rainfocus/fe76fef3-6226-4048-98ea-5036a50594bf?utm_source=aprameyak) | Nov 1 |
+| SAIC | Full-Stack Developer | Silver Spring, MD |  | Undergrad | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2617629?utm_source=aprameyak) | Nov 1 |
+| ↳ | AI/ML Developer | Chantilly, VA |  | Undergrad | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618534?utm_source=aprameyak) | Nov 1 |
+| Steampunk | Associate Data Scientist | McLean, VA |  | Undergrad | [Apply](https://careers-steampunk.icims.com/jobs/5916/associate-data-scientist/job?utm_source=aprameyak) | Nov 1 |
 | Wintermute | Graduate Algorithmic Trader 2027 | New York, NY |  | Undergrad | [Apply](https://jobs.lever.co/wintermute-trading/d962dc39-8839-4e13-a37a-baba49e52b44?utm_source=aprameyak) | Nov 1 |
 | 66 Degrees | Associate Data Engineer, Gradient Specialist | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/66degrees/jobs/6220280004?utm_source=aprameyak) | Oct 31 |
 | ↳ | Associate Software Engineer, Gradient Specialist | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/66degrees/jobs/6220274004?utm_source=aprameyak) | Oct 31 |
