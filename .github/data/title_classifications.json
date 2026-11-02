@@ -5415,8 +5415,9 @@
   },
   "research scientist, battlespace awareness ": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "research scientist, battlespace awarenss": {
@@ -7210,14 +7211,16 @@
   },
   "senior research scientist, battlespace awareness": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior research scientist, battlespace awareness ": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior rf communications engineer, space": {
@@ -7360,9 +7363,9 @@
     "b": "s"
   },
   "senior software engineer, battlespace awareness ": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -7597,16 +7600,16 @@
     "b": "s"
   },
   "senior software engineer, robotics tracking and fusion": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, rust ": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -65386,8 +65389,9 @@
   },
   "research scientist, battlespace awareness": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior research scientist, target tracking": {
