@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-3492 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+3490 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -144,7 +144,6 @@
 | ↳ | Macy's 2027 Summer Internship – Customer & Digital Growth, Insights and Platforms – Data Systems | New York, NY | Masters | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93388?utm_source=aprameyak) | Nov 1 |
 | Mayo Clinic | AI/ML Intern - Radiation Oncology | Rochester, MN | Undergrad | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/385703?utm_source=aprameyak) | Nov 1 |
 | Michael Baker International | IT Support Desk Intern | Moon Township, PA | Undergrad | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310031?utm_source=aprameyak) | Nov 1 |
-| ↳ | Intern, Bridge CADD Technician | Moon Township, PA | Undergrad | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309646?utm_source=aprameyak) | Nov 1 |
 | Molina Healthcare | Data Analytics Internship (Remote) – Summer 2027 (Undergraduate) | Remote (US) | Undergrad | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040160?utm_source=aprameyak) | Nov 1 |
 | ↳ | Reporting & Analytics Internship (Remote) – Summer 2027 (Undergraduate) | Remote (US) | Undergrad | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040171?utm_source=aprameyak) | Nov 1 |
 | ↳ | Customer Experience & Analytics Internship (Remote) – Summer 2027 (Undergraduate) | Remote (US) | Undergrad | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169?utm_source=aprameyak) | Nov 1 |
@@ -211,7 +210,6 @@
 | AssetWorks | Business Development (Data Analysis) Intern | Canada - Ontario | Undergrad | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/en-US/AssetWorks/job/Canada---Ontario/Business-Development--Data-Analysis--Intern_R45522?utm_source=aprameyak) | Oct 31 |
 | Astronics | Software Engineer Intern - Summer 2027 | Kirkland, WA | Undergrad | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009?utm_source=aprameyak) | Oct 31 |
 | AT&T | External & Legislative Affairs Undergraduate Internships - Corporate | Washington, DC | Undergrad | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attcollege/job/Washington-District-of-Columbia/External---Legislative-Affairs-Undergraduate-Internships---Corporate_R-126144?utm_source=aprameyak) | Oct 31 |
-| ATC | Intern-Audit and Risk Management Summer 2027 | Pewaukee, WI | Undergrad | [Apply](https://atcllc.wd5.myworkdayjobs.com/en-US/atcllc/job/Pewaukee-WI/Intern-Audit-and-Risk-Management-Summer-2027_R0003313?utm_source=aprameyak) | Oct 31 |
 | Austal USA | Program Engineering Intern | Mobile, AL | Undergrad | [Apply](https://austalusa.wd1.myworkdayjobs.com/en-US/austal/job/Mobile-AL/Program-Engineering-Intern_R0012157?utm_source=aprameyak) | Oct 31 |
 | AutoZone | AutoZone 2027 Summer Internship – eCommerce | Memphis, TN | Undergrad | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427?utm_source=aprameyak) | Oct 31 |
 | ↳ | AutoZone 2027 Summer Internship – Data Science | Memphis, TN | Undergrad | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461?utm_source=aprameyak) | Oct 31 |

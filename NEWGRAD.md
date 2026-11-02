@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-1277 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1276 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -409,7 +409,6 @@
 | LexisNexis Risk Solutions | Tech Accelarate Graduate Program | Alpharetta, GA | Spring 2026 – Fall 2026 | Undergrad | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelarate-Graduate-Program_R118810?utm_source=aprameyak) | Sep 23 |
 | RELX | Tech Accelarate Graduate Program | Alpharetta, GA | Spring 2026 – Fall 2026 | Undergrad | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelarate-Graduate-Program_R118810-1?utm_source=aprameyak) | Sep 23 |
 | Scale AI | Software Engineer, Public Sector - New Grad | San Francisco, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005?utm_source=aprameyak) | Sep 23 |
-| Belvedere Trading | Early Career Talent Partner- Trading | Chicago, IL |  | Undergrad | [Apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27?utm_source=aprameyak) | Sep 22 |
 | BlackRock | Associate, Software Engineer - Aladdin Graph | New York, NY |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Software-Engineer---Aladdin-Graph_R266598?utm_source=aprameyak) | Sep 22 |
 | ↳ | Product Operations Associate, Aladdin Platform Engineering | New York, NY |  | Undergrad | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Product-Operations-Associate--Aladdin-Platform-Engineering_R266544?utm_source=aprameyak) | Sep 22 |
 | Datalab USA 🛂 | Production Programmer - Entry Level SQL Developer | Westminster, CO |  | Undergrad | [Apply](https://jobs.lever.co/datalabusa/9254110c-d83f-4921-aca6-b26d203bbc53?utm_source=aprameyak) | Sep 22 |
