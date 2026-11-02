@@ -1,11 +1,41 @@
 # ☀️ Summer 2027 Internships
 
-3531 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+3561 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Andersen Corporation | Product Design Intern | Bayport, MN | Undergrad | [Apply](https://andersen.wd12.myworkdayjobs.com/en-US/Andersen_External_Career_Site/job/Bayport-MN/Product-Design-Intern_R-8220?utm_source=aprameyak) | Nov 2 |
+| CoStar Group | Data Science Intern – Richmond, VA (Summer 2027) | Richmond, VA | Undergrad | [Apply](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140?utm_source=aprameyak) | Nov 2 |
+| Entrust | AI Developer Intern | Shakopee, MN | Undergrad | [Apply](https://entrust.wd1.myworkdayjobs.com/en-US/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397?utm_source=aprameyak) | Nov 2 |
+| GE Aerospace | Artificial Intelligence Intern | Remote (US) | Undergrad | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042294-1?utm_source=aprameyak) | Nov 2 |
+| ↳ | Artificial Intelligence Intern | Remote (US) | Undergrad | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042291-1?utm_source=aprameyak) | Nov 2 |
+| Huck Adventures | Research Analyst Intern | Boulder, CO | Undergrad | [Apply](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535?utm_source=aprameyak) | Nov 2 |
+| IDeaS | Research Analyst Intern | Bloomington, MN | Undergrad | [Apply](https://ideas-sas.icims.com/jobs/42644/research-analyst-intern/job?utm_source=aprameyak) | Nov 2 |
+| International Flavors & Fragrances | Intern - Application Technologist | Madison, WI | Undergrad | [Apply](https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Madison-WI-USA/Intern---Application-Technologist_R22215?utm_source=aprameyak) | Nov 2 |
+| Invesco | Quantitative Strategies Research Intern | New York, NY | Undergrad | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZearlycareers/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803?utm_source=aprameyak) | Nov 2 |
+| ↳ | Quantitative Intern - Portfolio Engineering and Analytics | Boston, MA | Undergrad | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZearlycareers/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-1?utm_source=aprameyak) | Nov 2 |
+| ↳ | Quantitative Strategies Research Intern | New York, NY | Undergrad | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803-1?utm_source=aprameyak) | Nov 2 |
+| ↳ | Quantitative Intern - Portfolio Engineering and Analytics | Boston, MA | Undergrad | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-2?utm_source=aprameyak) | Nov 2 |
+| Investment Management Corporation of Ontario | Intern, Infrastructure (Summer 2027) | Toronto, ON | Undergrad | [Apply](https://imcoinvest.wd3.myworkdayjobs.com/en-US/IMCO/job/Toronto---16-York-St/Intern--Infrastructure--Summer-2027-_R26-154?utm_source=aprameyak) | Nov 2 |
+| ↳ | Intern, Performance and Analytics, Reporting (Summer 2027) | Toronto, ON | Undergrad | [Apply](https://imcoinvest.wd3.myworkdayjobs.com/en-US/IMCO/job/Toronto---16-York-St/Intern--Performance-and-Analytics--Reporting--Summer-2027-_R26-158?utm_source=aprameyak) | Nov 2 |
+| ↳ | Intern, Performance and Analytics, Projects (Summer 2027) | Toronto, ON | Undergrad | [Apply](https://imcoinvest.wd3.myworkdayjobs.com/en-US/IMCO/job/Toronto---16-York-St/Intern--Performance-and-Analytics--Projects--Summer-2027-_R26-159?utm_source=aprameyak) | Nov 2 |
+| ↳ | Intern, Enterprise Transformation and AI Strategy (Summer 2027) | Toronto, ON | Undergrad | [Apply](https://imcoinvest.wd3.myworkdayjobs.com/en-US/IMCO/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1?utm_source=aprameyak) | Nov 2 |
+| Ivy Tech Community College | Federal Work Study - Website Development Intern | Anderson, IN | Undergrad | [Apply](https://ivytech.wd1.myworkdayjobs.com/en-US/ivy_tech_careers/job/Anderson-IN/Federal-Work-Study---Website-Development-Intern_JR0000105569?utm_source=aprameyak) | Nov 2 |
+| Jain Global | Data Management & Vendor Operations Intern, Summer 2027 | New York, NY | Undergrad | [Apply](https://jainglobal.wd5.myworkdayjobs.com/en-US/ExternalSite/job/New-York-New-York/Data-Management---Vendor-Operations-Intern--Summer-2027_JR100571-1?utm_source=aprameyak) | Nov 2 |
+| ↳ | Quant Modelling Intern | New York, NY | Undergrad | [Apply](https://jainglobal.wd5.myworkdayjobs.com/en-US/ExternalSite/job/New-York-New-York/Quant-Modelling-Intern_JR100616?utm_source=aprameyak) | Nov 2 |
+| ↳ | Quant Research Intern, Systematic Trading | New York, NY | Undergrad | [Apply](https://jainglobal.wd5.myworkdayjobs.com/en-US/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1?utm_source=aprameyak) | Nov 2 |
+| ↳ | Quantitative Research Intern – Equity Arbitrage | New York, NY | Undergrad | [Apply](https://jainglobal.wd5.myworkdayjobs.com/en-US/ExternalSite/job/New-York-New-York/Quantitative-Research-Intern---Equity-Arbitrage_JR100617-1?utm_source=aprameyak) | Nov 2 |
+| John D. and Catherine T. MacArthur Foundation | Knowledge, Records and Information Management (KRIM) Intern - Summer 2027 | Chicago, IL | Undergrad | [Apply](https://macfound.wd1.myworkdayjobs.com/en-US/MAC_FOUND_EXT_CAREERS/job/Chicago-Office/Knowledge--Records-and-Information-Management--KRIM--Intern---Summer-2027_REQ-000370?utm_source=aprameyak) | Nov 2 |
+| Plexus | Intern - Software Engineer (Summer 2027) | Neenah, WI | Undergrad | [Apply](https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Fall-2026-_R035782?utm_source=aprameyak) | Nov 2 |
+| Roku | SW Engineer Intern, AI Engineering | San Jose, CA | Undergrad | [Apply](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) | Nov 2 |
+| Sherwin-Williams | R&D IT Summer Internship- Brecksville, OH | Brecksville, OH | Undergrad | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627637?utm_source=aprameyak) | Nov 2 |
+| Sierra Nevada Corp | Data Science Intern (Summer 2027) | Sparks, NV | Undergrad | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257?utm_source=aprameyak) | Nov 2 |
+| The Federal Reserve System | 2027 Summer Internship Program - Supervision & Regulation (Cybersecurity) | Atlanta, GA | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866?utm_source=aprameyak) | Nov 2 |
+| Worthington Enterprises | IT Intern | Columbus, OH | Undergrad | [Apply](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43365?utm_source=aprameyak) | Nov 2 |
+| Zachry Group | Cyber Security Specialist I - Intern | Stonington, CT | Undergrad | [Apply](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/15624?utm_source=aprameyak) | Nov 2 |
+| Zillow | Product Design Intern | Seattle-WA-2nd Ave | Undergrad | [Apply](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613?utm_source=aprameyak) | Nov 2 |
 | Accuray | Sourcing Data Management Intern | Madison, WI | Undergrad | [Apply](https://accuray.wd5.myworkdayjobs.com/en-US/external/job/Madison-WI/Sourcing-Data-Management-Intern_3265?utm_source=aprameyak) | Nov 1 |
 | AeroVect | Autonomy Intern | San Francisco, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/AeroVect/743999725988642?utm_source=aprameyak) | Nov 1 |
 | Axle Informatics | Computer Science/Bioinformatics Intern | Rockville, MD | Undergrad | [Apply](https://jobs.smartrecruiters.com/AxleInformaticsLLC/87331012?utm_source=aprameyak) | Nov 1 |

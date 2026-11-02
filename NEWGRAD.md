@@ -1,11 +1,44 @@
 # 🎓 New Grad 2027
 
-1884 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1917 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Albertsons | Front End Entry Level | Honolulu, HI |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787688?utm_source=aprameyak) | Nov 2 |
+| ↳ | Front End Entry Level | Dallas, TX |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787886?utm_source=aprameyak) | Nov 2 |
+| ↳ | Front End Entry Level | Seminole, TX |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787885?utm_source=aprameyak) | Nov 2 |
+| ↳ | Front End Entry Level | Albuquerque, NM |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787890?utm_source=aprameyak) | Nov 2 |
+| ↳ | Front End Entry Level | Bakersfield, CA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787893?utm_source=aprameyak) | Nov 2 |
+| ↳ | Front End Entry Level | Astoria, OR |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787896?utm_source=aprameyak) | Nov 2 |
+| ↳ | Front End Entry Level | Middletown, RI |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787897?utm_source=aprameyak) | Nov 2 |
+| ↳ | Front End Entry Level | Camarillo, CA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787900?utm_source=aprameyak) | Nov 2 |
+| ↳ | Front End Entry Level | Everett, WA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787910?utm_source=aprameyak) | Nov 2 |
+| ↳ | Front End Entry Level | Susanville, CA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787911?utm_source=aprameyak) | Nov 2 |
+| ↳ | Front End Entry Level | Los Angeles, CA |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787912?utm_source=aprameyak) | Nov 2 |
+| ↳ | Front End Entry Level | Nashua, NH |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787919?utm_source=aprameyak) | Nov 2 |
+| Atria Group | Jr. Dot Net developer | Houston, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/87206792?utm_source=aprameyak) | Nov 2 |
+| ↳ | Full stack PHP Developer | Richfield, MN |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/87094822?utm_source=aprameyak) | Nov 2 |
+| ↳ | Junior Developer | Barrington, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/84799506?utm_source=aprameyak) | Nov 2 |
+| ↳ | Entry Level ASP.NET programmer | Chicago, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/72190211?utm_source=aprameyak) | Nov 2 |
+| ↳ | Java Developer needed - 3 positions in OKC (can relocate) | Dallas, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/1030150?utm_source=aprameyak) | Nov 2 |
+| ↳ | Need front-end web based Java developer (20 openings in Dallas) | Dallas, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/1030119?utm_source=aprameyak) | Nov 2 |
+| ↳ | Java / Web Developer (4 immediate openings) | Dallas, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/895391?utm_source=aprameyak) | Nov 2 |
+| ↳ | C++ / UNIX Developer (5 openings) | Dallas, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/894906?utm_source=aprameyak) | Nov 2 |
+| ↳ | Java Developer | Carrollton, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/752694?utm_source=aprameyak) | Nov 2 |
+| ↳ | Web Tester (Entry level) | Dallas, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/599803?utm_source=aprameyak) | Nov 2 |
+| Capital Group | Risk and Quantitative Solutions Analyst | West Los Angeles |  | Undergrad | [Apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/West-Los-Angeles/Risk-and-Quantitative-Solutions-Analyst_JR6686?utm_source=aprameyak) | Nov 2 |
+| Collabera | Junior Developer | Charlotte, NC |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Collabera2/89849262?utm_source=aprameyak) | Nov 2 |
+| Google | Software Engineer II, Early Career | Mountain View, CA |  | Undergrad | [Apply](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) | Nov 2 |
+| Hardin Design | Web Developer - Entry Level | Madison, WI |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/HardinDesign/744000149709275?utm_source=aprameyak) | Nov 2 |
+| Intuitive Research and Technology Corporation | Entry Level Model Based Systems Engineer/Analyst | Huntsville, AL |  | Masters | [Apply](https://intuitive.wd1.myworkdayjobs.com/en-US/irtc_careers/job/Huntsville-AL/Entry-Level-Model-Based-Systems-Engineer-Analyst_2627-128?utm_source=aprameyak) | Nov 2 |
+| ↳ | Entry Level Model Based Systems Engineer/Analyst | Huntsville, AL |  | Masters | [Apply](https://intuitive.wd1.myworkdayjobs.com/en-US/irtc_careers/job/Huntsville-AL/Entry-Level-Model-Based-Systems-Engineer-Analyst_2627-053?utm_source=aprameyak) | Nov 2 |
+| Mapjects | Java developer | St. Louis, MO |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Mapjectscom/75606647?utm_source=aprameyak) | Nov 2 |
+| STEM Xpert | Java developer | New York, NY |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/StemXpert1/80269736?utm_source=aprameyak) | Nov 2 |
+| ↳ | Java Developer | Lansing, MI |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/StemXpert1/75410800?utm_source=aprameyak) | Nov 2 |
+| UL Solutions | 2027 Campus Full Time: Engineer | Northbrook, IL | Spring 2027 | Undergrad | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10362?utm_source=aprameyak) | Nov 2 |
+| Unity | U-Accelerate : Développeur(euse) de logiciels, nouveau(elle) diplômé(e) // U-Accelerate: Software Developer, New Grad | Montreal, QC |  | Undergrad | [Apply](https://unitytech.wd1.myworkdayjobs.com/en-US/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768?utm_source=aprameyak) | Nov 2 |
 | Albertsons | Front End Entry Level | Bristol, VT |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/753720?utm_source=aprameyak) | Nov 1 |
 | ↳ | Front End Entry Level | Albuquerque, NM |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W741016?utm_source=aprameyak) | Nov 1 |
 | ↳ | Front End Entry Level | Palmer, AK |  | Undergrad | [Apply](https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/W735024?utm_source=aprameyak) | Nov 1 |

@@ -1,11 +1,26 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1046 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1061 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Brown & Brown Insurance | Junior HubSpot Developer | Plano, TX | Co-op | Undergrad | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694?utm_source=aprameyak) | Nov 2 |
+| Hancock Whitney | IT Development Program Associate (Part-time) | Data Center, MS | Co-op | Undergrad | [Apply](https://hancockwhitney.wd5.myworkdayjobs.com/en-US/Careers/job/Data-Center----Gulfport-MS/Development-Program-Associate_R017931?utm_source=aprameyak) | Nov 2 |
+| International Flavors & Fragrances | Microbiology Co-op | Wilmington, DE | Co-op | Undergrad | [Apply](https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Wilmington-DE-USA/Microbiology-Co-op_R21052?utm_source=aprameyak) | Nov 2 |
+| iRhythm Technologies | System Test Engineer Co-Op Full Time Intern Jan-June 2027 | San Francisco, CA | Co-op | Undergrad | [Apply](https://irhythmtech.wd5.myworkdayjobs.com/en-US/irhythm/job/San-Francisco-CA/System-Test-Engineer-Co-Op-Full-Time-Intern-Jan-June-2027_JR1781?utm_source=aprameyak) | Nov 2 |
+| Itron | Intern - Systems Engineer (Spring 2027) | West Union, SC | Spring 2027 | Masters | [Apply](https://itron.wd5.myworkdayjobs.com/en-US/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-1?utm_source=aprameyak) | Nov 2 |
+| ↳ | Intern - Systems Engineer (Spring 2027) | West Union, SC | Spring 2027 | Masters | [Apply](https://itron.wd5.myworkdayjobs.com/en-US/Itron/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-2?utm_source=aprameyak) | Nov 2 |
+| Johnson Electric | IT Co-op - Winter Term 2027 | Canada, Ancaster | Co-op | Undergrad | [Apply](https://johnsonelectric.wd3.myworkdayjobs.com/en-US/Career_JE/job/Canada-Ancaster/IT-Co-op---Winter-Term-2027_R00031069?utm_source=aprameyak) | Nov 2 |
+| ↳ | PLC Co-Op Student - Winter 2027 | Canada, Stratford | Co-op | Undergrad | [Apply](https://johnsonelectric.wd3.myworkdayjobs.com/en-US/Career_JE/job/Canada-Stratford/PLC-Co-Op-Student---Winter-2027_R00031419?utm_source=aprameyak) | Nov 2 |
+| Lila Sciences | Co-op, Agentic and Generative Protein Design | <details><summary>**2 locations**</summary>Cambridge, MA</br>San Francisco, CA</details> | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4462613009?utm_source=aprameyak) | Nov 2 |
+| Moment Energy | Certification Engineer Co-op | Surrey, BC | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4475608009?utm_source=aprameyak) | Nov 2 |
+| Sherwin-Williams | 2027 Operations Accelerated Development Program - Orlando, FL | Orlando, FL | Co-op | Undergrad | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619486?utm_source=aprameyak) | Nov 2 |
+| ↳ | January 2027 Leadership Development Program R&D- Minneapolis | Minneapolis, MN | Co-op | Undergrad | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627349?utm_source=aprameyak) | Nov 2 |
+| ↳ | January 2027 Leadership Development Program R&D- Brecksville, OH | Brecksville, OH | Co-op | Undergrad | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627348?utm_source=aprameyak) | Nov 2 |
+| ↳ | January 2027 Leadership Development Program R&D- Bowling Green, KY | Bowling Green, KY | Co-op | Undergrad | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627362?utm_source=aprameyak) | Nov 2 |
+| Standard Aero | Co-op, Engineer: Spring | Cincinnati, OH | Co-op | Undergrad | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10254?utm_source=aprameyak) | Nov 2 |
 | California Closets | Product Engineer Co-Op | Grand Rapids, MI | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/CaliforniaClosets/744000149931329?utm_source=aprameyak) | Nov 1 |
 | ChampionX | Reliability Engineering Co-Op | Sugar Land, TX | Co-op | Undergrad | [Apply](https://championx.wd1.myworkdayjobs.com/en-US/championx_external/job/USA---Texas---Sugar-Land/Reliability-Engineering-Co-Op_R00137277?utm_source=aprameyak) | Nov 1 |
 | Clark | Junior Forward Deployed Engineer | New York, NY | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/clark/e39423ba-10f6-44bb-a20f-5ccd33d53c52/application?utm_source=aprameyak) | Nov 1 |
