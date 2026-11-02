@@ -29289,7 +29289,7 @@
   },
   "manager, site reliability engineering": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -73055,7 +73055,7 @@
   },
   "research and development intern": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -79046,7 +79046,7 @@
   },
   "design engineer intern": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "cs-is-v2",
     "a": 0,
     "b": "s"
