@@ -259,6 +259,7 @@ def is_campus_role_title(title, table=None):
     return bool(_NEWGRAD_MARKERS.search(tl))
 
 
+_NON_TECH_ROLE_RE = re.compile(r'\b(talent partner|audit and risk|cadd|drafter|drafting technician)\b')
 _RETAIL_RE = re.compile(r'\b(cashier|courtesy clerk|bagger|front[- ]end entry level|front[- ]end team member)\b')
 
 
@@ -266,7 +267,7 @@ def is_out_of_scope_title(title):
     t = (title or '').lower()
     if not t:
         return True
-    if _RETAIL_RE.search(t):
+    if _RETAIL_RE.search(t) or _NON_TECH_ROLE_RE.search(t):
         return True
 
     has_keep = bool(_STRONG_KEEP.search(t))
