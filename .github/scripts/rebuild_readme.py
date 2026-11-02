@@ -45,13 +45,17 @@ TOC_HREFS = {
 }
 
 
+def cell(value):
+    return ' '.join(str(value).split()).replace('|', '\\|')
+
+
 def _company_sort_key(name):
     name = re.sub(r'[\U0001F000-\U0001FFFF\u2600-\u26FF\u2700-\u27BF]', '', name)
     return name.strip().lower()
 
 
 def format_company(entry):
-    name = entry['company'].strip()
+    name = cell(entry['company'])
     sponsorship = entry.get('sponsorship', '')
     citizenship = entry.get('citizenship', '')
     if 'not' in sponsorship.lower() or 'no —' in sponsorship.lower():
@@ -62,7 +66,7 @@ def format_company(entry):
 
 
 def format_location(location):
-    location = location.strip()
+    location = cell(location)
     if ';' in location:
         parts = [p.strip() for p in location.split(';') if p.strip()]
     else:
@@ -94,19 +98,19 @@ def apply_btn(url, button=False):
 
 def format_row(entry, company_col, button=False):
     company = company_col
-    role = entry['role'].strip()
+    role = cell(entry['role'])
     location = format_location(entry['location'])
-    education = entry.get('education', 'Undergrad').strip()
+    education = cell(entry.get('education', 'Undergrad'))
     url = entry.get('url', '').strip()
     date = format_date(entry['date_added'])
     btn = apply_btn(url, button)
     table_type = entry['type']
 
     if table_type == 'offcycle':
-        season = entry.get('season', '').strip()
+        season = cell(entry.get('season', ''))
         return f'| {company} | {role} | {location} | {season} | {education} | {btn} | {date} |'
     elif table_type == 'newgrad':
-        grad_date = entry.get('grad_date', '').strip()
+        grad_date = cell(entry.get('grad_date', ''))
         return f'| {company} | {role} | {location} | {grad_date} | {education} | {btn} | {date} |'
     else:
         return f'| {company} | {role} | {location} | {education} | {btn} | {date} |'
