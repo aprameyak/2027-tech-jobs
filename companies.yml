@@ -3093,7 +3093,7 @@ workday:
   tenant: "wgl"
   instance: "wd5"
   board: "altagas"
-- name: Altard State
+- name: Altar'd State
   tenant: "standoutforgood"
   instance: "wd12"
   board: "StandOutForGood"
@@ -5981,11 +5981,11 @@ workday:
   tenant: "kla"
   instance: "wd1"
   board: "Search"
-- name: KLA Corporation
+- name: KLA
   tenant: "kla"
   instance: "wd1"
   board: "annarbor"
-- name: KLA Corporation
+- name: KLA
   tenant: "kla"
   instance: "wd1"
   board: "UR"
@@ -14297,7 +14297,7 @@ ashby:
   slug: "webfx"
 - name: Western Magnetics
   slug: "westmag"
-- name: WhatNot
+- name: Whatnot
   slug: "whatnot"
 - name: Windborne Systems
   slug: "windborne-systems"
@@ -14605,7 +14605,7 @@ oracle:
 - name: Jefferies
   host: "hdid.fa.us2.oraclecloud.com"
   site: "CX_1"
-- name: JPMorganChase
+- name: JPMorgan Chase
   host: "jpmc.fa.oraclecloud.com"
   site: "CX_1001"
 - name: Kent
