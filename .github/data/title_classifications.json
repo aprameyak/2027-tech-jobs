@@ -37287,8 +37287,9 @@
   },
   "associate solutions engineering program manager": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "backend engineer - access control": {
@@ -53026,9 +53027,9 @@
     "b": "s"
   },
   "global supply manager, datacenter switches and optics (starlink)": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -54590,8 +54591,8 @@
   },
   "network engineer (starlink community gateway)": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
