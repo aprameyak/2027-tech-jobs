@@ -71049,9 +71049,10 @@
   },
   "planning intern - summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "imaging and print business internship": {
     "t": false,
@@ -74093,9 +74094,10 @@
   },
   "project coordinator intern (summer 2027)": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "it support technician intern (summer 2026)": {
     "t": false,
