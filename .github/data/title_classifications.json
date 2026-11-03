@@ -13486,7 +13486,7 @@
   },
   "senior product manager, ai": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13621,7 +13621,7 @@
   },
   "staff product manager, ai": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18717,7 +18717,7 @@
   },
   "staff software engineer - backend": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -21726,7 +21726,7 @@
   },
   "reliability test engineer": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28340,7 +28340,7 @@
   },
   "technical services engineer": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30414,7 +30414,7 @@
   },
   "technical architect ": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32405,7 +32405,7 @@
   },
   "staff offensive security engineer": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32746,7 +32746,7 @@
   },
   "implementation consultant ": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36507,7 +36507,7 @@
   },
   "python developer": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -39655,7 +39655,7 @@
   },
   "senior engineering program manager": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50570,7 +50570,7 @@
   },
   "senior machine learning scientist": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54981,7 +54981,7 @@
   },
   "power systems engineer": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59377,7 +59377,7 @@
   },
   "head of technical services": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60042,7 +60042,7 @@
   },
   "senior software engineer, linux kernel": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -67927,7 +67927,7 @@
   },
   "application engineer intern": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -69407,7 +69407,7 @@
   },
   "junior analyst": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0
   },
@@ -70077,7 +70077,7 @@
   },
   "intern, legal": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0
   },
@@ -70212,7 +70212,7 @@
   },
   "junior project manager": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0
   },
@@ -70419,7 +70419,7 @@
   },
   "internal audit intern - summer 2027": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "cs-is-v2",
     "a": 0
   },
@@ -71503,7 +71503,7 @@
   },
   "internship": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0
   },
@@ -73278,7 +73278,7 @@
   },
   "intern - finance (summer 2027)": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0
   },
@@ -73494,7 +73494,7 @@
   },
   "marketing analytics intern": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "cs-is-v2",
     "a": 0
   },
@@ -74024,7 +74024,7 @@
   },
   "intern, operations": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0
   },
@@ -74799,7 +74799,7 @@
   },
   "internal audit intern": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "cs-is-v2",
     "a": 0
   },
@@ -75031,7 +75031,7 @@
   },
   "strategic finance intern": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0
   },
@@ -78453,7 +78453,7 @@
   },
   "it intern": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "cs-is-v2",
     "a": 0
   },
