@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1060 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1064 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -11,6 +11,9 @@
 | Bank of Montreal | UX/UI Designer, Winter 2027 (Co-op/Internship)- 4 months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951?utm_source=aprameyak) | Nov 3 |
 | ↳ | Junior Cybersecurity Intern, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Junior-Cybersecurity-Intern--Winter-2027--Co-op-Internship----4-Months_R260024652-3?utm_source=aprameyak) | Nov 3 |
 | Boston Properties | IT Services Co-Op | Boston, MA | Co-op | Undergrad | [Apply](https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26177?utm_source=aprameyak) | Nov 3 |
+| Engramme | Back-End Software Engineer (Co-op / extended internship) | San Francisco, CA | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/engramme/9233d3f9-83d2-4967-ad97-176c11e16696/application?utm_source=aprameyak) | Nov 3 |
+| ↳ | Full-Stack Software Engineer (Co-op / extended internship) | San Francisco, CA | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/engramme/06517730-61e8-4e73-bd95-2816b391a9d2/application?utm_source=aprameyak) | Nov 3 |
+| ↳ | Machine Learning Engineer (Co-op / extended internship) | San Francisco, CA | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/engramme/36691537-e0fd-4aa9-9fcd-2618b433fac1/application?utm_source=aprameyak) | Nov 3 |
 | Geico | Leadership Development Program - Tucson - 2027 | Tucson, AZ | Co-op | Undergrad | [Apply](https://geico.wd1.myworkdayjobs.com/en-US/External/job/Tucson-AZ/Leadership-Development-Program---Tucson---2027_R0066677?utm_source=aprameyak) | Nov 3 |
 | Keenfinity | Software Test Automation Co-Op | Fairport, NY | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/Keenfinity/744000151395769?utm_source=aprameyak) | Nov 3 |
 | Linamar | Application Developer, Junior | Guelph, ON | Co-op | Undergrad | [Apply](https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/14747?utm_source=aprameyak) | Nov 3 |
@@ -26,6 +29,7 @@
 | NAV CANADA | Aviation Predictive Analytics Co-op Student | Ottawa, ON | Co-op | Undergrad | [Apply](https://navcanada.wd10.myworkdayjobs.com/en-US/NAV_Careers/job/Ottawa/Aviation-Predictive-Analytics-Co-op-Student_JR-8599?utm_source=aprameyak) | Nov 3 |
 | Nissan Global | Computational Material Science Intern - Spring 2027 - Santa Clara, CA | Santa Clara, CA | Spring 2027 | Undergrad | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Computational-Material-Science-Intern---Spring-2027---Santa-Clara--CA_R00214265?utm_source=aprameyak) | Nov 3 |
 | SAIC | Automation Engineer Junior | Ashburn, VA | Co-op | Undergrad | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618696?utm_source=aprameyak) | Nov 3 |
+| The Nuclear Company | Spring 2027 Security Engineer Intern | Washington, DC | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5466153008?utm_source=aprameyak) | Nov 3 |
 | Brown & Brown Insurance | Junior HubSpot Developer | Plano, TX | Co-op | Undergrad | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694?utm_source=aprameyak) | Nov 2 |
 | Hancock Whitney | IT Development Program Associate (Part-time) | Data Center, MS | Co-op | Undergrad | [Apply](https://hancockwhitney.wd5.myworkdayjobs.com/en-US/Careers/job/Data-Center----Gulfport-MS/Development-Program-Associate_R017931?utm_source=aprameyak) | Nov 2 |
 | International Flavors & Fragrances | Microbiology Co-op | Wilmington, DE | Co-op | Undergrad | [Apply](https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Wilmington-DE-USA/Microbiology-Co-op_R21052?utm_source=aprameyak) | Nov 2 |

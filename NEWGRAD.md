@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-1302 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1313 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -13,7 +13,9 @@
 | Atria Group | Front End Developer (USC or GC only) | Dallas, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/78328843?utm_source=aprameyak) | Nov 3 |
 | ↳ | Jr. ASP.NET C# Developer | Frisco, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/77058089?utm_source=aprameyak) | Nov 3 |
 | CACI | AI Web Developer T4 | Chantilly, VA |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Chantilly-VA-US/AI-Web-Developer-T4_334507?utm_source=aprameyak) | Nov 3 |
+| Cotiviti | Associate Software Engineer | Remote (US) |  | Undergrad | [Apply](https://careers-cotiviti.icims.com/jobs/21591/associate-software-engineer/job?utm_source=aprameyak) | Nov 3 |
 | Curtiss-Wright Corporation | Graduate Engineer | Frederick, MD |  | Undergrad | [Apply](https://curtisswright.wd1.myworkdayjobs.com/en-US/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR13134?utm_source=aprameyak) | Nov 3 |
+| Custom Computer Specialists | Junior Systems Engineer | Hauppauge, NY |  | Masters | [Apply](https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4472646009?utm_source=aprameyak) | Nov 3 |
 | DRW | Junior Data Analyst | Montreal, QC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8128786?utm_source=aprameyak) | Nov 3 |
 | Eurofins | Entry Level Laboratory Data Review | Columbia, MO |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000156401491?utm_source=aprameyak) | Nov 3 |
 | Fortinet | Software Dev QA Engineer (Early Career/NPI) | Sunnyvale, CA |  | Undergrad | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24851?utm_source=aprameyak) | Nov 3 |
@@ -26,11 +28,20 @@
 | ↳ | Early Career Consult Program - Associate Creative Technologist | Dallas (USDALFRI) Frisco AI HUB |  | Undergrad | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Associate-Creative-Technologist_R-66763?utm_source=aprameyak) | Nov 3 |
 | ↳ | Early Career Consult Program - Associate Creative Technologist | Dallas (USDALFRI) Frisco AI HUB |  | Undergrad | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Associate-Creative-Technologist_R-66763-2?utm_source=aprameyak) | Nov 3 |
 | ↳ | Early Career Consult Program – Network Support Associate | Dallas (USDALFRI) Frisco AI HUB |  | Undergrad | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Network-Support-Associate_R-67487?utm_source=aprameyak) | Nov 3 |
+| LexisNexis Risk Solutions | Tech Accelerate Graduate Program - Software Engineer I | Alpharetta, GA |  | Undergrad | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836?utm_source=aprameyak) | Nov 3 |
 | Micron Technology | New College Grad: Engineer, Edge Systems Architecture | Boise, ID |  | Masters | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad--Engineer--Edge-Systems-Architecture_JR116433?utm_source=aprameyak) | Nov 3 |
+| Northrop Grumman | 2027 Associate Flight Software Engineer - Manhattan Beach CA | Manhattan Beach, CA | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Associate-Flight-Software-Engineer---Manhattan-Beach-CA_R10259061?utm_source=aprameyak) | Nov 3 |
+| ↳ | Associate Software Engineer - Colorado Springs | Colorado Springs, CO |  | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912?utm_source=aprameyak) | Nov 3 |
 | Occidental Petroleum Corporation (Oxy) | R&D/Technology Engineer - New Grad | Brawley, CA |  | Undergrad | [Apply](https://oxy.wd5.myworkdayjobs.com/en-US/UniversityRelations/job/Brawley-California/Technology-Engineer---New-Grad_JR100734?utm_source=aprameyak) | Nov 3 |
+| Pfizer | Data Science Associate, CMO | New York, NY |  | Undergrad | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Data-Science-Associate--CMO_4966542-1?utm_source=aprameyak) | Nov 3 |
+| Precisely | Associate Software Engineer (Python AI) | Remote (US) |  | Undergrad | [Apply](https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005?gh_jid=4750854005) | Nov 3 |
 | QualityAI | Entry Level Moderator / Coordinator (Data Collection) | Redmond, WA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/QANALYSTSLLC2/743999836324249?utm_source=aprameyak) | Nov 3 |
+| RELX | Tech Accelerate Graduate Program - Software Engineer I | Alpharetta, GA |  | Undergrad | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1?utm_source=aprameyak) | Nov 3 |
 | Sherwin-Williams | 2027 Engineering Accelerated Development Program - Holland, MI | Holland, MI | Spring 2027 | Undergrad | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620957?utm_source=aprameyak) | Nov 3 |
+| Skyward | Software Engineer - Entry Level | Stevens Point, WI |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Skyward1/744000159491899?utm_source=aprameyak) | Nov 3 |
 | Sutherland | Sr. Associate - Software Developer | Remote (US) |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Sutherland/744000159363360?utm_source=aprameyak) | Nov 3 |
+| Vantor 🇺🇸 | Junior Data Engineer (TS/SCI) | Herndon, VA |  | Undergrad | [Apply](https://maxar.wd1.myworkdayjobs.com/en-US/Vantor/job/Herndon-VA/Junior-Data-Engineer--TS-SCI-_R24867-3?utm_source=aprameyak) | Nov 3 |
+| ↳ | Junior Data Engineer (TS/SCI) | Herndon, VA |  | Undergrad | [Apply](https://maxar.wd1.myworkdayjobs.com/en-US/Vantor/job/Herndon-VA/Junior-Data-Engineer--TS-SCI-_R24862-3?utm_source=aprameyak) | Nov 3 |
 | Verkada | Backend Software Engineer - University Graduate 2027 | San Mateo, CA | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5280545007?utm_source=aprameyak) | Nov 3 |
 | Amazon | Software Development Engineer, Early Career - 2027 (US) | <details><summary>**9 locations**</summary>Seattle, WA</br>Austin, TX</br>Boston, MA</br>Arlington, VA</br>Santa Clara, CA</br>Denver, CO</br>Detroit, MI</br>Madison, WI</br>Minneapolis, MN</details> |  | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us) | Nov 2 |
 | ↳ | Software Development Engineer, Early Career - 2027 (CAN) | Vancouver, BC |  | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10583004/software-development-engineer-early-career-2027-can) | Nov 2 |
