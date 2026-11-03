@@ -29291,7 +29291,7 @@
   },
   "manager, site reliability engineering": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -70665,9 +70665,9 @@
   },
   "intern engineer - summer 2027": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
-    "a": 1,
+    "a": 0,
     "b": "s"
   },
   "analog test engineer (2027 new college graduate)": {
@@ -79056,7 +79056,7 @@
   },
   "design engineer intern": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "cs-is-v2",
     "a": 0,
     "b": "s"
