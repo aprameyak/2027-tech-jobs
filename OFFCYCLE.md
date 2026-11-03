@@ -1,11 +1,12 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1055 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1060 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| ABB | Physical AI Robotics Simulation Intern- Fall 2026 | Milpitas, CA | Fall 2026 | Undergrad | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1?utm_source=aprameyak) | Nov 3 |
 | ACLU Kentucky | Spring 2027 Undergraduate Intern, Product & Technology Department | Remote/Hybrid- New York | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8927658002?utm_source=aprameyak) | Nov 3 |
 | Bank of Montreal | UX/UI Designer, Winter 2027 (Co-op/Internship)- 4 months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951?utm_source=aprameyak) | Nov 3 |
 | ↳ | Junior Cybersecurity Intern, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Junior-Cybersecurity-Intern--Winter-2027--Co-op-Internship----4-Months_R260024652-3?utm_source=aprameyak) | Nov 3 |
@@ -20,6 +21,10 @@
 | Mass General Brigham | Co-op Security | Boston-MA | Co-op | Undergrad | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Co-op-Security_RQ4085104?utm_source=aprameyak) | Nov 3 |
 | Materion | 2027 Elmore Co-op Program | Elmore, OH | Co-op | Undergrad | [Apply](https://materion.wd5.myworkdayjobs.com/en-US/Materion/job/Elmore-OH/XMLNAME-2027-Elmore-Co-op-Program_2026-R8672?utm_source=aprameyak) | Nov 3 |
 | Menasha Corporation | Application Engineer Intern (Fall/Winter 2026) | Troy, MI | Winter 2026 | Undergrad | [Apply](https://menasha.wd12.myworkdayjobs.com/en-US/menashacorp/job/Troy-Michigan/Application-Engineer-Intern--Summer-2026-_R13999?utm_source=aprameyak) | Nov 3 |
+| MSD | 2027 Future Talent Program - Patient Data Learning - Co-op | Cambridge, MA | Co-op | Undergrad | [Apply](https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526?utm_source=aprameyak) | Nov 3 |
+| MSI | Rotational Undergraduate Analyst - MSI | Boston, MA | Co-op | Undergrad | [Apply](https://baldwin.wd1.myworkdayjobs.com/en-US/MSI/job/Boston-Massachusetts-US/Rotational-Undergraduate-Analyst---MSI_JR109868?utm_source=aprameyak) | Nov 3 |
+| NAV CANADA | Aviation Predictive Analytics Co-op Student | Ottawa, ON | Co-op | Undergrad | [Apply](https://navcanada.wd10.myworkdayjobs.com/en-US/NAV_Careers/job/Ottawa/Aviation-Predictive-Analytics-Co-op-Student_JR-8599?utm_source=aprameyak) | Nov 3 |
+| Nissan Global | Computational Material Science Intern - Spring 2027 - Santa Clara, CA | Santa Clara, CA | Spring 2027 | Undergrad | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Computational-Material-Science-Intern---Spring-2027---Santa-Clara--CA_R00214265?utm_source=aprameyak) | Nov 3 |
 | SAIC | Automation Engineer Junior | Ashburn, VA | Co-op | Undergrad | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618696?utm_source=aprameyak) | Nov 3 |
 | Brown & Brown Insurance | Junior HubSpot Developer | Plano, TX | Co-op | Undergrad | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694?utm_source=aprameyak) | Nov 2 |
 | Hancock Whitney | IT Development Program Associate (Part-time) | Data Center, MS | Co-op | Undergrad | [Apply](https://hancockwhitney.wd5.myworkdayjobs.com/en-US/Careers/job/Data-Center----Gulfport-MS/Development-Program-Associate_R017931?utm_source=aprameyak) | Nov 2 |
