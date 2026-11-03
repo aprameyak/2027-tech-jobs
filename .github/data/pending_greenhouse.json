@@ -1,0 +1,76 @@
+[
+  {
+    "company": "Custom Computer Specialists",
+    "role": "Junior Systems Engineer",
+    "location": "Hauppauge, NY",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Masters",
+    "url": "https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4472646009?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-03",
+    "grad_date": ""
+  },
+  {
+    "company": "Precisely",
+    "role": "Associate Software Engineer (Python AI)",
+    "location": "Remote (US)",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005?gh_jid=4750854005",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-03",
+    "grad_date": ""
+  },
+  {
+    "company": "RoboForce",
+    "role": "Machine Learning Engineer Intern, AI & Robotics",
+    "location": "Milpitas, CA",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/roboforce/jobs/5470001008?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-03"
+  },
+  {
+    "company": "The Nuclear Company",
+    "role": "Spring 2027 Security Engineer Intern",
+    "location": "Washington, DC",
+    "type": "offcycle",
+    "season": "Spring 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5466153008?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-03"
+  },
+  {
+    "company": "The New York Times",
+    "role": "Advertising Business Data Analyst Intern",
+    "location": "New York, NY",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-03"
+  },
+  {
+    "company": "Toshiba Global Commerce",
+    "role": "AI Software Engineering Intern",
+    "location": "Frisco, TX",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5283178007?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-03"
+  }
+]

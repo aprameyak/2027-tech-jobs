@@ -11956,8 +11956,9 @@
   },
   "technical cbrn-e  threat investigator ": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "technical cyber threat investigator ": {
@@ -14073,8 +14074,9 @@
   },
   "data scientist, finance forecasting": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "developer/community advocate- amer (remote)": {
@@ -15957,7 +15959,7 @@
   },
   "senior software engineer, backend (consumer - risk)": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18794,8 +18796,9 @@
   },
   "staff software engineer - developer experience": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "staff software engineer - distributed data systems": {
@@ -28921,7 +28924,7 @@
   },
   "software reliability engineer": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
