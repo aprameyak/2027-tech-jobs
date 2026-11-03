@@ -489,8 +489,9 @@
   },
   "software engineer ii, backend (capital orchestration)": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "software engineer ii, back-end (card mgmt & transaction processing)": {
