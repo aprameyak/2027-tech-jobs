@@ -29291,7 +29291,7 @@
   },
   "manager, site reliability engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -70665,7 +70665,7 @@
   },
   "intern engineer - summer 2027": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -79056,7 +79056,7 @@
   },
   "design engineer intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "cs-is-v2",
     "a": 0,
     "b": "s"
@@ -128767,5 +128767,12 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "software engineer, app ads bidding and optimization": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   }
 }
