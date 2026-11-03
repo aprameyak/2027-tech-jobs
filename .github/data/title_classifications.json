@@ -7422,7 +7422,7 @@
   },
   "senior software engineer, discovery": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17198,7 +17198,7 @@
   },
   "senior software engineer - backend": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31124,7 +31124,7 @@
   },
   "staff software engineer, identity & access management": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
