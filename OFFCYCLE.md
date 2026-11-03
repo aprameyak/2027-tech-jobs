@@ -1,11 +1,26 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1040 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1055 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| ACLU Kentucky | Spring 2027 Undergraduate Intern, Product & Technology Department | Remote/Hybrid- New York | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8927658002?utm_source=aprameyak) | Nov 3 |
+| Bank of Montreal | UX/UI Designer, Winter 2027 (Co-op/Internship)- 4 months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951?utm_source=aprameyak) | Nov 3 |
+| ↳ | Junior Cybersecurity Intern, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Junior-Cybersecurity-Intern--Winter-2027--Co-op-Internship----4-Months_R260024652-3?utm_source=aprameyak) | Nov 3 |
+| Boston Properties | IT Services Co-Op | Boston, MA | Co-op | Undergrad | [Apply](https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26177?utm_source=aprameyak) | Nov 3 |
+| Geico | Leadership Development Program - Tucson - 2027 | Tucson, AZ | Co-op | Undergrad | [Apply](https://geico.wd1.myworkdayjobs.com/en-US/External/job/Tucson-AZ/Leadership-Development-Program---Tucson---2027_R0066677?utm_source=aprameyak) | Nov 3 |
+| Keenfinity | Software Test Automation Co-Op | Fairport, NY | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/Keenfinity/744000151395769?utm_source=aprameyak) | Nov 3 |
+| Linamar | Application Developer, Junior | Guelph, ON | Co-op | Undergrad | [Apply](https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/14747?utm_source=aprameyak) | Nov 3 |
+| Lumentum | IT Desktop Engineer - Co-Op/Intern | Ottawa, ON | Co-op | Undergrad | [Apply](https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/IT-Desktop-Engineer---Co-Op-Intern_20261458?utm_source=aprameyak) | Nov 3 |
+| ↳ | Optical Algorithms and Analytics Engineering Co-op/Intern | Ottawa, ON | Co-op | Masters | [Apply](https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms-and-Analytics-Engineering-Co-op-Intern_20261547?utm_source=aprameyak) | Nov 3 |
+| Manulife | Winter Co-op 2027 - Business Technology | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Business-Technology_JR26081665-1?utm_source=aprameyak) | Nov 3 |
+| ↳ | Winter Co-op 2027 - AI | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI_JR26081677-1?utm_source=aprameyak) | Nov 3 |
+| Mass General Brigham | Co-op Security | Boston-MA | Co-op | Undergrad | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Co-op-Security_RQ4085104?utm_source=aprameyak) | Nov 3 |
+| Materion | 2027 Elmore Co-op Program | Elmore, OH | Co-op | Undergrad | [Apply](https://materion.wd5.myworkdayjobs.com/en-US/Materion/job/Elmore-OH/XMLNAME-2027-Elmore-Co-op-Program_2026-R8672?utm_source=aprameyak) | Nov 3 |
+| Menasha Corporation | Application Engineer Intern (Fall/Winter 2026) | Troy, MI | Winter 2026 | Undergrad | [Apply](https://menasha.wd12.myworkdayjobs.com/en-US/menashacorp/job/Troy-Michigan/Application-Engineer-Intern--Summer-2026-_R13999?utm_source=aprameyak) | Nov 3 |
+| SAIC | Automation Engineer Junior | Ashburn, VA | Co-op | Undergrad | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618696?utm_source=aprameyak) | Nov 3 |
 | Brown & Brown Insurance | Junior HubSpot Developer | Plano, TX | Co-op | Undergrad | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694?utm_source=aprameyak) | Nov 2 |
 | Hancock Whitney | IT Development Program Associate (Part-time) | Data Center, MS | Co-op | Undergrad | [Apply](https://hancockwhitney.wd5.myworkdayjobs.com/en-US/Careers/job/Data-Center----Gulfport-MS/Development-Program-Associate_R017931?utm_source=aprameyak) | Nov 2 |
 | International Flavors & Fragrances | Microbiology Co-op | Wilmington, DE | Co-op | Undergrad | [Apply](https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Wilmington-DE-USA/Microbiology-Co-op_R21052?utm_source=aprameyak) | Nov 2 |
