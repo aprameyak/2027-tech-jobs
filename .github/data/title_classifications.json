@@ -29289,7 +29289,7 @@
   },
   "manager, site reliability engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -69260,8 +69260,9 @@
   },
   "associate early career talent partner": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   },
   "new grad field engineer i - summer 2027 (for current/former hntb interns only)": {
     "t": true,
@@ -73055,7 +73056,7 @@
   },
   "research and development intern": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -79046,7 +79047,7 @@
   },
   "design engineer intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "cs-is-v2",
     "a": 0,
     "b": "s"
@@ -128730,5 +128731,26 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "software engineer iii, mobile (android), android ecosystem": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "associate engagement manager intern, aws professional services": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "associate engagement manager intern- national security, aws professional services ": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   }
 }
