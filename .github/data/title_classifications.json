@@ -9837,9 +9837,9 @@
     "b": "s"
   },
   "technical writer, autonomous airpower": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -32448,9 +32448,10 @@
     "b": "s"
   },
   "staff software engineer, government products": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff software engineer, storage platform": {
@@ -35760,9 +35761,10 @@
     "b": "s"
   },
   "program manager, commercial solutions": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "program manager, engineering - technology grc": {
