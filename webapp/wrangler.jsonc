@@ -1,0 +1,8 @@
+{
+  "name": "2027-tech-jobs",
+  "compatibility_date": "2026-11-03",
+  "assets": {
+    "directory": "./out",
+    "not_found_handling": "404-page"
+  }
+}
