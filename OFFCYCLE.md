@@ -1,11 +1,14 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1064 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1067 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Bose | Software/DSP Research Engineer Co-op | Framingham, MA | Co-op | Undergrad | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369?utm_source=aprameyak) | Nov 4 |
+| Royal Bank of Canada | 2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op) | TORONTO, ON | Co-op | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2?utm_source=aprameyak) | Nov 4 |
+| SharkNinja | Spring 2027:Technical Project Management Co-op (January to June) | Needham, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721697006?utm_source=aprameyak) | Nov 4 |
 | ABB | Physical AI Robotics Simulation Intern- Fall 2026 | Milpitas, CA | Fall 2026 | Undergrad | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1?utm_source=aprameyak) | Nov 3 |
 | ACLU Kentucky | Spring 2027 Undergraduate Intern, Product & Technology Department | Remote/Hybrid- New York | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8927658002?utm_source=aprameyak) | Nov 3 |
 | Bank of Montreal | UX/UI Designer, Winter 2027 (Co-op/Internship)- 4 months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951?utm_source=aprameyak) | Nov 3 |
