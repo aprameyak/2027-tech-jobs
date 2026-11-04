@@ -5915,7 +5915,7 @@
   },
   "senior director, software engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7422,7 +7422,7 @@
   },
   "senior software engineer, discovery": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9800,7 +9800,7 @@
   },
   "technical program manager, space systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -11956,7 +11956,7 @@
   },
   "technical cbrn-e  threat investigator ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12483,7 +12483,7 @@
   },
   "security risk manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13486,7 +13486,7 @@
   },
   "senior product manager, ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13621,7 +13621,7 @@
   },
   "staff product manager, ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -15959,7 +15959,7 @@
   },
   "senior software engineer, backend (consumer - risk)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17200,7 +17200,7 @@
   },
   "senior software engineer - backend": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18717,7 +18717,7 @@
   },
   "staff software engineer - backend": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18796,7 +18796,7 @@
   },
   "staff software engineer - developer experience": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -21726,7 +21726,7 @@
   },
   "reliability test engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28340,7 +28340,7 @@
   },
   "technical services engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28924,7 +28924,7 @@
   },
   "software reliability engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30161,7 +30161,7 @@
   },
   "staff software engineer, ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30414,7 +30414,7 @@
   },
   "technical architect ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -31127,7 +31127,7 @@
   },
   "staff software engineer, identity & access management": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32267,7 +32267,7 @@
   },
   "senior network reliability engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32405,7 +32405,7 @@
   },
   "staff offensive security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32746,7 +32746,7 @@
   },
   "implementation consultant ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32800,7 +32800,7 @@
   },
   "manager, consulting services": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36507,7 +36507,7 @@
   },
   "python developer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -39655,7 +39655,7 @@
   },
   "senior engineering program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -41107,7 +41107,7 @@
   },
   "technical consulting technical leader": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50290,7 +50290,7 @@
   },
   "principal software engineer, data infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50571,7 +50571,7 @@
   },
   "senior machine learning scientist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54982,7 +54982,7 @@
   },
   "power systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59378,7 +59378,7 @@
   },
   "head of technical services": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60043,7 +60043,7 @@
   },
   "senior software engineer, linux kernel": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -63604,7 +63604,7 @@
   },
   "junior accountant": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -64055,7 +64055,7 @@
   },
   "junior iwms project manager - intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -64758,7 +64758,7 @@
   },
   "accelerated computing solutions analyst - early career": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -67928,7 +67928,7 @@
   },
   "application engineer intern": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -68522,7 +68522,7 @@
   },
   "intern, quality": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -68600,7 +68600,7 @@
   },
   "or radiologic technologist | ft - days | sign on - relo | new grads welcome to apply!!": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -69408,7 +69408,7 @@
   },
   "junior analyst": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -70021,7 +70021,7 @@
   },
   "environmental intern (summer 2027)": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -70078,7 +70078,7 @@
   },
   "intern, legal": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -70213,7 +70213,7 @@
   },
   "junior project manager": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -70420,7 +70420,7 @@
   },
   "internal audit intern - summer 2027": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "cs-is-v2",
     "a": 0
   },
@@ -70972,7 +70972,7 @@
   },
   "personal lines underwriting internship - summer 2027": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -71504,7 +71504,7 @@
   },
   "internship": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -71982,7 +71982,7 @@
   },
   "silicon photonics intern - phd (fall 2026 start date)": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -73067,7 +73067,7 @@
   },
   "research and development intern": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -73279,7 +73279,7 @@
   },
   "intern - finance (summer 2027)": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -73495,7 +73495,7 @@
   },
   "marketing analytics intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "cs-is-v2",
     "a": 0
   },
@@ -74025,7 +74025,7 @@
   },
   "intern, operations": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -74256,7 +74256,7 @@
   },
   "business management coordinator, winter 2027 (co-op/internship) - 4 months": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -74624,7 +74624,7 @@
   },
   "biomedical engineering intern": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -74801,7 +74801,7 @@
   },
   "internal audit intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "cs-is-v2",
     "a": 0
   },
@@ -75033,7 +75033,7 @@
   },
   "strategic finance intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -75574,7 +75574,7 @@
   },
   "events intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -76120,7 +76120,7 @@
   },
   "plm program manager graduate": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -78203,7 +78203,7 @@
   },
   "mechatronics intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -78455,7 +78455,7 @@
   },
   "it intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "cs-is-v2",
     "a": 0
   },
@@ -79515,7 +79515,7 @@
   },
   "co-op student": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "cs-is-v2",
     "a": 0,
     "b": "o"
@@ -128779,5 +128779,60 @@
     "v": "cs-is-v4",
     "a": 1,
     "b": "s"
+  },
+  "software engineer iii, search security engineering": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "senior software engineer, search security engineering": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior staff software engineer, developer experiences": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer, server and full stack, growth and discovery, deepmind": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior software engineer, ai/ml recommendations, rankings, predictions, youtube": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior software engineer, ai/ml, youtube": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "software engineering tech lead manager, search intelligence, discover user understanding": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior software engineer, full stack, google labs": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior staff software engineer, ai/ml, google cloud compute infrastructure": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
