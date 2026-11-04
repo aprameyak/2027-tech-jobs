@@ -40529,8 +40529,9 @@
   },
   "capital program manager": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "manufacturing operations product program manager": {
