@@ -1,14 +1,26 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1067 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1079 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| AECOM | Internship and Entry-Level Graduate Opportunities - California State University, Sacramento Fall 2026 Engineering & Computer Science Career Fair | Sacramento, CA | Fall 2026 | Undergrad | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159662579?utm_source=aprameyak) | Nov 4 |
+| Bank of Montreal | Software Developer, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638-3?utm_source=aprameyak) | Nov 4 |
 | Bose | Software/DSP Research Engineer Co-op | Framingham, MA | Co-op | Undergrad | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369?utm_source=aprameyak) | Nov 4 |
+| ↳ | DSP/ML Research Engineer Co-op \| Spring 2027 | Framingham, MA | Co-op | Undergrad | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Co-op---Spring-2027_R29370?utm_source=aprameyak) | Nov 4 |
+| Equitable Bank | Intern - Product Management, Winter 2027 | Toronto, ON | Winter 2027 | Undergrad | [Apply](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1?utm_source=aprameyak) | Nov 4 |
+| Flexport | Rotational Development Program | <details><summary>**2 locations**</summary>Atlanta, GA</br>Dallas, TX</details> | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8353044?utm_source=aprameyak) | Nov 4 |
+| JPMorgan Chase | Military Pathways Development Program | Columbus, OH | Co-op | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806756?utm_source=aprameyak) | Nov 4 |
+| Nokia | Wi-Fi Research Co-op | Remote (US) | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41022?utm_source=aprameyak) | Nov 4 |
+| Northrop Grumman | 2027 Spring Co-op Software Engineer Intern – McClellan CA | Mcclellan, CA | Co-op | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329?utm_source=aprameyak) | Nov 4 |
+| Regal Rexnord | Application Team Co-Op (Spring 2027) | Tipp City, OH | Co-op | Undergrad | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/en-US/careers/job/Tipp-City-Ohio-United-States/Application-Team-Co-Op--Spring-2027-_R26_04736-1?utm_source=aprameyak) | Nov 4 |
+| Rockwell Automation | Co-op, User Experience - Robotics | Waterloo, ON | Co-op | Undergrad | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-8569?utm_source=aprameyak) | Nov 4 |
 | Royal Bank of Canada | 2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op) | TORONTO, ON | Co-op | Undergrad | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2?utm_source=aprameyak) | Nov 4 |
+| Saab | Co-Op, Information Security (Spring - Summer 2027) | East Syracuse, NY | Co-op | Undergrad | [Apply](https://saabusa.wd1.myworkdayjobs.com/en-US/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Information-Security--Spring---Summer-2027-_R-03409-1?utm_source=aprameyak) | Nov 4 |
 | SharkNinja | Spring 2027:Technical Project Management Co-op (January to June) | Needham, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721697006?utm_source=aprameyak) | Nov 4 |
+| Teledyne | Software Engineering Coop | Waterloo, ON | Co-op | Undergrad | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Waterloo-ON/XMLNAME--Software-Engineering-Coop_REQ36845?utm_source=aprameyak) | Nov 4 |
 | ABB | Physical AI Robotics Simulation Intern- Fall 2026 | Milpitas, CA | Fall 2026 | Undergrad | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1?utm_source=aprameyak) | Nov 3 |
 | ACLU Kentucky | Spring 2027 Undergraduate Intern, Product & Technology Department | Remote/Hybrid- New York | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8927658002?utm_source=aprameyak) | Nov 3 |
 | Bank of Montreal | UX/UI Designer, Winter 2027 (Co-op/Internship)- 4 months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951?utm_source=aprameyak) | Nov 3 |

@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-1325 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1342 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -8,16 +8,33 @@
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | Amentum | Software Tools Developer, Entry Level | Huntsville, AL |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727?utm_source=aprameyak) | Nov 4 |
 | ASSYST | Full Stack Developer (Entry Level) | Sterling, VA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/assystinc/jobs/4436912009?utm_source=aprameyak) | Nov 4 |
+| CACI | Java Developer | Sarasota, FL |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Sarasota-FL-US/Java-Developer_334675?utm_source=aprameyak) | Nov 4 |
+| ↳ | Java Developer | Sarasota, FL |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Sarasota-FL-US/Java-Developer_334678?utm_source=aprameyak) | Nov 4 |
 | CapTech Consulting | User Experience Associate Consultant (Graduating Dec. 2026 - Summer 2027) | Richmond, VA | Summer 2027 | Undergrad | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000159183799?utm_source=aprameyak) | Nov 4 |
 | Duolingo | QA Specialist I, Recent Graduate | <details><summary>**2 locations**</summary>New York, NY</br>Pittsburgh, PA</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8928682002?utm_source=aprameyak) | Nov 4 |
 | ↳ | QA Specialist I, Recent Graduate | <details><summary>**2 locations**</summary>New York, NY</br>Pittsburgh, PA</details> |  | Undergrad | [Apply](https://careers.duolingo.com/jobs/8927565002?gh_jid=8927565002) | Nov 4 |
 | endeavorai.com | Forward Deployed Engineer, 2027 Graduate | Chicago, IL | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/endeavorai/00a6bb4f-fccb-4948-a2e9-71b736c2b0b4/application?utm_source=aprameyak) | Nov 4 |
 | GuideWell Mutual | IT Developer - Full Stack | Jacksonville, FL |  | Undergrad | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42289?utm_source=aprameyak) | Nov 4 |
+| Hardin Design | Web Developer - Entry Level | Madison, WI |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/HardinDesign/744000159682070?utm_source=aprameyak) | Nov 4 |
 | Infoblox | Associate Software Engineer | Burnaby, BC |  | Undergrad | [Apply](https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6827?utm_source=aprameyak) | Nov 4 |
+| Jobs for Humanity | Systems Engineer, New College Grad – 2026 (LATAM) | Remote (US) |  | Masters | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000126848449?utm_source=aprameyak) | Nov 4 |
+| ↳ | Systems Engineer, New College Grad – 2026 (LATAM) | Remote (US) |  | Masters | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000126848409?utm_source=aprameyak) | Nov 4 |
+| ↳ | Systems Engineer, New College Grad – 2026 (LATAM) | Remote (US) |  | Masters | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000126848319?utm_source=aprameyak) | Nov 4 |
+| ↳ | Systems Engineer, New College Grad – 2026 (LATAM) | Remote (US) |  | Masters | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000126848240?utm_source=aprameyak) | Nov 4 |
+| ↳ | Systems Engineer, New College Grad – 2026 (LATAM) | Remote (US) |  | Masters | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000126848249?utm_source=aprameyak) | Nov 4 |
+| ↳ | Full-Stack Developer | Remote (US) |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000063008648?utm_source=aprameyak) | Nov 4 |
+| Keenfinity | Associate DevOps Software Engineer | Fairport, NY |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Keenfinity/744000159681439?utm_source=aprameyak) | Nov 4 |
+| M&T Bank | 2027 Technology Development Program - Operating Systems Engineer | Buffalo, NY | Spring 2027 | Masters | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Operating-Systems-Engineer_R91770?utm_source=aprameyak) | Nov 4 |
+| ↳ | 2027 Technology Development Program - Cloud Storage & Data Protection Engineer | Buffalo, NY | Spring 2027 | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cloud-Storage---Data-Protection-Engineer_R91745?utm_source=aprameyak) | Nov 4 |
+| ↳ | 2027 Enterprise Operations Development Program- Enterprise Fraud Track | Buffalo, NY | Spring 2027 | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--Enterprise-Fraud-Track_R91918?utm_source=aprameyak) | Nov 4 |
+| ↳ | 2027 Enterprise Operations Development Program- Enterprise Operations Enablement Track | Buffalo, NY | Spring 2027 | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--Enterprise-Operations-Enablement-Track_R91911?utm_source=aprameyak) | Nov 4 |
+| ↳ | 2027 Enterprise Operations Development Program- The Contact Center Analysis Track | Buffalo, NY | Spring 2027 | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--The-Contact-Center-Analysis-Track_R91914?utm_source=aprameyak) | Nov 4 |
 | Microchip Technology | Engineer I-Software | Toronto, ON |  | Undergrad | [Apply](https://microchiphr.wd5.myworkdayjobs.com/en-US/External/job/Canada---Toronto---67-Yonge-Street-10th-Floor/Engineer-I-Software_R3783-26?utm_source=aprameyak) | Nov 4 |
 | Randstad | Certified Java Developer with Both Java and C# | Plano, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Randstad4/743999657004871?utm_source=aprameyak) | Nov 4 |
+| Savannah River National Laboratory | Entry Level Linux Systems Administrator | Aiken, SC |  | Masters | [Apply](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2238?utm_source=aprameyak) | Nov 4 |
 | Sherwin-Williams | Full Stack Application Developer | Cleveland, OH |  | Undergrad | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628221?utm_source=aprameyak) | Nov 4 |
 | Vanderbilt University | Assoc. Application Developer | Nashville, TN |  | Undergrad | [Apply](https://ecsr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10009052?utm_source=aprameyak) | Nov 4 |
+| Vizient | Associate Software Engineer (Hybrid) | Irving, TX 75062 Vizient Corporate HQ |  | Undergrad | [Apply](https://vizient.wd1.myworkdayjobs.com/en-US/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35731R-1?utm_source=aprameyak) | Nov 4 |
 | AbbVie | Associate Device Software Engineer | Irvine, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016568546?utm_source=aprameyak) | Nov 3 |
 | AECOM | Entry-Level Digital Solutions Business Analyst | Remote (US) |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159214369?utm_source=aprameyak) | Nov 3 |
 | Applied Information Sciences | Power Platform Developer | Remote (US) |  | Undergrad | [Apply](https://appliedis.wd5.myworkdayjobs.com/en-US/ais_careers/job/USA-Remote/Power-Platform-Developer_JR2026001374-1?utm_source=aprameyak) | Nov 3 |
