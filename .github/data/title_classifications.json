@@ -2401,9 +2401,9 @@
     "v": ""
   },
   "curriculum developer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -24513,9 +24513,9 @@
     "v": ""
   },
   "channel partnerships manager, investor ecosystems (vc & pe)": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -48590,9 +48590,10 @@
     "b": "s"
   },
   "senior infrastructure security engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior infrastructure software engineer": {
