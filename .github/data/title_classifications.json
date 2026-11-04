@@ -71507,9 +71507,10 @@
   },
   "internship": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "operations associate (university hire) ": {
     "t": false,
