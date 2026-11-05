@@ -1,11 +1,13 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1079 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1081 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| RTX | Part Time Systems Engineer Co-Op (Remote) | Aurora, CO | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Systems-Engineer-Co-Op--Remote-_01886102?utm_source=aprameyak) | Nov 5 |
+| Ryder System | Information Technology Corporate Fellowship - Hiring Our Heroes - Remote | Coral Gables, FL | Co-op | Undergrad | [Apply](https://ryder.wd5.myworkdayjobs.com/en-US/RyderCareers/job/USA---Coral-Gables-FL-HQ/Information-Technology-Corporate-Fellowship---Hiring-Our-Heroes---Remote_R185920?utm_source=aprameyak) | Nov 5 |
 | AECOM | Internship and Entry-Level Graduate Opportunities - California State University, Sacramento Fall 2026 Engineering & Computer Science Career Fair | Sacramento, CA | Fall 2026 | Undergrad | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159662579?utm_source=aprameyak) | Nov 4 |
 | Bank of Montreal | Software Developer, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638-3?utm_source=aprameyak) | Nov 4 |
 | Bose | Software/DSP Research Engineer Co-op | Framingham, MA | Co-op | Undergrad | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369?utm_source=aprameyak) | Nov 4 |
