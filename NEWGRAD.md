@@ -1,27 +1,38 @@
 # 🎓 New Grad 2027
 
-1358 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1369 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| BiblioCommons | PEY - Junior Fullstack Engineer | Canada - Ontario |  | Undergrad | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/en-US/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72456?utm_source=aprameyak) | Nov 5 |
+| ↳ | PEY - Junior Fullstack Engineer | Canada - Ontario |  | Undergrad | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/en-US/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72454?utm_source=aprameyak) | Nov 5 |
 | Carnegie Mellon University | Associate Software Engineer | Pittsburgh, PA |  | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/Associate-Software-Engineer_2025315-1?utm_source=aprameyak) | Nov 5 |
+| Ciena | Software Design/Engineer - New Grad | Ottawa, ON |  | Undergrad | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059?utm_source=aprameyak) | Nov 5 |
 | EVERSANA | AI Solutions Engineer (Generative AI & Agentic AI) | Remote (US) |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/EVERSANA1/744000159792319?utm_source=aprameyak) | Nov 5 |
+| Intelerad | Junior Software Developer (Java/Linux/PostgresSQL) | Montreal, QC |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Intelerad/744000159926970?utm_source=aprameyak) | Nov 5 |
 | Northrop Grumman | 2027 Associate Cyber Systems Engineer - Roy UT | Roy, UT | Spring 2027 | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Cyber-Systems-Engineer---Roy-UT_R10259435?utm_source=aprameyak) | Nov 5 |
 | ↳ | 2027 Associate Systems Engineer – Sykesville MD | Sykesville, MD | Spring 2027 | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-Systems-Engineer---Sykesville-MD_R10258617-1?utm_source=aprameyak) | Nov 5 |
 | ↳ | 2027 Associate Mission Assurance Engineer | San Diego, CA | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Mission-Assurance-Engineer_R10259033?utm_source=aprameyak) | Nov 5 |
+| ↳ | 2027 Associate Systems Test Engineer / Systems Test Engineer - Huntsville AL | Huntsville, AL | Spring 2027 | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Systems-Test-Engineer---Systems-Test-Engineer---Huntsville-AL_R10259570?utm_source=aprameyak) | Nov 5 |
+| ↳ | 2027 Associate Systems Engineer (AHT) - Dulles VA | Dulles, VA | Spring 2027 | Masters | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Systems-Engineer--AHT----Dulles-VA_R10259487?utm_source=aprameyak) | Nov 5 |
 | Primerica | Full Stack Developer | Duluth, GA |  | Undergrad | [Apply](https://primerica.wd1.myworkdayjobs.com/en-US/pri/job/Duluth-GA/Full-Stack-Developer_R-126032026-2?utm_source=aprameyak) | Nov 5 |
 | Smithfield Foods | Career Foundation Program (CFP) - Data Analytics - May/Spring 2027 Graduates | Smithfield, VA | Spring 2027 | Undergrad | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/en-US/Careers/job/Smithfield-VA/Career-Foundation-Program--CFP----Data-Analytics---May-Spring-2027-Graduates_R-2026-15044?utm_source=aprameyak) | Nov 5 |
 | Smiths Detection Group | Customer Reliability Engineer or Technical Specialist (Entry-Level) | Pasadena, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000153858961?utm_source=aprameyak) | Nov 5 |
+| StubHub | Software Engineer I (New Grad) - Consumer Experience | New York, NY |  | Undergrad | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101?utm_source=aprameyak) | Nov 5 |
 | The Boeing Company | Associate Software Engineer | Hazelwood, MO |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462?utm_source=aprameyak) | Nov 5 |
 | ↳ | Associate and Mid-Level Software Engineers | Berkeley, MO |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Berkeley-MO/Associate-and-Mid-Level-Software-Engineers_JR2026520920?utm_source=aprameyak) | Nov 5 |
 | ↳ | Full Stack Software Engineer (Associate/Experienced) | Herndon, VA |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Herndon-VA/Full-Stack-Software-Engineer--Associate-Experienced-_JR2026522836?utm_source=aprameyak) | Nov 5 |
 | ↳ | Java Software Engineer (Associate/Experienced) | Herndon, VA |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Herndon-VA/Java-Software-Engineer--Associate-Experienced-_JR2026522825?utm_source=aprameyak) | Nov 5 |
+| ↳ | DevOps Developer (Associate) | Seal Beach, CA |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Seal-Beach-CA/DevOps-Developer--Associate-_JR2026528876?utm_source=aprameyak) | Nov 5 |
 | Twitch | Software Dev Engineer I - Security Platform | San Francisco, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8929545002?utm_source=aprameyak) | Nov 5 |
 | ↳ | Software Dev Engineer I - Security Platform | Irvine, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8931345002?utm_source=aprameyak) | Nov 5 |
 | ↳ | Software Dev Engineer I - Security Platform | Seattle, WA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8931343002?utm_source=aprameyak) | Nov 5 |
 | Veterans United | Full Stack Developer | Columbia, MO |  | Undergrad | [Apply](https://veteransunited.wd1.myworkdayjobs.com/en-US/VUHL/job/Columbia-MO/Full-Stack-Developer_R6006?utm_source=aprameyak) | Nov 5 |
+| WGU | Associate Software Engineer | Salt Lake City, UT |  | Undergrad | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-026548?utm_source=aprameyak) | Nov 5 |
+| Wise | Graduate Analyst | Austin, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Wise/744000159906440?utm_source=aprameyak) | Nov 5 |
+| WSP | Early Career Technician - Design Support | Baton Rouge, LA |  | Undergrad | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98954?utm_source=aprameyak) | Nov 5 |
 | Amentum | Software Tools Developer, Entry Level | Huntsville, AL |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727?utm_source=aprameyak) | Nov 4 |
 | ASSYST | Full Stack Developer (Entry Level) | Sterling, VA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/assystinc/jobs/4436912009?utm_source=aprameyak) | Nov 4 |
 | CACI | Java Developer | Sarasota, FL |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Sarasota-FL-US/Java-Developer_334675?utm_source=aprameyak) | Nov 4 |

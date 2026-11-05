@@ -1,13 +1,23 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1081 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1091 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Bank of Montreal | Machine Learning Developer, Winter 2027 ( Co-op/Internship) - 4 months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620?utm_source=aprameyak) | Nov 5 |
+| ↳ | Junior Software Developer, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650?utm_source=aprameyak) | Nov 5 |
+| Magna | IT Co-op Student | Brampton, ON | Co-op | Undergrad | [Apply](https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Brampton-Ontario-CA/IT-Co-op-Student_R00268028-1?utm_source=aprameyak) | Nov 5 |
+| Mass General Brigham | Co-op Student - Imaging | Boston-MA | Co-op | Undergrad | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Co-op-Student---Imaging_RQ4083494?utm_source=aprameyak) | Nov 5 |
+| ↳ | Co-Op Student - M. Waldor Lab | Boston-MA | Co-op | Undergrad | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Co-Op-Student---M-Waldor-Lab_RQ4082930-1?utm_source=aprameyak) | Nov 5 |
+| ↳ | Coop, Research | Boston, MA | Co-op | Undergrad | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/20-Shattuck-Street--Boston-Thorn-Research-Building/Coop--Research_RQ4083469?utm_source=aprameyak) | Nov 5 |
+| Regal Rexnord | Engineering Technology Lab Co-op | Tipp City, OH | Co-op | Undergrad | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/en-US/careers/job/Tipp-City-Ohio-United-States/Engineering-Technology-Lab-Co-op_R26_05926-1?utm_source=aprameyak) | Nov 5 |
 | RTX | Part Time Systems Engineer Co-Op (Remote) | Aurora, CO | Co-op | Masters | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Systems-Engineer-Co-Op--Remote-_01886102?utm_source=aprameyak) | Nov 5 |
 | Ryder System | Information Technology Corporate Fellowship - Hiring Our Heroes - Remote | Coral Gables, FL | Co-op | Undergrad | [Apply](https://ryder.wd5.myworkdayjobs.com/en-US/RyderCareers/job/USA---Coral-Gables-FL-HQ/Information-Technology-Corporate-Fellowship---Hiring-Our-Heroes---Remote_R185920?utm_source=aprameyak) | Nov 5 |
+| SAIC | Junior Azure Cloud Administrator | Rockville, MD | Co-op | Undergrad | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618864?utm_source=aprameyak) | Nov 5 |
+| Shield AI | June 2027 Co-Op - Software Engineer Intern | Dallas, TX | Co-op | Undergrad | [Apply](https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949?utm_source=aprameyak) | Nov 5 |
+| Xsolla | Junior Frontend Developer, Custom Webshop Development | Montreal, QC | Co-op | Undergrad | [Apply](https://jobs.lever.co/xsolla/a71646ad-6ac5-4103-b68c-3d399fc10b35?utm_source=aprameyak) | Nov 5 |
 | AECOM | Internship and Entry-Level Graduate Opportunities - California State University, Sacramento Fall 2026 Engineering & Computer Science Career Fair | Sacramento, CA | Fall 2026 | Undergrad | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159662579?utm_source=aprameyak) | Nov 4 |
 | Bank of Montreal | Software Developer, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638-3?utm_source=aprameyak) | Nov 4 |
 | Bose | Software/DSP Research Engineer Co-op | Framingham, MA | Co-op | Undergrad | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369?utm_source=aprameyak) | Nov 4 |
