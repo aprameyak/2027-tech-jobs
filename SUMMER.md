@@ -3686,7 +3686,7 @@
 | Bild AI | AI/SWE Intern | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364?utm_source=aprameyak) | Jul 23 |
 | Chicago Trading Company | Software Engineering Internship | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005?utm_source=aprameyak) | Jul 23 |
 | Cisive | Software Development Intern | Remote (US) | Undergrad | [Apply](https://cisive.wd108.myworkdayjobs.com/en-US/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290?utm_source=aprameyak) | Jul 23 |
-| Clarity Innovations | Junior Software Engineer Internship | Herndon, VA | Undergrad | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007?utm_source=aprameyak) | Jul 23 |
+| Clarity Innovations 🇺🇸 | Junior Software Engineer Internship | Herndon, VA | Undergrad | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007?utm_source=aprameyak) | Jul 23 |
 | D. E. Shaw | Software Developer Intern - New York | New York, NY | Undergrad | [Apply](https://www.deshaw.com/careers/5894) | Jul 23 |
 | ↳ | Software Developer - Ph.D. Intern - New York | New York, NY | PhD | [Apply](https://www.deshaw.com/careers/5893) | Jul 23 |
 | Docugami | Data Science PhD Intern | Kirkland, WA | PhD | [Apply](https://job-boards.greenhouse.io/docugami/jobs/4192122003?utm_source=aprameyak) | Jul 23 |
@@ -3715,7 +3715,7 @@
 | Akuna Capital | Quantitative Research Intern | Chicago, IL | Undergrad | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) | Jul 21 |
 | ↳ | Quantitative Development & Strategy Intern | Chicago, IL | Undergrad | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) | Jul 21 |
 | ↳ | Platform Engineer Intern | Chicago, IL | Undergrad | [Apply](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) | Jul 21 |
-| CloudFit Software | Summer Intern, Early Interest (Software / AI/ML / Cyber) | Remote (US) | Undergrad | [Apply](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo?utm_source=aprameyak) | Jul 21 |
+| CloudFit Software 🇺🇸 | Summer Intern, Early Interest (Software / AI/ML / Cyber) | Remote (US) | Undergrad | [Apply](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo?utm_source=aprameyak) | Jul 21 |
 | Cresta | Software Engineer Intern | Toronto, ON | Undergrad | [Apply](https://job-boards.greenhouse.io/cresta/jobs/4123841008?utm_source=aprameyak) | Jul 21 |
 | ↳ | Machine Learning Engineering Intern | Toronto, ON | Undergrad | [Apply](https://job-boards.greenhouse.io/cresta/jobs/4123863008?utm_source=aprameyak) | Jul 21 |
 | ↳ | Forward Deployed Engineering Intern (AI Agent) | Toronto, ON | Undergrad | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5106468008?utm_source=aprameyak) | Jul 21 |
