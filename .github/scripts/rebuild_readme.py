@@ -200,7 +200,7 @@ def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n
         )
 
     toc = (
-        f'**Browse the searchable site:** [aprameyak-jobs.vercel.app](https://aprameyak-jobs.vercel.app/)\n\n'
+        f'**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)\n\n'
         f'- [☀️ Summer 2027 Internships]({TOC_HREFS["summer"]}) ({summer_n})\n'
         f'- [🔄 Off-Cycle Internships & Co-ops]({TOC_HREFS["offcycle"]}) ({offcycle_n})\n'
         f'- [🎓 New Grad 2027]({TOC_HREFS["newgrad"]}) ({newgrad_n})\n'
