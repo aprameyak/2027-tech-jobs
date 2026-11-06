@@ -29297,7 +29297,7 @@
   },
   "manager, site reliability engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -40532,7 +40532,7 @@
   },
   "capital program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -70680,7 +70680,7 @@
   },
   "intern engineer - summer 2027": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -72028,7 +72028,7 @@
   },
   "summer intern 2027 - general accounts": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -75595,7 +75595,7 @@
   },
   "events intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -79082,7 +79082,7 @@
   },
   "design engineer intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "cs-is-v2",
     "a": 0,
     "b": "s"
@@ -130793,5 +130793,18 @@
     "v": "cs-is-v4",
     "a": 1,
     "b": "s"
+  },
+  "software engineer, ai/ml, technical delivery, google public sector": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "staff software engineer, google ads, full stack": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
