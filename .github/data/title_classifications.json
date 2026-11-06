@@ -29297,7 +29297,7 @@
   },
   "manager, site reliability engineering": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -70680,7 +70680,7 @@
   },
   "intern engineer - summer 2027": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -72028,7 +72028,7 @@
   },
   "summer intern 2027 - general accounts": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0
   },
@@ -75595,7 +75595,7 @@
   },
   "events intern": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0
   },
@@ -79082,7 +79082,7 @@
   },
   "design engineer intern": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "cs-is-v2",
     "a": 0,
     "b": "s"
