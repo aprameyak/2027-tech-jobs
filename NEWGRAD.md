@@ -1,11 +1,19 @@
 # 🎓 New Grad 2027
 
-1369 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1377 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Celonis | Associate Deployment Engineer - Galaxy Graduate Program | New York, NY |  | Undergrad | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003&utm_source=aprameyak) | Nov 6 |
+| ↳ | Associate Deployment Engineer - Galaxy Graduate Program | Raleigh, NC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627708003?gh_jid=7627708003&utm_source=aprameyak) | Nov 6 |
+| Roserocket | Junior Software Engineer | Toronto, ON |  | Undergrad | [Apply](https://jobs.ashbyhq.com/rose%20rocket/5ae4082e-4c3e-416f-a063-b00398e71542/application?utm_source=aprameyak) | Nov 6 |
+| Sia Partners | Associate Consultant, Generative AI | New York, NY |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Sia/744000148302879?utm_source=aprameyak) | Nov 6 |
+| Woongjin | Java Developer - Bilingual (English / Korean) | Irvine, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000126568949?utm_source=aprameyak) | Nov 6 |
+| Zen3 | ReactJS UI Developer | Redmond, WA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Zen31/743999677887765?utm_source=aprameyak) | Nov 6 |
+| ↳ | SPO Sharepoint Online Developer | Renton, WA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Zen31/743999666191222?utm_source=aprameyak) | Nov 6 |
+| ↳ | Game Designer/Developer (C#/Java, C++ Skills) | Redmond, WA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Zen31/743999664946288?utm_source=aprameyak) | Nov 6 |
 | BiblioCommons | PEY - Junior Fullstack Engineer | Canada - Ontario |  | Undergrad | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/en-US/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72456?utm_source=aprameyak) | Nov 5 |
 | ↳ | PEY - Junior Fullstack Engineer | Canada - Ontario |  | Undergrad | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/en-US/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72454?utm_source=aprameyak) | Nov 5 |
 | Carnegie Mellon University | Associate Software Engineer | Pittsburgh, PA |  | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/Associate-Software-Engineer_2025315-1?utm_source=aprameyak) | Nov 5 |

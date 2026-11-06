@@ -1,11 +1,15 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1091 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1095 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| CACI | AI/ML Engineering Co-op - Spring 2027 | King of Prussia, PA | Co-op | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1?utm_source=aprameyak) | Nov 6 |
+| ↳ | Software Engineering Co-op - Spring 2027 | King of Prussia, PA | Co-op | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665?utm_source=aprameyak) | Nov 6 |
+| RTX | Enterprise Services Engineering Co-Op (Spring/Summer 2027) | East Hartford, CT | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-PH--400-Main-St--BLDG-PH/Enterprise-Services-Engineering-Co-Op--Spring-Summer-2027-_01884910?utm_source=aprameyak) | Nov 6 |
+| The Walt Disney Company | Disney Consumer Products 3D Modeler Intern, Spring 2027 | Kissimmee, FL | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Kissimmee-FL-USA/Disney-Consumer-Products-3D-Modeler-Intern--Spring-2027_10160429-1?utm_source=aprameyak) | Nov 6 |
 | Bank of Montreal | Machine Learning Developer, Winter 2027 ( Co-op/Internship) - 4 months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620?utm_source=aprameyak) | Nov 5 |
 | ↳ | Junior Software Developer, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650?utm_source=aprameyak) | Nov 5 |
 | Magna | IT Co-op Student | Brampton, ON | Co-op | Undergrad | [Apply](https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Brampton-Ontario-CA/IT-Co-op-Student_R00268028-1?utm_source=aprameyak) | Nov 5 |

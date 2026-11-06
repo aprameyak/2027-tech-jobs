@@ -1,11 +1,42 @@
 # ☀️ Summer 2027 Internships
 
-3786 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+3817 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| AmTrust Financial | Financial Systems Support Intern - Summer 2027 | Dallas, TX | Masters | [Apply](https://careers-amtrustgroup.icims.com/jobs/20996/seasonal-associate---financial-systems-support-intern/job?utm_source=aprameyak) | Nov 6 |
+| ↳ | IT Audit Intern - Summer 2027 | <details><summary>**2 locations**</summary>Cleveland, OH</br>Jersey City, NJ</details> | Undergrad | [Apply](https://careers-amtrustgroup.icims.com/jobs/21034/seasonal-associate---it-audit-intern/job?utm_source=aprameyak) | Nov 6 |
+| Clera | Computer Vision & Robotics Intern | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/clera/335d1ca9-1fda-45d3-9756-122324acbabb/application?utm_source=aprameyak) | Nov 6 |
+| Metamorphic | Research and Engineering Intern (Summer 2027) | Palo Alto, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a/application?utm_source=aprameyak) | Nov 6 |
+| Nokia | Service Router Test Student | Remote (Canada) | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41069?utm_source=aprameyak) | Nov 6 |
+| Nooks | Software Engineer, Intern | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb/application?utm_source=aprameyak) | Nov 6 |
+| Oshkosh | Engineer Intern - Systems (Summer 2027) | Dodge Center, MN | Masters | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Systems--Summer-2027-_R49830-1?utm_source=aprameyak) | Nov 6 |
+| RTX | Digital Technologies Project Management Office Operations Intern (Summer 2027) | Cedar Rapids, IA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Digital-Technologies-Project-Management-Office-Operations-Intern--Summer-2027-_01884834?utm_source=aprameyak) | Nov 6 |
+| SAS | Summer 2027 - Data Scientist Intern | Cary, NC | Undergrad | [Apply](https://careers-sas.icims.com/jobs/42786/summer-2027---data-scientist-intern/job?utm_source=aprameyak) | Nov 6 |
+| Stripe | Product Design Intern | <details><summary>**3 locations**</summary>San Francisco, CA</br>Seattle, WA</br>New York, NY</details> | Undergrad | [Apply](https://stripe.com/jobs/search?gh_jid=8332681) | Nov 6 |
+| ↳ | Product Design Intern | Toronto, ON | Undergrad | [Apply](https://stripe.com/jobs/search?gh_jid=8332683) | Nov 6 |
+| Stryker | Summer 2027 Internship - Interaction Design - Washington | Redmond, WA | Undergrad | [Apply](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Summer-2027-Internship---Interaction-Design---Washington_R572870?utm_source=aprameyak) | Nov 6 |
+| T-Mobile | Summer 2027 Product Management Internship | Philadelphia, PA | Undergrad | [Apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735?utm_source=aprameyak) | Nov 6 |
+| ↳ | Summer 2027 Associate Technical Product Manager Internship | Frisco, TX | Undergrad | [Apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499?utm_source=aprameyak) | Nov 6 |
+| ↳ | Summer 2027 Business Development, Physical & Edge AI Internship | Bellevue, WA | Undergrad | [Apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Business-Development--Physical---Edge-AI-Internship_REQ380654?utm_source=aprameyak) | Nov 6 |
+| TC Energy | Intern, Enterprise Security - Detection & Response | Calgary, AB | Undergrad | [Apply](https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Calgary-Alberta/Intern--Enterprise-Security---Detection---Response_JR-10952?utm_source=aprameyak) | Nov 6 |
+| Texas A&M AgriLife Research | Student Technician | College Station, TX | Undergrad | [Apply](https://tamus.wd1.myworkdayjobs.com/en-US/AgriLife_Research_External/job/College-Station-TX/Student-Technician_R-098514?utm_source=aprameyak) | Nov 6 |
+| The Federal Reserve System | Undergraduate Intern – Research Focus | Minneapolis, MN | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Undergraduate-Intern---Research-Focus_R-0000033978-1?utm_source=aprameyak) | Nov 6 |
+| ↳ | Undergraduate Intern – Technology Focus | Minneapolis, MN | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Undergraduate-Intern---Technology-Focus_R-0000033975-1?utm_source=aprameyak) | Nov 6 |
+| ↳ | 2027 Summer Internship Program - Information Security Intern | Atlanta, GA | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910?utm_source=aprameyak) | Nov 6 |
+| ↳ | 2027 Summer Internship Program - IT Asset Management Intern | Atlanta, GA | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---IT-Asset-Management-Intern_R-0000033912?utm_source=aprameyak) | Nov 6 |
+| ↳ | 2027 Summer Internship - Knowledge and Information Management Intern | Atlanta, GA | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship---Knowledge-and-Information-Management-Intern_R-0000033908?utm_source=aprameyak) | Nov 6 |
+| ↳ | Oklahoma City – Regional Affairs Economics, Internship – Summer 2027 | Oklahoma City, OK | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Oklahoma-City-OK/Oklahoma-City---Regional-Affairs-Economics--Internship---Summer-2027_R-0000034004?utm_source=aprameyak) | Nov 6 |
+| ↳ | 2027 Summer Internship Program - Supervision & Regulation (Analytics, Innovation and Modeling) | Atlanta, GA | Undergrad | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Analytics--Innovation-and-Modeling-_R-0000033861?utm_source=aprameyak) | Nov 6 |
+| TMX Group | Audio Visual Support Intern | Toronto, ON | Undergrad | [Apply](https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Audio-Visual-Support-Intern_R-6653?utm_source=aprameyak) | Nov 6 |
+| ↳ | Junior GRC Analyst Intern | Toronto, ON | Undergrad | [Apply](https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672?utm_source=aprameyak) | Nov 6 |
+| ↳ | AI Governance & Policy Intern | Toronto, ON | Undergrad | [Apply](https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Governance---Policy-Co-op-Student_R-6648?utm_source=aprameyak) | Nov 6 |
+| Zoox | Information Technology & Applications Intern [Summer 2027] | Foster City, CA | Undergrad | [Apply](https://jobs.lever.co/zoox/f35b2447-360f-4945-8ae8-16870e8d7558?utm_source=aprameyak) | Nov 6 |
+| ↳ | Software Engineer Intern, Autonomy Software [Summer 2027] | Foster City, CA | Undergrad | [Apply](https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877?utm_source=aprameyak) | Nov 6 |
+| ↳ | Software Engineer Intern, Software Platforms & Product [Summer 2027] | Foster City, CA | Masters | [Apply](https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520?utm_source=aprameyak) | Nov 6 |
+| ↳ | Software Engineer Intern, Software Systems [Summer 2027] | Foster City, CA | Masters | [Apply](https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20?utm_source=aprameyak) | Nov 6 |
 | Acumatica | Intern Developer/ Stagiaire développeur | Montreal, QC | Undergrad | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000159911799?utm_source=aprameyak) | Nov 5 |
 | Booz Allen Hamilton | University, AI RAN Telecommunications Engineer Intern | McLean, VA | Undergrad | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024?utm_source=aprameyak) | Nov 5 |
 | BorgWarner | Software Test Intern | Auburn Hills, MI | Undergrad | [Apply](https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1?utm_source=aprameyak) | Nov 5 |
