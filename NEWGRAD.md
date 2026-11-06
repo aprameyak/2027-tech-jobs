@@ -1,14 +1,29 @@
 # 🎓 New Grad 2027
 
-1377 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1392 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| BP | Graduate – Digital - Products & Projects - Houston | Houston, TX |  | Undergrad | [Apply](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Graduate---Digital---Products---Projects---Houston_RQ117959-1?utm_source=aprameyak) | Nov 6 |
+| ↳ | Graduate – Digital – Data & AI and Digital Engineering – Houston | Houston, TX |  | Undergrad | [Apply](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Graduate---Digital---Data---AI-and-Digital-Engineering---Houston_RQ117961-1?utm_source=aprameyak) | Nov 6 |
+| CACI | Web Developer | Chantilly, VA |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Chantilly-VA-US/Web-Developer_334729?utm_source=aprameyak) | Nov 6 |
+| ↳ | Ruby on Rails Developer | Chantilly, VA |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Chantilly-VA-US/Ruby-on-Rails-Developer_334400?utm_source=aprameyak) | Nov 6 |
+| ↳ | Web Developer | Chantilly, VA |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Chantilly-VA-US/Web-Developer_334401?utm_source=aprameyak) | Nov 6 |
 | Celonis 🛂 | Associate Deployment Engineer - Galaxy Graduate Program | New York, NY |  | Undergrad | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003&utm_source=aprameyak) | Nov 6 |
 | ↳ | Associate Deployment Engineer - Galaxy Graduate Program | Raleigh, NC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627708003?gh_jid=7627708003&utm_source=aprameyak) | Nov 6 |
+| Dexterra Group | Data Solutions Engineer | Calgary, AB |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000160296260?utm_source=aprameyak) | Nov 6 |
+| ↳ | Data Solutions Engineer | Mississauga, ON |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000160298339?utm_source=aprameyak) | Nov 6 |
+| Fortinet | Early Careers: Technical Content DevOps Developer | Burnaby, BC |  | Undergrad | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24894?utm_source=aprameyak) | Nov 6 |
+| ↳ | Early Careers: Software Engineer – Cloud Platform (FortiSIEM) | Santa Clara, CA |  | Undergrad | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23620?utm_source=aprameyak) | Nov 6 |
+| Hootsuite | Junior Software Developer | <details><summary>**2 locations**</summary>Toronto, ON</br>Vancouver, BC</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/hootsuite/jobs/8359647?utm_source=aprameyak) | Nov 6 |
+| LivaNova | Software Test Engineer I | Houston, TX |  | Undergrad | [Apply](https://livanova.wd5.myworkdayjobs.com/en-US/search/job/Houston-Texas-United-States/Software-Test-Engineer-I_JR-14953?utm_source=aprameyak) | Nov 6 |
+| Moog | Associate Software Engineer | Buffalo, NY |  | Undergrad | [Apply](https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Associate-Software-Engineer_R-26-21135?utm_source=aprameyak) | Nov 6 |
+| Nextech Systems | Associate Software Support Representative (Remote - US) | Remote (US) |  | Undergrad | [Apply](https://jobs.lever.co/nextech/c16a9ae9-d134-426d-8c24-9dc8b2a38757?utm_source=aprameyak) | Nov 6 |
+| Raydar | Research Scientist, AI Safety | Remote (US) |  | Undergrad | [Apply](https://apply.workable.com/raydar/j/FB111405FE/) | Nov 6 |
 | Roserocket | Junior Software Engineer | Toronto, ON |  | Undergrad | [Apply](https://jobs.ashbyhq.com/rose%20rocket/5ae4082e-4c3e-416f-a063-b00398e71542/application?utm_source=aprameyak) | Nov 6 |
+| Sherwin-Williams | 2027 Engineering Accelerated Development Program - Rochester, PA | Rochester, PA | Spring 2027 | Undergrad | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620849?utm_source=aprameyak) | Nov 6 |
 | Sia Partners | Associate Consultant, Generative AI | New York, NY |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Sia/744000148302879?utm_source=aprameyak) | Nov 6 |
 | Woongjin | Java Developer - Bilingual (English / Korean) | Irvine, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/WJCompany/744000126568949?utm_source=aprameyak) | Nov 6 |
 | Zen3 | ReactJS UI Developer | Redmond, WA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Zen31/743999677887765?utm_source=aprameyak) | Nov 6 |

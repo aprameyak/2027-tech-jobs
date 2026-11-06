@@ -1,15 +1,28 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1095 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1108 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Bank of Montreal | Technology Research Associate, Winter 2027 (Co-op/Internship) - 4 months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Technology-Research-Associate--Winter-2027--Co-op-Internship----4-months_R260024978?utm_source=aprameyak) | Nov 6 |
+| ↳ | Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1?utm_source=aprameyak) | Nov 6 |
+| BMO Financial Group | Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097?utm_source=aprameyak) | Nov 6 |
 | CACI | AI/ML Engineering Co-op - Spring 2027 | King of Prussia, PA | Co-op | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1?utm_source=aprameyak) | Nov 6 |
 | ↳ | Software Engineering Co-op - Spring 2027 | King of Prussia, PA | Co-op | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665?utm_source=aprameyak) | Nov 6 |
+| fgf brands | IT Help Desk Co-Op (Winter 2027) | Remote (US) | Co-op | Undergrad | [Apply](https://careerscoopinternen-fgfbrands.icims.com/jobs/29313/it-help-desk-co-op-%28winter-2027%29/job?utm_source=aprameyak) | Nov 6 |
+| Globus Medical | Software COOP | Methuen, MA | Co-op | Undergrad | [Apply](https://globusmedical.wd5.myworkdayjobs.com/en-US/GMED_Careers/job/Methuen-MA/Software-COOP_JR108063?utm_source=aprameyak) | Nov 6 |
+| Hootsuite | Co-op/Intern, DevOps - Winter 2027 | Alberta, BC | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/hootsuite/jobs/8359242?utm_source=aprameyak) | Nov 6 |
+| ↳ | Co-op/Intern, Software Development - Winter 2027 | <details><summary>**2 locations**</summary>Vancouver, BC</br>Toronto, ON</details> | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/hootsuite/jobs/8360176?utm_source=aprameyak) | Nov 6 |
+| Lila Sciences | Co-op, AI for Protein Design | San Francisco, CA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4480337009?utm_source=aprameyak) | Nov 6 |
 | RTX | Enterprise Services Engineering Co-Op (Spring/Summer 2027) | East Hartford, CT | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-PH--400-Main-St--BLDG-PH/Enterprise-Services-Engineering-Co-Op--Spring-Summer-2027-_01884910?utm_source=aprameyak) | Nov 6 |
+| SharkNinja | Spring 2027: AI/Sharks Applied AI & Analytics Co-op (January to June) | <details><summary>**2 locations**</summary>Miami, FL</br>Needham, MA</details> | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006?utm_source=aprameyak) | Nov 6 |
+| Skydio | UX Product Design Intern - Winter 2027 | San Mateo, CA | Winter 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1/application?utm_source=aprameyak) | Nov 6 |
+| Sun Life | Student, Associate DevOps Engineer (Winter 2027) | Waterloo, ON | Winter 2027 | Undergrad | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Associate-DevOps-Engineer--Winter-2027-_JR00127798?utm_source=aprameyak) | Nov 6 |
+| ↳ | Student, Telephony Analyst, Co-op (Winter and Summer 2027) | Toronto, ON | Co-op | Undergrad | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Telephony-Analyst--Co-op--Winter-and-Summer-2027-_JR00129532?utm_source=aprameyak) | Nov 6 |
 | The Walt Disney Company | Disney Consumer Products 3D Modeler Intern, Spring 2027 | Kissimmee, FL | Spring 2027 | Undergrad | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Kissimmee-FL-USA/Disney-Consumer-Products-3D-Modeler-Intern--Spring-2027_10160429-1?utm_source=aprameyak) | Nov 6 |
+| TRUMPF | Application Engineering Intern/Co-op | Plymouth, MI | Co-op | Undergrad | [Apply](https://trumpf.wd3.myworkdayjobs.com/en-US/TRUMPF_Students/job/Plymouth-MI/Application-Engineering-Intern-Co-op_R00042681?utm_source=aprameyak) | Nov 6 |
 | Bank of Montreal | Machine Learning Developer, Winter 2027 ( Co-op/Internship) - 4 months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620?utm_source=aprameyak) | Nov 5 |
 | ↳ | Junior Software Developer, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650?utm_source=aprameyak) | Nov 5 |
 | Magna | IT Co-op Student | Brampton, ON | Co-op | Undergrad | [Apply](https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Brampton-Ontario-CA/IT-Co-op-Student_R00268028-1?utm_source=aprameyak) | Nov 5 |
