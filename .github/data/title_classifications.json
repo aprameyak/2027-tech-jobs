@@ -18479,9 +18479,9 @@
     "b": "s"
   },
   "staff backend software engineer- (ai platform)": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -66940,8 +66940,9 @@
   },
   "software engineering internship - san francisco ": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "software engineer (new grad program)": {
