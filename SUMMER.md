@@ -3816,7 +3816,7 @@
 | Anduril | 2027 Software Engineer Intern | <details><summary>**6 locations**</summary>Atlanta, GA</br>Boston, MA</br>Costa Mesa, CA</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details> | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007&utm_source=aprameyak) | Jul 7 |
 | Aquatic | Quantitative Researcher, Intern | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002?utm_source=aprameyak) | Jul 7 |
 | Databricks | PhD GenAI Research Scientist Intern | San Francisco, CA | PhD | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | Jul 7 |
-| IMC Trading | Software Engineer Intern | Chicago, IL | Undergrad | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101?utm_source=aprameyak) | Jul 7 |
+| IMC Trading 🛂 | Software Engineer Intern | Chicago, IL | Undergrad | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101?utm_source=aprameyak) | Jul 7 |
 | ↳ | Quantitative Trader Intern | Chicago, IL | Undergrad | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101?utm_source=aprameyak) | Jul 7 |
 | ↳ | Quantitative Research Intern (BS/MS) | Chicago, IL | Undergrad; Masters | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101?utm_source=aprameyak) | Jul 7 |
 | ↳ | Machine Learning Research Intern | Chicago, IL | Undergrad | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101?utm_source=aprameyak) | Jul 7 |
