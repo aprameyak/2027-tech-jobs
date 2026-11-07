@@ -130809,5 +130809,238 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "software engineer ii, analytics compute platform team": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer - compute & isolation": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, operations research": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, ml workload platform": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "full-stack engineer - ads engine": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "full-stack engineer - elevencreative enterprise": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "applied ai engineer intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "machine learning engineer - income insights": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "systems software engineer, bmc & management plane": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "applied ai engineer, enterprise - healthcare life sciences (hls)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, cyber safeguards": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "applied ai engineer, enterprise - edu": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, front-end (seattle)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, front-end (new york)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, back-end - go (ny)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "summer 2027 internship - phd research intern ": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "program development & operations intern (boston)": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "sr. software integration engineer, autonomy": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "software integration engineer, autonomy": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "applied ai researcher": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior software engineer, cape": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "lead product manager, agentic commerce": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff fullstack software engineer": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior manager, software engineering ": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior software engineer ii - backend": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior manager, application security": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer - coverage": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "systems engineer iii": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff member of technical staff, product": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior member of technical staff, product": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "product manager (accounting & erp)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "sr. computer vision engineers": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "sr. software systems validation engineers": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "product manager, trust & safety": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "product manager, hri (human robot interaction)": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "software system engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
