@@ -1,11 +1,27 @@
 # 🎓 New Grad 2027
 
-1392 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1408 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| AbbVie | Associate Software Engineer I | North Chicago, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016715126?utm_source=aprameyak) | Nov 7 |
+| ↳ | Associate Engineer, Technology I | North Chicago, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016714871?utm_source=aprameyak) | Nov 7 |
+| Analysis Group | Analyst - Generalist (2027 Start Date) | <details><summary>**6 locations**</summary>Chicago, IL</br>Denver, CO</br>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Washington, DC</details> |  | Undergrad | [Apply](https://analystcareers-analysisgroup.icims.com/jobs/3004/analyst---generalist-%282027-start-date%29/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Analyst - Generalist - London (2027 Start Date) | Remote (US) |  | Undergrad | [Apply](https://analystcareers-analysisgroup.icims.com/jobs/2956/analyst---generalist---london-%282027-start-date%29/job?utm_source=aprameyak) | Nov 7 |
+| Beyond New Horizons | Early Career Technology Development Engineer | Arnold AFB, TN |  | Undergrad | [Apply](https://careers-bnh.icims.com/jobs/25285/early-career-technology-development-engineer/job?utm_source=aprameyak) | Nov 7 |
+| Bosch | Research Scientist- Robotics AI | Sunnyvale, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000160309940?utm_source=aprameyak) | Nov 7 |
+| Corgan | Project Specialist, Architecture \| 2026 New Grad - Albany Data Centers | Albany, NY | Spring 2026 | Undergrad | [Apply](https://campus-us-corgan.icims.com/jobs/3876/project-specialist%2c-architecture-%7c-2026-new-grad---albany-data-centers/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Project Specialist, Architecture \| 2026 New Grad - Orlando Data Centers | Orlando, FL | Spring 2026 | Undergrad | [Apply](https://campus-us-corgan.icims.com/jobs/3668/project-specialist%2c-architecture-%7c-2026-new-grad---orlando-data-centers/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Project Specialist, Architecture \| 2026 New Grad - Abilene Data Centers | Abilene, TX | Spring 2026 | Undergrad | [Apply](https://campus-us-corgan.icims.com/jobs/3667/project-specialist%2c-architecture-%7c-2026--new-grad---abilene-data-centers/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Project Specialist, Architecture \| 2026 New Grad - Los Angeles Data Centers | Los Angeles, CA | Spring 2026 | Undergrad | [Apply](https://campus-us-corgan.icims.com/jobs/3474/project-specialist%2c-architecture-%7c-2026-new-grad---los-angeles-data-centers/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Project Specialist, Architecture \| 2026 New Grad - New York Data Centers | New York, NY | Spring 2026 | Undergrad | [Apply](https://campus-us-corgan.icims.com/jobs/3469/project-specialist%2c-architecture-%7c-2026-new-grad---new-york-data-centers/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Project Specialist, Architecture \| 2026 New Grad - Dallas Data Centers | Dallas, TX | Spring 2026 | Undergrad | [Apply](https://campus-us-corgan.icims.com/jobs/3463/project-specialist%2c-architecture-%7c-2026-new-grad---dallas-data-centers/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Project Specialist, Architecture \| 2026 New Grad - Atlanta Data Centers | Atlanta, GA | Spring 2026 | Undergrad | [Apply](https://campus-us-corgan.icims.com/jobs/3462/project-specialist%2c-architecture-%7c-2026-new-grad---atlanta-data-centers/job?utm_source=aprameyak) | Nov 7 |
+| Marvell Technology | Accelerated Computing Solutions Analyst - Early Career | Santa Clara, CA |  | Undergrad | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Accelerated-Computing-Solutions-Analyst---Early-Career_2601165?utm_source=aprameyak) | Nov 7 |
+| The Aerospace Corporation | 2027 Commercial Space Account Associate | Crystal City, VA | Spring 2027 | Undergrad | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/Crystal-City-VA/XMLNAME-2027-Commercial-Space-Account-Associate_R016915?utm_source=aprameyak) | Nov 7 |
+| Vantor | Geospatial Analyst (entry level) | Tampa, FL |  | Undergrad | [Apply](https://maxar.wd1.myworkdayjobs.com/en-US/Vantor/job/Tampa-FL/Geospatial-Analyst--entry-level-_R24849-1?utm_source=aprameyak) | Nov 7 |
 | BP | Graduate – Digital - Products & Projects - Houston | Houston, TX |  | Undergrad | [Apply](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Graduate---Digital---Products---Projects---Houston_RQ117959-1?utm_source=aprameyak) | Nov 6 |
 | ↳ | Graduate – Digital – Data & AI and Digital Engineering – Houston | Houston, TX |  | Undergrad | [Apply](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Graduate---Digital---Data---AI-and-Digital-Engineering---Houston_RQ117961-1?utm_source=aprameyak) | Nov 6 |
 | CACI | Web Developer | Chantilly, VA |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Chantilly-VA-US/Web-Developer_334729?utm_source=aprameyak) | Nov 6 |

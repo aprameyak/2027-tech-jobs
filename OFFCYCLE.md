@@ -1,11 +1,19 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1108 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1116 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| GSK | Spring Co-op/Sample Management in Data, Automation and Predictive Sciences (DAPS) | Remote (US) | Co-op | Undergrad | [Apply](https://gsk-us-earlytalent.icims.com/jobs/11283/spring-co-op-sample-management-in-data%2c-automation-and-predictive-sciences-%28daps%29/job?utm_source=aprameyak) | Nov 7 |
+| TD Bank | Direct Investing Acquisition Strategy Intern / Co-Op (Winter 2027) | Toronto, ON | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Direct-Investing-Acquisition-Strategy-Intern---Co-Op--Winter-2027-_R_1507390?utm_source=aprameyak) | Nov 7 |
+| Vertex Pharmaceuticals | Spring Co-Op 2027, Commercial Analytics | Boston, MA | Co-op | Undergrad | [Apply](https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics_REQ-31112-1?utm_source=aprameyak) | Nov 7 |
+| ↳ | Vertex Spring Co-Op 2027, Process and Media Development | Boston, MA | Co-op | Undergrad | [Apply](https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Vertex-Spring-Co-Op-2027--Process-and-Media-Development_REQ-30512-1?utm_source=aprameyak) | Nov 7 |
+| ↳ | Spring Co-Op 2027, Predictive Models | Boston, MA | Co-op | Undergrad | [Apply](https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Vertex-Spring-Co-Op-2027--Predictive-Models_REQ-30501-1?utm_source=aprameyak) | Nov 7 |
+| ↳ | Spring Co-Op 2027, In Silico Modeling | Boston, MA | Co-op | Undergrad | [Apply](https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Silico-Modeling_REQ-30502-2?utm_source=aprameyak) | Nov 7 |
+| ↳ | Spring Co-Op 2027, Manufacturing Digital Systems | Boston, MA | Co-op | Undergrad | [Apply](https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Manufacturing-Digital-Systems_REQ-31004-1?utm_source=aprameyak) | Nov 7 |
+| ↳ | Spring 2027 Co-op, Human-AI Work and Organization Design | Boston, MA | Co-op | Undergrad | [Apply](https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Spring-2027-Co-op--Human-AI-Work-and-Organization-Design_REQ-31108-1?utm_source=aprameyak) | Nov 7 |
 | Bank of Montreal | Technology Research Associate, Winter 2027 (Co-op/Internship) - 4 months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Technology-Research-Associate--Winter-2027--Co-op-Internship----4-months_R260024978?utm_source=aprameyak) | Nov 6 |
 | ↳ | Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1?utm_source=aprameyak) | Nov 6 |
 | BMO Financial Group | Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097?utm_source=aprameyak) | Nov 6 |
