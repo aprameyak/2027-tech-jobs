@@ -29297,7 +29297,7 @@
   },
   "manager, site reliability engineering": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -70685,9 +70685,9 @@
   },
   "intern engineer - summer 2027": {
     "t": true,
-    "c": "stale",
-    "v": "",
-    "a": 0,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "analog test engineer (2027 new college graduate)": {
@@ -72033,9 +72033,10 @@
   },
   "summer intern 2027 - general accounts": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "summer intern 2027 - reporting analyst": {
     "t": false,
@@ -75600,9 +75601,10 @@
   },
   "events intern": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "na field marketing - ecosystem marketing intern": {
     "t": false,
