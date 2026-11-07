@@ -53673,8 +53673,8 @@
   },
   "it network infrastructure engineer, launch": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -54662,9 +54662,10 @@
     "b": "n"
   },
   "new graduate engineer, mechanical": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "n"
   },
   "new graduate engineer, mechanical (cape canaveral)": {
@@ -60313,9 +60314,9 @@
     "b": "s"
   },
   "senior systems engineer, vehicle security": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
