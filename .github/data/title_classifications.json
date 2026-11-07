@@ -5915,9 +5915,9 @@
     "b": "s"
   },
   "senior director, software engineering": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -9800,9 +9800,9 @@
     "b": "s"
   },
   "technical program manager, space systems": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -12483,9 +12483,9 @@
     "b": "s"
   },
   "security risk manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -30163,9 +30163,9 @@
     "b": "s"
   },
   "staff software engineer, ai": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -32269,9 +32269,9 @@
     "b": "s"
   },
   "senior network reliability engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -32803,9 +32803,9 @@
     "v": ""
   },
   "manager, consulting services": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -41112,9 +41112,9 @@
     "v": ""
   },
   "technical consulting technical leader": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -48106,8 +48106,8 @@
   },
   "algorithm engineer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -50296,9 +50296,9 @@
     "b": "s"
   },
   "principal software engineer, data infrastructure": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -70990,9 +70990,10 @@
   },
   "personal lines underwriting internship - summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "underwriting internship - summer 2027": {
     "t": false,
@@ -74652,9 +74653,9 @@
     "b": "s"
   },
   "biomedical engineering intern": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -76152,11 +76153,11 @@
     "a": 0
   },
   "plm program manager graduate": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
-    "b": "s"
+    "b": "n"
   },
   "l&d design & development graduate": {
     "t": false,
@@ -79095,8 +79096,8 @@
   },
   "design engineer intern": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "low",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -79549,8 +79550,8 @@
   },
   "co-op student": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "low",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "o"
   },
