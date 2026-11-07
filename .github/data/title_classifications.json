@@ -5916,7 +5916,7 @@
   },
   "senior director, software engineering": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9801,7 +9801,7 @@
   },
   "technical program manager, space systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -12484,7 +12484,7 @@
   },
   "security risk manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13487,7 +13487,7 @@
   },
   "senior product manager, ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -13622,7 +13622,7 @@
   },
   "staff product manager, ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -17201,7 +17201,7 @@
   },
   "senior software engineer - backend": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -18720,7 +18720,7 @@
   },
   "staff software engineer - backend": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30164,7 +30164,7 @@
   },
   "staff software engineer, ai": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -30417,7 +30417,7 @@
   },
   "technical architect ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32270,7 +32270,7 @@
   },
   "senior network reliability engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32408,7 +32408,7 @@
   },
   "staff offensive security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32750,7 +32750,7 @@
   },
   "implementation consultant ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32804,7 +32804,7 @@
   },
   "manager, consulting services": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -36512,7 +36512,7 @@
   },
   "python developer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -39660,7 +39660,7 @@
   },
   "senior engineering program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -41113,7 +41113,7 @@
   },
   "technical consulting technical leader": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -48106,7 +48106,7 @@
   },
   "algorithm engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50297,7 +50297,7 @@
   },
   "principal software engineer, data infrastructure": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50578,7 +50578,7 @@
   },
   "senior machine learning scientist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -54989,7 +54989,7 @@
   },
   "power systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -59386,7 +59386,7 @@
   },
   "head of technical services": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -60051,7 +60051,7 @@
   },
   "senior software engineer, linux kernel": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -63889,7 +63889,7 @@
   },
   "assistant branch manager intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -64064,7 +64064,7 @@
   },
   "junior iwms project manager - intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -64767,7 +64767,7 @@
   },
   "accelerated computing solutions analyst - early career": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -67520,7 +67520,7 @@
   },
   "senior principal research scientist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -68624,7 +68624,7 @@
   },
   "group advantage relationship manager intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -68932,7 +68932,7 @@
   },
   "lifesciences coop": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -69422,7 +69422,7 @@
   },
   "junior analyst": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -70035,7 +70035,7 @@
   },
   "environmental intern (summer 2027)": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -70092,7 +70092,7 @@
   },
   "intern, legal": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -70227,7 +70227,7 @@
   },
   "junior project manager": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -70434,7 +70434,7 @@
   },
   "internal audit intern - summer 2027": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "cs-is-v2",
     "a": 0
   },
@@ -70986,7 +70986,7 @@
   },
   "personal lines underwriting internship - summer 2027": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -71998,7 +71998,7 @@
   },
   "silicon photonics intern - phd (fall 2026 start date)": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -72037,7 +72037,7 @@
   },
   "summer intern 2027 - reporting analyst": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -72268,7 +72268,7 @@
   },
   "direct investing acquisition strategy intern / co-op (winter 2027)": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -73086,7 +73086,7 @@
   },
   "research and development intern": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -73514,7 +73514,7 @@
   },
   "marketing analytics intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "cs-is-v2",
     "a": 0
   },
@@ -74044,7 +74044,7 @@
   },
   "intern, operations": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -74646,7 +74646,7 @@
   },
   "biomedical engineering intern": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -75055,7 +75055,7 @@
   },
   "strategic finance intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -75213,7 +75213,7 @@
   },
   "investment team intern, summer 2027 (co-op/internship) - 4 months": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -75525,7 +75525,7 @@
   },
   "supply planning intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -75891,7 +75891,7 @@
   },
   "compensation intern - summer 2027": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "cs-is-v2",
     "a": 0
   },
@@ -76144,7 +76144,7 @@
   },
   "plm program manager graduate": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -78227,7 +78227,7 @@
   },
   "mechatronics intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -78479,7 +78479,7 @@
   },
   "it intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "cs-is-v2",
     "a": 0
   },
@@ -79302,7 +79302,7 @@
   },
   "user experience research intern": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "cs-is-v2",
     "a": 0,
     "b": "s"
@@ -79539,7 +79539,7 @@
   },
   "co-op student": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "cs-is-v2",
     "a": 0,
     "b": "o"
