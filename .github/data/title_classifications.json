@@ -13486,9 +13486,9 @@
     "v": ""
   },
   "senior product manager, ai": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -13621,9 +13621,9 @@
     "b": "s"
   },
   "staff product manager, ai": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -17200,9 +17200,9 @@
     "b": "s"
   },
   "senior software engineer - backend": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -18719,9 +18719,9 @@
     "b": "s"
   },
   "staff software engineer - backend": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -30417,8 +30417,8 @@
   },
   "technical architect ": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -32407,9 +32407,9 @@
     "b": "s"
   },
   "staff offensive security engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -32750,8 +32750,8 @@
   },
   "implementation consultant ": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -36512,8 +36512,8 @@
   },
   "python developer": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -39659,9 +39659,9 @@
     "v": ""
   },
   "senior engineering program manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -50577,9 +50577,9 @@
     "b": "s"
   },
   "senior machine learning scientist": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -54989,9 +54989,9 @@
     "b": "s"
   },
   "power systems engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -59386,9 +59386,9 @@
     "v": ""
   },
   "head of technical services": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -60051,9 +60051,9 @@
     "b": "s"
   },
   "senior software engineer, linux kernel": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -67521,9 +67521,9 @@
     "b": "s"
   },
   "senior principal research scientist": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -69423,9 +69423,9 @@
     "b": "n"
   },
   "junior analyst": {
-    "t": false,
-    "c": "stale",
-    "v": "",
+    "t": true,
+    "c": "low",
+    "v": "cs-is-v4",
     "a": 0
   },
   "summer 2027 commercial middle market internship - detroit": {
@@ -70094,9 +70094,10 @@
   },
   "intern, legal": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "principal research scientist ii \u2013 psychiatry drug discovery": {
     "t": true,
@@ -70229,8 +70230,8 @@
   },
   "junior project manager": {
     "t": false,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0
   },
   "embedded software engineer intern (spring 2027)": {
@@ -70436,9 +70437,10 @@
   },
   "internal audit intern - summer 2027": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "technology intern- summer 2027": {
     "t": false,
@@ -73517,9 +73519,10 @@
   },
   "marketing analytics intern": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "market operations intern ": {
     "t": false,
@@ -74047,9 +74050,10 @@
   },
   "intern, operations": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "sr campus recruitment specialist": {
     "t": false,
@@ -75058,9 +75062,10 @@
   },
   "strategic finance intern": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "combustion devices intern spring 2027": {
     "t": false,
@@ -78482,10 +78487,11 @@
     "a": 0
   },
   "it intern": {
-    "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   },
   "member of technical staff, ai products (early career)": {
     "t": true,
@@ -79306,9 +79312,9 @@
   },
   "user experience research intern": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "summer 2027 internship (engineering)": {
