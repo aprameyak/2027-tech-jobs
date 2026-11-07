@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-1408 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1425 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -19,7 +19,24 @@
 | ↳ | Project Specialist, Architecture \| 2026 New Grad - New York Data Centers | New York, NY | Spring 2026 | Undergrad | [Apply](https://campus-us-corgan.icims.com/jobs/3469/project-specialist%2c-architecture-%7c-2026-new-grad---new-york-data-centers/job?utm_source=aprameyak) | Nov 7 |
 | ↳ | Project Specialist, Architecture \| 2026 New Grad - Dallas Data Centers | Dallas, TX | Spring 2026 | Undergrad | [Apply](https://campus-us-corgan.icims.com/jobs/3463/project-specialist%2c-architecture-%7c-2026-new-grad---dallas-data-centers/job?utm_source=aprameyak) | Nov 7 |
 | ↳ | Project Specialist, Architecture \| 2026 New Grad - Atlanta Data Centers | Atlanta, GA | Spring 2026 | Undergrad | [Apply](https://campus-us-corgan.icims.com/jobs/3462/project-specialist%2c-architecture-%7c-2026-new-grad---atlanta-data-centers/job?utm_source=aprameyak) | Nov 7 |
+| Kinaxis | Python Backend Developer | Remote (US) |  | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35552/python-backend-developer/job?utm_source=aprameyak) | Nov 7 |
 | Marvell Technology | Accelerated Computing Solutions Analyst - Early Career | Santa Clara, CA |  | Undergrad | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Accelerated-Computing-Solutions-Analyst---Early-Career_2601165?utm_source=aprameyak) | Nov 7 |
+| RoviSys | Entry Level Engineer/Developer - 2027 | Aurora, OH |  | Undergrad | [Apply](https://careers-rovisys.icims.com/jobs/2109/entry-level-engineer-developer---2027/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Entry Level Engineer/Developer - 2027 | Manassas, VA |  | Undergrad | [Apply](https://careers-rovisys.icims.com/jobs/2108/entry-level-engineer-developer---2027/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Entry Level Engineer/Developer - 2027 | Houston, TX |  | Undergrad | [Apply](https://careers-rovisys.icims.com/jobs/2107/entry-level-engineer-developer---2027/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Entry Level Engineer/Developer - 2027 | Remote (US) |  | Undergrad | [Apply](https://careers-rovisys.icims.com/jobs/2106/entry-level-engineer-developer---2027/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Entry Level Engineer/Developer - 2027 | Remote (US) |  | Undergrad | [Apply](https://careers-rovisys.icims.com/jobs/2105/entry-level-engineer-developer---2027/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Entry Level Engineer/Developer - 2027 | Holly Springs, NC |  | Undergrad | [Apply](https://careers-rovisys.icims.com/jobs/2104/entry-level-engineer-developer---2027/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Entry Level Engineer/Developer - 2027 | Westborough, MA |  | Undergrad | [Apply](https://careers-rovisys.icims.com/jobs/2103/entry-level-engineer-developer---2027/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Entry Level Engineer/Developer - 2027 | Peachtree City, GA |  | Undergrad | [Apply](https://careers-rovisys.icims.com/jobs/2102/entry-level-engineer-developer---2027/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Entry Level Engineer/Developer - 2027 | Walnut Creek, CA |  | Undergrad | [Apply](https://careers-rovisys.icims.com/jobs/2101/entry-level-engineer-developer---2027/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Entry Level Engineer/Developer - 2027 | Thousand Oaks, CA |  | Undergrad | [Apply](https://careers-rovisys.icims.com/jobs/2100/entry-level-engineer-developer---2027/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Entry Level Engineer/Developer - 2027 | Carlsbad, CA |  | Undergrad | [Apply](https://careers-rovisys.icims.com/jobs/2099/entry-level-engineer-developer---2027/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Entry Level Engineer/Developer | Portage, MI |  | Undergrad | [Apply](https://careers-rovisys.icims.com/jobs/2155/entry-level-engineer-developer/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Entry Level Engineer/Developer | Remote (US) |  | Undergrad | [Apply](https://careers-rovisys.icims.com/jobs/2093/entry-level-engineer-developer/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Entry Level Engineer/Developer | Westborough, MA |  | Undergrad | [Apply](https://careers-rovisys.icims.com/jobs/2011/entry-level-engineer-developer/job?utm_source=aprameyak) | Nov 7 |
+| ↳ | Entry Level Engineer/Developer | Houston, TX |  | Undergrad | [Apply](https://careers-rovisys.icims.com/jobs/1894/entry-level-engineer-developer/job?utm_source=aprameyak) | Nov 7 |
+| Savannah River Mission Completion | Associate Engineer - New College Grad | Aiken, SC | Spring 2033 | Undergrad | [Apply](https://careers-fsse-srmc.icims.com/jobs/2033/associate-engineer---new-college-grad/job?utm_source=aprameyak) | Nov 7 |
 | The Aerospace Corporation | 2027 Commercial Space Account Associate | Crystal City, VA | Spring 2027 | Undergrad | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/Crystal-City-VA/XMLNAME-2027-Commercial-Space-Account-Associate_R016915?utm_source=aprameyak) | Nov 7 |
 | Vantor | Geospatial Analyst (entry level) | Tampa, FL |  | Undergrad | [Apply](https://maxar.wd1.myworkdayjobs.com/en-US/Vantor/job/Tampa-FL/Geospatial-Analyst--entry-level-_R24849-1?utm_source=aprameyak) | Nov 7 |
 | BP | Graduate – Digital - Products & Projects - Houston | Houston, TX |  | Undergrad | [Apply](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Graduate---Digital---Products---Projects---Houston_RQ117959-1?utm_source=aprameyak) | Nov 6 |
