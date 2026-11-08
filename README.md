@@ -18,9 +18,11 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
 
+**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
+
 - [☀️ Summer 2027 Internships](./SUMMER.md) (4012)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1121)
-- [🎓 New Grad 2027](./NEWGRAD.md) (1431)
+- [🎓 New Grad 2027](./NEWGRAD.md) (1432)
 
 ## Legend
 
@@ -204,7 +206,7 @@ Showing newest **75** of **1121** listings · [View full table](./OFFCYCLE.md)
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **1431** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **1432** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
@@ -216,6 +218,7 @@ Showing newest **75** of **1431** listings · [View full table](./NEWGRAD.md)
 | Iridium Communications | Network Operations Engineer I | Tempe, AZ |  | Undergrad | <a href="https://careers-iridium.icims.com/jobs/4990/network-operations-engineer-i/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
 | ↳ | Systems Development Engineer I | Chandler, AZ |  | Masters | <a href="https://careers-iridium.icims.com/jobs/5109/systems-development-engineer-i/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
 | JPMorgan Chase | Quantitative Trading & Research - EM Rates - Associate | New York, NY |  | Undergrad | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807588?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
+| Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 | Remote (US) |  | Undergrad | <a href="https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
 | AbbVie | Associate Software Engineer I | North Chicago, IL |  | Undergrad | <a href="https://jobs.smartrecruiters.com/AbbVie/3743990016715126?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | ↳ | Associate Engineer, Technology I | North Chicago, IL |  | Undergrad | <a href="https://jobs.smartrecruiters.com/AbbVie/3743990016714871?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Analysis Group | Analyst - Generalist (2027 Start Date) | <details><summary>**6 locations**</summary>Chicago, IL</br>Denver, CO</br>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Washington, DC</details> |  | Undergrad | <a href="https://analystcareers-analysisgroup.icims.com/jobs/3004/analyst---generalist-%282027-start-date%29/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
@@ -284,7 +287,6 @@ Showing newest **75** of **1431** listings · [View full table](./NEWGRAD.md)
 | ↳ | 2027 Associate Systems Test Engineer / Systems Test Engineer - Huntsville AL | Huntsville, AL | Spring 2027 | Masters | <a href="https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Systems-Test-Engineer---Systems-Test-Engineer---Huntsville-AL_R10259570?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |
 | ↳ | 2027 Associate Systems Engineer (AHT) - Dulles VA | Dulles, VA | Spring 2027 | Masters | <a href="https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Systems-Engineer--AHT----Dulles-VA_R10259487?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |
 | Primerica 🛂 | Full Stack Developer | Duluth, GA |  | Undergrad | <a href="https://primerica.wd1.myworkdayjobs.com/en-US/pri/job/Duluth-GA/Full-Stack-Developer_R-126032026-2?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |
-| Smithfield Foods | Career Foundation Program (CFP) - Data Analytics - May/Spring 2027 Graduates | Smithfield, VA | Spring 2027 | Undergrad | <a href="https://smithfieldfoods.wd1.myworkdayjobs.com/en-US/Careers/job/Smithfield-VA/Career-Foundation-Program--CFP----Data-Analytics---May-Spring-2027-Graduates_R-2026-15044?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |
 <!-- TABLE_END newgrad -->
 
 ## License
