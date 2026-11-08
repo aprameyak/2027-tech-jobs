@@ -1,11 +1,14 @@
 # ☀️ Summer 2027 Internships
 
-4009 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4012 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Workday | UX Designer Intern (Canada) | Vancouver, BC | Undergrad | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/Canada-BC-Vancouver/UX-Designer-Intern--Canada-_JR-0111500?utm_source=aprameyak) | Nov 8 |
+| Zekelman Industries | Intern, Finance and Analytics | Cambridge, OH | Undergrad | [Apply](https://zekelman.wd12.myworkdayjobs.com/en-US/Careers/job/Cambridge-OH/Intern--Finance-and-Analytics_JR002784?utm_source=aprameyak) | Nov 8 |
+| Zurn Elkay Water Solutions | Enterprise Application Intern (Summer 2027) | Downers Grove, IL | Undergrad | [Apply](https://elkay.wd1.myworkdayjobs.com/en-US/Elkay_External/job/Downers-Grove-IL/Enterprise-Application-Intern--Summer-2027-_REQ-020181?utm_source=aprameyak) | Nov 8 |
 | Adient | IT Intern | Plymouth, MI | Undergrad | [Apply](https://adient.wd3.myworkdayjobs.com/en-US/External/job/Plymouth-MI/IT-Intern_R-29354?utm_source=aprameyak) | Nov 7 |
 | ↳ | IT Intern | Plymouth, MI | Undergrad | [Apply](https://adient.wd3.myworkdayjobs.com/en-US/External/job/Plymouth-MI/IT-Intern_R-29529?utm_source=aprameyak) | Nov 7 |
 | Andersen Corporation | IT Intern | Oak Park Heights, MN | Undergrad | [Apply](https://andersen.wd12.myworkdayjobs.com/en-US/Andersen_External_Career_Site/job/Oak-Park-Heights-MN/IT-Intern_R-8116?utm_source=aprameyak) | Nov 7 |

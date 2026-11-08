@@ -1,11 +1,17 @@
 # 🎓 New Grad 2027
 
-1425 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1431 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Empower AI | Dashboard Developer (Customer Support Metrics Dashboard) | <details><summary>**2 locations**</summary>Quantico, VA</br>Remote (US)</details> |  | Undergrad | [Apply](https://careers-empowerai.icims.com/jobs/9561/dashboard-developer-%28customer-support-metrics-dashboard%29/job?utm_source=aprameyak) | Nov 8 |
+| ↳ | SharePoint / Web Developer | Remote (US) |  | Undergrad | [Apply](https://careers-empowerai.icims.com/jobs/9568/sharepoint---web-developer/job?utm_source=aprameyak) | Nov 8 |
+| Intercontinental Exchange | Associate Full Stack Developer | Jacksonville, FL |  | Undergrad | [Apply](https://careers-ice.icims.com/jobs/13532/associate-full-stack-developer/job?utm_source=aprameyak) | Nov 8 |
+| Iridium Communications | Network Operations Engineer I | Tempe, AZ |  | Undergrad | [Apply](https://careers-iridium.icims.com/jobs/4990/network-operations-engineer-i/job?utm_source=aprameyak) | Nov 8 |
+| ↳ | Systems Development Engineer I | Chandler, AZ |  | Masters | [Apply](https://careers-iridium.icims.com/jobs/5109/systems-development-engineer-i/job?utm_source=aprameyak) | Nov 8 |
+| JPMorgan Chase | Quantitative Trading & Research - EM Rates - Associate | New York, NY |  | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807588?utm_source=aprameyak) | Nov 8 |
 | AbbVie | Associate Software Engineer I | North Chicago, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016715126?utm_source=aprameyak) | Nov 7 |
 | ↳ | Associate Engineer, Technology I | North Chicago, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016714871?utm_source=aprameyak) | Nov 7 |
 | Analysis Group | Analyst - Generalist (2027 Start Date) | <details><summary>**6 locations**</summary>Chicago, IL</br>Denver, CO</br>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Washington, DC</details> |  | Undergrad | [Apply](https://analystcareers-analysisgroup.icims.com/jobs/3004/analyst---generalist-%282027-start-date%29/job?utm_source=aprameyak) | Nov 7 |

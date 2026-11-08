@@ -16,9 +16,11 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4009)
+**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
+
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4012)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1121)
-- [🎓 New Grad 2027](./NEWGRAD.md) (1425)
+- [🎓 New Grad 2027](./NEWGRAD.md) (1431)
 
 ## Legend
 
@@ -32,12 +34,15 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4009** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4012** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Workday | UX Designer Intern (Canada) | Vancouver, BC | Undergrad | <a href="https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/Canada-BC-Vancouver/UX-Designer-Intern--Canada-_JR-0111500?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
+| Zekelman Industries | Intern, Finance and Analytics | Cambridge, OH | Undergrad | <a href="https://zekelman.wd12.myworkdayjobs.com/en-US/Careers/job/Cambridge-OH/Intern--Finance-and-Analytics_JR002784?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
+| Zurn Elkay Water Solutions | Enterprise Application Intern (Summer 2027) | Downers Grove, IL | Undergrad | <a href="https://elkay.wd1.myworkdayjobs.com/en-US/Elkay_External/job/Downers-Grove-IL/Enterprise-Application-Intern--Summer-2027-_REQ-020181?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
 | Adient | IT Intern | Plymouth, MI | Undergrad | <a href="https://adient.wd3.myworkdayjobs.com/en-US/External/job/Plymouth-MI/IT-Intern_R-29354?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | ↳ | IT Intern | Plymouth, MI | Undergrad | <a href="https://adient.wd3.myworkdayjobs.com/en-US/External/job/Plymouth-MI/IT-Intern_R-29529?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Andersen Corporation | IT Intern | Oak Park Heights, MN | Undergrad | <a href="https://andersen.wd12.myworkdayjobs.com/en-US/Andersen_External_Career_Site/job/Oak-Park-Heights-MN/IT-Intern_R-8116?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
@@ -110,9 +115,6 @@ Showing newest **75** of **4009** listings · [View full table](./SUMMER.md)
 | University of St. Thomas | Student Equipment Room Worker | Remote (US) | Undergrad | <a href="https://studentemployment-stthomas.icims.com/jobs/9757/student-equipment-room-worker/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Varda Space | Site Reliability Internship - Summer 2027 | El Segundo, CA | Undergrad | <a href="https://job-boards.greenhouse.io/vardaspace/jobs/8198267003?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | VELCO | Intern- IT Project Management | Rutland, VT | Undergrad | <a href="https://velco.wd12.myworkdayjobs.com/en-US/VELCO/job/Rutland-VT/IT-Project-Management-Intern_JR26-68?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
-| Vertex Pharmaceuticals | 2027 MBA Summer Associate Intern, Medical Information, Technology and Innovation (MITI) | Boston, MA | Undergrad | <a href="https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/XMLNAME-2027-MBA-Summer-Associate-Intern--Medical-Information--Technology-and-Innovation--MITI-_REQ-30481-1?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
-| ↳ | 2027 MBA Summer Associate Intern, Medical Information, Technology and Innovation (MITI) —Business Impact Analytics | Boston, MA | Undergrad | <a href="https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/XMLNAME-2027-MBA-Summer-Associate-Intern--Medical-Information--Technology-and-Innovation--MITI---Business-Impact-Analytics_REQ-30482-1?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
-| Vizient | 2027 Summer Internship - Research Analytics & Insights | Chicago, IL | Undergrad | <a href="https://vizient.wd1.myworkdayjobs.com/en-US/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Research-Analytics---Insights_36064R-2?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
@@ -202,12 +204,18 @@ Showing newest **75** of **1121** listings · [View full table](./OFFCYCLE.md)
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **1425** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **1431** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Empower AI | Dashboard Developer (Customer Support Metrics Dashboard) | <details><summary>**2 locations**</summary>Quantico, VA</br>Remote (US)</details> |  | Undergrad | <a href="https://careers-empowerai.icims.com/jobs/9561/dashboard-developer-%28customer-support-metrics-dashboard%29/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
+| ↳ | SharePoint / Web Developer | Remote (US) |  | Undergrad | <a href="https://careers-empowerai.icims.com/jobs/9568/sharepoint---web-developer/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
+| Intercontinental Exchange | Associate Full Stack Developer | Jacksonville, FL |  | Undergrad | <a href="https://careers-ice.icims.com/jobs/13532/associate-full-stack-developer/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
+| Iridium Communications | Network Operations Engineer I | Tempe, AZ |  | Undergrad | <a href="https://careers-iridium.icims.com/jobs/4990/network-operations-engineer-i/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
+| ↳ | Systems Development Engineer I | Chandler, AZ |  | Masters | <a href="https://careers-iridium.icims.com/jobs/5109/systems-development-engineer-i/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
+| JPMorgan Chase | Quantitative Trading & Research - EM Rates - Associate | New York, NY |  | Undergrad | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807588?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
 | AbbVie | Associate Software Engineer I | North Chicago, IL |  | Undergrad | <a href="https://jobs.smartrecruiters.com/AbbVie/3743990016715126?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | ↳ | Associate Engineer, Technology I | North Chicago, IL |  | Undergrad | <a href="https://jobs.smartrecruiters.com/AbbVie/3743990016714871?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Analysis Group | Analyst - Generalist (2027 Start Date) | <details><summary>**6 locations**</summary>Chicago, IL</br>Denver, CO</br>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Washington, DC</details> |  | Undergrad | <a href="https://analystcareers-analysisgroup.icims.com/jobs/3004/analyst---generalist-%282027-start-date%29/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
@@ -277,12 +285,6 @@ Showing newest **75** of **1425** listings · [View full table](./NEWGRAD.md)
 | ↳ | 2027 Associate Systems Engineer (AHT) - Dulles VA | Dulles, VA | Spring 2027 | Masters | <a href="https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Systems-Engineer--AHT----Dulles-VA_R10259487?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |
 | Primerica 🛂 | Full Stack Developer | Duluth, GA |  | Undergrad | <a href="https://primerica.wd1.myworkdayjobs.com/en-US/pri/job/Duluth-GA/Full-Stack-Developer_R-126032026-2?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |
 | Smithfield Foods | Career Foundation Program (CFP) - Data Analytics - May/Spring 2027 Graduates | Smithfield, VA | Spring 2027 | Undergrad | <a href="https://smithfieldfoods.wd1.myworkdayjobs.com/en-US/Careers/job/Smithfield-VA/Career-Foundation-Program--CFP----Data-Analytics---May-Spring-2027-Graduates_R-2026-15044?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |
-| Smiths Detection Group | Customer Reliability Engineer or Technical Specialist (Entry-Level) | Pasadena, TX |  | Undergrad | <a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000153858961?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |
-| StubHub | Software Engineer I (New Grad) - Consumer Experience | New York, NY |  | Undergrad | <a href="https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |
-| The Boeing Company 🇺🇸 | Associate Software Engineer | Hazelwood, MO |  | Undergrad | <a href="https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |
-| ↳ | Associate and Mid-Level Software Engineers | Berkeley, MO |  | Undergrad | <a href="https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Berkeley-MO/Associate-and-Mid-Level-Software-Engineers_JR2026520920?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |
-| ↳ | Full Stack Software Engineer (Associate/Experienced) | Herndon, VA |  | Undergrad | <a href="https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Herndon-VA/Full-Stack-Software-Engineer--Associate-Experienced-_JR2026522836?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |
-| ↳ | Java Software Engineer (Associate/Experienced) | Herndon, VA |  | Undergrad | <a href="https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Herndon-VA/Java-Software-Engineer--Associate-Experienced-_JR2026522825?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |
 <!-- TABLE_END newgrad -->
 
 ## License
