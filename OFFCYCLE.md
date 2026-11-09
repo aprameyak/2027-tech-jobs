@@ -1,11 +1,12 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1121 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1122 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| WSP | Power System Optimization Intern - Fall 2026/Spring 2027 | Houston, TX | Spring 2027 | Undergrad | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98600?utm_source=aprameyak) | Nov 9 |
 | GSK | Spring Co-op/Sample Management in Data, Automation and Predictive Sciences (DAPS) | Remote (US) | Co-op | Undergrad | [Apply](https://gsk-us-earlytalent.icims.com/jobs/11283/spring-co-op-sample-management-in-data%2c-automation-and-predictive-sciences-%28daps%29/job?utm_source=aprameyak) | Nov 7 |
 | ITA International | Junior Power Platform Developer | Newport News, VA | Co-op | Undergrad | [Apply](https://careers-ita-intl.icims.com/jobs/4501/junior-power-platform-developer/job?utm_source=aprameyak) | Nov 7 |
 | ↳ | Junior Power Platform Developer | Remote (US) | Co-op | Undergrad | [Apply](https://careers-ita-intl.icims.com/jobs/4470/junior-power-platform-developer/job?utm_source=aprameyak) | Nov 7 |

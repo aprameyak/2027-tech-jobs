@@ -1,11 +1,13 @@
 # 🎓 New Grad 2027
 
-1432 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1434 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| CACI | Web Developer | Chantilly, VA |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Chantilly-VA-US/Web-Developer_334769?utm_source=aprameyak) | Nov 9 |
+| Syncreon Consulting | Infrastructure Solutions Engineering (AI & Automation) - Java, Spring Boot, Python, APIs | New York, NY |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/SyncreonConsulting/744000160638610?utm_source=aprameyak) | Nov 9 |
 | Empower AI | Dashboard Developer (Customer Support Metrics Dashboard) | <details><summary>**2 locations**</summary>Quantico, VA</br>Remote (US)</details> |  | Undergrad | [Apply](https://careers-empowerai.icims.com/jobs/9561/dashboard-developer-%28customer-support-metrics-dashboard%29/job?utm_source=aprameyak) | Nov 8 |
 | ↳ | SharePoint / Web Developer | Remote (US) |  | Undergrad | [Apply](https://careers-empowerai.icims.com/jobs/9568/sharepoint---web-developer/job?utm_source=aprameyak) | Nov 8 |
 | Intercontinental Exchange | Associate Full Stack Developer | Jacksonville, FL |  | Undergrad | [Apply](https://careers-ice.icims.com/jobs/13532/associate-full-stack-developer/job?utm_source=aprameyak) | Nov 8 |

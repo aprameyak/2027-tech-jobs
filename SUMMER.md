@@ -1,11 +1,28 @@
 # ☀️ Summer 2027 Internships
 
-4012 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4029 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| CACI | Cyber Security Intern - Summer 2027 | Sterling, VA | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Sterling-VA-US/Cyber-Security-Intern---Summer-2027_334812?utm_source=aprameyak) | Nov 9 |
+| General Dynamics Mission Systems | Full-Stack Application Development Intern, Summer 2027 | Scottsdale, AZ | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75971/full-stack-application-development-intern%2c-summer-2027/job?utm_source=aprameyak) | Nov 9 |
+| ↳ | Full-Stack Software Engineering Intern, Summer 2027 | Scottsdale, AZ | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75970/full-stack-software-engineering-intern%2c-summer-2027/job?utm_source=aprameyak) | Nov 9 |
+| Kemin | Technical Services Intern | Des Moines, IA | Undergrad | [Apply](https://careers-kemin.icims.com/jobs/12294/technical-services-intern/job?utm_source=aprameyak) | Nov 9 |
+| Kensington | BI/Data Analyst Intern | Toronto, ON | Undergrad | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007?utm_source=aprameyak) | Nov 9 |
+| M&T Bank | 2027 Technology Development Program - Software Engineering (Enterprise & Wealth Application Development) | Buffalo, NY | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035?utm_source=aprameyak) | Nov 9 |
+| ↳ | 2027 Technology Development Program - Software Engineering (Data & API Engineering) | Buffalo, NY | Undergrad | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036?utm_source=aprameyak) | Nov 9 |
+| NBCUniversal | NBC News Group Technology Internships – Summer 2027 | New York, NY | Undergrad | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160642462?utm_source=aprameyak) | Nov 9 |
+| Pyrotek | Intern - Product Management | Spokane, WA | Undergrad | [Apply](https://jobs.smartrecruiters.com/Pyrotek3/744000160635163?utm_source=aprameyak) | Nov 9 |
+| RTX | Software Engineering Intern (E2D-IN-1) | Sterling, VA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--E2D-IN-1-_01888020?utm_source=aprameyak) | Nov 9 |
+| ↳ | Configuration Management Intern (Summer 2027) | Andover, MA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Configuration-Management-Intern--Summer-2027-_01888077?utm_source=aprameyak) | Nov 9 |
+| ↳ | Configuration Management Intern (Summer 2027) | Andover, MA | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Configuration-Management-Intern--Summer-2027-_01888076?utm_source=aprameyak) | Nov 9 |
+| ↳ | Program Office Intern (Summer 2027) | East Hartford, CT | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Program-Office-Intern--Summer-2027-_01887924?utm_source=aprameyak) | Nov 9 |
+| Samsung | Business Strategy & Intelligence Intern | Plano, TX | Undergrad | [Apply](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Strategy---Intelligence-Intern_R121962?utm_source=aprameyak) | Nov 9 |
+| ↳ | ePro Business & Data Analyst Intern | Plano, TX | Undergrad | [Apply](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996?utm_source=aprameyak) | Nov 9 |
+| Sharp Electronics 🛂 | Summer IT AI Intern | Montvale, NJ | Undergrad | [Apply](https://job-boards.greenhouse.io/sharpelectronics/jobs/4482958009?utm_source=aprameyak) | Nov 9 |
+| SHI International | Solutions Engineer - Intern | Piscataway, NJ | Undergrad | [Apply](https://shi.wd12.myworkdayjobs.com/en-US/shicareers/job/Piscataway-NJ-USA/Solutions-Engineer---Intern_JR4010?utm_source=aprameyak) | Nov 9 |
 | Workday | UX Designer Intern (Canada) | Vancouver, BC | Undergrad | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/Canada-BC-Vancouver/UX-Designer-Intern--Canada-_JR-0111500?utm_source=aprameyak) | Nov 8 |
 | Zekelman Industries | Intern, Finance and Analytics | Cambridge, OH | Undergrad | [Apply](https://zekelman.wd12.myworkdayjobs.com/en-US/Careers/job/Cambridge-OH/Intern--Finance-and-Analytics_JR002784?utm_source=aprameyak) | Nov 8 |
 | Zurn Elkay Water Solutions | Enterprise Application Intern (Summer 2027) | Downers Grove, IL | Undergrad | [Apply](https://elkay.wd1.myworkdayjobs.com/en-US/Elkay_External/job/Downers-Grove-IL/Enterprise-Application-Intern--Summer-2027-_REQ-020181?utm_source=aprameyak) | Nov 8 |
