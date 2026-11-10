@@ -64171,8 +64171,9 @@
   },
   "continuous improvement intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "rf engineering intern - 2026": {
     "t": false,
@@ -67584,8 +67585,9 @@
   },
   "undergraduate  co-op student \u2013 software engineer \u2013 large molecule discovery - technology": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "o"
   },
   "stagiaire en d\u00e9veloppement cloud, intern cloud developer \u2013 fcap": {
@@ -69135,8 +69137,9 @@
   },
   "finance rotational accelerator program (2027 new college graduate)": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "co-op student, learning operations": {
     "t": false,
@@ -72024,8 +72027,9 @@
   },
   "summer intern 2027 - accounting": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "summer intern 2027 - risk": {
     "t": false,
@@ -74843,7 +74847,7 @@
   },
   "internal audit intern": {
     "t": false,
-    "c": "stale",
+    "c": "low",
     "v": "cs-is-v2",
     "a": 0
   },
