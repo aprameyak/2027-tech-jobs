@@ -65826,8 +65826,9 @@
   },
   "summer 2027 intern - software engineering": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "research park intern - student researcher": {
