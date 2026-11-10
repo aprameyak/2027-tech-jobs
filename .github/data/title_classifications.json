@@ -10155,7 +10155,7 @@
   },
   "applied ai architect": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -15630,7 +15630,7 @@
   },
   "member of technical staff (storage)": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26062,8 +26062,9 @@
   },
   "staff software engineer, ads data platform": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "staff software engineer,  data infrastructure": {
@@ -28804,7 +28805,7 @@
   },
   "senior/staff systems engineer, autonomy verification": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32711,8 +32712,9 @@
   },
   "enterprise implementation consultant - public sector": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "enterprise select implementation consultant": {
@@ -53130,7 +53132,7 @@
   },
   "global supply manager, utilities & infrastructure (starlink)": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
