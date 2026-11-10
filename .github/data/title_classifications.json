@@ -74848,8 +74848,9 @@
   },
   "learning & development intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "payment risk intern": {
     "t": false,
