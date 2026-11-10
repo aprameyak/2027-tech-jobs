@@ -28957,9 +28957,10 @@
     "b": "s"
   },
   "staff program manager, office of the ceo": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff/senior software engineer, offboard infrastructure": {
@@ -48319,9 +48320,10 @@
     "b": "s"
   },
   "staff+ software engineer, safeguards evals ": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff+ software engineer, safeguards infrastructure ": {
@@ -50502,9 +50504,10 @@
     "b": "s"
   },
   "senior frontend software engineer, ads experience": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior frontend software engineer - marketplace": {
@@ -53244,9 +53247,9 @@
     "v": ""
   },
   "ground network specialist (starshield)": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -68536,9 +68539,10 @@
   },
   "intern, quality": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   " leadership development program 2027": {
     "t": false,
@@ -78991,8 +78995,8 @@
   },
   "data analyst intern": {
     "t": true,
-    "c": "stale",
-    "v": "cs-is-v2",
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 1,
     "b": "s"
   },
