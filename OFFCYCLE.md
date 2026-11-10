@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1130 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1131 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -13,6 +13,7 @@
 | Lila Sciences | Co-Op, IT/OT Security Analyst | Cambridge, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4477308009?utm_source=aprameyak) | Nov 10 |
 | ↳ | Co-op, Software, Applied AI Platform Engineer | San Francisco, CA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4472540009?utm_source=aprameyak) | Nov 10 |
 | Nokia | Defense Software Test & AI Co-Op | Remote (US) | Co-op | Undergrad | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41196?utm_source=aprameyak) | Nov 10 |
+| onsemi | Spring 2027 - AI & Data Analytics Intern | Scottsdale, AZ | Spring 2027 | Undergrad | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010?utm_source=aprameyak) | Nov 10 |
 | Stoneridge | Junior AI Specialist | Novi, MI | Co-op | Undergrad | [Apply](https://stoneridge.wd5.myworkdayjobs.com/en-US/careers/job/Novi-MI/Junior-AI-Specialist_JR102766?utm_source=aprameyak) | Nov 10 |
 | WSP | Power System Optimization Intern - Fall 2026/Spring 2027 | Houston, TX | Spring 2027 | Undergrad | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98600?utm_source=aprameyak) | Nov 9 |
 | GSK | Spring Co-op/Sample Management in Data, Automation and Predictive Sciences (DAPS) | Remote (US) | Co-op | Undergrad | [Apply](https://gsk-us-earlytalent.icims.com/jobs/11283/spring-co-op-sample-management-in-data%2c-automation-and-predictive-sciences-%28daps%29/job?utm_source=aprameyak) | Nov 7 |

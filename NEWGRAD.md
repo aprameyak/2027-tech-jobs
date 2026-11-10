@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-1449 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1450 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -11,6 +11,7 @@
 | Boeing | Associate Software Test Engineer (P-8 Mission Systems) | Kent, WA |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Kent-WA/Associate-Software-Test-Engineer--P-8-Mission-Systems-_JR2026496240-1?utm_source=aprameyak) | Nov 10 |
 | CACI | Junior Systems Engineer | Colorado Springs, CO |  | Masters | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Colorado-Springs-CO-US/Junior-Systems-Engineer_334863?utm_source=aprameyak) | Nov 10 |
 | CSC Generation | Junior Software Engineer | Toronto, ON |  | Undergrad | [Apply](https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185?utm_source=aprameyak) | Nov 10 |
+| Cursor | Software Engineer, New Grad 2027 | San Francisco, CA | Spring 2027 | Undergrad | [Apply](https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?utm_source=aprameyak) | Nov 10 |
 | Hardin Design | Web Developer - Entry Level | Madison, WI |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/HardinDesign/744000160661857?utm_source=aprameyak) | Nov 10 |
 | Huron | Education and Research, Consulting Analyst - Q1 2027 Start Date (December 2026 Graduates) | Chicago, IL | Spring 2027 | Undergrad | [Apply](https://huron.wd1.myworkdayjobs.com/en-US/huroncareers/job/Chicago---550-Van-Buren/Education-and-Research--Consulting-Analyst---Q1-2027-Start-Date--December-2026-Graduates-_JR-0017174?utm_source=aprameyak) | Nov 10 |
 | Infoways | Android Developer - Charlotte, NC | Charlotte, NC |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Info-Ways/743999653798131?utm_source=aprameyak) | Nov 10 |
