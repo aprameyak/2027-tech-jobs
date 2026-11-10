@@ -1,11 +1,26 @@
 # 🎓 New Grad 2027
 
-1434 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1449 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| AnaVation 🇺🇸 | Junior Mobile Device RE and Software Engineer – HYBRID! | Lorton, VA |  | Undergrad | [Apply](https://jobs.lever.co/anavationllc/b6d788eb-e17a-42ff-9c06-821103960654?utm_source=aprameyak) | Nov 10 |
+| Ares Management | Associate, Data Platform Engineering | New York, NY |  | Undergrad | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Associate--Data-Platform-Engineering_R8756?utm_source=aprameyak) | Nov 10 |
+| Boeing | Associate Software Test Engineer (P-8 Mission Systems) | Kent, WA |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Kent-WA/Associate-Software-Test-Engineer--P-8-Mission-Systems-_JR2026496240-1?utm_source=aprameyak) | Nov 10 |
+| CACI | Junior Systems Engineer | Colorado Springs, CO |  | Masters | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Colorado-Springs-CO-US/Junior-Systems-Engineer_334863?utm_source=aprameyak) | Nov 10 |
+| CSC Generation | Junior Software Engineer | Toronto, ON |  | Undergrad | [Apply](https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185?utm_source=aprameyak) | Nov 10 |
+| Hardin Design | Web Developer - Entry Level | Madison, WI |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/HardinDesign/744000160661857?utm_source=aprameyak) | Nov 10 |
+| Huron | Education and Research, Consulting Analyst - Q1 2027 Start Date (December 2026 Graduates) | Chicago, IL | Spring 2027 | Undergrad | [Apply](https://huron.wd1.myworkdayjobs.com/en-US/huroncareers/job/Chicago---550-Van-Buren/Education-and-Research--Consulting-Analyst---Q1-2027-Start-Date--December-2026-Graduates-_JR-0017174?utm_source=aprameyak) | Nov 10 |
+| Infoways | Android Developer - Charlotte, NC | Charlotte, NC |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Info-Ways/743999653798131?utm_source=aprameyak) | Nov 10 |
+| Jerry | Associate Data Scientist | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/Jerry.ai/81fcaf5e-3203-4a9d-88cd-fb01c7edf1ea/application?utm_source=aprameyak) | Nov 10 |
+| Kyndryl | Early Career Consult Program - Associate Data Engineer | Dallas (USDALFRI) Frisco AI HUB |  | Undergrad | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870?utm_source=aprameyak) | Nov 10 |
+| ↳ | Early Career Consult Program - Associate Data Engineer | Dallas (USDALFRI) Frisco AI HUB |  | Undergrad | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870-1?utm_source=aprameyak) | Nov 10 |
+| Morgan Stanley | Associate, Software Engineer | Alpharetta, GA |  | Undergrad | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Associate--Software-Engineer_JR042814?utm_source=aprameyak) | Nov 10 |
+| Northrop Grumman | 2027 - Associate Cyber Software Engineer - San Antonio TX | San Antonio, TX | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Texas-San-Antonio/XMLNAME-2027----Associate-Cyber-Software-Engineer---San-Antonio-TX_R10259762?utm_source=aprameyak) | Nov 10 |
+| The Boeing Company | Associate Software Test Engineer (P-8 Mission Systems) | Kent, WA |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Kent-WA/Associate-Software-Test-Engineer--P-8-Mission-Systems-_JR2026496240?utm_source=aprameyak) | Nov 10 |
+| Visa | Associate Data Engineer | Foster City, CA |  | Undergrad | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W?utm_source=aprameyak) | Nov 10 |
 | CACI | Web Developer | Chantilly, VA |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Chantilly-VA-US/Web-Developer_334769?utm_source=aprameyak) | Nov 9 |
 | Syncreon Consulting | Infrastructure Solutions Engineering (AI & Automation) - Java, Spring Boot, Python, APIs | New York, NY |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/SyncreonConsulting/744000160638610?utm_source=aprameyak) | Nov 9 |
 | Empower AI | Dashboard Developer (Customer Support Metrics Dashboard) | <details><summary>**2 locations**</summary>Quantico, VA</br>Remote (US)</details> |  | Undergrad | [Apply](https://careers-empowerai.icims.com/jobs/9561/dashboard-developer-%28customer-support-metrics-dashboard%29/job?utm_source=aprameyak) | Nov 8 |
