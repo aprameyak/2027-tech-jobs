@@ -69973,8 +69973,10 @@
   },
   "graphic design & communications intern, spring 2027": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "o"
   },
   "park operations project development intern, spring 2027": {
     "t": false,
@@ -72299,9 +72301,10 @@
     "b": "s"
   },
   "2027 associate electronics engineer/electronics engineer": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "2027 intern - electronics (avionics) engineering": {
@@ -74387,9 +74390,10 @@
   },
   "packaging engineering intern": {
     "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "analog validation intern - summer 2027": {
     "t": false,
@@ -78456,9 +78460,10 @@
   },
   "carvery student part time day": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "(palm) and artificial intelligence co-op": {
     "t": true,
