@@ -63764,8 +63764,9 @@
   },
   "junior financial analyst": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   },
   "junior strategic analyst": {
     "t": false,
