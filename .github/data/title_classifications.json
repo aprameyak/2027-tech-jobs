@@ -131826,5 +131826,25 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "software development engineer intern - summer 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer iii, core data (multiple openings)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "senior software engineer, cloud workspace (multiple openings)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
