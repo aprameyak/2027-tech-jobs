@@ -1,11 +1,13 @@
 # 🎓 New Grad 2027
 
-1456 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1458 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| AECOM | Entry-Level GIS Specialist | Honolulu, HI |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000160900745?utm_source=aprameyak) | Nov 11 |
+| Manhattan Associates | Technology Consultant - Early Career Spring & Summer 2027 | Atlanta, GA | Summer 2027 | Undergrad | [Apply](https://manh.wd5.myworkdayjobs.com/en-US/campus/job/Atlanta-GA/Technology-Consultant---Early-Career-Spring---Summer-2027_17011?utm_source=aprameyak) | Nov 11 |
 | Abacus Insights | Associate Data Engineer | Remote (US) |  | Undergrad | [Apply](https://boards.greenhouse.io/abacusinsights/jobs/8917380002?gh_jid=8917380002&utm_source=aprameyak) | Nov 10 |
 | Amentum | Junior Software Developer | Dahlgren, VA |  | Undergrad | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040?utm_source=aprameyak) | Nov 10 |
 | AnaVation 🇺🇸 | Junior Mobile Device RE and Software Engineer – HYBRID! | Lorton, VA |  | Undergrad | [Apply](https://jobs.lever.co/anavationllc/b6d788eb-e17a-42ff-9c06-821103960654?utm_source=aprameyak) | Nov 10 |

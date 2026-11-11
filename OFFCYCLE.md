@@ -1,11 +1,15 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1134 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1138 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Hewlett Packard (HP) | Performance Engineering Co-op | Fort Collins, CO | Co-op | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Performance-Engineering-Co-op_UNI4986-1?utm_source=aprameyak) | Nov 11 |
+| HP | Performance Engineering Co-op | Fort Collins, CO | Co-op | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Fort-Collins-Colorado-United-States-of-America/Performance-Engineering-Co-op_UNI4986-2?utm_source=aprameyak) | Nov 11 |
+| InterSystems | Technical Services Co-op | Boston, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/intersystems/jobs/8200550003?utm_source=aprameyak) | Nov 11 |
+| Resonetics | Development Engineering Co-Op | Hutchinson, MN | Co-op | Undergrad | [Apply](https://careers-resonetics.icims.com/jobs/5862/development-engineering-co-op/job?utm_source=aprameyak) | Nov 11 |
 | Amgen | Undergraduate Co-op Student – Software Engineer – Large Molecule Discovery - Technology | Burnaby, BC | Co-op | Undergrad | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920?utm_source=aprameyak) | Nov 10 |
 | ASML | Internship- Co-Op: AI Engineer | San Diego, CA | Co-op | Undergrad | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--Data-Engineer_J-00355627?utm_source=aprameyak) | Nov 10 |
 | ↳ | Internship- Co-Op: AI Engineer | San Diego, CA | Co-op | Undergrad | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--AI-Engineer_J-00355628?utm_source=aprameyak) | Nov 10 |
