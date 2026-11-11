@@ -10155,7 +10155,7 @@
   },
   "applied ai architect": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -15630,7 +15630,7 @@
   },
   "member of technical staff (storage)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -26062,7 +26062,7 @@
   },
   "staff software engineer, ads data platform": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28805,7 +28805,7 @@
   },
   "senior/staff systems engineer, autonomy verification": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -32712,7 +32712,7 @@
   },
   "enterprise implementation consultant - public sector": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -53132,7 +53132,7 @@
   },
   "global supply manager, utilities & infrastructure (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -64171,7 +64171,7 @@
   },
   "continuous improvement intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -69137,7 +69137,7 @@
   },
   "finance rotational accelerator program (2027 new college graduate)": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -72027,7 +72027,7 @@
   },
   "summer intern 2027 - accounting": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -74847,13 +74847,13 @@
   },
   "internal audit intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "cs-is-v2",
     "a": 0
   },
   "learning & development intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -131923,5 +131923,37 @@
     "v": "cs-is-v4",
     "a": 1,
     "b": "s"
+  },
+  "software engineer iii, infrastructure, google cloud platforms networking": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "pathways operations manager intern \u2013 summer 2027 (canada-wide opportunities)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "staff software engineer, backend infrastructure and rapid prototyping, google labs": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer, data processing platform": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior software engineer, mobile (android), android ecosystem": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
