@@ -1020,8 +1020,9 @@
   },
   "principal software engineer, performance": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "process strategy and optimization lead": {
@@ -20716,7 +20717,7 @@
   },
   "senior software engineer, consumer revenue": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28882,8 +28883,9 @@
   },
   "software engineer, performance": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "software engineer, performance - new grad": {
@@ -39137,7 +39139,7 @@
   },
   "technical program manager (tpm)": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -48373,7 +48375,7 @@
   },
   "staff product designer, ai": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
