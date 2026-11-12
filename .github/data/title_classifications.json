@@ -36796,7 +36796,7 @@
   },
   "manager, technical support": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -68296,8 +68296,9 @@
   },
   "operations - 2027 summer internship": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "low",
+    "v": "",
+    "a": 0
   },
   "new graduate (community college) - technician": {
     "t": false,
