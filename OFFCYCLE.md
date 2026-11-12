@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1147 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1148 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -14,6 +14,7 @@
 | Johnson Controls | Software Engineering Co-Op | Burlington-Massachusetts-United States of America | Co-op | Undergrad | [Apply](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408?utm_source=aprameyak) | Nov 12 |
 | MKS Instruments | 2027 Summer Software Engineer Co-op | Andover, MA | Co-op | Undergrad | [Apply](https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610?utm_source=aprameyak) | Nov 12 |
 | Sanofi | 2027 Spring Co-op Data Science & Digital Transformation, Framingham, MA | Framingham, MA | Co-op | Undergrad | [Apply](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091?utm_source=aprameyak) | Nov 12 |
+| ↳ | 2027 Spring Co-op Upstream Automatic Control Development, Framingham, MA | Framingham, MA | Co-op | Undergrad | [Apply](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Upstream-Automatic-Control-Development--Framingham--MA_R2854276?utm_source=aprameyak) | Nov 12 |
 | SharkNinja | Spring 2027: Control Systems & Algorithms Co-op (January to June) | Needham, MA | Co-op | Masters | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721611006?utm_source=aprameyak) | Nov 12 |
 | Hewlett Packard (HP) | Performance Engineering Co-op | Fort Collins, CO | Co-op | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Performance-Engineering-Co-op_UNI4986-1?utm_source=aprameyak) | Nov 11 |
 | HP | Performance Engineering Co-op | Fort Collins, CO | Co-op | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Fort-Collins-Colorado-United-States-of-America/Performance-Engineering-Co-op_UNI4986-2?utm_source=aprameyak) | Nov 11 |
