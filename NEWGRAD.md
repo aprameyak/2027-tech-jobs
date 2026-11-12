@@ -1,16 +1,18 @@
 # 🎓 New Grad 2027
 
-1477 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1481 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | Ares Management | Associate, Data Platform Engineering | New York, NY |  | Undergrad | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Associate--Data-Platform-Engineering_R8755?utm_source=aprameyak) | Nov 12 |
+| Capital One | Associate, Data Scientist - US Card | McLean, VA |  | Undergrad | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1?utm_source=aprameyak) | Nov 12 |
 | Howden | Early Careers Analyst | Miami- 600 Brickell Avenue |  | Undergrad | [Apply](https://hyperiongrp.wd3.myworkdayjobs.com/en-US/Hyperion_External/job/Miami--600-Brickell-Avenue/Early-Careers-Analyst_R0020150?utm_source=aprameyak) | Nov 12 |
 | Intercontinental Exchange | Associate Software Developer | Jacksonville, FL |  | Undergrad | [Apply](https://careers-ice.icims.com/jobs/14039/associate-software-developer/job?utm_source=aprameyak) | Nov 12 |
 | IXL Learning | IXL Associate Product Manager | San Mateo, CA |  | Undergrad | [Apply](https://www.ixl.com/company/jobs?gh_jid=8936808002) | Nov 12 |
 | Mass General Brigham | Graduate Research Assistant | Boston-MA |  | Undergrad | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Graduate-Research-Assistant_RQ4086077?utm_source=aprameyak) | Nov 12 |
+| Micron Technology | New College Grad - Software Engineer | Boise, ID |  | Undergrad | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692?utm_source=aprameyak) | Nov 12 |
 | Oracle | Consulting SaaS Developer | Reston, VA |  | Undergrad | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350009?utm_source=aprameyak) | Nov 12 |
 | RTX | Associate Software Engineer I – CDS / Engine System Software (Onsite) | East Hartford, CT |  | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197?utm_source=aprameyak) | Nov 12 |
 | SharkNinja | Forward Deployed Engineer - Entry Level | Needham, MA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4728305006?utm_source=aprameyak) | Nov 12 |
@@ -24,6 +26,8 @@
 | ↳ | Entry-Level Software Engineer | Maryland Heights, MO |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026527992?utm_source=aprameyak) | Nov 12 |
 | ↳ | Software Engineer - Developer (Associate or Experienced) | El Segundo, CA |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---El-Segundo-CA/Software-Engineer---Developer--Associate-or-Experienced-_JR2026526838?utm_source=aprameyak) | Nov 12 |
 | ↳ | Software Engineer \| Vehicle Management Systems (Associate or Experienced) | Seal Beach, CA |  | Masters | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Seal-Beach-CA/Software-Engineer---Vehicle-Management-Systems--Associate-or-Experienced-_JR2026524635?utm_source=aprameyak) | Nov 12 |
+| ↳ | Software Engineer (Associate or Experienced) | Kent, WA |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Kent-WA/Software-Engineer--Associate-or-Experienced-_JR2026526264-1?utm_source=aprameyak) | Nov 12 |
+| ↳ | SATCOM Mission Planning Software Engineer (Associate or Experienced) | Seal Beach, CA |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Seal-Beach-CA/ESS-Mission-Planning-Associate-Experienced-Software-Engineer_JR2026512722-2?utm_source=aprameyak) | Nov 12 |
 | UTHealth Houston | Database Analyst Programmer-Associate (On-Site) | San Antonio, TX |  | Undergrad | [Apply](https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8007?utm_source=aprameyak) | Nov 12 |
 | AECOM | Entry-Level GIS Specialist | Honolulu, HI |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000160900745?utm_source=aprameyak) | Nov 11 |
 | Manhattan Associates | Technology Consultant - Early Career Spring & Summer 2027 | Atlanta, GA | Summer 2027 | Undergrad | [Apply](https://manh.wd5.myworkdayjobs.com/en-US/campus/job/Atlanta-GA/Technology-Consultant---Early-Career-Spring---Summer-2027_17011?utm_source=aprameyak) | Nov 11 |
