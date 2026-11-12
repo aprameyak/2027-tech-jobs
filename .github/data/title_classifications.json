@@ -131984,5 +131984,35 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "senior software engineer, developer ai research": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer, eval infra tl, quality platform, gemini cloud operator, agentic ai": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior staff software engineer, bigquery workload management": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior software engineer, ai storage infrastructure": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "edu data governance engineering manager": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
