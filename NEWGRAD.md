@@ -1,11 +1,25 @@
 # 🎓 New Grad 2027
 
-1458 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1472 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Ares Management | Associate, Data Platform Engineering | New York, NY |  | Undergrad | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Associate--Data-Platform-Engineering_R8755?utm_source=aprameyak) | Nov 12 |
+| Intercontinental Exchange | Associate Software Developer | Jacksonville, FL |  | Undergrad | [Apply](https://careers-ice.icims.com/jobs/14039/associate-software-developer/job?utm_source=aprameyak) | Nov 12 |
+| IXL Learning | IXL Associate Product Manager | San Mateo, CA |  | Undergrad | [Apply](https://www.ixl.com/company/jobs?gh_jid=8936808002) | Nov 12 |
+| Oracle | Consulting SaaS Developer | Reston, VA |  | Undergrad | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350009?utm_source=aprameyak) | Nov 12 |
+| SharkNinja | Forward Deployed Engineer - Entry Level | Needham, MA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4728305006?utm_source=aprameyak) | Nov 12 |
+| Shield AI | Engineer II, Software - Autonomy Capabilities - New Grad - 6131 | Remote (US) |  | Undergrad | [Apply](https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af?utm_source=aprameyak) | Nov 12 |
+| ↳ | Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139 | Remote (US) |  | Undergrad | [Apply](https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12?utm_source=aprameyak) | Nov 12 |
+| Symbotic | New Grad- Robotics Software Engineer | Wilmington, MA |  | Undergrad | [Apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496?utm_source=aprameyak) | Nov 12 |
+| The Boeing Company | Associate Software Engineer | Berkeley, MO |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Berkeley-MO/Associate-Software-Engineer_JR2026524131-2?utm_source=aprameyak) | Nov 12 |
+| ↳ | Associate Software Engineer | Heath, OH |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Heath-OH/Associate-Software-Engineer_JR2026529446-2?utm_source=aprameyak) | Nov 12 |
+| ↳ | Software Engineer (Associate or Experienced) | Chantilly, VA |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Chantilly-VA/Software-Engineer--Associate-or-Experienced-_JR2026525287?utm_source=aprameyak) | Nov 12 |
+| ↳ | Entry-Level Software Engineer | Maryland Heights, MO |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026527992?utm_source=aprameyak) | Nov 12 |
+| ↳ | Software Engineer - Developer (Associate or Experienced) | El Segundo, CA |  | Undergrad | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---El-Segundo-CA/Software-Engineer---Developer--Associate-or-Experienced-_JR2026526838?utm_source=aprameyak) | Nov 12 |
+| UTHealth Houston | Database Analyst Programmer-Associate (On-Site) | San Antonio, TX |  | Undergrad | [Apply](https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8007?utm_source=aprameyak) | Nov 12 |
 | AECOM | Entry-Level GIS Specialist | Honolulu, HI |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000160900745?utm_source=aprameyak) | Nov 11 |
 | Manhattan Associates | Technology Consultant - Early Career Spring & Summer 2027 | Atlanta, GA | Summer 2027 | Undergrad | [Apply](https://manh.wd5.myworkdayjobs.com/en-US/campus/job/Atlanta-GA/Technology-Consultant---Early-Career-Spring---Summer-2027_17011?utm_source=aprameyak) | Nov 11 |
 | Abacus Insights | Associate Data Engineer | Remote (US) |  | Undergrad | [Apply](https://boards.greenhouse.io/abacusinsights/jobs/8917380002?gh_jid=8917380002&utm_source=aprameyak) | Nov 10 |

@@ -1,11 +1,20 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1138 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1147 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Alexion | Co-Op, Development Operations AI & Automation Enablement Intern | Mississauga, ON | Co-op | Undergrad | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415?utm_source=aprameyak) | Nov 12 |
+| Bose | Digital Signal Processing ML Software Development Co-op | Framingham, MA | Co-op | Undergrad | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372?utm_source=aprameyak) | Nov 12 |
+| ↳ | Agentic AI Engineering Co-op – Active Noise Cancellation \| Fall 2027 | Framingham, MA | Co-op | Undergrad | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Agentic-AI-Engineering-Co-op---Active-Noise-Cancellation---Fall-2027_R29391?utm_source=aprameyak) | Nov 12 |
+| Cummins | Information Technology Co-op Positions | Columbus, IN | Co-op | Undergrad | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2442195?utm_source=aprameyak) | Nov 12 |
+| Dow Chemical Company | Local College Co-op: Infrastructure Mapping & Data Quality (Michigan Operations) | Midland (MI, USA) | Co-op | Undergrad | [Apply](https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op--Infrastructure-Mapping---Data-Quality--Michigan-Operations-_R2069169?utm_source=aprameyak) | Nov 12 |
+| Johnson Controls | Software Engineering Co-Op | Burlington-Massachusetts-United States of America | Co-op | Undergrad | [Apply](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408?utm_source=aprameyak) | Nov 12 |
+| MKS Instruments | 2027 Summer Software Engineer Co-op | Andover, MA | Co-op | Undergrad | [Apply](https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610?utm_source=aprameyak) | Nov 12 |
+| Sanofi | 2027 Spring Co-op Data Science & Digital Transformation, Framingham, MA | Framingham, MA | Co-op | Undergrad | [Apply](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091?utm_source=aprameyak) | Nov 12 |
+| SharkNinja | Spring 2027: Control Systems & Algorithms Co-op (January to June) | Needham, MA | Co-op | Masters | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721611006?utm_source=aprameyak) | Nov 12 |
 | Hewlett Packard (HP) | Performance Engineering Co-op | Fort Collins, CO | Co-op | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Performance-Engineering-Co-op_UNI4986-1?utm_source=aprameyak) | Nov 11 |
 | HP | Performance Engineering Co-op | Fort Collins, CO | Co-op | Undergrad | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Fort-Collins-Colorado-United-States-of-America/Performance-Engineering-Co-op_UNI4986-2?utm_source=aprameyak) | Nov 11 |
 | InterSystems | Technical Services Co-op | Boston, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/intersystems/jobs/8200550003?utm_source=aprameyak) | Nov 11 |
