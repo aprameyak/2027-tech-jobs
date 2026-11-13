@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-1488 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1497 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -9,8 +9,17 @@
 | Barclays | S&T- Delta One Trading Analyst Graduate Program 2027 New York | New York, NY | Spring 2027 | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/S-T--Delta-One-Trading-Analyst-Graduate-Program-2027-New-York_JR-0000118428?utm_source=aprameyak) | Nov 13 |
 | Celonis 🛂 | Associate Technology Consultant - Galaxy Graduate Program | New York, NY |  | Undergrad | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8202446003?gh_jid=8202446003&utm_source=aprameyak) | Nov 13 |
 | ↳ | Associate Technology Consultant - Galaxy Graduate Program | Raleigh, NC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8202449003?gh_jid=8202449003&utm_source=aprameyak) | Nov 13 |
+| Edgewater IT | Application Developer I | <details><summary>**5 locations**</summary>Billings, MT</br>Lakewood, CO</br>Folsom, CA</br>Loveland, CO</br>Phoenix, AZ</details> |  | Undergrad | [Apply](https://careers-edgewaterit.icims.com/jobs/4760/application-developer-i/job?utm_source=aprameyak) | Nov 13 |
+| Eurofins | Entry Level Business Application Specialist | Lancaster, PA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000161537929?utm_source=aprameyak) | Nov 13 |
+| Fannie Mae | Software Engineer - Associate (AWS) | Reston, VA |  | Undergrad | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/fanniemaecareers/job/Reston-VA/Software-Engineer---Associate--AWS-_JR2983?utm_source=aprameyak) | Nov 13 |
+| ↳ | Software Engineer - Associate (AWS) | Reston, VA |  | Undergrad | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/fanniemaecareers/job/Reston-VA/Software-Engineer---Associate--AWS-_JR3005?utm_source=aprameyak) | Nov 13 |
+| JPMorgan Chase | Quantitative Trading & Research - Digital - Associate | New York, NY |  | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809025?utm_source=aprameyak) | Nov 13 |
+| ↳ | Quantitative Trading & Research - Cash Equities - Associate | New York, NY |  | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809041?utm_source=aprameyak) | Nov 13 |
 | Kinaxis | Cloud Engineer 1, Site Reliability Engineering (Early Career, Junior level) | Ottawa, ON |  | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35470/cloud-engineer-1%2c-site-reliability-engineering-%28early-career%2c-junior-level%29/job?utm_source=aprameyak) | Nov 13 |
 | Northrop Grumman | 2027 - Associate Software Engineer - McClellan CA | Mcclellan, CA | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423?utm_source=aprameyak) | Nov 13 |
+| ↳ | 2027 Associate Tool Engineer/Tool Engineer | El Segundo, CA | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Tool-Engineer-Tool-Engineer_R10260751?utm_source=aprameyak) | Nov 13 |
+| ↳ | 2027 Associate Software Engineer - Pathways - Colorado Springs | Colorado Springs, CO | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Pathways---Colorado-Springs_R10260174?utm_source=aprameyak) | Nov 13 |
+| ↳ | 2027 Associate Software Engineer - Pathways - Boulder CO | Boulder, CO | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171?utm_source=aprameyak) | Nov 13 |
 | SpaceX | New Graduate Engineer, Aerospace Software (Starfall) | Hawthorne, CA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8939697002?gh_jid=8939697002&utm_source=aprameyak) | Nov 13 |
 | University of Maine System | Engineer I - Cloud Infrastructure and Security | Orono, ME |  | Undergrad | [Apply](https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3373?utm_source=aprameyak) | Nov 13 |
 | Ares Management | Associate, Data Platform Engineering | New York, NY |  | Undergrad | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Associate--Data-Platform-Engineering_R8755?utm_source=aprameyak) | Nov 12 |

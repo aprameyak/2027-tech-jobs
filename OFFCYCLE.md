@@ -1,14 +1,24 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1152 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1162 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
 | Bank of Montreal | AI Developer, Winter 2027 (Co-op/Internship) - 4 months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323?utm_source=aprameyak) | Nov 13 |
+| CACI | Configuration Control/Data Management Co-op - Spring & Summer 2027 | Danbury, CT | Co-op | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_334005?utm_source=aprameyak) | Nov 13 |
+| Canadian Tire | Programmer Analyst Intern (12 months) - Winter 2027 | Mississauga, ON | Winter 2027 | Undergrad | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748?utm_source=aprameyak) | Nov 13 |
+| Carnegie Mellon University | Cybersecurity Engineer Intern (Spring 2027) | Pittsburgh, PA | Spring 2027 | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Cybersecurity-Engineer-Intern--Spring-2027-_2025347?utm_source=aprameyak) | Nov 13 |
+| ↳ | Cyber AI Engineering Intern (Spring 2027) | Pittsburgh, PA | Spring 2027 | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1?utm_source=aprameyak) | Nov 13 |
+| ↳ | Cybersecurity Engineer Intern (Spring 2027) | Pittsburgh, PA | Spring 2027 | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/Cybersecurity-Engineer-Intern--Spring-2027-_2025347-1?utm_source=aprameyak) | Nov 13 |
+| ↳ | Cyber AI Engineering Intern (Spring 2027) | Pittsburgh, PA | Spring 2027 | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2?utm_source=aprameyak) | Nov 13 |
 | Elk Valley Resources | January 2027 Industrial Networking (Digital Systems) Co-op | Sparwood, BC | Co-op | Undergrad | [Apply](https://jobs.lever.co/evr/9a72ee7f-1a6a-448e-99b8-0e3a57e5ee6e?utm_source=aprameyak) | Nov 13 |
+| Fresenius Medical Care | Analytics and AI Business Analyst Co-op | Lawrence, MA | Co-op | Undergrad | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Lawrence-MA-USA/Analytics-and-AI-Business-Analyst-Co-op_R0277519?utm_source=aprameyak) | Nov 13 |
 | Jabil | IT Programmer Analyst Spring Co-Op | Florence, KY | Co-op | Undergrad | [Apply](https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Florence-KY/IT-Programmer-Analyst-Spring-Co-Op_J2471333?utm_source=aprameyak) | Nov 13 |
+| Manulife | Spring Co-op 2027 - Software Engineering Intern | Boston, MA | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405?utm_source=aprameyak) | Nov 13 |
+| SharkNinja | Spring 2027: Early Talent Access CO-OP (January to June) | Needham, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726471006?utm_source=aprameyak) | Nov 13 |
+| ↳ | Spring 2027: Talent Acceleration Co-op (January to June) | Needham, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726515006?utm_source=aprameyak) | Nov 13 |
 | Alexion | Co-Op, Development Operations AI & Automation Enablement Intern | Mississauga, ON | Co-op | Undergrad | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415?utm_source=aprameyak) | Nov 12 |
 | Bose | Digital Signal Processing ML Software Development Co-op | Framingham, MA | Co-op | Undergrad | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372?utm_source=aprameyak) | Nov 12 |
 | ↳ | Agentic AI Engineering Co-op – Active Noise Cancellation \| Fall 2027 | Framingham, MA | Co-op | Undergrad | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Agentic-AI-Engineering-Co-op---Active-Noise-Cancellation---Fall-2027_R29391?utm_source=aprameyak) | Nov 12 |
