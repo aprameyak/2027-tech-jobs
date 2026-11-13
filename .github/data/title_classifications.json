@@ -13242,8 +13242,9 @@
   },
   "ai engineer, ecosystem": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "ai engineer, product": {
@@ -28710,9 +28711,10 @@
     "b": "s"
   },
   "senior software engineer, performance": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior software engineer, performance tooling and infrastructure": {
