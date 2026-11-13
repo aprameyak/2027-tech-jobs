@@ -1,11 +1,18 @@
 # 🎓 New Grad 2027
 
-1481 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1488 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Barclays | S&T- Delta One Trading Analyst Graduate Program 2027 New York | New York, NY | Spring 2027 | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/S-T--Delta-One-Trading-Analyst-Graduate-Program-2027-New-York_JR-0000118428?utm_source=aprameyak) | Nov 13 |
+| Celonis 🛂 | Associate Technology Consultant - Galaxy Graduate Program | New York, NY |  | Undergrad | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8202446003?gh_jid=8202446003&utm_source=aprameyak) | Nov 13 |
+| ↳ | Associate Technology Consultant - Galaxy Graduate Program | Raleigh, NC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8202449003?gh_jid=8202449003&utm_source=aprameyak) | Nov 13 |
+| Kinaxis | Cloud Engineer 1, Site Reliability Engineering (Early Career, Junior level) | Ottawa, ON |  | Undergrad | [Apply](https://careers-kinaxis.icims.com/jobs/35470/cloud-engineer-1%2c-site-reliability-engineering-%28early-career%2c-junior-level%29/job?utm_source=aprameyak) | Nov 13 |
+| Northrop Grumman | 2027 - Associate Software Engineer - McClellan CA | Mcclellan, CA | Spring 2027 | Undergrad | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423?utm_source=aprameyak) | Nov 13 |
+| SpaceX | New Graduate Engineer, Aerospace Software (Starfall) | Hawthorne, CA |  | Undergrad | [Apply](https://boards.greenhouse.io/spacex/jobs/8939697002?gh_jid=8939697002&utm_source=aprameyak) | Nov 13 |
+| University of Maine System | Engineer I - Cloud Infrastructure and Security | Orono, ME |  | Undergrad | [Apply](https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3373?utm_source=aprameyak) | Nov 13 |
 | Ares Management | Associate, Data Platform Engineering | New York, NY |  | Undergrad | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Associate--Data-Platform-Engineering_R8755?utm_source=aprameyak) | Nov 12 |
 | Capital One | Associate, Data Scientist - US Card | McLean, VA |  | Undergrad | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1?utm_source=aprameyak) | Nov 12 |
 | Howden | Early Careers Analyst | Miami- 600 Brickell Avenue |  | Undergrad | [Apply](https://hyperiongrp.wd3.myworkdayjobs.com/en-US/Hyperion_External/job/Miami--600-Brickell-Avenue/Early-Careers-Analyst_R0020150?utm_source=aprameyak) | Nov 12 |

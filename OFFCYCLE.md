@@ -1,11 +1,14 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1149 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1152 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Bank of Montreal | AI Developer, Winter 2027 (Co-op/Internship) - 4 months | Toronto, ON | Co-op | Undergrad | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323?utm_source=aprameyak) | Nov 13 |
+| Elk Valley Resources | January 2027 Industrial Networking (Digital Systems) Co-op | Sparwood, BC | Co-op | Undergrad | [Apply](https://jobs.lever.co/evr/9a72ee7f-1a6a-448e-99b8-0e3a57e5ee6e?utm_source=aprameyak) | Nov 13 |
+| Jabil | IT Programmer Analyst Spring Co-Op | Florence, KY | Co-op | Undergrad | [Apply](https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Florence-KY/IT-Programmer-Analyst-Spring-Co-Op_J2471333?utm_source=aprameyak) | Nov 13 |
 | Alexion | Co-Op, Development Operations AI & Automation Enablement Intern | Mississauga, ON | Co-op | Undergrad | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415?utm_source=aprameyak) | Nov 12 |
 | Bose | Digital Signal Processing ML Software Development Co-op | Framingham, MA | Co-op | Undergrad | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372?utm_source=aprameyak) | Nov 12 |
 | ↳ | Agentic AI Engineering Co-op – Active Noise Cancellation \| Fall 2027 | Framingham, MA | Co-op | Undergrad | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Agentic-AI-Engineering-Co-op---Active-Noise-Cancellation---Fall-2027_R29391?utm_source=aprameyak) | Nov 12 |
