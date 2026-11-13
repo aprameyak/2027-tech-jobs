@@ -64175,9 +64175,10 @@
   },
   "continuous improvement intern": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "rf engineering intern - 2026": {
     "t": false,
@@ -74826,8 +74827,9 @@
   },
   "associate product manager intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "business controller intern": {
