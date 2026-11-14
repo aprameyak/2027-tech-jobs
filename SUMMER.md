@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4308 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4327 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -8,8 +8,27 @@
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | Amazon | Data Center Infrastructure Engineer Intern, Summer 2027 - East | Herndon, VA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east) | Nov 14 |
 | ↳ | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast | Umatilla, OR | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast) | Nov 14 |
+| Camping World | New Product Development Product Management Intern | Lincolnshire, IL | Undergrad | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/New-Product-Development-Product-Management-Intern_26_09086?utm_source=aprameyak) | Nov 14 |
+| ↳ | Software Engineering Intern | Lincolnshire, IL | Undergrad | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080?utm_source=aprameyak) | Nov 14 |
+| ↳ | Data Engineering Intern | Chicago, IL | Undergrad | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297?utm_source=aprameyak) | Nov 14 |
+| ↳ | Data Analyst Intern | Chicago, IL | Undergrad | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300?utm_source=aprameyak) | Nov 14 |
+| ↳ | AI Security Intern | Chicago, IL | Undergrad | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/AI-Security-Intern_26_09083?utm_source=aprameyak) | Nov 14 |
+| ↳ | IT Support Intern | Chicago, IL | Undergrad | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/IT-Support-Intern_26_09289?utm_source=aprameyak) | Nov 14 |
+| ↳ | Conversational Design Intern | Chicago, IL | Undergrad | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Conversational-Design-Intern_26_09081?utm_source=aprameyak) | Nov 14 |
+| CrowdStrike | Intelligence Launch Intern - Summer 2027 | Arlington, VA | Undergrad | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Launch-Intern---Summer-2027_R30506?utm_source=aprameyak) | Nov 14 |
+| Daimler Truck | IT Developer Analyst Intern | Mount Holly, NC | Undergrad | [Apply](https://dtna.wd5.myworkdayjobs.com/en-US/dtna_external/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681?utm_source=aprameyak) | Nov 14 |
+| General Dynamics Mission Systems | Intern Engineer | Pittsfield, MA | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/75487/intern-engineer/job?utm_source=aprameyak) | Nov 14 |
+| Little Caesars Enterprises | Retail Tech/AP Intern | Detroit, MI | Undergrad | [Apply](https://ilitch.wd5.myworkdayjobs.com/en-US/lc/job/Detroit-MI/Retail-Tech-AP-Intern_R9741?utm_source=aprameyak) | Nov 14 |
+| Rocket Companies | Instructional Design Intern - Summer 2027 | Detroit, MI | Undergrad | [Apply](https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Instructional-Design-Intern---Summer-2027_R-084817?utm_source=aprameyak) | Nov 14 |
+| ↳ | Data Analyst Intern - Summer 2027 | Detroit, MI | Undergrad | [Apply](https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832?utm_source=aprameyak) | Nov 14 |
+| ↳ | Digital Strategy & Creator Intern - Summer 2027 | Detroit, MI | Undergrad | [Apply](https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Digital-Strategy---Creator-Intern---Summer-2027_R-085131?utm_source=aprameyak) | Nov 14 |
+| ↳ | Technology Risk Assurance Intern - Summer 2027 | Detroit, MI | Undergrad | [Apply](https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Technology-Risk-Assurance-Intern---Summer-2027_R-084815?utm_source=aprameyak) | Nov 14 |
+| ↳ | Financial Systems Intern - Summer 2027 | Detroit, MI | Masters | [Apply](https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Financial-Systems-Intern---Summer-2027_R-084978?utm_source=aprameyak) | Nov 14 |
 | SAS | Summer 2027 - Software Developer Intern (Go/Golang Experience) | Cary, NC | Undergrad | [Apply](https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job?utm_source=aprameyak) | Nov 14 |
+| ↳ | Summer 2027 - IoT Product Strategy Intern (Master's) | Cary, NC | Masters | [Apply](https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern-%28master%27s%29/job?utm_source=aprameyak) | Nov 14 |
+| Semtech | Applications Engineering Intern | Burlington, ON | Undergrad | [Apply](https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/CAN---Burlington-ON/Applications-Engineering-Intern_REQ3615?utm_source=aprameyak) | Nov 14 |
 | ServiceNow | AI Identity Intern | Kirkland, WA | Undergrad | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161594249?utm_source=aprameyak) | Nov 14 |
+| State Street | Cyber Security Operations Center Analyst, Full-time Internship (Jan - June 2027) | Quincy, MA | Undergrad | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091?utm_source=aprameyak) | Nov 14 |
 | Toyota Research Institute | Research Intern, Continual Adaptation for Robotics | Cambridge, MA | Undergrad | [Apply](https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac?utm_source=aprameyak) | Nov 14 |
 | Zoox | Feature Integration Intern [Summer 2027] | Foster City, CA | Undergrad | [Apply](https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f?utm_source=aprameyak) | Nov 14 |
 | Acumatica | Intern Developer/ Stagiaire développeur | Montreal, QC | Undergrad | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000161353959?utm_source=aprameyak) | Nov 13 |

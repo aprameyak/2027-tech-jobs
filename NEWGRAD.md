@@ -1,11 +1,15 @@
 # 🎓 New Grad 2027
 
-1497 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1501 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| CACI | Full-Stack Web Applications Developer | Bethesda, MD |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Bethesda-MD-US/Full-Stack-Web-Applications-Developer_334997?utm_source=aprameyak) | Nov 14 |
+| Everest | 2027 Information Technology Rotational Development Program | Warren, NJ | Spring 2027 | Undergrad | [Apply](https://everestre.wd5.myworkdayjobs.com/en-US/careers/job/Warren-NJ/XMLNAME-2026-Underwriting-Rotational-Development-Program_R6900?utm_source=aprameyak) | Nov 14 |
+| Kyndryl | Entry Level Red Hat Specialist | Dallas (USDALFRI) Frisco AI HUB |  | Undergrad | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Entry-Level-Red-Hat-Specialist_R-72253?utm_source=aprameyak) | Nov 14 |
+| RTX | Engineering Development Program Engineer I (Onsite) | North Berwick, ME |  | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Engineering-Development-Program-Engineer-I--Onsite-_01888350?utm_source=aprameyak) | Nov 14 |
 | Barclays | S&T- Delta One Trading Analyst Graduate Program 2027 New York | New York, NY | Spring 2027 | Undergrad | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/S-T--Delta-One-Trading-Analyst-Graduate-Program-2027-New-York_JR-0000118428?utm_source=aprameyak) | Nov 13 |
 | Celonis 🛂 | Associate Technology Consultant - Galaxy Graduate Program | New York, NY |  | Undergrad | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8202446003?gh_jid=8202446003&utm_source=aprameyak) | Nov 13 |
 | ↳ | Associate Technology Consultant - Galaxy Graduate Program | Raleigh, NC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8202449003?gh_jid=8202449003&utm_source=aprameyak) | Nov 13 |
