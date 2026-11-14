@@ -1,11 +1,17 @@
 # ☀️ Summer 2027 Internships
 
-4302 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4308 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Amazon | Data Center Infrastructure Engineer Intern, Summer 2027 - East | Herndon, VA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east) | Nov 14 |
+| ↳ | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast | Umatilla, OR | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast) | Nov 14 |
+| SAS | Summer 2027 - Software Developer Intern (Go/Golang Experience) | Cary, NC | Undergrad | [Apply](https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job?utm_source=aprameyak) | Nov 14 |
+| ServiceNow | AI Identity Intern | Kirkland, WA | Undergrad | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161594249?utm_source=aprameyak) | Nov 14 |
+| Toyota Research Institute | Research Intern, Continual Adaptation for Robotics | Cambridge, MA | Undergrad | [Apply](https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac?utm_source=aprameyak) | Nov 14 |
+| Zoox | Feature Integration Intern [Summer 2027] | Foster City, CA | Undergrad | [Apply](https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f?utm_source=aprameyak) | Nov 14 |
 | Acumatica | Intern Developer/ Stagiaire développeur | Montreal, QC | Undergrad | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000161353959?utm_source=aprameyak) | Nov 13 |
 | Addepar 🛂 | Summer 2027 Internship - Product Analyst (Navigator) | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910306002?utm_source=aprameyak) | Nov 13 |
 | Alexion | Summer 2027 Innovation and AI Transformation Intern | Boston, MA | Undergrad | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/alexion/job/US---Boston---MA/Summer-2027-Innovation-and-AI-Transformation-Intern_R-264282?utm_source=aprameyak) | Nov 13 |

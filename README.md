@@ -40,7 +40,9 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4302)
+**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
+
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4308)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1162)
 - [🎓 New Grad 2027](./NEWGRAD.md) (1497)
 
@@ -56,12 +58,18 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4302** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4308** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Amazon | Data Center Infrastructure Engineer Intern, Summer 2027 - East | Herndon, VA | Undergrad | <a href="https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| ↳ | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast | Umatilla, OR | Undergrad | <a href="https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| SAS | Summer 2027 - Software Developer Intern (Go/Golang Experience) | Cary, NC | Undergrad | <a href="https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| ServiceNow | AI Identity Intern | Kirkland, WA | Undergrad | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000161594249?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| Toyota Research Institute | Research Intern, Continual Adaptation for Robotics | Cambridge, MA | Undergrad | <a href="https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| Zoox | Feature Integration Intern [Summer 2027] | Foster City, CA | Undergrad | <a href="https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Acumatica | Intern Developer/ Stagiaire développeur | Montreal, QC | Undergrad | <a href="https://jobs.smartrecruiters.com/Acumatica/744000161353959?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Addepar 🛂 | Summer 2027 Internship - Product Analyst (Navigator) | New York, NY | Undergrad | <a href="https://job-boards.greenhouse.io/addepar1/jobs/8910306002?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Alexion | Summer 2027 Innovation and AI Transformation Intern | Boston, MA | Undergrad | <a href="https://astrazeneca.wd3.myworkdayjobs.com/en-US/alexion/job/US---Boston---MA/Summer-2027-Innovation-and-AI-Transformation-Intern_R-264282?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
@@ -131,12 +139,6 @@ Showing newest **75** of **4302** listings · [View full table](./SUMMER.md)
 | Vizient | 2027 Summer Internship - Contract Operations – Analytics | Chicago, IL | Undergrad | <a href="https://vizient.wd1.myworkdayjobs.com/en-US/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | ↳ | 2027 Summer Internship - Data & Digital Finance Business Partner | Chicago, IL | Undergrad | <a href="https://vizient.wd1.myworkdayjobs.com/en-US/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Data---Digital-Finance-Business-Partner_36051R-1?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Walmart | Summer 2027 Corporate Intern: APD Automation Engineer | (USA) Together Building AR Bentonville Home Office | Undergrad | <a href="https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--APD-Automation-Engineer_R-2630170?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| ↳ | Summer 2027 Corporate Intern: eCommerce Site Experience | Bentonville, AR | Undergrad | <a href="https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--eCommerce-Site-Experience_R-2699454?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| ↳ | Summer 2027 Corporate Intern: eCommerce Site Experience | Bentonville, AR | Undergrad | <a href="https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--eCommerce-Site-Experience_R-2699496?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| ↳ | Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern | (USA) Together Building AR Bentonville Home Office | Undergrad | <a href="https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Last-Mile-Delivery-Data-Science-Intern_R-2686435?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| WTW | Early Careers: Data Analyst Internship | New York, NY | Undergrad | <a href="https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607277?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| Zoox | Data Scientist Intern [Summer 2027] | Foster City, CA | Undergrad | <a href="https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| AeroVironment | Software Engineering Intern | Lawrence, KS | Undergrad | <a href="https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Lawrence-KS/Software-Engineering-Intern_9360?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
