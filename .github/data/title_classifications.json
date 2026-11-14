@@ -132340,5 +132340,32 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "data center infrastructure engineer intern, summer 2027 - east": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "data center infrastructure engineer intern, summer 2027 - west coast": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer iii, ai/ml genai, google cloud ai": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "staff software engineer, infrastructure, netinfra drain": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
