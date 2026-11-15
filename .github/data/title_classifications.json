@@ -75996,8 +75996,10 @@
   },
   "university - summer 27, contracts intern": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "university master\u2019s, 2026 fall technologist intern": {
     "t": false,
