@@ -1,11 +1,15 @@
 # ☀️ Summer 2027 Internships
 
-4327 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4331 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Becton Dickinson | Controls Tech Intern | Columbus, NE | Undergrad | [Apply](https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/Controls-Tech-Intern_R-558544?utm_source=aprameyak) | Nov 15 |
+| Cigna | Healthcare Analytics Summer Intern - Start Date: May 24, 2027 | Morris Plains, NJ | Undergrad | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857?utm_source=aprameyak) | Nov 15 |
+| CME Group | IT Asset Management Intern - Summer 2027 | Chicago, IL | Undergrad | [Apply](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/IT-Asset-Management-Intern---Summer-2027_34985-1?utm_source=aprameyak) | Nov 15 |
+| General Dynamics Information Technology | JMSC-P Boundary Enclave Administrator Intern | Schofield, HI | Undergrad | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-HI-Schofield/JMSC-P-Boundary-Enclave-Administrator-Intern_RQ231969-2?utm_source=aprameyak) | Nov 15 |
 | Amazon | Data Center Infrastructure Engineer Intern, Summer 2027 - East | Herndon, VA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east) | Nov 14 |
 | ↳ | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast | Umatilla, OR | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast) | Nov 14 |
 | Camping World | New Product Development Product Management Intern | Lincolnshire, IL | Undergrad | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/New-Product-Development-Product-Management-Intern_26_09086?utm_source=aprameyak) | Nov 14 |

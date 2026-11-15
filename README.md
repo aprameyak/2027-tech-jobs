@@ -44,7 +44,9 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4327)
+**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
+
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4331)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1163)
 - [🎓 New Grad 2027](./NEWGRAD.md) (1501)
 
@@ -60,12 +62,16 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4327** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4331** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Becton Dickinson | Controls Tech Intern | Columbus, NE | Undergrad | <a href="https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/Controls-Tech-Intern_R-558544?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
+| Cigna | Healthcare Analytics Summer Intern - Start Date: May 24, 2027 | Morris Plains, NJ | Undergrad | <a href="https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
+| CME Group | IT Asset Management Intern - Summer 2027 | Chicago, IL | Undergrad | <a href="https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/IT-Asset-Management-Intern---Summer-2027_34985-1?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
+| General Dynamics Information Technology | JMSC-P Boundary Enclave Administrator Intern | Schofield, HI | Undergrad | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-HI-Schofield/JMSC-P-Boundary-Enclave-Administrator-Intern_RQ231969-2?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Amazon | Data Center Infrastructure Engineer Intern, Summer 2027 - East | Herndon, VA | Undergrad | <a href="https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | ↳ | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast | Umatilla, OR | Undergrad | <a href="https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Camping World | New Product Development Product Management Intern | Lincolnshire, IL | Undergrad | <a href="https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/New-Product-Development-Product-Management-Intern_26_09086?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
@@ -137,10 +143,6 @@ Showing newest **75** of **4327** listings · [View full table](./SUMMER.md)
 | Reliable Robotics 🛂 🇺🇸 | Flight Software Engineer Intern (Summer 2027) | Mountain View, CA | Undergrad | <a href="https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Scout Motors 🛂 | Intern, Products | Charlotte, NC | Undergrad | <a href="https://job-boards.greenhouse.io/scoutmotors/jobs/5287127007?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Seaspan | Intern, Data Engineering (4 Months) | North Vancouver, BC | Undergrad | <a href="https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| ServiceNow | Product Security Intern | San Diego, CA | Undergrad | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000161385779?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| ↳ | Security Engineer Intern | Kirkland, WA | Undergrad | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000161592679?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| ↳ | Sr Outbound Product Manager Intern (MBA Summer 2027) | San Diego, CA | Undergrad | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000161590090?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| ↳ | Sr Inbound Product Manager Intern (MBA Summer 2027) | San Diego, CA | Undergrad | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000161584449?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
