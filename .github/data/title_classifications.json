@@ -132499,5 +132499,17 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "senior software engineer, data platform & ai enablement": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "product manager, network & accounts": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
