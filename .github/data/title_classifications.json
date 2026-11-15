@@ -60811,9 +60811,10 @@
     "b": "s"
   },
   "staff software engineer, linux kernel": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff software engineer, machine learning, planner selection": {
@@ -132509,6 +132510,12 @@
     "a": 0
   },
   "product manager, network & accounts": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer, google data center planning": {
     "t": false,
     "c": "high",
     "v": "cs-is-v4",
