@@ -46,9 +46,11 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4331)
+**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
+
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4333)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1163)
-- [🎓 New Grad 2027](./NEWGRAD.md) (1501)
+- [🎓 New Grad 2027](./NEWGRAD.md) (1502)
 
 ## Legend
 
@@ -62,12 +64,14 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4331** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4333** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Addepar | Technical Product Management Intern (ADX) - Summer 2027 | New York, NY | Undergrad | <a href="https://job-boards.greenhouse.io/addepar1/jobs/8910324002?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
+| JPMorgan Chase | 2027 Consumer & Community Banking -Summer Associate | New York, NY | Undergrad | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807923?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Becton Dickinson | Controls Tech Intern | Columbus, NE | Undergrad | <a href="https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/Controls-Tech-Intern_R-558544?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Cigna | Healthcare Analytics Summer Intern - Start Date: May 24, 2027 | Morris Plains, NJ | Undergrad | <a href="https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | CME Group | IT Asset Management Intern - Summer 2027 | Chicago, IL | Undergrad | <a href="https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/IT-Asset-Management-Intern---Summer-2027_34985-1?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
@@ -141,8 +145,6 @@ Showing newest **75** of **4331** listings · [View full table](./SUMMER.md)
 | Oshkosh | Telematics Intern (Summer 2027) | Orlando, FL | Undergrad | <a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orlando-Florida-United-States/Telematics-Intern--Summer-2027-_R49827?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | PTC | IT Internal Audit Intern (Summer 2027) | Boston, MA | Undergrad | <a href="https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Boston-MA-USA/Internal-Audit-Intern--Summer-2027-_JR113082?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Reliable Robotics 🛂 🇺🇸 | Flight Software Engineer Intern (Summer 2027) | Mountain View, CA | Undergrad | <a href="https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| Scout Motors 🛂 | Intern, Products | Charlotte, NC | Undergrad | <a href="https://job-boards.greenhouse.io/scoutmotors/jobs/5287127007?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| Seaspan | Intern, Data Engineering (4 Months) | North Vancouver, BC | Undergrad | <a href="https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
@@ -232,12 +234,13 @@ Showing newest **75** of **1163** listings · [View full table](./OFFCYCLE.md)
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **1501** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **1502** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| American Express | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- Toronto, Ontario, Canada | Toronto, ON |  | Undergrad | <a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | CACI | Full-Stack Web Applications Developer | Bethesda, MD |  | Undergrad | <a href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/Bethesda-MD-US/Full-Stack-Web-Applications-Developer_334997?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Everest | 2027 Information Technology Rotational Development Program | Warren, NJ | Spring 2027 | Undergrad | <a href="https://everestre.wd5.myworkdayjobs.com/en-US/careers/job/Warren-NJ/XMLNAME-2026-Underwriting-Rotational-Development-Program_R6900?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Kyndryl | Entry Level Red Hat Specialist | Dallas (USDALFRI) Frisco AI HUB |  | Undergrad | <a href="https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Entry-Level-Red-Hat-Specialist_R-72253?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
@@ -312,7 +315,6 @@ Showing newest **75** of **1501** listings · [View full table](./NEWGRAD.md)
 | Intercontinental Exchange | Associate Full Stack Developer | Jacksonville, FL |  | Undergrad | <a href="https://careers-ice.icims.com/jobs/13532/associate-full-stack-developer/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
 | Iridium Communications | Network Operations Engineer I | Tempe, AZ |  | Undergrad | <a href="https://careers-iridium.icims.com/jobs/4990/network-operations-engineer-i/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
 | ↳ | Systems Development Engineer I | Chandler, AZ |  | Masters | <a href="https://careers-iridium.icims.com/jobs/5109/systems-development-engineer-i/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
-| JPMorgan Chase | Quantitative Trading & Research - EM Rates - Associate | New York, NY |  | Undergrad | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807588?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
 <!-- TABLE_END newgrad -->
 
 ## License

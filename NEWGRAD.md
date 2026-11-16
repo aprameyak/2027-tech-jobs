@@ -1,11 +1,12 @@
 # 🎓 New Grad 2027
 
-1501 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1502 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| American Express | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- Toronto, Ontario, Canada | Toronto, ON |  | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677?utm_source=aprameyak) | Nov 16 |
 | CACI | Full-Stack Web Applications Developer | Bethesda, MD |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Bethesda-MD-US/Full-Stack-Web-Applications-Developer_334997?utm_source=aprameyak) | Nov 14 |
 | Everest | 2027 Information Technology Rotational Development Program | Warren, NJ | Spring 2027 | Undergrad | [Apply](https://everestre.wd5.myworkdayjobs.com/en-US/careers/job/Warren-NJ/XMLNAME-2026-Underwriting-Rotational-Development-Program_R6900?utm_source=aprameyak) | Nov 14 |
 | Kyndryl | Entry Level Red Hat Specialist | Dallas (USDALFRI) Frisco AI HUB |  | Undergrad | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Entry-Level-Red-Hat-Specialist_R-72253?utm_source=aprameyak) | Nov 14 |

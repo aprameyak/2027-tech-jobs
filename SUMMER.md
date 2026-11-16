@@ -1,11 +1,13 @@
 # ☀️ Summer 2027 Internships
 
-4331 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4333 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Addepar | Technical Product Management Intern (ADX) - Summer 2027 | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910324002?utm_source=aprameyak) | Nov 16 |
+| JPMorgan Chase | 2027 Consumer & Community Banking -Summer Associate | New York, NY | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807923?utm_source=aprameyak) | Nov 16 |
 | Becton Dickinson | Controls Tech Intern | Columbus, NE | Undergrad | [Apply](https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/Controls-Tech-Intern_R-558544?utm_source=aprameyak) | Nov 15 |
 | Cigna | Healthcare Analytics Summer Intern - Start Date: May 24, 2027 | Morris Plains, NJ | Undergrad | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857?utm_source=aprameyak) | Nov 15 |
 | CME Group | IT Asset Management Intern - Summer 2027 | Chicago, IL | Undergrad | [Apply](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/IT-Asset-Management-Intern---Summer-2027_34985-1?utm_source=aprameyak) | Nov 15 |
