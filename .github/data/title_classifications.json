@@ -7423,9 +7423,9 @@
     "b": "s"
   },
   "senior software engineer, discovery": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
