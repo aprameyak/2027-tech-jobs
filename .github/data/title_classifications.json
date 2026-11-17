@@ -14015,8 +14015,9 @@
   },
   "ai product engineer - clickstack": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "cloud database infrastructure engineer": {
