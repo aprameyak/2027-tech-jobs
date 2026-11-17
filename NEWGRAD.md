@@ -1,11 +1,19 @@
 # 🎓 New Grad 2027
 
-1502 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1510 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Addepar 🛂 | Addegrad - Client Solutions Analyst (NYC) - 2027 | New York, NY |  | Undergrad | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8925407002?utm_source=aprameyak) | Nov 17 |
+| Fortinet | Early Careers: Software Engineer | Sunnyvale, CA |  | Undergrad | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24960?utm_source=aprameyak) | Nov 17 |
+| GHD | Graduate Developer | FARMINGTON HILLS, MI |  | Undergrad | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29481?utm_source=aprameyak) | Nov 17 |
+| JPMorgan Chase | Technology, Data and Product - United States - 2027 ReEntry Program | Plano, TX |  | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809152?utm_source=aprameyak) | Nov 17 |
+| Momentum | 2027 Launch Graduate Program: Associate Cybersecurity Analyst | Dallas, TX | Spring 2027 | Undergrad | [Apply](https://job-boards.greenhouse.io/momentumcompany3/jobs/8614696002?utm_source=aprameyak) | Nov 17 |
+| ↳ | 2027 Launch Graduate Program: Associate Enterprise Systems Analyst | Dallas, TX | Spring 2027 | Masters | [Apply](https://job-boards.greenhouse.io/momentumcompany3/jobs/8606824002?utm_source=aprameyak) | Nov 17 |
+| Roblox 🛂 | [2027] Data Scientist - PhD Early Career - Safety | San Mateo, CA | Spring 2027 | PhD | [Apply](https://careers.roblox.com/jobs/8384186?gh_jid=8384186) | Nov 17 |
+| RR Donnelley | Associate Software Developer (Manufacturing) | Houston, TX |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/RRDonnelley/744000161907179?utm_source=aprameyak) | Nov 17 |
 | American Express | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- Toronto, Ontario, Canada | Toronto, ON |  | Undergrad | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677?utm_source=aprameyak) | Nov 16 |
 | CACI | Full-Stack Web Applications Developer | Bethesda, MD |  | Undergrad | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Bethesda-MD-US/Full-Stack-Web-Applications-Developer_334997?utm_source=aprameyak) | Nov 14 |
 | Everest | 2027 Information Technology Rotational Development Program | Warren, NJ | Spring 2027 | Undergrad | [Apply](https://everestre.wd5.myworkdayjobs.com/en-US/careers/job/Warren-NJ/XMLNAME-2026-Underwriting-Rotational-Development-Program_R6900?utm_source=aprameyak) | Nov 14 |
