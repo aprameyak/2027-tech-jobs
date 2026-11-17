@@ -2230,9 +2230,10 @@
     "b": "s"
   },
   "chief engineer, intelligence systems": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "chief engineer, intel systems": {
@@ -31730,8 +31731,9 @@
   },
   "sr. software engineer, ios": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "sr. software engineer, machine learning, tvscientific": {
@@ -35322,8 +35324,9 @@
   },
   "integration reliability engineer, technical operations": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "internal product engineer, developer productivity ai ": {
@@ -55118,9 +55121,9 @@
     "b": "s"
   },
   "principal software engineer (platform team)": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
