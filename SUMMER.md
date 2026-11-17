@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4360 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4365 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -9,10 +9,12 @@
 | Anduril | 2027 Deployment Operations Intern | Quincy, MA | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5296825007?gh_jid=5296825007&utm_source=aprameyak) | Nov 17 |
 | Bosch | Research Intern: Multimodal Foundation Models for Healthcare | Pittsburgh, PA | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161844052?utm_source=aprameyak) | Nov 17 |
 | ↳ | Research Intern: Multimodal Sensor Foundation Models | Pittsburgh, PA | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161841434?utm_source=aprameyak) | Nov 17 |
+| ↳ | AI Application Intern (8 months/40 hours per week) | Farmington Hills, MI | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162076254?utm_source=aprameyak) | Nov 17 |
 | Carnegie Mellon University | AI Engineer Intern - Mission Innovation Lab (Summer 2027) | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1?utm_source=aprameyak) | Nov 17 |
 | ↳ | AI Engineer Intern - Mission Innovation Lab (Summer 2027) | Pittsburgh, PA | Undergrad | [Apply](https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364?utm_source=aprameyak) | Nov 17 |
 | Clera | Full-Stack Software Engineering Intern | New York, NY | Undergrad | [Apply](https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d/application?utm_source=aprameyak) | Nov 17 |
 | Formlabs | Customer Strategy & Analytics MBA Intern (Summer 2027) | Somerville, MA | Undergrad | [Apply](https://careers.formlabs.com/job/8385574/apply/?gh_jid=8385574) | Nov 17 |
+| General Dynamics Mission Systems | AI Engineering Intern- Summer 2027 | Middletown, RI | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/76081/ai-engineering-intern--summer-2027/job?utm_source=aprameyak) | Nov 17 |
 | Genuine Parts Company | Technology Intern 2027 | Atlanta, GA | Undergrad | [Apply](https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/Technology-Intern-2027_R26_0000037382?utm_source=aprameyak) | Nov 17 |
 | GM Financial | Intern - Software Development Engineer | Irving, TX | Undergrad | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261292?utm_source=aprameyak) | Nov 17 |
 | Leidos | Cybersecurity Intern | Fort Belvoir, VA | Undergrad | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Cybersecurity-Intern_R-00197087?utm_source=aprameyak) | Nov 17 |
@@ -20,12 +22,14 @@
 | LinkedIn | Systems & Infrastructure Engineer Intern, Masters - Summer 2027 (Mountain View, CA) | Mountain View, CA | Masters | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000161930950?utm_source=aprameyak) | Nov 17 |
 | Loram | Technical Communications Intern | Hamel, MN | Undergrad | [Apply](https://jobs.smartrecruiters.com/Loram1/3743990016885805?utm_source=aprameyak) | Nov 17 |
 | NBCUniversal | Digital Transformation AR/VR Internships – Summer 2027 | Universal City, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000161879279?utm_source=aprameyak) | Nov 17 |
+| ↳ | Universal Film Production IT Support Internships – Summer 2027 | Universal City, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000161876175?utm_source=aprameyak) | Nov 17 |
 | Pacific Fusion | Summer 2027 HPC/DevOps Engineering Intern | San Leandro, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505668009?utm_source=aprameyak) | Nov 17 |
 | ↳ | Summer 2027 Modeling and Simulation Intern | San Leandro, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505730009?utm_source=aprameyak) | Nov 17 |
 | Quest Analytics 🛂 | Software Engineer Intern - C#, ASP.NET - Summer 2027 in Kansas City | Overland Park, KS | Undergrad | [Apply](https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f?utm_source=aprameyak) | Nov 17 |
 | SAIC | Technical Intern | Reston, VA | Undergrad | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2619147?utm_source=aprameyak) | Nov 17 |
 | SAS | Summer 2027 – Optimization Intern (Master's) | Cary, NC | Masters | [Apply](https://careers-sas.icims.com/jobs/42754/summer-2027-%e2%80%93-optimization-intern-%28master%27s%29/job?utm_source=aprameyak) | Nov 17 |
 | ↳ | Summer 2027 – Time Series Foundation Model Intern (Master's) | Cary, NC | Masters | [Apply](https://careers-sas.icims.com/jobs/42753/summer-2027-%e2%80%93-time-series-foundation-model-intern-%28master%27s%29/job?utm_source=aprameyak) | Nov 17 |
+| ↳ | Summer 2027 – Econometrics Intern (Master's) | Cary, NC | Masters | [Apply](https://careers-sas.icims.com/jobs/42755/summer-2027-%e2%80%93-econometrics-intern-%28master%27s%29/job?utm_source=aprameyak) | Nov 17 |
 | ServiceNow | Associate Forward Deployed Solution Engineer Intern (Bachelors Summer 2027) | Santa Clara, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161936128?utm_source=aprameyak) | Nov 17 |
 | ↳ | Forward Deployed Solution Engineer Intern (Masters Summer 2027) | Santa Clara, CA | Masters | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161936020?utm_source=aprameyak) | Nov 17 |
 | ↳ | Inbound Product Manager (Masters Summer 2027) | San Diego, CA | Masters | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161885234?utm_source=aprameyak) | Nov 17 |
@@ -33,6 +37,7 @@
 | Toyota Research Institute | Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge) | Cambridge, MA | Undergrad | [Apply](https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476?utm_source=aprameyak) | Nov 17 |
 | ↳ | Research Intern, Spatial Intelligence for Robotics | Cambridge, MA | Undergrad | [Apply](https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e?utm_source=aprameyak) | Nov 17 |
 | ↳ | Robotics Intern, World Models, Multimodal Sensing | Cambridge, MA | Undergrad | [Apply](https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3?utm_source=aprameyak) | Nov 17 |
+| W.R. Berkley | IT Intern | Irving, TX | Undergrad | [Apply](https://careers-berkley.icims.com/jobs/15309/it-intern/job?utm_source=aprameyak) | Nov 17 |
 | Addepar | Technical Product Management Intern (ADX) - Summer 2027 | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910324002?utm_source=aprameyak) | Nov 16 |
 | JPMorgan Chase | 2027 Consumer & Community Banking -Summer Associate | New York, NY | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807923?utm_source=aprameyak) | Nov 16 |
 | Becton Dickinson | Controls Tech Intern | Columbus, NE | Undergrad | [Apply](https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/Controls-Tech-Intern_R-558544?utm_source=aprameyak) | Nov 15 |
