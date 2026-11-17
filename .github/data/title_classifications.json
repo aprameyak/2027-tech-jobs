@@ -52137,8 +52137,8 @@
   },
   "data infrastructure operations specialist ii (starlink)": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -53712,8 +53712,8 @@
   },
   "it systems administrator, launch": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -59120,8 +59120,9 @@
   },
   "software engineer, safety": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "strategy & ops senior manager": {
