@@ -1,11 +1,18 @@
 # 🎓 New Grad 2027
 
-1520 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1527 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Atoms | AI Researcher - New Grad (BS/MS) | San Francisco, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8948844002?utm_source=aprameyak) | Nov 18 |
+| ↳ | AI Researcher - New Grad (PhD) | San Francisco, CA |  | PhD | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8948819002?utm_source=aprameyak) | Nov 18 |
+| Fortinet | Early Careers: Software Developer Engineer | Sunnyvale, CA |  | Undergrad | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24983?utm_source=aprameyak) | Nov 18 |
+| NBCUniversal | Associate SDET (Software Development Engineer in Test) | Remote (US) |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000162180744?utm_source=aprameyak) | Nov 18 |
+| Sherwin-Williams | Full Stack Developer | Cleveland, OH |  | Undergrad | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629244?utm_source=aprameyak) | Nov 18 |
+| Sony Pictures Imageworks | Associate Software Engineer | Vancouver, BC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/8207482003?utm_source=aprameyak) | Nov 18 |
+| ↳ | Infrastructure - Développeur(euse) de logiciel/ Infrastructure - Associate Software Developer | Montreal, QC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/8207497003?utm_source=aprameyak) | Nov 18 |
 | AbbVie | Associate Full-Stack Software Engineer II | Mettawa, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016895576?utm_source=aprameyak) | Nov 17 |
 | Addepar 🛂 | Addegrad - Client Solutions Analyst (NYC) - 2027 | New York, NY |  | Undergrad | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8925407002?utm_source=aprameyak) | Nov 17 |
 | Fortinet | Early Careers: Software Engineer | Sunnyvale, CA |  | Undergrad | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24960?utm_source=aprameyak) | Nov 17 |

@@ -1,11 +1,16 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1165 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1170 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Anduril 🛂 | 2027 Product Data Quality Co-op | Santa Ana, CA | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007&utm_source=aprameyak) | Nov 18 |
+| fgf brands | Quality Assurance Co-Op (Winter 2027) | Remote (US) | Co-op | Undergrad | [Apply](https://careerscoopinternen-fgfbrands.icims.com/jobs/28064/quality-assurance-co-op-%28winter-2027%29/job?utm_source=aprameyak) | Nov 18 |
+| SRI International | Drexel University Co-op: Software Engineering | Princeton, NJ | Co-op | Undergrad | [Apply](https://careers-sri.icims.com/jobs/6540/drexel-university-co-op%3a-software-engineering/job?utm_source=aprameyak) | Nov 18 |
+| Stantec | Co-op Student - Quality Assurance (French Bilingual ) (8-12 Month Term) | Edmonton, AB | Co-op | Undergrad | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008646?utm_source=aprameyak) | Nov 18 |
+| Vertiv | UX Design Intern (Winter/Spring 2027) | Westerville, OH | Spring 2027 | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285463?utm_source=aprameyak) | Nov 18 |
 | SharkNinja | Spring 2027: Service Desk Co-op (January to June) | Needham, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727535006?utm_source=aprameyak) | Nov 17 |
 | SRI International | Drexel University Co-op: Software Engineering/Full stack development | Princeton, NJ | Co-op | Undergrad | [Apply](https://careers-sri.icims.com/jobs/6541/drexel-university-co-op%3a-software-engineering-full-stack-development/job?utm_source=aprameyak) | Nov 17 |
 | RTX | Software Engineering Co-op (Summer/Fall) | Richardson, TX | Co-op | Undergrad | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404?utm_source=aprameyak) | Nov 14 |
