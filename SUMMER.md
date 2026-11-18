@@ -1,13 +1,20 @@
 # ☀️ Summer 2027 Internships
 
-4372 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4379 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Airbnb | Software Engineering Intern (BS/MS) | San Francisco, CA | Undergrad | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) | Nov 18 |
 | Anduril 🛂 | 2027 Machine Learning Engineer Intern | Santa Ana, CA | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007&utm_source=aprameyak) | Nov 18 |
+| Berkshire Hathaway Energy | Intern (System Planning & Optimization Engineer) | Glen Allen, VA | Undergrad | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005980?utm_source=aprameyak) | Nov 18 |
+| Bosch | Robot Learning Research Intern | Pittsburgh, PA | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162212029?utm_source=aprameyak) | Nov 18 |
 | Camping World | AI Intern | Chicago, IL | Undergrad | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/AI-Intern_26_09302?utm_source=aprameyak) | Nov 18 |
+| Constellation Brands | Intern, Data Science | Rochester, NY | Undergrad | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527?utm_source=aprameyak) | Nov 18 |
+| Cummins | EATON - Electronic Systems Internship (ECJV) | Galesburg, MI | Masters | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440079?utm_source=aprameyak) | Nov 18 |
+| Jabil | HRIS Intern - Change Management and Communications | St. Petersburg/Tampa, FL | Undergrad | [Apply](https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/HRIS-Intern---Change-Management-and-Communications_J2472171?utm_source=aprameyak) | Nov 18 |
+| Legend Biotech | Research & Development Intern | Somerset, NJ | Undergrad | [Apply](https://job-boards.greenhouse.io/legendcareers/jobs/4755562005?utm_source=aprameyak) | Nov 18 |
 | Oracle | OCI Intern Conversion - Undergrad Software Engineer Full-Time - Nashville, TN - February 2027 | Nashville, TN | Undergrad | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350821?utm_source=aprameyak) | Nov 18 |
 | SAS | Summer 2027 – IoT Analytics Intern (Master's) | Cary, NC | Masters | [Apply](https://careers-sas.icims.com/jobs/42750/summer-2027-%e2%80%93--iot-analytics-intern-%28master%27s%29/job?utm_source=aprameyak) | Nov 18 |
 | Thales | Research and Innovation Intern | Ottawa, ON | Undergrad | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa/Research-and-Innovation-Intern_R0348073-1?utm_source=aprameyak) | Nov 18 |
