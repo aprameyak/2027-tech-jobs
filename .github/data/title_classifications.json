@@ -132978,5 +132978,24 @@
     "v": "cs-is-v4",
     "a": 0,
     "b": "s"
+  },
+  "software engineer, ai and generative web experiences, google workspace editors": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "senior software engineer, trust and safety, responsible ai": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer, site reliability engineering, traffic sessions": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
