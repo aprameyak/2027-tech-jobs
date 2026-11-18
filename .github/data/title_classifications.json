@@ -382,9 +382,10 @@
     "b": "s"
   },
   "senior software engineer, backend (continuous delivery)": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior software engineer, backend (growth platform)": {
@@ -20182,8 +20183,9 @@
   },
   "senior software engineer - backend ": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior software engineer - bits ai sre": {
@@ -33064,9 +33066,9 @@
     "b": "s"
   },
   "senior product manager, growth": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -53692,9 +53694,9 @@
     "b": "s"
   },
   "it network infrastructure specialist": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -60174,9 +60176,10 @@
     "b": "s"
   },
   "senior software engineer, simulator platform": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior software engineer, statistical evaluation and sampling": {
