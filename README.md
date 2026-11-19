@@ -56,9 +56,11 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4379)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1170)
-- [🎓 New Grad 2027](./NEWGRAD.md) (1531)
+**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
+
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4399)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1173)
+- [🎓 New Grad 2027](./NEWGRAD.md) (1533)
 
 ## Legend
 
@@ -72,20 +74,40 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4379** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4399** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| AECOM | Traffic/ITS Intern | Grand Rapids, MI | Undergrad | <a href="https://jobs.smartrecruiters.com/AECOM2/744000162370859?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Arc | Service Engineering Intern | Torrance, CA | Undergrad | <a href="https://job-boards.greenhouse.io/arcboatcompany/jobs/5477182008?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Daimler Truck | Financial Planning & Data Analytics Intern | Detroit, MI | Undergrad | <a href="https://dtna.wd5.myworkdayjobs.com/en-US/dtna_external/job/Detroit-MI-US/Financial-Planning---Data-Analytics-Intern_DT-20756?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Galaxy | 2027 Site Reliability Engineer Intern-Afton, Texas | Afton, TX | Undergrad | <a href="https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| HERE Technologies | Data Science Intern | Chicago, IL | Undergrad | <a href="https://careers-here.icims.com/jobs/85068/data-science-intern/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| ↳ | Software Engineer Intern | Chicago, IL | Undergrad | <a href="https://careers-here.icims.com/jobs/83731/software-engineer-intern/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| iCapital Network 🛂 | Data Solutions - Summer 2027 Intern | Stamford, CT | Undergrad | <a href="https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| KCI Technologies | IT Intern | Rock Hill, SC | Undergrad | <a href="https://careers-kci.icims.com/jobs/8344/it-intern/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Nightwing | Vulnerability Researcher Intern – 2027 | Palm Bay, FL | Undergrad | <a href="https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Palm-Bay-FL/Vulnerability-Researcher-Intern---2027_JR102271?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Pyrotek | Intern - Product Management | Spokane, WA | Undergrad | <a href="https://jobs.smartrecruiters.com/Pyrotek3/744000162385949?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Roblox 🛂 | [Summer 2027 Canada] Software Engineer Intern, Engine | Vancouver, BC | Undergrad | <a href="https://careers.roblox.com/jobs/8386080?gh_jid=8386080"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Syngenta Group | Data Science Intern | Greensboro, NC | Undergrad | <a href="https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Toyota Research Institute | Robotics Intern, Generalist Robot Learning (GRL) | Los Altos, CA | Undergrad | <a href="https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Truveta | Winter Software Engineering Intern | Seattle, WA | Undergrad | <a href="https://job-boards.greenhouse.io/truveta/jobs/6249810004?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| United Wholesale Mortgage | Sustainability & Materials Intern | Chicago, IL | Undergrad | <a href="https://careers-wilson.icims.com/jobs/5236/sustainability-%26-materials-intern/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Zoox | Contract Student Worker - Data Scientist (20 hrs wk) | Foster City, CA | Undergrad | <a href="https://jobs.lever.co/zoox/c6d372ce-1203-4d34-bd3e-f637e7d23483?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| ↳ | Contract Student Worker - Software Engineer (40hrs/wk) | Foster City, CA | Undergrad | <a href="https://jobs.lever.co/zoox/839d987e-2236-4efe-8753-ee208b8d4e29?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| ↳ | Contract Student Worker- Software Engineer Mobile Developer Experience | Foster City, CA | Undergrad | <a href="https://jobs.lever.co/zoox/895ed1fe-9547-40d1-aec5-ffed2a2f82e3?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Airbnb | Software Engineering Intern (BS/MS) | San Francisco, CA | Undergrad | <a href="https://careers.airbnb.com/positions/8360478?gh_jid=8360478"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Anduril 🛂 | 2027 Machine Learning Engineer Intern | Santa Ana, CA | Undergrad | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Berkshire Hathaway Energy | Intern (System Planning & Optimization Engineer) | Glen Allen, VA | Undergrad | <a href="https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005980?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Bosch | Robot Learning Research Intern | Pittsburgh, PA | Undergrad | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000162212029?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Camping World | AI Intern | Chicago, IL | Undergrad | <a href="https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/AI-Intern_26_09302?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Constellation Brands | Intern, Data Science | Rochester, NY | Undergrad | <a href="https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| Crusoe Energy Systems | AI Applied Research PhD Intern, Summer 2027 | San Francisco, CA | PhD | <a href="https://jobs.ashbyhq.com/Crusoe/8d1d162e-7bed-44fb-aff8-6af75b62937b/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Cummins | EATON - Electronic Systems Internship (ECJV) | Galesburg, MI | Masters | <a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440079?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Jabil | HRIS Intern - Change Management and Communications | St. Petersburg/Tampa, FL | Undergrad | <a href="https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/HRIS-Intern---Change-Management-and-Communications_J2472171?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| Kira | Software Engineering Intern (Winter '27) | New York or San Francisco | Undergrad | <a href="https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Legend Biotech | Research & Development Intern | Somerset, NJ | Undergrad | <a href="https://job-boards.greenhouse.io/legendcareers/jobs/4755562005?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Oracle | OCI Intern Conversion - Undergrad Software Engineer Full-Time - Nashville, TN - February 2027 | Nashville, TN | Undergrad | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350821?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | SAS | Summer 2027 – IoT Analytics Intern (Master's) | Cary, NC | Masters | <a href="https://careers-sas.icims.com/jobs/42750/summer-2027-%e2%80%93--iot-analytics-intern-%28master%27s%29/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
@@ -133,36 +155,19 @@ Showing newest **75** of **4379** listings · [View full table](./SUMMER.md)
 | Amazon | Data Center Infrastructure Engineer Intern, Summer 2027 - East | Herndon, VA | Undergrad | <a href="https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | ↳ | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast | Umatilla, OR | Undergrad | <a href="https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Camping World | New Product Development Product Management Intern | Lincolnshire, IL | Undergrad | <a href="https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/New-Product-Development-Product-Management-Intern_26_09086?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| ↳ | Software Engineering Intern | Lincolnshire, IL | Undergrad | <a href="https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| ↳ | Data Engineering Intern | Chicago, IL | Undergrad | <a href="https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| ↳ | Data Analyst Intern | Chicago, IL | Undergrad | <a href="https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| ↳ | AI Security Intern | Chicago, IL | Undergrad | <a href="https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/AI-Security-Intern_26_09083?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| ↳ | IT Support Intern | Chicago, IL | Undergrad | <a href="https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/IT-Support-Intern_26_09289?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| ↳ | Conversational Design Intern | Chicago, IL | Undergrad | <a href="https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Conversational-Design-Intern_26_09081?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| CrowdStrike | Intelligence Launch Intern - Summer 2027 | Arlington, VA | Undergrad | <a href="https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Launch-Intern---Summer-2027_R30506?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| Daimler Truck | IT Developer Analyst Intern | Mount Holly, NC | Undergrad | <a href="https://dtna.wd5.myworkdayjobs.com/en-US/dtna_external/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| General Dynamics Mission Systems | Intern Engineer | Pittsfield, MA | Undergrad | <a href="https://careers-gdms.icims.com/jobs/75487/intern-engineer/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| Little Caesars Enterprises | Retail Tech/AP Intern | Detroit, MI | Undergrad | <a href="https://ilitch.wd5.myworkdayjobs.com/en-US/lc/job/Detroit-MI/Retail-Tech-AP-Intern_R9741?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| Rocket Companies | Instructional Design Intern - Summer 2027 | Detroit, MI | Undergrad | <a href="https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Instructional-Design-Intern---Summer-2027_R-084817?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| ↳ | Data Analyst Intern - Summer 2027 | Detroit, MI | Undergrad | <a href="https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| ↳ | Digital Strategy & Creator Intern - Summer 2027 | Detroit, MI | Undergrad | <a href="https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Digital-Strategy---Creator-Intern---Summer-2027_R-085131?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| ↳ | Technology Risk Assurance Intern - Summer 2027 | Detroit, MI | Undergrad | <a href="https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Technology-Risk-Assurance-Intern---Summer-2027_R-084815?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| ↳ | Financial Systems Intern - Summer 2027 | Detroit, MI | Masters | <a href="https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Financial-Systems-Intern---Summer-2027_R-084978?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| SAS | Summer 2027 - Software Developer Intern (Go/Golang Experience) | Cary, NC | Undergrad | <a href="https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| ↳ | Summer 2027 - IoT Product Strategy Intern (Master's) | Cary, NC | Masters | <a href="https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern-%28master%27s%29/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| Semtech | Applications Engineering Intern | Burlington, ON | Undergrad | <a href="https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/CAN---Burlington-ON/Applications-Engineering-Intern_REQ3615?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| ServiceNow | AI Identity Intern | Kirkland, WA | Undergrad | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000161594249?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
-| State Street | Cyber Security Operations Center Analyst, Full-time Internship (Jan - June 2027) | Quincy, MA | Undergrad | <a href="https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1170** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1173** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Bose | Software Engineer Co-op | Framingham, MA | Co-op | Undergrad | <a href="https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Veolia | EI&C Co-op | Bellevue, WA | Co-op | Undergrad | <a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190999?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Western Digital | Spring 2027 Intern - Software Engineering | Irvine, CA | Spring 2027 | Undergrad | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000162353069?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Anduril 🛂 | 2027 Product Data Quality Co-op | Santa Ana, CA | Co-op | Undergrad | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | fgf brands | Quality Assurance Co-Op (Winter 2027) | Remote (US) | Co-op | Undergrad | <a href="https://careerscoopinternen-fgfbrands.icims.com/jobs/28064/quality-assurance-co-op-%28winter-2027%29/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | SRI International | Drexel University Co-op: Software Engineering | Princeton, NJ | Co-op | Undergrad | <a href="https://careers-sri.icims.com/jobs/6540/drexel-university-co-op%3a-software-engineering/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
@@ -235,19 +240,17 @@ Showing newest **75** of **1170** listings · [View full table](./OFFCYCLE.md)
 | Hootsuite | Co-op/Intern, DevOps - Winter 2027 | Alberta, BC | Co-op | Undergrad | <a href="https://job-boards.greenhouse.io/hootsuite/jobs/8359242?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |
 | ↳ | Co-op/Intern, Software Development - Winter 2027 | <details><summary>**2 locations**</summary>Vancouver, BC</br>Toronto, ON</details> | Co-op | Undergrad | <a href="https://job-boards.greenhouse.io/hootsuite/jobs/8360176?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |
 | Lila Sciences | Co-op, AI for Protein Design | San Francisco, CA | Co-op | Undergrad | <a href="https://job-boards.greenhouse.io/lilasciences/jobs/4480337009?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |
-| RTX | Enterprise Services Engineering Co-Op (Spring/Summer 2027) | East Hartford, CT | Co-op | Undergrad | <a href="https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-PH--400-Main-St--BLDG-PH/Enterprise-Services-Engineering-Co-Op--Spring-Summer-2027-_01884910?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |
-| SharkNinja | Spring 2027: AI/Sharks Applied AI & Analytics Co-op (January to June) | <details><summary>**2 locations**</summary>Miami, FL</br>Needham, MA</details> | Co-op | Undergrad | <a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |
-| Skydio | UX Product Design Intern - Winter 2027 | San Mateo, CA | Winter 2027 | Undergrad | <a href="https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **1531** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **1533** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Mayo Clinic | Graduate Research Appointment - Wei Lab | Scottsdale, AZ |  | Undergrad | <a href="https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396006?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | AbbVie | Associate Data Engineer II | Mettawa, IL |  | Undergrad | <a href="https://jobs.smartrecruiters.com/AbbVie/3743990016926506?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Adyen | Full-Stack Developer (Junior) - Docs Experience Engineering Team | Chicago, IL |  | Undergrad | <a href="https://job-boards.greenhouse.io/adyen/jobs/8068230?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Atoms | AI Researcher - New Grad (BS/MS) | San Francisco, CA |  | Undergrad | <a href="https://job-boards.greenhouse.io/cssmerge/jobs/8948844002?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
@@ -255,6 +258,7 @@ Showing newest **75** of **1531** listings · [View full table](./NEWGRAD.md)
 | Fortinet | Early Careers: Software Developer Engineer | Sunnyvale, CA |  | Undergrad | <a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24983?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Hewlett Packard Enterprise | Customer Technical Solution Consultant Graduate | Alpharetta, GA |  | Undergrad | <a href="https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Alpharetta-Georgia-United-States-of-America/Customer-Technical-Solution-Consultant-Graduate_1213040?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | ↳ | AI Automation Engineer Graduate | Spring, TX |  | Undergrad | <a href="https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Spring-Texas-United-States-of-America/AI-Automation-Engineer-Graduate_1213068?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| Kira | Software Engineer (Entry Level) | New York or San Francisco |  | Undergrad | <a href="https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | NBCUniversal | Associate SDET (Software Development Engineer in Test) | Remote (US) |  | Undergrad | <a href="https://jobs.smartrecruiters.com/NBCUniversal3/744000162180744?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Sherwin-Williams | Full Stack Developer | Cleveland, OH |  | Undergrad | <a href="https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629244?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Sony Pictures Imageworks | Associate Software Engineer | Vancouver, BC |  | Undergrad | <a href="https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/8207482003?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
@@ -321,8 +325,6 @@ Showing newest **75** of **1531** listings · [View full table](./NEWGRAD.md)
 | ↳ | Software Engineer (Associate or Experienced) | Kent, WA |  | Undergrad | <a href="https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Kent-WA/Software-Engineer--Associate-or-Experienced-_JR2026526264-1?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | SATCOM Mission Planning Software Engineer (Associate or Experienced) | Seal Beach, CA |  | Undergrad | <a href="https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Seal-Beach-CA/ESS-Mission-Planning-Associate-Experienced-Software-Engineer_JR2026512722-2?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | UTHealth Houston | Database Analyst Programmer-Associate (On-Site) | San Antonio, TX |  | Undergrad | <a href="https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8007?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
-| AECOM | Entry-Level GIS Specialist | Honolulu, HI |  | Undergrad | <a href="https://jobs.smartrecruiters.com/AECOM2/744000160900745?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
-| Manhattan Associates | Technology Consultant - Early Career Spring & Summer 2027 | Atlanta, GA | Summer 2027 | Undergrad | <a href="https://manh.wd5.myworkdayjobs.com/en-US/campus/job/Atlanta-GA/Technology-Consultant---Early-Career-Spring---Summer-2027_17011?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 <!-- TABLE_END newgrad -->
 
 ## License

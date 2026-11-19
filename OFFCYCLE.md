@@ -1,11 +1,14 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1170 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1173 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Bose | Software Engineer Co-op | Framingham, MA | Co-op | Undergrad | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387?utm_source=aprameyak) | Nov 19 |
+| Veolia | EI&C Co-op | Bellevue, WA | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190999?utm_source=aprameyak) | Nov 19 |
+| Western Digital | Spring 2027 Intern - Software Engineering | Irvine, CA | Spring 2027 | Undergrad | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000162353069?utm_source=aprameyak) | Nov 19 |
 | Anduril 🛂 | 2027 Product Data Quality Co-op | Santa Ana, CA | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007&utm_source=aprameyak) | Nov 18 |
 | fgf brands | Quality Assurance Co-Op (Winter 2027) | Remote (US) | Co-op | Undergrad | [Apply](https://careerscoopinternen-fgfbrands.icims.com/jobs/28064/quality-assurance-co-op-%28winter-2027%29/job?utm_source=aprameyak) | Nov 18 |
 | SRI International | Drexel University Co-op: Software Engineering | Princeton, NJ | Co-op | Undergrad | [Apply](https://careers-sri.icims.com/jobs/6540/drexel-university-co-op%3a-software-engineering/job?utm_source=aprameyak) | Nov 18 |

@@ -1,19 +1,39 @@
 # ☀️ Summer 2027 Internships
 
-4379 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4399 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| AECOM | Traffic/ITS Intern | Grand Rapids, MI | Undergrad | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162370859?utm_source=aprameyak) | Nov 19 |
+| Arc | Service Engineering Intern | Torrance, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5477182008?utm_source=aprameyak) | Nov 19 |
+| Daimler Truck | Financial Planning & Data Analytics Intern | Detroit, MI | Undergrad | [Apply](https://dtna.wd5.myworkdayjobs.com/en-US/dtna_external/job/Detroit-MI-US/Financial-Planning---Data-Analytics-Intern_DT-20756?utm_source=aprameyak) | Nov 19 |
+| Galaxy | 2027 Site Reliability Engineer Intern-Afton, Texas | Afton, TX | Undergrad | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004?utm_source=aprameyak) | Nov 19 |
+| HERE Technologies | Data Science Intern | Chicago, IL | Undergrad | [Apply](https://careers-here.icims.com/jobs/85068/data-science-intern/job?utm_source=aprameyak) | Nov 19 |
+| ↳ | Software Engineer Intern | Chicago, IL | Undergrad | [Apply](https://careers-here.icims.com/jobs/83731/software-engineer-intern/job?utm_source=aprameyak) | Nov 19 |
+| iCapital Network 🛂 | Data Solutions - Summer 2027 Intern | Stamford, CT | Undergrad | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002?utm_source=aprameyak) | Nov 19 |
+| KCI Technologies | IT Intern | Rock Hill, SC | Undergrad | [Apply](https://careers-kci.icims.com/jobs/8344/it-intern/job?utm_source=aprameyak) | Nov 19 |
+| Nightwing | Vulnerability Researcher Intern – 2027 | Palm Bay, FL | Undergrad | [Apply](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Palm-Bay-FL/Vulnerability-Researcher-Intern---2027_JR102271?utm_source=aprameyak) | Nov 19 |
+| Pyrotek | Intern - Product Management | Spokane, WA | Undergrad | [Apply](https://jobs.smartrecruiters.com/Pyrotek3/744000162385949?utm_source=aprameyak) | Nov 19 |
+| Roblox 🛂 | [Summer 2027 Canada] Software Engineer Intern, Engine | Vancouver, BC | Undergrad | [Apply](https://careers.roblox.com/jobs/8386080?gh_jid=8386080) | Nov 19 |
+| Syngenta Group | Data Science Intern | Greensboro, NC | Undergrad | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708?utm_source=aprameyak) | Nov 19 |
+| Toyota Research Institute | Robotics Intern, Generalist Robot Learning (GRL) | Los Altos, CA | Undergrad | [Apply](https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943?utm_source=aprameyak) | Nov 19 |
+| Truveta | Winter Software Engineering Intern | Seattle, WA | Undergrad | [Apply](https://job-boards.greenhouse.io/truveta/jobs/6249810004?utm_source=aprameyak) | Nov 19 |
+| United Wholesale Mortgage | Sustainability & Materials Intern | Chicago, IL | Undergrad | [Apply](https://careers-wilson.icims.com/jobs/5236/sustainability-%26-materials-intern/job?utm_source=aprameyak) | Nov 19 |
+| Zoox | Contract Student Worker - Data Scientist (20 hrs wk) | Foster City, CA | Undergrad | [Apply](https://jobs.lever.co/zoox/c6d372ce-1203-4d34-bd3e-f637e7d23483?utm_source=aprameyak) | Nov 19 |
+| ↳ | Contract Student Worker - Software Engineer (40hrs/wk) | Foster City, CA | Undergrad | [Apply](https://jobs.lever.co/zoox/839d987e-2236-4efe-8753-ee208b8d4e29?utm_source=aprameyak) | Nov 19 |
+| ↳ | Contract Student Worker- Software Engineer Mobile Developer Experience | Foster City, CA | Undergrad | [Apply](https://jobs.lever.co/zoox/895ed1fe-9547-40d1-aec5-ffed2a2f82e3?utm_source=aprameyak) | Nov 19 |
 | Airbnb | Software Engineering Intern (BS/MS) | San Francisco, CA | Undergrad | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) | Nov 18 |
 | Anduril 🛂 | 2027 Machine Learning Engineer Intern | Santa Ana, CA | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007&utm_source=aprameyak) | Nov 18 |
 | Berkshire Hathaway Energy | Intern (System Planning & Optimization Engineer) | Glen Allen, VA | Undergrad | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005980?utm_source=aprameyak) | Nov 18 |
 | Bosch | Robot Learning Research Intern | Pittsburgh, PA | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162212029?utm_source=aprameyak) | Nov 18 |
 | Camping World | AI Intern | Chicago, IL | Undergrad | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/AI-Intern_26_09302?utm_source=aprameyak) | Nov 18 |
 | Constellation Brands | Intern, Data Science | Rochester, NY | Undergrad | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527?utm_source=aprameyak) | Nov 18 |
+| Crusoe Energy Systems | AI Applied Research PhD Intern, Summer 2027 | San Francisco, CA | PhD | [Apply](https://jobs.ashbyhq.com/Crusoe/8d1d162e-7bed-44fb-aff8-6af75b62937b/application?utm_source=aprameyak) | Nov 18 |
 | Cummins | EATON - Electronic Systems Internship (ECJV) | Galesburg, MI | Masters | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440079?utm_source=aprameyak) | Nov 18 |
 | Jabil | HRIS Intern - Change Management and Communications | St. Petersburg/Tampa, FL | Undergrad | [Apply](https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/HRIS-Intern---Change-Management-and-Communications_J2472171?utm_source=aprameyak) | Nov 18 |
+| Kira | Software Engineering Intern (Winter '27) | New York or San Francisco | Undergrad | [Apply](https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe/application?utm_source=aprameyak) | Nov 18 |
 | Legend Biotech | Research & Development Intern | Somerset, NJ | Undergrad | [Apply](https://job-boards.greenhouse.io/legendcareers/jobs/4755562005?utm_source=aprameyak) | Nov 18 |
 | Oracle | OCI Intern Conversion - Undergrad Software Engineer Full-Time - Nashville, TN - February 2027 | Nashville, TN | Undergrad | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350821?utm_source=aprameyak) | Nov 18 |
 | SAS | Summer 2027 – IoT Analytics Intern (Master's) | Cary, NC | Masters | [Apply](https://careers-sas.icims.com/jobs/42750/summer-2027-%e2%80%93--iot-analytics-intern-%28master%27s%29/job?utm_source=aprameyak) | Nov 18 |
