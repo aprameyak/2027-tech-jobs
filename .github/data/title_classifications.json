@@ -133012,5 +133012,30 @@
     "v": "cs-is-v4",
     "a": 1,
     "b": "s"
+  },
+  "software engineer iii, infrastructure, google cloud compute infrastructure": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "senior software engineer, machine learning, discover interest modeling and retrieval": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "staff software engineer, ads safety format enablement": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior software engineer, full stack, gemini enterprise": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
