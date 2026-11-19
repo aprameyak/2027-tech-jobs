@@ -1,11 +1,12 @@
 # 🎓 New Grad 2027
 
-1533 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1534 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Bloomberg | Enterprise Services Entry-level Technical Program | New York, NY |  | Undergrad | [Apply](https://bloomberg.avature.net/careers/JobDetail/Enterprise-Services-Entry-level-Technical-Program/46235) | Nov 19 |
 | Mayo Clinic | Graduate Research Appointment - Wei Lab | Scottsdale, AZ |  | Undergrad | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396006?utm_source=aprameyak) | Nov 19 |
 | AbbVie | Associate Data Engineer II | Mettawa, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016926506?utm_source=aprameyak) | Nov 18 |
 | Adyen | Full-Stack Developer (Junior) - Docs Experience Engineering Team | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8068230?utm_source=aprameyak) | Nov 18 |
