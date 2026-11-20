@@ -1,11 +1,45 @@
 # ☀️ Summer 2027 Internships
 
-4408 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4442 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Blue Cross Blue Shield of Michigan | Summer 2027 Intern - Object Oriented Programming | Detroit, MI | Undergrad | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160?utm_source=aprameyak) | Nov 20 |
+| HeartFlow | Platform Engineering Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/heartflowinc/jobs/6263395004?utm_source=aprameyak) | Nov 20 |
+| Lightmatter | IT and Security Intern – Summer 2027 | Boston, MA | Undergrad | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473539008?gh_jid=5473539008&utm_source=aprameyak) | Nov 20 |
+| LLNL | Computing Undergraduate Student Intern - Early Internship Program Summer 2027 | Livermore, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016985976?utm_source=aprameyak) | Nov 20 |
+| ↳ | Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027 | Livermore, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016985486?utm_source=aprameyak) | Nov 20 |
+| ↳ | Business Systems Analyst Undergraduate Intern - 2027 | Livermore, CA | Masters | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016984896?utm_source=aprameyak) | Nov 20 |
+| ↳ | Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | Livermore, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016984696?utm_source=aprameyak) | Nov 20 |
+| ↳ | Livermore Center for Quantum Science (LCQS) Graduate Internship - Summer 2027 | Livermore, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016983696?utm_source=aprameyak) | Nov 20 |
+| ↳ | Livermore Center for Quantum Science (LCQS) Undergraduate Internship - Summer 2027 | Livermore, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016983456?utm_source=aprameyak) | Nov 20 |
+| ↳ | Computing Undergraduate Student Intern - Summer 2027 | Livermore, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016983316?utm_source=aprameyak) | Nov 20 |
+| Lucid Motors | Intern, AI & Data (Applied AI/Machine Learning), Summer 2027 | Newark, CA | Undergrad | [Apply](https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007) | Nov 20 |
+| ↳ | Intern, Motor Control Software Development and Validation Engineer, Summer 2027 | Newark, CA | Undergrad | [Apply](https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007) | Nov 20 |
+| ↳ | Intern, OTA Test and Validation Automation, Summer 2027 | Newark, CA | Undergrad | [Apply](https://lucidmotors.com/careers/search/5290917007?gh_jid=5290917007) | Nov 20 |
+| ↳ | Intern, Simulation & Virtualization Engineer, Summer 2027 | Newark, CA | Undergrad | [Apply](https://lucidmotors.com/careers/search/5290915007?gh_jid=5290915007) | Nov 20 |
+| ↳ | Intern, Software Engineer, SDET, Summer 2027 | Newark, CA | Undergrad | [Apply](https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007) | Nov 20 |
+| ↳ | Intern, Software QA Engineer, Infotainment, Summer 2027 | Newark, CA | Undergrad | [Apply](https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007) | Nov 20 |
+| QuEra Computing | Intern, Quantum Calibrations, Quantum Computing Services | Boston, MA | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5490107008?utm_source=aprameyak) | Nov 20 |
+| Ralliant | Software Engineering Intern (Summer 2027) | Beaverton, OR | Undergrad | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11167?utm_source=aprameyak) | Nov 20 |
+| ↳ | Software Engineering Intern (Summer 2027) | Beaverton, OR | Undergrad | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153?utm_source=aprameyak) | Nov 20 |
+| ↳ | Software Engineering Intern (Summer 2027) | Beaverton, OR | Undergrad | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11231?utm_source=aprameyak) | Nov 20 |
+| ↳ | Software Engineering Intern (Summer 2027) | Beaverton, OR | Undergrad | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11266?utm_source=aprameyak) | Nov 20 |
+| ↳ | System Level Verification Engineer Intern (Summer 2027) | Remote (US) | Undergrad | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11168?utm_source=aprameyak) | Nov 20 |
+| SAS | Summer 2027 - Cybersecurity Compliance and AI Automation Intern | Cary, NC | Undergrad | [Apply](https://careers-sas.icims.com/jobs/42781/summer-2027---cybersecurity-compliance-and-ai-automation-intern/job?utm_source=aprameyak) | Nov 20 |
+| Snowflake | Software Engineer Intern (AI / ML) - Summer 2027 | Menlo Park, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?utm_source=aprameyak) | Nov 20 |
+| ↳ | Software Engineer Intern (Database Engineering) - Summer 2027 | Menlo Park, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?utm_source=aprameyak) | Nov 20 |
+| ↳ | Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027 | Menlo Park, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?utm_source=aprameyak) | Nov 20 |
+| Texas Instruments | Compute In-Memory System Engineer Intern | Dallas, TX | Undergrad | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016331?utm_source=aprameyak) | Nov 20 |
+| ↳ | Synthetic Data for Edge AI System Engineer Intern | Dallas, TX | Undergrad | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016339?utm_source=aprameyak) | Nov 20 |
+| UL Solutions | Summer 2027 Intern: R&D Engineering Intern | Northbrook, IL | Undergrad | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11503?utm_source=aprameyak) | Nov 20 |
+| Veolia | Manufacturing Software Engineer Intern | Boulder, CO | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162593839?utm_source=aprameyak) | Nov 20 |
+| ↳ | EI&C Intern | Bellevue, WA | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162581559?utm_source=aprameyak) | Nov 20 |
+| Vertiv | AI Intern (Summer 2027) | Huntsville, AL | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620?utm_source=aprameyak) | Nov 20 |
+| ↳ | AI Intern (Summer 2027) | Huntsville, AL | Undergrad | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621?utm_source=aprameyak) | Nov 20 |
+| Waymo | 2027 Summer Intern, PhD, Agentic AI | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8401116) | Nov 20 |
 | AECOM | Traffic/ITS Intern | Grand Rapids, MI | Undergrad | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162370859?utm_source=aprameyak) | Nov 19 |
 | Arc | Service Engineering Intern | Torrance, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5477182008?utm_source=aprameyak) | Nov 19 |
 | Barry-Wehmiller | BW Forsyth Partners – Summer Analyst Internship | Clayton, MO | Undergrad | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWConfidential/job/Clayton-MO-USA-8027-Forsyth-Ste-900/BW-Forsyth-Partners_R023597?utm_source=aprameyak) | Nov 19 |

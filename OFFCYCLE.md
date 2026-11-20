@@ -1,11 +1,15 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1173 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1177 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| LLNL | Computing Undergraduate Student Intern - Spring 2027 | Livermore, CA | Spring 2027 | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016985076?utm_source=aprameyak) | Nov 20 |
+| Manulife | Winter Co-op 2027 – Technology Enablement Analyst | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774-1?utm_source=aprameyak) | Nov 20 |
+| ↳ | Spring Co-op 2027 - Software Engineering, Security & Operations | Boston, MA | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121-1?utm_source=aprameyak) | Nov 20 |
+| Veolia | EI&C Co-op | Oakville, ON | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162583119?utm_source=aprameyak) | Nov 20 |
 | Bose | Software Engineer Co-op | Framingham, MA | Co-op | Undergrad | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387?utm_source=aprameyak) | Nov 19 |
 | Veolia | EI&C Co-op | Bellevue, WA | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190999?utm_source=aprameyak) | Nov 19 |
 | Western Digital | Spring 2027 Intern - Software Engineering | Irvine, CA | Spring 2027 | Undergrad | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000162353069?utm_source=aprameyak) | Nov 19 |

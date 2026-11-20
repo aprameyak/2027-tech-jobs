@@ -1,11 +1,13 @@
 # 🎓 New Grad 2027
 
-1534 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1536 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| JPMorgan Chase | Quantitative Trading & Research - United States - 2027 ReEntry Program | New York, NY |  | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810432?utm_source=aprameyak) | Nov 20 |
+| Mach Industries 🛂 | Help Desk Technician, Entry Level | Huntington Beach, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/machindustries/jobs/4483648009?utm_source=aprameyak) | Nov 20 |
 | Bloomberg | Enterprise Services Entry-level Technical Program | New York, NY |  | Undergrad | [Apply](https://bloomberg.avature.net/careers/JobDetail/Enterprise-Services-Entry-level-Technical-Program/46235) | Nov 19 |
 | Mayo Clinic | Graduate Research Appointment - Wei Lab | Scottsdale, AZ |  | Undergrad | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396006?utm_source=aprameyak) | Nov 19 |
 | AbbVie | Associate Data Engineer II | Mettawa, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016926506?utm_source=aprameyak) | Nov 18 |
