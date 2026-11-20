@@ -133095,5 +133095,12 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "design technologist intern fy2027 (summer)": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   }
 }
