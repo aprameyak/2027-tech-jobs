@@ -53202,9 +53202,9 @@
     "b": "s"
   },
   "gnc engineer, satellite power systems (starlink)": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -54971,9 +54971,9 @@
     "b": "s"
   },
   "platform integrity manager (starlink)": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -57344,9 +57344,9 @@
     "b": "s"
   },
   "sr. platform integrity analyst (starlink)": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
