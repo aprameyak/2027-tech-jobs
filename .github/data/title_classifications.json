@@ -13006,9 +13006,10 @@
     "b": "s"
   },
   "senior machine learning engineer, shield": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior platform engineer": {
@@ -62891,8 +62892,10 @@
   },
   "associate customer support analyst, new grad": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "n"
   },
   "recruiting coordinator, new grad": {
     "t": false,
@@ -78481,9 +78484,10 @@
   },
   "naval architecture intern": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "student, franchise part time day": {
     "t": false,
