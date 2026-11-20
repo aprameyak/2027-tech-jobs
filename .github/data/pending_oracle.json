@@ -1,0 +1,99 @@
+[
+  {
+    "company": "Boston Properties",
+    "role": "Network Operations Co-Op",
+    "location": "Boston, MA",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26190?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-20"
+  },
+  {
+    "company": "Caesars Entertainment",
+    "role": "SOC Cybersecurity Intern (Las Vegas)",
+    "location": "Las Vegas, NV",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/92118?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-20"
+  },
+  {
+    "company": "Caesars Entertainment",
+    "role": "IAM Cybersecurity Intern (Las Vegas)",
+    "location": "Las Vegas, NV",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/92135?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-20"
+  },
+  {
+    "company": "Fortive",
+    "role": "2027 GLDP Associate- Commercial Track",
+    "location": "Irvine, CA",
+    "type": "newgrad",
+    "season": "2027 (New Grad \u2014 no specific season)",
+    "education": "Undergrad",
+    "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10880?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-20",
+    "grad_date": "Spring 2027"
+  },
+  {
+    "company": "NOV",
+    "role": "Forward Deployed Engineer Intern",
+    "location": "Houston, TX",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45321?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-20"
+  },
+  {
+    "company": "Ralliant",
+    "role": "Software Design Engineer Intern (Summer 2027)",
+    "location": "Beaverton, OR",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11154?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-20"
+  },
+  {
+    "company": "Ralliant",
+    "role": "Software Engineering (AI Building) Intern (Summer 2027)",
+    "location": "Beaverton, OR",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-20"
+  },
+  {
+    "company": "JPMorgan Chase",
+    "role": "2027 Applied Research Associate - Summer Associate",
+    "location": "New York, NY",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809359?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-20"
+  }
+]
