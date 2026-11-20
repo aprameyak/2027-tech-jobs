@@ -1,14 +1,17 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1179 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1182 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Boston Properties | Network Operations Co-Op | Boston, MA | Co-op | Undergrad | [Apply](https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26190?utm_source=aprameyak) | Nov 20 |
 | Draper | Process Automation Co-Op | Cambridge, MA | Co-op | Undergrad | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Process-Automation-Co-Op_JR003160?utm_source=aprameyak) | Nov 20 |
 | LLNL | Computing Undergraduate Student Intern - Spring 2027 | Livermore, CA | Spring 2027 | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016985076?utm_source=aprameyak) | Nov 20 |
 | ↳ | Computing Graduate Student Intern - Spring 2027 | Livermore, CA | Spring 2027 | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016986106?utm_source=aprameyak) | Nov 20 |
+| ↳ | Government Funded Student Intern (WDTS) - Spring 2027 | Livermore, CA | Spring 2027 | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990017013616?utm_source=aprameyak) | Nov 20 |
+| Mackenzie Investments | Winter 2027 Intern – AI Program | Greater Toronto Area, ON | Winter 2027 | Undergrad | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/6446/winter-2027-intern-%e2%80%93-ai-program/job?utm_source=aprameyak) | Nov 20 |
 | Manulife | Winter Co-op 2027 – Technology Enablement Analyst | Toronto, ON | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774-1?utm_source=aprameyak) | Nov 20 |
 | ↳ | Spring Co-op 2027 - Software Engineering, Security & Operations | Boston, MA | Co-op | Undergrad | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121-1?utm_source=aprameyak) | Nov 20 |
 | Veolia | EI&C Co-op | Oakville, ON | Co-op | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162583119?utm_source=aprameyak) | Nov 20 |

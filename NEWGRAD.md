@@ -1,13 +1,23 @@
 # 🎓 New Grad 2027
 
-1536 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1546 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| City and County of San Francisco | Cyber Defense Associate Engineer (1041) - Department of Technology | San Francisco, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017013773?utm_source=aprameyak) | Nov 20 |
+| Fortive | 2027 GLDP Associate- Commercial Track | Irvine, CA | Spring 2027 | Undergrad | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10880?utm_source=aprameyak) | Nov 20 |
+| Jerry | Associate Data Scientist | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/Jerry.ai/67b832c4-8d9f-4953-ba43-ba892d06fe8a/application?utm_source=aprameyak) | Nov 20 |
 | JPMorgan Chase | Quantitative Trading & Research - United States - 2027 ReEntry Program | New York, NY |  | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810432?utm_source=aprameyak) | Nov 20 |
+| Konrad Group | Associate Consultant | New York, NY |  | Undergrad | [Apply](https://www.konrad.com/careers/job/8210600003?gh_jid=8210600003) | Nov 20 |
 | Mach Industries 🛂 | Help Desk Technician, Entry Level | Huntington Beach, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/machindustries/jobs/4483648009?utm_source=aprameyak) | Nov 20 |
+| Sanofi | 2027 Digital Graduate Program, Product Analyst | Toronto, ON | Spring 2027 | Undergrad | [Apply](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst-_R2879279-1?utm_source=aprameyak) | Nov 20 |
+| ↳ | 2027 Digital Graduate Program, Product Analyst | Toronto, ON | Spring 2027 | Undergrad | [Apply](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst_R2876052-1?utm_source=aprameyak) | Nov 20 |
+| ↳ | 2027 Digital Graduate Program, Product Analyst | Toronto, ON | Spring 2027 | Undergrad | [Apply](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst_R2878933-1?utm_source=aprameyak) | Nov 20 |
+| ↳ | 2027 Digital Graduate Program, Product Analyst | Toronto, ON | Spring 2027 | Undergrad | [Apply](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst_R2879216-1?utm_source=aprameyak) | Nov 20 |
+| ↳ | 2027 Digital Graduate Program, Product Analyst | Toronto, ON | Spring 2027 | Undergrad | [Apply](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst_R2878972-1?utm_source=aprameyak) | Nov 20 |
+| ↳ | 2027 Digital Graduate Program, Product Analyst, Data and AI Engineer | Toronto, ON | Spring 2027 | Undergrad | [Apply](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst--Data-and-AI-Engineer_R2876172-1?utm_source=aprameyak) | Nov 20 |
 | Bloomberg | Enterprise Services Entry-level Technical Program | New York, NY |  | Undergrad | [Apply](https://bloomberg.avature.net/careers/JobDetail/Enterprise-Services-Entry-level-Technical-Program/46235) | Nov 19 |
 | Mayo Clinic | Graduate Research Appointment - Wei Lab | Scottsdale, AZ |  | Undergrad | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396006?utm_source=aprameyak) | Nov 19 |
 | AbbVie | Associate Data Engineer II | Mettawa, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016926506?utm_source=aprameyak) | Nov 18 |
