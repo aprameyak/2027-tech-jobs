@@ -66,7 +66,9 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4486)
+**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
+
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4487)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1182)
 - [🎓 New Grad 2027](./NEWGRAD.md) (1546)
 
@@ -82,12 +84,13 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4486** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4487** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Advance Auto Parts | Data Science Intern | Raleigh, NC | Undergrad | <a href="https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | Amazon | Design Technologist Intern FY2027 (Summer) | Seattle, WA | Undergrad | <a href="https://www.amazon.jobs/en/jobs/10610836/design-technologist-intern-fy2027-summer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Blue Cross Blue Shield of Michigan | Summer 2027 Intern - Object Oriented Programming | Detroit, MI | Undergrad | <a href="https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Bosch | [BD] IT Project Operation Assistant Intern (6-Month Internship) | Remote (US) | Undergrad | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000162651359?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
@@ -162,7 +165,6 @@ Showing newest **75** of **4486** listings · [View full table](./SUMMER.md)
 | ↳ | EI&C Intern | Bellevue, WA | Undergrad | <a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162581559?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Vertiv | AI Intern (Summer 2027) | Huntsville, AL | Undergrad | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | ↳ | AI Intern (Summer 2027) | Huntsville, AL | Undergrad | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
-| Walmart | Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mile Delivery | (USA) Together Building AR Bentonville Home Office | Undergrad | <a href="https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2705761?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops

@@ -1,11 +1,12 @@
 # ☀️ Summer 2027 Internships
 
-4486 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4487 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Advance Auto Parts | Data Science Intern | Raleigh, NC | Undergrad | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1?utm_source=aprameyak) | Nov 21 |
 | Amazon | Design Technologist Intern FY2027 (Summer) | Seattle, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10610836/design-technologist-intern-fy2027-summer) | Nov 20 |
 | Blue Cross Blue Shield of Michigan | Summer 2027 Intern - Object Oriented Programming | Detroit, MI | Undergrad | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160?utm_source=aprameyak) | Nov 20 |
 | Bosch | [BD] IT Project Operation Assistant Intern (6-Month Internship) | Remote (US) | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162651359?utm_source=aprameyak) | Nov 20 |
