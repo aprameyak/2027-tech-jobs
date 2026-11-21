@@ -1,12 +1,31 @@
 # ☀️ Summer 2027 Internships
 
-4487 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4506 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
 | Advance Auto Parts | Data Science Intern | Raleigh, NC | Undergrad | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1?utm_source=aprameyak) | Nov 21 |
+| Conning | Information Technology (IT) Intern (Summer 2027) | Hartford, CT | Undergrad | [Apply](https://conning.wd503.myworkdayjobs.com/en-US/conningcareers/job/Hartford-CT/Information-Technology--IT--Intern--Summer-2027-_JR1134?utm_source=aprameyak) | Nov 21 |
+| Neros Technologies | Autonomy Intern - Summer 2027 | Torrance, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007?utm_source=aprameyak) | Nov 21 |
+| SAS | Summer 2027 - AI Governance & Policy Intern | Cary, NC | Undergrad | [Apply](https://careers-sas.icims.com/jobs/42783/summer-2027---ai-governance-%26-policy-intern/job?utm_source=aprameyak) | Nov 21 |
+| T-Mobile | Summer 2027 AI Engineering Internship | Bellevue, WA | Undergrad | [Apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ382110?utm_source=aprameyak) | Nov 21 |
+| ↳ | Summer 2027 Software Engineer Internship | Overland Park, KS | Undergrad | [Apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineer-Internship_REQ381357?utm_source=aprameyak) | Nov 21 |
+| ↳ | Summer 2027 Software Engineering Internship | Overland Park, KS | Undergrad | [Apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ381366?utm_source=aprameyak) | Nov 21 |
+| ↳ | Summer 2027 Software Engineering Internship | Bellevue, WA | Undergrad | [Apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ383767?utm_source=aprameyak) | Nov 21 |
+| ↳ | Summer 2027 Data Analyst Internship | Bellevue, WA | Undergrad | [Apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Data-Analyst-Internship_REQ383587?utm_source=aprameyak) | Nov 21 |
+| ↳ | Summer 2027 Data Analyst Internship | Bellevue, WA | Undergrad | [Apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Data-Analyst-Internship_REQ383588?utm_source=aprameyak) | Nov 21 |
+| ↳ | Summer 2027 Business Intelligence Analyst Internship | New York, NY | Undergrad | [Apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/New-York-New-York/Summer-2027-Business-Intelligence-Analyst-Internship_REQ382847?utm_source=aprameyak) | Nov 21 |
+| ↳ | Summer 2027 Software Engineering AI Internship | Atlanta, GA | Undergrad | [Apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Internship_REQ382067?utm_source=aprameyak) | Nov 21 |
+| ↳ | Summer 2027 Fiber Technical Engineering Operations Internship | Overland Park, KS | Undergrad | [Apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Fiber-Technical-Engineering-Operations-Internship_REQ383611?utm_source=aprameyak) | Nov 21 |
+| ↳ | Summer 2027 AI Engineering Internship - Site Reliability & Automation | Atlanta, GA | Undergrad | [Apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia/Summer-2027-AI-Engineering-Internship---Site-Reliability---Automation_REQ383239?utm_source=aprameyak) | Nov 21 |
+| ↳ | Summer 2027 Software Engineering Intern | Overland Park, KS | Undergrad | [Apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Intern_REQ381315?utm_source=aprameyak) | Nov 21 |
+| ↳ | Summer 2027 Software Engineering Intern | Overland Park, KS | Undergrad | [Apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Intern_REQ381362?utm_source=aprameyak) | Nov 21 |
+| ↳ | Summer 2027 Software Engineering AI Intern | Atlanta, GA | Undergrad | [Apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Intern_REQ381273?utm_source=aprameyak) | Nov 21 |
+| WGU | Intern - Technical | Salt Lake City, UT | Undergrad | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Intern---Technical_JR-026525?utm_source=aprameyak) | Nov 21 |
+| ↳ | Intern - Data Governance | Salt Lake City, UT | Undergrad | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Intern---Technical-Writing_JR-026370?utm_source=aprameyak) | Nov 21 |
+| ↳ | Manager, Software Engineer Student LifeCycle Services | Salt Lake City, UT | Undergrad | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Manager--Software-Engineer_JR-025952?utm_source=aprameyak) | Nov 21 |
 | Amazon | Design Technologist Intern FY2027 (Summer) | Seattle, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10610836/design-technologist-intern-fy2027-summer) | Nov 20 |
 | Blue Cross Blue Shield of Michigan | Summer 2027 Intern - Object Oriented Programming | Detroit, MI | Undergrad | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160?utm_source=aprameyak) | Nov 20 |
 | Bosch | [BD] IT Project Operation Assistant Intern (6-Month Internship) | Remote (US) | Undergrad | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162651359?utm_source=aprameyak) | Nov 20 |

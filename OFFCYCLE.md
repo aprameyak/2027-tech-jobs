@@ -1,11 +1,14 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1182 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1185 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Caterpillar Inc. | 2027 MineStar Training Development Program | Tucson, AZ | Co-op | Undergrad | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Tucson-Arizona/XMLNAME-2027-MineStar-Training-Development-Program_R0000406023?utm_source=aprameyak) | Nov 21 |
+| Lumentum | AI Engineer - Co-op/Intern | Ottawa, ON | Co-op | Undergrad | [Apply](https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/AI-Engineer---Co-op-Intern_20261778?utm_source=aprameyak) | Nov 21 |
+| TD Bank | Risk Management - Market Risk, Interest Rate Risk and P&L Attribution - Intern / Co-Op | Toronto, ON | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Market-Risk--Interest-Rate-Risk-and-P-L-Attribution---Intern---Co-Op_R_1522539-1?utm_source=aprameyak) | Nov 21 |
 | Boston Properties | Network Operations Co-Op | Boston, MA | Co-op | Undergrad | [Apply](https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26190?utm_source=aprameyak) | Nov 20 |
 | Draper | Process Automation Co-Op | Cambridge, MA | Co-op | Undergrad | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Process-Automation-Co-Op_JR003160?utm_source=aprameyak) | Nov 20 |
 | LLNL | Computing Undergraduate Student Intern - Spring 2027 | Livermore, CA | Spring 2027 | Undergrad | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016985076?utm_source=aprameyak) | Nov 20 |
