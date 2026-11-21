@@ -63941,8 +63941,9 @@
   },
   "summer 2027 software engineering intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "summer 2027 systems engineering intern": {
