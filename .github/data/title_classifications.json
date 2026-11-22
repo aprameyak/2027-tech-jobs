@@ -133430,5 +133430,41 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "research engineer / research scientist, post-training \u2014 collective alignment (user signals)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "research engineer/research scientist-post training, proactivity": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "research engineer/research scientist- post training, model experience": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "research engineer / research scientist - post training, memory": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "research engineer / research scientist, human flourishing": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "research engineer / research scientist, health": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
