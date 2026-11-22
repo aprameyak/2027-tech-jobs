@@ -4,7 +4,9 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4506)
+**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
+
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4511)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1185)
 - [🎓 New Grad 2027](./NEWGRAD.md) (1546)
 
@@ -20,12 +22,17 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4506** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4511** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Canadian Solar | Data Engineering Intern | Kitchener, ON | Undergrad | <a href="https://canadiansolar.wd5.myworkdayjobs.com/en-US/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| ↳ | Technical Writer Intern | Kitchener, ON | Undergrad | <a href="https://canadiansolar.wd5.myworkdayjobs.com/en-US/CanadianSolar/job/Kitchener-ON/Technical-Writer-Intern_10001601-1?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| Fiserv | 2027 Technology Internship Program - Cybersecurity (Columbus, OH) | Columbus, OH | Undergrad | <a href="https://fiserv.wd5.myworkdayjobs.com/en-US/ext/job/Columbus-Ohio/XMLNAME-2027-Technology-Internship-Program---Cybersecurity--Columbus--OH-_R-10407190?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| ↳ | 2027 Technology Internship Program - Cybersecurity (Berkeley Heights, NJ) | Berkeley Heights, NJ | Undergrad | <a href="https://fiserv.wd5.myworkdayjobs.com/en-US/ext/job/Berkeley-Heights-New-Jersey/XMLNAME-2027-Technology-Internship-Program---Cybersecurity--Berkeley-Heights--NJ-_R-10407189?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| Great American Insurance Group | Desktop AI Intern - Summer 2027 | Cincinnati, OH | Undergrad | <a href="https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Desktop-AI-Intern---Summer-2027_R9817?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | Advance Auto Parts | Data Science Intern | Raleigh, NC | Undergrad | <a href="https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | Conning | Information Technology (IT) Intern (Summer 2027) | Hartford, CT | Undergrad | <a href="https://conning.wd503.myworkdayjobs.com/en-US/conningcareers/job/Hartford-CT/Information-Technology--IT--Intern--Summer-2027-_JR1134?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | Neros Technologies | Autonomy Intern - Summer 2027 | Torrance, CA | Undergrad | <a href="https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
@@ -96,11 +103,6 @@ Showing newest **75** of **4506** listings · [View full table](./SUMMER.md)
 | ↳ | Software Engineering Intern (Summer 2027) | Beaverton, OR | Undergrad | <a href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11266?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | ↳ | System Level Verification Engineer Intern (Summer 2027) | Remote (US) | Undergrad | <a href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11168?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | ↳ | Software Design Engineer Intern (Summer 2027) | Beaverton, OR | Undergrad | <a href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11154?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
-| ↳ | Software Engineering (AI Building) Intern (Summer 2027) | Beaverton, OR | Undergrad | <a href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
-| Renesas Electronics | System Verification Engineering Intern | Austin, TX | Undergrad | <a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000162824903?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
-| Resultant | Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Indianapolis) | Indianapolis, IN | Undergrad | <a href="https://jobs.smartrecruiters.com/Resultant/744000162782371?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
-| RosaicLabs | CPU Architecture & Performance Engineer - Intern | Santa Clara, CA | Undergrad | <a href="https://jobs.lever.co/rosaiclabs/5c1436d6-6bb3-4978-8e3e-bdd103cbbcab?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
-| SAS | Summer 2027 - Cybersecurity Compliance and AI Automation Intern | Cary, NC | Undergrad | <a href="https://careers-sas.icims.com/jobs/42781/summer-2027---cybersecurity-compliance-and-ai-automation-intern/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
