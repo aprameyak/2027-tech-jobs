@@ -47015,9 +47015,10 @@
     "a": 0
   },
   "senior technical program manager, product security": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "asic verification engineer - new college grad 2026": {
