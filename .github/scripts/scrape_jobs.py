@@ -13,22 +13,44 @@ import requests
 import yaml
 from pathlib import Path
 
-requests.adapters.DEFAULT_RETRIES = requests.packages.urllib3.util.retry.Retry(
-    total=2, backoff_factor=0.3, status_forcelist=[500, 502, 503, 504]
-)
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+
+def _retry_policy():
+    return Retry(
+        total=4,
+        connect=3,
+        read=3,
+        backoff_factor=1.0,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=None,
+        respect_retry_after_header=True,
+    )
+
+
 _session = requests.Session()
-_session.mount('http://', requests.adapters.HTTPAdapter(max_retries=requests.packages.urllib3.util.retry.Retry(
-    total=2, backoff_factor=0.3, status_forcelist=[500, 502, 503, 504]
-)))
-_session.mount('https://', requests.adapters.HTTPAdapter(max_retries=requests.packages.urllib3.util.retry.Retry(
-    total=2, backoff_factor=0.3, status_forcelist=[500, 502, 503, 504]
-)))
-_original_request = requests.request
+_session.mount('http://', HTTPAdapter(max_retries=_retry_policy(), pool_maxsize=32))
+_session.mount('https://', HTTPAdapter(max_retries=_retry_policy(), pool_maxsize=32))
+
+
 def _request_with_timeout(*args, **kwargs):
     if 'timeout' not in kwargs:
         kwargs['timeout'] = (30, 60)
     return _session.request(*args, **kwargs)
+
+
+def _get(url, params=None, **kwargs):
+    return _request_with_timeout('get', url, params=params, **kwargs)
+
+
+def _post(url, data=None, json=None, **kwargs):
+    return _request_with_timeout('post', url, data=data, json=json, **kwargs)
+
+
 requests.request = _request_with_timeout
+requests.get = _get
+requests.post = _post
 
 import sys
 
