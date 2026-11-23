@@ -10,9 +10,11 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4589)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1201)
-- [🎓 New Grad 2027](./NEWGRAD.md) (1548)
+**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
+
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4590)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1204)
+- [🎓 New Grad 2027](./NEWGRAD.md) (1550)
 
 ## Legend
 
@@ -26,7 +28,7 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4589** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4590** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -84,6 +86,7 @@ Showing newest **75** of **4589** listings · [View full table](./SUMMER.md)
 | ↳ | Data Analytics Intern - Summer 2027 - IntelliScript | Brookfield, WI | Undergrad | <a href="https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=7eb5c04b-2e0c-4485-a005-aacb831a23ba"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Modern Woodmen of America | Data Analyst Intern | Rock Island, IL | Undergrad | <a href="https://recruiting.ultipro.com/MOD1003MWA/JobBoard/8990acfc-04f3-d65f-0565-a772e1a0157b/OpportunityDetail?opportunityId=f691b9ac-4ef9-479c-8338-1b7294ee6da1&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | IT Infrastructure Intern | Rock Island, IL | Undergrad | <a href="https://recruiting.ultipro.com/MOD1003MWA/JobBoard/8990acfc-04f3-d65f-0565-a772e1a0157b/OpportunityDetail?opportunityId=188605c4-f307-4614-b73b-9867f282e414&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| NorthStar Earth & Space | Stagiaire en recherche – IA et observation de la Terre / Research Intern – AI for Earth Observation (Ei²) | Montreal, QC | Undergrad | <a href="https://northstarearthandspace.bamboohr.com/careers/117?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Pason Systems | Software Developer Intern (Datahub) | Calgary, AB | Undergrad | <a href="https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | REXA | Software Engineering Intern (Winter/Spring Session) | Middleboro, MA | Undergrad | <a href="https://rexa.bamboohr.com/careers/134"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Smule | Internship - Applied Research Scientist | Remote (US) | Undergrad | <a href="https://smule.bamboohr.com/careers/29"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -106,12 +109,11 @@ Showing newest **75** of **4589** listings · [View full table](./SUMMER.md)
 | ↳ | Software Development Intern | Holstein, IA | Undergrad | <a href="https://vtindustries.rec.pro.ukg.net/VTI1500VTIN/JobBoard/674339ab-9285-4ba2-80bd-aa3503cae1b2/OpportunityDetail?opportunityId=c6ed6034-a946-447b-bc0f-46cf40fe4367&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Watchfire Signs | Intern Software Engineering | Danville, IL | Undergrad | <a href="https://watchfiresigns.rec.pro.ukg.net/wat1501wfsi/JobBoard/d3278620-b590-426f-899b-eb88c1096ad9/OpportunityDetail?opportunityId=b1838552-e606-4247-a3ce-2ce25d11e732"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Intern Help Desk Technician | Danville, IL | Undergrad | <a href="https://watchfiresigns.rec.pro.ukg.net/wat1501wfsi/JobBoard/d3278620-b590-426f-899b-eb88c1096ad9/OpportunityDetail?opportunityId=6c3e1070-8364-4c25-8599-7ddce44f14ad"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
-| Werner Electric Supply | AI Intern (Summer 2027) | Appleton, WI | Undergrad | <a href="https://recruiting2.ultipro.com/WER1000WERE/JobBoard/9cc9fbca-288f-4c69-99d7-b81d31b89844/OpportunityDetail?opportunityId=48ee1836-bd71-4533-a83a-a5170a0e984d&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1201** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1204** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
@@ -123,6 +125,7 @@ Showing newest **75** of **1201** listings · [View full table](./OFFCYCLE.md)
 | Convverge | Junior Developer Co-op | Calgary, AB | Co-op | Undergrad | <a href="https://convverge.bamboohr.com/careers/31"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | EUNA Solutions | Associate AI-Enablement Developer - 8 mth Coop | Oakville, ON | Co-op | Undergrad | <a href="https://euna.bamboohr.com/careers/822"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Flare | Stagiaire en développement logiciel – Hiver 2027 / Intern Software Developer – Winter 2027 | Montreal, QC | Winter 2027 | Undergrad | <a href="https://flare.bamboohr.com/careers/29"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Gradient MSP | Junior Full Stack Developer | Remote (US) | Co-op | Undergrad | <a href="https://gradientmsp.bamboohr.com/careers/72?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | MDA | Engineering Student – AI/ML Specialist - Winter 2027 | Richmond, BC | Winter 2027 | Undergrad | <a href="https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=b5aef546-676b-4f7a-8c20-acfa8f25069f"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Engineering Student - Python Test Data Processing - Winter 2027 | Sainte-Anne-de-Bellevue, QC | Winter 2027 | Undergrad | <a href="https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=67af442f-ca28-47b2-b86b-eaa3d5192fe0"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Engineering Student - DevOps - Winter 2027 | Sainte-Anne-de-Bellevue, QC | Winter 2027 | Undergrad | <a href="https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=38d976f8-97b0-44e6-9bb9-d9d8589b8f79"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -131,8 +134,10 @@ Showing newest **75** of **1201** listings · [View full table](./OFFCYCLE.md)
 | Milliman | Information Technology Support Spring 2027 Intern (Part-time) - Omaha (CMH Health) | Omaha, NE | Spring 2027 | Undergrad | <a href="https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=b3e982db-c815-490c-b58a-9a94cc038aee"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | AI Product Engineer Intern Spring 2027 (Full-time) - CMH Health | <details><summary>**2 locations**</summary>Chicago, IL</br>Brookfield, WI</details> | Spring 2027 | Undergrad | <a href="https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=d159c041-eb0e-4505-913f-aa006818d620"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | AI Product Engineer Intern Spring 2027 (Part-time) - CMH Health | <details><summary>**2 locations**</summary>Chicago, IL</br>Brookfield, WI</details> | Spring 2027 | Undergrad | <a href="https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=4f353716-eb67-4f11-a274-efee2100be07"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Omnimed | Développeur·euse ML (junior ou intermédiaire) | COOKSHIRE, QC | Co-op | Undergrad | <a href="https://omnimed.bamboohr.com/careers/73?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Southern Farm Bureau Life Insurance | Cyber Security Co-Op | Jackson, MS | Co-op | Undergrad | <a href="https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=1fb6a932-625e-4c2c-b8b6-27d91c456143"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Data Engineering Cooperative Education Intern | Jackson, MS | Co-op | Undergrad | <a href="https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=87bde30a-d527-4d94-880d-db1a93afa941"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Xradar | Software Engineer Co-op | Burnaby, BC | Co-op | Undergrad | <a href="https://xradar.bamboohr.com/careers/203?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Caterpillar Inc. | 2027 MineStar Training Development Program | Tucson, AZ | Co-op | Undergrad | <a href="https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Tucson-Arizona/XMLNAME-2027-MineStar-Training-Development-Program_R0000406023?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | Lumentum | AI Engineer - Co-op/Intern | Ottawa, ON | Co-op | Undergrad | <a href="https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/AI-Engineer---Co-op-Intern_20261778?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | TD Bank | Risk Management - Market Risk, Interest Rate Risk and P&L Attribution - Intern / Co-Op | Toronto, ON | Co-op | Undergrad | <a href="https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Market-Risk--Interest-Rate-Risk-and-P-L-Attribution---Intern---Co-Op_R_1522539-1?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
@@ -189,19 +194,18 @@ Showing newest **75** of **1201** listings · [View full table](./OFFCYCLE.md)
 | ↳ | Internship- Co-Op: AI Engineer | San Diego, CA | Co-op | Undergrad | <a href="https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--AI-Engineer_J-00355628?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | Internship-Co-Op: AI Engineer | San Diego, CA | Co-op | Undergrad | <a href="https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--AI-Engineer_J-00355629?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Bank of Montreal | Data Analyst, Winter 2027 (Co-o/Internship) - 8 months | Toronto, ON | Winter 2027 | Undergrad | <a href="https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| Fresenius Medical Care | V&V Systems Engineer Co-op | Lawrence, MA | Co-op | Masters | <a href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Lawrence-MA-USA/V-V-Systems-Engineer-Co-op_R0277323?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| Lila Sciences | Co-Op, IT/OT Security Analyst | Cambridge, MA | Co-op | Undergrad | <a href="https://job-boards.greenhouse.io/lilasciences/jobs/4477308009?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| ↳ | Co-op, Software, Applied AI Platform Engineer | San Francisco, CA | Co-op | Undergrad | <a href="https://job-boards.greenhouse.io/lilasciences/jobs/4472540009?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **1548** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **1550** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| All Options | Graduate Quantitative Trader | Austin, TX |  | Undergrad | <a href="https://alloptions.bamboohr.com/careers/85?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| ↳ | Graduate Quantitative Researcher | Austin, TX |  | Undergrad | <a href="https://alloptions.bamboohr.com/careers/86?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Applied Research Associates | Junior Software Developer | Albuquerque, NM |  | Undergrad | <a href="https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=4a45b594-2e7f-4042-9976-8a3b808265ca"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Junior Information System Security Engineer (ISSE) | Raleigh, NC |  | Undergrad | <a href="https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=7a72c316-97b1-4e8e-aeaf-057c7cd196aa"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | City and County of San Francisco | Cyber Defense Associate Engineer (1041) - Department of Technology | San Francisco, CA |  | Undergrad | <a href="https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017013773?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
@@ -275,8 +279,6 @@ Showing newest **75** of **1548** listings · [View full table](./NEWGRAD.md)
 | Intercontinental Exchange | Associate Software Developer | Jacksonville, FL |  | Undergrad | <a href="https://careers-ice.icims.com/jobs/14039/associate-software-developer/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | IXL Learning | IXL Associate Product Manager | San Mateo, CA |  | Undergrad | <a href="https://www.ixl.com/company/jobs?gh_jid=8936808002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Mass General Brigham | Graduate Research Assistant | Boston-MA |  | Undergrad | <a href="https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Graduate-Research-Assistant_RQ4086077?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
-| Micron Technology | New College Grad - Software Engineer | Boise, ID |  | Undergrad | <a href="https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
-| Oracle | Consulting SaaS Developer | Reston, VA |  | Undergrad | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350009?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 <!-- TABLE_END newgrad -->
 
 ## License

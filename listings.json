@@ -158563,5 +158563,79 @@
     "sponsorship": "Unknown",
     "citizenship": "Unknown",
     "date_added": "2026-11-23"
+  },
+  {
+    "company": "Omnimed",
+    "role": "Développeur·euse ML (junior ou intermédiaire)",
+    "location": "COOKSHIRE, QC",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://omnimed.bamboohr.com/careers/73?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-23"
+  },
+  {
+    "company": "Xradar",
+    "role": "Software Engineer Co-op",
+    "location": "Burnaby, BC",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://xradar.bamboohr.com/careers/203?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-23"
+  },
+  {
+    "company": "Gradient MSP",
+    "role": "Junior Full Stack Developer",
+    "location": "Remote (US)",
+    "type": "offcycle",
+    "season": "Co-op",
+    "education": "Undergrad",
+    "url": "https://gradientmsp.bamboohr.com/careers/72?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-23"
+  },
+  {
+    "company": "NorthStar Earth & Space",
+    "role": "Stagiaire en recherche – IA et observation de la Terre / Research Intern – AI for Earth Observation (Ei²)",
+    "location": "Montreal, QC",
+    "type": "summer",
+    "season": "Summer 2027",
+    "education": "Undergrad",
+    "url": "https://northstarearthandspace.bamboohr.com/careers/117?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-23"
+  },
+  {
+    "company": "All Options",
+    "role": "Graduate Quantitative Trader",
+    "location": "Austin, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad — no specific season)",
+    "education": "Undergrad",
+    "url": "https://alloptions.bamboohr.com/careers/85?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-23",
+    "grad_date": ""
+  },
+  {
+    "company": "All Options",
+    "role": "Graduate Quantitative Researcher",
+    "location": "Austin, TX",
+    "type": "newgrad",
+    "season": "2027 (New Grad — no specific season)",
+    "education": "Undergrad",
+    "url": "https://alloptions.bamboohr.com/careers/86?utm_source=aprameyak",
+    "sponsorship": "Unknown",
+    "citizenship": "Unknown",
+    "date_added": "2026-11-23",
+    "grad_date": ""
   }
 ]

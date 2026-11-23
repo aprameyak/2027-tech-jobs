@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4589 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4590 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -58,6 +58,7 @@
 | ↳ | Data Analytics Intern - Summer 2027 - IntelliScript | Brookfield, WI | Undergrad | [Apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=7eb5c04b-2e0c-4485-a005-aacb831a23ba) | Nov 23 |
 | Modern Woodmen of America | Data Analyst Intern | Rock Island, IL | Undergrad | [Apply](https://recruiting.ultipro.com/MOD1003MWA/JobBoard/8990acfc-04f3-d65f-0565-a772e1a0157b/OpportunityDetail?opportunityId=f691b9ac-4ef9-479c-8338-1b7294ee6da1&utm_source=aprameyak) | Nov 23 |
 | ↳ | IT Infrastructure Intern | Rock Island, IL | Undergrad | [Apply](https://recruiting.ultipro.com/MOD1003MWA/JobBoard/8990acfc-04f3-d65f-0565-a772e1a0157b/OpportunityDetail?opportunityId=188605c4-f307-4614-b73b-9867f282e414&utm_source=aprameyak) | Nov 23 |
+| NorthStar Earth & Space | Stagiaire en recherche – IA et observation de la Terre / Research Intern – AI for Earth Observation (Ei²) | Montreal, QC | Undergrad | [Apply](https://northstarearthandspace.bamboohr.com/careers/117?utm_source=aprameyak) | Nov 23 |
 | Pason Systems | Software Developer Intern (Datahub) | Calgary, AB | Undergrad | [Apply](https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8&utm_source=aprameyak) | Nov 23 |
 | REXA | Software Engineering Intern (Winter/Spring Session) | Middleboro, MA | Undergrad | [Apply](https://rexa.bamboohr.com/careers/134) | Nov 23 |
 | Smule | Internship - Applied Research Scientist | Remote (US) | Undergrad | [Apply](https://smule.bamboohr.com/careers/29) | Nov 23 |

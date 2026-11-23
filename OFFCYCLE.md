@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1201 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1204 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -12,6 +12,7 @@
 | Convverge | Junior Developer Co-op | Calgary, AB | Co-op | Undergrad | [Apply](https://convverge.bamboohr.com/careers/31) | Nov 23 |
 | EUNA Solutions | Associate AI-Enablement Developer - 8 mth Coop | Oakville, ON | Co-op | Undergrad | [Apply](https://euna.bamboohr.com/careers/822) | Nov 23 |
 | Flare | Stagiaire en développement logiciel – Hiver 2027 / Intern Software Developer – Winter 2027 | Montreal, QC | Winter 2027 | Undergrad | [Apply](https://flare.bamboohr.com/careers/29) | Nov 23 |
+| Gradient MSP | Junior Full Stack Developer | Remote (US) | Co-op | Undergrad | [Apply](https://gradientmsp.bamboohr.com/careers/72?utm_source=aprameyak) | Nov 23 |
 | MDA | Engineering Student – AI/ML Specialist - Winter 2027 | Richmond, BC | Winter 2027 | Undergrad | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=b5aef546-676b-4f7a-8c20-acfa8f25069f) | Nov 23 |
 | ↳ | Engineering Student - Python Test Data Processing - Winter 2027 | Sainte-Anne-de-Bellevue, QC | Winter 2027 | Undergrad | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=67af442f-ca28-47b2-b86b-eaa3d5192fe0) | Nov 23 |
 | ↳ | Engineering Student - DevOps - Winter 2027 | Sainte-Anne-de-Bellevue, QC | Winter 2027 | Undergrad | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=38d976f8-97b0-44e6-9bb9-d9d8589b8f79) | Nov 23 |
@@ -20,8 +21,10 @@
 | Milliman | Information Technology Support Spring 2027 Intern (Part-time) - Omaha (CMH Health) | Omaha, NE | Spring 2027 | Undergrad | [Apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=b3e982db-c815-490c-b58a-9a94cc038aee) | Nov 23 |
 | ↳ | AI Product Engineer Intern Spring 2027 (Full-time) - CMH Health | <details><summary>**2 locations**</summary>Chicago, IL</br>Brookfield, WI</details> | Spring 2027 | Undergrad | [Apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=d159c041-eb0e-4505-913f-aa006818d620) | Nov 23 |
 | ↳ | AI Product Engineer Intern Spring 2027 (Part-time) - CMH Health | <details><summary>**2 locations**</summary>Chicago, IL</br>Brookfield, WI</details> | Spring 2027 | Undergrad | [Apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=4f353716-eb67-4f11-a274-efee2100be07) | Nov 23 |
+| Omnimed | Développeur·euse ML (junior ou intermédiaire) | COOKSHIRE, QC | Co-op | Undergrad | [Apply](https://omnimed.bamboohr.com/careers/73?utm_source=aprameyak) | Nov 23 |
 | Southern Farm Bureau Life Insurance | Cyber Security Co-Op | Jackson, MS | Co-op | Undergrad | [Apply](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=1fb6a932-625e-4c2c-b8b6-27d91c456143) | Nov 23 |
 | ↳ | Data Engineering Cooperative Education Intern | Jackson, MS | Co-op | Undergrad | [Apply](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=87bde30a-d527-4d94-880d-db1a93afa941) | Nov 23 |
+| Xradar | Software Engineer Co-op | Burnaby, BC | Co-op | Undergrad | [Apply](https://xradar.bamboohr.com/careers/203?utm_source=aprameyak) | Nov 23 |
 | Caterpillar Inc. | 2027 MineStar Training Development Program | Tucson, AZ | Co-op | Undergrad | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Tucson-Arizona/XMLNAME-2027-MineStar-Training-Development-Program_R0000406023?utm_source=aprameyak) | Nov 21 |
 | Lumentum | AI Engineer - Co-op/Intern | Ottawa, ON | Co-op | Undergrad | [Apply](https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/AI-Engineer---Co-op-Intern_20261778?utm_source=aprameyak) | Nov 21 |
 | TD Bank | Risk Management - Market Risk, Interest Rate Risk and P&L Attribution - Intern / Co-Op | Toronto, ON | Co-op | Undergrad | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Market-Risk--Interest-Rate-Risk-and-P-L-Attribution---Intern---Co-Op_R_1522539-1?utm_source=aprameyak) | Nov 21 |
