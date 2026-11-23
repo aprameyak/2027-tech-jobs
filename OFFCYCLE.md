@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1204 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1205 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -24,6 +24,7 @@
 | Omnimed | Développeur·euse ML (junior ou intermédiaire) | COOKSHIRE, QC | Co-op | Undergrad | [Apply](https://omnimed.bamboohr.com/careers/73?utm_source=aprameyak) | Nov 23 |
 | Southern Farm Bureau Life Insurance | Cyber Security Co-Op | Jackson, MS | Co-op | Undergrad | [Apply](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=1fb6a932-625e-4c2c-b8b6-27d91c456143) | Nov 23 |
 | ↳ | Data Engineering Cooperative Education Intern | Jackson, MS | Co-op | Undergrad | [Apply](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=87bde30a-d527-4d94-880d-db1a93afa941) | Nov 23 |
+| Vetsez | Junior Appian Integration Developer (Remote Opportunity) | Remote (US) | Co-op | Undergrad | [Apply](https://vetsez.breezy.hr/p/18df3ec23bf901-junior-appian-integration-developer-remote-opportunity?utm_source=aprameyak) | Nov 23 |
 | Xradar | Software Engineer Co-op | Burnaby, BC | Co-op | Undergrad | [Apply](https://xradar.bamboohr.com/careers/203?utm_source=aprameyak) | Nov 23 |
 | Caterpillar Inc. | 2027 MineStar Training Development Program | Tucson, AZ | Co-op | Undergrad | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Tucson-Arizona/XMLNAME-2027-MineStar-Training-Development-Program_R0000406023?utm_source=aprameyak) | Nov 21 |
 | Lumentum | AI Engineer - Co-op/Intern | Ottawa, ON | Co-op | Undergrad | [Apply](https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/AI-Engineer---Co-op-Intern_20261778?utm_source=aprameyak) | Nov 21 |
