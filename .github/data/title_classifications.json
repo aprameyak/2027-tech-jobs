@@ -136236,5 +136236,908 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "internship summer 2027 - software development": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "event technology intern - san diego": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "it data analyst intern\u2013 summer 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "internship summer 2027 -  cost accounting": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "internship 2027 - quality assurance automation engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "internship 2027 - graphic design": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "internship 2027 - digital design": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "internship 2027 - brand management": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "internship 2027 - accounting": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "internship 2027 - finance": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "financial planning & analysis intern - summer 2027": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "it project management intern - summer 2027": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "it application development intern \u2013 summer 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "it intern, oracle erp \u2013 summer 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "it service center, global systems analyst intern- summer 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "it security intern \u2013 summer 2027": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "corporate tax intern - summer 2027": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "software development manager (secret clearance required)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "principal scientist": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "principal scientist - personal care / oral care": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "junior mechanic - full time (mornings)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "junior mechanic": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "scientist - dietary supplements & nutrition innovation": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "scientist - product safety": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "digital communications specialist i": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "digital communications specialist ii": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "it manager - business intelligence & commission systems": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "sr. digital asset management librarian": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "sr. network engineer ii": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "sr. systems engineer ii": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "it digital content specialist i": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - the ritz-carlton marina del rey": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - waldorf astoria las vegas": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "operations supervisor - los angeles airport marriott": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior technical lead - four seasons new orleans": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "director of event technology iii, venues atlanta, ga": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "sr. event technical lead-audio visual-the boca raton resort": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual -  mississauga / toronto airport area full time": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - kailua-kona": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "director event technology 1 - tropicana atlantic city": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "seasonal event technician (audio visual)- end date of may 2027- the boca raton resort": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event sr. technical lead, audio visual - the grand hyatt dc": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event sr. technical lead, audio visual - gaylord texan": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - the westin copley place, boston": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "sr. event technical lead-audio visual-the westin fort lauderdale beach resort": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical specialist, audio/video/lighting/projection - chicago": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead , audio visual - conrad washington, dc": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical specialist(lighting, l1)audio visual production team south fl": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event sr. technical lead, audio visual - hyatt regency hill country resort and villas": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - red rock": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "director, event technology (sne) -hilton beachfront resort, hilton head island": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "technical specialist, audio visual (audio, a1)  (part time casual) - south florida labor pool": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical specialist, video \u2013 chicago, il": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event sr. technical lead, audio visual - hyatt regency dfw": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - at&t hotel and conference center": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "director, event technology i - greenville, sc": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical specialist (audio) - sheraton san diego resort": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "director, event technology i, chelsea hotel toronto": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event sr. technical lead, audio visual - marriott minneapolis city center": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "director of event technology ii - hilton rosemont chicago o'hare": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event sr technical lead audio visual - intercontinental downtown los angeles": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical specialist(video) part time on call- south fl labor pool": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "sr. director of event technology i, venues- the ritz carlton, naples": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - jw marriott minneapolis mall of america": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "seasonal event technician, audio visual - double tree by the entrance of universal studios": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "technical services coordinator, delta ottawa city centre full time": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event senior technical specialist - audio, toronto branch, full time": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event senior technical specialist - projection, toronto branch, full time": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event senior technical specialist - lighting, toronto branch, full time": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "sr. technical lead- audio visual- jw marriott marquis miami": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "technical supervisor - niagara falls": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - niagara falls": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event senior technical lead, the international centre, mississauga full time": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "technical services representative, rogers centre ottawa (union) - full time": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical supervisor - fairmont banff springs": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "sr technical lead - wailea beach resort marriott": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical supervisor - bmo center, calgary": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technician, audio visual - renaissance concourse atlanta airport hotel": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual- santa fe, nm": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead (part time casual), audio visual - the ritz-carlton portland": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event sr. technical lead, audio visual - marriott long beach downtown": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "led systems engineer - las vegas, nv or orlando, fl": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical specialist, video (part-time) - hilton hawaiian village": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual-jw marriott phoenix desert ridge resort & spa": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "associate application developer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "n"
+  },
+  "event technical lead, audio visual- westin kierland": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "national college leadership program trainee - kansas city, missouri": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "o"
+  },
+  "director, event technology (sne) - boston, ma": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "seasonal event technician (audio visual) | full-time | oct 2026 - may 2027 | 1 hotel south beach": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - mgm national harbor": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event senior technical lead - niagara falls": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - jw marriott houston by the galleria": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead- fairmont banff springs": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead- fairmont lake louise": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "director, event technology ii - hall park hotel": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "technical services representative, delta ottawa city centre (union)": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "director, event\u00a0technology ii-denver marriott tech center": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "director, event technology sne - hotel zaza dallas uptown": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "director, event technology ii - hotel zaza - museum district": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "director, event technology sne - hotel zaza houston - memorial city": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - renaissance waverly hotel atlanta": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "director, event technology ii - hotel crescent court": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical specialist, audio - charlotte convention center": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical specialist,\u00a0audio- phoenix region": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "sr technical lead, audio visual - hilton new orleans riverside": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead- bmo center, calgary": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - sheraton boston hotel": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - boston marriott long wharf": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead - wailea beach resort marriott": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event sr. technical lead, audio visual - hyatt regency san francisco embarcadero": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead-westin kierland resort & spa": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event sr. technical lead, audio visual-jw marriott desert ridge resort and spa": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead (part time casual), audio visual - safe credit union convention center": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - wyndham grand pittsburgh": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - jw marriott": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual-the ritz-carlton, dove mountain": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - westin downtown dc": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "application architect, platform": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "n"
+  },
+  "event technical lead, audio visual - fairmont washington": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event sr. technical lead, audio visual (part time) - marriott melville long island": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - boston marriott copley place": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event sr technical lead, audio visual - rosen centre hotel": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event sr. technical lead, audio visual(part time) -grand hyatt vail": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event sr technical lead, audio visual - loews sapphire falls": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - portland marriott downtown waterfront": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual (part time casual) - dfw": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "technical supervisor -calgary telus convention center": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - claremont resort & club": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "n"
+  },
+  "senior full stack developer": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technician, audio visual (part time) - renaissance mobile": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical specialist- calgary telus convention centre": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "technical director": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "director of event technology i- winnipeg": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event senior technical lead (part time casual), audio visual - the hythe vail": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event senior technical lead (part time casual), audio visual - aspen": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - san francisco": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "sr. technical lead, audio visual-four seasons vail": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "director of event technology i (sne)-marriott colorado springs": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead (part time casual), audio visual - four seasons resort": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical specialist, audio - intercontinental cleveland": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical specialists, video (part time casual) - orlando labor pool": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "technical supervisor - fairmont chateau whistler": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "technical supervisor - gta": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical lead, audio visual - 1440 multiversity": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technician, audio visual - fairmont sonoma mission inn and spa": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event technical specialist, projection & video \u2013 nashville, tn": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "event senior technical lead (video), audio visual - omaha": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
