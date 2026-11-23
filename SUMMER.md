@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4645 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4679 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -11,6 +11,10 @@
 | ↳ | Data Analytics Intern (Data Science) | Sheboygan, WI | Undergrad | [Apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7&utm_source=aprameyak) | Nov 23 |
 | AFL | Web Design/Development Intern- Summer 2027 | Duncan, SC | Undergrad | [Apply](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80) | Nov 23 |
 | Allen Control Systems | Computer Vision/Machine Learning Intern, 2027 | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037/application?utm_source=aprameyak) | Nov 23 |
+| Anduril | 2027 Business Systems Engineer Intern | Costa Mesa, CA | Masters | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007&utm_source=aprameyak) | Nov 23 |
+| ↳ | 2027 Finance Data Analyst Intern | Costa Mesa, CA | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007&utm_source=aprameyak) | Nov 23 |
+| ↳ | 2027 Flight Software Engineer Intern | Costa Mesa, CA | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007&utm_source=aprameyak) | Nov 23 |
+| ↳ | 2027 Systems Engineer Intern | <details><summary>**5 locations**</summary>Boston, MA</br>Costa Mesa, CA</br>Fort Collins, CO</br>Reston, VA</br>Seattle, WA</details> | Masters | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007&utm_source=aprameyak) | Nov 23 |
 | Applied Research Associates | Software Quality Assurance Intern | Baton Rouge, LA | Undergrad | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=bdbeeabf-bf21-41d9-9034-d01be04c59f6) | Nov 23 |
 | ↳ | Software Engineer Intern | Baton Rouge, LA | Undergrad | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=0e5ea52f-9c4b-45f8-9a60-86678d8e3fd8) | Nov 23 |
 | Avista | Fleet Operations Data Intern (Data Analytics/Science, Acturial Science, Business Majors) | Spokane, WA | Undergrad | [Apply](https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=99b68bca-853c-4512-a758-80fa46bf30b5&utm_source=aprameyak) | Nov 23 |
@@ -67,6 +71,14 @@
 | IDEMIA | Information Technology Internship | Eden Prairie, MN | Undergrad | [Apply](https://uscareers-idemia.icims.com/jobs/8704/information-technology-internship/job?utm_source=aprameyak) | Nov 23 |
 | ↳ | Information Technology Internship | Eden Prairie, MN | Undergrad | [Apply](https://uscareers-idemia.icims.com/jobs/8665/information-technology-internship/job?utm_source=aprameyak) | Nov 23 |
 | ↳ | Technical Customer Support Internship | Eden Prairie, MN | Undergrad | [Apply](https://uscareers-idemia.icims.com/jobs/8662/technical-customer-support-internship/job?utm_source=aprameyak) | Nov 23 |
+| Integra FEC | (SPRING) Data Analyst Intern | Austin, TX | Undergrad | [Apply](https://job-boards.greenhouse.io/integra/jobs/5406100008?utm_source=aprameyak) | Nov 23 |
+| ↳ | (SPRING) Data Scientist Intern - PhD | Austin, TX | PhD | [Apply](https://job-boards.greenhouse.io/integra/jobs/5406092008?utm_source=aprameyak) | Nov 23 |
+| ↳ | (SUMMER) Data Analyst Intern | Austin, TX | Undergrad | [Apply](https://job-boards.greenhouse.io/integra/jobs/5406109008?utm_source=aprameyak) | Nov 23 |
+| ↳ | (SUMMER) Data Scientist Intern - PhD | Austin, TX | PhD | [Apply](https://job-boards.greenhouse.io/integra/jobs/5406094008?utm_source=aprameyak) | Nov 23 |
+| ↳ | (SPRING) Data Analyst Intern | Austin, TX | Undergrad | [Apply](https://job-boards.greenhouse.io/integrainterns/jobs/5406101008?utm_source=aprameyak) | Nov 23 |
+| ↳ | (SPRING) Data Scientist Intern - PhD | Austin, TX | PhD | [Apply](https://job-boards.greenhouse.io/integrainterns/jobs/5406093008?utm_source=aprameyak) | Nov 23 |
+| ↳ | (SUMMER) Data Analyst Intern | Austin, TX | Undergrad | [Apply](https://job-boards.greenhouse.io/integrainterns/jobs/5406110008?utm_source=aprameyak) | Nov 23 |
+| ↳ | (SUMMER) Data Scientist Intern - PhD | Austin, TX | PhD | [Apply](https://job-boards.greenhouse.io/integrainterns/jobs/5406095008?utm_source=aprameyak) | Nov 23 |
 | Jewelers Mutual Group | GRC Analyst Intern - Summer of 2027 | Neenah, WI | Undergrad | [Apply](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=20a190b2-0b5d-4483-9455-694a9a3d1f30) | Nov 23 |
 | ↳ | Behavioral Analytics Intern - Summer of 2027 | Raleigh, NC | Undergrad | [Apply](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=ee5ca626-0eea-4cb4-95ce-735ab0ebca6e) | Nov 23 |
 | ↳ | UX Research Intern - Summer of 2027 | Raleigh, NC | Undergrad | [Apply](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=e511ae31-94dc-4597-8559-214781698eaa) | Nov 23 |
@@ -105,8 +117,27 @@
 | ↳ | Internships in Cybersecurity and Information Security | McLean, VA | Undergrad | [Apply](https://mitre.wd5.myworkdayjobs.com/MITRE/job/McLean-VA/Internships-in-Cybersecurity-and-Information-Security_R117314-1/apply?utm_source=aprameyak) | Nov 23 |
 | Modern Woodmen of America | Data Analyst Intern | Rock Island, IL | Undergrad | [Apply](https://recruiting.ultipro.com/MOD1003MWA/JobBoard/8990acfc-04f3-d65f-0565-a772e1a0157b/OpportunityDetail?opportunityId=f691b9ac-4ef9-479c-8338-1b7294ee6da1&utm_source=aprameyak) | Nov 23 |
 | ↳ | IT Infrastructure Intern | Rock Island, IL | Undergrad | [Apply](https://recruiting.ultipro.com/MOD1003MWA/JobBoard/8990acfc-04f3-d65f-0565-a772e1a0157b/OpportunityDetail?opportunityId=188605c4-f307-4614-b73b-9867f282e414&utm_source=aprameyak) | Nov 23 |
+| MongoDB | 2027 - Software Engineering Intern, AMER | <details><summary>**3 locations**</summary>Austin, TX</br>New York, NY</br>San Francisco, CA</details> | Undergrad | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) | Nov 23 |
+| Neuralink | Software Engineer Intern, Implant | <details><summary>**2 locations**</summary>Austin, TX</br>South San Francisco, CA</details> | Undergrad | [Apply](https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003&utm_source=aprameyak) | Nov 23 |
+| ↳ | Software Engineer Intern, Internal Apps | <details><summary>**2 locations**</summary>Austin, TX</br>South San Francisco, CA</details> | Undergrad | [Apply](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003&utm_source=aprameyak) | Nov 23 |
+| ↳ | Software Engineer Intern, Robotics | <details><summary>**2 locations**</summary>Austin, TX</br>South San Francisco, CA</details> | Undergrad | [Apply](https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003&utm_source=aprameyak) | Nov 23 |
+| Nintendo | Intern - Business Intelligence | Redmond, WA | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4421623009) | Nov 23 |
+| ↳ | Intern - IT Microsoft 365 Systems Engineer | Redmond, WA | Masters | [Apply](https://careers.nintendo.com/?gh_jid=4417323009) | Nov 23 |
+| ↳ | Intern – IT Platform Engineer | Redmond, WA | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4417311009) | Nov 23 |
+| ↳ | Intern - IT Software Engineer | Redmond, WA | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4421632009) | Nov 23 |
+| ↳ | Intern - Localization Systems Analyst | Redmond, WA | Masters | [Apply](https://careers.nintendo.com/?gh_jid=4417305009) | Nov 23 |
+| ↳ | Intern - Software Engineer, Audio (NTD) | Redmond, WA | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4470048009) | Nov 23 |
+| ↳ | Intern - Software Engineer, Connectivity (NTD) | Redmond, WA | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4472147009) | Nov 23 |
+| ↳ | Intern - Software Engineer, CPU Debugger (NTD) | Redmond, WA | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4471972009) | Nov 23 |
+| ↳ | Intern - Software Engineer, CPU Profiler (NTD) | Redmond, WA | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4469762009) | Nov 23 |
+| ↳ | Intern - Software Engineer, DevOps (NTD) | Redmond, WA | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4472002009) | Nov 23 |
+| ↳ | Intern - Software Engineer, Graphics (NTD) | Redmond, WA | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4473550009) | Nov 23 |
+| ↳ | Intern - Software Engineer, Performance Tools (NTD) | Redmond, WA | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4473568009) | Nov 23 |
+| ↳ | Intern - Software Engineer, Platform Security (NTD) | Redmond, WA | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4469778009) | Nov 23 |
+| ↳ | Intern - User Experience | Redmond, WA | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4418258009) | Nov 23 |
 | NorthStar Earth & Space | Stagiaire en recherche – IA et observation de la Terre / Research Intern – AI for Earth Observation (Ei²) | Montreal, QC | Undergrad | [Apply](https://northstarearthandspace.bamboohr.com/careers/117?utm_source=aprameyak) | Nov 23 |
 | Pason Systems | Software Developer Intern (Datahub) | Calgary, AB | Undergrad | [Apply](https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8&utm_source=aprameyak) | Nov 23 |
+| PsiQuantum | Intern, Quantum Architecture | Remote (US) | Undergrad | [Apply](https://www.psiquantum.com/apply?gh_jid=6536805003) | Nov 23 |
 | Red Bull | 2027 Internship, Spring - Data Science | Remote (US) | Undergrad | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163139699?utm_source=aprameyak) | Nov 23 |
 | REXA | Software Engineering Intern (Winter/Spring Session) | Middleboro, MA | Undergrad | [Apply](https://rexa.bamboohr.com/careers/134) | Nov 23 |
 | Saronic Technologies | Information Technology Intern (Summer 2027) | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/saronic/0fa1ca8f-0dca-43cc-a5fa-59c40840986f/application?utm_source=aprameyak) | Nov 23 |
@@ -128,6 +159,8 @@
 | ↳ | Summer 2027 - Operations Developer Internship | Little Rock, AR | Undergrad | [Apply](https://recruiting2.ultipro.com/sou1052sppi/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=51168e8a-cd42-4169-9c50-0019367a9d83) | Nov 23 |
 | TASI Measurement | Machine Programming Intern | Kent, WA | Undergrad | [Apply](https://tasimeasurement.rec.pro.ukg.net/TAS1500TASI/JobBoard/2fb92a77-0aea-4e34-864b-11b2e6f60345/OpportunityDetail?opportunityId=7ee21f6a-8ca8-47b5-8f26-9132501782ea) | Nov 23 |
 | TCOM | Software Engineering Intern | Sioux Falls, SD | Undergrad | [Apply](https://recruiting.ultipro.com/TCO1001TCOM/JobBoard/74e57e92-4355-44d7-8471-3c6eecfda9ef/OpportunityDetail?opportunityId=e8df2c4d-5bfd-4b2c-9dc2-d1f4713497f5) | Nov 23 |
+| Tenstorrent | AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA) | <details><summary>**2 locations**</summary>Austin, TX</br>Santa Clara, CA</details> | Undergrad | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007?utm_source=aprameyak) | Nov 23 |
+| ↳ | AI Software Intern (USA) | <details><summary>**2 locations**</summary>Austin, TX</br>Santa Clara, CA</details> | Undergrad | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007?utm_source=aprameyak) | Nov 23 |
 | The SilverLogic | AI Engineer/Consultant Internship | Boca Raton, FL | Undergrad | [Apply](https://silverlogic.bamboohr.com/careers/36) | Nov 23 |
 | Ulteig | GIS Intern | <details><summary>**3 locations**</summary>Remote (US)</br>Greenwood Village, CO</br>Minneapolis, MN</details> | Undergrad | [Apply](https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa&utm_source=aprameyak) | Nov 23 |
 | Valstad | Software Engineering Intern, 3D & Manufacturing Applications | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea/application?utm_source=aprameyak) | Nov 23 |
@@ -138,6 +171,7 @@
 | ↳ | Intern Help Desk Technician | Danville, IL | Undergrad | [Apply](https://watchfiresigns.rec.pro.ukg.net/wat1501wfsi/JobBoard/d3278620-b590-426f-899b-eb88c1096ad9/OpportunityDetail?opportunityId=6c3e1070-8364-4c25-8599-7ddce44f14ad) | Nov 23 |
 | Werner Electric Supply | AI Intern (Summer 2027) | Appleton, WI | Undergrad | [Apply](https://recruiting2.ultipro.com/WER1000WERE/JobBoard/9cc9fbca-288f-4c69-99d7-b81d31b89844/OpportunityDetail?opportunityId=48ee1836-bd71-4533-a83a-a5170a0e984d&utm_source=aprameyak) | Nov 23 |
 | ↳ | Network Solutions Intern (Summer 2027) | Appleton, WI | Undergrad | [Apply](https://recruiting2.ultipro.com/WER1000WERE/JobBoard/9cc9fbca-288f-4c69-99d7-b81d31b89844/OpportunityDetail?opportunityId=0f5d9974-d8b0-471d-a59f-4902a701dc1d&utm_source=aprameyak) | Nov 23 |
+| WhiteWater Midstream | Trading Operations Intern - Summer 2027 | Austin, TX | Undergrad | [Apply](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5221723007?utm_source=aprameyak) | Nov 23 |
 | WPS Health Solutions | PeopleTech Intern--Summer 2027 | <details><summary>**18 locations**</summary>Madison, WI</br>WI</br>CO</br>FL</br>GA</br>IL</br>IN</br>IA</br>MI</br>MN</br>MO</br>NE</br>NJ</br>OH</br>SC</br>TX</br>VA</br>NC</details> | Undergrad | [Apply](https://recruiting2.ultipro.com/WIS1003/JobBoard/e6da0c90-f987-63dc-99a9-fb8c9014f57e/OpportunityDetail?opportunityId=9147fb46-699c-48d0-a41e-b2f617cbb777&utm_source=aprameyak) | Nov 23 |
 | Canadian Solar | Data Engineering Intern | Kitchener, ON | Undergrad | [Apply](https://canadiansolar.wd5.myworkdayjobs.com/en-US/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603?utm_source=aprameyak) | Nov 22 |
 | ↳ | Technical Writer Intern | Kitchener, ON | Undergrad | [Apply](https://canadiansolar.wd5.myworkdayjobs.com/en-US/CanadianSolar/job/Kitchener-ON/Technical-Writer-Intern_10001601-1?utm_source=aprameyak) | Nov 22 |
