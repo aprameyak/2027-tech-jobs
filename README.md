@@ -16,9 +16,11 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
 
+**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
+
 - [☀️ Summer 2027 Internships](./SUMMER.md) (4600)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1204)
-- [🎓 New Grad 2027](./NEWGRAD.md) (1551)
+- [🎓 New Grad 2027](./NEWGRAD.md) (1553)
 
 ## Legend
 
@@ -202,7 +204,7 @@ Showing newest **75** of **1204** listings · [View full table](./OFFCYCLE.md)
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **1551** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **1553** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
@@ -213,6 +215,8 @@ Showing newest **75** of **1551** listings · [View full table](./NEWGRAD.md)
 | Applied Research Associates | Junior Software Developer | Albuquerque, NM |  | Undergrad | <a href="https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=4a45b594-2e7f-4042-9976-8a3b808265ca"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Junior Information System Security Engineer (ISSE) | Raleigh, NC |  | Undergrad | <a href="https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=7a72c316-97b1-4e8e-aeaf-057c7cd196aa"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Encore Global | Associate Application Developer | Schiller Park, IL |  | Undergrad | <a href="https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=bf6ce5bb-f991-46de-a0cb-50f4f9577ee9&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Trimont | Technology Analyst Program (Trivinna) | Atlanta, GA |  | Undergrad | <a href="https://recruiting.ultipro.com/TRI1039TRES/JobBoard/551314d5-926b-4475-808f-39d0e0248aed/OpportunityDetail?opportunityId=0f9e9990-efc0-4c9a-882b-4f23aeb82098&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| ↳ | Technology Analyst Program | Atlanta, GA |  | Undergrad | <a href="https://recruiting.ultipro.com/TRI1039TRES/JobBoard/551314d5-926b-4475-808f-39d0e0248aed/OpportunityDetail?opportunityId=d6e6af65-2ea6-432c-939d-392a67e7bdf9&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | City and County of San Francisco | Cyber Defense Associate Engineer (1041) - Department of Technology | San Francisco, CA |  | Undergrad | <a href="https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017013773?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Fortive | 2027 GLDP Associate- Commercial Track | Irvine, CA | Spring 2027 | Undergrad | <a href="https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10880?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Jerry | Associate Data Scientist | New York, NY |  | Undergrad | <a href="https://jobs.ashbyhq.com/Jerry.ai/67b832c4-8d9f-4953-ba43-ba892d06fe8a/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
@@ -281,8 +285,6 @@ Showing newest **75** of **1551** listings · [View full table](./NEWGRAD.md)
 | Ares Management | Associate, Data Platform Engineering | New York, NY |  | Undergrad | <a href="https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Associate--Data-Platform-Engineering_R8755?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Capital One | Associate, Data Scientist - US Card | McLean, VA |  | Undergrad | <a href="https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Howden | Early Careers Analyst | Miami- 600 Brickell Avenue |  | Undergrad | <a href="https://hyperiongrp.wd3.myworkdayjobs.com/en-US/Hyperion_External/job/Miami--600-Brickell-Avenue/Early-Careers-Analyst_R0020150?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
-| Intercontinental Exchange | Associate Software Developer | Jacksonville, FL |  | Undergrad | <a href="https://careers-ice.icims.com/jobs/14039/associate-software-developer/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
-| IXL Learning | IXL Associate Product Manager | San Mateo, CA |  | Undergrad | <a href="https://www.ixl.com/company/jobs?gh_jid=8936808002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 <!-- TABLE_END newgrad -->
 
 ## License
