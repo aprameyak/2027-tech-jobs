@@ -2629,7 +2629,7 @@ smartrecruiters:
   identifier: "Mirantis"
 - name: Mission Critical Group
   identifier: "MissionCriticalGroup"
-# MITRE removed: SmartRecruiters board returns 0; real ATS is Phenom at careers.mitre.org (not scraped yet)
+# MITRE: SmartRecruiters returns 0; scraped via phenom (careers.mitre.org)
 - name: MSX International
   identifier: "MSXInternational"
 - name: National Software Management
@@ -15369,6 +15369,10 @@ ukg:
   host: "recruiting.ultipro.ca"
   tenant: "MAC5000MCDW"
   board: "664818ff-3594-4bec-9f30-3394e59e19f3"
+- name: MDA
+  host: "recruiting.ultipro.ca"
+  tenant: "MAC5000MCDW"
+  board: "7667adcc-47ae-477a-9183-0d8ef8bc0748"
 - name: Mawer Investment Management
   host: "recruiting.ultipro.ca"
   tenant: "MAW5000MAIM"
@@ -15471,3 +15475,22 @@ bamboohr:
   slug: "silverlogic"
 - name: Xradar
   slug: "xradar"
+
+breezy:
+- name: Logan A/C & Heat Services
+  slug: "logan-a-c-heat-services-b29ac6f9712d"
+- name: LufCo
+  slug: "lufco"
+- name: Ninja Holdings
+  slug: "ninjaholdings"
+- name: Vetsez
+  slug: "vetsez"
+
+dover:
+- name: Fabri
+  slug: "fabri-usa"
+
+phenom:
+- name: MITRE
+  host: "careers.mitre.org"
+  path: "/us/en/search-results"

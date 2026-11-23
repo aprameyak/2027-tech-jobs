@@ -1162,6 +1162,8 @@ def infer_education_level(title):
 _UTM_HOST_MARKERS = (
     'greenhouse.io', 'lever.co', 'ashbyhq.com', 'myworkdayjobs.com', 'workdaysite.com',
     'oraclecloud.com', 'smartrecruiters.com', 'icims.com', 'applytojob.com',
+    'ultipro.com', 'ultipro.ca', 'rec.pro.ukg.net', 'bamboohr.com',
+    'breezy.hr', 'jobs.dover.com',
 )
 _UTM_STRIP = {
     'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'utm_id',
@@ -2194,6 +2196,214 @@ def scrape_bamboohr(company, slug):
     return jobs
 
 
+def _breezy_format_location(loc):
+    if not isinstance(loc, dict):
+        return normalize_location(str(loc or '').strip())
+    if loc.get('is_remote'):
+        country = ((loc.get('country') or {}).get('name') or '').strip()
+        if country and 'canada' in country.lower():
+            return 'Remote (Canada)'
+        return 'Remote'
+    name = (loc.get('name') or '').strip()
+    if name:
+        return normalize_location(name)
+    city = (loc.get('city') or '').strip()
+    state = ((loc.get('state') or {}).get('id') or (loc.get('state') or {}).get('name') or '').strip()
+    if city and state:
+        return normalize_location(f'{city}, {state}')
+    return normalize_location(city)
+
+
+def scrape_breezy(company, slug):
+    """Breezy HR public JSON board: https://{slug}.breezy.hr/json"""
+    slug = (slug or '').strip()
+    if not slug:
+        return []
+    jobs = []
+    try:
+        resp = _get(f'https://{slug}.breezy.hr/json', timeout=(10, 30))
+        if resp.status_code != 200:
+            print(f'  [{company}] Breezy HTTP {resp.status_code}')
+            return []
+        rows = resp.json()
+        if not isinstance(rows, list):
+            return []
+        for row in rows:
+            jid = str(row.get('id') or '').strip()
+            title = (row.get('name') or '').strip()
+            location = _breezy_format_location(row.get('location'))
+            url = (row.get('url') or '').strip()
+            if not url and jid:
+                url = f'https://{slug}.breezy.hr/p/{row.get("friendly_id") or jid}'
+            if not jid or not title or not is_candidate_title(title):
+                continue
+            if not location or not is_us_location(location):
+                continue
+            jobs.append({
+                'id': f'breezy_{slug}_{jid}',
+                'company': company,
+                'title': title,
+                'location': location,
+                'url': url,
+                'board': 'Breezy',
+            })
+    except Exception as e:
+        print(f'  [{company}] Breezy error: {e}')
+    return jobs
+
+
+def scrape_dover(company, slug):
+    """Dover public board feed: https://jobs.dover.com/feed/v1/boards/{slug}/jobs"""
+    slug = (slug or '').strip()
+    if not slug:
+        return []
+    jobs = []
+    try:
+        resp = _get(
+            f'https://jobs.dover.com/feed/v1/boards/{slug}/jobs',
+            timeout=(10, 30),
+        )
+        if resp.status_code != 200:
+            print(f'  [{company}] Dover HTTP {resp.status_code}')
+            return []
+        for row in (resp.json() or {}).get('jobs') or []:
+            jid = str(row.get('id') or '').strip()
+            title = (row.get('title') or '').strip()
+            loc = row.get('location') or {}
+            if isinstance(loc, dict):
+                location = normalize_location((loc.get('name') or '').strip())
+            else:
+                location = normalize_location(str(loc or '').strip())
+            if row.get('remote') and not location:
+                location = 'Remote'
+            url = (row.get('absolute_url') or '').strip()
+            if not jid or not title or not is_candidate_title(title):
+                continue
+            if not location or not is_us_location(location):
+                continue
+            if not url:
+                url = f'https://jobs.dover.com/{slug}/{jid}'
+            jobs.append({
+                'id': f'dover_{slug}_{jid}',
+                'company': company,
+                'title': title,
+                'location': location,
+                'url': url,
+                'board': 'Dover',
+                'visa_text': extract_visa_snippets(html_to_text(row.get('content') or '')),
+            })
+    except Exception as e:
+        print(f'  [{company}] Dover error: {e}')
+    return jobs
+
+
+def scrape_phenom(company, host, path='/us/en/search-results'):
+    """Phenom careers widgets search (CSRF from search-results page)."""
+    host = (host or '').strip().rstrip('/')
+    path = (path or '/us/en/search-results').strip() or '/us/en/search-results'
+    if not host:
+        return []
+    if host.startswith('http'):
+        host = host.split('://', 1)[1].split('/', 1)[0]
+    if not path.startswith('/'):
+        path = '/' + path
+
+    base = f'https://{host}'
+    jobs = []
+    seen = set()
+    try:
+        session = requests.Session()
+        session.headers.update(HEADERS)
+        page = session.get(base + path, timeout=(10, 30), allow_redirects=True)
+        if page.status_code != 200:
+            print(f'  [{company}] Phenom page HTTP {page.status_code}')
+            return []
+        csrf_m = re.search(r'"csrfToken"\s*:\s*"([^"]+)"', page.text)
+        if not csrf_m:
+            print(f'  [{company}] Phenom missing csrfToken')
+            return []
+        csrf = csrf_m.group(1)
+        page_size = 50
+        offset = 0
+        total = None
+        pages = 0
+        while pages < 40:
+            payload = {
+                'ddoKey': 'refineSearch',
+                'jobs': True,
+                'from': offset,
+                'size': page_size,
+                'sort': {'order': 'desc', 'field': 'dateCreated'},
+                'pageName': 'search-results',
+                'siteType': 'external',
+                'lang': 'en_us',
+                'deviceType': 'desktop',
+                'country': 'us',
+            }
+            resp = session.post(
+                base + '/widgets',
+                json=payload,
+                headers={
+                    'Content-Type': 'application/json',
+                    'Accept': 'application/json',
+                    'x-csrf-token': csrf,
+                    'Referer': page.url,
+                },
+                timeout=(10, 45),
+            )
+            if resp.status_code != 200 or not (resp.text or '').strip().startswith('{'):
+                print(f'  [{company}] Phenom widgets HTTP {resp.status_code}')
+                break
+            refine = (resp.json() or {}).get('refineSearch') or {}
+            data = refine.get('data') or {}
+            rows = data.get('jobs') or []
+            if total is None:
+                total = data.get('totalHits')
+                if total is None:
+                    total = refine.get('totalHits')
+            if not rows:
+                break
+            for row in rows:
+                jid = str(row.get('jobId') or row.get('jobSeqNo') or '').strip()
+                if not jid or jid in seen:
+                    continue
+                seen.add(jid)
+                title = (row.get('title') or '').strip()
+                location = normalize_location(
+                    (row.get('cityState') or row.get('location') or '').strip()
+                )
+                country = (row.get('country') or '').lower()
+                url = (row.get('applyUrl') or row.get('jobUrl') or '').strip()
+                if not title or not is_candidate_title(title):
+                    continue
+                if country and not any(
+                    c in country for c in ('united states', 'usa', 'u.s', 'canada')
+                ):
+                    continue
+                if not location or not is_us_location(location):
+                    continue
+                if not url:
+                    continue
+                jobs.append({
+                    'id': f'phenom_{host}_{jid}',
+                    'company': company,
+                    'title': title,
+                    'location': location,
+                    'url': url,
+                    'board': 'Phenom',
+                })
+            offset += len(rows)
+            pages += 1
+            if total is not None and offset >= total:
+                break
+            if len(rows) < page_size:
+                break
+            time.sleep(0.2)
+    except Exception as e:
+        print(f'  [{company}] Phenom error: {e}')
+    return jobs
+
+
 def _clean_google_location(raw):
     if not raw:
         return ''
@@ -2418,7 +2628,7 @@ _BOARD_GROUP_BOARDS = {
     'bamboohr': {'bamboohr'},
     'other': {
         'lever', 'smartrecruiters', 'workable', 'recruitee', 'pinpoint',
-        'icims', 'avature',
+        'icims', 'avature', 'breezy', 'dover', 'phenom',
     },
 }
 
@@ -2519,6 +2729,34 @@ def main():
                 entry['name'],
                 entry['slug'],
                 'bamboohr',
+            ))
+
+    if included_boards is None or 'breezy' in included_boards:
+        for entry in config.get('breezy', []):
+            scrape_tasks.append((
+                scrape_breezy,
+                entry['name'],
+                entry['slug'],
+                'breezy',
+            ))
+
+    if included_boards is None or 'dover' in included_boards:
+        for entry in config.get('dover', []):
+            scrape_tasks.append((
+                scrape_dover,
+                entry['name'],
+                entry['slug'],
+                'dover',
+            ))
+
+    if included_boards is None or 'phenom' in included_boards:
+        for entry in config.get('phenom', []):
+            scrape_tasks.append((
+                scrape_phenom,
+                entry['name'],
+                entry['host'],
+                entry.get('path', '/us/en/search-results'),
+                'phenom',
             ))
 
     if included_boards is None or 'linkedin' in included_boards:
