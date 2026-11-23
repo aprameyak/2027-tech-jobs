@@ -1993,28 +1993,28 @@
   },
   "ad&s, air vehicle software systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "aerodynamics engineer, air vehicles": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "aerodynamics engineer, hypersonic air vehicles": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "afsim operations analyst, mission engineering, air dominance & strike, active clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2038,7 +2038,7 @@
   },
   "air vehicle systems verification lead": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2121,7 +2121,7 @@
   },
   "bom sourcing engineer, intelligence systems & space (active clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2140,7 +2140,7 @@
   },
   "business operations engineer, air dominance & strike ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2157,7 +2157,7 @@
   },
   "business operations lead - technical projects": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2275,7 +2275,7 @@
   },
   "cloud deployment engineer, space ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2401,7 +2401,7 @@
   },
   "cost value engineer, intelligence systems & space (active clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2425,7 +2425,7 @@
   },
   "curriculum developer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2538,7 +2538,7 @@
   },
   "deputy chief engineer, autonomous airpower": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -2715,7 +2715,7 @@
   },
   "director, mission systems, advanced effects ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3129,7 +3129,7 @@
   },
   "field network technician, maneuver dominance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3153,7 +3153,7 @@
   },
   "field technical specialist, counter intrusion": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3288,7 +3288,7 @@
   },
   "forward deployed engineer, air defense (fde)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3326,7 +3326,7 @@
   },
   "fuel systems engineer, air vehicles": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3369,7 +3369,7 @@
   },
   "global sourcing manager, aircraft composites": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3456,7 +3456,7 @@
   },
   "guidance navigation and control (gnc) engineer, air dominance & strike": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3525,13 +3525,13 @@
   },
   "head of mission readiness": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
   "head of mission readiness, autonomous airpower": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3904,14 +3904,14 @@
   },
   "loads and dynamics engineer, air vehicles": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "low observables engineer, mission systems ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -3973,7 +3973,7 @@
   },
   "manager, manufacturing asset reliability ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4034,7 +4034,7 @@
   },
   "manager, product security foundations": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4086,7 +4086,7 @@
   },
   "manager, technical revenue accounting": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4152,7 +4152,7 @@
   },
   "manufacturing systems specialist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4213,7 +4213,7 @@
   },
   "mass properties engineer, air vehicles": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4314,7 +4314,7 @@
   },
   "mission engineer, air dominance & strike": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4346,7 +4346,7 @@
   },
   "mission operations engineer, connected warfare (active clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4366,7 +4366,7 @@
   },
   "mission ops engineer - skillbridge": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4471,7 +4471,7 @@
   },
   "mission systems integration engineer, air dominance & strike, active clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4490,7 +4490,7 @@
   },
   "modeling, simulation and analysis engineer, air dominance & strike": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4542,21 +4542,21 @@
   },
   "open architecture systems engineer, ground systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "open architecture systems engineer, mission systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "operations analyst, mission engineering, air dominance & strike, active clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4666,7 +4666,7 @@
   },
   "planning program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4754,14 +4754,14 @@
   },
   "principal systems engineer, air vehicle software": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "principal systems engineer, air vehicle systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -4858,7 +4858,7 @@
   },
   "production program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5113,7 +5113,7 @@
   },
   "product sourcing engineer, autonomous airpower": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5162,7 +5162,7 @@
   },
   "product support engineer - precision engagement systems ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5240,7 +5240,7 @@
   },
   "program manager - skillbridge": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5460,7 +5460,7 @@
   },
   "reliability engineer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5492,14 +5492,14 @@
   },
   "rf communications engineer, air dominance & strike, active clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "rf mission systems engineer, air dominance & strike, active clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5636,7 +5636,7 @@
   },
   " senior aerodynamics engineer, air vehicles": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5670,7 +5670,7 @@
   },
   "senior analytics engineer, people data": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -5731,14 +5731,14 @@
   },
   "senior bom sourcing engineer, intelligence systems & space (active clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior business operations engineer, air dominance & strike ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5755,7 +5755,7 @@
   },
   "senior category manager, sensors/mission systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5767,7 +5767,7 @@
   },
   "senior cloud deployment engineer, space ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -5839,7 +5839,7 @@
   },
   "senior cost value engineer, intelligence systems & space (active clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6212,7 +6212,7 @@
   },
   "senior flight performance engineer, air vehicles": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6274,7 +6274,7 @@
   },
   "senior flight test engineer - mission autonomy (uas - fury)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6319,7 +6319,7 @@
   },
   "senior global sourcing manager, aircraft composites": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6438,7 +6438,7 @@
   },
   "senior ground software engineer, space": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6451,7 +6451,7 @@
   },
   "senior guidance, navigation & control (gnc) engineer, air dominance & strike": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6464,7 +6464,7 @@
   },
   "senior guidance, navigation & control (gnc) engineer - navigation and estimation- air dominance & strike": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6524,7 +6524,7 @@
   },
   "senior low observables engineer - mission systems ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6748,7 +6748,7 @@
   },
   "senior mission software engineer, ew": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6761,21 +6761,21 @@
   },
   "senior mission software engineer, vehicle software, active clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior mission software engineer, vehicle software, c++": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior mission software engineer, vehicle software, genswe": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6800,7 +6800,7 @@
   },
   "senior modeling, simulation and analysis engineer, air dominance & strike": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6870,21 +6870,21 @@
   },
   "senior open architecture systems engineer, ground systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior open architecture systems engineer, mission systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior operations analyst, mission engineering, air dominance & strike, active clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -6897,7 +6897,7 @@
   },
   "senior orbital software engineer, space": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7101,7 +7101,7 @@
   },
   "senior product sourcing engineer, intelligence systems & space (active clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7241,7 +7241,7 @@
   },
   "senior radar dsp systems engineer, ew": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7375,7 +7375,7 @@
   },
   "senior robotics software engineer, vehicle software": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7401,7 +7401,7 @@
   },
   "senior site reliability engineer, space": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7414,7 +7414,7 @@
   },
   "senior site reliability engineer, ts clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7461,7 +7461,7 @@
   },
   "senior software engineer, bolt": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7493,7 +7493,7 @@
   },
   "senior software engineer, dart": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7571,7 +7571,7 @@
   },
   "senior software engineer, generalist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7604,7 +7604,7 @@
   },
   "senior software engineer, manufacturing test": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7617,7 +7617,7 @@
   },
   "senior software engineer, maritime": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7636,7 +7636,7 @@
   },
   "senior software engineer, perception": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7688,7 +7688,7 @@
   },
   "senior software engineer, robotics ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7709,7 +7709,7 @@
   },
   "senior software engineer, satellite command and control": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7761,21 +7761,21 @@
   },
   "senior software engineer - undersea dominance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, vehicle software, v&v": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior software engineer, video ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7924,7 +7924,7 @@
   },
   "senior supplier sourcing engineer, intelligence systems & space (active clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7936,7 +7936,7 @@
   },
   "senior sustainment systems engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -7980,14 +7980,14 @@
   },
   "senior systems engineer, advanced effects, active clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior systems engineer, air vehicle software": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8039,7 +8039,7 @@
   },
   "senior systems engineer, mission autonomy, active clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8058,7 +8058,7 @@
   },
   "senior systems engineer, space": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8072,7 +8072,7 @@
   },
   "senior systems security engineer, programs": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8162,7 +8162,7 @@
   },
   "senior technical program manager, integration & test - active clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8214,7 +8214,7 @@
   },
   "senior technical program manager, r&d - active clearance ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8262,7 +8262,7 @@
   },
   "senior technical program manager, space systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8281,14 +8281,14 @@
   },
   "senior technical publications manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "senior technical revenue accountant": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8307,7 +8307,7 @@
   },
   "senior technical writer ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8931,7 +8931,7 @@
   },
   "staff flight test engineer, missiles": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -8989,7 +8989,7 @@
   },
   "staff mission systems engineer, air dominance & strike, active clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9032,7 +9032,7 @@
   },
   "staff production program manager": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9183,7 +9183,7 @@
   },
   "staff software engineer, ghost": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9251,14 +9251,14 @@
   },
   "staff systems engineer, advanced effects, active clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "staff systems engineer, air vehicle software": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9295,7 +9295,7 @@
   },
   "staff systems security engineer, programs": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9485,7 +9485,7 @@
   },
   "supplier sourcing engineer, intelligence systems & space (active clearance)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9565,7 +9565,7 @@
   },
   "systems engineer, advanced effects, active clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9598,14 +9598,14 @@
   },
   "systems engineer, electro optical, space": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "systems engineer, ew": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9624,7 +9624,7 @@
   },
   "systems engineer, mission autonomy, active clearance": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9643,7 +9643,7 @@
   },
   "systems engineer, space": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9675,14 +9675,14 @@
   },
   "systems integration engineer, air vehicles": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "systems integration engineer, high speed missiles": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9759,42 +9759,42 @@
   },
   "technical operations engineer, air defense": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical operations engineer, bolt ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical operations engineer, connected warfare": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical operations engineer, counter intrusion ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical operations engineer, electronic warfare": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical operations engineer, ghost": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9815,7 +9815,7 @@
   },
   "technical operations engineer, maneuver dominance ": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9828,14 +9828,14 @@
   },
   "technical operations engineer - skillbridge": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical operations engineer, space systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9923,7 +9923,7 @@
   },
   "technical program manager - skillbridge": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9936,7 +9936,7 @@
   },
   "technical program manager, space battle management": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9975,7 +9975,7 @@
   },
   "technical writer, advanced effects missiles": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -9995,28 +9995,28 @@
   },
   "technical writer, fury data module": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical writer, ghost": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical writer, maritime": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
   },
   "technical writer, warfighter systems": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -10194,7 +10194,7 @@
   },
   "warfighter systems - senior technical writer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -20137,7 +20137,7 @@
   },
   "senior developer advocate - modern app development": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -21402,7 +21402,7 @@
   },
   "data scientist / senior data scientist": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -28232,7 +28232,7 @@
   },
   "site reliability engineer (senior or staff), atlas": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -53209,7 +53209,7 @@
   },
   "global supply manager, datacenter cooling equipment (starlink)": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -63936,7 +63936,7 @@
   },
   "robot optics intern": {
     "t": false,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0
   },
@@ -147784,6 +147784,293 @@
     "a": 0
   },
   "technical publications specialist - advanced effects": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "software engineer - meritfirst": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, rust": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "computer vision software engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, core experience": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "full stack software engineer, core experience": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, backend - deployments": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, backend - security": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, algorithms & infrastructure": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, backend - device analytics": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "forward deployed software engineer (san francisco)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "forward deployed software engineer (los angeles)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "controls software engineer": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "physical security engineer, r&d": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, facilities": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, infrastructure modelling": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "security engineer, corp it": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "security engineer, incident response": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "security engineer, network": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "software engineer, recent grad": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "systems software engineer, generalist": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "quantitative researcher, all streams": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "quantitative researcher, phd": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "product software engineer, 3d/cad & manufacturing workflows": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "security engineer- application & cloud": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "technical design artist, intern 2027": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "systems safety engineer - all levels": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "growth analytics": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "ai builder, forward deployed engineering, research and product": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "associate deployment strategist, future platforms | housing": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "data center capacity analyst": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "it infrastructure capacity analyst": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "o"
+  },
+  "research scientist / engineer \u2013 reinforcement learning infrastructure": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "research scientist / engineer \u2013 training infrastructure": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "forward deployed consultant": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "senior c++ software engineer - options": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "data & ai solution architect - north america": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "information security generalist": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "o"
+  },
+  "business systems analyst - enterprise applications": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "o"
+  },
+  "technical writer, product documentation": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "o"
+  },
+  "technical writer, manufacturing": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "it infrastructure manager": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "mission operations specialist (product)": {
+    "t": false,
+    "c": "low",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "mission operation engineer  (platform - effectors)": {
     "t": false,
     "c": "low",
     "v": "cs-is-v4",
