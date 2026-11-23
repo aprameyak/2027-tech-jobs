@@ -2113,6 +2113,8 @@ def scrape_ukg(company, host, tenant, board):
             )
             if resp.status_code != 200:
                 print(f'  [{company}] UKG HTTP {resp.status_code}')
+                if pages == 0:
+                    raise RuntimeError(f'UKG HTTP {resp.status_code} for {company}')
                 break
             data = resp.json()
             ops = data.get('opportunities') or []
@@ -2145,6 +2147,8 @@ def scrape_ukg(company, host, tenant, board):
             time.sleep(0.15)
         except Exception as e:
             print(f'  [{company}] UKG error: {e}')
+            if pages == 0:
+                raise
             break
     return jobs
 
@@ -2159,7 +2163,7 @@ def scrape_bamboohr(company, slug):
         resp = _get(f'https://{slug}.bamboohr.com/careers/list', timeout=(10, 30))
         if resp.status_code != 200:
             print(f'  [{company}] BambooHR HTTP {resp.status_code}')
-            return []
+            raise RuntimeError(f'BambooHR HTTP {resp.status_code} for {company}')
         data = resp.json()
         for row in data.get('result') or []:
             jid = str(row.get('id') or '')

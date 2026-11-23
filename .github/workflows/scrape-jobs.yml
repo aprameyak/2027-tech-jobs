@@ -252,6 +252,10 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests pyyaml anthropic
+      - name: Verify UKG boards reachable
+        env:
+          BOARD_GROUP: ukg
+        run: python .github/scripts/check_ats_boards.py
       - name: Scrape UKG / UltiPro
         timeout-minutes: 55
         env:
@@ -289,6 +293,10 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests pyyaml anthropic
+      - name: Verify BambooHR boards reachable
+        env:
+          BOARD_GROUP: bamboohr
+        run: python .github/scripts/check_ats_boards.py
       - name: Scrape BambooHR
         timeout-minutes: 30
         env:

@@ -15337,6 +15337,10 @@ ukg:
   host: "recruiting.ultipro.com"
   tenant: "GCI1000GCI"
   board: "09636f6c-2fa1-4a76-adb9-57dea469416b"
+- name: Fintech
+  host: "recruiting.ultipro.com"
+  tenant: "FIN1008FICT"
+  board: "c0ae7303-ee90-41c6-b44a-abf63303ceb4"
 - name: GTI Energy
   host: "recruiting.ultipro.com"
   tenant: "GAS1003"
@@ -15345,6 +15349,10 @@ ukg:
   host: "recruiting2.ultipro.com"
   tenant: "GRE1058GRES"
   board: "45bb5d77-f6b4-402a-ab83-43464bee8ea0"
+- name: Indiana Farm Bureau Insurance
+  host: "recruiting2.ultipro.com"
+  tenant: "IND1004INDFB"
+  board: "a99b7de8-8c31-4e0a-bb2c-b0af081756f3"
 - name: Jewelers Mutual Group
   host: "recruiting.ultipro.com"
   tenant: "JEW1003JEWEL"
