@@ -13504,6 +13504,8 @@ ashby:
   slug: "k-id"
 - name: Kastle
   slug: "kastle"
+- name: Keplar
+  slug: "keplar"
 - name: Keyrock
   slug: "keyrock"
 - name: Kinetic Systems
@@ -14028,6 +14030,8 @@ ashby:
   slug: "Sciforium"
 - name: Scout AI
   slug: "scout-ai"
+- name: Secureframe
+  slug: "secureframe"
 - name: Sela AI
   slug: "sela"
 - name: Semgrep
@@ -15413,6 +15417,10 @@ ukg:
   host: "recruiting.ultipro.com"
   tenant: "TCO1001TCOM"
   board: "74e57e92-4355-44d7-8471-3c6eecfda9ef"
+- name: Trimont
+  host: "recruiting.ultipro.com"
+  tenant: "TRI1039TRES"
+  board: "551314d5-926b-4475-808f-39d0e0248aed"
 - name: Ulteig
   host: "recruiting2.ultipro.com"
   tenant: "ULT1008ULTE"
@@ -15421,6 +15429,10 @@ ukg:
   host: "vtindustries.rec.pro.ukg.net"
   tenant: "VTI1500VTIN"
   board: "674339ab-9285-4ba2-80bd-aa3503cae1b2"
+- name: Williams International
+  host: "recruiting.ultipro.com"
+  tenant: "WIL1006WI"
+  board: "b5d9d0d6-a149-4636-95d5-8dfede315cab"
 - name: WPS Health Solutions
   host: "recruiting2.ultipro.com"
   tenant: "WIS1003"
