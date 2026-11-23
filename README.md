@@ -6,8 +6,10 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4564)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1196)
+**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
+
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4571)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1199)
 - [🎓 New Grad 2027](./NEWGRAD.md) (1548)
 
 ## Legend
@@ -22,7 +24,7 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4564** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4571** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -60,12 +62,18 @@ Showing newest **75** of **4564** listings · [View full table](./SUMMER.md)
 | ↳ | Data Science Intern - Summer of 2027 | Neenah, WI | Undergrad | <a href="https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=31935864-401f-416a-9671-92af3d294895"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Information Technology Intern - Summer 2027 | <details><summary>**2 locations**</summary>Neenah, WI</br>Raleigh, NC</details> | Undergrad | <a href="https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=845d88f8-0ab3-4629-9eba-691ed264f90a"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Business Intelligence Intern - Summer 2027 | Neenah, WI | Undergrad | <a href="https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=58e2b100-19b0-4b86-9204-6e04fc06943f"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Marias Technology | Software Tester Intern | Covington, OH | Undergrad | <a href="https://mariastechnology.bamboohr.com/careers/25"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| ↳ | Software Developer Intern | Covington, OH | Undergrad | <a href="https://mariastechnology.bamboohr.com/careers/27"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Mawer Investment Management | AI Orchestrator Student | Calgary, AB | Undergrad | <a href="https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | AI Engineer Student | Calgary, AB | Undergrad | <a href="https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=09d2702a-9b47-440c-be30-f0a46e32a199"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Mesirow | Summer 2027 Intern - IT, Software Developer | Chicago, IL | Undergrad | <a href="https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=fff73393-2657-4159-86d3-5a04f5767214"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Summer 2027 Intern - IT, Cloud Engineering | Chicago, IL | Undergrad | <a href="https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=a49c4e87-41f9-4c3b-9051-40985a0fc9b1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Milliman | IT Support Intern - Milwaukee Property and Casualty - Onsite, Milwaukee WI | Brookfield, WI | Undergrad | <a href="https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=650b4b1c-03f7-4fa7-b8c4-ece46fdb3e99"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Data Analytics Intern - Summer 2027 - IntelliScript | Brookfield, WI | Undergrad | <a href="https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=7eb5c04b-2e0c-4485-a005-aacb831a23ba"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| REXA | Software Engineering Intern (Winter/Spring Session) | Middleboro, MA | Undergrad | <a href="https://rexa.bamboohr.com/careers/134"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Smule | Internship - Applied Research Scientist | Remote (US) | Undergrad | <a href="https://smule.bamboohr.com/careers/29"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| ↳ | Internship - Research Engineer | Remote (US) | Undergrad | <a href="https://smule.bamboohr.com/careers/30"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| ↳ | Internship - Machine Learning Engineer | Remote (US) | Undergrad | <a href="https://smule.bamboohr.com/careers/31"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Southern Farm Bureau Life Insurance | Data Governance Intern | Jackson, MS | Undergrad | <a href="https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=7107f61e-7371-4aa5-9a00-9a03e33b19bc"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Data Engineer Intern | Jackson, MS | Undergrad | <a href="https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=91614058-520c-4ce3-8ac5-51b3a3b42a8f"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Data Analytics Intern | Jackson, MS | Undergrad | <a href="https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -77,6 +85,7 @@ Showing newest **75** of **4564** listings · [View full table](./SUMMER.md)
 | ↳ | Summer 2027 - Operations Developer Internship | Little Rock, AR | Undergrad | <a href="https://recruiting2.ultipro.com/sou1052sppi/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=51168e8a-cd42-4169-9c50-0019367a9d83"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | TASI Measurement | Machine Programming Intern | Kent, WA | Undergrad | <a href="https://tasimeasurement.rec.pro.ukg.net/TAS1500TASI/JobBoard/2fb92a77-0aea-4e34-864b-11b2e6f60345/OpportunityDetail?opportunityId=7ee21f6a-8ca8-47b5-8f26-9132501782ea"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | TCOM | Software Engineering Intern | Sioux Falls, SD | Undergrad | <a href="https://recruiting.ultipro.com/TCO1001TCOM/JobBoard/74e57e92-4355-44d7-8471-3c6eecfda9ef/OpportunityDetail?opportunityId=e8df2c4d-5bfd-4b2c-9dc2-d1f4713497f5"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| The SilverLogic | AI Engineer/Consultant Internship | Boca Raton, FL | Undergrad | <a href="https://silverlogic.bamboohr.com/careers/36"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | VT Industries | Automation Intern | Rome, GA | Undergrad | <a href="https://vtindustries.rec.pro.ukg.net/VTI1500VTIN/JobBoard/674339ab-9285-4ba2-80bd-aa3503cae1b2/OpportunityDetail?opportunityId=4ed70656-6569-45fc-ba64-f686aa173f59"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Watchfire Signs | Intern Software Engineering | Danville, IL | Undergrad | <a href="https://watchfiresigns.rec.pro.ukg.net/wat1501wfsi/JobBoard/d3278620-b590-426f-899b-eb88c1096ad9/OpportunityDetail?opportunityId=b1838552-e606-4247-a3ce-2ce25d11e732"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Intern Help Desk Technician | Danville, IL | Undergrad | <a href="https://watchfiresigns.rec.pro.ukg.net/wat1501wfsi/JobBoard/d3278620-b590-426f-899b-eb88c1096ad9/OpportunityDetail?opportunityId=6c3e1070-8364-4c25-8599-7ddce44f14ad"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -96,18 +105,11 @@ Showing newest **75** of **4564** listings · [View full table](./SUMMER.md)
 | ↳ | Summer 2027 Software Engineering Internship | Bellevue, WA | Undergrad | <a href="https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ383767?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | ↳ | Summer 2027 Data Analyst Internship | Bellevue, WA | Undergrad | <a href="https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Data-Analyst-Internship_REQ383587?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | ↳ | Summer 2027 Data Analyst Internship | Bellevue, WA | Undergrad | <a href="https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Data-Analyst-Internship_REQ383588?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
-| ↳ | Summer 2027 Business Intelligence Analyst Internship | New York, NY | Undergrad | <a href="https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/New-York-New-York/Summer-2027-Business-Intelligence-Analyst-Internship_REQ382847?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
-| ↳ | Summer 2027 Software Engineering AI Internship | Atlanta, GA | Undergrad | <a href="https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Internship_REQ382067?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
-| ↳ | Summer 2027 Fiber Technical Engineering Operations Internship | Overland Park, KS | Undergrad | <a href="https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Fiber-Technical-Engineering-Operations-Internship_REQ383611?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
-| ↳ | Summer 2027 AI Engineering Internship - Site Reliability & Automation | Atlanta, GA | Undergrad | <a href="https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia/Summer-2027-AI-Engineering-Internship---Site-Reliability---Automation_REQ383239?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
-| ↳ | Summer 2027 Software Engineering Intern | Overland Park, KS | Undergrad | <a href="https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Intern_REQ381315?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
-| ↳ | Summer 2027 Software Engineering Intern | Overland Park, KS | Undergrad | <a href="https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Intern_REQ381362?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
-| ↳ | Summer 2027 Software Engineering AI Intern | Atlanta, GA | Undergrad | <a href="https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Intern_REQ381273?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1196** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1199** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
@@ -116,6 +118,9 @@ Showing newest **75** of **1196** listings · [View full table](./OFFCYCLE.md)
 | AFL | Process Documentation Intern (IT)- Spring 2027 | Duncan, SC | Spring 2027 | Undergrad | <a href="https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=732023e6-6e1f-44de-9a6e-884f71516675"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Web Design/Development Intern- Spring 2027 | Duncan, SC | Spring 2027 | Undergrad | <a href="https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=6e9432db-e1de-4103-b8dd-5bfd57365e4d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Business Intelligence (BI) Co-Op- Spring 2027 | Duncan, SC | Co-op | Undergrad | <a href="https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=33f4e729-d1f6-4137-a95a-4ac8b27a9453"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Convverge | Junior Developer Co-op | Calgary, AB | Co-op | Undergrad | <a href="https://convverge.bamboohr.com/careers/31"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| EUNA Solutions | Associate AI-Enablement Developer - 8 mth Coop | Oakville, ON | Co-op | Undergrad | <a href="https://euna.bamboohr.com/careers/822"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Flare | Stagiaire en développement logiciel – Hiver 2027 / Intern Software Developer – Winter 2027 | Montreal, QC | Winter 2027 | Undergrad | <a href="https://flare.bamboohr.com/careers/29"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | MDA | Engineering Student – AI/ML Specialist - Winter 2027 | Richmond, BC | Winter 2027 | Undergrad | <a href="https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=b5aef546-676b-4f7a-8c20-acfa8f25069f"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Engineering Student - Python Test Data Processing - Winter 2027 | Sainte-Anne-de-Bellevue, QC | Winter 2027 | Undergrad | <a href="https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=67af442f-ca28-47b2-b86b-eaa3d5192fe0"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Engineering Student - DevOps - Winter 2027 | Sainte-Anne-de-Bellevue, QC | Winter 2027 | Undergrad | <a href="https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=38d976f8-97b0-44e6-9bb9-d9d8589b8f79"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -185,9 +190,6 @@ Showing newest **75** of **1196** listings · [View full table](./OFFCYCLE.md)
 | ↳ | Co-op, Software, Applied AI Platform Engineer | San Francisco, CA | Co-op | Undergrad | <a href="https://job-boards.greenhouse.io/lilasciences/jobs/4472540009?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Magnet Forensics | Information Security Analyst Co-op (Winter 2027) | Waterloo / Ottawa / Ontario | Co-op | Undergrad | <a href="https://jobs.lever.co/magnetforensics/21c3d181-2751-4255-8084-f82cdc799483?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Nokia | Defense Software Test & AI Co-Op | Remote (US) | Co-op | Undergrad | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41196?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| onsemi | Spring 2027 - AI & Data Analytics Intern | Scottsdale, AZ | Spring 2027 | Undergrad | <a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| Stoneridge | Junior AI Specialist | Novi, MI | Co-op | Undergrad | <a href="https://stoneridge.wd5.myworkdayjobs.com/en-US/careers/job/Novi-MI/Junior-AI-Specialist_JR102766?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| WSP | Power System Optimization Intern - Fall 2026/Spring 2027 | Houston, TX | Spring 2027 | Undergrad | <a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98600?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 9 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027

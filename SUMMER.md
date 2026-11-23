@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4564 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4571 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -38,12 +38,18 @@
 | ↳ | Data Science Intern - Summer of 2027 | Neenah, WI | Undergrad | [Apply](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=31935864-401f-416a-9671-92af3d294895) | Nov 23 |
 | ↳ | Information Technology Intern - Summer 2027 | <details><summary>**2 locations**</summary>Neenah, WI</br>Raleigh, NC</details> | Undergrad | [Apply](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=845d88f8-0ab3-4629-9eba-691ed264f90a) | Nov 23 |
 | ↳ | Business Intelligence Intern - Summer 2027 | Neenah, WI | Undergrad | [Apply](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=58e2b100-19b0-4b86-9204-6e04fc06943f) | Nov 23 |
+| Marias Technology | Software Tester Intern | Covington, OH | Undergrad | [Apply](https://mariastechnology.bamboohr.com/careers/25) | Nov 23 |
+| ↳ | Software Developer Intern | Covington, OH | Undergrad | [Apply](https://mariastechnology.bamboohr.com/careers/27) | Nov 23 |
 | Mawer Investment Management | AI Orchestrator Student | Calgary, AB | Undergrad | [Apply](https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0) | Nov 23 |
 | ↳ | AI Engineer Student | Calgary, AB | Undergrad | [Apply](https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=09d2702a-9b47-440c-be30-f0a46e32a199) | Nov 23 |
 | Mesirow | Summer 2027 Intern - IT, Software Developer | Chicago, IL | Undergrad | [Apply](https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=fff73393-2657-4159-86d3-5a04f5767214) | Nov 23 |
 | ↳ | Summer 2027 Intern - IT, Cloud Engineering | Chicago, IL | Undergrad | [Apply](https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=a49c4e87-41f9-4c3b-9051-40985a0fc9b1) | Nov 23 |
 | Milliman | IT Support Intern - Milwaukee Property and Casualty - Onsite, Milwaukee WI | Brookfield, WI | Undergrad | [Apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=650b4b1c-03f7-4fa7-b8c4-ece46fdb3e99) | Nov 23 |
 | ↳ | Data Analytics Intern - Summer 2027 - IntelliScript | Brookfield, WI | Undergrad | [Apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=7eb5c04b-2e0c-4485-a005-aacb831a23ba) | Nov 23 |
+| REXA | Software Engineering Intern (Winter/Spring Session) | Middleboro, MA | Undergrad | [Apply](https://rexa.bamboohr.com/careers/134) | Nov 23 |
+| Smule | Internship - Applied Research Scientist | Remote (US) | Undergrad | [Apply](https://smule.bamboohr.com/careers/29) | Nov 23 |
+| ↳ | Internship - Research Engineer | Remote (US) | Undergrad | [Apply](https://smule.bamboohr.com/careers/30) | Nov 23 |
+| ↳ | Internship - Machine Learning Engineer | Remote (US) | Undergrad | [Apply](https://smule.bamboohr.com/careers/31) | Nov 23 |
 | Southern Farm Bureau Life Insurance | Data Governance Intern | Jackson, MS | Undergrad | [Apply](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=7107f61e-7371-4aa5-9a00-9a03e33b19bc) | Nov 23 |
 | ↳ | Data Engineer Intern | Jackson, MS | Undergrad | [Apply](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=91614058-520c-4ce3-8ac5-51b3a3b42a8f) | Nov 23 |
 | ↳ | Data Analytics Intern | Jackson, MS | Undergrad | [Apply](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf) | Nov 23 |
@@ -55,6 +61,7 @@
 | ↳ | Summer 2027 - Operations Developer Internship | Little Rock, AR | Undergrad | [Apply](https://recruiting2.ultipro.com/sou1052sppi/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=51168e8a-cd42-4169-9c50-0019367a9d83) | Nov 23 |
 | TASI Measurement | Machine Programming Intern | Kent, WA | Undergrad | [Apply](https://tasimeasurement.rec.pro.ukg.net/TAS1500TASI/JobBoard/2fb92a77-0aea-4e34-864b-11b2e6f60345/OpportunityDetail?opportunityId=7ee21f6a-8ca8-47b5-8f26-9132501782ea) | Nov 23 |
 | TCOM | Software Engineering Intern | Sioux Falls, SD | Undergrad | [Apply](https://recruiting.ultipro.com/TCO1001TCOM/JobBoard/74e57e92-4355-44d7-8471-3c6eecfda9ef/OpportunityDetail?opportunityId=e8df2c4d-5bfd-4b2c-9dc2-d1f4713497f5) | Nov 23 |
+| The SilverLogic | AI Engineer/Consultant Internship | Boca Raton, FL | Undergrad | [Apply](https://silverlogic.bamboohr.com/careers/36) | Nov 23 |
 | VT Industries | Automation Intern | Rome, GA | Undergrad | [Apply](https://vtindustries.rec.pro.ukg.net/VTI1500VTIN/JobBoard/674339ab-9285-4ba2-80bd-aa3503cae1b2/OpportunityDetail?opportunityId=4ed70656-6569-45fc-ba64-f686aa173f59) | Nov 23 |
 | Watchfire Signs | Intern Software Engineering | Danville, IL | Undergrad | [Apply](https://watchfiresigns.rec.pro.ukg.net/wat1501wfsi/JobBoard/d3278620-b590-426f-899b-eb88c1096ad9/OpportunityDetail?opportunityId=b1838552-e606-4247-a3ce-2ce25d11e732) | Nov 23 |
 | ↳ | Intern Help Desk Technician | Danville, IL | Undergrad | [Apply](https://watchfiresigns.rec.pro.ukg.net/wat1501wfsi/JobBoard/d3278620-b590-426f-899b-eb88c1096ad9/OpportunityDetail?opportunityId=6c3e1070-8364-4c25-8599-7ddce44f14ad) | Nov 23 |
