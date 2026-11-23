@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4591 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4600 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -39,6 +39,13 @@
 | ↳ | CAS 2027 Summer Fellowship - Product Management in AI for Chemistry | Columbus, OH | Undergrad | [Apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f0600bf5-5242-4565-9d1a-021544b8fca1) | Nov 23 |
 | Daikin Comfort | Data Analyst Intern, Summer 2027 | WALLER, TX | Undergrad | [Apply](https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=016d2b83-b435-4bb0-bb74-cb0555970a87) | Nov 23 |
 | ↳ | Programmer Analyst Intern, Summer 2027 | WALLER, TX | Undergrad | [Apply](https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=01a3a45d-9493-4a9c-a85a-e73957878092) | Nov 23 |
+| Encore Global | Event Technology Intern - San Diego | San Diego, CA | Undergrad | [Apply](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=a311dbae-ae82-4e59-a721-1c883cd5dcdf&utm_source=aprameyak) | Nov 23 |
+| ↳ | IT Project Management Intern - Summer 2027 | Coppell, TX | Undergrad | [Apply](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=1703774b-da4a-4e0a-98ca-47fef1d94c5c&utm_source=aprameyak) | Nov 23 |
+| ↳ | IT Data Analyst Intern– Summer 2027 | Schiller Park, IL | Undergrad | [Apply](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=00243c22-9228-4aab-8146-9699c52b1fa0&utm_source=aprameyak) | Nov 23 |
+| ↳ | IT Application Development Intern – Summer 2027 | Schiller Park, IL | Undergrad | [Apply](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=542e34a6-1977-4fcb-a173-6f32705efcb8&utm_source=aprameyak) | Nov 23 |
+| ↳ | IT Intern, Oracle ERP – Summer 2027 | Schiller Park, IL | Undergrad | [Apply](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=00e5a96b-e3c4-404b-8b6c-2efb45b2ad0d&utm_source=aprameyak) | Nov 23 |
+| ↳ | IT Service Center, Global Systems Analyst Intern- Summer 2027 | Schiller Park, IL | Masters | [Apply](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=3b659088-0045-44f6-86dc-1620de2bdb71&utm_source=aprameyak) | Nov 23 |
+| ↳ | IT Security Intern – Summer 2027 | Coppell, TX | Undergrad | [Apply](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=b01bb23c-ec3e-4711-9abd-a78d73619ff4&utm_source=aprameyak) | Nov 23 |
 | Fintech | .Net Engineer Intern | Tampa, FL | Undergrad | [Apply](https://recruiting.ultipro.com/FIN1008FICT/JobBoard/c0ae7303-ee90-41c6-b44a-abf63303ceb4/OpportunityDetail?opportunityId=325b135f-b173-43a1-bc4a-21d3be44e5d4&utm_source=aprameyak) | Nov 23 |
 | Great Southern Wood Preserving | Engineering Intern- Data Analysis | Abbeville, AL | Undergrad | [Apply](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1&utm_source=aprameyak) | Nov 23 |
 | ↳ | Management Information Systems Intern | Abbeville, AL | Masters | [Apply](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=32311e2a-c505-445a-a26c-35b845e1bf92&utm_source=aprameyak) | Nov 23 |
@@ -53,6 +60,8 @@
 | ↳ | Software Developer Intern | Covington, OH | Undergrad | [Apply](https://mariastechnology.bamboohr.com/careers/27) | Nov 23 |
 | Mawer Investment Management | AI Orchestrator Student | Calgary, AB | Undergrad | [Apply](https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0) | Nov 23 |
 | ↳ | AI Engineer Student | Calgary, AB | Undergrad | [Apply](https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=09d2702a-9b47-440c-be30-f0a46e32a199) | Nov 23 |
+| Melaleuca | Internship Summer 2027 - Software Development | Idaho Falls, ID | Undergrad | [Apply](https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf&utm_source=aprameyak) | Nov 23 |
+| ↳ | Internship 2027 - Quality Assurance Automation Engineer | Idaho Falls, ID | Undergrad | [Apply](https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=3205bb85-f5be-4b41-86d7-6221318d0ef8&utm_source=aprameyak) | Nov 23 |
 | Mesirow | Summer 2027 Intern - IT, Software Developer | Chicago, IL | Undergrad | [Apply](https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=fff73393-2657-4159-86d3-5a04f5767214) | Nov 23 |
 | ↳ | Summer 2027 Intern - IT, Cloud Engineering | Chicago, IL | Undergrad | [Apply](https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=a49c4e87-41f9-4c3b-9051-40985a0fc9b1) | Nov 23 |
 | Milliman | IT Support Intern - Milwaukee Property and Casualty - Onsite, Milwaukee WI | Brookfield, WI | Undergrad | [Apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=650b4b1c-03f7-4fa7-b8c4-ece46fdb3e99) | Nov 23 |
