@@ -36,7 +36,8 @@ ABBR = set(
 )
 ATS = re.compile(r'greenhouse|lever\.co|ashby|workday|oraclecloud|smartrecruiters|icims|applytojob', re.I)
 THIRD_PARTY = re.compile(
-    r'ref=vansh|gh_src=|lever-source=|ref=Simplify|utm_source=(?!aprameyak)',
+    # Any non-aprameyak referral / ATS source tags on live apply URLs
+    r'(?:^|[?&])ref=(?!aprameyak(?:&|$))[^&]*|gh_src=|lever-source=|utm_source=(?!aprameyak)',
 )
 STRIP = {
     'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'utm_id',
