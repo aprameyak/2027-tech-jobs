@@ -26,9 +26,9 @@ This file is the source of truth for gaps. Companies listed under `companies.yml
 | Amazon | amazon.jobs JSON search | built-in (`linkedin_amazon` group) |
 | LinkedIn company pages | Apify job search | `linkedin` (8 companies: Apple, Microsoft, Meta, …) |
 
-## Not scraped (297 companies)
+## Not scraped (294 companies)
 
-### Custom / blocked / no public ATS API (164)
+### Custom / blocked / no public ATS API (162)
 
 Aflac (unknown ATS — careers page blocked)
 Air Canada (no public ATS API found)
@@ -153,7 +153,6 @@ Rogers Communications (no public ATS API found)
 Schneider Electric (no public ATS API found)
 Scotiabank (no public ATS API found)
 Seagate Technology (no public ATS API found)
-SeatGeek (no public ATS API found)
 Sephora (no public ATS API found)
 SpiderRock (ADP WorkforceNow ATS — not supported)
 Spirit AeroSystems (no public ATS API found)
@@ -190,12 +189,11 @@ Volkswagen Group of America (no public ATS API found)
 Warby Parker (no public ATS API found)
 Whirlpool Corporation (no public ATS API found)
 Willis Towers Watson (no public ATS API found)
-Wolverine Trading (custom)
 X Development (Google Careers (proprietary) — no public ATS API)
 XPO Logistics (no public ATS API found)
 Yum! Brands (no public ATS API found)
 
-### SmartRecruiters board invalid or empty (104)
+### SmartRecruiters board invalid or empty (103)
 
 A.T. Kearney (SmartRecruiters API returns 0 postings — not a valid company board)
 Activision Blizzard (SmartRecruiters API returns 0 postings — not a valid company board)
@@ -233,7 +231,6 @@ EY (SmartRecruiters API returns 0 postings — not a valid company board)
 F5 Inc. (SmartRecruiters API returns 0 postings — not a valid company board)
 FedEx Corporation (SmartRecruiters API returns 0 postings — not a valid company board)
 Forrester Research (SmartRecruiters API returns 0 postings — not a valid company board)
-Garmin (SmartRecruiters API returns 0 postings — not a valid company board)
 General Electric (SmartRecruiters API returns 0 postings — not a valid company board)
 Globant (SmartRecruiters API returns 0 postings — not a valid company board)
 Green Dot (SmartRecruiters API returns 0 postings — not a valid company board)
