@@ -62,10 +62,10 @@ _WORKDAY_INTERVAL_MAX = 8.0
 
 
 def _workday_post(api_url, payload, headers, timeout=(8, 20)):
-    """Pace Workday CXS calls and retry a couple times on 429 with backoff."""
+    """Pace Workday CXS calls; one short retry on 429, then give up."""
     global _workday_next_ok, _workday_interval
     last_resp = None
-    for attempt in range(3):
+    for attempt in range(2):
         with _workday_gate:
             now = time.monotonic()
             wait = max(0.0, _workday_next_ok - now)
@@ -85,16 +85,18 @@ def _workday_post(api_url, payload, headers, timeout=(8, 20)):
         if resp.status_code == 429:
             with _workday_gate:
                 _workday_interval = min(
-                    _WORKDAY_INTERVAL_MAX, max(_workday_interval * 1.8, 1.5),
+                    _WORKDAY_INTERVAL_MAX, max(_workday_interval * 1.6, 1.0),
                 )
                 _workday_next_ok = max(
                     _workday_next_ok, time.monotonic() + _workday_interval,
                 )
-            time.sleep(min(2.5, 0.5 * (attempt + 1)))
-            continue
+            if attempt == 0:
+                time.sleep(min(2.0, _workday_interval))
+                continue
+            return resp
         if resp.status_code == 200:
             with _workday_gate:
-                _workday_interval = max(_WORKDAY_INTERVAL_MIN, _workday_interval * 0.92)
+                _workday_interval = max(_WORKDAY_INTERVAL_MIN, _workday_interval * 0.9)
         return resp
     return last_resp
 
@@ -136,10 +138,19 @@ from sponsorship_classifier import (
 from claude_board_prompts import build_classify_prompt, board_token_to_table, CLASSIFIER_VERSION
 
 BOARD_GROUP = os.environ.get('BOARD_GROUP', '').strip()
+WORKDAY_SHARD = int(os.environ.get('WORKDAY_SHARD', '0'))
+WORKDAY_SHARD_COUNT = max(1, int(os.environ.get('WORKDAY_SHARD_COUNT', '1')))
 
 _seen_jobs_filename = f'seen_jobs_{BOARD_GROUP}.json' if BOARD_GROUP else 'seen_jobs.json'
+if BOARD_GROUP == 'workday' and WORKDAY_SHARD_COUNT > 1:
+    _seen_jobs_filename = f'seen_jobs_workday_{WORKDAY_SHARD}.json'
 SEEN_JOBS_FILE = Path(f'.github/data/{_seen_jobs_filename}')
-PENDING_FILE = Path(f'.github/data/pending_{BOARD_GROUP}.json') if BOARD_GROUP else None
+if BOARD_GROUP == 'workday' and WORKDAY_SHARD_COUNT > 1:
+    PENDING_FILE = Path(f'.github/data/pending_workday_{WORKDAY_SHARD}.json')
+elif BOARD_GROUP:
+    PENDING_FILE = Path(f'.github/data/pending_{BOARD_GROUP}.json')
+else:
+    PENDING_FILE = None
 TITLE_CACHE_FILE = Path('.github/data/title_classifications.json')
                                                                                      
 CLAUDE_USAGE_FILE = (
@@ -157,9 +168,9 @@ TITLE_PROMPT_MAX_LEN = 120
 _claude_client = None
 _claude_usage_dirty = False
 
-MAX_WORKDAY_PAGES_PER_TERM = 5
+MAX_WORKDAY_PAGES_PER_TERM = 2
 WORKDAY_SEARCH_TERMS = (
-    'intern', 'new grad', 'early career', '2027', 'co-op',
+    'intern', '2027', 'new grad',
 )
 MAX_ORACLE_PAGES_PER_TERM = 12
 ORACLE_PAGE_SIZE = 50
@@ -898,10 +909,22 @@ def classify_sponsorship(jobs):
                 job['citizenship'] = citizenship
 
 def load_seen_jobs():
-    if SEEN_JOBS_FILE.exists():
-        with open(SEEN_JOBS_FILE) as f:
-            return set(json.load(f))
-    return set()
+    seen = set()
+    paths = [SEEN_JOBS_FILE]
+    # Workday shards share a union of seen IDs so jobs are not re-opened.
+    if BOARD_GROUP == 'workday':
+        paths = sorted(Path('.github/data').glob('seen_jobs_workday*.json')) or paths
+    for path in paths:
+        if not path.exists():
+            continue
+        try:
+            with open(path) as f:
+                data = json.load(f)
+            if isinstance(data, list):
+                seen.update(data)
+        except Exception as e:
+            print(f'  [seen] skip {path.name}: {e}')
+    return seen
 
 def save_seen_jobs(seen):
     SEEN_JOBS_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -2930,7 +2953,17 @@ def main():
             ))
 
     if included_boards is None or 'workday' in included_boards:
-        for entry in config.get('workday', []):
+        workday_entries = list(config.get('workday', []))
+        if WORKDAY_SHARD_COUNT > 1:
+            workday_entries = [
+                e for i, e in enumerate(workday_entries)
+                if i % WORKDAY_SHARD_COUNT == WORKDAY_SHARD
+            ]
+            print(
+                f'Workday shard {WORKDAY_SHARD}/{WORKDAY_SHARD_COUNT}: '
+                f'{len(workday_entries)} board(s)'
+            )
+        for entry in workday_entries:
             scrape_tasks.append((
                 scrape_workday,
                 entry['name'], entry['tenant'], entry['instance'], entry.get('board', ''),

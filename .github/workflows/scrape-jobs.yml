@@ -95,6 +95,12 @@ jobs:
   scrape-workday:
     if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'workday' }}
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      # Serialize shards so CXS is not hammered by parallel runners.
+      max-parallel: 1
+      matrix:
+        shard: [0, 1, 2]
     # Schedule + manual workday dispatch must not hammer CXS at the same time.
     concurrency:
       group: scrape-workday-cxs
@@ -105,15 +111,19 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.REPO_PAT }}
+          # Latest main so sequential shards see prior shard commits.
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       - run: pip install requests pyyaml anthropic
-      - name: Scrape Workday
-        timeout-minutes: 120
+      - name: Scrape Workday shard ${{ matrix.shard }}
+        timeout-minutes: 50
         env:
           BOARD_GROUP: workday
           WORKDAY_MAX_WORKERS: '2'
+          WORKDAY_SHARD: ${{ matrix.shard }}
+          WORKDAY_SHARD_COUNT: '3'
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
         run: python .github/scripts/scrape_jobs.py
@@ -122,16 +132,16 @@ jobs:
         run: |
           git config user.name "baldmeya"
           git config user.email "akannan8@umd.edu"
-          for f in \
+          git add \
             .github/data/seen_jobs_workday.json \
+            .github/data/seen_jobs_workday_*.json \
             .github/data/title_classifications.json \
             .github/data/claude_usage_workday.json \
-            .github/data/pending_workday.json
-          do
-            [ -e "$f" ] && git add "$f"
-          done
+            .github/data/pending_workday.json \
+            .github/data/pending_workday_*.json \
+            2>/dev/null || true
           if ! git diff --staged --quiet; then
-            git commit -m "scraper data: workday"
+            git commit -m "scraper data: workday shard ${{ matrix.shard }}"
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
           fi
 
