@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4683 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4704 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -64,6 +64,23 @@
 | ↳ | Forward Deployed Engineering Intern (Summer 2027) | Los Angeles, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/first-resonance/465193ff-26d7-41d1-8202-2b4ecb22ad0a/application?utm_source=aprameyak) | Nov 23 |
 | ↳ | Product Management Intern (Summer 2027) | Los Angeles, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?utm_source=aprameyak) | Nov 23 |
 | FUTO | Software Engineer - Internship 2027 | Austin, TX | Undergrad | [Apply](https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70?utm_source=aprameyak) | Nov 23 |
+| Garmin | Software Engineer Intern - Real Time Aviation Data | Chanhassen, MN | Undergrad | [Apply](https://careers.garmin.com/jobs/20081?lang=en-us) | Nov 23 |
+| ↳ | Software Engineering Intern | Montgomery, TX | Undergrad | [Apply](https://careers.garmin.com/jobs/20055?lang=en-us) | Nov 23 |
+| ↳ | Software Engineer Intern | Brea, CA | Undergrad | [Apply](https://careers.garmin.com/jobs/20129?lang=en-us) | Nov 23 |
+| ↳ | Software Engineering Intern | Manhattan, KS | Undergrad | [Apply](https://careers.garmin.com/jobs/20177?lang=en-us) | Nov 23 |
+| ↳ | Data Scientist Intern | Louisville, CO | Undergrad | [Apply](https://careers.garmin.com/jobs/19925?lang=en-us) | Nov 23 |
+| ↳ | Software Engineering Intern | Louisville, CO | Undergrad | [Apply](https://careers.garmin.com/jobs/20255?lang=en-us) | Nov 23 |
+| ↳ | Software Engineer Intern | Olathe, KS | Undergrad | [Apply](https://careers.garmin.com/jobs/19693?lang=en-us) | Nov 23 |
+| ↳ | Software Engineering Intern (Web/Mobile) | Yarmouth, ME | Undergrad | [Apply](https://careers.garmin.com/jobs/22650?lang=en-us) | Nov 23 |
+| ↳ | Software Engineer Intern | Chandler, AZ | Undergrad | [Apply](https://careers.garmin.com/jobs/19858?lang=en-us) | Nov 23 |
+| ↳ | Software Engineering Intern | Cary, NC | Undergrad | [Apply](https://careers.garmin.com/jobs/20131?lang=en-us) | Nov 23 |
+| ↳ | Software Engineering Intern | Tulsa, OK | Undergrad | [Apply](https://careers.garmin.com/jobs/20135?lang=en-us) | Nov 23 |
+| ↳ | Software Engineer Intern - Aviation Web Development | Middlebury, CT | Undergrad | [Apply](https://careers.garmin.com/jobs/20080?lang=en-us) | Nov 23 |
+| ↳ | Software Engineering Intern | Tucson, AZ | Undergrad | [Apply](https://careers.garmin.com/jobs/19848?lang=en-us) | Nov 23 |
+| ↳ | IT DevOps Administrator Intern | Olathe, KS | Undergrad | [Apply](https://careers.garmin.com/jobs/21321?lang=en-us) | Nov 23 |
+| ↳ | Cyber Security Engineer Intern | Olathe, KS | Undergrad | [Apply](https://careers.garmin.com/jobs/20420?lang=en-us) | Nov 23 |
+| ↳ | Data Scientist Intern | Olathe, KS | Undergrad | [Apply](https://careers.garmin.com/jobs/19926?lang=en-us) | Nov 23 |
+| ↳ | Software Engineer Intern - Automotive OEM | Novi, MI | Undergrad | [Apply](https://careers.garmin.com/jobs/19999?lang=en-us) | Nov 23 |
 | Great Southern Wood Preserving | Engineering Intern- Data Analysis | Abbeville, AL | Undergrad | [Apply](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1&utm_source=aprameyak) | Nov 23 |
 | ↳ | Management Information Systems Intern | Abbeville, AL | Masters | [Apply](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=32311e2a-c505-445a-a26c-35b845e1bf92&utm_source=aprameyak) | Nov 23 |
 | GTI Energy | Intern - Data Science (Summer 2027) | Des Plaines, IL | Undergrad | [Apply](https://recruiting.ultipro.com/GAS1003/JobBoard/6eb19b1f-4963-9bbd-eff5-d321e7265519/OpportunityDetail?opportunityId=52b782dd-a1b7-4a41-8bde-a39d265fc776&utm_source=aprameyak) | Nov 23 |
@@ -85,6 +102,12 @@
 | ↳ | Data Science Intern - Summer of 2027 | Neenah, WI | Undergrad | [Apply](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=31935864-401f-416a-9671-92af3d294895) | Nov 23 |
 | ↳ | Information Technology Intern - Summer 2027 | <details><summary>**2 locations**</summary>Neenah, WI</br>Raleigh, NC</details> | Undergrad | [Apply](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=845d88f8-0ab3-4629-9eba-691ed264f90a) | Nov 23 |
 | ↳ | Business Intelligence Intern - Summer 2027 | Neenah, WI | Undergrad | [Apply](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=58e2b100-19b0-4b86-9204-6e04fc06943f) | Nov 23 |
+| Johns Hopkins Applied Physics Laboratory | 2027 Internship - AI & Data Science - Analytic Capabilities | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/60008?lang=en-us) | Nov 23 |
+| ↳ | 2027 Internship - Cybersecurity Engineer - Critical Infrastructure Protection | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/60431?lang=en-us) | Nov 23 |
+| ↳ | 2027 Internship - Cybersecurity Software Developer | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/60115?lang=en-us) | Nov 23 |
+| ↳ | 2027 Internship - Maritime Software Development - Ocean Systems and Engineering | Laurel, MD | Masters | [Apply](https://careers.jhuapl.edu/jobs/60820?lang=en-us) | Nov 23 |
+| ↳ | 2027 Internship - Software Developer - Tactical System Prototyping and Deployment | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/59564?lang=en-us) | Nov 23 |
+| ↳ | 2027 Internship - Military Systems Cybersecurity Engineer | Laurel, MD | Masters | [Apply](https://careers.jhuapl.edu/jobs/59759?lang=en-us) | Nov 23 |
 | Logan A/C & Heat Services | Junior Business Systems & Automation Developer | Vandalia, OH | Masters | [Apply](https://logan-a-c-heat-services-b29ac6f9712d.breezy.hr/p/dcaae58041cb-junior-business-systems-automation-developer?utm_source=aprameyak) | Nov 23 |
 | Marias Technology | Software Tester Intern | Covington, OH | Undergrad | [Apply](https://mariastechnology.bamboohr.com/careers/25) | Nov 23 |
 | ↳ | Software Developer Intern | Covington, OH | Undergrad | [Apply](https://mariastechnology.bamboohr.com/careers/27) | Nov 23 |
@@ -143,8 +166,6 @@
 | Saronic Technologies | Information Technology Intern (Summer 2027) | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/saronic/0fa1ca8f-0dca-43cc-a5fa-59c40840986f/application?utm_source=aprameyak) | Nov 23 |
 | ↳ | Software Engineer Intern (Summer 2027) | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2/application?utm_source=aprameyak) | Nov 23 |
 | ↳ | Enterprise Technology Intern - AI and Automation (Summer 2027) | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1/application?utm_source=aprameyak) | Nov 23 |
-| SeatGeek | Software Engineer - Internship | New York, NY | Undergrad | [Apply](https://seatgeek.com/jobs/8227553?gh_jid=8227553) | Nov 23 |
-| ↳ | UX Design - Internship | New York, NY | Undergrad | [Apply](https://seatgeek.com/jobs/8248125?gh_jid=8248125) | Nov 23 |
 | Shure | System Verification Engineering Intern | Skokie, IL | Undergrad | [Apply](https://careersus-shure.icims.com/jobs/5000/system-verification-engineering-intern/job?utm_source=aprameyak) | Nov 23 |
 | Smule | Internship - Applied Research Scientist | Remote (US) | Undergrad | [Apply](https://smule.bamboohr.com/careers/29) | Nov 23 |
 | ↳ | Internship - Research Engineer | Remote (US) | Undergrad | [Apply](https://smule.bamboohr.com/careers/30) | Nov 23 |
