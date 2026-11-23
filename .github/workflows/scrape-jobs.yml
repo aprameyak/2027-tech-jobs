@@ -95,6 +95,10 @@ jobs:
   scrape-workday:
     if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'workday' }}
     runs-on: ubuntu-latest
+    # Schedule + manual workday dispatch must not hammer CXS at the same time.
+    concurrency:
+      group: scrape-workday-cxs
+      cancel-in-progress: false
     permissions:
       contents: write
     steps:
@@ -106,13 +110,15 @@ jobs:
           python-version: '3.11'
       - run: pip install requests pyyaml anthropic
       - name: Scrape Workday
-        timeout-minutes: 90
+        timeout-minutes: 120
         env:
           BOARD_GROUP: workday
+          WORKDAY_MAX_WORKERS: '4'
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
         run: python .github/scripts/scrape_jobs.py
       - name: Commit data files
+        if: success() || failure()
         run: |
           git config user.name "baldmeya"
           git config user.email "akannan8@umd.edu"

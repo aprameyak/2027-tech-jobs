@@ -29,9 +29,28 @@ def _retry_policy():
     )
 
 
+def _workday_retry_policy():
+    # Workday CXS rate-limits aggressively. Retrying 429s with backoff across
+    # 1500+ boards burns the CI timeout; fail fast and move on instead.
+    return Retry(
+        total=2,
+        connect=2,
+        read=2,
+        backoff_factor=0.4,
+        status_forcelist=[500, 502, 503, 504],
+        allowed_methods=None,
+        respect_retry_after_header=False,
+    )
+
+
 _session = requests.Session()
 _session.mount('http://', HTTPAdapter(max_retries=_retry_policy(), pool_maxsize=32))
 _session.mount('https://', HTTPAdapter(max_retries=_retry_policy(), pool_maxsize=32))
+
+_workday_session = requests.Session()
+_workday_session.mount(
+    'https://', HTTPAdapter(max_retries=_workday_retry_policy(), pool_maxsize=16)
+)
 
 
 def _request_with_timeout(*args, **kwargs):
@@ -92,14 +111,18 @@ TITLE_PROMPT_MAX_LEN = 120
 _claude_client = None
 _claude_usage_dirty = False
 
-MAX_WORKDAY_PAGES_PER_TERM = 10
+MAX_WORKDAY_PAGES_PER_TERM = 5
+WORKDAY_SEARCH_TERMS = (
+    'intern', 'new grad', 'early career', '2027', 'co-op',
+)
 MAX_ORACLE_PAGES_PER_TERM = 12
 ORACLE_PAGE_SIZE = 50
 ORACLE_SEARCH_TERMS = (
     '2027', 'Intern', 'Internship', 'Campus', 'Graduate', 'New Grad',
     'Analyst Program', 'co-op', 'university', 'entry level', 'early career',
 )
-SCRAPER_MAX_WORKERS = 12
+SCRAPER_MAX_WORKERS = int(os.environ.get('SCRAPER_MAX_WORKERS', '12'))
+WORKDAY_MAX_WORKERS = int(os.environ.get('WORKDAY_MAX_WORKERS', '4'))
 ICIMS_CAMPUS_KEYWORDS = [
     '2027', 'Intern', 'Internship', 'New Grad', 'Campus',
     'Graduate', 'Student', 'Early Career', 'co-op', 'Associate',
@@ -1911,7 +1934,7 @@ def scrape_workday(company, tenant, instance, board):
     jobs = []
     seen_paths = set()
 
-    for search_term in ['intern', 'internship', 'new grad', 'early career', 'university', '2027', 'co-op']:
+    for search_term in WORKDAY_SEARCH_TERMS:
         offset = 0
         pages_fetched = 0
         while True:
@@ -1922,7 +1945,13 @@ def scrape_workday(company, tenant, instance, board):
                 'searchText': search_term,
             }
             try:
-                resp = requests.post(api_url, json=payload, headers=wd_headers, timeout=(10, 30))
+                # Use a dedicated session that does not retry HTTP 429.
+                resp = _workday_session.post(
+                    api_url, json=payload, headers=wd_headers, timeout=(8, 20),
+                )
+                if resp.status_code == 429:
+                    print(f'  [{company}] Workday HTTP 429 — skipping remaining terms')
+                    return jobs
                 if resp.status_code != 200:
                     print(f'  [{company}] Workday HTTP {resp.status_code} for "{search_term}"')
                     break
@@ -1946,15 +1975,20 @@ def scrape_workday(company, tenant, instance, board):
                             'location': location,
                             'url': _workday_job_url(base_url, board, external_path),
                             'board': 'Workday',
-                                })
+                        })
                 total = data.get('total', 0)
                 offset += len(postings)
                 pages_fetched += 1
                 if offset >= total or pages_fetched >= MAX_WORKDAY_PAGES_PER_TERM:
                     break
-                time.sleep(0.1)
+                time.sleep(0.15)
             except Exception as e:
+                err = str(e)
                 print(f'  [{company}] Workday error for "{search_term}": {e}')
+                # urllib3 may still surface 429 as Max retries / ResponseError
+                if '429' in err:
+                    print(f'  [{company}] Workday rate-limited — skipping remaining terms')
+                    return jobs
                 break
 
     return jobs
@@ -2983,10 +3017,11 @@ def main():
             return []
 
     candidate_jobs = []
-    print(f'Scraping {len(scrape_tasks)} sources concurrently (max {SCRAPER_MAX_WORKERS} workers)...')
+    max_workers = WORKDAY_MAX_WORKERS if BOARD_GROUP == 'workday' else SCRAPER_MAX_WORKERS
+    print(f'Scraping {len(scrape_tasks)} sources concurrently (max {max_workers} workers)...')
     scrape_ok = scrape_fail = scrape_empty = 0
 
-    with ThreadPoolExecutor(max_workers=SCRAPER_MAX_WORKERS) as executor:
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {}
         for task in scrape_tasks:
             fn = task[0]
