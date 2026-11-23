@@ -10441,19 +10441,6 @@ icims:
   - "Early Career"
   - "co-op"
   - "Associate"
-- name: Garmin
-  host: "careers-garmin.icims.com"
-  keywords:
-  - "2027"
-  - "Intern"
-  - "Internship"
-  - "New Grad"
-  - "Campus"
-  - "Graduate"
-  - "Student"
-  - "Early Career"
-  - "co-op"
-  - "Associate"
 - name: General Dynamics
   host: "careers-gdeb.icims.com"
   keywords:
@@ -10911,32 +10898,6 @@ icims:
   - "Associate"
 - name: ITT
   host: "careersenus-itt-inc.icims.com"
-  keywords:
-  - "2027"
-  - "Intern"
-  - "Internship"
-  - "New Grad"
-  - "Campus"
-  - "Graduate"
-  - "Student"
-  - "Early Career"
-  - "co-op"
-  - "Associate"
-- name: Johns Hopkins Applied Physics Laboratory
-  host: "careers-jhuapl.icims.com"
-  keywords:
-  - "2027"
-  - "Intern"
-  - "Internship"
-  - "New Grad"
-  - "Campus"
-  - "Graduate"
-  - "Student"
-  - "Early Career"
-  - "co-op"
-  - "Associate"
-- name: Johns Hopkins Applied Physics Laboratory
-  host: "studentcareers-jhuapl.icims.com"
   keywords:
   - "2027"
   - "Intern"
@@ -15390,8 +15351,6 @@ workable:
   slug: "zippd"
 
 pinpoint:
-- name: Accenture
-  slug: "accenture"
 - name: Wolverine Trading
   slug: "wolve"
 ukg:
@@ -15602,3 +15561,9 @@ phenom:
 - name: MITRE
   host: "careers.mitre.org"
   path: "/us/en/search-results"
+
+careers_portal:
+- name: Garmin
+  host: "careers.garmin.com"
+- name: Johns Hopkins Applied Physics Laboratory
+  host: "careers.jhuapl.edu"

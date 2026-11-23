@@ -1163,7 +1163,7 @@ _UTM_HOST_MARKERS = (
     'greenhouse.io', 'lever.co', 'ashbyhq.com', 'myworkdayjobs.com', 'workdaysite.com',
     'oraclecloud.com', 'smartrecruiters.com', 'icims.com', 'applytojob.com',
     'ultipro.com', 'ultipro.ca', 'rec.pro.ukg.net', 'bamboohr.com',
-    'breezy.hr', 'jobs.dover.com',
+    'breezy.hr', 'jobs.dover.com', 'pinpointhq.com',
 )
 _UTM_STRIP = {
     'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'utm_id',
@@ -1612,41 +1612,143 @@ def scrape_pinpoint(company, slug):
             return []
         jobs = []
         for job in resp.json().get('data', []):
-            attrs = job.get('attributes', {})
-            title = attrs.get('job-title', '')
-            workplace = attrs.get('workplace-type', '').lower()
-            remote = workplace == 'remote'
-            city = attrs.get('city', '') or ''
-            region = attrs.get('state-province', '') or ''
-            country = (attrs.get('country', '') or '').lower()
+            # New Pinpoint shape is flat; older boards used JSON:API attributes.
+            attrs = job.get('attributes') if isinstance(job.get('attributes'), dict) else None
+            if attrs:
+                title = (attrs.get('job-title') or '').strip()
+                workplace = (attrs.get('workplace-type') or '').lower()
+                city = (attrs.get('city') or '').strip()
+                region = (attrs.get('state-province') or '').strip()
+                country = (attrs.get('country') or '').lower()
+                apply_url = f'https://{slug}.pinpointhq.com/postings/{job.get("id", "")}'
+            else:
+                title = (job.get('title') or '').strip()
+                workplace = (job.get('workplace_type') or '').lower()
+                loc = job.get('location') if isinstance(job.get('location'), dict) else {}
+                city = (loc.get('city') or '').strip()
+                region = (loc.get('province') or '').strip()
+                country = (loc.get('country') or job.get('country') or '').lower()
+                if not country and (loc.get('name') or ''):
+                    country = ''
+                apply_url = (job.get('url') or '').strip() or (
+                    f'https://{slug}.pinpointhq.com/postings/{job.get("id", "")}'
+                )
+                if not city and not region and loc.get('name'):
+                    city = (loc.get('name') or '').strip()
+                    region = ''
 
-            if not (country in ('united states', 'us', 'canada', 'ca') or remote):
-                continue
+            remote = workplace == 'remote'
+            if country and country not in (
+                'united states', 'us', 'usa', 'u.s.', 'u.s.a.', 'canada', 'ca', ''
+            ):
+                if not remote:
+                    continue
 
             if remote:
                 location = 'Remote'
             elif city and region:
-                location = f'{city}, {region}'
+                location = normalize_location(f'{city}, {region}')
             elif city:
-                location = city
+                location = normalize_location(city)
             else:
                 location = ''
 
-            relevant = is_candidate_title(title)
-            if relevant:
-                job_id = job.get('id', '')
-                jobs.append({
-                    'id': f'pinpoint_{slug}_{job_id}',
-                    'company': company,
-                    'title': title,
-                    'location': location,
-                    'url': f'https://{slug}.pinpointhq.com/postings/{job_id}',
-                    'board': 'Pinpoint',
-                })
+            if not title or not is_candidate_title(title):
+                continue
+            if not location or not is_us_location(location):
+                continue
+            job_id = str(job.get('id') or '').strip()
+            if not job_id:
+                continue
+            jobs.append({
+                'id': f'pinpoint_{slug}_{job_id}',
+                'company': company,
+                'title': title,
+                'location': location,
+                'url': apply_url,
+                'board': 'Pinpoint',
+            })
         return jobs
     except Exception as e:
         print(f'  [{company}] Pinpoint error: {e}')
         return []
+
+
+def scrape_careers_portal(company, host):
+    """Public /api/jobs JSON used by Garmin, JHU APL, and similar careers sites."""
+    host = (host or '').strip().rstrip('/')
+    if not host:
+        return []
+    if host.startswith('http'):
+        host = host.split('://', 1)[1].split('/', 1)[0]
+    base = f'https://{host}'
+    jobs = []
+    seen = set()
+    # Broad campus keywords; title filter + Claude handle the rest.
+    queries = ['intern', 'internship', 'new grad', 'graduate', '2027', 'co-op', 'student']
+    try:
+        for keyword in queries:
+            page = 1
+            while page <= 20:
+                resp = _get(
+                    f'{base}/api/jobs',
+                    params={
+                        'keywords': keyword,
+                        'limit': 100,
+                        'page': page,
+                        'internal': 'false',
+                        'sortBy': 'relevance',
+                        'descending': 'false',
+                    },
+                    timeout=(10, 30),
+                )
+                if resp.status_code != 200:
+                    print(f'  [{company}] careers portal HTTP {resp.status_code}')
+                    break
+                data = resp.json() or {}
+                rows = data.get('jobs') or []
+                if not rows:
+                    break
+                for row in rows:
+                    payload = row.get('data') if isinstance(row, dict) else None
+                    if not isinstance(payload, dict):
+                        continue
+                    slug = str(payload.get('slug') or payload.get('req_id') or '').strip()
+                    title = (payload.get('title') or '').strip()
+                    if not slug or slug in seen or not title:
+                        continue
+                    seen.add(slug)
+                    country = (payload.get('country') or payload.get('country_code') or '').strip()
+                    city = (payload.get('city') or '').strip()
+                    state = (payload.get('state') or '').strip()
+                    location = normalize_location(
+                        (payload.get('full_location') or payload.get('short_location') or '').strip()
+                        or (f'{city}, {state}' if city and state else city or state)
+                    )
+                    if country and country.lower() not in (
+                        'united states', 'us', 'usa', 'u.s.', 'u.s.a.', 'canada', 'ca',
+                    ):
+                        continue
+                    if not is_candidate_title(title):
+                        continue
+                    if not location or not is_us_location(location):
+                        continue
+                    jobs.append({
+                        'id': f'careers_{host}_{slug}',
+                        'company': company,
+                        'title': title,
+                        'location': location,
+                        'url': f'{base}/jobs/{slug}?lang=en-us',
+                        'board': 'CareersPortal',
+                    })
+                total = data.get('totalCount') or data.get('count') or 0
+                if page * 100 >= total or len(rows) < 100:
+                    break
+                page += 1
+                time.sleep(0.15)
+    except Exception as e:
+        print(f'  [{company}] careers portal error: {e}')
+    return jobs
 
 def _workday_job_url(base_url, board, external_path):
     path = re.sub(r'^/[a-z]{2}-[A-Z]{2}/[^/]+(?=/job/)', '', external_path)
@@ -2628,7 +2730,7 @@ _BOARD_GROUP_BOARDS = {
     'bamboohr': {'bamboohr'},
     'other': {
         'lever', 'smartrecruiters', 'workable', 'recruitee', 'pinpoint',
-        'icims', 'avature', 'breezy', 'dover', 'phenom',
+        'icims', 'avature', 'breezy', 'dover', 'phenom', 'careers_portal',
     },
 }
 
@@ -2757,6 +2859,15 @@ def main():
                 entry['host'],
                 entry.get('path', '/us/en/search-results'),
                 'phenom',
+            ))
+
+    if included_boards is None or 'careers_portal' in included_boards:
+        for entry in config.get('careers_portal', []):
+            scrape_tasks.append((
+                scrape_careers_portal,
+                entry['name'],
+                entry['host'],
+                'careers_portal',
             ))
 
     if included_boards is None or 'linkedin' in included_boards:

@@ -217,7 +217,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests pyyaml anthropic
-      - name: Scrape Lever / SmartRecruiters / Workable / Recruitee / Pinpoint / iCIMS / Avature / Breezy / Dover / Phenom
+      - name: Scrape Lever / SmartRecruiters / Workable / Recruitee / Pinpoint / iCIMS / Avature / Breezy / Dover / Phenom / Careers portals
         timeout-minutes: 75
         env:
           BOARD_GROUP: other
