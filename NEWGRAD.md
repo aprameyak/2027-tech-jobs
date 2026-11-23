@@ -25,6 +25,7 @@
 | Netholabs 🛂 🇺🇸 | Junior AI/ML Engineer | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393/application?utm_source=aprameyak) | Nov 23 |
 | Nintendo | CONTRACT - Associate Software Engineer, Audio (NTD) | Redmond, WA |  | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4251061009) | Nov 23 |
 | Quantiq | Software Developer- New Graduate | Austin, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/quantiq/jobs/4280650009?utm_source=aprameyak) | Nov 23 |
+| SeatGeek | Software Engineer - New Grad | New York, NY |  | Undergrad | [Apply](https://seatgeek.com/jobs/8227548?gh_jid=8227548) | Nov 23 |
 | Secureframe | Software Engineer, New Grad | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb/application?utm_source=aprameyak) | Nov 23 |
 | Self Financial | Associate Software Engineer | Austin, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/selffinancial/jobs/6255478004?utm_source=aprameyak) | Nov 23 |
 | Teza Technologies | Trading Platform Developer | Austin, TX |  | Undergrad | [Apply](https://jobs.ashbyhq.com/teza-technologies/28cde40f-178f-45f8-82ca-a913ef8b0812/application?utm_source=aprameyak) | Nov 23 |

@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4681 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4683 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -143,6 +143,8 @@
 | Saronic Technologies | Information Technology Intern (Summer 2027) | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/saronic/0fa1ca8f-0dca-43cc-a5fa-59c40840986f/application?utm_source=aprameyak) | Nov 23 |
 | ↳ | Software Engineer Intern (Summer 2027) | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2/application?utm_source=aprameyak) | Nov 23 |
 | ↳ | Enterprise Technology Intern - AI and Automation (Summer 2027) | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1/application?utm_source=aprameyak) | Nov 23 |
+| SeatGeek | Software Engineer - Internship | New York, NY | Undergrad | [Apply](https://seatgeek.com/jobs/8227553?gh_jid=8227553) | Nov 23 |
+| ↳ | UX Design - Internship | New York, NY | Undergrad | [Apply](https://seatgeek.com/jobs/8248125?gh_jid=8248125) | Nov 23 |
 | Shure | System Verification Engineering Intern | Skokie, IL | Undergrad | [Apply](https://careersus-shure.icims.com/jobs/5000/system-verification-engineering-intern/job?utm_source=aprameyak) | Nov 23 |
 | Smule | Internship - Applied Research Scientist | Remote (US) | Undergrad | [Apply](https://smule.bamboohr.com/careers/29) | Nov 23 |
 | ↳ | Internship - Research Engineer | Remote (US) | Undergrad | [Apply](https://smule.bamboohr.com/careers/30) | Nov 23 |

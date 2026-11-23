@@ -44,7 +44,7 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4681** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4683** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -239,6 +239,7 @@ Showing newest **75** of **1570** listings · [View full table](./NEWGRAD.md)
 | Netholabs 🛂 🇺🇸 | Junior AI/ML Engineer | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Nintendo | CONTRACT - Associate Software Engineer, Audio (NTD) | Redmond, WA |  | Undergrad | <a href="https://careers.nintendo.com/?gh_jid=4251061009"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Quantiq | Software Developer- New Graduate | Austin, TX |  | Undergrad | <a href="https://job-boards.greenhouse.io/quantiq/jobs/4280650009?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| SeatGeek | Software Engineer - New Grad | New York, NY |  | Undergrad | <a href="https://seatgeek.com/jobs/8227548?gh_jid=8227548"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Secureframe | Software Engineer, New Grad | New York, NY |  | Undergrad | <a href="https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Self Financial | Associate Software Engineer | Austin, TX |  | Undergrad | <a href="https://job-boards.greenhouse.io/selffinancial/jobs/6255478004?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Teza Technologies | Trading Platform Developer | Austin, TX |  | Undergrad | <a href="https://jobs.ashbyhq.com/teza-technologies/28cde40f-178f-45f8-82ca-a913ef8b0812/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
