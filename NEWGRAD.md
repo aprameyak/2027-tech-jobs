@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-1553 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1555 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -11,6 +11,8 @@
 | Applied Research Associates | Junior Software Developer | Albuquerque, NM |  | Undergrad | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=4a45b594-2e7f-4042-9976-8a3b808265ca) | Nov 23 |
 | ↳ | Junior Information System Security Engineer (ISSE) | Raleigh, NC |  | Undergrad | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=7a72c316-97b1-4e8e-aeaf-057c7cd196aa) | Nov 23 |
 | Encore Global | Associate Application Developer | Schiller Park, IL |  | Undergrad | [Apply](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=bf6ce5bb-f991-46de-a0cb-50f4f9577ee9&utm_source=aprameyak) | Nov 23 |
+| Secureframe | Software Engineer, New Grad | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb/application?utm_source=aprameyak) | Nov 23 |
+| Teza Technologies | Trading Platform Developer | Austin, TX |  | Undergrad | [Apply](https://jobs.ashbyhq.com/teza-technologies/28cde40f-178f-45f8-82ca-a913ef8b0812/application?utm_source=aprameyak) | Nov 23 |
 | Trimont | Technology Analyst Program (Trivinna) | Atlanta, GA |  | Undergrad | [Apply](https://recruiting.ultipro.com/TRI1039TRES/JobBoard/551314d5-926b-4475-808f-39d0e0248aed/OpportunityDetail?opportunityId=0f9e9990-efc0-4c9a-882b-4f23aeb82098&utm_source=aprameyak) | Nov 23 |
 | ↳ | Technology Analyst Program | Atlanta, GA |  | Undergrad | [Apply](https://recruiting.ultipro.com/TRI1039TRES/JobBoard/551314d5-926b-4475-808f-39d0e0248aed/OpportunityDetail?opportunityId=d6e6af65-2ea6-432c-939d-392a67e7bdf9&utm_source=aprameyak) | Nov 23 |
 | City and County of San Francisco | Cyber Defense Associate Engineer (1041) - Department of Technology | San Francisco, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017013773?utm_source=aprameyak) | Nov 20 |

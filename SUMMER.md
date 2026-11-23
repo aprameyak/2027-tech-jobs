@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4600 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4612 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -10,12 +10,16 @@
 | ↳ | Strategic Information Intern | Sheboygan, WI | Undergrad | [Apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7&utm_source=aprameyak) | Nov 23 |
 | ↳ | Data Analytics Intern (Data Science) | Sheboygan, WI | Undergrad | [Apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7&utm_source=aprameyak) | Nov 23 |
 | AFL | Web Design/Development Intern- Summer 2027 | Duncan, SC | Undergrad | [Apply](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80) | Nov 23 |
+| Allen Control Systems | Computer Vision/Machine Learning Intern, 2027 | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037/application?utm_source=aprameyak) | Nov 23 |
 | Applied Research Associates | Software Quality Assurance Intern | Baton Rouge, LA | Undergrad | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=bdbeeabf-bf21-41d9-9034-d01be04c59f6) | Nov 23 |
 | ↳ | Software Engineer Intern | Baton Rouge, LA | Undergrad | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=0e5ea52f-9c4b-45f8-9a60-86678d8e3fd8) | Nov 23 |
 | Avista | Fleet Operations Data Intern (Data Analytics/Science, Acturial Science, Business Majors) | Spokane, WA | Undergrad | [Apply](https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=99b68bca-853c-4512-a758-80fa46bf30b5&utm_source=aprameyak) | Nov 23 |
 | ↳ | Central Analytics Intern (Data Analytics, Decision Science/Statistics, Mathematics, Finance Majors) | Spokane, WA | Undergrad | [Apply](https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=6985c6f8-7b03-4906-8c45-1636863e8a58&utm_source=aprameyak) | Nov 23 |
 | ↳ | Physical Security Intern (Criminal Justice, Homeland Security, Emergency Management, Security Studies, Cybersecurity Majors) | Spokane, WA | Undergrad | [Apply](https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=a1212562-c20c-4e90-8a2a-87e878930923&utm_source=aprameyak) | Nov 23 |
 | ↳ | Enterprise Technology Intern (Computer Science, Cybersecurity, Information Systems/MIS, Data Analytics/Data Science Majors) | Spokane, WA | Undergrad | [Apply](https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=9faf516d-8aaa-4cdf-a181-a6c03e0c2bcb&utm_source=aprameyak) | Nov 23 |
+| Base Power Company | Deployments Operations Intern | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/base-power/7be0dc29-e42c-4a1f-8512-fd94c13aabf2/application?utm_source=aprameyak) | Nov 23 |
+| ↳ | Deployments Engineering Intern | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/base-power/0f7fefdb-7218-40c6-893f-859b08fb3935/application?utm_source=aprameyak) | Nov 23 |
+| Benchling | Software Engineer, Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?utm_source=aprameyak) | Nov 23 |
 | Bennett Thrasher | IT Intern - AI & Automation | Atlanta, GA | Undergrad | [Apply](https://btcpa.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2/OpportunityDetail?opportunityId=4d519358-fb57-46be-8018-838c26e1bf4a) | Nov 23 |
 | Calamos Investments | IT Research Development Intern | Naperville, IL | Undergrad | [Apply](https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=8ba1e4ff-1ee1-46ab-b93f-9a4e4b6eb487) | Nov 23 |
 | ↳ | Cloud Engineer Intern | Naperville, IL | Undergrad | [Apply](https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=f8490955-c876-418d-9722-254f4c7306d9) | Nov 23 |
@@ -47,6 +51,9 @@
 | ↳ | IT Service Center, Global Systems Analyst Intern- Summer 2027 | Schiller Park, IL | Masters | [Apply](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=3b659088-0045-44f6-86dc-1620de2bdb71&utm_source=aprameyak) | Nov 23 |
 | ↳ | IT Security Intern – Summer 2027 | Coppell, TX | Undergrad | [Apply](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=b01bb23c-ec3e-4711-9abd-a78d73619ff4&utm_source=aprameyak) | Nov 23 |
 | Fintech | .Net Engineer Intern | Tampa, FL | Undergrad | [Apply](https://recruiting.ultipro.com/FIN1008FICT/JobBoard/c0ae7303-ee90-41c6-b44a-abf63303ceb4/OpportunityDetail?opportunityId=325b135f-b173-43a1-bc4a-21d3be44e5d4&utm_source=aprameyak) | Nov 23 |
+| First Resonance 🛂 🇺🇸 | Software Engineering Intern, Platform (Summer 2027) | Los Angeles, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?utm_source=aprameyak) | Nov 23 |
+| ↳ | Forward Deployed Engineering Intern (Summer 2027) | Los Angeles, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/first-resonance/465193ff-26d7-41d1-8202-2b4ecb22ad0a/application?utm_source=aprameyak) | Nov 23 |
+| ↳ | Product Management Intern (Summer 2027) | Los Angeles, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?utm_source=aprameyak) | Nov 23 |
 | Great Southern Wood Preserving | Engineering Intern- Data Analysis | Abbeville, AL | Undergrad | [Apply](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1&utm_source=aprameyak) | Nov 23 |
 | ↳ | Management Information Systems Intern | Abbeville, AL | Masters | [Apply](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=32311e2a-c505-445a-a26c-35b845e1bf92&utm_source=aprameyak) | Nov 23 |
 | GTI Energy | Intern - Data Science (Summer 2027) | Des Plaines, IL | Undergrad | [Apply](https://recruiting.ultipro.com/GAS1003/JobBoard/6eb19b1f-4963-9bbd-eff5-d321e7265519/OpportunityDetail?opportunityId=52b782dd-a1b7-4a41-8bde-a39d265fc776&utm_source=aprameyak) | Nov 23 |
@@ -71,6 +78,9 @@
 | NorthStar Earth & Space | Stagiaire en recherche – IA et observation de la Terre / Research Intern – AI for Earth Observation (Ei²) | Montreal, QC | Undergrad | [Apply](https://northstarearthandspace.bamboohr.com/careers/117?utm_source=aprameyak) | Nov 23 |
 | Pason Systems | Software Developer Intern (Datahub) | Calgary, AB | Undergrad | [Apply](https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8&utm_source=aprameyak) | Nov 23 |
 | REXA | Software Engineering Intern (Winter/Spring Session) | Middleboro, MA | Undergrad | [Apply](https://rexa.bamboohr.com/careers/134) | Nov 23 |
+| Saronic Technologies | Information Technology Intern (Summer 2027) | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/saronic/0fa1ca8f-0dca-43cc-a5fa-59c40840986f/application?utm_source=aprameyak) | Nov 23 |
+| ↳ | Software Engineer Intern (Summer 2027) | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2/application?utm_source=aprameyak) | Nov 23 |
+| ↳ | Enterprise Technology Intern - AI and Automation (Summer 2027) | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1/application?utm_source=aprameyak) | Nov 23 |
 | Smule | Internship - Applied Research Scientist | Remote (US) | Undergrad | [Apply](https://smule.bamboohr.com/careers/29) | Nov 23 |
 | ↳ | Internship - Research Engineer | Remote (US) | Undergrad | [Apply](https://smule.bamboohr.com/careers/30) | Nov 23 |
 | ↳ | Internship - Machine Learning Engineer | Remote (US) | Undergrad | [Apply](https://smule.bamboohr.com/careers/31) | Nov 23 |
@@ -87,6 +97,8 @@
 | TCOM | Software Engineering Intern | Sioux Falls, SD | Undergrad | [Apply](https://recruiting.ultipro.com/TCO1001TCOM/JobBoard/74e57e92-4355-44d7-8471-3c6eecfda9ef/OpportunityDetail?opportunityId=e8df2c4d-5bfd-4b2c-9dc2-d1f4713497f5) | Nov 23 |
 | The SilverLogic | AI Engineer/Consultant Internship | Boca Raton, FL | Undergrad | [Apply](https://silverlogic.bamboohr.com/careers/36) | Nov 23 |
 | Ulteig | GIS Intern | <details><summary>**3 locations**</summary>Remote (US)</br>Greenwood Village, CO</br>Minneapolis, MN</details> | Undergrad | [Apply](https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa&utm_source=aprameyak) | Nov 23 |
+| Valstad | Software Engineering Intern, 3D & Manufacturing Applications | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea/application?utm_source=aprameyak) | Nov 23 |
+| ↳ | Robotics Software Intern, Manipulation & Simulation | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/valstad/8478558b-c5b5-43d2-b9c0-eae7a1fb30d8/application?utm_source=aprameyak) | Nov 23 |
 | VT Industries | Automation Intern | Rome, GA | Undergrad | [Apply](https://vtindustries.rec.pro.ukg.net/VTI1500VTIN/JobBoard/674339ab-9285-4ba2-80bd-aa3503cae1b2/OpportunityDetail?opportunityId=4ed70656-6569-45fc-ba64-f686aa173f59) | Nov 23 |
 | ↳ | Software Development Intern | Holstein, IA | Undergrad | [Apply](https://vtindustries.rec.pro.ukg.net/VTI1500VTIN/JobBoard/674339ab-9285-4ba2-80bd-aa3503cae1b2/OpportunityDetail?opportunityId=c6ed6034-a946-447b-bc0f-46cf40fe4367&utm_source=aprameyak) | Nov 23 |
 | Watchfire Signs | Intern Software Engineering | Danville, IL | Undergrad | [Apply](https://watchfiresigns.rec.pro.ukg.net/wat1501wfsi/JobBoard/d3278620-b590-426f-899b-eb88c1096ad9/OpportunityDetail?opportunityId=b1838552-e606-4247-a3ce-2ce25d11e732) | Nov 23 |
