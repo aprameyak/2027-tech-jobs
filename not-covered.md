@@ -9,8 +9,8 @@ This file is the source of truth for gaps. Companies listed under `companies.yml
 | Source | Mechanism | Config |
 | --- | --- | --- |
 | Greenhouse | public boards API | `companies.yml` → `greenhouse` (900 boards) |
-| Lever | public postings API | `lever` (329) |
-| Ashby | posting API | `ashby` (777) |
+| Lever | public postings API | `lever` (334) |
+| Ashby | posting API | `ashby` (785) |
 | Workday | CXS jobs API | `workday` (1509) |
 | SmartRecruiters | public postings API | `smartrecruiters` (227) |
 | iCIMS | search API | `icims` (302) |
@@ -24,7 +24,7 @@ This file is the source of truth for gaps. Companies listed under `companies.yml
 | Avature | portal search API | `avature` (2) |
 | Pinpoint | `/postings.json` | `pinpoint` (4) |
 | Careers portal | `/api/jobs` | `careers_portal` (6) |
-| ApplyToJob / JazzHR | `/apply` HTML list | `applytojob` (22) |
+| ApplyToJob / JazzHR | `/apply` HTML list | `applytojob` (35) |
 | Recruitee | public API | see `companies.yml` |
 | Google | careers.google.com HTML search | built-in (`linkedin_amazon` group) |
 | Amazon | amazon.jobs JSON search | built-in (`linkedin_amazon` group) |

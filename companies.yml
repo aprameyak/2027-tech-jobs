@@ -1957,6 +1957,8 @@ lever:
   slug: "diversified-automation"
 - name: Drivemode
   slug: "drivemode"
+- name: Duetti
+  slug: "duetti"
 - name: Dutch
   slug: "dutch"
 - name: Dynamic Catholic
@@ -2167,6 +2169,8 @@ lever:
   slug: "nexuse-group"
 - name: Nio
   slug: "nio-usa"
+- name: Nium
+  slug: "nium"
 - name: Nobull
   slug: "nobullproject"
 - name: Nomagic
@@ -2271,6 +2275,8 @@ lever:
   slug: "rhombus-systems"
 - name: Rigetti
   slug: "rigetti"
+- name: Ro
+  slug: "ro"
 - name: Robust.ai
   slug: "robust-ai"
 - name: RosaicLabs
@@ -2313,6 +2319,8 @@ lever:
   slug: "skillcloudhcm"
 - name: Skyways
   slug: "skyways"
+- name: Smith Micro
+  slug: "smithmicro"
 - name: SoloPulse
   slug: "solopulseco"
 - name: Sophos
@@ -2445,6 +2453,8 @@ lever:
   slug: "woven-by-toyota"
 - name: Wyetech
   slug: "wyetechllc"
+- name: X by 2
+  slug: "xby2"
 - name: Xcimer Energy
   slug: "xcimer"
 - name: Xpansiv
@@ -13560,6 +13570,8 @@ ashby:
   slug: "homebase"
 - name: Hooglee
   slug: "hooglee"
+- name: Horizon3.ai
+  slug: "horizon3ai"
 - name: Hubs.is
   slug: "hubs.is"
 - name: Hudson Pacific Properties
@@ -13598,6 +13610,8 @@ ashby:
   slug: "inherent"
 - name: Insitro
   slug: "insitro"
+- name: Instil
+  slug: "instil"
 - name: Integrate
   slug: "integrate"
 - name: Interaction
@@ -13802,6 +13816,8 @@ ashby:
   slug: "morse-micro"
 - name: Moss
   slug: "moss"
+- name: Moss Robotics
+  slug: "mossrobotics"
 - name: Motorway
   slug: "motorway"
 - name: MUBI
@@ -13838,6 +13854,8 @@ ashby:
   slug: "newlantern"
 - name: NextToken
   slug: "nexttoken"
+- name: Nexus Cognitive
+  slug: "nexus-cognitive"
 - name: Nexus Intelligence
   slug: "nexus-intelligence"
 - name: Nexxen
@@ -13872,6 +13890,8 @@ ashby:
   slug: "npx"
 - name: Numeral
   slug: "numeral"
+- name: Numeric
+  slug: "numeric"
 - name: NumerixS Quant
   slug: "numerixs-quant"
 - name: Observable Space
@@ -13934,6 +13954,8 @@ ashby:
   slug: "pangramlabs"
 - name: PAR Tech
   slug: "PAR%20Technology"
+- name: Parabola
+  slug: "parabola-io"
 - name: Paradigm
   slug: "paradigm"
 - name: Parafin
@@ -14084,6 +14106,8 @@ ashby:
   slug: "reflexrobotics"
 - name: Reframe Systems
   slug: "reframesystems"
+- name: Regent
+  slug: "regent"
 - name: Relation Therapeutics
   slug: "relationrx"
 - name: Relay Financial
@@ -14182,6 +14206,8 @@ ashby:
   slug: "sewer-ai"
 - name: Shepherd
   slug: "shepherd"
+- name: Shield AI
+  slug: "shield"
 - name: Sierra
   slug: "sierra"
 - name: Sieve
@@ -15479,14 +15505,42 @@ applytojob:
   slug: "crackajackdigitalsolutionsllc"
 - name: EAi Technologies
   slug: "eaiti"
+- name: Elucid
+  slug: "elucid"
+- name: GliaCell Technologies
+  slug: "gliacelltechnologies"
 - name: HarmonyTech
   slug: "harmonytech"
+- name: Innovative Systems
+  slug: "innovativesystems"
+- name: Intelliforce-IT Solutions Group
+  slug: "intelliforceitsolutionsgroup"
+- name: IntelliGenesis
+  slug: "intelligenesis"
 - name: Laansu
   slug: "laansu"
+- name: lowRISC
+  slug: "lowrisc"
+- name: Miso Robotics
+  slug: "misorobotics"
+- name: Nottingham Spirk
+  slug: "nottinghamspirk"
+- name: Obsidian
+  slug: "obsidian"
 - name: Peterson Technologies
   slug: "petersontechnologies"
+- name: Red Arch Solutions
+  slug: "redarchsolutions"
+- name: TechInsights
+  slug: "techinsights"
 - name: Validity
   slug: "validity"
+
+- name: WonderBotz
+  slug: "wonderbotz"
+
+- name: WyeTech
+  slug: "wyetech"
 pinpoint:
 - name: Confluence Technologies
   slug: "confluence"
