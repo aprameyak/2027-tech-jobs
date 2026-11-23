@@ -32367,7 +32367,7 @@
   },
   "ios engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -42016,7 +42016,7 @@
   },
   "senior endpoint security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -148336,6 +148336,48 @@
     "b": "s"
   },
   "ml/ai engineers": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "platform engineer (intune)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr. data analyst amp": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "machine learning and quantum information systems specialist": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "cybersecurity engineer iii, identity and access management (iam)": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "data engineer ai & data products": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "cybersecurity engineer iii, detection and response": {
     "t": true,
     "c": "high",
     "v": "cs-is-v4",
