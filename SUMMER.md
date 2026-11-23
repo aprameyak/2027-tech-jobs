@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4590 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4591 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -39,6 +39,7 @@
 | ↳ | CAS 2027 Summer Fellowship - Product Management in AI for Chemistry | Columbus, OH | Undergrad | [Apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f0600bf5-5242-4565-9d1a-021544b8fca1) | Nov 23 |
 | Daikin Comfort | Data Analyst Intern, Summer 2027 | WALLER, TX | Undergrad | [Apply](https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=016d2b83-b435-4bb0-bb74-cb0555970a87) | Nov 23 |
 | ↳ | Programmer Analyst Intern, Summer 2027 | WALLER, TX | Undergrad | [Apply](https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=01a3a45d-9493-4a9c-a85a-e73957878092) | Nov 23 |
+| Fintech | .Net Engineer Intern | Tampa, FL | Undergrad | [Apply](https://recruiting.ultipro.com/FIN1008FICT/JobBoard/c0ae7303-ee90-41c6-b44a-abf63303ceb4/OpportunityDetail?opportunityId=325b135f-b173-43a1-bc4a-21d3be44e5d4&utm_source=aprameyak) | Nov 23 |
 | Great Southern Wood Preserving | Engineering Intern- Data Analysis | Abbeville, AL | Undergrad | [Apply](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1&utm_source=aprameyak) | Nov 23 |
 | ↳ | Management Information Systems Intern | Abbeville, AL | Masters | [Apply](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=32311e2a-c505-445a-a26c-35b845e1bf92&utm_source=aprameyak) | Nov 23 |
 | GTI Energy | Intern - Data Science (Summer 2027) | Des Plaines, IL | Undergrad | [Apply](https://recruiting.ultipro.com/GAS1003/JobBoard/6eb19b1f-4963-9bbd-eff5-d321e7265519/OpportunityDetail?opportunityId=52b782dd-a1b7-4a41-8bde-a39d265fc776&utm_source=aprameyak) | Nov 23 |
