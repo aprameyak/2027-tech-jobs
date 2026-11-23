@@ -118,21 +118,20 @@ jobs:
           python-version: '3.11'
       - run: pip install requests pyyaml anthropic
       - name: Scrape Workday shard ${{ matrix.shard }}
-        # Soft budget exits 0 before this; keep continue-on-error so a hard
-        # kill never paints the workflow red / pages failure alerts.
-        timeout-minutes: 45
-        continue-on-error: true
+        # Soft budget exits 0 ~5m before this hard cap. No continue-on-error:
+        # a red step means a real bug, not CXS rate limits.
+        timeout-minutes: 40
         env:
           BOARD_GROUP: workday
           WORKDAY_MAX_WORKERS: '2'
           WORKDAY_SHARD: ${{ matrix.shard }}
           WORKDAY_SHARD_COUNT: '3'
-          WORKDAY_TIME_BUDGET_SEC: '2400'
+          WORKDAY_TIME_BUDGET_SEC: '2100'
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
         run: python .github/scripts/scrape_jobs.py
       - name: Commit data files
-        if: always()
+        if: success() || failure()
         run: |
           git config user.name "baldmeya"
           git config user.email "akannan8@umd.edu"

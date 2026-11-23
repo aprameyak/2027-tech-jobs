@@ -7,7 +7,7 @@ import subprocess
 import threading
 import time
 import html as _html
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, as_completed, wait
 from datetime import datetime
 from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
 import requests
@@ -2976,10 +2976,14 @@ def main():
                 e for i, e in enumerate(workday_entries)
                 if i % WORKDAY_SHARD_COUNT == WORKDAY_SHARD
             ]
-            print(
-                f'Workday shard {WORKDAY_SHARD}/{WORKDAY_SHARD_COUNT}: '
-                f'{len(workday_entries)} board(s)'
-            )
+        # Rotate daily so a time-budget cut never starves the same tail forever.
+        if workday_entries:
+            rot = int(time.time() // 86400) % len(workday_entries)
+            workday_entries = workday_entries[rot:] + workday_entries[:rot]
+        print(
+            f'Workday shard {WORKDAY_SHARD}/{WORKDAY_SHARD_COUNT}: '
+            f'{len(workday_entries)} board(s) (daily rotate)'
+        )
         for entry in workday_entries:
             scrape_tasks.append((
                 scrape_workday,
@@ -3115,40 +3119,81 @@ def main():
     max_workers = WORKDAY_MAX_WORKERS if BOARD_GROUP == 'workday' else SCRAPER_MAX_WORKERS
     print(f'Scraping {len(scrape_tasks)} sources concurrently (max {max_workers} workers)...')
     scrape_ok = scrape_fail = scrape_empty = 0
+    scrape_skipped_budget = 0
+
+    def _consume_result(result):
+        nonlocal scrape_ok, scrape_empty
+        if not result:
+            scrape_empty += 1
+            return
+        scrape_ok += 1
+        for job in result:
+            if job['id'] not in seen:
+                candidate_jobs.append(job)
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {}
-        for task in scrape_tasks:
+
+        def _submit(task):
             fn = task[0]
             if fn == 'amazon_special':
-                futures[executor.submit(_run_amazon_task)] = task
-            elif fn == 'google_special':
-                futures[executor.submit(_run_google_task)] = task
-            elif fn is scrape_workday:
-                futures[executor.submit(_run_workday_task, task)] = task
-            elif fn is scrape_oracle:
-                futures[executor.submit(_run_oracle_task, task)] = task
-            else:
-                futures[executor.submit(_run_task, task)] = task
+                return executor.submit(_run_amazon_task)
+            if fn == 'google_special':
+                return executor.submit(_run_google_task)
+            if fn is scrape_workday:
+                return executor.submit(_run_workday_task, task)
+            if fn is scrape_oracle:
+                return executor.submit(_run_oracle_task, task)
+            return executor.submit(_run_task, task)
 
-        for future in as_completed(futures):
-            try:
-                result = future.result()
-                if not result:
-                    scrape_empty += 1
-                else:
-                    scrape_ok += 1
-                for job in result:
-                    if job['id'] not in seen:
-                        candidate_jobs.append(job)
-            except Exception as e:
-                scrape_fail += 1
-                print(f'  [task] Future error: {e}')
+        # Workday: feed the pool gradually and stop submitting before the
+        # deadline so classify/save always run and the step exits 0.
+        if BOARD_GROUP == 'workday':
+            pending_tasks = list(scrape_tasks)
+            reserve_sec = 120.0
+            while pending_tasks or futures:
+                while (
+                    pending_tasks
+                    and len(futures) < max_workers
+                    and (
+                        _workday_deadline is None
+                        or time.monotonic() < (_workday_deadline - reserve_sec)
+                    )
+                ):
+                    task = pending_tasks.pop(0)
+                    futures[_submit(task)] = task
+                if not futures:
+                    scrape_skipped_budget += len(pending_tasks)
+                    if pending_tasks:
+                        print(
+                            f'Workday time budget reached with '
+                            f'{len(pending_tasks)} board(s) left — saving and exiting cleanly'
+                        )
+                    break
+                done, _ = wait(futures, timeout=1.0, return_when=FIRST_COMPLETED)
+                if not done:
+                    continue
+                for future in done:
+                    futures.pop(future, None)
+                    try:
+                        _consume_result(future.result())
+                    except Exception as e:
+                        scrape_fail += 1
+                        print(f'  [task] Future error: {e}')
+        else:
+            for task in scrape_tasks:
+                futures[_submit(task)] = task
+            for future in as_completed(futures):
+                try:
+                    _consume_result(future.result())
+                except Exception as e:
+                    scrape_fail += 1
+                    print(f'  [task] Future error: {e}')
 
     print(
         f'\nPass 1 complete: {len(candidate_jobs)} candidate job(s) to classify '
         f'(sources ok={scrape_ok} empty={scrape_empty} fail={scrape_fail} '
-        f'total={len(scrape_tasks)})'
+        f'skipped_budget={scrape_skipped_budget} total={len(scrape_tasks)})'
     )
 
     if candidate_jobs:
