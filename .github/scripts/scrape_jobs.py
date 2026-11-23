@@ -140,6 +140,9 @@ from claude_board_prompts import build_classify_prompt, board_token_to_table, CL
 BOARD_GROUP = os.environ.get('BOARD_GROUP', '').strip()
 WORKDAY_SHARD = int(os.environ.get('WORKDAY_SHARD', '0'))
 WORKDAY_SHARD_COUNT = max(1, int(os.environ.get('WORKDAY_SHARD_COUNT', '1')))
+# Exit cleanly before the Actions step timeout so the job stays green.
+WORKDAY_TIME_BUDGET_SEC = float(os.environ.get('WORKDAY_TIME_BUDGET_SEC', '2400'))
+_workday_deadline = None
 
 _seen_jobs_filename = f'seen_jobs_{BOARD_GROUP}.json' if BOARD_GROUP else 'seen_jobs.json'
 if BOARD_GROUP == 'workday' and WORKDAY_SHARD_COUNT > 1:
@@ -1988,6 +1991,9 @@ def scrape_oracle(company, host, site_number, keywords=None):
     return jobs
 
 def scrape_workday(company, tenant, instance, board):
+    if _workday_deadline is not None and time.monotonic() >= _workday_deadline:
+        return []
+
     if board:
         api_url = f'https://{tenant}.{instance}.myworkdayjobs.com/wday/cxs/{tenant}/{board}/jobs'
     else:
@@ -2004,6 +2010,9 @@ def scrape_workday(company, tenant, instance, board):
     seen_paths = set()
 
     for search_term in WORKDAY_SEARCH_TERMS:
+        if _workday_deadline is not None and time.monotonic() >= _workday_deadline:
+            print(f'  [{company}] Workday time budget hit — stopping board')
+            return jobs
         offset = 0
         pages_fetched = 0
         while True:
@@ -2897,6 +2906,14 @@ def main():
     else:
         print('Board group: all')
 
+    global _workday_deadline
+    if BOARD_GROUP == 'workday':
+        _workday_deadline = time.monotonic() + WORKDAY_TIME_BUDGET_SEC
+        print(f'Workday time budget: {WORKDAY_TIME_BUDGET_SEC:.0f}s '
+              f'(shard {WORKDAY_SHARD}/{WORKDAY_SHARD_COUNT})')
+    else:
+        _workday_deadline = None
+
     seen = load_seen_jobs()
     followed_companies = load_followed_companies()
 
@@ -3060,6 +3077,8 @@ def main():
 
     def _run_workday_task(task):
         _, company, tenant, instance, board_name, _label = task
+        if _workday_deadline is not None and time.monotonic() >= _workday_deadline:
+            return []
         print(f'Checking {company} (workday/{tenant}/{board_name})...')
         try:
             return scrape_workday(company, tenant, instance, board_name)
