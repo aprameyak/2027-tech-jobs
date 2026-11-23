@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4511 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4512 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -11,6 +11,7 @@
 | Fiserv | 2027 Technology Internship Program - Cybersecurity (Columbus, OH) | Columbus, OH | Undergrad | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/ext/job/Columbus-Ohio/XMLNAME-2027-Technology-Internship-Program---Cybersecurity--Columbus--OH-_R-10407190?utm_source=aprameyak) | Nov 22 |
 | ↳ | 2027 Technology Internship Program - Cybersecurity (Berkeley Heights, NJ) | Berkeley Heights, NJ | Undergrad | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/ext/job/Berkeley-Heights-New-Jersey/XMLNAME-2027-Technology-Internship-Program---Cybersecurity--Berkeley-Heights--NJ-_R-10407189?utm_source=aprameyak) | Nov 22 |
 | Great American Insurance Group | Desktop AI Intern - Summer 2027 | Cincinnati, OH | Undergrad | [Apply](https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Desktop-AI-Intern---Summer-2027_R9817?utm_source=aprameyak) | Nov 22 |
+| Sherwin-Williams | 2027 R&D Summer Internship- Pittsburgh | Pittsburgh, PA | Undergrad | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629849?utm_source=aprameyak) | Nov 22 |
 | Advance Auto Parts | Data Science Intern | Raleigh, NC | Undergrad | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1?utm_source=aprameyak) | Nov 21 |
 | Conning | Information Technology (IT) Intern (Summer 2027) | Hartford, CT | Undergrad | [Apply](https://conning.wd503.myworkdayjobs.com/en-US/conningcareers/job/Hartford-CT/Information-Technology--IT--Intern--Summer-2027-_JR1134?utm_source=aprameyak) | Nov 21 |
 | Neros Technologies | Autonomy Intern - Summer 2027 | Torrance, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007?utm_source=aprameyak) | Nov 21 |
