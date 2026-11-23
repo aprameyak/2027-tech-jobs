@@ -30,19 +30,27 @@ def check_ukg(entry: dict) -> tuple[str, bool, str]:
         f"https://{host}/{entry['tenant']}/JobBoard/{entry['board']}"
         f"/JobBoardView/LoadSearchResults"
     )
-    try:
-        r = requests.post(
-            api,
-            json={'opportunitySearch': {'Top': 1, 'Skip': 0}},
-            headers=HEADERS,
-            timeout=(10, 25),
-        )
-        if r.status_code != 200:
-            return name, False, f'HTTP {r.status_code}'
-        total = (r.json() or {}).get('totalCount')
-        return name, True, f'total={total}'
-    except Exception as e:
-        return name, False, str(e)
+    last_err = ''
+    for attempt in range(3):
+        try:
+            r = requests.post(
+                api,
+                json={'opportunitySearch': {'Top': 1, 'Skip': 0}},
+                headers=HEADERS,
+                timeout=(10, 45),
+            )
+            if r.status_code != 200:
+                last_err = f'HTTP {r.status_code}'
+                if r.status_code >= 500 and attempt < 2:
+                    continue
+                return name, False, last_err
+            total = (r.json() or {}).get('totalCount')
+            return name, True, f'total={total}'
+        except Exception as e:
+            last_err = str(e)
+            if attempt < 2:
+                continue
+    return name, False, last_err
 
 
 def check_bamboo(entry: dict) -> tuple[str, bool, str]:
