@@ -25082,8 +25082,9 @@
   },
   "graduate quantitative researcher": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "n"
   },
   "graduate quantitative researcher (bs/ms)": {
@@ -25100,8 +25101,9 @@
   },
   "graduate quantitative trader": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "n"
   },
   "graduate software engineer": {
