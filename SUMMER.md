@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4715 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4728 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -10,6 +10,10 @@
 | ↳ | Strategic Information Intern | Sheboygan, WI | Undergrad | [Apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7&utm_source=aprameyak) | Nov 23 |
 | ↳ | Data Analytics Intern (Data Science) | Sheboygan, WI | Undergrad | [Apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7&utm_source=aprameyak) | Nov 23 |
 | AFL | Web Design/Development Intern- Summer 2027 | Duncan, SC | Undergrad | [Apply](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80) | Nov 23 |
+| Akuna Capital OCI | Junior Quantitative Researcher, 2027 \| Carnegie Mellon University | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065206?utm_source=aprameyak) | Nov 23 |
+| ↳ | Junior Quantitative Researcher, 2027 \| Georgia Institute of Technology | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065202?utm_source=aprameyak) | Nov 23 |
+| ↳ | Junior Quantitative Researcher, 2027 \| Harvard | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065211?utm_source=aprameyak) | Nov 23 |
+| ↳ | Junior Quantitative Researcher, 2027 \| Massachusetts Institute of Technology | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065309?utm_source=aprameyak) | Nov 23 |
 | Allen Control Systems | Computer Vision/Machine Learning Intern, 2027 | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037/application?utm_source=aprameyak) | Nov 23 |
 | Anduril | 2027 Business Systems Engineer Intern | Costa Mesa, CA | Masters | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007&utm_source=aprameyak) | Nov 23 |
 | ↳ | 2027 Finance Data Analyst Intern | Costa Mesa, CA | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007&utm_source=aprameyak) | Nov 23 |
@@ -19,6 +23,10 @@
 | ↳ | 2027 IT / AI Engineer Intern - Chicago, IL | Chicago, IL | Undergrad | [Apply](https://jobs.aon.com/jobs/110099?lang=en-us) | Nov 23 |
 | Applied Research Associates | Software Quality Assurance Intern | Baton Rouge, LA | Undergrad | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=bdbeeabf-bf21-41d9-9034-d01be04c59f6) | Nov 23 |
 | ↳ | Software Engineer Intern | Baton Rouge, LA | Undergrad | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=0e5ea52f-9c4b-45f8-9a60-86678d8e3fd8) | Nov 23 |
+| Astera Labs Early Career | CyberSecurity Engineer Intern | San Jose, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743021005?utm_source=aprameyak) | Nov 23 |
+| ↳ | Data Engineer Intern | San Jose, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731995005?utm_source=aprameyak) | Nov 23 |
+| ↳ | Engineering Ops Technology Intern | San Jose, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731411005?utm_source=aprameyak) | Nov 23 |
+| Atoms AI | Software Engineering Intern - 2027 Winter Term | Los Angeles, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8356071002?utm_source=aprameyak) | Nov 23 |
 | Avista | Fleet Operations Data Intern (Data Analytics/Science, Acturial Science, Business Majors) | Spokane, WA | Undergrad | [Apply](https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=99b68bca-853c-4512-a758-80fa46bf30b5&utm_source=aprameyak) | Nov 23 |
 | ↳ | Central Analytics Intern (Data Analytics, Decision Science/Statistics, Mathematics, Finance Majors) | Spokane, WA | Undergrad | [Apply](https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=6985c6f8-7b03-4906-8c45-1636863e8a58&utm_source=aprameyak) | Nov 23 |
 | ↳ | Physical Security Intern (Criminal Justice, Homeland Security, Emergency Management, Security Studies, Cybersecurity Majors) | Spokane, WA | Undergrad | [Apply](https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=a1212562-c20c-4e90-8a2a-87e878930923&utm_source=aprameyak) | Nov 23 |
@@ -28,6 +36,9 @@
 | Benchling | Software Engineer, Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?utm_source=aprameyak) | Nov 23 |
 | Bennett Thrasher | IT Intern - AI & Automation | Atlanta, GA | Undergrad | [Apply](https://btcpa.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2/OpportunityDetail?opportunityId=4d519358-fb57-46be-8018-838c26e1bf4a) | Nov 23 |
 | Black Cape | US Military Skillbridge Internship (Software Engineer)_Arlington, VA | Remote (US) | Undergrad | [Apply](https://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA?utm_source=aprameyak) | Nov 23 |
+| Brave | Software Development Intern - Waterloo University - Web3 Core | Remote (Canada) | Undergrad | [Apply](https://job-boards.greenhouse.io/brave/jobs/8412532?utm_source=aprameyak) | Nov 23 |
+| C3.ai Jobs | Data Science - Intern (Summer 2027) | Redwood City, CA | Undergrad | [Apply](https://c3.ai/job-description/8738918002?gh_jid=8738918002) | Nov 23 |
+| ↳ | Software Engineer - Intern (Summer 2027) | Redwood City, CA | Undergrad | [Apply](https://c3.ai/job-description/8739037002?gh_jid=8739037002) | Nov 23 |
 | Calamos Investments | IT Research Development Intern | Naperville, IL | Undergrad | [Apply](https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=8ba1e4ff-1ee1-46ab-b93f-9a4e4b6eb487) | Nov 23 |
 | ↳ | Cloud Engineer Intern | Naperville, IL | Undergrad | [Apply](https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=f8490955-c876-418d-9722-254f4c7306d9) | Nov 23 |
 | ↳ | Application Development Intern | Naperville, IL | Undergrad | [Apply](https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=63353a2a-47a7-4b97-9015-c34af4213bcf) | Nov 23 |
@@ -168,6 +179,8 @@
 | ↳ | Intern - Software Engineer, Platform Security (NTD) | Redmond, WA | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4469778009) | Nov 23 |
 | ↳ | Intern - User Experience | Redmond, WA | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4418258009) | Nov 23 |
 | NorthStar Earth & Space | Stagiaire en recherche – IA et observation de la Terre / Research Intern – AI for Earth Observation (Ei²) | Montreal, QC | Undergrad | [Apply](https://northstarearthandspace.bamboohr.com/careers/117?utm_source=aprameyak) | Nov 23 |
+| Octaura | Intern, Data Engineering | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/octaura/jobs/4662934007?utm_source=aprameyak) | Nov 23 |
+| Oscar Health | Software Engineering Intern | New York, NY | Undergrad | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8407472) | Nov 23 |
 | Pason Systems | Software Developer Intern (Datahub) | Calgary, AB | Undergrad | [Apply](https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8&utm_source=aprameyak) | Nov 23 |
 | PsiQuantum | Intern, Quantum Architecture | Remote (US) | Undergrad | [Apply](https://www.psiquantum.com/apply?gh_jid=6536805003) | Nov 23 |
 | Red Bull | 2027 Internship, Spring - Data Science | Remote (US) | Undergrad | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163139699?utm_source=aprameyak) | Nov 23 |

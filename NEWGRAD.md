@@ -1,11 +1,17 @@
 # 🎓 New Grad 2027
 
-1589 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1603 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Akuna Capital OCI | Junior Quantitative Developer & Strategist 2027 \| Columbia University | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065123?utm_source=aprameyak) | Nov 23 |
+| ↳ | Junior Quantitative Developer & Strategist 2027 \| Georgia Institute of Technology | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065025?utm_source=aprameyak) | Nov 23 |
+| ↳ | Junior Quantitative Developer & Strategist 2027 \| Harvard | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065049?utm_source=aprameyak) | Nov 23 |
+| ↳ | Junior Quantitative Developer & Strategist 2027 \| Massachusetts Institute of Technology | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065051?utm_source=aprameyak) | Nov 23 |
+| ↳ | Junior Quantitative Developer & Strategist - 2027 \| University of Chicago | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065014?utm_source=aprameyak) | Nov 23 |
+| ↳ | Junior Quantitative Developer & Strategist \| Carnegie Mellon University | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065007?utm_source=aprameyak) | Nov 23 |
 | All Options | Graduate Quantitative Trader | Austin, TX |  | Undergrad | [Apply](https://alloptions.bamboohr.com/careers/85?utm_source=aprameyak) | Nov 23 |
 | ↳ | Graduate Quantitative Researcher | Austin, TX |  | Undergrad | [Apply](https://alloptions.bamboohr.com/careers/86?utm_source=aprameyak) | Nov 23 |
 | Anduril | 2027 Early Career Flight Software Engineer | Costa Mesa, CA | Spring 2027 | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007&utm_source=aprameyak) | Nov 23 |
@@ -18,13 +24,18 @@
 | ASR International | Junior Software Developer | Remote (US) |  | Undergrad | [Apply](https://asrinternationalcorp.applytojob.com/apply/E1mAsCvu98/Junior-Software-Developer?utm_source=aprameyak) | Nov 23 |
 | Axtria | Junior AI Engineer – GenAI &amp; Agentic AI Platform | Remote (US) |  | Undergrad | [Apply](https://axtriainc.applytojob.com/apply/XdoKY1dHJc/Junior-AI-Engineer-GenAI-Agentic-AI-Platform?utm_source=aprameyak) | Nov 23 |
 | BIS Safety Software | Junior Data Analyst | Sherwood Park, AB |  | Undergrad | [Apply](https://jobs.lever.co/bis/ce37713b-9922-4a73-999a-f0b8e544540b?utm_source=aprameyak) | Nov 23 |
+| C3.ai Jobs | Platform Full-Stack Engineer, New Grad 2027 | Redwood City, CA | Spring 2027 | Undergrad | [Apply](https://c3.ai/job-description/8801434002?gh_jid=8801434002) | Nov 23 |
 | Calyx Containers | Junior Software Developer – Print &amp; Packaging | Remote (US) |  | Undergrad | [Apply](https://calyxcontainers.applytojob.com/apply/HHSphZTCc2/Junior-Software-Developer-Print-Packaging?utm_source=aprameyak) | Nov 23 |
 | Digital.ai | Associate Software Engineer | Lafayette, IN |  | Undergrad | [Apply](https://digitalai.bamboohr.com/careers/75?utm_source=aprameyak) | Nov 23 |
 | EAi Technologies | Physics/Math Graduate - Entry Level Software Developer | Remote (US) |  | Undergrad | [Apply](https://eaiti.applytojob.com/apply/04bnB7a43f/PhysicsMath-Graduate-Entry-Level-Software-Developer?utm_source=aprameyak) | Nov 23 |
 | Encore Global | Associate Application Developer | Schiller Park, IL |  | Undergrad | [Apply](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=bf6ce5bb-f991-46de-a0cb-50f4f9577ee9&utm_source=aprameyak) | Nov 23 |
+| Further Early Career | Graduate Program: Entry-Level AI/Data Engineer 2027 | Cleveland, OH |  | Undergrad | [Apply](https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932674002?utm_source=aprameyak) | Nov 23 |
 | Integra FEC | Data Analyst / Associate Data Scientist | Austin, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/integra/jobs/5083082008?utm_source=aprameyak) | Nov 23 |
 | ↳ | Junior Data Scientist | Austin, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/integra/jobs/5487065008?utm_source=aprameyak) | Nov 23 |
 | Johns Hopkins Applied Physics Laboratory | 2027 PhD Graduate Software Engineering/ML/Data Scientist - Intelligence Systems | Laurel, MD | Spring 2027 | PhD | [Apply](https://careers.jhuapl.edu/jobs/59654?lang=en-us) | Nov 23 |
+| Koddi | Associate Platform Engineer | Fort Worth, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/koddi/jobs/8944760002?utm_source=aprameyak) | Nov 23 |
+| ↳ | Associate Security Engineer | Fort Worth, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/koddi/jobs/8944767002?utm_source=aprameyak) | Nov 23 |
+| ↳ | Associate Software Engineer | Fort Worth, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/koddi/jobs/8944769002?utm_source=aprameyak) | Nov 23 |
 | Laansu | Junior Software Developer | Remote (US) |  | Undergrad | [Apply](https://laansu.applytojob.com/apply/VlgxKiBUqZ/Junior-Software-Developer?utm_source=aprameyak) | Nov 23 |
 | ManTech | Junior Data Analyst | Remote (US) |  | Undergrad | [Apply](https://careers.mantech.com/en_US/careers/JobDetail/Junior-Data-Analyst/66379) | Nov 23 |
 | MITRE | Associate Data Scientist | Huntsville, AL |  | Undergrad | [Apply](https://mitre.wd5.myworkdayjobs.com/MITRE/job/Huntsville-AL/Associate-Data-Scientist_R118007-1/apply?utm_source=aprameyak) | Nov 23 |
@@ -39,6 +50,9 @@
 | ↳ | Junior Software Engineer | Remote (US) |  | Undergrad | [Apply](https://petersontechnologies.applytojob.com/apply/t5IYTkJDa2/Junior-Software-Engineer?utm_source=aprameyak) | Nov 23 |
 | ↳ | Junior Systems Engineer | Remote (US) |  | Masters | [Apply](https://petersontechnologies.applytojob.com/apply/2uAgpyT8YT/Junior-Systems-Engineer?utm_source=aprameyak) | Nov 23 |
 | Quantiq | Software Developer- New Graduate | Austin, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/quantiq/jobs/4280650009?utm_source=aprameyak) | Nov 23 |
+| SambaNova Systems | Cloud Platform Engineer - New Grad | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> |  | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224940004) | Nov 23 |
+| ↳ | Machine Learning Engineer - New Grad | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> |  | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) | Nov 23 |
+| ↳ | ML Infrastructure Engineer - New Grad | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> |  | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004) | Nov 23 |
 | Secureframe | Software Engineer, New Grad | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb/application?utm_source=aprameyak) | Nov 23 |
 | Self Financial | Associate Software Engineer | Austin, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/selffinancial/jobs/6255478004?utm_source=aprameyak) | Nov 23 |
 | Teza Technologies | Trading Platform Developer | Austin, TX |  | Undergrad | [Apply](https://jobs.ashbyhq.com/teza-technologies/28cde40f-178f-45f8-82ca-a913ef8b0812/application?utm_source=aprameyak) | Nov 23 |
