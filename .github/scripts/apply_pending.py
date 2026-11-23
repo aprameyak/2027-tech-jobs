@@ -30,6 +30,7 @@ def _with_aprameyak_utm(url):
         if not any(m in host for m in (
             'greenhouse.io', 'lever.co', 'ashbyhq.com', 'myworkdayjobs.com', 'workdaysite.com',
             'oraclecloud.com', 'smartrecruiters.com', 'icims.com', 'applytojob.com',
+            'ultipro.com', 'ultipro.ca', 'rec.pro.ukg.net', 'bamboohr.com',
         )):
             return url
         params = {}

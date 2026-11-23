@@ -15305,10 +15305,18 @@ ukg:
   host: "recruiting.ultipro.com"
   tenant: "afl1002"
   board: "d535bad2-e3ea-c8c8-2fb2-63621892e293"
+- name: Acuity Insurance
+  host: "recruiting2.ultipro.com"
+  tenant: "her1001acfin"
+  board: "ab33798a-3521-417b-8db8-a8e435c475fa"
 - name: Applied Research Associates
   host: "recruiting.ultipro.com"
   tenant: "APP1010ARAI"
   board: "07442cec-d18e-4589-ab15-8342edc29af7"
+- name: Avista
+  host: "recruiting2.ultipro.com"
+  tenant: "avi1000amast"
+  board: "362abf68-95c3-4b17-a39d-76a6efe5ff18"
 - name: Bennett Thrasher
   host: "btcpa.rec.pro.ukg.net"
   tenant: "BEN1022BTLL"
@@ -15329,6 +15337,14 @@ ukg:
   host: "recruiting.ultipro.com"
   tenant: "GCI1000GCI"
   board: "09636f6c-2fa1-4a76-adb9-57dea469416b"
+- name: GTI Energy
+  host: "recruiting.ultipro.com"
+  tenant: "GAS1003"
+  board: "6eb19b1f-4963-9bbd-eff5-d321e7265519"
+- name: Great Southern Wood Preserving
+  host: "recruiting2.ultipro.com"
+  tenant: "GRE1058GRES"
+  board: "45bb5d77-f6b4-402a-ab83-43464bee8ea0"
 - name: Jewelers Mutual Group
   host: "recruiting.ultipro.com"
   tenant: "JEW1003JEWEL"
@@ -15336,7 +15352,7 @@ ukg:
 - name: MDA
   host: "recruiting.ultipro.ca"
   tenant: "MAC5000MCDW"
-  board: "7667adcc-47ae-477a-9183-0d8ef8bc0748"
+  board: "664818ff-3594-4bec-9f30-3394e59e19f3"
 - name: Mawer Investment Management
   host: "recruiting.ultipro.ca"
   tenant: "MAW5000MAIM"
@@ -15353,6 +15369,18 @@ ukg:
   host: "recruiting2.ultipro.com"
   tenant: "MIL1017"
   board: "f54234e9-dfde-b183-fd20-4fbdb19cba7a"
+- name: Modern Woodmen of America
+  host: "recruiting.ultipro.com"
+  tenant: "MOD1003MWA"
+  board: "8990acfc-04f3-d65f-0565-a772e1a0157b"
+- name: Pason Systems
+  host: "recruiting.ultipro.ca"
+  tenant: "PAS5000PASON"
+  board: "736c1025-c469-4ece-a487-4884545272a7"
+- name: SIG SAUER
+  host: "recruiting.ultipro.com"
+  tenant: "sig1011sigsa"
+  board: "9ec422f8-2ba7-4e60-983b-b473bf030bd6"
 - name: Southern Farm Bureau Life Insurance
   host: "recruiting2.ultipro.com"
   tenant: "sou1016sfbli"
@@ -15369,27 +15397,49 @@ ukg:
   host: "recruiting.ultipro.com"
   tenant: "TCO1001TCOM"
   board: "74e57e92-4355-44d7-8471-3c6eecfda9ef"
+- name: Ulteig
+  host: "recruiting2.ultipro.com"
+  tenant: "ULT1008ULTE"
+  board: "71bc1da6-c7b0-4b37-9f7b-076d7d68c57b"
 - name: VT Industries
   host: "vtindustries.rec.pro.ukg.net"
   tenant: "VTI1500VTIN"
   board: "674339ab-9285-4ba2-80bd-aa3503cae1b2"
+- name: WPS Health Solutions
+  host: "recruiting2.ultipro.com"
+  tenant: "WIS1003"
+  board: "e6da0c90-f987-63dc-99a9-fb8c9014f57e"
 - name: Watchfire Signs
   host: "watchfiresigns.rec.pro.ukg.net"
   tenant: "wat1501wfsi"
   board: "d3278620-b590-426f-899b-eb88c1096ad9"
+- name: Werner Electric Supply
+  host: "recruiting2.ultipro.com"
+  tenant: "WER1000WERE"
+  board: "9cc9fbca-288f-4c69-99d7-b81d31b89844"
 
 bamboohr:
+- name: All Options
+  slug: "alloptions"
 - name: Convverge
   slug: "convverge"
 - name: EUNA Solutions
   slug: "euna"
 - name: Flare
   slug: "flare"
+- name: Gradient MSP
+  slug: "gradientmsp"
 - name: Marias Technology
   slug: "mariastechnology"
+- name: NorthStar Earth & Space
+  slug: "northstarearthandspace"
+- name: Omnimed
+  slug: "omnimed"
 - name: REXA
   slug: "rexa"
 - name: Smule
   slug: "smule"
 - name: The SilverLogic
   slug: "silverlogic"
+- name: Xradar
+  slug: "xradar"
