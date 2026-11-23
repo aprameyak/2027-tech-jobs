@@ -31,8 +31,6 @@ def _retry_policy():
 
 
 def _workday_retry_policy():
-    # Workday CXS rate-limits aggressively. Retrying 429s with backoff across
-    # 1500+ boards burns the CI timeout; fail fast and move on instead.
     return Retry(
         total=2,
         connect=2,
@@ -53,23 +51,20 @@ _workday_session.mount(
     'https://', HTTPAdapter(max_retries=_workday_retry_policy(), pool_maxsize=8)
 )
 
-# Global CXS pacing — shared across worker threads so we don't stampede into 429s.
 _workday_gate = threading.Lock()
 _workday_next_ok = 0.0
-_workday_interval = 0.35  # seconds between CXS calls; grows on 429, shrinks on success
+_workday_interval = 0.35
 _WORKDAY_INTERVAL_MIN = 0.25
 _WORKDAY_INTERVAL_MAX = 8.0
 
 
 def _workday_post(api_url, payload, headers, timeout=(8, 20)):
-    """Pace Workday CXS calls; one short retry on 429, then give up."""
     global _workday_next_ok, _workday_interval
     last_resp = None
     for attempt in range(2):
         with _workday_gate:
             now = time.monotonic()
             wait = max(0.0, _workday_next_ok - now)
-            # Reserve the next slot before releasing the lock / hitting the network.
             _workday_next_ok = now + wait + _workday_interval
         if wait > 0:
             time.sleep(wait)
@@ -140,7 +135,6 @@ from claude_board_prompts import build_classify_prompt, board_token_to_table, CL
 BOARD_GROUP = os.environ.get('BOARD_GROUP', '').strip()
 WORKDAY_SHARD = int(os.environ.get('WORKDAY_SHARD', '0'))
 WORKDAY_SHARD_COUNT = max(1, int(os.environ.get('WORKDAY_SHARD_COUNT', '1')))
-# Exit cleanly before the Actions step timeout so the job stays green.
 WORKDAY_TIME_BUDGET_SEC = float(os.environ.get('WORKDAY_TIME_BUDGET_SEC', '2400'))
 _workday_deadline = None
 
@@ -914,7 +908,6 @@ def classify_sponsorship(jobs):
 def load_seen_jobs():
     seen = set()
     paths = [SEEN_JOBS_FILE]
-    # Workday shards share a union of seen IDs so jobs are not re-opened.
     if BOARD_GROUP == 'workday':
         paths = sorted(Path('.github/data').glob('seen_jobs_workday*.json')) or paths
     for path in paths:
@@ -2976,7 +2969,6 @@ def main():
                 e for i, e in enumerate(workday_entries)
                 if i % WORKDAY_SHARD_COUNT == WORKDAY_SHARD
             ]
-        # Rotate daily so a time-budget cut never starves the same tail forever.
         if workday_entries:
             rot = int(time.time() // 86400) % len(workday_entries)
             workday_entries = workday_entries[rot:] + workday_entries[:rot]
@@ -3146,8 +3138,6 @@ def main():
                 return executor.submit(_run_oracle_task, task)
             return executor.submit(_run_task, task)
 
-        # Workday: feed the pool gradually and stop submitting before the
-        # deadline so classify/save always run and the step exits 0.
         if BOARD_GROUP == 'workday':
             pending_tasks = list(scrape_tasks)
             reserve_sec = 120.0
@@ -3167,7 +3157,7 @@ def main():
                     if pending_tasks:
                         print(
                             f'Workday time budget reached with '
-                            f'{len(pending_tasks)} board(s) left — saving and exiting cleanly'
+                            f'{len(pending_tasks)} board(s) left — saving'
                         )
                     break
                 done, _ = wait(futures, timeout=1.0, return_when=FIRST_COMPLETED)

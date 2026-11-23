@@ -97,11 +97,9 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
-      # Serialize shards so CXS is not hammered by parallel runners.
       max-parallel: 1
       matrix:
         shard: [0, 1, 2]
-    # Schedule + manual workday dispatch must not hammer CXS at the same time.
     concurrency:
       group: scrape-workday-cxs
       cancel-in-progress: false
@@ -111,15 +109,12 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.REPO_PAT }}
-          # Latest main so sequential shards see prior shard commits.
           ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       - run: pip install requests pyyaml anthropic
       - name: Scrape Workday shard ${{ matrix.shard }}
-        # Soft budget exits 0 ~5m before this hard cap. No continue-on-error:
-        # a red step means a real bug, not CXS rate limits.
         timeout-minutes: 40
         env:
           BOARD_GROUP: workday
