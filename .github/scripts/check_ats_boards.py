@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
-"""Hard health check for configured UKG + BambooHR boards.
-
-Exits 1 if any configured board is unreachable so coverage cannot silently rot.
-Usage:
-  BOARD_GROUP=ukg|bamboohr|all python .github/scripts/check_ats_boards.py
-"""
+"""Reachability check for configured UKG and BambooHR boards."""
 
 from __future__ import annotations
 
@@ -55,7 +50,11 @@ def check_bamboo(entry: dict) -> tuple[str, bool, str]:
     slug = entry['slug']
     url = f'https://{slug}.bamboohr.com/careers/list'
     try:
-        r = requests.get(url, headers={'User-Agent': HEADERS['User-Agent'], 'Accept': 'application/json'}, timeout=(10, 25))
+        r = requests.get(
+            url,
+            headers={'User-Agent': HEADERS['User-Agent'], 'Accept': 'application/json'},
+            timeout=(10, 25),
+        )
         if r.status_code != 200:
             return name, False, f'HTTP {r.status_code}'
         n = len((r.json() or {}).get('result') or [])

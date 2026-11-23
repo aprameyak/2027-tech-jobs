@@ -229,8 +229,6 @@ NON_US_SIGNALS = [
     'riyadh', 'saudi arabia',
     'costa rica',
 ]
-# Country-code prefixes like "IN, Bangalore" — must be start-of-segment,
-# otherwise "Austin, TX" false-matches the old substring "in, ".
 _NON_US_COUNTRY_PREFIX = re.compile(
     r'(?:^|;\s*)(?:za|sa|cr|gb|de|fr|nl|ie|au|sg|in|jp|cn|il|mx|br),\s',
     re.I,
@@ -2176,13 +2174,11 @@ def scrape_bamboohr(company, slug):
             elif city:
                 location = normalize_location(city)
             elif row.get('isRemote') or str(row.get('locationType') or '') == '1':
-                # BambooHR: locationType 1 = Remote; do not treat 2 (office/hybrid) as Remote
                 location = 'Remote'
             else:
                 location = ''
             if not jid or not is_candidate_title(title):
                 continue
-            # Require a US/Canada location signal; skip unknown/empty (no false Remote)
             if not location or not is_us_location(location):
                 continue
             jobs.append({

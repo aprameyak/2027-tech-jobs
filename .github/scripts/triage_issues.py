@@ -217,7 +217,7 @@ def add_via_script(decision, url):
 _No response_
 
 ### Additional Notes (Optional)
-Auto-triaged by Claude.
+Auto-triaged.
 
 ### Checklist
 - [x] The role is in the United States, Canada, or is Remote (North America).
@@ -369,7 +369,7 @@ def main():
             known.add(url.split('?')[0].rstrip('/').lower())
             added += 1
         else:
-            comment(number, 'Claude approved this, but auto-add failed — leaving open for manual review.')
+            comment(number, 'Approved, but auto-add failed — leaving open for manual review.')
             skipped += 1
 
     print(f'\nDone. added={added} rejected={rejected} skipped={skipped}')
