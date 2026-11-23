@@ -32367,7 +32367,7 @@
   },
   "ios engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -42016,7 +42016,7 @@
   },
   "senior endpoint security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -148238,6 +148238,20 @@
     "a": 0
   },
   "software engineer: front-end": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "devops developer - euna grants": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "d\u00e9veloppeur.se logiciel ei\u00b2 - software developer ei\u00b2": {
     "t": true,
     "c": "high",
     "v": "cs-is-v4",
