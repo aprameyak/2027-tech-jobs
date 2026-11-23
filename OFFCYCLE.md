@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1199 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1201 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -15,6 +15,8 @@
 | MDA | Engineering Student – AI/ML Specialist - Winter 2027 | Richmond, BC | Winter 2027 | Undergrad | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=b5aef546-676b-4f7a-8c20-acfa8f25069f) | Nov 23 |
 | ↳ | Engineering Student - Python Test Data Processing - Winter 2027 | Sainte-Anne-de-Bellevue, QC | Winter 2027 | Undergrad | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=67af442f-ca28-47b2-b86b-eaa3d5192fe0) | Nov 23 |
 | ↳ | Engineering Student - DevOps - Winter 2027 | Sainte-Anne-de-Bellevue, QC | Winter 2027 | Undergrad | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=38d976f8-97b0-44e6-9bb9-d9d8589b8f79) | Nov 23 |
+| ↳ | Junior Test Engineer - Digital (evening shift) | Sainte-Anne-de-Bellevue, QC | Co-op | Undergrad | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=77c61b78-cecd-4dc2-a80b-b08230ab91da&utm_source=aprameyak) | Nov 23 |
+| ↳ | administrateur de la sécurité/Junior Security Administrator | Sainte-Anne-de-Bellevue, QC | Co-op | Undergrad | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=54bf87de-f095-42d3-8b77-cb1a740b0312&utm_source=aprameyak) | Nov 23 |
 | Milliman | Information Technology Support Spring 2027 Intern (Part-time) - Omaha (CMH Health) | Omaha, NE | Spring 2027 | Undergrad | [Apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=b3e982db-c815-490c-b58a-9a94cc038aee) | Nov 23 |
 | ↳ | AI Product Engineer Intern Spring 2027 (Full-time) - CMH Health | <details><summary>**2 locations**</summary>Chicago, IL</br>Brookfield, WI</details> | Spring 2027 | Undergrad | [Apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=d159c041-eb0e-4505-913f-aa006818d620) | Nov 23 |
 | ↳ | AI Product Engineer Intern Spring 2027 (Part-time) - CMH Health | <details><summary>**2 locations**</summary>Chicago, IL</br>Brookfield, WI</details> | Spring 2027 | Undergrad | [Apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=4f353716-eb67-4f11-a274-efee2100be07) | Nov 23 |
