@@ -1,11 +1,13 @@
 # 🎓 New Grad 2027
 
-1546 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1548 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Applied Research Associates | Junior Software Developer | Albuquerque, NM |  | Undergrad | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=4a45b594-2e7f-4042-9976-8a3b808265ca) | Nov 23 |
+| ↳ | Junior Information System Security Engineer (ISSE) | Raleigh, NC |  | Undergrad | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=7a72c316-97b1-4e8e-aeaf-057c7cd196aa) | Nov 23 |
 | City and County of San Francisco | Cyber Defense Associate Engineer (1041) - Department of Technology | San Francisco, CA |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017013773?utm_source=aprameyak) | Nov 20 |
 | Fortive | 2027 GLDP Associate- Commercial Track | Irvine, CA | Spring 2027 | Undergrad | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10880?utm_source=aprameyak) | Nov 20 |
 | Jerry | Associate Data Scientist | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/Jerry.ai/67b832c4-8d9f-4953-ba43-ba892d06fe8a/application?utm_source=aprameyak) | Nov 20 |
