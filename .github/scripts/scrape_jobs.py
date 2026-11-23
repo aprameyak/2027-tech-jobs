@@ -2004,7 +2004,6 @@ def scrape_workday(company, tenant, instance, board):
 
     for search_term in WORKDAY_SEARCH_TERMS:
         if _workday_deadline is not None and time.monotonic() >= _workday_deadline:
-            print(f'  [{company}] Workday time budget hit — stopping board')
             return jobs
         offset = 0
         pages_fetched = 0
@@ -2020,7 +2019,7 @@ def scrape_workday(company, tenant, instance, board):
                 if resp is None:
                     break
                 if resp.status_code == 429:
-                    print(f'  [{company}] Workday HTTP 429 after retries — skipping board')
+                    print(f'  [{company}] Workday HTTP 429')
                     return jobs
                 if resp.status_code != 200:
                     print(f'  [{company}] Workday HTTP {resp.status_code} for "{search_term}"')
@@ -2055,7 +2054,6 @@ def scrape_workday(company, tenant, instance, board):
                 err = str(e)
                 print(f'  [{company}] Workday error for "{search_term}": {e}')
                 if '429' in err:
-                    print(f'  [{company}] Workday rate-limited — skipping board')
                     return jobs
                 break
 
@@ -2900,12 +2898,9 @@ def main():
         print('Board group: all')
 
     global _workday_deadline
-    if BOARD_GROUP == 'workday':
-        _workday_deadline = time.monotonic() + WORKDAY_TIME_BUDGET_SEC
-        print(f'Workday time budget: {WORKDAY_TIME_BUDGET_SEC:.0f}s '
-              f'(shard {WORKDAY_SHARD}/{WORKDAY_SHARD_COUNT})')
-    else:
-        _workday_deadline = None
+    _workday_deadline = (
+        time.monotonic() + WORKDAY_TIME_BUDGET_SEC if BOARD_GROUP == 'workday' else None
+    )
 
     seen = load_seen_jobs()
     followed_companies = load_followed_companies()
@@ -2972,10 +2967,7 @@ def main():
         if workday_entries:
             rot = int(time.time() // 86400) % len(workday_entries)
             workday_entries = workday_entries[rot:] + workday_entries[:rot]
-        print(
-            f'Workday shard {WORKDAY_SHARD}/{WORKDAY_SHARD_COUNT}: '
-            f'{len(workday_entries)} board(s) (daily rotate)'
-        )
+        print(f'Workday shard {WORKDAY_SHARD}/{WORKDAY_SHARD_COUNT}: {len(workday_entries)} board(s)')
         for entry in workday_entries:
             scrape_tasks.append((
                 scrape_workday,
@@ -3154,11 +3146,6 @@ def main():
                     futures[_submit(task)] = task
                 if not futures:
                     scrape_skipped_budget += len(pending_tasks)
-                    if pending_tasks:
-                        print(
-                            f'Workday time budget reached with '
-                            f'{len(pending_tasks)} board(s) left — saving'
-                        )
                     break
                 done, _ = wait(futures, timeout=1.0, return_when=FIRST_COMPLETED)
                 if not done:
@@ -3182,8 +3169,9 @@ def main():
 
     print(
         f'\nPass 1 complete: {len(candidate_jobs)} candidate job(s) to classify '
-        f'(sources ok={scrape_ok} empty={scrape_empty} fail={scrape_fail} '
-        f'skipped_budget={scrape_skipped_budget} total={len(scrape_tasks)})'
+        f'(sources ok={scrape_ok} empty={scrape_empty} fail={scrape_fail}'
+        f'{f" skipped_budget={scrape_skipped_budget}" if scrape_skipped_budget else ""} '
+        f'total={len(scrape_tasks)})'
     )
 
     if candidate_jobs:
