@@ -148236,5 +148236,12 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "software engineer: front-end": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
   }
 }
