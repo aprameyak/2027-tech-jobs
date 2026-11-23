@@ -27,6 +27,8 @@ greenhouse:
   slug: "abacusinsights"
 - name: Abnormal Security
   slug: "abnormalsecurity"
+- name: Absolics
+  slug: "absolicsinc"
 - name: Accenture Federal Services
   slug: "accenturefederalservices"
 - name: AccuWeather
@@ -69,6 +71,8 @@ greenhouse:
   slug: "airtable"
 - name: Akuna Capital
   slug: "akunacapital"
+- name: Akuna Capital OCI
+  slug: "akunacapitaloci"
 - name: Alarm.com
   slug: "alarmcom"
 - name: Albedo
@@ -115,6 +119,8 @@ greenhouse:
   slug: "anthropic"
 - name: Antora Energy
   slug: "antora"
+- name: AON3D
+  slug: "aon3d"
 - name: APCON
   slug: "apcon"
 - name: Apera AI
@@ -163,6 +169,8 @@ greenhouse:
   slug: "assystinc"
 - name: Astera Labs
   slug: "AsteraLabs"
+- name: Astera Labs Early Career
+  slug: "asteraearlycareer2027"
 - name: Astranis Space Technologies
   slug: "astranis"
 - name: Astronics
@@ -173,8 +181,12 @@ greenhouse:
   slug: "atomicobject"
 - name: Atoms
   slug: "cssmerge"
+- name: Atoms AI
+  slug: "atoms"
 - name: AtriCure
   slug: "co-op_intern"
+- name: Attain Partners
+  slug: "attainpartners"
 - name: Attention Arc
   slug: "attentionarc"
 - name: Attentive
@@ -189,6 +201,8 @@ greenhouse:
   slug: "authenticbrandsgroup"
 - name: Authentic Insurance
   slug: "authenticinsurance"
+- name: Avante
+  slug: "avante"
 - name: AvePoint
   slug: "avepoint"
 - name: AvidXchange
@@ -221,6 +235,10 @@ greenhouse:
   slug: "beauhurst"
 - name: Bertram Capital Management
   slug: "bertramcapitalmanagement"
+- name: Beta Technologies
+  slug: "betatechnologiesinc"
+- name: BetterHelp
+  slug: "betterhelpcom"
 - name: Betterment
   slug: "betterment"
 - name: Bevi
@@ -235,6 +253,8 @@ greenhouse:
   slug: "billcom"
 - name: BillionToOne
   slug: "billiontoone"
+- name: Biohub
+  slug: "biohub"
 - name: Birdy Grey
   slug: "birdygrey"
 - name: BitGo
@@ -265,6 +285,8 @@ greenhouse:
   slug: "bluestaq"
 - name: Boerboel
   slug: "boerboeltrading"
+- name: Boom Supersonic
+  slug: "boomilp"
 - name: Bot Auto
   slug: "botauto"
 - name: Bottom Line
@@ -273,6 +295,8 @@ greenhouse:
   slug: "boxinc"
 - name: Bracebridge Capital
   slug: "bracebridgecapital"
+- name: Brain Corp
+  slug: "braincorporation"
 - name: Brave
   slug: "brave"
 - name: Braze
@@ -301,6 +325,8 @@ greenhouse:
   slug: "butternutbox"
 - name: C3.ai
   slug: "c3ascend"
+- name: C3.ai Jobs
+  slug: "c3iot"
 - name: Cadence Solutions
   slug: "solutions"
 - name: Cadwell
@@ -459,6 +485,8 @@ greenhouse:
   slug: "dataiku"
 - name: DB E.C.O. North America
   slug: "dbeconorthamerica"
+- name: DeepLocal
+  slug: "deeplocal"
 - name: Defense Unicorns
   slug: "defenseunicorns"
 - name: Deliveroo
@@ -583,6 +611,8 @@ greenhouse:
   slug: "fairlife"
 - name: Fanatics
   slug: "fanaticsinc"
+- name: Fanatics Collectibles
+  slug: "fanaticscollectibles"
 - name: Faraday Future
   slug: "faradayfuture"
 - name: Farmers Mutual Hail
@@ -639,6 +669,8 @@ greenhouse:
   slug: "freeformfuturecorp"
 - name: Freestone Capital Management
   slug: "freestonecapitalmanagement"
+- name: Further Early Career
+  slug: "furtherearlycareer"
 - name: Fussball Club Cincinnati LLC (“FC Cincinnati”)
   slug: "fccincinnati"
 - name: Galaxy
@@ -847,6 +879,8 @@ greenhouse:
   slug: "ionq"
 - name: Iovance Biotherapeutics
   slug: "iovancebiotherapeutics"
+- name: iSAM
+  slug: "isam"
 - name: iSpot.tv
   slug: "ispottv"
 - name: ITS Logistics
@@ -937,6 +971,8 @@ greenhouse:
   slug: "logicgate"
 - name: Lucid Motors
   slug: "lucidmotors"
+- name: Lucid Software
+  slug: "lucidsoftware"
 - name: Ludo Robotics
   slug: "ludorobotics"
 - name: Lumos
@@ -987,6 +1023,8 @@ greenhouse:
   slug: "meriton"
 - name: MerQube
   slug: "merqube"
+- name: Method
+  slug: "method"
 - name: MetOx International
   slug: "metoxinternationalinc"
 - name: Metron
@@ -1063,6 +1101,8 @@ greenhouse:
   slug: "newsela"
 - name: Newton Research
   slug: "newtonresearch"
+- name: Nex
+  slug: "nex"
 - name: Nexla
   slug: "nexla"
 - name: Nextdoor
@@ -1095,6 +1135,8 @@ greenhouse:
   slug: "oldcastlebuildingenvelope"
 - name: Ocado Group
   slug: "ocadogroup"
+- name: Octaura
+  slug: "octaura"
 - name: OfferUp
   slug: "offerup"
 - name: OH.io
@@ -1345,6 +1387,8 @@ greenhouse:
   slug: "sage49"
 - name: Samaya AI
   slug: "samayaai"
+- name: SambaNova Systems
+  slug: "sambanovasystems"
 - name: Samsara
   slug: "samsara"
 - name: Samsung Research America
@@ -1367,6 +1411,8 @@ greenhouse:
   slug: "scotch"
 - name: Scout Motors
   slug: "scoutmotors"
+- name: Scout Space
+  slug: "scoutspace"
 - name: SeatGeek
   slug: "seatgeek"
 - name: Secretariat
@@ -1551,6 +1597,8 @@ greenhouse:
   slug: "thenuclearcompany"
 - name: The Trade Desk
   slug: "thetradedesk"
+- name: THG Ingenuity
+  slug: "thgingenuity"
 - name: Think Academy International Education
   slug: "thinkacademyus"
 - name: ThreatLocker
@@ -1765,6 +1813,8 @@ lever:
   slug: "actian"
 - name: Aera Technology
   slug: "aeratechnology"
+- name: Aeva
+  slug: "aeva"
 - name: Agate Software
   slug: "agatesoftware"
 - name: Agile Defense
@@ -3860,6 +3910,10 @@ workday:
   tenant: "bci"
   instance: "wd10"
   board: "BCI_Careers"
+- name: Broadcom
+  tenant: "broadcom"
+  instance: "wd1"
+  board: "external_career"
 - name: Broadridge
   tenant: "broadridge"
   instance: "wd5"
@@ -7828,6 +7882,10 @@ workday:
   tenant: "spartannash"
   instance: "wd1"
   board: "SpartanNash_Careers"
+- name: Specialized
+  tenant: "specialized"
+  instance: "wd5"
+  board: "Specialized_External_Career_Site"
 - name: Spectrum Control
   tenant: "spectrumcontrol"
   instance: "wd1"
@@ -8192,6 +8250,10 @@ workday:
   tenant: "tibco"
   instance: "wd5"
   board: "cloud_software_group"
+- name: Tidal Wave Auto Spa
+  tenant: "tidalwaveautospa"
+  instance: "wd1"
+  board: "TWAS"
 - name: TJX
   tenant: "tjx"
   instance: "wd1"
@@ -12826,7 +12888,15 @@ avature:
   - "Student"
   - "Early Career"
   - "Intern"
-
+- name: ManTech
+  portal: "mantech"
+  keywords:
+  - "2027"
+  - "Internship"
+  - "Graduate"
+  - "Student"
+  - "Early Career"
+  - "Intern"
 linkedin:
 - name: Apple
   company_id: "162479"
@@ -12918,6 +12988,8 @@ ashby:
   slug: "amplify"
 - name: Amplitude
   slug: "amplitude"
+- name: Ande
+  slug: "ande"
 - name: Ando
   slug: "ando"
 - name: Anima
@@ -12948,14 +13020,20 @@ ashby:
   slug: "armadin"
 - name: ARQ
   slug: "arq"
+- name: Artificial Analysis
+  slug: "artificialanalysis"
 - name: Ashby
   slug: "ashby"
 - name: Assort Health
   slug: "assorthealth"
 - name: Astera Institute
   slug: "astera"
+- name: Astro Mechanica
+  slug: "astro-mechanica"
 - name: Astronomer
   slug: "astronomer"
+- name: Atalanta
+  slug: "atalanta"
 - name: Atomic Invest (AtomicVest)
   slug: "atomic-invest"
 - name: Atomic Semi
@@ -12970,6 +13048,8 @@ ashby:
   slug: "aurelian"
 - name: Aurelius Systems
   slug: "aureliussystems"
+- name: Aurora Operations
+  slug: "aurora-operations-inc"
 - name: Authorium
   slug: "Authorium"
 - name: Avoca AI
@@ -12986,6 +13066,8 @@ ashby:
   slug: "base-power"
 - name: Baseten
   slug: "baseten"
+- name: Basis Research
+  slug: "basis-research"
 - name: Beacon AI
   slug: "beaconai"
 - name: Beacon Software
@@ -13054,6 +13136,8 @@ ashby:
   slug: "Carwow"
 - name: Castle
   slug: "castle"
+- name: Category Labs
+  slug: "category-labs"
 - name: Centerfield
   slug: "centerfield"
 - name: Cerebras
@@ -13140,6 +13224,8 @@ ashby:
   slug: "context"
 - name: Contoro
   slug: "contoro"
+- name: Conveo
+  slug: "conveo"
 - name: Coram AI
   slug: "coram-ai"
 - name: Corvus Robotics
@@ -13190,6 +13276,8 @@ ashby:
   slug: "deliveroo"
 - name: Dexmate
   slug: "dexmate"
+- name: Didero
+  slug: "didero"
 - name: Dipper
   slug: "dipper"
 - name: Discernis
@@ -13318,6 +13406,8 @@ ashby:
   slug: "focused"
 - name: Form Energy
   slug: "formenergy"
+- name: Formulary
+  slug: "formulary"
 - name: Fortell
   slug: "fortell"
 - name: Fortuna Health
@@ -13362,6 +13452,8 @@ ashby:
   slug: "generalintuition-medal"
 - name: General Magic
   slug: "generalmagic"
+- name: General Translation
+  slug: "generaltranslation"
 - name: Generalist
   slug: "generalist"
 - name: Generate Capital
@@ -15350,7 +15442,58 @@ workable:
 - name: Zippd
   slug: "zippd"
 
+applytojob:
+- name: Advyzon
+  slug: "advyzon"
+- name: Aerotech
+  slug: "aerotech"
+- name: Alexandria Insights
+  slug: "alexandriainsights"
+- name: Amsive
+  slug: "amsive"
+- name: Artera Technologies
+  slug: "arteratechnologies"
+- name: ASR International
+  slug: "asrinternationalcorp"
+- name: Axtria
+  slug: "axtriainc"
+- name: Bestgate Engineering
+  slug: "bestgateengineering"
+- name: Black Cape
+  slug: "blackcape"
+- name: BodySpec
+  slug: "bodyspec"
+- name: Bright Silicon Technologies
+  slug: "brightsilicontechnologies"
+- name: Busek
+  slug: "busek"
+- name: Calyx Containers
+  slug: "calyxcontainers"
+- name: Centurum
+  slug: "centurum"
+- name: Circuit Board Medics
+  slug: "circuitboardmedics"
+- name: CloudFit Software
+  slug: "cloudfitsoftware"
+- name: Crackajack Digital Solutions
+  slug: "crackajackdigitalsolutionsllc"
+- name: EAi Technologies
+  slug: "eaiti"
+- name: HarmonyTech
+  slug: "harmonytech"
+- name: Laansu
+  slug: "laansu"
+- name: Peterson Technologies
+  slug: "petersontechnologies"
+- name: Validity
+  slug: "validity"
 pinpoint:
+- name: Confluence Technologies
+  slug: "confluence"
+- name: IDT
+  slug: "idtus"
+- name: Impulse Space
+  slug: "impulsespace"
 - name: Wolverine Trading
   slug: "wolve"
 ukg:
@@ -15512,12 +15655,28 @@ ukg:
   tenant: "WIS1003"
   board: "e6da0c90-f987-63dc-99a9-fb8c9014f57e"
 bamboohr:
+- name: Adidev Technologies
+  slug: "adidev"
+- name: Alkira
+  slug: "alkira"
 - name: All Options
   slug: "alloptions"
+- name: Apollo MCE
+  slug: "apollomce"
+- name: Avnan
+  slug: "avnan"
+- name: Berkshire Grey
+  slug: "berkshiregrey"
+- name: Context Labs
+  slug: "contextlabs"
 - name: Convverge
   slug: "convverge"
+- name: Digital.ai
+  slug: "digitalai"
 - name: EUNA Solutions
   slug: "euna"
+- name: Expedock
+  slug: "expedock"
 - name: Flare
   slug: "flare"
 - name: Gradient MSP
@@ -15544,12 +15703,24 @@ bamboohr:
 breezy:
 - name: Forge Nano
   slug: "forge-nano"
+- name: JND Inc
+  slug: "jnd-inc"
 - name: Logan A/C & Heat Services
   slug: "logan-a-c-heat-services-b29ac6f9712d"
 - name: LufCo
   slug: "lufco"
+- name: Lumerate
+  slug: "lumerate"
+- name: NavAide
+  slug: "navaide"
 - name: Ninja Holdings
   slug: "ninjaholdings"
+- name: North Wind Group
+  slug: "north-wind-group"
+- name: NucleusTeq
+  slug: "nucleusteq"
+- name: Pyrovio
+  slug: "pyrovio"
 - name: Vetsez
   slug: "vetsez"
 
@@ -15563,7 +15734,15 @@ phenom:
   path: "/us/en/search-results"
 
 careers_portal:
+- name: Aon
+  host: "jobs.aon.com"
 - name: Garmin
   host: "careers.garmin.com"
 - name: Johns Hopkins Applied Physics Laboratory
   host: "careers.jhuapl.edu"
+- name: Panasonic
+  host: "careers.na.panasonic.com"
+- name: Planview
+  host: "careers.planview.com"
+- name: ViaSat
+  host: "careers.viasat.com"

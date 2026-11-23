@@ -8,27 +8,31 @@ This file is the source of truth for gaps. Companies listed under `companies.yml
 
 | Source | Mechanism | Config |
 | --- | --- | --- |
-| Greenhouse | public boards API | `companies.yml` → `greenhouse` (872 boards) |
-| Lever | public postings API | `lever` (326) |
-| Ashby | posting API | `ashby` (765) |
-| Workday | CXS jobs API | `workday` (1506) |
+| Greenhouse | public boards API | `companies.yml` → `greenhouse` (900 boards) |
+| Lever | public postings API | `lever` (329) |
+| Ashby | posting API | `ashby` (777) |
+| Workday | CXS jobs API | `workday` (1509) |
 | SmartRecruiters | public postings API | `smartrecruiters` (227) |
 | iCIMS | search API | `icims` (302) |
 | Oracle HCM | CE recruit API | `oracle` (181) |
-| Workable | public accounts API | `workable` (209) |
-| UKG / UltiPro | LoadSearchResults | `ukg` (36) |
-| BambooHR | `/careers/list` | `bamboohr` (14) |
-| Breezy | `/json` | `breezy` (4) |
+| Workable | public accounts API | `workable` (212) |
+| UKG / UltiPro | LoadSearchResults | `ukg` (39) |
+| BambooHR | `/careers/list` | `bamboohr` (22) |
+| Breezy | `/json` | `breezy` (11) |
 | Dover | `/feed/v1/boards/{slug}/jobs` | `dover` (1) |
 | Phenom | `/widgets` refineSearch | `phenom` (1) |
-| Avature / Pinpoint / Recruitee | public APIs | see `companies.yml` |
+| Avature | portal search API | `avature` (2) |
+| Pinpoint | `/postings.json` | `pinpoint` (4) |
+| Careers portal | `/api/jobs` | `careers_portal` (6) |
+| ApplyToJob / JazzHR | `/apply` HTML list | `applytojob` (22) |
+| Recruitee | public API | see `companies.yml` |
 | Google | careers.google.com HTML search | built-in (`linkedin_amazon` group) |
 | Amazon | amazon.jobs JSON search | built-in (`linkedin_amazon` group) |
 | LinkedIn company pages | Apify job search | `linkedin` (8 companies: Apple, Microsoft, Meta, …) |
 
-## Not scraped (294 companies)
+## Not scraped (286 companies)
 
-### Custom / blocked / no public ATS API (162)
+### Custom / blocked / no public ATS API (155)
 
 Aflac (unknown ATS — careers page blocked)
 Air Canada (no public ATS API found)
@@ -36,7 +40,6 @@ Akkodis (no public ATS API found)
 Allbirds (no public ATS API found)
 American Airlines (no public ATS API found)
 Anheuser-Busch InBev (no public ATS API found)
-Aon plc (no public ATS API found)
 AQR Capital Management (no public ATS API found)
 Arkansas Center for Data Sciences (YC-hosted job listing — no public ATS API)
 Athenahealth (no public ATS API found)
@@ -47,7 +50,6 @@ Bandai Namco Entertainment America (no public ATS API found)
 Battelle (custom careers site — jobs.battelle.org)
 Bell Canada (no public ATS API found)
 Beltways (custom career site — beltways.com/careers)
-Black Cape (ATS not confirmed — career site does not expose a scrapable public API)
 BMW North America (no public ATS API found)
 ByteDance (ATS endpoint unreachable or returns error)
 Canadian National Railway (no public ATS API found)
@@ -59,7 +61,6 @@ Charter Communications (no public ATS API found)
 Chubb Limited (no public ATS API found)
 Citadel (ATS endpoint unreachable or returns error)
 Citadel Securities (no public ATS API found)
-CloudFit Software (ApplyToJob — no public API support)
 Clover Health (no public ATS API found)
 Coalition (custom careers site — coalitioninc.com)
 Coca-Cola Company (no public ATS API found)
@@ -95,7 +96,6 @@ Hudson River Trading (Ashby board exists but public API is disabled — uses cus
 Hyatt Hotels Corporation (no public ATS API found)
 IHG Hotels & Resorts (no public ATS API found)
 Illinois Tool Works (no public ATS API found)
-Impulse Space (Pinpoint HQ ATS — not supported)
 ING Americas (ATS not confirmed — careers.ing.com does not expose a scrapable API; US intern roles are rare and require manual review)
 Integration Innovation (i3) (iCIMS — no public API support)
 Interactive Brokers (Dayforce HCM — fully JS-rendered SPA, no scrapable API; manual browser check required)
@@ -115,7 +115,6 @@ Lumen Technologies (no public ATS API found)
 Lumenalta (ATS not confirmed — closed listing)
 Magna International (no public ATS API found)
 Man Group (no public ATS API found)
-ManTech (Avature ATS — not supported)
 Mars Incorporated (no public ATS API found)
 Marsh McLennan (no public ATS API found)
 MathWorks (custom career portal at recruitment.mathworks.com — Cloudflare-protected, JS-rendered; SmartRecruiters board exists but returns 0 postings)
@@ -181,10 +180,8 @@ Union Pacific Railroad (no public ATS API found)
 United Airlines (no public ATS API found)
 Unity Technologies (custom careers site)
 Universal Robots (Teradyne ATS — not supported)
-Validity (ApplyToJob ATS — not supported)
 VAST Data (Comeet ATS — not supported)
 VF Corporation (no public ATS API found)
-Viasat (iCIMS custom domain — no exposed tenant slug)
 Volkswagen Group of America (no public ATS API found)
 Warby Parker (no public ATS API found)
 Whirlpool Corporation (no public ATS API found)
@@ -193,7 +190,7 @@ X Development (Google Careers (proprietary) — no public ATS API)
 XPO Logistics (no public ATS API found)
 Yum! Brands (no public ATS API found)
 
-### SmartRecruiters board invalid or empty (103)
+### SmartRecruiters board invalid or empty (102)
 
 A.T. Kearney (SmartRecruiters API returns 0 postings — not a valid company board)
 Activision Blizzard (SmartRecruiters API returns 0 postings — not a valid company board)
@@ -206,7 +203,6 @@ Bentley Systems (SmartRecruiters API returns 0 postings — not a valid company 
 BlackBerry Limited (SmartRecruiters API returns 0 postings — not a valid company board)
 BNP Paribas (SmartRecruiters API returns 0 postings — not a valid company board)
 Boston Consulting Group (SmartRecruiters API returns 0 postings — not a valid company board)
-Broadcom (SmartRecruiters API returns 0 postings — not a valid company board)
 Capgemini (SmartRecruiters API returns 0 postings — not a valid company board)
 Caterpillar (SmartRecruiters API returns 0 postings — not a valid company board)
 Celestica (SmartRecruiters API returns 0 postings — not a valid company board)
@@ -360,4 +356,3 @@ CALSTART (lever — HTTP 404)
 Family Health Centers of San Diego (Workday tenant: fhcsd — healthcare nonprofit, marginal scope)
 Lockheed Martin (Workday — endpoint unreachable)
 Revionics (acquired by Aptos — jobs posted under Aptos Workday instance; no separate Revionics board)
-

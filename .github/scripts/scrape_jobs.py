@@ -1674,6 +1674,50 @@ def scrape_pinpoint(company, slug):
         return []
 
 
+def scrape_applytojob(company, slug):
+    """JazzHR / ApplyToJob public openings list: https://{slug}.applytojob.com/apply"""
+    slug = (slug or '').strip()
+    if not slug:
+        return []
+    jobs = []
+    try:
+        resp = _get(f'https://{slug}.applytojob.com/apply', timeout=(10, 30))
+        if resp.status_code != 200:
+            print(f'  [{company}] ApplyToJob HTTP {resp.status_code}')
+            return []
+        seen = set()
+        for m in re.finditer(
+            r'href="(https://[^"]+\.applytojob\.com/apply/([A-Za-z0-9]+)/([^"]+))"',
+            resp.text,
+        ):
+            url, jid, title_slug = m.group(1), m.group(2), m.group(3)
+            if jid in seen:
+                continue
+            seen.add(jid)
+            title = title_slug.replace('-', ' ').strip()
+            after = resp.text[m.end():m.end() + 300]
+            tm = re.search(r'>\s*([^<]{4,120}?)\s*<', after)
+            if tm:
+                cand = re.sub(r'\s+', ' ', tm.group(1)).strip()
+                if cand and cand.lower() not in ('apply', 'view', 'read more'):
+                    title = cand
+            if not is_candidate_title(title):
+                continue
+            # Index pages rarely expose structured locations; these boards are US-focused.
+            location = 'United States'
+            jobs.append({
+                'id': f'applytojob_{slug}_{jid}',
+                'company': company,
+                'title': title,
+                'location': location,
+                'url': url.split('?')[0],
+                'board': 'ApplyToJob',
+            })
+    except Exception as e:
+        print(f'  [{company}] ApplyToJob error: {e}')
+    return jobs
+
+
 def scrape_careers_portal(company, host):
     """Public /api/jobs JSON used by Garmin, JHU APL, and similar careers sites."""
     host = (host or '').strip().rstrip('/')
@@ -1684,22 +1728,24 @@ def scrape_careers_portal(company, host):
     base = f'https://{host}'
     jobs = []
     seen = set()
-    # Broad campus keywords; title filter + Claude handle the rest.
-    queries = ['intern', 'internship', 'new grad', 'graduate', '2027', 'co-op', 'student']
+    # Empty keyword catches boards that ignore campus search terms (e.g. Planview).
+    queries = ['', 'software', 'intern', 'internship', 'new grad', 'graduate', '2027', 'co-op', 'student']
     try:
         for keyword in queries:
             page = 1
             while page <= 20:
+                params = {
+                    'limit': 100,
+                    'page': page,
+                    'internal': 'false',
+                    'sortBy': 'relevance',
+                    'descending': 'false',
+                }
+                if keyword:
+                    params['keywords'] = keyword
                 resp = _get(
                     f'{base}/api/jobs',
-                    params={
-                        'keywords': keyword,
-                        'limit': 100,
-                        'page': page,
-                        'internal': 'false',
-                        'sortBy': 'relevance',
-                        'descending': 'false',
-                    },
+                    params=params,
                     timeout=(10, 30),
                 )
                 if resp.status_code != 200:
@@ -2731,6 +2777,7 @@ _BOARD_GROUP_BOARDS = {
     'other': {
         'lever', 'smartrecruiters', 'workable', 'recruitee', 'pinpoint',
         'icims', 'avature', 'breezy', 'dover', 'phenom', 'careers_portal',
+        'applytojob',
     },
 }
 
@@ -2868,6 +2915,15 @@ def main():
                 entry['name'],
                 entry['host'],
                 'careers_portal',
+            ))
+
+    if included_boards is None or 'applytojob' in included_boards:
+        for entry in config.get('applytojob', []):
+            scrape_tasks.append((
+                scrape_applytojob,
+                entry['name'],
+                entry['slug'],
+                'applytojob',
             ))
 
     if included_boards is None or 'linkedin' in included_boards:
