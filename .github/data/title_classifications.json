@@ -148075,5 +148075,54 @@
     "c": "low",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "associate director, analytics and performance excellence (apex) specialty pcs": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "principal scientist i, (analytical lead) tlnp analytical r&d": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "security officer- ft": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "sr advisory solution consultant \u2013 security, identity & exposure management\u00a0- west coast (armis/veza) ": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  ".net/c# senior software developer": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "talent advisor - early talent team": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "engineer-in-training - bridges (summer 2027)": {
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "oracle epm technical lead, financial planning & reporting - financial management systems & solutions": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
