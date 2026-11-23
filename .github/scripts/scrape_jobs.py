@@ -4,6 +4,7 @@ import json
 import os
 import re
 import subprocess
+import threading
 import time
 import html as _html
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -49,8 +50,53 @@ _session.mount('https://', HTTPAdapter(max_retries=_retry_policy(), pool_maxsize
 
 _workday_session = requests.Session()
 _workday_session.mount(
-    'https://', HTTPAdapter(max_retries=_workday_retry_policy(), pool_maxsize=16)
+    'https://', HTTPAdapter(max_retries=_workday_retry_policy(), pool_maxsize=8)
 )
+
+# Global CXS pacing — shared across worker threads so we don't stampede into 429s.
+_workday_gate = threading.Lock()
+_workday_next_ok = 0.0
+_workday_interval = 0.35  # seconds between CXS calls; grows on 429, shrinks on success
+_WORKDAY_INTERVAL_MIN = 0.25
+_WORKDAY_INTERVAL_MAX = 8.0
+
+
+def _workday_post(api_url, payload, headers, timeout=(8, 20)):
+    """Pace Workday CXS calls and retry a couple times on 429 with backoff."""
+    global _workday_next_ok, _workday_interval
+    last_resp = None
+    for attempt in range(3):
+        with _workday_gate:
+            now = time.monotonic()
+            wait = max(0.0, _workday_next_ok - now)
+            # Reserve the next slot before releasing the lock / hitting the network.
+            _workday_next_ok = now + wait + _workday_interval
+        if wait > 0:
+            time.sleep(wait)
+        try:
+            resp = _workday_session.post(
+                api_url, json=payload, headers=headers, timeout=timeout,
+            )
+        except Exception:
+            with _workday_gate:
+                _workday_next_ok = max(_workday_next_ok, time.monotonic() + _workday_interval)
+            raise
+        last_resp = resp
+        if resp.status_code == 429:
+            with _workday_gate:
+                _workday_interval = min(
+                    _WORKDAY_INTERVAL_MAX, max(_workday_interval * 1.8, 1.5),
+                )
+                _workday_next_ok = max(
+                    _workday_next_ok, time.monotonic() + _workday_interval,
+                )
+            time.sleep(min(2.5, 0.5 * (attempt + 1)))
+            continue
+        if resp.status_code == 200:
+            with _workday_gate:
+                _workday_interval = max(_WORKDAY_INTERVAL_MIN, _workday_interval * 0.92)
+        return resp
+    return last_resp
 
 
 def _request_with_timeout(*args, **kwargs):
@@ -122,7 +168,7 @@ ORACLE_SEARCH_TERMS = (
     'Analyst Program', 'co-op', 'university', 'entry level', 'early career',
 )
 SCRAPER_MAX_WORKERS = int(os.environ.get('SCRAPER_MAX_WORKERS', '12'))
-WORKDAY_MAX_WORKERS = int(os.environ.get('WORKDAY_MAX_WORKERS', '4'))
+WORKDAY_MAX_WORKERS = int(os.environ.get('WORKDAY_MAX_WORKERS', '2'))
 ICIMS_CAMPUS_KEYWORDS = [
     '2027', 'Intern', 'Internship', 'New Grad', 'Campus',
     'Graduate', 'Student', 'Early Career', 'co-op', 'Associate',
@@ -1945,12 +1991,11 @@ def scrape_workday(company, tenant, instance, board):
                 'searchText': search_term,
             }
             try:
-                # Use a dedicated session that does not retry HTTP 429.
-                resp = _workday_session.post(
-                    api_url, json=payload, headers=wd_headers, timeout=(8, 20),
-                )
+                resp = _workday_post(api_url, payload, wd_headers)
+                if resp is None:
+                    break
                 if resp.status_code == 429:
-                    print(f'  [{company}] Workday HTTP 429 — skipping remaining terms')
+                    print(f'  [{company}] Workday HTTP 429 after retries — skipping board')
                     return jobs
                 if resp.status_code != 200:
                     print(f'  [{company}] Workday HTTP {resp.status_code} for "{search_term}"')
@@ -1981,13 +2026,11 @@ def scrape_workday(company, tenant, instance, board):
                 pages_fetched += 1
                 if offset >= total or pages_fetched >= MAX_WORKDAY_PAGES_PER_TERM:
                     break
-                time.sleep(0.15)
             except Exception as e:
                 err = str(e)
                 print(f'  [{company}] Workday error for "{search_term}": {e}')
-                # urllib3 may still surface 429 as Max retries / ResponseError
                 if '429' in err:
-                    print(f'  [{company}] Workday rate-limited — skipping remaining terms')
+                    print(f'  [{company}] Workday rate-limited — skipping board')
                     return jobs
                 break
 

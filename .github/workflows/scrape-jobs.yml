@@ -113,7 +113,7 @@ jobs:
         timeout-minutes: 120
         env:
           BOARD_GROUP: workday
-          WORKDAY_MAX_WORKERS: '4'
+          WORKDAY_MAX_WORKERS: '2'
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
         run: python .github/scripts/scrape_jobs.py
