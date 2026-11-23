@@ -142579,5 +142579,18 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "operations data analyst": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "technical specialist, audio visual (audio, a1) full time - production team, south florida": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
