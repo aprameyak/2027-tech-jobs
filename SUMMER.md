@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4708 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4715 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -15,6 +15,8 @@
 | ↳ | 2027 Finance Data Analyst Intern | Costa Mesa, CA | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007&utm_source=aprameyak) | Nov 23 |
 | ↳ | 2027 Flight Software Engineer Intern | Costa Mesa, CA | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007&utm_source=aprameyak) | Nov 23 |
 | ↳ | 2027 Systems Engineer Intern | <details><summary>**5 locations**</summary>Boston, MA</br>Costa Mesa, CA</br>Fort Collins, CO</br>Reston, VA</br>Seattle, WA</details> | Masters | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007&utm_source=aprameyak) | Nov 23 |
+| Aon | 2027 IT / Cybersecurity Engineer Intern - Chicago, IL | Chicago, IL | Undergrad | [Apply](https://jobs.aon.com/jobs/110098?lang=en-us) | Nov 23 |
+| ↳ | 2027 IT / AI Engineer Intern - Chicago, IL | Chicago, IL | Undergrad | [Apply](https://jobs.aon.com/jobs/110099?lang=en-us) | Nov 23 |
 | Applied Research Associates | Software Quality Assurance Intern | Baton Rouge, LA | Undergrad | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=bdbeeabf-bf21-41d9-9034-d01be04c59f6) | Nov 23 |
 | ↳ | Software Engineer Intern | Baton Rouge, LA | Undergrad | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=0e5ea52f-9c4b-45f8-9a60-86678d8e3fd8) | Nov 23 |
 | Avista | Fleet Operations Data Intern (Data Analytics/Science, Acturial Science, Business Majors) | Spokane, WA | Undergrad | [Apply](https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=99b68bca-853c-4512-a758-80fa46bf30b5&utm_source=aprameyak) | Nov 23 |
@@ -25,6 +27,7 @@
 | ↳ | Deployments Engineering Intern | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/base-power/0f7fefdb-7218-40c6-893f-859b08fb3935/application?utm_source=aprameyak) | Nov 23 |
 | Benchling | Software Engineer, Intern (Summer 2027) | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?utm_source=aprameyak) | Nov 23 |
 | Bennett Thrasher | IT Intern - AI & Automation | Atlanta, GA | Undergrad | [Apply](https://btcpa.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2/OpportunityDetail?opportunityId=4d519358-fb57-46be-8018-838c26e1bf4a) | Nov 23 |
+| Black Cape | US Military Skillbridge Internship (Software Engineer)_Arlington, VA | Remote (US) | Undergrad | [Apply](https://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA?utm_source=aprameyak) | Nov 23 |
 | Calamos Investments | IT Research Development Intern | Naperville, IL | Undergrad | [Apply](https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=8ba1e4ff-1ee1-46ab-b93f-9a4e4b6eb487) | Nov 23 |
 | ↳ | Cloud Engineer Intern | Naperville, IL | Undergrad | [Apply](https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=f8490955-c876-418d-9722-254f4c7306d9) | Nov 23 |
 | ↳ | Application Development Intern | Naperville, IL | Undergrad | [Apply](https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=63353a2a-47a7-4b97-9015-c34af4213bcf) | Nov 23 |
@@ -90,6 +93,8 @@
 | IDEMIA | Information Technology Internship | Eden Prairie, MN | Undergrad | [Apply](https://uscareers-idemia.icims.com/jobs/8704/information-technology-internship/job?utm_source=aprameyak) | Nov 23 |
 | ↳ | Information Technology Internship | Eden Prairie, MN | Undergrad | [Apply](https://uscareers-idemia.icims.com/jobs/8665/information-technology-internship/job?utm_source=aprameyak) | Nov 23 |
 | ↳ | Technical Customer Support Internship | Eden Prairie, MN | Undergrad | [Apply](https://uscareers-idemia.icims.com/jobs/8662/technical-customer-support-internship/job?utm_source=aprameyak) | Nov 23 |
+| Impulse Space | Information Technology Intern, Service Delivery (Summer 2027) | Redondo Beach, CA | Undergrad | [Apply](https://impulsespace.pinpointhq.com/en/postings/6ca1131c-5fc0-4f79-ade9-245d225f0f8e?utm_source=aprameyak) | Nov 23 |
+| ↳ | Enterprise Software Engineering Intern (Summer 2027) | Redondo Beach, CA | Undergrad | [Apply](https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579?utm_source=aprameyak) | Nov 23 |
 | Integra FEC | (SPRING) Data Analyst Intern | Austin, TX | Undergrad | [Apply](https://job-boards.greenhouse.io/integra/jobs/5406100008?utm_source=aprameyak) | Nov 23 |
 | ↳ | (SPRING) Data Scientist Intern - PhD | Austin, TX | PhD | [Apply](https://job-boards.greenhouse.io/integra/jobs/5406092008?utm_source=aprameyak) | Nov 23 |
 | ↳ | (SUMMER) Data Analyst Intern | Austin, TX | Undergrad | [Apply](https://job-boards.greenhouse.io/integra/jobs/5406109008?utm_source=aprameyak) | Nov 23 |
@@ -111,6 +116,8 @@
 | ↳ | 2027 Internship - Software Developer - Tactical System Prototyping and Deployment | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/59564?lang=en-us) | Nov 23 |
 | ↳ | 2027 Internship - Military Systems Cybersecurity Engineer | Laurel, MD | Masters | [Apply](https://careers.jhuapl.edu/jobs/59759?lang=en-us) | Nov 23 |
 | Logan A/C & Heat Services | Junior Business Systems & Automation Developer | Vandalia, OH | Masters | [Apply](https://logan-a-c-heat-services-b29ac6f9712d.breezy.hr/p/dcaae58041cb-junior-business-systems-automation-developer?utm_source=aprameyak) | Nov 23 |
+| ManTech 🇺🇸 | CNO Developer Intern - Active TS/SCI Required | Remote (US) | Undergrad | [Apply](https://careers.mantech.com/en_US/careers/JobDetail/CNO-Developer-Intern-Active-TS-SCI-Required/67182) | Nov 23 |
+| ↳ | CNO Developer Intern | Remote (US) | Undergrad | [Apply](https://careers.mantech.com/en_US/careers/JobDetail/CNO-Developer-Intern/66031) | Nov 23 |
 | Marias Technology | Software Tester Intern | Covington, OH | Undergrad | [Apply](https://mariastechnology.bamboohr.com/careers/25) | Nov 23 |
 | ↳ | Software Developer Intern | Covington, OH | Undergrad | [Apply](https://mariastechnology.bamboohr.com/careers/27) | Nov 23 |
 | Mawer Investment Management | AI Orchestrator Student | Calgary, AB | Undergrad | [Apply](https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0) | Nov 23 |

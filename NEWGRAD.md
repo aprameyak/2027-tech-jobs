@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-1578 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1589 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -15,12 +15,18 @@
 | Apollo MCE | Software Engineering Associate | Atlanta, GA |  | Undergrad | [Apply](https://apollomce.bamboohr.com/careers/96?utm_source=aprameyak) | Nov 23 |
 | Applied Research Associates | Junior Software Developer | Albuquerque, NM |  | Undergrad | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=4a45b594-2e7f-4042-9976-8a3b808265ca) | Nov 23 |
 | ↳ | Junior Information System Security Engineer (ISSE) | Raleigh, NC |  | Undergrad | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=7a72c316-97b1-4e8e-aeaf-057c7cd196aa) | Nov 23 |
+| ASR International | Junior Software Developer | Remote (US) |  | Undergrad | [Apply](https://asrinternationalcorp.applytojob.com/apply/E1mAsCvu98/Junior-Software-Developer?utm_source=aprameyak) | Nov 23 |
+| Axtria | Junior AI Engineer – GenAI &amp; Agentic AI Platform | Remote (US) |  | Undergrad | [Apply](https://axtriainc.applytojob.com/apply/XdoKY1dHJc/Junior-AI-Engineer-GenAI-Agentic-AI-Platform?utm_source=aprameyak) | Nov 23 |
 | BIS Safety Software | Junior Data Analyst | Sherwood Park, AB |  | Undergrad | [Apply](https://jobs.lever.co/bis/ce37713b-9922-4a73-999a-f0b8e544540b?utm_source=aprameyak) | Nov 23 |
+| Calyx Containers | Junior Software Developer – Print &amp; Packaging | Remote (US) |  | Undergrad | [Apply](https://calyxcontainers.applytojob.com/apply/HHSphZTCc2/Junior-Software-Developer-Print-Packaging?utm_source=aprameyak) | Nov 23 |
 | Digital.ai | Associate Software Engineer | Lafayette, IN |  | Undergrad | [Apply](https://digitalai.bamboohr.com/careers/75?utm_source=aprameyak) | Nov 23 |
+| EAi Technologies | Physics/Math Graduate - Entry Level Software Developer | Remote (US) |  | Undergrad | [Apply](https://eaiti.applytojob.com/apply/04bnB7a43f/PhysicsMath-Graduate-Entry-Level-Software-Developer?utm_source=aprameyak) | Nov 23 |
 | Encore Global | Associate Application Developer | Schiller Park, IL |  | Undergrad | [Apply](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=bf6ce5bb-f991-46de-a0cb-50f4f9577ee9&utm_source=aprameyak) | Nov 23 |
 | Integra FEC | Data Analyst / Associate Data Scientist | Austin, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/integra/jobs/5083082008?utm_source=aprameyak) | Nov 23 |
 | ↳ | Junior Data Scientist | Austin, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/integra/jobs/5487065008?utm_source=aprameyak) | Nov 23 |
 | Johns Hopkins Applied Physics Laboratory | 2027 PhD Graduate Software Engineering/ML/Data Scientist - Intelligence Systems | Laurel, MD | Spring 2027 | PhD | [Apply](https://careers.jhuapl.edu/jobs/59654?lang=en-us) | Nov 23 |
+| Laansu | Junior Software Developer | Remote (US) |  | Undergrad | [Apply](https://laansu.applytojob.com/apply/VlgxKiBUqZ/Junior-Software-Developer?utm_source=aprameyak) | Nov 23 |
+| ManTech | Junior Data Analyst | Remote (US) |  | Undergrad | [Apply](https://careers.mantech.com/en_US/careers/JobDetail/Junior-Data-Analyst/66379) | Nov 23 |
 | MITRE | Associate Data Scientist | Huntsville, AL |  | Undergrad | [Apply](https://mitre.wd5.myworkdayjobs.com/MITRE/job/Huntsville-AL/Associate-Data-Scientist_R118007-1/apply?utm_source=aprameyak) | Nov 23 |
 | ↳ | Associate Software Engineer | Bridgeport, WV |  | Undergrad | [Apply](https://mitre.wd5.myworkdayjobs.com/MITRE/job/Clarksburg-WV/Associate-Software-Engineer_R118003/apply?utm_source=aprameyak) | Nov 23 |
 | ↳ | Associate Data Scientist | McLean, VA |  | Undergrad | [Apply](https://mitre.wd5.myworkdayjobs.com/MITRE/job/McLean-VA/Associate-Data-Scientist_R117872-1/apply?utm_source=aprameyak) | Nov 23 |
@@ -28,12 +34,17 @@
 | ↳ | Associate Wireless Security Engineer | Bedford, MA |  | Undergrad | [Apply](https://mitre.wd5.myworkdayjobs.com/MITRE/job/Bedford-MA/Wireless---Security-Engineer-Associate_R116389/apply?utm_source=aprameyak) | Nov 23 |
 | Netholabs 🛂 🇺🇸 | Junior AI/ML Engineer | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393/application?utm_source=aprameyak) | Nov 23 |
 | Nintendo | CONTRACT - Associate Software Engineer, Audio (NTD) | Redmond, WA |  | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4251061009) | Nov 23 |
+| Peterson Technologies | Junior Software Engineer | Remote (US) |  | Undergrad | [Apply](https://petersontechnologies.applytojob.com/apply/mJHnHiXlvK/Junior-Software-Engineer?utm_source=aprameyak) | Nov 23 |
+| ↳ | Junior Software Engineer | Remote (US) |  | Undergrad | [Apply](https://petersontechnologies.applytojob.com/apply/Y3TD9CDM0V/Junior-Software-Engineer?utm_source=aprameyak) | Nov 23 |
+| ↳ | Junior Software Engineer | Remote (US) |  | Undergrad | [Apply](https://petersontechnologies.applytojob.com/apply/t5IYTkJDa2/Junior-Software-Engineer?utm_source=aprameyak) | Nov 23 |
+| ↳ | Junior Systems Engineer | Remote (US) |  | Masters | [Apply](https://petersontechnologies.applytojob.com/apply/2uAgpyT8YT/Junior-Systems-Engineer?utm_source=aprameyak) | Nov 23 |
 | Quantiq | Software Developer- New Graduate | Austin, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/quantiq/jobs/4280650009?utm_source=aprameyak) | Nov 23 |
 | Secureframe | Software Engineer, New Grad | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb/application?utm_source=aprameyak) | Nov 23 |
 | Self Financial | Associate Software Engineer | Austin, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/selffinancial/jobs/6255478004?utm_source=aprameyak) | Nov 23 |
 | Teza Technologies | Trading Platform Developer | Austin, TX |  | Undergrad | [Apply](https://jobs.ashbyhq.com/teza-technologies/28cde40f-178f-45f8-82ca-a913ef8b0812/application?utm_source=aprameyak) | Nov 23 |
 | Trimont | Technology Analyst Program (Trivinna) | Atlanta, GA |  | Undergrad | [Apply](https://recruiting.ultipro.com/TRI1039TRES/JobBoard/551314d5-926b-4475-808f-39d0e0248aed/OpportunityDetail?opportunityId=0f9e9990-efc0-4c9a-882b-4f23aeb82098&utm_source=aprameyak) | Nov 23 |
 | ↳ | Technology Analyst Program | Atlanta, GA |  | Undergrad | [Apply](https://recruiting.ultipro.com/TRI1039TRES/JobBoard/551314d5-926b-4475-808f-39d0e0248aed/OpportunityDetail?opportunityId=d6e6af65-2ea6-432c-939d-392a67e7bdf9&utm_source=aprameyak) | Nov 23 |
+| ViaSat | Associate Software Engineer, Early Career | Carlsbad, CA |  | Undergrad | [Apply](https://careers.viasat.com/jobs/7077?lang=en-us) | Nov 23 |
 | Wolverine Trading | Entry Level C++ Software Engineer | Chicago, IL |  | Undergrad | [Apply](https://careers.wolve.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8) | Nov 23 |
 | ↳ | Entry Level C++ Software Engineer (Spring 2027 Graduates) | Chicago, IL | Spring 2027 | Undergrad | [Apply](https://careers.wolve.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6) | Nov 23 |
 | ↳ | Entry Level C++ Software Engineer (December 2026 Graduates) | Chicago, IL |  | Undergrad | [Apply](https://careers.wolve.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e) | Nov 23 |
