@@ -26,9 +26,11 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
 
+**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
+
 - [☀️ Summer 2027 Internships](./SUMMER.md) (4681)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1206)
-- [🎓 New Grad 2027](./NEWGRAD.md) (1569)
+- [🎓 New Grad 2027](./NEWGRAD.md) (1570)
 
 ## Legend
 
@@ -212,7 +214,7 @@ Showing newest **75** of **1206** listings · [View full table](./OFFCYCLE.md)
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **1569** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **1570** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
@@ -234,6 +236,7 @@ Showing newest **75** of **1569** listings · [View full table](./NEWGRAD.md)
 | ↳ | Associate Data Scientist | McLean, VA |  | Undergrad | <a href="https://mitre.wd5.myworkdayjobs.com/MITRE/job/McLean-VA/Associate-Data-Scientist_R117872-1/apply?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Associate Data Scientist | Bridgeport, WV |  | Undergrad | <a href="https://mitre.wd5.myworkdayjobs.com/MITRE/job/Clarksburg-WV/Associate-Data-Scientist_R117791/apply?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Associate Wireless Security Engineer | Bedford, MA |  | Undergrad | <a href="https://mitre.wd5.myworkdayjobs.com/MITRE/job/Bedford-MA/Wireless---Security-Engineer-Associate_R116389/apply?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Netholabs 🛂 🇺🇸 | Junior AI/ML Engineer | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Nintendo | CONTRACT - Associate Software Engineer, Audio (NTD) | Redmond, WA |  | Undergrad | <a href="https://careers.nintendo.com/?gh_jid=4251061009"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Quantiq | Software Developer- New Graduate | Austin, TX |  | Undergrad | <a href="https://job-boards.greenhouse.io/quantiq/jobs/4280650009?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Secureframe | Software Engineer, New Grad | New York, NY |  | Undergrad | <a href="https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -292,7 +295,6 @@ Showing newest **75** of **1569** listings · [View full table](./NEWGRAD.md)
 | RTX | Engineering Development Program Engineer I (Onsite) | North Berwick, ME |  | Undergrad | <a href="https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Engineering-Development-Program-Engineer-I--Onsite-_01888350?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Barclays | S&T- Delta One Trading Analyst Graduate Program 2027 New York | New York, NY | Spring 2027 | Undergrad | <a href="https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/S-T--Delta-One-Trading-Analyst-Graduate-Program-2027-New-York_JR-0000118428?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Celonis 🛂 | Associate Technology Consultant - Galaxy Graduate Program | New York, NY |  | Undergrad | <a href="https://job-boards.greenhouse.io/celonis/jobs/8202446003?gh_jid=8202446003&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| ↳ | Associate Technology Consultant - Galaxy Graduate Program | Raleigh, NC |  | Undergrad | <a href="https://job-boards.greenhouse.io/celonis/jobs/8202449003?gh_jid=8202449003&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 <!-- TABLE_END newgrad -->
 
 ## License

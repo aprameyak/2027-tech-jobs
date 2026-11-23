@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-1569 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1570 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -22,6 +22,7 @@
 | ↳ | Associate Data Scientist | McLean, VA |  | Undergrad | [Apply](https://mitre.wd5.myworkdayjobs.com/MITRE/job/McLean-VA/Associate-Data-Scientist_R117872-1/apply?utm_source=aprameyak) | Nov 23 |
 | ↳ | Associate Data Scientist | Bridgeport, WV |  | Undergrad | [Apply](https://mitre.wd5.myworkdayjobs.com/MITRE/job/Clarksburg-WV/Associate-Data-Scientist_R117791/apply?utm_source=aprameyak) | Nov 23 |
 | ↳ | Associate Wireless Security Engineer | Bedford, MA |  | Undergrad | [Apply](https://mitre.wd5.myworkdayjobs.com/MITRE/job/Bedford-MA/Wireless---Security-Engineer-Associate_R116389/apply?utm_source=aprameyak) | Nov 23 |
+| Netholabs 🛂 🇺🇸 | Junior AI/ML Engineer | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393/application?utm_source=aprameyak) | Nov 23 |
 | Nintendo | CONTRACT - Associate Software Engineer, Audio (NTD) | Redmond, WA |  | Undergrad | [Apply](https://careers.nintendo.com/?gh_jid=4251061009) | Nov 23 |
 | Quantiq | Software Developer- New Graduate | Austin, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/quantiq/jobs/4280650009?utm_source=aprameyak) | Nov 23 |
 | Secureframe | Software Engineer, New Grad | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb/application?utm_source=aprameyak) | Nov 23 |
