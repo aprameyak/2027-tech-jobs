@@ -136223,5 +136223,18 @@
     "c": "high",
     "v": "cs-is-v4",
     "a": 0
+  },
+  ".net engineer intern": {
+    "t": true,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
+    "b": "s"
+  },
+  "sr. product manager, catalogsource and ordersource": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
