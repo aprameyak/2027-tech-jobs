@@ -32,8 +32,10 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4704)
-- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1206)
+**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
+
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4708)
+- [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1207)
 - [🎓 New Grad 2027](./NEWGRAD.md) (1578)
 
 ## Legend
@@ -48,7 +50,7 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4704** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4708** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
@@ -99,6 +101,8 @@ Showing newest **75** of **4704** listings · [View full table](./SUMMER.md)
 | Electric Power Engineers | Research & Development Intern | Austin, TX | Undergrad | <a href="https://careers-epeconsulting.icims.com/jobs/2387/research-%26-development-intern/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Research & Development Intern | Austin, TX | Undergrad | <a href="https://careers-epeconsulting.icims.com/jobs/2386/research-%26-development-intern/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Research & Development Intern | Austin, TX | Undergrad | <a href="https://careers-epeconsulting.icims.com/jobs/2287/research-%26-development-intern/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Emerson Electric | Software Engineering Intern | Austin, TX | Undergrad | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013632?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| ↳ | Software Engineering Intern | Austin, TX | Undergrad | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010840?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Encore Global | Event Technology Intern - San Diego | San Diego, CA | Undergrad | <a href="https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=a311dbae-ae82-4e59-a721-1c883cd5dcdf&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | IT Project Management Intern - Summer 2027 | Coppell, TX | Undergrad | <a href="https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=1703774b-da4a-4e0a-98ca-47fef1d94c5c&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | IT Data Analyst Intern– Summer 2027 | Schiller Park, IL | Undergrad | <a href="https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=00243c22-9228-4aab-8146-9699c52b1fa0&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -127,13 +131,11 @@ Showing newest **75** of **4704** listings · [View full table](./SUMMER.md)
 | ↳ | Software Engineering Intern | Tucson, AZ | Undergrad | <a href="https://careers.garmin.com/jobs/19848?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | IT DevOps Administrator Intern | Olathe, KS | Undergrad | <a href="https://careers.garmin.com/jobs/21321?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Cyber Security Engineer Intern | Olathe, KS | Undergrad | <a href="https://careers.garmin.com/jobs/20420?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
-| ↳ | Data Scientist Intern | Olathe, KS | Undergrad | <a href="https://careers.garmin.com/jobs/19926?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
-| ↳ | Software Engineer Intern - Automotive OEM | Novi, MI | Undergrad | <a href="https://careers.garmin.com/jobs/19999?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-Showing newest **75** of **1206** listings · [View full table](./OFFCYCLE.md)
+Showing newest **75** of **1207** listings · [View full table](./OFFCYCLE.md)
 
 <!-- TABLE_START offcycle -->
 
@@ -144,6 +146,7 @@ Showing newest **75** of **1206** listings · [View full table](./OFFCYCLE.md)
 | ↳ | Business Intelligence (BI) Co-Op- Spring 2027 | Duncan, SC | Co-op | Undergrad | <a href="https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=33f4e729-d1f6-4137-a95a-4ac8b27a9453"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Anduril | Winter 2027 Reliability Engineer Co-op | Costa Mesa, CA | Co-op | Undergrad | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Convverge | Junior Developer Co-op | Calgary, AB | Co-op | Undergrad | <a href="https://convverge.bamboohr.com/careers/31"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Emerson Electric | Software Engineering Co-op (Jun-Dec 2027) | Eden Prairie, MN | Co-op | Undergrad | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | EUNA Solutions | Associate AI-Enablement Developer - 8 mth Coop | Oakville, ON | Co-op | Undergrad | <a href="https://euna.bamboohr.com/careers/822"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Flare | Stagiaire en développement logiciel – Hiver 2027 / Intern Software Developer – Winter 2027 | Montreal, QC | Winter 2027 | Undergrad | <a href="https://flare.bamboohr.com/careers/29"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Gradient MSP | Junior Full Stack Developer | Remote (US) | Co-op | Undergrad | <a href="https://gradientmsp.bamboohr.com/careers/72?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -213,7 +216,6 @@ Showing newest **75** of **1206** listings · [View full table](./OFFCYCLE.md)
 | Resonetics | Development Engineering Co-Op | Hutchinson, MN | Co-op | Undergrad | <a href="https://careers-resonetics.icims.com/jobs/5862/development-engineering-co-op/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Amgen | Undergraduate Co-op Student – Software Engineer – Large Molecule Discovery - Technology | Burnaby, BC | Co-op | Undergrad | <a href="https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ASML | Internship- Co-Op: AI Engineer | San Diego, CA | Co-op | Undergrad | <a href="https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--Data-Engineer_J-00355627?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| ↳ | Internship- Co-Op: AI Engineer | San Diego, CA | Co-op | Undergrad | <a href="https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--AI-Engineer_J-00355628?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 <!-- TABLE_END offcycle -->
 
 ## 🎓 New Grad 2027

@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1206 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1207 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -11,6 +11,7 @@
 | ↳ | Business Intelligence (BI) Co-Op- Spring 2027 | Duncan, SC | Co-op | Undergrad | [Apply](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=33f4e729-d1f6-4137-a95a-4ac8b27a9453) | Nov 23 |
 | Anduril | Winter 2027 Reliability Engineer Co-op | Costa Mesa, CA | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007&utm_source=aprameyak) | Nov 23 |
 | Convverge | Junior Developer Co-op | Calgary, AB | Co-op | Undergrad | [Apply](https://convverge.bamboohr.com/careers/31) | Nov 23 |
+| Emerson Electric | Software Engineering Co-op (Jun-Dec 2027) | Eden Prairie, MN | Co-op | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738?utm_source=aprameyak) | Nov 23 |
 | EUNA Solutions | Associate AI-Enablement Developer - 8 mth Coop | Oakville, ON | Co-op | Undergrad | [Apply](https://euna.bamboohr.com/careers/822) | Nov 23 |
 | Flare | Stagiaire en développement logiciel – Hiver 2027 / Intern Software Developer – Winter 2027 | Montreal, QC | Winter 2027 | Undergrad | [Apply](https://flare.bamboohr.com/careers/29) | Nov 23 |
 | Gradient MSP | Junior Full Stack Developer | Remote (US) | Co-op | Undergrad | [Apply](https://gradientmsp.bamboohr.com/careers/72?utm_source=aprameyak) | Nov 23 |

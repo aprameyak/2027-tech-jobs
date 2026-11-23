@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4704 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4708 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -51,6 +51,8 @@
 | Electric Power Engineers | Research & Development Intern | Austin, TX | Undergrad | [Apply](https://careers-epeconsulting.icims.com/jobs/2387/research-%26-development-intern/job?utm_source=aprameyak) | Nov 23 |
 | ↳ | Research & Development Intern | Austin, TX | Undergrad | [Apply](https://careers-epeconsulting.icims.com/jobs/2386/research-%26-development-intern/job?utm_source=aprameyak) | Nov 23 |
 | ↳ | Research & Development Intern | Austin, TX | Undergrad | [Apply](https://careers-epeconsulting.icims.com/jobs/2287/research-%26-development-intern/job?utm_source=aprameyak) | Nov 23 |
+| Emerson Electric | Software Engineering Intern | Austin, TX | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013632?utm_source=aprameyak) | Nov 23 |
+| ↳ | Software Engineering Intern | Austin, TX | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010840?utm_source=aprameyak) | Nov 23 |
 | Encore Global | Event Technology Intern - San Diego | San Diego, CA | Undergrad | [Apply](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=a311dbae-ae82-4e59-a721-1c883cd5dcdf&utm_source=aprameyak) | Nov 23 |
 | ↳ | IT Project Management Intern - Summer 2027 | Coppell, TX | Undergrad | [Apply](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=1703774b-da4a-4e0a-98ca-47fef1d94c5c&utm_source=aprameyak) | Nov 23 |
 | ↳ | IT Data Analyst Intern– Summer 2027 | Schiller Park, IL | Undergrad | [Apply](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=00243c22-9228-4aab-8146-9699c52b1fa0&utm_source=aprameyak) | Nov 23 |
@@ -180,12 +182,14 @@
 | Southern Star Central Gas Pipeline | Intern, Measurement | Joplin, MO | Undergrad | [Apply](https://careers-sscgp.icims.com/jobs/3045/intern%2c-measurement/job?utm_source=aprameyak) | Nov 23 |
 | Southwest Power Pool | Summer 2027 Information Security and Access Management Internship – Identity and Access Management (IAM) Analyst | Little Rock, AR | Undergrad | [Apply](https://recruiting2.ultipro.com/sou1052sppi/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=943cabde-fca3-4692-8828-a6afbb7392e1) | Nov 23 |
 | ↳ | Summer 2027 - Operations Developer Internship | Little Rock, AR | Undergrad | [Apply](https://recruiting2.ultipro.com/sou1052sppi/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=51168e8a-cd42-4169-9c50-0019367a9d83) | Nov 23 |
+| Stantec | Data Scientist Intern - Water (Summer 2027) | San Diego, CA | Undergrad | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005?utm_source=aprameyak) | Nov 23 |
 | TASI Measurement | Machine Programming Intern | Kent, WA | Undergrad | [Apply](https://tasimeasurement.rec.pro.ukg.net/TAS1500TASI/JobBoard/2fb92a77-0aea-4e34-864b-11b2e6f60345/OpportunityDetail?opportunityId=7ee21f6a-8ca8-47b5-8f26-9132501782ea) | Nov 23 |
 | TCOM | Software Engineering Intern | Sioux Falls, SD | Undergrad | [Apply](https://recruiting.ultipro.com/TCO1001TCOM/JobBoard/74e57e92-4355-44d7-8471-3c6eecfda9ef/OpportunityDetail?opportunityId=e8df2c4d-5bfd-4b2c-9dc2-d1f4713497f5) | Nov 23 |
 | Tenstorrent | AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA) | <details><summary>**2 locations**</summary>Austin, TX</br>Santa Clara, CA</details> | Undergrad | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007?utm_source=aprameyak) | Nov 23 |
 | ↳ | AI Software Intern (USA) | <details><summary>**2 locations**</summary>Austin, TX</br>Santa Clara, CA</details> | Undergrad | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007?utm_source=aprameyak) | Nov 23 |
 | The SilverLogic | AI Engineer/Consultant Internship | Boca Raton, FL | Undergrad | [Apply](https://silverlogic.bamboohr.com/careers/36) | Nov 23 |
 | Ulteig | GIS Intern | <details><summary>**3 locations**</summary>Remote (US)</br>Greenwood Village, CO</br>Minneapolis, MN</details> | Undergrad | [Apply](https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa&utm_source=aprameyak) | Nov 23 |
+| University of Wyoming | Hourly Pooled-Event Technology Intern | Laramie, WY | Undergrad | [Apply](https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261828?utm_source=aprameyak) | Nov 23 |
 | Valstad | Software Engineering Intern, 3D & Manufacturing Applications | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea/application?utm_source=aprameyak) | Nov 23 |
 | ↳ | Robotics Software Intern, Manipulation & Simulation | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/valstad/8478558b-c5b5-43d2-b9c0-eae7a1fb30d8/application?utm_source=aprameyak) | Nov 23 |
 | VT Industries | Automation Intern | Rome, GA | Undergrad | [Apply](https://vtindustries.rec.pro.ukg.net/VTI1500VTIN/JobBoard/674339ab-9285-4ba2-80bd-aa3503cae1b2/OpportunityDetail?opportunityId=4ed70656-6569-45fc-ba64-f686aa173f59) | Nov 23 |
