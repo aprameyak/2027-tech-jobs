@@ -15333,14 +15333,18 @@ ukg:
   host: "recruiting2.ultipro.com"
   tenant: "goo1038gomn"
   board: "75022464-9dbd-43d2-af44-2840603d5823"
-- name: GCI
-  host: "recruiting.ultipro.com"
-  tenant: "GCI1000GCI"
-  board: "09636f6c-2fa1-4a76-adb9-57dea469416b"
+- name: Encore Global
+  host: "recruiting2.ultipro.com"
+  tenant: "AUD1001AUDV"
+  board: "b1e2129f-5d09-48e8-b7ff-4e900458d8a9"
 - name: Fintech
   host: "recruiting.ultipro.com"
   tenant: "FIN1008FICT"
   board: "c0ae7303-ee90-41c6-b44a-abf63303ceb4"
+- name: GCI
+  host: "recruiting.ultipro.com"
+  tenant: "GCI1000GCI"
+  board: "09636f6c-2fa1-4a76-adb9-57dea469416b"
 - name: GTI Energy
   host: "recruiting.ultipro.com"
   tenant: "GAS1003"
@@ -15365,6 +15369,10 @@ ukg:
   host: "recruiting.ultipro.ca"
   tenant: "MAW5000MAIM"
   board: "3f78f9b9-d39a-d361-1db7-d1d2ab5df39b"
+- name: Melaleuca
+  host: "recruiting2.ultipro.com"
+  tenant: "MEL1001MEL"
+  board: "d5ffce96-7247-41c4-831b-454b3454c233"
 - name: Meridian Credit Union
   host: "recruiting.ultipro.ca"
   tenant: "MER5001MCUL"
