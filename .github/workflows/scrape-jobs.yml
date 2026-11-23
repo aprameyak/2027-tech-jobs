@@ -10,8 +10,10 @@ on:
         required: false
         default: ''
 
+# Per board_group so workflow_dispatch of ashby/ukg/other don't cancel each other.
+# Scheduled runs (empty board_group) still share one "all" slot.
 concurrency:
-  group: readme-updates
+  group: scrape-jobs-${{ github.event.inputs.board_group || 'all' }}
   cancel-in-progress: false
 
 jobs:
