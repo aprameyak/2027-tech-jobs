@@ -239,8 +239,82 @@ jobs:
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
           fi
 
+  scrape-ukg:
+    if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'ukg' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.REPO_PAT }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests pyyaml anthropic
+      - name: Scrape UKG / UltiPro
+        timeout-minutes: 55
+        env:
+          BOARD_GROUP: ukg
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
+        run: python .github/scripts/scrape_jobs.py
+      - name: Commit data files
+        run: |
+          git config user.name "baldmeya"
+          git config user.email "akannan8@umd.edu"
+          for f in \
+            .github/data/seen_jobs_ukg.json \
+            .github/data/title_classifications.json \
+            .github/data/claude_usage_ukg.json \
+            .github/data/pending_ukg.json
+          do
+            [ -e "$f" ] && git add "$f"
+          done
+          if ! git diff --staged --quiet; then
+            git commit -m "scraper data: ukg"
+            for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
+          fi
+
+  scrape-bamboohr:
+    if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.board_group == '' || github.event.inputs.board_group == 'bamboohr' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.REPO_PAT }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests pyyaml anthropic
+      - name: Scrape BambooHR
+        timeout-minutes: 30
+        env:
+          BOARD_GROUP: bamboohr
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
+        run: python .github/scripts/scrape_jobs.py
+      - name: Commit data files
+        run: |
+          git config user.name "baldmeya"
+          git config user.email "akannan8@umd.edu"
+          for f in \
+            .github/data/seen_jobs_bamboohr.json \
+            .github/data/title_classifications.json \
+            .github/data/claude_usage_bamboohr.json \
+            .github/data/pending_bamboohr.json
+          do
+            [ -e "$f" ] && git add "$f"
+          done
+          if ! git diff --staged --quiet; then
+            git commit -m "scraper data: bamboohr"
+            for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
+          fi
+
   apply:
-    needs: [scrape-greenhouse, scrape-ashby, scrape-workday, scrape-oracle, scrape-linkedin-amazon, scrape-other]
+    needs: [scrape-greenhouse, scrape-ashby, scrape-workday, scrape-oracle, scrape-linkedin-amazon, scrape-other, scrape-ukg, scrape-bamboohr]
     if: always()
     runs-on: ubuntu-latest
     permissions:

@@ -2048,6 +2048,146 @@ def scrape_avature(company, portal, keywords=None):
 
     return jobs
 
+
+def _ukg_format_location(locations):
+    parts = []
+    for loc in locations or []:
+        if not loc:
+            continue
+        addr = loc.get('Address') or {}
+        city = (addr.get('City') or '').strip()
+        state = addr.get('State')
+        if isinstance(state, dict):
+            state = state.get('Code') or state.get('Name') or ''
+        state = (state or '').strip()
+        country = addr.get('Country')
+        if isinstance(country, dict):
+            country = country.get('Code') or country.get('Name') or ''
+        country = (country or '').strip()
+        if city and state:
+            parts.append(f'{city}, {state}')
+        elif city:
+            parts.append(city)
+        elif state:
+            parts.append(state)
+        elif country:
+            parts.append(country)
+        else:
+            desc = (loc.get('LocalizedDescription') or '').strip()
+            if desc:
+                parts.append(desc)
+    return normalize_location('; '.join(dict.fromkeys(parts)))
+
+
+def scrape_ukg(company, host, tenant, board):
+    """UKG Pro / UltiPro public job boards (recruiting*.ultipro.com and *.rec.pro.ukg.net)."""
+    host = (host or '').strip().rstrip('/')
+    tenant = (tenant or '').strip()
+    board = (board or '').strip()
+    if not host or not tenant or not board:
+        return []
+    if host.startswith('http'):
+        host = host.split('://', 1)[1].split('/', 1)[0]
+
+    api = f'https://{host}/{tenant}/JobBoard/{board}/JobBoardView/LoadSearchResults'
+    detail = f'https://{host}/{tenant}/JobBoard/{board}/OpportunityDetail'
+    jobs = []
+    seen = set()
+    top = 50
+    skip = 0
+    total = None
+    pages = 0
+    while pages < 40:
+        try:
+            resp = _post(
+                api,
+                json={'opportunitySearch': {'Top': top, 'Skip': skip}},
+                headers={**HEADERS, 'Content-Type': 'application/json', 'Accept': 'application/json'},
+                timeout=(10, 45),
+            )
+            if resp.status_code != 200:
+                print(f'  [{company}] UKG HTTP {resp.status_code}')
+                break
+            data = resp.json()
+            ops = data.get('opportunities') or []
+            if total is None:
+                total = data.get('totalCount')
+            if not ops:
+                break
+            for opp in ops:
+                oid = opp.get('Id')
+                if not oid or oid in seen:
+                    continue
+                seen.add(oid)
+                title = (opp.get('Title') or '').strip()
+                location = _ukg_format_location(opp.get('Locations'))
+                if is_candidate_title(title) and is_us_location(location):
+                    jobs.append({
+                        'id': f'ukg_{tenant}_{oid}',
+                        'company': company,
+                        'title': title,
+                        'location': location,
+                        'url': f'{detail}?opportunityId={oid}',
+                        'board': 'UKG',
+                    })
+            skip += len(ops)
+            pages += 1
+            if total is not None and skip >= total:
+                break
+            if len(ops) < top:
+                break
+            time.sleep(0.15)
+        except Exception as e:
+            print(f'  [{company}] UKG error: {e}')
+            break
+    return jobs
+
+
+def scrape_bamboohr(company, slug):
+    """BambooHR public careers list: https://{slug}.bamboohr.com/careers/list"""
+    slug = (slug or '').strip()
+    if not slug:
+        return []
+    jobs = []
+    try:
+        resp = _get(f'https://{slug}.bamboohr.com/careers/list', timeout=(10, 30))
+        if resp.status_code != 200:
+            print(f'  [{company}] BambooHR HTTP {resp.status_code}')
+            return []
+        data = resp.json()
+        for row in data.get('result') or []:
+            jid = str(row.get('id') or '')
+            title = (row.get('jobOpeningName') or '').strip()
+            loc = row.get('location') or {}
+            city = (loc.get('city') or '').strip()
+            state = (loc.get('state') or '').strip()
+            if city and state:
+                location = normalize_location(f'{city}, {state}')
+            elif city:
+                location = normalize_location(city)
+            elif row.get('isRemote') or str(row.get('locationType') or '') in ('1', '2'):
+                location = 'Remote'
+            else:
+                location = ''
+            if not jid or not is_candidate_title(title):
+                continue
+            if location and not is_us_location(location):
+                continue
+            if not location:
+                location = 'Remote'
+            jobs.append({
+                'id': f'bamboohr_{slug}_{jid}',
+                'company': company,
+                'title': title,
+                'location': location,
+                'url': f'https://{slug}.bamboohr.com/careers/{jid}',
+                'board': 'BambooHR',
+            })
+    except Exception as e:
+        print(f'  [{company}] BambooHR error: {e}')
+    return jobs
+
+
 def _clean_google_location(raw):
     if not raw:
         return ''
@@ -2268,6 +2408,8 @@ _BOARD_GROUP_BOARDS = {
     'workday': {'workday'},
     'oracle': {'oracle'},
     'linkedin_amazon': {'linkedin', 'amazon', 'google'},
+    'ukg': {'ukg'},
+    'bamboohr': {'bamboohr'},
     'other': {
         'lever', 'smartrecruiters', 'workable', 'recruitee', 'pinpoint',
         'icims', 'avature',
@@ -2351,6 +2493,26 @@ def main():
                 scrape_workday,
                 entry['name'], entry['tenant'], entry['instance'], entry.get('board', ''),
                 'workday',
+            ))
+
+    if included_boards is None or 'ukg' in included_boards:
+        for entry in config.get('ukg', []):
+            scrape_tasks.append((
+                scrape_ukg,
+                entry['name'],
+                entry['host'],
+                entry['tenant'],
+                entry['board'],
+                'ukg',
+            ))
+
+    if included_boards is None or 'bamboohr' in included_boards:
+        for entry in config.get('bamboohr', []):
+            scrape_tasks.append((
+                scrape_bamboohr,
+                entry['name'],
+                entry['slug'],
+                'bamboohr',
             ))
 
     if included_boards is None or 'linkedin' in included_boards:

@@ -2629,8 +2629,7 @@ smartrecruiters:
   identifier: "Mirantis"
 - name: Mission Critical Group
   identifier: "MissionCriticalGroup"
-- name: MITRE
-  identifier: "MITRE"
+# MITRE removed: SmartRecruiters board returns 0; real ATS is Phenom at careers.mitre.org (not scraped yet)
 - name: MSX International
   identifier: "MSXInternational"
 - name: National Software Management
@@ -13263,6 +13262,8 @@ ashby:
   slug: "firetiger"
 - name: Fireworks AI
   slug: "fireworks"
+- name: First Resonance
+  slug: "first-resonance"
 - name: Flagright
   slug: "flagright.com"
 - name: Flashpoint
@@ -15298,3 +15299,97 @@ workable:
   slug: "zaizi"
 - name: Zippd
   slug: "zippd"
+
+ukg:
+- name: AFL
+  host: "recruiting.ultipro.com"
+  tenant: "afl1002"
+  board: "d535bad2-e3ea-c8c8-2fb2-63621892e293"
+- name: Applied Research Associates
+  host: "recruiting.ultipro.com"
+  tenant: "APP1010ARAI"
+  board: "07442cec-d18e-4589-ab15-8342edc29af7"
+- name: Bennett Thrasher
+  host: "btcpa.rec.pro.ukg.net"
+  tenant: "BEN1022BTLL"
+  board: "702a70c1-c1f7-4971-8626-bb99571a35a2"
+- name: CAS
+  host: "recruiting.ultipro.com"
+  tenant: "AME1095ACHM"
+  board: "c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a"
+- name: Calamos Investments
+  host: "recruiting2.ultipro.com"
+  tenant: "cal1001cala"
+  board: "46b96419-fba6-4dd0-a5fa-715bdfcf845b"
+- name: Daikin Comfort
+  host: "recruiting2.ultipro.com"
+  tenant: "goo1038gomn"
+  board: "75022464-9dbd-43d2-af44-2840603d5823"
+- name: GCI
+  host: "recruiting.ultipro.com"
+  tenant: "GCI1000GCI"
+  board: "09636f6c-2fa1-4a76-adb9-57dea469416b"
+- name: Jewelers Mutual Group
+  host: "recruiting.ultipro.com"
+  tenant: "JEW1003JEWEL"
+  board: "1ddbeeda-8206-7c8c-a849-dd0e865383de"
+- name: MDA
+  host: "recruiting.ultipro.ca"
+  tenant: "MAC5000MCDW"
+  board: "7667adcc-47ae-477a-9183-0d8ef8bc0748"
+- name: Mawer Investment Management
+  host: "recruiting.ultipro.ca"
+  tenant: "MAW5000MAIM"
+  board: "3f78f9b9-d39a-d361-1db7-d1d2ab5df39b"
+- name: Meridian Credit Union
+  host: "recruiting.ultipro.ca"
+  tenant: "MER5001MCUL"
+  board: "6c1f133f-d0ac-48cd-a17d-bc54fe044ce3"
+- name: Mesirow
+  host: "recruiting2.ultipro.com"
+  tenant: "mes1003mfac"
+  board: "69451223-cdce-4faf-9407-23a2cd5ac83b"
+- name: Milliman
+  host: "recruiting2.ultipro.com"
+  tenant: "MIL1017"
+  board: "f54234e9-dfde-b183-fd20-4fbdb19cba7a"
+- name: Southern Farm Bureau Life Insurance
+  host: "recruiting2.ultipro.com"
+  tenant: "sou1016sfbli"
+  board: "adba73e4-f371-45d0-a5d2-32260abcd2f8"
+- name: Southwest Power Pool
+  host: "recruiting2.ultipro.com"
+  tenant: "sou1052sppi"
+  board: "bc99b5f0-ed6b-436e-b545-2196af0704de"
+- name: TASI Measurement
+  host: "tasimeasurement.rec.pro.ukg.net"
+  tenant: "TAS1500TASI"
+  board: "2fb92a77-0aea-4e34-864b-11b2e6f60345"
+- name: TCOM
+  host: "recruiting.ultipro.com"
+  tenant: "TCO1001TCOM"
+  board: "74e57e92-4355-44d7-8471-3c6eecfda9ef"
+- name: VT Industries
+  host: "vtindustries.rec.pro.ukg.net"
+  tenant: "VTI1500VTIN"
+  board: "674339ab-9285-4ba2-80bd-aa3503cae1b2"
+- name: Watchfire Signs
+  host: "watchfiresigns.rec.pro.ukg.net"
+  tenant: "wat1501wfsi"
+  board: "d3278620-b590-426f-899b-eb88c1096ad9"
+
+bamboohr:
+- name: Convverge
+  slug: "convverge"
+- name: EUNA Solutions
+  slug: "euna"
+- name: Flare
+  slug: "flare"
+- name: Marias Technology
+  slug: "mariastechnology"
+- name: REXA
+  slug: "rexa"
+- name: Smule
+  slug: "smule"
+- name: The SilverLogic
+  slug: "silverlogic"
