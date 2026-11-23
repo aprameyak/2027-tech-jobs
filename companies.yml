@@ -1,4 +1,6 @@
 greenhouse:
+- name: "540"
+  slug: "540"
 - name: 1-800 Contacts
   slug: "1800contacts"
 - name: 10a Labs
@@ -11,8 +13,6 @@ greenhouse:
   slug: "2u"
 - name: 3RedPartners
   slug: "3redpartners"
-- name: "540"
-  slug: "540"
 - name: 66 Degrees
   slug: "66degrees"
 - name: 84.51 Degrees
@@ -73,6 +73,8 @@ greenhouse:
   slug: "alarmcom"
 - name: Albedo
   slug: "albedo"
+- name: Algolia
+  slug: "algolia"
 - name: ALKU
   slug: "alku"
 - name: Alpaca
@@ -151,6 +153,8 @@ greenhouse:
   slug: "arvinas"
 - name: Asana
   slug: "asana"
+- name: ASM
+  slug: "asm"
 - name: AssemblyAI
   slug: "assemblyai"
 - name: Assured Guaranty
@@ -217,6 +221,8 @@ greenhouse:
   slug: "beauhurst"
 - name: Bertram Capital Management
   slug: "bertramcapitalmanagement"
+- name: Betterment
+  slug: "betterment"
 - name: Bevi
   slug: "bevicareers"
 - name: BeyondTrust
@@ -479,6 +485,8 @@ greenhouse:
   slug: "discord"
 - name: DivcoWest
   slug: "divcowest"
+- name: Diverge Health
+  slug: "divergehealth"
 - name: Divergent Technologies
   slug: "divergent"
 - name: Doctors Without Borders
@@ -943,6 +951,8 @@ greenhouse:
   slug: "madisonenergyinfrastructure"
 - name: MAP | WPP Enterprise Solutions
   slug: "map"
+- name: Mark43
+  slug: "mark43"
 - name: Marqeta
   slug: "marqeta"
 - name: Marshall Wace
@@ -1053,12 +1063,16 @@ greenhouse:
   slug: "nexla"
 - name: Nextdoor
   slug: "nextdoor"
+- name: NICE
+  slug: "nice"
 - name: Nimble Gravity
   slug: "nimblegravity"
 - name: Nimble Robotics
   slug: "nimblerobotics"
 - name: NinjaTrader
   slug: "ninjatrader"
+- name: Nintendo
+  slug: "nintendo"
 - name: Noble Machines
   slug: "undercontrolroboticsinc"
 - name: Northspyre
@@ -1231,6 +1245,8 @@ greenhouse:
   slug: "prophet"
 - name: Protagonist
   slug: "protagonist"
+- name: PsiQuantum
+  slug: "psiquantum"
 - name: Pure Storage
   slug: "purestorage"
 - name: Quadrillion
@@ -1559,6 +1575,8 @@ greenhouse:
   slug: "trelliswaretechnologies-newgrads"
 - name: Trexon
   slug: "tpcengineeringholdingsllc"
+- name: Tria Federal
+  slug: "triafederal"
 - name: TribalScale
   slug: "tribalscale"
 - name: Trinity Park Talent
@@ -2097,6 +2115,8 @@ lever:
   slug: "nuvacore"
 - name: Octopus Energy
   slug: "octoenergy"
+- name: Oliver Wyman
+  slug: "oliverwyman"
 - name: Olo
   slug: "olo"
 - name: Omni Design Technologies
@@ -12814,6 +12834,8 @@ linkedin:
   company_id: "9879"
 
 ashby:
+- name: "Barnes & Thornburg"
+  slug: "barnes"
 - name: 1Password
   slug: "1password"
 - name: 1X
@@ -12948,8 +12970,6 @@ ashby:
   slug: "backbone"
 - name: Bags
   slug: "bagsfm"
-- name: "Barnes & Thornburg"
-  slug: "barnes"
 - name: Base Power Company
   slug: "base-power"
 - name: Baseten
@@ -13584,6 +13604,8 @@ ashby:
   slug: "loveholidays"
 - name: Lucid Computing
   slug: "lucidcomputing"
+- name: Luma AI
+  slug: "lumaai"
 - name: Luminai
   slug: "luminai"
 - name: Lunon
@@ -13666,6 +13688,8 @@ ashby:
   slug: "modal"
 - name: Modern Treasury
   slug: "moderntreasury"
+- name: Monday.com
+  slug: "monday.com"
 - name: Monogram
   slug: "monogram"
 - name: Morris Health Technologies
@@ -14180,6 +14204,8 @@ ashby:
   slug: "the-exploration-company"
 - name: The Robotics Company
   slug: "the-robotics-company"
+- name: Thoughtworks
+  slug: "thoughtworks"
 - name: Thumbtack
   slug: "thumbtack"
 - name: Titan
@@ -15471,8 +15497,12 @@ bamboohr:
   slug: "rexa"
 - name: Smule
   slug: "smule"
+- name: Tech Mahindra
+  slug: "techmahindra"
 - name: The SilverLogic
   slug: "silverlogic"
+- name: Uneekor
+  slug: "uneekor"
 - name: Xradar
   slug: "xradar"
 
