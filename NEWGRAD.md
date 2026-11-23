@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-1576 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1578 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -12,9 +12,11 @@
 | ↳ | 2027 Early Career Software Engineer | <details><summary>**9 locations**</summary>Atlanta, GA</br>Boston, MA</br>Broomfield, CO</br>Colorado Springs, CO</br>Costa Mesa, CA</br>Fort Collins, CO</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details> | Spring 2027 | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007&utm_source=aprameyak) | Nov 23 |
 | ↳ | 2027 Early Career Technical Program Manager | <details><summary>**3 locations**</summary>Costa Mesa, CA</br>Seattle, WA</br>Washington, DC</details> | Spring 2027 | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268883007?gh_jid=5268883007&utm_source=aprameyak) | Nov 23 |
 | ↳ | 2027 New Grad Information Security Engineer | Costa Mesa, CA | Spring 2027 | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5270839007?gh_jid=5270839007&utm_source=aprameyak) | Nov 23 |
+| Apollo MCE | Software Engineering Associate | Atlanta, GA |  | Undergrad | [Apply](https://apollomce.bamboohr.com/careers/96?utm_source=aprameyak) | Nov 23 |
 | Applied Research Associates | Junior Software Developer | Albuquerque, NM |  | Undergrad | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=4a45b594-2e7f-4042-9976-8a3b808265ca) | Nov 23 |
 | ↳ | Junior Information System Security Engineer (ISSE) | Raleigh, NC |  | Undergrad | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=7a72c316-97b1-4e8e-aeaf-057c7cd196aa) | Nov 23 |
 | BIS Safety Software | Junior Data Analyst | Sherwood Park, AB |  | Undergrad | [Apply](https://jobs.lever.co/bis/ce37713b-9922-4a73-999a-f0b8e544540b?utm_source=aprameyak) | Nov 23 |
+| Digital.ai | Associate Software Engineer | Lafayette, IN |  | Undergrad | [Apply](https://digitalai.bamboohr.com/careers/75?utm_source=aprameyak) | Nov 23 |
 | Encore Global | Associate Application Developer | Schiller Park, IL |  | Undergrad | [Apply](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=bf6ce5bb-f991-46de-a0cb-50f4f9577ee9&utm_source=aprameyak) | Nov 23 |
 | Integra FEC | Data Analyst / Associate Data Scientist | Austin, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/integra/jobs/5083082008?utm_source=aprameyak) | Nov 23 |
 | ↳ | Junior Data Scientist | Austin, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/integra/jobs/5487065008?utm_source=aprameyak) | Nov 23 |

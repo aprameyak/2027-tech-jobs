@@ -30,9 +30,11 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
 
+**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
+
 - [☀️ Summer 2027 Internships](./SUMMER.md) (4704)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1206)
-- [🎓 New Grad 2027](./NEWGRAD.md) (1576)
+- [🎓 New Grad 2027](./NEWGRAD.md) (1578)
 
 ## Legend
 
@@ -216,7 +218,7 @@ Showing newest **75** of **1206** listings · [View full table](./OFFCYCLE.md)
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **1576** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **1578** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
@@ -228,9 +230,11 @@ Showing newest **75** of **1576** listings · [View full table](./NEWGRAD.md)
 | ↳ | 2027 Early Career Software Engineer | <details><summary>**9 locations**</summary>Atlanta, GA</br>Boston, MA</br>Broomfield, CO</br>Colorado Springs, CO</br>Costa Mesa, CA</br>Fort Collins, CO</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details> | Spring 2027 | Undergrad | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | 2027 Early Career Technical Program Manager | <details><summary>**3 locations**</summary>Costa Mesa, CA</br>Seattle, WA</br>Washington, DC</details> | Spring 2027 | Undergrad | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5268883007?gh_jid=5268883007&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | 2027 New Grad Information Security Engineer | Costa Mesa, CA | Spring 2027 | Undergrad | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5270839007?gh_jid=5270839007&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Apollo MCE | Software Engineering Associate | Atlanta, GA |  | Undergrad | <a href="https://apollomce.bamboohr.com/careers/96?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Applied Research Associates | Junior Software Developer | Albuquerque, NM |  | Undergrad | <a href="https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=4a45b594-2e7f-4042-9976-8a3b808265ca"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Junior Information System Security Engineer (ISSE) | Raleigh, NC |  | Undergrad | <a href="https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=7a72c316-97b1-4e8e-aeaf-057c7cd196aa"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | BIS Safety Software | Junior Data Analyst | Sherwood Park, AB |  | Undergrad | <a href="https://jobs.lever.co/bis/ce37713b-9922-4a73-999a-f0b8e544540b?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Digital.ai | Associate Software Engineer | Lafayette, IN |  | Undergrad | <a href="https://digitalai.bamboohr.com/careers/75?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Encore Global | Associate Application Developer | Schiller Park, IL |  | Undergrad | <a href="https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=bf6ce5bb-f991-46de-a0cb-50f4f9577ee9&utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Integra FEC | Data Analyst / Associate Data Scientist | Austin, TX |  | Undergrad | <a href="https://job-boards.greenhouse.io/integra/jobs/5083082008?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Junior Data Scientist | Austin, TX |  | Undergrad | <a href="https://job-boards.greenhouse.io/integra/jobs/5487065008?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -295,8 +299,6 @@ Showing newest **75** of **1576** listings · [View full table](./NEWGRAD.md)
 | ↳ | PowerCenter / Java Developer | Remote (US) |  | Undergrad | <a href="https://jobs.smartrecruiters.com/Talan/744000162071505?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | PowerCenter / Java Developer | Remote (US) |  | Undergrad | <a href="https://jobs.smartrecruiters.com/Talan/744000162071734?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | PowerCenter / Java Developer | Remote (US) |  | Undergrad | <a href="https://jobs.smartrecruiters.com/Talan/744000162072499?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
-| ↳ | PowerCenter / Java Developer | Remote (US) |  | Undergrad | <a href="https://jobs.smartrecruiters.com/Talan/744000162072199?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
-| American Express | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- Toronto, Ontario, Canada | Toronto, ON |  | Undergrad | <a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 <!-- TABLE_END newgrad -->
 
 ## License
