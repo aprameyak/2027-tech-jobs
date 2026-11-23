@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4679 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4681 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -167,6 +167,8 @@
 | ↳ | Robotics Software Intern, Manipulation & Simulation | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/valstad/8478558b-c5b5-43d2-b9c0-eae7a1fb30d8/application?utm_source=aprameyak) | Nov 23 |
 | VT Industries | Automation Intern | Rome, GA | Undergrad | [Apply](https://vtindustries.rec.pro.ukg.net/VTI1500VTIN/JobBoard/674339ab-9285-4ba2-80bd-aa3503cae1b2/OpportunityDetail?opportunityId=4ed70656-6569-45fc-ba64-f686aa173f59) | Nov 23 |
 | ↳ | Software Development Intern | Holstein, IA | Undergrad | [Apply](https://vtindustries.rec.pro.ukg.net/VTI1500VTIN/JobBoard/674339ab-9285-4ba2-80bd-aa3503cae1b2/OpportunityDetail?opportunityId=c6ed6034-a946-447b-bc0f-46cf40fe4367&utm_source=aprameyak) | Nov 23 |
+| Washington Nationals | Intern, Baseball Technology (2027 Season) | <details><summary>**2 locations**</summary>Remote (US)</br>Washington, DC</details> | Undergrad | [Apply](https://washnats.rec.pro.ukg.net/MON1001WNBC/JobBoard/769be41b-7ab1-40e5-b837-33d7c87b5787/OpportunityDetail?opportunityId=6bc9d678-11ee-4d18-90c5-6f426c44515c&utm_source=aprameyak) | Nov 23 |
+| ↳ | Minor League Video & Technology Intern (2027 Season) | Remote (US) | Undergrad | [Apply](https://washnats.rec.pro.ukg.net/MON1001WNBC/JobBoard/769be41b-7ab1-40e5-b837-33d7c87b5787/OpportunityDetail?opportunityId=6cc79398-23cb-4897-a8ff-414aa72e2fee&utm_source=aprameyak) | Nov 23 |
 | Watchfire Signs | Intern Software Engineering | Danville, IL | Undergrad | [Apply](https://watchfiresigns.rec.pro.ukg.net/wat1501wfsi/JobBoard/d3278620-b590-426f-899b-eb88c1096ad9/OpportunityDetail?opportunityId=b1838552-e606-4247-a3ce-2ce25d11e732) | Nov 23 |
 | ↳ | Intern Help Desk Technician | Danville, IL | Undergrad | [Apply](https://watchfiresigns.rec.pro.ukg.net/wat1501wfsi/JobBoard/d3278620-b590-426f-899b-eb88c1096ad9/OpportunityDetail?opportunityId=6c3e1070-8364-4c25-8599-7ddce44f14ad) | Nov 23 |
 | Werner Electric Supply | AI Intern (Summer 2027) | Appleton, WI | Undergrad | [Apply](https://recruiting2.ultipro.com/WER1000WERE/JobBoard/9cc9fbca-288f-4c69-99d7-b81d31b89844/OpportunityDetail?opportunityId=48ee1836-bd71-4533-a83a-a5170a0e984d&utm_source=aprameyak) | Nov 23 |

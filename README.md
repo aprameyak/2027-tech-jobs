@@ -24,7 +24,9 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4679)
+**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)
+
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4681)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1206)
 - [🎓 New Grad 2027](./NEWGRAD.md) (1569)
 
@@ -40,7 +42,7 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4679** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4681** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
