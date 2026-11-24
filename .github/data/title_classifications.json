@@ -32369,7 +32369,7 @@
   },
   "ios engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -42018,7 +42018,7 @@
   },
   "senior endpoint security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
