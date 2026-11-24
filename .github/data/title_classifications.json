@@ -28788,9 +28788,10 @@
     "b": "s"
   },
   "senior program manager, mapping operations": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "senior software engineer, autonomy visualization": {
@@ -35870,9 +35871,9 @@
     "b": "s"
   },
   "product manager, payments": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -79446,10 +79447,10 @@
     "b": "s"
   },
   "gnc engineering intern": {
-    "t": false,
-    "c": "stale",
-    "v": "cs-is-v2",
-    "a": 0,
+    "t": true,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "generalist intern, 2027 ": {
