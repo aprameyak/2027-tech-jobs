@@ -1,11 +1,97 @@
 # ☀️ Summer 2027 Internships
 
-4728 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4814 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Akuna Capital OCI | Quantitative Development & Strategy Intern, Summer 2027 \| Harvard | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066880?utm_source=aprameyak) | Nov 24 |
+| ↳ | Quantitative Development & Strategy Intern, Summer 2027 \| Massachusetts Institute of Technology | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066884?utm_source=aprameyak) | Nov 24 |
+| ↳ | Quantitative Research Intern, Summer 2027 \| Columbia University | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065680?utm_source=aprameyak) | Nov 24 |
+| ↳ | Quantitative Research Intern, Summer 2027 \| Georgia Institute of Technology | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065656?utm_source=aprameyak) | Nov 24 |
+| ↳ | Quantitative Research Intern, Summer 2027 \| Massachusetts Institute of Technology | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065670?utm_source=aprameyak) | Nov 24 |
+| Amazon | Software Development Engineer Intern - Artificial General Intelligence (Summer 2027) | Sunnyvale, CA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027) | Nov 24 |
+| Astera Labs Early Career | Applied AI Intern (Non-Silicon) | San Jose, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728357005?utm_source=aprameyak) | Nov 24 |
+| ↳ | Platform Software Diagnostics Intern | San Jose, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724492005?utm_source=aprameyak) | Nov 24 |
+| ↳ | Platform Solutions Engineer Intern (CE) | Cary, NC | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731587005?utm_source=aprameyak) | Nov 24 |
+| ↳ | Platform Solutions Product Management Intern | Cary, NC | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731590005?utm_source=aprameyak) | Nov 24 |
+| Astro Mechanica | Software Engineering Intern | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/Astro-Mechanica/740cedb6-3c69-49c2-8662-7997799b8c87/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | GNC Engineering Intern | San Francisco, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/Astro-Mechanica/6ee33f39-7a07-4b46-8caf-5f6f7b62eb40/application?utm_source=aprameyak) | Nov 24 |
+| Atalanta | Software Understanding Researcher (PhD Internship) | Washington, DC | PhD | [Apply](https://jobs.ashbyhq.com/atalanta/c65215c6-9f9e-4521-895a-0a00f73d3e9b/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | Software Engineer Intern | Washington, DC | Undergrad | [Apply](https://jobs.ashbyhq.com/atalanta/52011b21-df9a-4304-81a9-005a79f55335/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | Forward Deployed Engineer Intern | Washington, DC | Undergrad | [Apply](https://jobs.ashbyhq.com/atalanta/f7625af9-5408-44bd-a707-7f4519ca41d8/application?utm_source=aprameyak) | Nov 24 |
+| Atoms AI | AI Research Intern (BS/MS) | Mountain View, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8919596002?utm_source=aprameyak) | Nov 24 |
+| ↳ | MBA Technical Strategy and Operations Intern | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8868464002?utm_source=aprameyak) | Nov 24 |
+| Attain Partners | Summer 2027 Data Analytics Intern | McLean, VA | Undergrad | [Apply](https://job-boards.greenhouse.io/attainpartners/jobs/5485427008?utm_source=aprameyak) | Nov 24 |
+| Basis Research | Research Intern, Summer 2027 | New York, NY | Undergrad | [Apply](https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c/application?utm_source=aprameyak) | Nov 24 |
+| Biohub 🛂 | AI Research Scientist Intern | <details><summary>**2 locations**</summary>New York, NY</br>Redwood City, CA</details> | Undergrad | [Apply](https://job-boards.greenhouse.io/biohub/jobs/8400682?utm_source=aprameyak) | Nov 24 |
+| Brave | Systems Build Intern - Waterloo University | Remote (Canada) | Masters | [Apply](https://job-boards.greenhouse.io/brave/jobs/8412598?utm_source=aprameyak) | Nov 24 |
+| C3.ai Jobs | AI Product Manager - MBA Intern (Summer 2027) | Redwood City, CA | Undergrad | [Apply](https://c3.ai/job-description/8860563002?gh_jid=8860563002) | Nov 24 |
+| Category Labs | Research Intern, Summer 2027 | New York, NY | Undergrad | [Apply](https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?utm_source=aprameyak) | Nov 24 |
+| Contoro | Robotics Software Engineer Intern, Autonomy [Automation] | Austin, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/contoro/6a1f0c10-3e5f-4899-ad86-38036a9cd434/application?utm_source=aprameyak) | Nov 24 |
+| Duetti | 2027 Summer Internship - Data | New York, NY | Undergrad | [Apply](https://jobs.lever.co/duetti/9db49695-8ec8-40ad-b780-c73bb4594567?utm_source=aprameyak) | Nov 24 |
+| ↳ | 2027 Summer Internship (MBA) - Product | New York, NY | Undergrad | [Apply](https://jobs.lever.co/duetti/cbc1ad6f-ec3d-42d8-8a53-9cd2712787b2?utm_source=aprameyak) | Nov 24 |
+| Electric Power Engineers | Product Management Intern | Austin, TX | Undergrad | [Apply](https://careers-epeconsulting.icims.com/jobs/2449/product-management-intern/job?utm_source=aprameyak) | Nov 24 |
+| Emerson Electric | Application Engineering Intern | Austin, TX | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008043?utm_source=aprameyak) | Nov 24 |
+| ↳ | Technical Marketing and Business Management Intern | Austin, TX | Undergrad | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010168?utm_source=aprameyak) | Nov 24 |
+| Fanatics Collectibles | Summer 2027 Intern - Accounting & Finance Automation Intern | Los Angeles, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4515586009?utm_source=aprameyak) | Nov 24 |
+| ↳ | Summer 2027 Internship - Game Design Intern | Seattle, WA | Undergrad | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507816009?utm_source=aprameyak) | Nov 24 |
+| ↳ | Summer 2027 Internship - Manufacturing Planning & Analytics Intern | Sunnyvale, TX | Undergrad | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507789009?utm_source=aprameyak) | Nov 24 |
+| ↳ | Summer 2027 Internship - Product Intern | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009?utm_source=aprameyak) | Nov 24 |
+| ↳ | Summer 2027 Internship - Product Intern | Coppell, TX | Undergrad | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009?utm_source=aprameyak) | Nov 24 |
+| ↳ | Summer 2027 Internship - Product Management Intern | Seattle, WA | Undergrad | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009?utm_source=aprameyak) | Nov 24 |
+| Formulary | Software Engineering Intern | New York, NY | Undergrad | [Apply](https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?utm_source=aprameyak) | Nov 24 |
+| Garmin | User Interface Designer Intern | Olathe, KS | Undergrad | [Apply](https://careers.garmin.com/jobs/19938?lang=en-us) | Nov 24 |
+| ↳ | IT Storage Administrator Intern | Olathe, KS | Undergrad | [Apply](https://careers.garmin.com/jobs/20446?lang=en-us) | Nov 24 |
+| ↳ | Product Designer Intern | Olathe, KS | Undergrad | [Apply](https://careers.garmin.com/jobs/22511?lang=en-us) | Nov 24 |
+| ↳ | Audio Engineer Intern | Miramar, FL | Undergrad | [Apply](https://careers.garmin.com/jobs/20289?lang=en-us) | Nov 24 |
+| ↳ | Field Application Engineer Intern | Olathe, KS | Undergrad | [Apply](https://careers.garmin.com/jobs/22448?lang=en-us) | Nov 24 |
+| General Dynamics Mission Systems | Technical Writer Intern | Manassas, VA | Undergrad | [Apply](https://careers-gdms.icims.com/jobs/84573/technical-writer-intern/job?utm_source=aprameyak) | Nov 24 |
+| Grant Thornton | Audit IT Assurance Intern - Summer 2027 | Tulsa, OK | Undergrad | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116239?utm_source=aprameyak) | Nov 24 |
+| Honeywell | Intern, Energy & Utilities Software Product Design & AI Development (MS or PhD) | Raleigh, NC | PhD | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159367?utm_source=aprameyak) | Nov 24 |
+| Horizon3.ai | Research Intern, Adversarial Intelligence | Chicago, IL | Undergrad | [Apply](https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2/application?utm_source=aprameyak) | Nov 24 |
+| i3 | IT Infrastructure / Platform Services Intern | Huntsville, AL | Undergrad | [Apply](https://careers-i3-corps.icims.com/jobs/5654/it-infrastructure---platform-services-intern/job?utm_source=aprameyak) | Nov 24 |
+| Impulse Space | Information Security Intern (Summer 2027) | Redondo Beach, CA | Undergrad | [Apply](https://impulsespace.pinpointhq.com/en/postings/8115d644-70a5-46be-a431-a548a1ff42b8?utm_source=aprameyak) | Nov 24 |
+| ↳ | Development Test Engineering Intern (Summer 2027) | Redondo Beach, CA | Undergrad | [Apply](https://impulsespace.pinpointhq.com/en/postings/8b8a0693-fcf2-4cc4-8e2d-130d68fd6566?utm_source=aprameyak) | Nov 24 |
+| ↳ | Test Automation Intern (Summer 2027) | Redondo Beach, CA | Undergrad | [Apply](https://impulsespace.pinpointhq.com/en/postings/f43f718d-d6ef-4586-a1e5-f6de230bf7d2?utm_source=aprameyak) | Nov 24 |
+| INFICON | Research & Development Intern | East Syracuse, NY | Undergrad | [Apply](https://jobs.smartrecruiters.com/INFICON2/744000163324703?utm_source=aprameyak) | Nov 24 |
+| ↳ | Research & Development Intern | East Syracuse, NY | Undergrad | [Apply](https://jobs.smartrecruiters.com/INFICON2/744000163324280?utm_source=aprameyak) | Nov 24 |
+| IntelliGenesis | Applied Data Scientist Internship (DoW SkillBridge) | Remote (US) | Undergrad | [Apply](https://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge?utm_source=aprameyak) | Nov 24 |
+| ↳ | Cyber Analyst Internship (DoW SkillBridge) | Remote (US) | Undergrad | [Apply](https://intelligenesis.applytojob.com/apply/bBFW9GZCI0/Cyber-Analyst-Internship-DoW-SkillBridge?utm_source=aprameyak) | Nov 24 |
+| JPMorgan Chase | 2027 Applied AI - HR CDAO - Summer Associate | New York, NY | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549?utm_source=aprameyak) | Nov 24 |
+| Legrand | IT/IS Intern | Canonsburg, PA | Undergrad | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1921?utm_source=aprameyak) | Nov 24 |
+| Lucid Motors | Intern, IT Help Desk Level 3, Summer 2027 | Casa Grande, AZ | Undergrad | [Apply](https://lucidmotors.com/careers/search/5290780007?gh_jid=5290780007) | Nov 24 |
+| Lucid Software | Product Management Internship - Summer 2027 | Raleigh, NC | Undergrad | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004?utm_source=aprameyak) | Nov 24 |
+| ↳ | Product Management Internship - Summer 2027 | Salt Lake City, UT | Undergrad | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004?utm_source=aprameyak) | Nov 24 |
+| Marriott International | IT Intern - Excelsior Hotel Gallia | Milano, MI | Undergrad | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26153168?utm_source=aprameyak) | Nov 24 |
+| Method | Residency Internship Program - Engineering | Charlotte, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/method/jobs/8208724003?utm_source=aprameyak) | Nov 24 |
+| ↳ | Residency Internship Program - Product Management | Charlotte, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/method/jobs/8207585003?utm_source=aprameyak) | Nov 24 |
+| Nexus Cognitive | Data Engineering Intern | Atlanta, GA | Undergrad | [Apply](https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?utm_source=aprameyak) | Nov 24 |
+| Northwell Health | Emerging Technology & AI Internship | New Hyde Park, Nassau, United States | Undergrad | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/203746?utm_source=aprameyak) | Nov 24 |
+| Nuro | Technical Program Manager, Systems Intern | Mountain View, CA | Masters | [Apply](https://nuro.ai/careersitem?gh_jid=8412577) | Nov 24 |
+| Obsidian | Gameplay Engineer - 2027 Summer Internship | Remote (US) | Undergrad | [Apply](https://obsidian.applytojob.com/apply/zxhj1ePGcR/Gameplay-Engineer-2027-Summer-Internship?utm_source=aprameyak) | Nov 24 |
+| Regent | State Estimation Intern (Summer) | North Kingstown, RI | Undergrad | [Apply](https://jobs.ashbyhq.com/REGENT/8c76e568-34ce-49d0-ade8-fcc6bdf656cf/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | Radar Signal Processing Intern (Summer) | North Kingstown, RI | Undergrad | [Apply](https://jobs.ashbyhq.com/REGENT/2b98602b-2060-45c7-a916-ae7ca9656fd3/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | Mission Software Engineering Intern (Summer) | North Kingstown, RI | Undergrad | [Apply](https://jobs.ashbyhq.com/REGENT/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | Cybersecurity & IT Operations Intern (Summer) | North Kingstown, RI | Undergrad | [Apply](https://jobs.ashbyhq.com/REGENT/dfdbb28f-f289-45b9-a2e5-158d81b93524/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | Modeling & Simulation Intern (Summer) | North Kingstown, RI | Undergrad | [Apply](https://jobs.ashbyhq.com/REGENT/bca4be90-229d-49c4-8424-44a15dd72b1c/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | Guidance, Navigation and Control (GNC) Intern | North Kingstown, RI | Undergrad | [Apply](https://jobs.ashbyhq.com/REGENT/6b044f00-b7e8-4141-8cd8-2d77fa40eea0/application?utm_source=aprameyak) | Nov 24 |
+| Samsung Research America | 2027 Spring/Summer PhD Intern, AI Research | Mountain View, CA | PhD | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955762002?utm_source=aprameyak) | Nov 24 |
+| Scout Space | Computer Vision (AI/ML) Engineering Intern (Summer 2027) | Reston, VA | Undergrad | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489231008?utm_source=aprameyak) | Nov 24 |
+| ↳ | Mission Assurance/Quality Intern (Summer 2027) | Reston, VA | Undergrad | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489234008?utm_source=aprameyak) | Nov 24 |
+| Shield AI | Summer 2027 - Software Engineer Intern | San Diego, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | 2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541) | San Diego, CA | Masters | [Apply](https://jobs.ashbyhq.com/shield/354d464d-ca91-4ce3-bd3f-d811b13755be/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | 2027 Summer Intern - Future Concepts - 6539 | Arlington, VA | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/a0de8443-f135-4712-8f02-66f442b0cbc6/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | 2027 Summer Intern - Software Engineering - 5815 | Dallas, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | 2027 Summer Intern - Human Machine Teaming - 6532 | Arlington, VA | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/52dfdcb9-e279-49de-97d0-08b7cc33179e/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | 2027 Summer Intern - Operational Analysis - 6538 | Arlington, VA | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a/application?utm_source=aprameyak) | Nov 24 |
+| University of Wyoming | Hourly Pooled - Technology Transfer Office Internship | Laramie, WY | Undergrad | [Apply](https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/262571?utm_source=aprameyak) | Nov 24 |
+| ↳ | Hourly Pooled - Academic Operations & Customer Relations Student Technician | Laramie, WY | Undergrad | [Apply](https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261524?utm_source=aprameyak) | Nov 24 |
+| ↳ | Hourly Pooled - Student Research Assistant | Laramie, WY | Undergrad | [Apply](https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/262480?utm_source=aprameyak) | Nov 24 |
+| ↳ | Hourly Pooled - BI Digital Webmaster, Student Media | Laramie, WY | Masters | [Apply](https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261915?utm_source=aprameyak) | Nov 24 |
+| ↳ | Work Study Posn Student - UWIN Makerspace Tech, Academic Operations & Customer Relations | Laramie, WY | Undergrad | [Apply](https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261973?utm_source=aprameyak) | Nov 24 |
+| Veolia | Manufacturing Software Engineer Intern | Boulder, CO | Undergrad | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969?utm_source=aprameyak) | Nov 24 |
 | Acuity Insurance | Software Engineer Intern | <details><summary>**2 locations**</summary>Sheboygan, WI</br>Remote (US)</details> | Undergrad | [Apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217&utm_source=aprameyak) | Nov 23 |
 | ↳ | Strategic Information Intern | Sheboygan, WI | Undergrad | [Apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7&utm_source=aprameyak) | Nov 23 |
 | ↳ | Data Analytics Intern (Data Science) | Sheboygan, WI | Undergrad | [Apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7&utm_source=aprameyak) | Nov 23 |

@@ -1,11 +1,57 @@
 # 🎓 New Grad 2027
 
-1603 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1649 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Ande | Software Engineer, AI (Early Career) | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1/application?utm_source=aprameyak) | Nov 24 |
+| Astera Labs Early Career | Platform Solutions Engineer NCG (CE) | Cary, NC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731637005?utm_source=aprameyak) | Nov 24 |
+| ↳ | Platform Solutions Engineer NCG (EE) | Cary, NC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731598005?utm_source=aprameyak) | Nov 24 |
+| Atoms AI | AI Researcher - New Grad (BS/MS) | San Francisco, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8948841002?utm_source=aprameyak) | Nov 24 |
+| ↳ | AI Researcher - New Grad (PhD) | San Francisco, CA |  | PhD | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8924635002?utm_source=aprameyak) | Nov 24 |
+| ↳ | Member of Technical Staff - AI Research | San Francisco, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8951954002?utm_source=aprameyak) | Nov 24 |
+| ↳ | Member of Technical Staff - Applied AI | San Francisco, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8950505002?utm_source=aprameyak) | Nov 24 |
+| Attain Partners | Migration & Integration Developer (Higher Education / Advancement) | Remote (US) |  | Undergrad | [Apply](https://job-boards.greenhouse.io/attainpartners/jobs/5456943008?utm_source=aprameyak) | Nov 24 |
+| Bestgate Engineering | Cleared System Engineer (Entry Level) | Remote (US) |  | Undergrad | [Apply](https://bestgateengineering.applytojob.com/apply/pcGGXYfWYA/Cleared-System-Engineer-Entry-Level?utm_source=aprameyak) | Nov 24 |
+| C3.ai Jobs | Forward Deployed Engineer - Federal, New Grad 2027 | Tysons, VA | Spring 2027 | Undergrad | [Apply](https://c3.ai/job-description/8900477002?gh_jid=8900477002) | Nov 24 |
+| ↳ | Forward Deployed Engineer, New Grad 2027 | Redwood City, CA | Spring 2027 | Undergrad | [Apply](https://c3.ai/job-description/8804558002?gh_jid=8804558002) | Nov 24 |
+| Calyx Containers | Software Tester (Entry Level) | Remote (US) |  | Undergrad | [Apply](https://calyxcontainers.applytojob.com/apply/JeajrFSAfK/Software-Tester-Entry-Level?utm_source=aprameyak) | Nov 24 |
+| Datalab USA | Production Programmer - Entry Level SQL Developer | Germantown, MD |  | Undergrad | [Apply](https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a?utm_source=aprameyak) | Nov 24 |
+| EAi Technologies | Software Quality Assurance Engineer - Entry Level | Remote (US) |  | Undergrad | [Apply](https://eaiti.applytojob.com/apply/9fZhMKFkIW/Software-Quality-Assurance-Engineer-Entry-Level?utm_source=aprameyak) | Nov 24 |
+| Enterprise | Engineer 1, Software - Revenue Management | St. Louis, MO |  | Undergrad | [Apply](https://us-erac.icims.com/jobs/598218/engineer-1%2c-software---revenue-management/job?utm_source=aprameyak) | Nov 24 |
+| Further Early Career | Graduate Program: Entry Level Analytics Developer 2027 | Cleveland, OH |  | Undergrad | [Apply](https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932692002?utm_source=aprameyak) | Nov 24 |
+| ↳ | Graduate Program: Entry Level Developer 2027 | Dallas, TX |  | Undergrad | [Apply](https://job-boards.greenhouse.io/furtherearlycareer/jobs/8906198002?utm_source=aprameyak) | Nov 24 |
+| General Matter | Design Reliability Engineer (New Grad) | Los Angeles, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5492316008?utm_source=aprameyak) | Nov 24 |
+| GHD | Graduate Developer | FARMINGTON HILLS, MI |  | Undergrad | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29509?utm_source=aprameyak) | Nov 24 |
+| GliaCell Technologies | Junior DevOps Engineer | Remote (US) |  | Undergrad | [Apply](https://gliacelltechnologies.applytojob.com/apply/JQlreBpfqn/Junior-DevOps-Engineer?utm_source=aprameyak) | Nov 24 |
+| Intelliforce-IT Solutions Group | Junior Software Engineer (Prime) | Remote (US) |  | Undergrad | [Apply](https://intelliforceitsolutionsgroup.applytojob.com/apply/kocWKm5EhT/Junior-Software-Engineer-Prime?utm_source=aprameyak) | Nov 24 |
+| Iridium Communications | Software Test Engineer I | Chandler, AZ |  | Undergrad | [Apply](https://careers-iridium.icims.com/jobs/5154/software-test-engineer-i/job?utm_source=aprameyak) | Nov 24 |
+| JND Inc | [Entry Level] Korean Bilingual QA / Test Engineer - Mobile Software, AI, 5G Field & Product Quality Testing (261001-2) | DFW, TX |  | Undergrad | [Apply](https://jnd-inc.breezy.hr/p/dab2f4d1a81a-entry-level-korean-bilingual-qa-test-engineer-mobile-software-ai-5g-field-product-quality-testing-261001-2?utm_source=aprameyak) | Nov 24 |
+| ↳ | [Entry Level] Network Field Engineer - Cell Phone Network Field Testing (2605-3) | Plano, TX |  | Undergrad | [Apply](https://jnd-inc.breezy.hr/p/5284c72f7f88-entry-level-network-field-engineer-cell-phone-network-field-testing-2605-3?utm_source=aprameyak) | Nov 24 |
+| ↳ | [Entry Level] Software Tester (2605-3) | Plano, TX |  | Undergrad | [Apply](https://jnd-inc.breezy.hr/p/5b8c79658b3a-entry-level-software-tester-2605-3?utm_source=aprameyak) | Nov 24 |
+| ↳ | [Entry Level] Software Tester (2608-2) | Plano, TX |  | Undergrad | [Apply](https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2?utm_source=aprameyak) | Nov 24 |
+| ↳ | [Entry Level] Software Tester / Field Tester (2605-3) | Plano, TX |  | Undergrad | [Apply](https://jnd-inc.breezy.hr/p/f248fa218f7d-entry-level-software-tester-field-tester-2605-3?utm_source=aprameyak) | Nov 24 |
+| LHB | GIS Specialist – Entry Level | Duluth, MN |  | Undergrad | [Apply](https://careers-lhbcorp.icims.com/jobs/2012/gis-specialist-%e2%80%93-entry-level/job?utm_source=aprameyak) | Nov 24 |
+| SambaNova Systems | AI Performance Engineer - New Grad | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> |  | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) | Nov 24 |
+| ↳ | Compiler Engineer - New Grad | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> |  | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) | Nov 24 |
+| ↳ | Runtime Engineer - New Grad | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> |  | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224843004) | Nov 24 |
+| Shield AI | Engineer I, Software - Perception - New Grad - 6135 | Arlington, VA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | Software Engineer I - Internal Tools (New Grad) - R6052 | Seattle, WA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | Software Development Engineer - New Graduate | San Diego, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140 | Arlington, VA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/e7cb113f-9656-452c-a214-40241dfc04b0/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139 | Arlington, VA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 | Arlington, VA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/29917792-e504-4cb5-9e70-9d74212d3b1f/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | Engineer II, Software - Autonomy Capabilities - New Grad - 6131 | Arlington, VA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 | Arlington, VA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | Engineer II, Software - Autonomous Pilot Integration - New Grad - 6127 | Arlington, VA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/a97fe80e-3ff6-427c-8789-2a7480326bc3/application?utm_source=aprameyak) | Nov 24 |
+| ↳ | Engineer I, Software - New Grad - 6531 | Arlington, VA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?utm_source=aprameyak) | Nov 24 |
+| ViaSat | Systems Test Engineer, Early Career | Carlsbad, CA |  | Masters | [Apply](https://careers.viasat.com/jobs/7099?lang=en-us) | Nov 24 |
+| ↳ | Information Security Specialist, Early Career | Carlsbad, CA |  | Undergrad | [Apply](https://careers.viasat.com/jobs/10148?lang=en-us) | Nov 24 |
+| WonderBotz | Junior AI Engineer | Remote (US) |  | Undergrad | [Apply](https://wonderbotz.applytojob.com/apply/RbPIL43iH6/Junior-AI-Engineer?utm_source=aprameyak) | Nov 24 |
+| ↳ | Junior Software Engineer | Remote (US) |  | Undergrad | [Apply](https://wonderbotz.applytojob.com/apply/RrI9QanYDY/Junior-Software-Engineer?utm_source=aprameyak) | Nov 24 |
+| WyeTech | Junior Software Engineer 1 | Remote (US) |  | Undergrad | [Apply](https://wyetech.applytojob.com/apply/QDm0oPX06i/Junior-Software-Engineer-1?utm_source=aprameyak) | Nov 24 |
 | Akuna Capital OCI | Junior Quantitative Developer & Strategist 2027 \| Columbia University | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065123?utm_source=aprameyak) | Nov 23 |
 | ↳ | Junior Quantitative Developer & Strategist 2027 \| Georgia Institute of Technology | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065025?utm_source=aprameyak) | Nov 23 |
 | ↳ | Junior Quantitative Developer & Strategist 2027 \| Harvard | Chicago, IL |  | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065049?utm_source=aprameyak) | Nov 23 |

@@ -1,11 +1,22 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1208 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1219 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| Anduril | Winter 2027 Test & Evaluation Engineer Co-op | Costa Mesa, CA | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007&utm_source=aprameyak) | Nov 24 |
+| Astera Labs Early Career | Platform Applications Engineer Intern/Co-op (Tools Development Engineer – COSMOS Platform Software) | Vancouver, BC | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005?utm_source=aprameyak) | Nov 24 |
+| ↳ | Platform Applications Engineer Intern/Co-op (Tools & Validation Infrastructure) | Vancouver, BC | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4732319005?utm_source=aprameyak) | Nov 24 |
+| Elucid | Machine Learning PhD Intern: Spring 2027 | Remote (US) | Spring 2027 | PhD | [Apply](https://elucid.applytojob.com/apply/A4aXsoyfPV/Machine-Learning-PhD-Intern-Spring-2027?utm_source=aprameyak) | Nov 24 |
+| ↳ | Software Engineering Intern: Spring 2027 | Remote (US) | Spring 2027 | Undergrad | [Apply](https://elucid.applytojob.com/apply/6VSEqF73l9/Software-Engineering-Intern-Spring-2027?utm_source=aprameyak) | Nov 24 |
+| Innovative Systems | Intern/Co-op- Summer 2027 - Software Engineering | Remote (US) | Co-op | Undergrad | [Apply](https://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering?utm_source=aprameyak) | Nov 24 |
+| Regent | Commercial Business Development, Data Intern (Spring Co-Op/Summer) | North Kingstown, RI | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/REGENT/c32af35c-d7bc-4124-834b-7d35cf51dc7b/application?utm_source=aprameyak) | Nov 24 |
+| SharkNinja | Summer 2027: Software Development Test Engineering Co-op(May to August) | Needham, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725867006?utm_source=aprameyak) | Nov 24 |
+| Shield AI | June 2027 Co-Op - Software Engineer Intern | Dallas, TX | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?utm_source=aprameyak) | Nov 24 |
+| TechInsights | QA Test Automation Co-op Student (Winter 2027) | Remote (US) | Co-op | Undergrad | [Apply](https://techinsights.applytojob.com/apply/ZJYFqNjcVl/QA-Test-Automation-Coop-Student-Winter-2027?utm_source=aprameyak) | Nov 24 |
+| ↳ | Software Development Co-op Student (Winter 2027) | Remote (US) | Co-op | Undergrad | [Apply](https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2027?utm_source=aprameyak) | Nov 24 |
 | AFL | Process Documentation Intern (IT)- Spring 2027 | Duncan, SC | Spring 2027 | Undergrad | [Apply](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=732023e6-6e1f-44de-9a6e-884f71516675) | Nov 23 |
 | ↳ | Web Design/Development Intern- Spring 2027 | Duncan, SC | Spring 2027 | Undergrad | [Apply](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=6e9432db-e1de-4103-b8dd-5bfd57365e4d) | Nov 23 |
 | ↳ | Business Intelligence (BI) Co-Op- Spring 2027 | Duncan, SC | Co-op | Undergrad | [Apply](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=33f4e729-d1f6-4137-a95a-4ac8b27a9453) | Nov 23 |
