@@ -32369,7 +32369,7 @@
   },
   "ios engineer": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -42018,7 +42018,7 @@
   },
   "senior endpoint security engineer": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -73506,9 +73506,10 @@
   },
   "intern - finance (summer 2027)": {
     "t": false,
-    "c": "stale",
-    "v": "",
-    "a": 0
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
   },
   "intern - buyer (summer 2027)": {
     "t": false,
