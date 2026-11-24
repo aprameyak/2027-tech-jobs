@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-1649 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1651 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -34,6 +34,7 @@
 | ↳ | [Entry Level] Software Tester (2608-2) | Plano, TX |  | Undergrad | [Apply](https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2?utm_source=aprameyak) | Nov 24 |
 | ↳ | [Entry Level] Software Tester / Field Tester (2605-3) | Plano, TX |  | Undergrad | [Apply](https://jnd-inc.breezy.hr/p/f248fa218f7d-entry-level-software-tester-field-tester-2605-3?utm_source=aprameyak) | Nov 24 |
 | LHB | GIS Specialist – Entry Level | Duluth, MN |  | Undergrad | [Apply](https://careers-lhbcorp.icims.com/jobs/2012/gis-specialist-%e2%80%93-entry-level/job?utm_source=aprameyak) | Nov 24 |
+| Peraton | Software Engineering (Ignite Innovator Pgm), Associate- Blacksburg, VA | Blacksburg, VA |  | Undergrad | [Apply](https://careers-peraton.icims.com/jobs/177377/software-engineering-%28ignite-innovator-pgm%29%2c-associate--blacksburg%2c-va/job?utm_source=aprameyak) | Nov 24 |
 | SambaNova Systems | AI Performance Engineer - New Grad | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> |  | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) | Nov 24 |
 | ↳ | Compiler Engineer - New Grad | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> |  | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) | Nov 24 |
 | ↳ | Runtime Engineer - New Grad | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> |  | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224843004) | Nov 24 |
@@ -49,6 +50,7 @@
 | ↳ | Engineer I, Software - New Grad - 6531 | Arlington, VA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?utm_source=aprameyak) | Nov 24 |
 | ViaSat | Systems Test Engineer, Early Career | Carlsbad, CA |  | Masters | [Apply](https://careers.viasat.com/jobs/7099?lang=en-us) | Nov 24 |
 | ↳ | Information Security Specialist, Early Career | Carlsbad, CA |  | Undergrad | [Apply](https://careers.viasat.com/jobs/10148?lang=en-us) | Nov 24 |
+| ↳ | Associate Software Engineer, Early Career | Carlsbad, CA |  | Undergrad | [Apply](https://careers.viasat.com/jobs/8557?lang=en-us) | Nov 24 |
 | WonderBotz | Junior AI Engineer | Remote (US) |  | Undergrad | [Apply](https://wonderbotz.applytojob.com/apply/RbPIL43iH6/Junior-AI-Engineer?utm_source=aprameyak) | Nov 24 |
 | ↳ | Junior Software Engineer | Remote (US) |  | Undergrad | [Apply](https://wonderbotz.applytojob.com/apply/RrI9QanYDY/Junior-Software-Engineer?utm_source=aprameyak) | Nov 24 |
 | WyeTech | Junior Software Engineer 1 | Remote (US) |  | Undergrad | [Apply](https://wyetech.applytojob.com/apply/QDm0oPX06i/Junior-Software-Engineer-1?utm_source=aprameyak) | Nov 24 |

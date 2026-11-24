@@ -1,6 +1,6 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1219 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1220 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
@@ -12,6 +12,7 @@
 | Elucid | Machine Learning PhD Intern: Spring 2027 | Remote (US) | Spring 2027 | PhD | [Apply](https://elucid.applytojob.com/apply/A4aXsoyfPV/Machine-Learning-PhD-Intern-Spring-2027?utm_source=aprameyak) | Nov 24 |
 | ↳ | Software Engineering Intern: Spring 2027 | Remote (US) | Spring 2027 | Undergrad | [Apply](https://elucid.applytojob.com/apply/6VSEqF73l9/Software-Engineering-Intern-Spring-2027?utm_source=aprameyak) | Nov 24 |
 | Innovative Systems | Intern/Co-op- Summer 2027 - Software Engineering | Remote (US) | Co-op | Undergrad | [Apply](https://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering?utm_source=aprameyak) | Nov 24 |
+| QuEra Computing | Site Reliability Engineer Co-op | Boston, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5493521008?utm_source=aprameyak) | Nov 24 |
 | Regent | Commercial Business Development, Data Intern (Spring Co-Op/Summer) | North Kingstown, RI | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/REGENT/c32af35c-d7bc-4124-834b-7d35cf51dc7b/application?utm_source=aprameyak) | Nov 24 |
 | SharkNinja | Summer 2027: Software Development Test Engineering Co-op(May to August) | Needham, MA | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725867006?utm_source=aprameyak) | Nov 24 |
 | Shield AI | June 2027 Co-Op - Software Engineer Intern | Dallas, TX | Co-op | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?utm_source=aprameyak) | Nov 24 |

@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4814 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4816 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -41,6 +41,7 @@
 | ↳ | Summer 2027 Internship - Product Intern | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009?utm_source=aprameyak) | Nov 24 |
 | ↳ | Summer 2027 Internship - Product Intern | Coppell, TX | Undergrad | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009?utm_source=aprameyak) | Nov 24 |
 | ↳ | Summer 2027 Internship - Product Management Intern | Seattle, WA | Undergrad | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009?utm_source=aprameyak) | Nov 24 |
+| ↳ | Summer 2027 Internship - Product Management Intern, Card Tech | New York, NY | Undergrad | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009?utm_source=aprameyak) | Nov 24 |
 | Formulary | Software Engineering Intern | New York, NY | Undergrad | [Apply](https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?utm_source=aprameyak) | Nov 24 |
 | Garmin | User Interface Designer Intern | Olathe, KS | Undergrad | [Apply](https://careers.garmin.com/jobs/19938?lang=en-us) | Nov 24 |
 | ↳ | IT Storage Administrator Intern | Olathe, KS | Undergrad | [Apply](https://careers.garmin.com/jobs/20446?lang=en-us) | Nov 24 |
@@ -71,6 +72,7 @@
 | Northwell Health | Emerging Technology & AI Internship | New Hyde Park, Nassau, United States | Undergrad | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/203746?utm_source=aprameyak) | Nov 24 |
 | Nuro | Technical Program Manager, Systems Intern | Mountain View, CA | Masters | [Apply](https://nuro.ai/careersitem?gh_jid=8412577) | Nov 24 |
 | Obsidian | Gameplay Engineer - 2027 Summer Internship | Remote (US) | Undergrad | [Apply](https://obsidian.applytojob.com/apply/zxhj1ePGcR/Gameplay-Engineer-2027-Summer-Internship?utm_source=aprameyak) | Nov 24 |
+| QinetiQ | Software Engineer Intern | Remote (US) | Undergrad | [Apply](https://careers-qinetiqus.icims.com/jobs/12880/software-engineer-intern/job?utm_source=aprameyak) | Nov 24 |
 | Regent | State Estimation Intern (Summer) | North Kingstown, RI | Undergrad | [Apply](https://jobs.ashbyhq.com/REGENT/8c76e568-34ce-49d0-ade8-fcc6bdf656cf/application?utm_source=aprameyak) | Nov 24 |
 | ↳ | Radar Signal Processing Intern (Summer) | North Kingstown, RI | Undergrad | [Apply](https://jobs.ashbyhq.com/REGENT/2b98602b-2060-45c7-a916-ae7ca9656fd3/application?utm_source=aprameyak) | Nov 24 |
 | ↳ | Mission Software Engineering Intern (Summer) | North Kingstown, RI | Undergrad | [Apply](https://jobs.ashbyhq.com/REGENT/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?utm_source=aprameyak) | Nov 24 |
