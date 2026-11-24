@@ -156,14 +156,64 @@ CLAUDE_USAGE_FILE = (
 )
 FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
 
-CLAUDE_MODEL = 'claude-haiku-4-5-20251001'
+CLAUDE_MODEL = os.environ.get('GROQ_MODEL', 'openai/gpt-oss-20b')
+LLM_API_URL = os.environ.get(
+    'LLM_API_URL', 'https://api.groq.com/openai/v1/chat/completions'
+)
 CLAUDE_BATCH_SIZE = int(os.environ.get('CLAUDE_BATCH_SIZE', '60'))
 CLAUDE_MAX_CALLS_PER_RUN = int(os.environ.get('CLAUDE_MAX_CALLS_PER_RUN', '24'))
 CLAUDE_MAX_CALLS_PER_DAY = int(os.environ.get('CLAUDE_MAX_CALLS_PER_DAY', '120'))
 CLAUDE_MAX_TITLES_PER_RUN = int(os.environ.get('CLAUDE_MAX_TITLES_PER_RUN', '720'))
 TITLE_PROMPT_MAX_LEN = 120
-_claude_client = None
 _claude_usage_dirty = False
+
+
+class _LLMRateLimitError(Exception):
+    pass
+
+
+def _get_llm_api_key():
+    return (
+        os.environ.get('GROQ_API_KEY')
+        or os.environ.get('ANTHROPIC_API_KEY')
+        or ''
+    ).strip() or None
+
+
+def _llm_complete(prompt, max_tokens):
+    api_key = _get_llm_api_key()
+    if not api_key:
+        return None
+    resp = requests.post(
+        LLM_API_URL,
+        headers={
+            'Authorization': f'Bearer {api_key}',
+            'Content-Type': 'application/json',
+            'User-Agent': '2027-tech-jobs/1.0',
+        },
+        json={
+            'model': CLAUDE_MODEL,
+            'temperature': 0,
+            'max_tokens': max_tokens,
+            'messages': [
+                {
+                    'role': 'system',
+                    'content': 'Respond with JSON only. No markdown fences.',
+                },
+                {'role': 'user', 'content': prompt},
+            ],
+        },
+        timeout=120,
+    )
+    if resp.status_code == 429:
+        raise _LLMRateLimitError(resp.text[:200])
+    if resp.status_code >= 400:
+        raise RuntimeError(f'LLM HTTP {resp.status_code}: {resp.text[:300]}')
+    msg = resp.json()['choices'][0]['message']
+    text = (msg.get('content') or '').strip()
+    if not text:
+        raise RuntimeError('LLM empty content')
+    return text
 
 MAX_WORKDAY_PAGES_PER_TERM = 2
 WORKDAY_SEARCH_TERMS = (
@@ -535,14 +585,7 @@ def save_claude_usage():
 _claude_calls_this_run = 0
 
 def _get_claude_client():
-    global _claude_client
-    api_key = os.environ.get('ANTHROPIC_API_KEY')
-    if not api_key:
-        return None
-    if _claude_client is None:
-        import anthropic
-        _claude_client = anthropic.Anthropic(api_key=api_key)
-    return _claude_client
+    return _get_llm_api_key()
 
 def _record_claude_call():
     global _claude_calls_today, _claude_calls_this_run, _claude_usage_dirty
@@ -662,28 +705,27 @@ def batch_classify_with_claude(titles, board='unknown'):
         )
         return {}
 
-    client = _get_claude_client()
-    if not client:
+    if not _get_claude_client():
         return {}
 
     clipped = [_clip_title(t) for t in titles]
     n = len(clipped)
     prompt = build_classify_prompt(clipped, board=board)
-    max_tokens = max(n * 28 + 96, 256)
+    max_tokens = max(n * 48 + 800, 1200)
 
     for attempt in range(4):
         try:
-            message = client.messages.create(
-                model=CLAUDE_MODEL,
-                max_tokens=max_tokens,
-                messages=[{'role': 'user', 'content': prompt}],
-            )
+            text = _llm_complete(prompt, max_tokens)
+            if text is None:
+                return {}
 
             _record_claude_call()
 
-            text = message.content[0].text.strip()
             text = re.sub(r'^```(?:json)?\s*', '', text)
             text = re.sub(r'\s*```$', '', text)
+            start, end = text.find('['), text.rfind(']')
+            if start >= 0 and end > start:
+                text = text[start:end + 1]
             raw = json.loads(text)
 
             if not isinstance(raw, list) or len(raw) != n:
@@ -722,19 +764,12 @@ def batch_classify_with_claude(titles, board='unknown'):
                 out.update(batch_classify_with_claude(titles[mid:], board=board))
                 return out
             return {}
+        except _LLMRateLimitError as e:
+            wait = min((2 ** attempt) * 5, 60)
+            print(f'  [Claude/{board}] 429 rate limit — waiting {wait}s (attempt {attempt + 1}/4)')
+            time.sleep(wait)
+            continue
         except Exception as e:
-            try:
-                import anthropic as _anthropic
-                if isinstance(e, _anthropic.APIStatusError) and e.status_code == 429:
-                    wait = min((2 ** attempt) * 5, 60)
-                    print(f'  [Claude/{board}] 429 rate limit — waiting {wait}s (attempt {attempt + 1}/4)')
-                    time.sleep(wait)
-                    continue
-                if isinstance(e, _anthropic.APIStatusError):
-                    print(f'  [Claude/{board}] API error {e.status_code}: {e.message}')
-                    return {}
-            except Exception:
-                pass
             print(f'  [Claude/{board}] Error: {e}')
             return {}
 
@@ -881,24 +916,23 @@ def classify_sponsorship(jobs):
     todo = [j for j in jobs if j.get('visa_text')]
     for i in range(0, len(todo), CLAUDE_BATCH_SIZE):
         chunk = todo[i:i + CLAUDE_BATCH_SIZE]
-        client = _get_claude_client()
-        if not client or not _claude_budget_ok(1):
+        if not _get_claude_client() or not _claude_budget_ok(1):
             return
         try:
-            message = client.messages.create(
-                model=CLAUDE_MODEL,
-                max_tokens=len(chunk) * 30 + 200,
-                messages=[{'role': 'user', 'content': build_sponsorship_prompt([j['visa_text'] for j in chunk])}],
+            reply = _llm_complete(
+                build_sponsorship_prompt([j['visa_text'] for j in chunk]),
+                max(len(chunk) * 48 + 800, 1200),
             )
+            if reply is None:
+                return
             _record_claude_call()
-            reply = message.content[0].text
             parsed = parse_sponsorship_response(reply, len(chunk))
         except Exception as e:
             print(f'  [Claude/sponsorship] Error: {e}')
             return
         if parsed is None:
             print(f'  [Claude/sponsorship] Malformed response for {len(chunk)} job(s) — leaving Unknown '
-                  f'(stop={message.stop_reason}, reply={reply[:120]!r}...{reply[-60:]!r})')
+                  f'(reply={reply[:120]!r}...{reply[-60:]!r})')
             continue
         for job, (sponsorship, citizenship) in zip(chunk, parsed):
             job['sponsorship'] = sponsorship

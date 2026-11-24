@@ -29,7 +29,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests pyyaml anthropic
+      - run: pip install requests pyyaml
       - name: Scrape Greenhouse
         timeout-minutes: 55
         env:
@@ -67,7 +67,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests pyyaml anthropic
+      - run: pip install requests pyyaml
       - name: Scrape Ashby
         timeout-minutes: 45
         env:
@@ -113,7 +113,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests pyyaml anthropic
+      - run: pip install requests pyyaml
       - name: Scrape Workday shard ${{ matrix.shard }}
         timeout-minutes: 40
         env:
@@ -155,7 +155,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests pyyaml anthropic
+      - run: pip install requests pyyaml
       - name: Scrape LinkedIn, Amazon, and Google Careers
         timeout-minutes: 55
         env:
@@ -193,7 +193,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests pyyaml anthropic
+      - run: pip install requests pyyaml
       - name: Scrape Oracle HCM
         timeout-minutes: 55
         env:
@@ -230,7 +230,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests pyyaml anthropic
+      - run: pip install requests pyyaml
       - name: Scrape Lever / SmartRecruiters / Workable / Recruitee / Pinpoint / iCIMS / Avature / Breezy / Dover / Phenom / Careers portals / ApplyToJob
         timeout-minutes: 75
         env:
@@ -267,7 +267,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests pyyaml anthropic
+      - run: pip install requests pyyaml
       - name: Verify UKG boards reachable
         env:
           BOARD_GROUP: ukg
@@ -308,7 +308,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests pyyaml anthropic
+      - run: pip install requests pyyaml
       - name: Verify BambooHR boards reachable
         env:
           BOARD_GROUP: bamboohr
@@ -351,7 +351,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests pyyaml anthropic
+      - run: pip install requests pyyaml
       - name: Apply pending discoveries to listings.json
         run: python .github/scripts/apply_pending.py
       - name: Commit listings and README

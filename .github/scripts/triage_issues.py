@@ -10,7 +10,6 @@ import sys
 from pathlib import Path
 from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
 
-import anthropic
 import requests
 
 _SCRIPTS_DIR = Path(__file__).resolve().parent
@@ -19,11 +18,13 @@ if str(_SCRIPTS_DIR) not in sys.path:
 from scope_rules import is_out_of_scope_title, is_in_scope_listing_title
 from claude_board_prompts import build_triage_prompt
 
-CLAUDE_MODEL = 'claude-haiku-4-5-20251001'
+CLAUDE_MODEL = os.environ.get('GROQ_MODEL', 'openai/gpt-oss-20b')
+LLM_API_URL = os.environ.get(
+    'LLM_API_URL', 'https://api.groq.com/openai/v1/chat/completions'
+)
 REPO = os.environ.get('GITHUB_REPOSITORY', '')
 TOKEN = os.environ.get('GITHUB_TOKEN') or os.environ.get('REPO_PAT') or ''
 API = 'https://api.github.com'
-_claude_client = None
 
 STRIP_PARAMS = {
     'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'utm_id',
@@ -39,14 +40,50 @@ def gh_headers():
     }
 
 
+def _get_llm_api_key():
+    return (
+        os.environ.get('GROQ_API_KEY')
+        or os.environ.get('ANTHROPIC_API_KEY')
+        or ''
+    ).strip() or None
+
+
 def _get_client():
-    global _claude_client
-    api_key = os.environ.get('ANTHROPIC_API_KEY')
+    return _get_llm_api_key()
+
+
+def _llm_complete(prompt, max_tokens):
+    api_key = _get_llm_api_key()
     if not api_key:
         return None
-    if _claude_client is None:
-        _claude_client = anthropic.Anthropic(api_key=api_key)
-    return _claude_client
+    resp = requests.post(
+        LLM_API_URL,
+        headers={
+            'Authorization': f'Bearer {api_key}',
+            'Content-Type': 'application/json',
+            'User-Agent': '2027-tech-jobs/1.0',
+        },
+        json={
+            'model': CLAUDE_MODEL,
+            'temperature': 0,
+            'max_tokens': max_tokens,
+            'messages': [
+                {
+                    'role': 'system',
+                    'content': 'Respond with JSON only. No markdown fences.',
+                },
+                {'role': 'user', 'content': prompt},
+            ],
+        },
+        timeout=120,
+    )
+    if resp.status_code >= 400:
+        raise RuntimeError(f'LLM HTTP {resp.status_code}: {resp.text[:300]}')
+    msg = resp.json()['choices'][0]['message']
+    text = (msg.get('content') or '').strip()
+    if not text:
+        raise RuntimeError('LLM empty content')
+    return text
 
 
 def _is_listing_issue(issue):
@@ -153,14 +190,14 @@ def claude_decide_batch(items):
         )
     n = len(items)
     prompt = build_triage_prompt(lines, n)
-    msg = client.messages.create(
-        model=CLAUDE_MODEL,
-        max_tokens=min(400 * n, 8000),
-        messages=[{'role': 'user', 'content': prompt}],
-    )
-    text = msg.content[0].text.strip()
+    text = _llm_complete(prompt, max(min(400 * n + 800, 8000), 1200))
+    if not text:
+        raise RuntimeError('LLM unavailable')
     text = re.sub(r'^```(?:json)?\s*', '', text)
     text = re.sub(r'\s*```$', '', text)
+    start, end = text.find('['), text.rfind(']')
+    if start >= 0 and end > start:
+        text = text[start:end + 1]
     parsed = json.loads(text)
     if not isinstance(parsed, list) or len(parsed) != n:
         raise ValueError(f'expected {n} decisions, got {type(parsed).__name__}')
@@ -243,8 +280,8 @@ def main():
     if not TOKEN or not REPO:
         print('GITHUB_TOKEN/REPO_PAT and GITHUB_REPOSITORY required')
         sys.exit(1)
-    if not os.environ.get('ANTHROPIC_API_KEY'):
-        print('ANTHROPIC_API_KEY required')
+    if not _get_llm_api_key():
+        print('GROQ_API_KEY or ANTHROPIC_API_KEY required')
         sys.exit(1)
 
     issues = list_open_listing_issues()
