@@ -1,0 +1,28 @@
+name: Issue Generator
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+    inputs:
+      context:
+        description: Area to generate issues for
+        required: true
+        default: 'dead apply links, missing company boards, and docs for contributing new listings'
+      issue_count:
+        description: Number of issues (1-5)
+        required: true
+        default: '3'
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  generate:
+    uses: aprameyak/issue-generator/.github/workflows/generate.yml@main
+    with:
+      context: ${{ github.event.inputs.context || 'dead apply links, missing company boards, and docs for contributing new listings' }}
+      issue_count: ${{ github.event.inputs.issue_count || '3' }}
+    secrets:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
