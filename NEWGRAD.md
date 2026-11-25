@@ -1,11 +1,13 @@
 # 🎓 New Grad 2027
 
-1651 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1653 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| Freedom Technology Solutions Group | Junior Software Engineer 817 | Annapolis Junction, MD |  | Undergrad | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5308625007?utm_source=aprameyak) | Nov 25 |
+| JPMorgan Chase | Applied AI/ML Data Scientist - Data & Analytics - Associate | Jersey City, NJ |  | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773611?utm_source=aprameyak) | Nov 25 |
 | Ande | Software Engineer, AI (Early Career) | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1/application?utm_source=aprameyak) | Nov 24 |
 | Astera Labs Early Career | Platform Solutions Engineer NCG (CE) | Cary, NC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731637005?utm_source=aprameyak) | Nov 24 |
 | ↳ | Platform Solutions Engineer NCG (EE) | Cary, NC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731598005?utm_source=aprameyak) | Nov 24 |
