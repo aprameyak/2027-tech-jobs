@@ -115,13 +115,13 @@ jobs:
           python-version: '3.11'
       - run: pip install requests pyyaml
       - name: Scrape Workday shard ${{ matrix.shard }}
-        timeout-minutes: 40
+        timeout-minutes: 45
         env:
           BOARD_GROUP: workday
           WORKDAY_MAX_WORKERS: '2'
           WORKDAY_SHARD: ${{ matrix.shard }}
           WORKDAY_SHARD_COUNT: '3'
-          WORKDAY_TIME_BUDGET_SEC: '2100'
+          WORKDAY_TIME_BUDGET_SEC: '1500'
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
         run: python .github/scripts/scrape_jobs.py
@@ -232,13 +232,16 @@ jobs:
           python-version: '3.11'
       - run: pip install requests pyyaml
       - name: Scrape Lever / SmartRecruiters / Workable / Recruitee / Pinpoint / iCIMS / Avature / Breezy / Dover / Phenom / Careers portals / ApplyToJob
-        timeout-minutes: 75
+        timeout-minutes: 90
         env:
           BOARD_GROUP: other
+          CLAUDE_BATCH_SIZE: '20'
+          SPONSORSHIP_MAX_JOBS: '40'
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PRIORITY_ALERT_WEBHOOK_URL: ${{ secrets.PRIORITY_ALERT_WEBHOOK_URL }}
         run: python .github/scripts/scrape_jobs.py
       - name: Commit data files
+        if: success() || failure()
         run: |
           git config user.name "baldmeya"
           git config user.email "akannan8@umd.edu"

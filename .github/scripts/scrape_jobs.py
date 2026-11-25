@@ -51,11 +51,32 @@ _workday_session.mount(
     'https://', HTTPAdapter(max_retries=_workday_retry_policy(), pool_maxsize=8)
 )
 
+_llm_session = requests.Session()
+_llm_session.mount(
+    'https://',
+    HTTPAdapter(
+        max_retries=Retry(
+            total=2,
+            connect=2,
+            read=2,
+            backoff_factor=0.5,
+            status_forcelist=[500, 502, 503, 504],
+            allowed_methods=None,
+            respect_retry_after_header=True,
+        ),
+        pool_maxsize=4,
+    ),
+)
+
 _workday_gate = threading.Lock()
 _workday_next_ok = 0.0
 _workday_interval = 0.35
 _WORKDAY_INTERVAL_MIN = 0.25
 _WORKDAY_INTERVAL_MAX = 8.0
+
+_llm_gate = threading.Lock()
+_llm_next_ok = 0.0
+_LLM_MIN_INTERVAL = float(os.environ.get('LLM_MIN_INTERVAL', '1.25'))
 
 
 def _workday_post(api_url, payload, headers, timeout=(8, 20)):
@@ -156,14 +177,14 @@ CLAUDE_USAGE_FILE = (
 )
 FOLLOWED_COMPANIES_FILE = Path('.github/data/followed_companies.json')
 
-CLAUDE_MODEL = os.environ.get('GROQ_MODEL', 'openai/gpt-oss-20b')
+CLAUDE_MODEL = os.environ.get('GROQ_MODEL', 'qwen/qwen3.8-27b')
 LLM_API_URL = os.environ.get(
     'LLM_API_URL', 'https://api.groq.com/openai/v1/chat/completions'
 )
-CLAUDE_BATCH_SIZE = int(os.environ.get('CLAUDE_BATCH_SIZE', '60'))
+CLAUDE_BATCH_SIZE = int(os.environ.get('CLAUDE_BATCH_SIZE', '20'))
 CLAUDE_MAX_CALLS_PER_RUN = int(os.environ.get('CLAUDE_MAX_CALLS_PER_RUN', '24'))
 CLAUDE_MAX_CALLS_PER_DAY = int(os.environ.get('CLAUDE_MAX_CALLS_PER_DAY', '120'))
-CLAUDE_MAX_TITLES_PER_RUN = int(os.environ.get('CLAUDE_MAX_TITLES_PER_RUN', '720'))
+CLAUDE_MAX_TITLES_PER_RUN = int(os.environ.get('CLAUDE_MAX_TITLES_PER_RUN', '480'))
 TITLE_PROMPT_MAX_LEN = 120
 _claude_usage_dirty = False
 
@@ -181,10 +202,17 @@ def _get_llm_api_key():
 
 
 def _llm_complete(prompt, max_tokens):
+    global _llm_next_ok
     api_key = _get_llm_api_key()
     if not api_key:
         return None
-    resp = requests.post(
+    with _llm_gate:
+        now = time.monotonic()
+        wait = max(0.0, _llm_next_ok - now)
+        _llm_next_ok = now + wait + _LLM_MIN_INTERVAL
+    if wait > 0:
+        time.sleep(wait)
+    resp = _llm_session.post(
         LLM_API_URL,
         headers={
             'Authorization': f'Bearer {api_key}',
@@ -203,9 +231,16 @@ def _llm_complete(prompt, max_tokens):
                 {'role': 'user', 'content': prompt},
             ],
         },
-        timeout=120,
+        timeout=90,
     )
     if resp.status_code == 429:
+        retry_after = resp.headers.get('retry-after')
+        try:
+            extra = max(5.0, float(retry_after))
+        except (TypeError, ValueError):
+            extra = 15.0
+        with _llm_gate:
+            _llm_next_ok = max(_llm_next_ok, time.monotonic() + extra)
         raise _LLMRateLimitError(resp.text[:200])
     if resp.status_code >= 400:
         raise RuntimeError(f'LLM HTTP {resp.status_code}: {resp.text[:300]}')
@@ -711,7 +746,7 @@ def batch_classify_with_claude(titles, board='unknown'):
     clipped = [_clip_title(t) for t in titles]
     n = len(clipped)
     prompt = build_classify_prompt(clipped, board=board)
-    max_tokens = max(n * 48 + 800, 1200)
+    max_tokens = max(n * 40 + 400, 800)
 
     for attempt in range(4):
         try:
@@ -731,7 +766,7 @@ def batch_classify_with_claude(titles, board='unknown'):
             if not isinstance(raw, list) or len(raw) != n:
                 print(f'  [Claude/{board}] Expected {n} results, got '
                       f'{len(raw) if isinstance(raw, list) else type(raw).__name__}')
-                if n > 20 and attempt < 3:
+                if n > 8 and attempt < 3:
                     mid = n // 2
                     out = {}
                     out.update(batch_classify_with_claude(titles[:mid], board=board))
@@ -757,20 +792,26 @@ def batch_classify_with_claude(titles, board='unknown'):
 
         except json.JSONDecodeError as e:
             print(f'  [Claude/{board}] JSON parse error: {e}')
-            if n > 20 and attempt < 3:
+            if n > 8 and attempt < 3:
                 mid = n // 2
                 out = {}
                 out.update(batch_classify_with_claude(titles[:mid], board=board))
                 out.update(batch_classify_with_claude(titles[mid:], board=board))
                 return out
             return {}
-        except _LLMRateLimitError as e:
-            wait = min((2 ** attempt) * 5, 60)
+        except _LLMRateLimitError:
+            wait = min((2 ** attempt) * 8, 90)
             print(f'  [Claude/{board}] 429 rate limit — waiting {wait}s (attempt {attempt + 1}/4)')
             time.sleep(wait)
             continue
         except Exception as e:
             print(f'  [Claude/{board}] Error: {e}')
+            if n > 8 and attempt < 2 and 'empty content' in str(e).lower():
+                mid = n // 2
+                out = {}
+                out.update(batch_classify_with_claude(titles[:mid], board=board))
+                out.update(batch_classify_with_claude(titles[mid:], board=board))
+                return out
             return {}
 
     return {}
@@ -912,8 +953,11 @@ def classify_titles_batch(title_list):
     return classified
 
 def classify_sponsorship(jobs):
-    """Fill job['sponsorship'/'citizenship'] from visa snippets via one batched Claude call per chunk."""
     todo = [j for j in jobs if j.get('visa_text')]
+    max_jobs = int(os.environ.get('SPONSORSHIP_MAX_JOBS', '40'))
+    if len(todo) > max_jobs:
+        print(f'  [Claude/sponsorship] Limiting to {max_jobs}/{len(todo)} job(s)')
+        todo = todo[:max_jobs]
     for i in range(0, len(todo), CLAUDE_BATCH_SIZE):
         chunk = todo[i:i + CLAUDE_BATCH_SIZE]
         if not _get_claude_client() or not _claude_budget_ok(1):
@@ -921,7 +965,7 @@ def classify_sponsorship(jobs):
         try:
             reply = _llm_complete(
                 build_sponsorship_prompt([j['visa_text'] for j in chunk]),
-                max(len(chunk) * 48 + 800, 1200),
+                max(len(chunk) * 40 + 400, 800),
             )
             if reply is None:
                 return
@@ -3166,8 +3210,22 @@ def main():
 
         if BOARD_GROUP == 'workday':
             pending_tasks = list(scrape_tasks)
-            reserve_sec = 120.0
+            reserve_sec = 180.0
             while pending_tasks or futures:
+                if (
+                    _workday_deadline is not None
+                    and time.monotonic() >= _workday_deadline
+                ):
+                    scrape_skipped_budget += len(pending_tasks) + len(futures)
+                    print(
+                        f'  [workday] Soft deadline hit — abandoning '
+                        f'{len(pending_tasks)} queued + {len(futures)} in-flight'
+                    )
+                    pending_tasks.clear()
+                    for future in list(futures):
+                        future.cancel()
+                    futures.clear()
+                    break
                 while (
                     pending_tasks
                     and len(futures) < max_workers
