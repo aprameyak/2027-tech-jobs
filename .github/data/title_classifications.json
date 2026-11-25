@@ -7032,9 +7032,9 @@
     "b": "s"
   },
   "senior product security engineer ": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -10610,9 +10610,9 @@
     "b": "s"
   },
   "engineering manager, cybersecurity products": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -35063,9 +35063,9 @@
     "b": "s"
   },
   "designer, web presence & platform": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -51737,8 +51737,9 @@
   },
   "bastrop campus planning manager": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   },
   "bastrop site expansion manager": {
     "t": false,
@@ -58663,9 +58664,9 @@
     "b": "s"
   },
   "technical site planning manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
