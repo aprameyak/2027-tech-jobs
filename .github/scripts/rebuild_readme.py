@@ -199,8 +199,10 @@ def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n
             flags=re.S,
         )
 
+    site_url = 'https://2027techjobs.aprameyakannan.com/'
+    site_label = '2027techjobs.aprameyakannan.com'
     toc = (
-        f'**Browse the searchable site:** [2027-tech-jobs.aprameyak.workers.dev](https://2027-tech-jobs.aprameyak.workers.dev/)\n\n'
+        f'**Browse the searchable site:** [{site_label}]({site_url})\n\n'
         f'- [☀️ Summer 2027 Internships]({TOC_HREFS["summer"]}) ({summer_n})\n'
         f'- [🔄 Off-Cycle Internships & Co-ops]({TOC_HREFS["offcycle"]}) ({offcycle_n})\n'
         f'- [🎓 New Grad 2027]({TOC_HREFS["newgrad"]}) ({newgrad_n})\n'
@@ -211,9 +213,13 @@ def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n
         '\n',
         content,
     )
+    content = re.sub(
+        r'(?:\*\*)?Browse the searchable site:(?:\*\*)?[^\n]*\n+',
+        '',
+        content,
+    )
 
     toc_pattern = re.compile(
-        r'(?:\*\*Browse the searchable site:\*\* \[aprameyak-jobs\.vercel\.app\]\([^)]+\)\n\n)?'
         r'- \[☀️ Summer 2027 Internships\]\([^)]+\)(?:\s*\(\d+\))?\n'
         r'- \[🔄 Off-Cycle Internships & Co-ops\]\([^)]+\)(?:\s*\(\d+\))?\n'
         r'- \[🎓 New Grad 2027\]\([^)]+\)(?:\s*\(\d+\))?\n'
