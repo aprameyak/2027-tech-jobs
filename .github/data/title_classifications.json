@@ -7033,7 +7033,7 @@
   },
   "senior product security engineer ": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -10611,7 +10611,7 @@
   },
   "engineering manager, cybersecurity products": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
     "a": 0,
     "b": "s"
@@ -35064,8 +35064,9 @@
   },
   "designer, web presence & platform": {
     "t": true,
-    "c": "stale",
+    "c": "low",
     "v": "",
+    "a": 0,
     "b": "s"
   },
   "design manager, digital experiences": {
