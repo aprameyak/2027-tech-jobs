@@ -201,8 +201,8 @@ def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n
 
     site_url = 'https://2027techjobs.aprameyakannan.com/'
     site_label = '2027techjobs.aprameyakannan.com'
-    toc = (
-        f'**Browse the searchable site:** [{site_label}]({site_url})\n\n'
+    browse_line = f'**Browse the searchable site:** [{site_label}]({site_url})'
+    toc_bullets = (
         f'- [☀️ Summer 2027 Internships]({TOC_HREFS["summer"]}) ({summer_n})\n'
         f'- [🔄 Off-Cycle Internships & Co-ops]({TOC_HREFS["offcycle"]}) ({offcycle_n})\n'
         f'- [🎓 New Grad 2027]({TOC_HREFS["newgrad"]}) ({newgrad_n})\n'
@@ -213,11 +213,6 @@ def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n
         '\n',
         content,
     )
-    content = re.sub(
-        r'(?:\*\*)?Browse the searchable site:(?:\*\*)?[^\n]*\n+',
-        '',
-        content,
-    )
 
     toc_pattern = re.compile(
         r'- \[☀️ Summer 2027 Internships\]\([^)]+\)(?:\s*\(\d+\))?\n'
@@ -225,7 +220,7 @@ def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n
         r'- \[🎓 New Grad 2027\]\([^)]+\)(?:\s*\(\d+\))?\n'
     )
     if toc_pattern.search(content):
-        content = toc_pattern.sub(toc, content, count=1)
+        content = toc_pattern.sub(toc_bullets, content, count=1)
         toc_updated = True
     else:
         print('WARN: Could not find legacy TOC pattern in README.md; keeping current structure', file=sys.stderr)
@@ -265,6 +260,18 @@ def update_readme(summer_rows, offcycle_rows, newgrad_rows, summer_n, offcycle_n
 
         content = re.sub(r'(?:\n---\s*){2,}\n', '\n---\n', content)
         content = re.sub(r'\n{3,}', '\n\n', content)
+
+    # Always end with exactly one browse line above the TOC (never stack).
+    content = re.sub(
+        r'^[ \t]*(?:\*\*)?Browse the searchable site:(?:\*\*)?[^\n]*\n+',
+        '',
+        content,
+        flags=re.M,
+    )
+    if toc_pattern.search(content):
+        content = toc_pattern.sub(browse_line + '\n\n' + toc_bullets, content, count=1)
+    else:
+        content = browse_line + '\n\n' + content
 
     README_FILE.write_text(content, encoding='utf-8')
 
