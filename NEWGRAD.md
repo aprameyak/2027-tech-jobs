@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-1676 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1677 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -30,6 +30,7 @@
 | JPMorgan Chase | Applied AI/ML Data Scientist - Data & Analytics - Associate | Jersey City, NJ |  | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773611?utm_source=aprameyak) | Nov 25 |
 | MITRE | Associate Data Engineer | McLean, VA |  | Undergrad | [Apply](https://mitre.wd5.myworkdayjobs.com/MITRE/job/McLean-VA/Associate-Data-Engineer_R118112-1/apply?utm_source=aprameyak) | Nov 25 |
 | NavAide | Junior Data Analyst | Remote (US) |  | Undergrad | [Apply](https://navaide.breezy.hr/p/d27f3578d26d-junior-data-analyst?utm_source=aprameyak) | Nov 25 |
+| University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being | Remote (US) |  | Undergrad | [Apply](https://studentemployment-stthomas.icims.com/jobs/10464/graduate-assistant-for-data-analytics%2c-center-for-well-being/job?utm_source=aprameyak) | Nov 25 |
 | Veeva Systems | Associate Software Engineer - 2027 Start Dates | Raleigh, NC |  | Undergrad | [Apply](https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f?utm_source=aprameyak) | Nov 25 |
 | Ande | Software Engineer, AI (Early Career) | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1/application?utm_source=aprameyak) | Nov 24 |
 | Astera Labs Early Career | Platform Solutions Engineer NCG (CE) | Cary, NC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731637005?utm_source=aprameyak) | Nov 24 |
