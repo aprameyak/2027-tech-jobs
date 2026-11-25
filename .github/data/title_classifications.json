@@ -154252,5 +154252,30 @@
     "c": "medium",
     "v": "cs-is-v4",
     "a": 0
+  },
+  "intern, acquisitions": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "(data exploiter) cyber technical analyst principal (ts/sci with poly required)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "2027 natpack - nationals park (part-time, limited term)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "junior test engineer - antenna": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   }
 }
