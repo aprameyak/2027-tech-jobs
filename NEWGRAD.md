@@ -1,13 +1,36 @@
 # 🎓 New Grad 2027
 
-1653 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1676 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| AbbVie | Associate Data Scientist II – Early Discovery Science | North Chicago, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017066596?utm_source=aprameyak) | Nov 25 |
+| Axtria | Campus 2027: Decision Intelligence (DI) Analyst | Remote (US) |  | Undergrad | [Apply](https://axtriainc.applytojob.com/apply/pw4tXgyRFb/Campus-2027-Decision-Intelligence-DI-Analyst?utm_source=aprameyak) | Nov 25 |
+| Beyond New Horizons | Entry-Level ID&C Software Engineer | Arnold AFB, TN |  | Undergrad | [Apply](https://careers-bnh.icims.com/jobs/26055/entry-level-id%26c-software-engineer/job?utm_source=aprameyak) | Nov 25 |
 | Freedom Technology Solutions Group | Junior Software Engineer 817 | Annapolis Junction, MD |  | Undergrad | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5308625007?utm_source=aprameyak) | Nov 25 |
+| Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Algorithm Development Engineer | Laurel, MD | Spring 2027 | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/60916?lang=en-us) | Nov 25 |
+| ↳ | 2027 Graduate - Software Systems Engineer | Laurel, MD | Spring 2027 | Masters | [Apply](https://careers.jhuapl.edu/jobs/60601?lang=en-us) | Nov 25 |
+| ↳ | 2027 Graduate - Cyber Engineer/Scientist - Resilient Military Systems | Laurel, MD | Spring 2027 | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/59353?lang=en-us) | Nov 25 |
+| ↳ | 2027 PhD Graduate – Engineer or Scientist - Critical Infrastructure Protection | Laurel, MD | Spring 2027 | PhD | [Apply](https://careers.jhuapl.edu/jobs/60567?lang=en-us) | Nov 25 |
+| ↳ | 2027 PhD Graduate – Wireless Communications Engineer – Wireless Cyber Capabilities | Laurel, MD | Spring 2027 | PhD | [Apply](https://careers.jhuapl.edu/jobs/59922?lang=en-us) | Nov 25 |
+| ↳ | 2027 Graduate - Engineer/Researcher - Cyber Capabilities Development | Laurel, MD | Spring 2027 | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/60429?lang=en-us) | Nov 25 |
+| ↳ | 2027 Graduate - Analyst/Researcher - Cyber Capabilities Development | Laurel, MD | Spring 2027 | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/60428?lang=en-us) | Nov 25 |
+| ↳ | 2027 Graduate - Reverse Engineer - Systems Exploitation | Laurel, MD | Spring 2027 | Masters | [Apply](https://careers.jhuapl.edu/jobs/59797?lang=en-us) | Nov 25 |
+| ↳ | 2027 BS/MS Graduate - Artificial Intelligence and Complex Systems | Laurel, MD | Spring 2027 | Masters | [Apply](https://careers.jhuapl.edu/jobs/59664?lang=en-us) | Nov 25 |
+| ↳ | 2027 BS/MS Graduate - AI/ML Research Engineer | Laurel, MD | Spring 2027 | Masters | [Apply](https://careers.jhuapl.edu/jobs/59548?lang=en-us) | Nov 25 |
+| ↳ | 2027 PhD Graduate - Artificial Intelligence and Complex Systems | Laurel, MD | Spring 2027 | PhD | [Apply](https://careers.jhuapl.edu/jobs/60075?lang=en-us) | Nov 25 |
+| ↳ | 2027 PhD Graduate – Vulnerability Researcher – Offensive Cyber Capabilities | Laurel, MD | Spring 2027 | PhD | [Apply](https://careers.jhuapl.edu/jobs/59926?lang=en-us) | Nov 25 |
+| ↳ | 2027 Graduate - Intelligent Autonomous Systems Development, Test and Artificial Intelligence (AI) | Laurel, MD | Spring 2027 | Masters | [Apply](https://careers.jhuapl.edu/jobs/59691?lang=en-us) | Nov 25 |
+| ↳ | 2027 PhD Graduate - Cyber Researcher - Capabilities Development | Laurel, MD | Spring 2027 | PhD | [Apply](https://careers.jhuapl.edu/jobs/59919?lang=en-us) | Nov 25 |
+| ↳ | 2027 PhD Graduate - Formal Verification and Software Assurance Engineer | Laurel, MD | Spring 2027 | PhD | [Apply](https://careers.jhuapl.edu/jobs/59920?lang=en-us) | Nov 25 |
+| ↳ | 2027 PhD Graduate – Applied Algorithms Engineer | Huntsville, AL | Spring 2027 | PhD | [Apply](https://careers.jhuapl.edu/jobs/59887?lang=en-us) | Nov 25 |
+| ↳ | 2027 PhD Graduate – Applied Algorithms Engineer | Laurel, MD | Spring 2027 | PhD | [Apply](https://careers.jhuapl.edu/jobs/59902?lang=en-us) | Nov 25 |
 | JPMorgan Chase | Applied AI/ML Data Scientist - Data & Analytics - Associate | Jersey City, NJ |  | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773611?utm_source=aprameyak) | Nov 25 |
+| MITRE | Associate Data Engineer | McLean, VA |  | Undergrad | [Apply](https://mitre.wd5.myworkdayjobs.com/MITRE/job/McLean-VA/Associate-Data-Engineer_R118112-1/apply?utm_source=aprameyak) | Nov 25 |
+| NavAide | Junior Data Analyst | Remote (US) |  | Undergrad | [Apply](https://navaide.breezy.hr/p/d27f3578d26d-junior-data-analyst?utm_source=aprameyak) | Nov 25 |
+| Veeva Systems | Associate Software Engineer - 2027 Start Dates | Raleigh, NC |  | Undergrad | [Apply](https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f?utm_source=aprameyak) | Nov 25 |
 | Ande | Software Engineer, AI (Early Career) | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1/application?utm_source=aprameyak) | Nov 24 |
 | Astera Labs Early Career | Platform Solutions Engineer NCG (CE) | Cary, NC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731637005?utm_source=aprameyak) | Nov 24 |
 | ↳ | Platform Solutions Engineer NCG (EE) | Cary, NC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731598005?utm_source=aprameyak) | Nov 24 |

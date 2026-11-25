@@ -1,6 +1,6 @@
 # ☀️ Summer 2027 Internships
 
-4828 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4841 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
@@ -15,6 +15,19 @@
 | ↳ | Software Engineer Intern - Summer 2027 | Raleigh, NC | Undergrad | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414430?utm_source=aprameyak) | Nov 25 |
 | ↳ | Software Engineer Intern - Summer 2027 | Raleigh, NC | Undergrad | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414440?utm_source=aprameyak) | Nov 25 |
 | ↳ | Software Engineer Intern - Summer 2027 | Raleigh, NC | Undergrad | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414426?utm_source=aprameyak) | Nov 25 |
+| Circle Logistics | Summer Internship 2027 | Fort Wayne, IN | Undergrad | [Apply](https://jobs.smartrecruiters.com/CircleLogistics1/3743990017069146?utm_source=aprameyak) | Nov 25 |
+| HireVue | Integrations Consultant Intern \| Fully Remote USA | Remote (US) | Undergrad | [Apply](https://jobs.smartrecruiters.com/HireVue/744000163544902?utm_source=aprameyak) | Nov 25 |
+| Intuitive | Product Management MBA Intern | Sunnyvale, CA | Undergrad | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000163546809?utm_source=aprameyak) | Nov 25 |
+| Johns Hopkins Applied Physics Laboratory | 2027 Internship - Artificial Intelligence and Complex Systems | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/60935?lang=en-us) | Nov 25 |
+| ↳ | 2027 Internship - Cyber Security - Cyber Dominance | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/59772?lang=en-us) | Nov 25 |
+| ↳ | 2027 Internship - Artificial Intelligence - Information Fusion | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/60673?lang=en-us) | Nov 25 |
+| ↳ | 2027 Internship – Reverse Engineer – Systems Exploitation | Laurel, MD | Masters | [Apply](https://careers.jhuapl.edu/jobs/59798?lang=en-us) | Nov 25 |
+| ↳ | 2027 Internship – Reverse Engineer – Offensive Cyber Capabilities | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/59907?lang=en-us) | Nov 25 |
+| ↳ | 2027 Internship - Cyber Physical Systems | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/60339?lang=en-us) | Nov 25 |
+| ↳ | 2027 Internship – Wireless Communications Engineer – Wireless Cyber Capabilities | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/59865?lang=en-us) | Nov 25 |
+| ↳ | 2027 Internship - Advanced Networking Technologies | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/59777?lang=en-us) | Nov 25 |
+| ↳ | 2027 Internship - Sensor Systems/Data Analytics | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/59958?lang=en-us) | Nov 25 |
+| Nikkiso | Product Management Intern | Huntington Beach, CA | Undergrad | [Apply](https://careers-nikkiso.icims.com/jobs/4528/product-management-intern/job?utm_source=aprameyak) | Nov 25 |
 | SambaNova Systems | Runtime Engineer Intern | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004) | Nov 25 |
 | Shield AI | 2027 Summer Intern - Software Test Automation - 5796 | Dallas, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/2d4c1eef-2569-46e1-9924-23588d5c5e86/application?utm_source=aprameyak) | Nov 25 |
 | Super | Data Engineering Intern | Remote (Canada) | Undergrad | [Apply](https://jobs.ashbyhq.com/super.com/5251792e-093d-42c6-ae9e-08c656e90807/application?utm_source=aprameyak) | Nov 25 |
