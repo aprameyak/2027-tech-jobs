@@ -18806,9 +18806,10 @@
     "b": "s"
   },
   "staff security detection engineer ": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff security field engineer": {
@@ -31132,9 +31133,10 @@
     "b": "s"
   },
   "senior technical solutions manager, signals": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "software engineer, ads": {
@@ -50179,9 +50181,9 @@
     "b": "s"
   },
   "engineering manager, application security": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -64808,8 +64810,9 @@
   },
   "internship \u2013 data management": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "2027 operations development program intern (undergraduate)": {
