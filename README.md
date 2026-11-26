@@ -6,7 +6,7 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 - [☀️ Summer 2027 Internships](./SUMMER.md) (4868)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1223)
-- [🎓 New Grad 2027](./NEWGRAD.md) (1683)
+- [🎓 New Grad 2027](./NEWGRAD.md) (1684)
 
 ## Legend
 
@@ -190,7 +190,7 @@ Showing newest **75** of **1223** listings · [View full table](./OFFCYCLE.md)
 
 ## 🎓 New Grad 2027
 
-Showing newest **75** of **1683** listings · [View full table](./NEWGRAD.md)
+Showing newest **75** of **1684** listings · [View full table](./NEWGRAD.md)
 
 <!-- TABLE_START newgrad -->
 
@@ -198,6 +198,7 @@ Showing newest **75** of **1683** listings · [View full table](./NEWGRAD.md)
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | ManTech | Junior Data Analyst | Remote (US) |  | Undergrad | <a href="https://careers.mantech.com/en_US/careers/JobDetail/Junior-Data-Analyst/67285"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | Parallel Web Systems | Early Career Software Engineer, Developer Experience | San Francisco, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
+| SAS | Technical Support Engineer - Rotational Program (Emerging Career) | Cary, NC |  | Undergrad | <a href="https://careers-sas.icims.com/jobs/45908/technical-support-engineer---rotational-program-%28emerging-career%29/job?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | Scout AI | AI Engineer, AI/ML and Agent Harnessing (New Grad, 2027) | Sunnyvale, CA |  | Undergrad | <a href="https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | ↳ | Software Engineer, Core Systems (New Grad, 2027) | Sunnyvale, CA |  | Masters | <a href="https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | Vestwell | Associate, Software Engineer | <details><summary>**4 locations**</summary>New York, NY</br>Austin, TX</br>King of Prussia, PA</br>Scottsdale, AZ</details> |  | Undergrad | <a href="https://job-boards.greenhouse.io/vestwell/jobs/8209363003?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
@@ -270,7 +271,6 @@ Showing newest **75** of **1683** listings · [View full table](./NEWGRAD.md)
 | ↳ | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 | Arlington, VA |  | Undergrad | <a href="https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | ↳ | Engineer II, Software - Autonomous Pilot Integration - New Grad - 6127 | Arlington, VA |  | Undergrad | <a href="https://jobs.ashbyhq.com/shield/a97fe80e-3ff6-427c-8789-2a7480326bc3/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | ↳ | Engineer I, Software - New Grad - 6531 | Arlington, VA |  | Undergrad | <a href="https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
-| ViaSat | Systems Test Engineer, Early Career | Carlsbad, CA |  | Masters | <a href="https://careers.viasat.com/jobs/7099?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 <!-- TABLE_END newgrad -->
 
 ## License

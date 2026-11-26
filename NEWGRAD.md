@@ -1,6 +1,6 @@
 # 🎓 New Grad 2027
 
-1683 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1684 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
@@ -8,6 +8,7 @@
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
 | ManTech | Junior Data Analyst | Remote (US) |  | Undergrad | [Apply](https://careers.mantech.com/en_US/careers/JobDetail/Junior-Data-Analyst/67285) | Nov 26 |
 | Parallel Web Systems | Early Career Software Engineer, Developer Experience | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c/application?utm_source=aprameyak) | Nov 26 |
+| SAS | Technical Support Engineer - Rotational Program (Emerging Career) | Cary, NC |  | Undergrad | [Apply](https://careers-sas.icims.com/jobs/45908/technical-support-engineer---rotational-program-%28emerging-career%29/job?utm_source=aprameyak) | Nov 26 |
 | Scout AI | AI Engineer, AI/ML and Agent Harnessing (New Grad, 2027) | Sunnyvale, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?utm_source=aprameyak) | Nov 26 |
 | ↳ | Software Engineer, Core Systems (New Grad, 2027) | Sunnyvale, CA |  | Masters | [Apply](https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897/application?utm_source=aprameyak) | Nov 26 |
 | Vestwell | Associate, Software Engineer | <details><summary>**4 locations**</summary>New York, NY</br>Austin, TX</br>King of Prussia, PA</br>Scottsdale, AZ</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/vestwell/jobs/8209363003?utm_source=aprameyak) | Nov 26 |
