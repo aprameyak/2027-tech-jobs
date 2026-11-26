@@ -1,11 +1,13 @@
 # 🔄 Off-Cycle Internships & Co-ops
 
-1221 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1223 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Season / Term | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | ------------- | --------- | ---------------- | ----------- |
+| MDA | Junior Test Engineer - Digital (evening shift) | Sainte-Anne-de-Bellevue, QC | Co-op | Undergrad | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=cf598591-bacb-4360-b1ff-2cb5699e57c6&utm_source=aprameyak) | Nov 26 |
+| ↳ | Junior Test Engineer - Digital (evening shift) | Sainte-Anne-de-Bellevue, QC | Co-op | Undergrad | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=faaeb0c3-6bdd-4b14-8d01-bb0896eedfb3&utm_source=aprameyak) | Nov 26 |
 | Rubrik | Product Management Intern (MSP), Winter 2027 | Palo Alto, CA | Winter 2027 | Undergrad | [Apply](https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766) | Nov 25 |
 | Anduril | Winter 2027 Test & Evaluation Engineer Co-op | Costa Mesa, CA | Co-op | Undergrad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007&utm_source=aprameyak) | Nov 24 |
 | Astera Labs Early Career | Platform Applications Engineer Intern/Co-op (Tools Development Engineer – COSMOS Platform Software) | Vancouver, BC | Co-op | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005?utm_source=aprameyak) | Nov 24 |

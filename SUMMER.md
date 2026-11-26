@@ -1,11 +1,30 @@
 # ☀️ Summer 2027 Internships
 
-4849 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4868 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Best Egg | Software Engineering Summer Intern | Wilmington, DE | Undergrad | [Apply](https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392?utm_source=aprameyak) | Nov 26 |
+| Cantor Fitzgerald | BGC’s 2027 US Technology Summer Internship – Development | New York, NY | Undergrad | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250630?utm_source=aprameyak) | Nov 26 |
+| ↳ | BGC’s 2027 US Technology Summer Internship – Infrastructure | New York, NY | Undergrad | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250631?utm_source=aprameyak) | Nov 26 |
+| ↳ | Cantor 2027 Technology Infrastructure & Automation Internship | New York, NY | Undergrad | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250648?utm_source=aprameyak) | Nov 26 |
+| Coinbase | Security Engineer Intern | New York, NY | Undergrad | [Apply](https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869) | Nov 26 |
+| Dandy | Summer 2027 Internship - Software Engineering Intern | USA - New York NY | Undergrad | [Apply](https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application?utm_source=aprameyak) | Nov 26 |
+| IXL Learning | Software Engineer, Intern | San Mateo, CA | Undergrad | [Apply](https://www.ixl.com/company/jobs?gh_jid=8963039002) | Nov 26 |
+| ManTech | C++ Developer Intern | Remote (US) | Undergrad | [Apply](https://careers.mantech.com/en_US/careers/JobDetail/C-Developer-Intern/67268) | Nov 26 |
+| OpenSesame | Product Internship - Summer 2027 | Remote (US) | Undergrad | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418204?gh_jid=8418204&utm_source=aprameyak) | Nov 26 |
+| ↳ | Security and Compliance Internship - Summer 2027 | Remote (US) | Undergrad | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418229?gh_jid=8418229&utm_source=aprameyak) | Nov 26 |
+| ↳ | Software Engineering Internship - Summer 2027 | Remote (US) | Undergrad | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418272?gh_jid=8418272&utm_source=aprameyak) | Nov 26 |
+| QuEra Computing | Internship – Data Management | Boston, MA | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008?utm_source=aprameyak) | Nov 26 |
+| ↳ | Internship – Technical Product Management | Boston, MA | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008?utm_source=aprameyak) | Nov 26 |
+| SambaNova Systems | Cloud Platform Engineer Intern (San Jose) | San Jose, CA | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271352004) | Nov 26 |
+| ↳ | Machine Learning Engineer Intern | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004) | Nov 26 |
+| ↳ | ML Infrastructure Engineer Intern | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271289004) | Nov 26 |
+| Staples | Full Stack Software Engineer Intern | Austin, TX | Undergrad | [Apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145?utm_source=aprameyak) | Nov 26 |
+| Veeva Systems | Intern Software Engineer (Summer 2027) | Boston, MA | Undergrad | [Apply](https://jobs.lever.co/veeva/4738ae75-9f7b-4082-b129-69fb82f6d7b2?utm_source=aprameyak) | Nov 26 |
+| Waymo | 2027 Summer Intern, PhD, Driver Understanding and Evaluation, Large Model Evaluation | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8415223) | Nov 26 |
 | Amazon | Front-End Engineer Internship – 2027 (US) | Seattle, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us) | Nov 25 |
 | Apex | Software Engineer, Test Automation Internship (Summer 2027) | Los Angeles, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/2268adcb-a0f6-4e12-a206-8f99e048486d/application?utm_source=aprameyak) | Nov 25 |
 | ↳ | Flight Software Engineering Internship (Summer 2027) | Los Angeles, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3/application?utm_source=aprameyak) | Nov 25 |
