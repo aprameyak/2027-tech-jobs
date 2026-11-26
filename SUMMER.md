@@ -1,13 +1,34 @@
 # ☀️ Summer 2027 Internships
 
-4841 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4868 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Best Egg | Software Engineering Summer Intern | Wilmington, DE | Undergrad | [Apply](https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392?utm_source=aprameyak) | Nov 26 |
+| Cantor Fitzgerald | BGC’s 2027 US Technology Summer Internship – Development | New York, NY | Undergrad | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250630?utm_source=aprameyak) | Nov 26 |
+| ↳ | BGC’s 2027 US Technology Summer Internship – Infrastructure | New York, NY | Undergrad | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250631?utm_source=aprameyak) | Nov 26 |
+| ↳ | Cantor 2027 Technology Infrastructure & Automation Internship | New York, NY | Undergrad | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250648?utm_source=aprameyak) | Nov 26 |
+| Coinbase | Security Engineer Intern | New York, NY | Undergrad | [Apply](https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869) | Nov 26 |
+| Dandy | Summer 2027 Internship - Software Engineering Intern | USA - New York NY | Undergrad | [Apply](https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application?utm_source=aprameyak) | Nov 26 |
+| IXL Learning | Software Engineer, Intern | San Mateo, CA | Undergrad | [Apply](https://www.ixl.com/company/jobs?gh_jid=8963039002) | Nov 26 |
+| ManTech | C++ Developer Intern | Remote (US) | Undergrad | [Apply](https://careers.mantech.com/en_US/careers/JobDetail/C-Developer-Intern/67268) | Nov 26 |
+| OpenSesame | Product Internship - Summer 2027 | Remote (US) | Undergrad | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418204?gh_jid=8418204&utm_source=aprameyak) | Nov 26 |
+| ↳ | Security and Compliance Internship - Summer 2027 | Remote (US) | Undergrad | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418229?gh_jid=8418229&utm_source=aprameyak) | Nov 26 |
+| ↳ | Software Engineering Internship - Summer 2027 | Remote (US) | Undergrad | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418272?gh_jid=8418272&utm_source=aprameyak) | Nov 26 |
+| QuEra Computing | Internship – Data Management | Boston, MA | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008?utm_source=aprameyak) | Nov 26 |
+| ↳ | Internship – Technical Product Management | Boston, MA | Undergrad | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008?utm_source=aprameyak) | Nov 26 |
+| SambaNova Systems | Cloud Platform Engineer Intern (San Jose) | San Jose, CA | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271352004) | Nov 26 |
+| ↳ | Machine Learning Engineer Intern | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004) | Nov 26 |
+| ↳ | ML Infrastructure Engineer Intern | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271289004) | Nov 26 |
+| Staples | Full Stack Software Engineer Intern | Austin, TX | Undergrad | [Apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145?utm_source=aprameyak) | Nov 26 |
+| Veeva Systems | Intern Software Engineer (Summer 2027) | Boston, MA | Undergrad | [Apply](https://jobs.lever.co/veeva/4738ae75-9f7b-4082-b129-69fb82f6d7b2?utm_source=aprameyak) | Nov 26 |
+| Waymo | 2027 Summer Intern, PhD, Driver Understanding and Evaluation, Large Model Evaluation | Mountain View, CA | PhD | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8415223) | Nov 26 |
 | Amazon | Front-End Engineer Internship – 2027 (US) | Seattle, WA | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us) | Nov 25 |
 | Apex | Software Engineer, Test Automation Internship (Summer 2027) | Los Angeles, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/2268adcb-a0f6-4e12-a206-8f99e048486d/application?utm_source=aprameyak) | Nov 25 |
+| ↳ | Flight Software Engineering Internship (Summer 2027) | Los Angeles, CA | Undergrad | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3/application?utm_source=aprameyak) | Nov 25 |
+| ↳ | Software Engineering, Operating Systems Internship (Summer 2027) | Los Angeles, CA | Masters | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915/application?utm_source=aprameyak) | Nov 25 |
 | Bandwidth | Software Engineer Intern - Summer 2027 | Raleigh, NC | Undergrad | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414444?utm_source=aprameyak) | Nov 25 |
 | ↳ | Software Engineer Intern - Summer 2027 | Raleigh, NC | Undergrad | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414452?utm_source=aprameyak) | Nov 25 |
 | ↳ | Software Engineer Intern - Summer 2027 | Raleigh, NC | Undergrad | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414448?utm_source=aprameyak) | Nov 25 |
@@ -29,8 +50,14 @@
 | ↳ | 2027 Internship - Sensor Systems/Data Analytics | Laurel, MD | Undergrad | [Apply](https://careers.jhuapl.edu/jobs/59958?lang=en-us) | Nov 25 |
 | Nikkiso | Product Management Intern | Huntington Beach, CA | Undergrad | [Apply](https://careers-nikkiso.icims.com/jobs/4528/product-management-intern/job?utm_source=aprameyak) | Nov 25 |
 | SambaNova Systems | Runtime Engineer Intern | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004) | Nov 25 |
+| ↳ | AI Performance Engineer Intern | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271183004) | Nov 25 |
+| ↳ | Compiler Engineer Intern | <details><summary>**2 locations**</summary>Austin, TX</br>San Jose, CA</details> | Undergrad | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270729004) | Nov 25 |
 | Shield AI | 2027 Summer Intern - Software Test Automation - 5796 | Dallas, TX | Undergrad | [Apply](https://jobs.ashbyhq.com/shield/2d4c1eef-2569-46e1-9924-23588d5c5e86/application?utm_source=aprameyak) | Nov 25 |
 | Super | Data Engineering Intern | Remote (Canada) | Undergrad | [Apply](https://jobs.ashbyhq.com/super.com/5251792e-093d-42c6-ae9e-08c656e90807/application?utm_source=aprameyak) | Nov 25 |
+| Waters Corporation | Intern, IT Customer Platforms | Milford, MA | Undergrad | [Apply](https://uscareers-waters.icims.com/jobs/30368/2026-30368/job?utm_source=aprameyak) | Nov 25 |
+| ↳ | Intern, IT Digital | Remote (US) | Undergrad | [Apply](https://uscareers-waters.icims.com/jobs/30387/intern%2c-it-digital/job?utm_source=aprameyak) | Nov 25 |
+| ↳ | IT Intern - Software Development Platform Engineer | Milford, MA | Undergrad | [Apply](https://uscareers-waters.icims.com/jobs/30388/2026-30388/job?utm_source=aprameyak) | Nov 25 |
+| WSP | Geographic Information Systems Science Intern - Summer 2027 | Denver, CO | Masters | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829?utm_source=aprameyak) | Nov 25 |
 | Akuna Capital OCI | Quantitative Development & Strategy Intern, Summer 2027 \| Harvard | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066880?utm_source=aprameyak) | Nov 24 |
 | ↳ | Quantitative Development & Strategy Intern, Summer 2027 \| Massachusetts Institute of Technology | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066884?utm_source=aprameyak) | Nov 24 |
 | ↳ | Quantitative Research Intern, Summer 2027 \| Columbia University | Chicago, IL | Undergrad | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065680?utm_source=aprameyak) | Nov 24 |

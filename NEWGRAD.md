@@ -1,11 +1,17 @@
 # 🎓 New Grad 2027
 
-1676 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+1683 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START newgrad -->
 
 | Company | Role | Location | Grad Date | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | --------- | ---------------- | ----------- |
+| ManTech | Junior Data Analyst | Remote (US) |  | Undergrad | [Apply](https://careers.mantech.com/en_US/careers/JobDetail/Junior-Data-Analyst/67285) | Nov 26 |
+| Parallel Web Systems | Early Career Software Engineer, Developer Experience | San Francisco, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c/application?utm_source=aprameyak) | Nov 26 |
+| Scout AI | AI Engineer, AI/ML and Agent Harnessing (New Grad, 2027) | Sunnyvale, CA |  | Undergrad | [Apply](https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?utm_source=aprameyak) | Nov 26 |
+| ↳ | Software Engineer, Core Systems (New Grad, 2027) | Sunnyvale, CA |  | Masters | [Apply](https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897/application?utm_source=aprameyak) | Nov 26 |
+| Vestwell | Associate, Software Engineer | <details><summary>**4 locations**</summary>New York, NY</br>Austin, TX</br>King of Prussia, PA</br>Scottsdale, AZ</details> |  | Undergrad | [Apply](https://job-boards.greenhouse.io/vestwell/jobs/8209363003?utm_source=aprameyak) | Nov 26 |
+| XPENG Motors | Software Engineer - Computing Platform (New Graduate) | Santa Clara, CA |  | Undergrad | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002?utm_source=aprameyak) | Nov 26 |
 | AbbVie | Associate Data Scientist II – Early Discovery Science | North Chicago, IL |  | Undergrad | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017066596?utm_source=aprameyak) | Nov 25 |
 | Axtria | Campus 2027: Decision Intelligence (DI) Analyst | Remote (US) |  | Undergrad | [Apply](https://axtriainc.applytojob.com/apply/pw4tXgyRFb/Campus-2027-Decision-Intelligence-DI-Analyst?utm_source=aprameyak) | Nov 25 |
 | Beyond New Horizons | Entry-Level ID&C Software Engineer | Arnold AFB, TN |  | Undergrad | [Apply](https://careers-bnh.icims.com/jobs/26055/entry-level-id%26c-software-engineer/job?utm_source=aprameyak) | Nov 25 |
@@ -30,6 +36,7 @@
 | JPMorgan Chase | Applied AI/ML Data Scientist - Data & Analytics - Associate | Jersey City, NJ |  | Undergrad | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773611?utm_source=aprameyak) | Nov 25 |
 | MITRE | Associate Data Engineer | McLean, VA |  | Undergrad | [Apply](https://mitre.wd5.myworkdayjobs.com/MITRE/job/McLean-VA/Associate-Data-Engineer_R118112-1/apply?utm_source=aprameyak) | Nov 25 |
 | NavAide | Junior Data Analyst | Remote (US) |  | Undergrad | [Apply](https://navaide.breezy.hr/p/d27f3578d26d-junior-data-analyst?utm_source=aprameyak) | Nov 25 |
+| University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being | Remote (US) |  | Undergrad | [Apply](https://studentemployment-stthomas.icims.com/jobs/10464/graduate-assistant-for-data-analytics%2c-center-for-well-being/job?utm_source=aprameyak) | Nov 25 |
 | Veeva Systems | Associate Software Engineer - 2027 Start Dates | Raleigh, NC |  | Undergrad | [Apply](https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f?utm_source=aprameyak) | Nov 25 |
 | Ande | Software Engineer, AI (Early Career) | New York, NY |  | Undergrad | [Apply](https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1/application?utm_source=aprameyak) | Nov 24 |
 | Astera Labs Early Career | Platform Solutions Engineer NCG (CE) | Cary, NC |  | Undergrad | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731637005?utm_source=aprameyak) | Nov 24 |

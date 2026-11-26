@@ -7032,9 +7032,9 @@
     "b": "s"
   },
   "senior product security engineer ": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -10610,9 +10610,9 @@
     "b": "s"
   },
   "engineering manager, cybersecurity products": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -18806,9 +18806,10 @@
     "b": "s"
   },
   "staff security detection engineer ": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "staff security field engineer": {
@@ -31132,9 +31133,10 @@
     "b": "s"
   },
   "senior technical solutions manager, signals": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
     "b": "s"
   },
   "software engineer, ads": {
@@ -32369,7 +32371,7 @@
   },
   "ios engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -35063,9 +35065,9 @@
     "b": "s"
   },
   "designer, web presence & platform": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -36962,9 +36964,9 @@
     "b": "s"
   },
   "manager, technical support": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -42019,7 +42021,7 @@
   },
   "senior endpoint security engineer": {
     "t": true,
-    "c": "low",
+    "c": "stale",
     "v": "",
     "a": 0,
     "b": "s"
@@ -50179,9 +50181,9 @@
     "b": "s"
   },
   "engineering manager, application security": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -51737,8 +51739,9 @@
   },
   "bastrop campus planning manager": {
     "t": false,
-    "c": "stale",
-    "v": ""
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
   },
   "bastrop site expansion manager": {
     "t": false,
@@ -58663,9 +58666,9 @@
     "b": "s"
   },
   "technical site planning manager": {
-    "t": true,
-    "c": "stale",
-    "v": "",
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
     "a": 0,
     "b": "s"
   },
@@ -63767,8 +63770,9 @@
   },
   "quantitative developer intern": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "sales development representative - new grad": {
@@ -64806,8 +64810,9 @@
   },
   "internship \u2013 data management": {
     "t": true,
-    "c": "stale",
-    "v": "",
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 1,
     "b": "s"
   },
   "2027 operations development program intern (undergraduate)": {
@@ -154250,6 +154255,55 @@
   "technical lead software certification engineer - aviation": {
     "t": false,
     "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "intern, acquisitions": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0,
+    "b": "s"
+  },
+  "(data exploiter) cyber technical analyst principal (ts/sci with poly required)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "2027 natpack - nationals park (part-time, limited term)": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "junior test engineer - antenna": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "ing\u00e9nieur d\u2019essais - digital": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "junior test engineer - digital": {
+    "t": false,
+    "c": "medium",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "sr. systems engineer, space missions": {
+    "t": false,
+    "c": "high",
+    "v": "cs-is-v4",
+    "a": 0
+  },
+  "responsable de projets de s\u00e9curit\u00e9 en entreprise/corporate security project manager": {
+    "t": false,
+    "c": "high",
     "v": "cs-is-v4",
     "a": 0
   }
