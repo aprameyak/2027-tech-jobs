@@ -1,11 +1,13 @@
 # ☀️ Summer 2027 Internships
 
-4870 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
+4872 listing(s). Canonical data lives in [`listings.json`](./listings.json). Back to [`README`](./README.md).
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Amazon | Associate Delivery Consultant Intern – AIML, AWS Professional Services | Toronto, ON | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10601560/associate-delivery-consultant-intern-aiml-aws-professional-services) | Nov 28 |
+| ↳ | Stagiaire consultant associé en livraison – AIML, Associate Delivery Consultant Intern – AIML, AWS Professional Services | Montreal, QC | Undergrad | [Apply](https://www.amazon.jobs/en/jobs/10602927/stagiaire-consultant-associe-en-livraison-aiml-associate-delivery-consultant-intern-aiml-aws-professional-services) | Nov 28 |
 | Atoms | Software Engineering Intern - 2027 Summer Term | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8963704002?utm_source=aprameyak) | Nov 27 |
 | Atoms AI | Software Engineering Intern - 2027 Summer Term | San Francisco, CA | Undergrad | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8356100002?utm_source=aprameyak) | Nov 27 |
 | Best Egg | Software Engineering Summer Intern | Wilmington, DE | Undergrad | [Apply](https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392?utm_source=aprameyak) | Nov 26 |

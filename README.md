@@ -4,7 +4,7 @@ Tech internships, off-cycle roles, and new grad positions for 2027 in the US, Ca
 
 **Browse the searchable site:** [2027techjobs.aprameyakannan.com](https://2027techjobs.aprameyakannan.com/)
 
-- [☀️ Summer 2027 Internships](./SUMMER.md) (4870)
+- [☀️ Summer 2027 Internships](./SUMMER.md) (4872)
 - [🔄 Off-Cycle Internships & Co-ops](./OFFCYCLE.md) (1223)
 - [🎓 New Grad 2027](./NEWGRAD.md) (1684)
 
@@ -20,12 +20,14 @@ Found a role we're missing? [Open an issue](https://github.com/aprameyak/2027-te
 
 ## ☀️ Summer 2027 Internships
 
-Showing newest **75** of **4870** listings · [View full table](./SUMMER.md)
+Showing newest **75** of **4872** listings · [View full table](./SUMMER.md)
 
 <!-- TABLE_START summer -->
 
 | Company | Role | Location | Education | Application/Link | Date Added |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| Amazon | Associate Delivery Consultant Intern – AIML, AWS Professional Services | Toronto, ON | Undergrad | <a href="https://www.amazon.jobs/en/jobs/10601560/associate-delivery-consultant-intern-aiml-aws-professional-services"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
+| ↳ | Stagiaire consultant associé en livraison – AIML, Associate Delivery Consultant Intern – AIML, AWS Professional Services | Montreal, QC | Undergrad | <a href="https://www.amazon.jobs/en/jobs/10602927/stagiaire-consultant-associe-en-livraison-aiml-associate-delivery-consultant-intern-aiml-aws-professional-services"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | Atoms | Software Engineering Intern - 2027 Summer Term | San Francisco, CA | Undergrad | <a href="https://job-boards.greenhouse.io/cssmerge/jobs/8963704002?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | Atoms AI | Software Engineering Intern - 2027 Summer Term | San Francisco, CA | Undergrad | <a href="https://job-boards.greenhouse.io/atoms/jobs/8356100002?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | Best Egg | Software Engineering Summer Intern | Wilmington, DE | Undergrad | <a href="https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
@@ -99,8 +101,6 @@ Showing newest **75** of **4870** listings · [View full table](./SUMMER.md)
 | ↳ | MBA Technical Strategy and Operations Intern | San Francisco, CA | Undergrad | <a href="https://job-boards.greenhouse.io/atoms/jobs/8868464002?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Attain Partners | Summer 2027 Data Analytics Intern | McLean, VA | Undergrad | <a href="https://job-boards.greenhouse.io/attainpartners/jobs/5485427008?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Basis Research | Research Intern, Summer 2027 | New York, NY | Undergrad | <a href="https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c/application?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
-| Biohub 🛂 | AI Research Scientist Intern | <details><summary>**2 locations**</summary>New York, NY</br>Redwood City, CA</details> | Undergrad | <a href="https://job-boards.greenhouse.io/biohub/jobs/8400682?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
-| Brave | Systems Build Intern - Waterloo University | Remote (Canada) | Masters | <a href="https://job-boards.greenhouse.io/brave/jobs/8412598?utm_source=aprameyak"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 <!-- TABLE_END summer -->
 
 ## 🔄 Off-Cycle Internships & Co-ops
